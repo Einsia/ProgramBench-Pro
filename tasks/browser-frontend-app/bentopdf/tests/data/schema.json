@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:program-bench:episode-evaluation-v2:oracle",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "program",
+    "frontend"
+  ],
+  "properties": {
+    "program": {
+      "type": "object",
+      "additionalProperties": true
+    },
+    "frontend": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "before",
+          "after"
+        ],
+        "properties": {
+          "before": {
+            "type": "object",
+            "required": [
+              "id",
+              "episode",
+              "checkpoint",
+              "role",
+              "observation"
+            ]
+          },
+          "after": {
+            "type": "object",
+            "required": [
+              "id",
+              "episode",
+              "checkpoint",
+              "role",
+              "observation"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "task": "zim",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "Zim",
+    "version": "0.77.2",
+    "homepage": "https://zim-wiki.org/",
+    "repository": "https://github.com/zim-desktop-wiki/zim-desktop-wiki",
+    "license": "GPL-2.0-or-later"
+  },
+  "downloads": [
+    {
+      "file": "zim-0.77.2.tar.gz",
+      "url": "https://zim-wiki.org/downloads/zim-0.77.2.tar.gz",
+      "sha256": "5561bed05a5fe4208da2ef8d5f8747ebc49e8cb32b46df2559cc73fb11fa65eb"
+    }
+  ],
+  "bundled": [],
+  "modifications": "Upstream source files are unchanged. The local launcher disables arbitrary external applications in the product and installs a seccomp filter. Local notebook versioning uses a separate helper restricted to fixed Git subcommands and exchange paths; Git hooks, network protocols and further program execution are disabled.",
+  "configuration": "English baseline, supplied X11/D-Bus/AT-SPI session, all product state and configuration under DATA_DIR; the notebook is the folder PBP_NOTEBOOK (DATA_DIR/notebook when unset); foreground exec of the unmodified upstream zim.py (a GUI on the notebook without arguments, the upstream command line with arguments). The reference interpreter cannot execute programs; custom tools and external-application plugins cannot start commands. A separate validated helper preserves local notebook Git history without permitting external hooks or network access.",
+  "notes": {
+    "corresponding_source": {
+      "url": "https://zim-wiki.org/downloads/zim-0.77.2.tar.gz",
+      "repository": "https://github.com/zim-desktop-wiki/zim-desktop-wiki",
+      "tag": "0.77.2",
+      "commit": "51937eb4afce1047e445b605289810cc39fd176c",
+      "description": "The release archive contains the complete corresponding source."
+    }
+  }
+}

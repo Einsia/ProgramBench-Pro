@@ -1,0 +1,426 @@
+{
+  "controls": [
+    {
+      "aria": "Skip to content",
+      "bounds": [
+        16,
+        -80,
+        145,
+        39
+      ],
+      "offscreen": true,
+      "ref": "e854",
+      "role": null,
+      "tag": "button",
+      "text": "SKIP TO CONTENT",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        5,
+        0,
+        48,
+        48
+      ],
+      "ref": "e855",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Close menu",
+      "type": "button"
+    },
+    {
+      "aria": "Refresh",
+      "bounds": [
+        1072,
+        0,
+        48,
+        48
+      ],
+      "ref": "e856",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Refresh",
+      "type": "button"
+    },
+    {
+      "aria": "Now Playing",
+      "bounds": [
+        1120,
+        2,
+        44,
+        44
+      ],
+      "ref": "e857",
+      "role": null,
+      "tag": "button",
+      "text": "0",
+      "title": "Now Playing",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1164,
+        2,
+        44,
+        44
+      ],
+      "ref": "e858",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Activity",
+      "type": "button"
+    },
+    {
+      "aria": "Settings",
+      "bounds": [
+        1208,
+        0,
+        48,
+        48
+      ],
+      "ref": "e859",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Settings",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        0,
+        56,
+        240,
+        36
+      ],
+      "ref": "e860",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "Albums"
+    },
+    {
+      "bounds": [
+        0,
+        92,
+        240,
+        36
+      ],
+      "href": "/app/#/album/all",
+      "ref": "e861",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        0,
+        128,
+        240,
+        36
+      ],
+      "href": "/app/#/album/random",
+      "ref": "e862",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Random"
+    },
+    {
+      "bounds": [
+        0,
+        164,
+        240,
+        36
+      ],
+      "href": "/app/#/album/starred",
+      "ref": "e863",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Favourites"
+    },
+    {
+      "bounds": [
+        0,
+        200,
+        240,
+        36
+      ],
+      "href": "/app/#/album/topRated",
+      "ref": "e864",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Top Rated"
+    },
+    {
+      "bounds": [
+        0,
+        236,
+        240,
+        36
+      ],
+      "href": "/app/#/album/recentlyAdded",
+      "ref": "e865",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Recently Added"
+    },
+    {
+      "bounds": [
+        0,
+        272,
+        240,
+        36
+      ],
+      "href": "/app/#/album/recentlyPlayed",
+      "ref": "e866",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Recently Played"
+    },
+    {
+      "bounds": [
+        0,
+        308,
+        240,
+        36
+      ],
+      "href": "/app/#/album/mostPlayed",
+      "ref": "e867",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Most Played"
+    },
+    {
+      "bounds": [
+        0,
+        344,
+        240,
+        36
+      ],
+      "href": "/app/#/artist",
+      "ref": "e868",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Artists"
+    },
+    {
+      "bounds": [
+        0,
+        380,
+        240,
+        36
+      ],
+      "href": "/app/#/song",
+      "ref": "e869",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Songs"
+    },
+    {
+      "bounds": [
+        0,
+        416,
+        240,
+        36
+      ],
+      "href": "/app/#/radio",
+      "ref": "e870",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Radios"
+    },
+    {
+      "bounds": [
+        0,
+        452,
+        240,
+        36
+      ],
+      "href": "/app/#/share",
+      "ref": "e871",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Shares"
+    },
+    {
+      "bounds": [
+        0,
+        489,
+        240,
+        38
+      ],
+      "ref": "e872",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "Playlists"
+    },
+    {
+      "bounds": [
+        0,
+        527,
+        240,
+        36
+      ],
+      "href": "/app/#/playlist/0YDtzeRYa2swRquLDAGSlj/show",
+      "ref": "e873",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Favourites"
+    },
+    {
+      "bounds": [
+        245,
+        72,
+        221,
+        40
+      ],
+      "name": "name",
+      "placeholder": "Search",
+      "ref": "e874",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "aria": "Add filter",
+      "bounds": [
+        1093,
+        80,
+        115,
+        31
+      ],
+      "ref": "e875",
+      "role": null,
+      "tag": "button",
+      "text": "ADD FILTER",
+      "type": "button"
+    },
+    {
+      "aria": "more",
+      "bounds": [
+        1208,
+        72,
+        48,
+        48
+      ],
+      "ref": "e876",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        265,
+        156,
+        145,
+        145
+      ],
+      "href": "/app/#/album/0wtvziuSsVW0my60n6PD9D/show",
+      "ref": "e877",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "aria": "play",
+      "bounds": [
+        281,
+        254,
+        26,
+        26
+      ],
+      "ref": "e878",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        358,
+        254,
+        26,
+        26
+      ],
+      "ref": "e879",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "aria": "more",
+      "bounds": [
+        384,
+        254,
+        26,
+        26
+      ],
+      "ref": "e880",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        265,
+        301,
+        145,
+        21
+      ],
+      "href": "/app/#/album/0wtvziuSsVW0my60n6PD9D/show",
+      "ref": "e881",
+      "role": null,
+      "tag": "a",
+      "text": "Second Album"
+    },
+    {
+      "bounds": [
+        265,
+        322,
+        56,
+        14
+      ],
+      "href": "/app/#/artist/2w8Ikt7VvPP85g6C77CheR/show",
+      "ref": "e882",
+      "role": null,
+      "tag": "a",
+      "text": "Beta Band"
+    },
+    {
+      "bounds": [
+        1105,
+        367,
+        48,
+        30
+      ],
+      "ref": "e883",
+      "role": "button",
+      "tag": "div",
+      "text": "18"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "SKIP TO CONTENT\nNavidrome - Albums - Top Rated\n0\nAlbums\nAll\nRandom\nFavourites\nTop Rated\nRecently Added\nRecently Played\nMost Played\nArtists\nSongs\nRadios\nShares\nPlaylists\nFavourites\n​\n\n \nADD FILTER\n\nSecond Album\n\nBeta Band\n\nItems per page:\n\n18\n\n1-1 of 1",
+  "text_truncated": false,
+  "title": "Navidrome",
+  "url": "/app/#/album/topRated?sort=rating&order=DESC&filter={%22has_rating%22:true}",
+  "viewport": [
+    1280,
+    900
+  ]
+}

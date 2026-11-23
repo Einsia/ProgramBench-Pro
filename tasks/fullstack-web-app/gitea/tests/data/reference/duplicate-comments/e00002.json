@@ -1,0 +1,1287 @@
+{
+  "controls": [
+    {
+      "aria": "Dashboard",
+      "bounds": [
+        10,
+        7,
+        56,
+        36
+      ],
+      "href": "/",
+      "ref": "e1404",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        71,
+        7,
+        76,
+        36
+      ],
+      "href": "/issues",
+      "ref": "e1405",
+      "role": null,
+      "tag": "a",
+      "text": "Issues"
+    },
+    {
+      "bounds": [
+        152,
+        7,
+        135,
+        36
+      ],
+      "href": "/pulls",
+      "ref": "e1406",
+      "role": null,
+      "tag": "a",
+      "text": "Pull Requests"
+    },
+    {
+      "bounds": [
+        293,
+        7,
+        110,
+        36
+      ],
+      "href": "/milestones",
+      "ref": "e1407",
+      "role": null,
+      "tag": "a",
+      "text": "Milestones"
+    },
+    {
+      "bounds": [
+        408,
+        7,
+        85,
+        36
+      ],
+      "href": "/explore/repos",
+      "ref": "e1408",
+      "role": null,
+      "tag": "a",
+      "text": "Explore"
+    },
+    {
+      "aria": "Notifications",
+      "bounds": [
+        1094,
+        7,
+        42,
+        36
+      ],
+      "href": "/notifications",
+      "ref": "e1409",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Notifications"
+    },
+    {
+      "aria": "Create…",
+      "bounds": [
+        1141,
+        7,
+        60,
+        36
+      ],
+      "expanded": false,
+      "ref": "e1410",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Create…"
+    },
+    {
+      "aria": "Profile and Settings…",
+      "bounds": [
+        1207,
+        7,
+        64,
+        36
+      ],
+      "expanded": false,
+      "ref": "e1411",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Profile and Settings…"
+    },
+    {
+      "bounds": [
+        64,
+        69,
+        54,
+        20
+      ],
+      "href": "/alice",
+      "ref": "e1412",
+      "role": null,
+      "tag": "a",
+      "text": "alice"
+    },
+    {
+      "bounds": [
+        136,
+        69,
+        97,
+        20
+      ],
+      "href": "/alice/workbench",
+      "ref": "e1413",
+      "role": null,
+      "tag": "a",
+      "text": "workbench"
+    },
+    {
+      "aria": "RSS Feed",
+      "bounds": [
+        815,
+        62,
+        47,
+        33
+      ],
+      "href": "/alice/workbench.rss",
+      "ref": "e1414",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "RSS Feed"
+    },
+    {
+      "aria": "Unwatch",
+      "bounds": [
+        869,
+        62,
+        105,
+        33
+      ],
+      "ref": "e1415",
+      "role": null,
+      "tag": "button",
+      "text": "Unwatch"
+    },
+    {
+      "bounds": [
+        973,
+        62,
+        32,
+        33
+      ],
+      "href": "/alice/workbench/watchers",
+      "ref": "e1416",
+      "role": null,
+      "tag": "a",
+      "text": "1"
+    },
+    {
+      "aria": "Star",
+      "bounds": [
+        1012,
+        62,
+        82,
+        33
+      ],
+      "ref": "e1417",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        1093,
+        62,
+        32,
+        33
+      ],
+      "href": "/alice/workbench/stars",
+      "ref": "e1418",
+      "role": null,
+      "tag": "a",
+      "text": "0"
+    },
+    {
+      "bounds": [
+        1132,
+        62,
+        82,
+        33
+      ],
+      "ref": "e1419",
+      "role": null,
+      "tag": "a",
+      "text": "Fork"
+    },
+    {
+      "bounds": [
+        1213,
+        62,
+        32,
+        33
+      ],
+      "href": "/alice/workbench/forks",
+      "ref": "e1420",
+      "role": null,
+      "tag": "a",
+      "text": "0"
+    },
+    {
+      "bounds": [
+        32,
+        99,
+        79,
+        41
+      ],
+      "href": "/alice/workbench",
+      "ref": "e1421",
+      "role": null,
+      "tag": "a",
+      "text": "Code"
+    },
+    {
+      "bounds": [
+        111,
+        99,
+        126,
+        41
+      ],
+      "href": "/alice/workbench/issues",
+      "ref": "e1422",
+      "role": null,
+      "tag": "a",
+      "text": "Issues\n1"
+    },
+    {
+      "bounds": [
+        237,
+        99,
+        154,
+        41
+      ],
+      "href": "/alice/workbench/pulls",
+      "ref": "e1423",
+      "role": null,
+      "tag": "a",
+      "text": "Pull Requests"
+    },
+    {
+      "bounds": [
+        391,
+        99,
+        104,
+        41
+      ],
+      "href": "/alice/workbench/actions",
+      "ref": "e1424",
+      "role": null,
+      "tag": "a",
+      "text": "Actions"
+    },
+    {
+      "bounds": [
+        495,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/workbench/packages",
+      "ref": "e1425",
+      "role": null,
+      "tag": "a",
+      "text": "Packages"
+    },
+    {
+      "bounds": [
+        607,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/workbench/projects",
+      "ref": "e1426",
+      "role": null,
+      "tag": "a",
+      "text": "Projects"
+    },
+    {
+      "bounds": [
+        719,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/workbench/releases",
+      "ref": "e1427",
+      "role": null,
+      "tag": "a",
+      "text": "Releases"
+    },
+    {
+      "bounds": [
+        831,
+        99,
+        79,
+        41
+      ],
+      "href": "/alice/workbench/wiki",
+      "ref": "e1428",
+      "role": null,
+      "tag": "a",
+      "text": "Wiki"
+    },
+    {
+      "bounds": [
+        909,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/workbench/activity",
+      "ref": "e1429",
+      "role": null,
+      "tag": "a",
+      "text": "Activity"
+    },
+    {
+      "bounds": [
+        1136,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/workbench/settings",
+      "ref": "e1430",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        1058,
+        158,
+        72,
+        35
+      ],
+      "ref": "e1431",
+      "role": null,
+      "tag": "button",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        1137,
+        158,
+        111,
+        35
+      ],
+      "href": "/alice/workbench/issues/new",
+      "ref": "e1432",
+      "role": "button",
+      "tag": "a",
+      "text": "New Issue"
+    },
+    {
+      "bounds": [
+        234,
+        210,
+        42,
+        16
+      ],
+      "href": "/alice",
+      "ref": "e1433",
+      "role": null,
+      "tag": "a",
+      "text": "alice"
+    },
+    {
+      "bounds": [
+        36,
+        251,
+        40,
+        40
+      ],
+      "href": "/alice",
+      "ref": "e1434",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        103,
+        270,
+        42,
+        16
+      ],
+      "href": "/alice",
+      "ref": "e1435",
+      "role": null,
+      "tag": "a",
+      "text": "alice"
+    },
+    {
+      "bounds": [
+        237,
+        270,
+        25,
+        16
+      ],
+      "href": "/alice/workbench/issues/1#issue-1",
+      "ref": "e1436",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        853,
+        263,
+        30,
+        30
+      ],
+      "expanded": false,
+      "ref": "e1437",
+      "role": "menu",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "bounds": [
+        853,
+        263,
+        30,
+        30
+      ],
+      "ref": "e1438",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        887,
+        263,
+        30,
+        30
+      ],
+      "expanded": false,
+      "ref": "e1439",
+      "role": "menu",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "bounds": [
+        887,
+        263,
+        30,
+        30
+      ],
+      "ref": "e1440",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        36,
+        386,
+        40,
+        40
+      ],
+      "href": "/alice",
+      "ref": "e1441",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        103,
+        405,
+        42,
+        16
+      ],
+      "href": "/alice",
+      "ref": "e1442",
+      "role": null,
+      "tag": "a",
+      "text": "alice"
+    },
+    {
+      "bounds": [
+        237,
+        405,
+        25,
+        16
+      ],
+      "href": "/alice/workbench/issues/1#issuecomment-1",
+      "ref": "e1443",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        853,
+        398,
+        30,
+        30
+      ],
+      "expanded": false,
+      "ref": "e1444",
+      "role": "menu",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "bounds": [
+        853,
+        398,
+        30,
+        30
+      ],
+      "ref": "e1445",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        887,
+        398,
+        30,
+        30
+      ],
+      "expanded": false,
+      "ref": "e1446",
+      "role": "menu",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "bounds": [
+        887,
+        398,
+        30,
+        30
+      ],
+      "ref": "e1447",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        36,
+        521,
+        40,
+        40
+      ],
+      "href": "/alice",
+      "ref": "e1448",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        103,
+        540,
+        42,
+        16
+      ],
+      "href": "/alice",
+      "ref": "e1449",
+      "role": null,
+      "tag": "a",
+      "text": "alice"
+    },
+    {
+      "bounds": [
+        237,
+        540,
+        25,
+        16
+      ],
+      "href": "/alice/workbench/issues/1#issuecomment-2",
+      "ref": "e1450",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        853,
+        533,
+        30,
+        30
+      ],
+      "expanded": false,
+      "ref": "e1451",
+      "role": "menu",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "bounds": [
+        853,
+        533,
+        30,
+        30
+      ],
+      "ref": "e1452",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        887,
+        533,
+        30,
+        30
+      ],
+      "expanded": false,
+      "ref": "e1453",
+      "role": "menu",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "bounds": [
+        887,
+        533,
+        30,
+        30
+      ],
+      "ref": "e1454",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        36,
+        656,
+        40,
+        40
+      ],
+      "href": "/alice",
+      "ref": "e1455",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        103,
+        671,
+        68,
+        42
+      ],
+      "ref": "e1456",
+      "role": null,
+      "tag": "a",
+      "text": "Write"
+    },
+    {
+      "bounds": [
+        171,
+        671,
+        85,
+        41
+      ],
+      "ref": "e1457",
+      "role": null,
+      "tag": "a",
+      "text": "Preview"
+    },
+    {
+      "aria": "Add heading",
+      "bounds": [
+        103,
+        727,
+        26,
+        30
+      ],
+      "ref": "e1458",
+      "role": "button",
+      "tag": "md-header",
+      "text": "",
+      "title": "Add heading"
+    },
+    {
+      "aria": "Add bold text",
+      "bounds": [
+        129,
+        727,
+        26,
+        30
+      ],
+      "ref": "e1459",
+      "role": "button",
+      "tag": "md-bold",
+      "text": "",
+      "title": "Add bold text"
+    },
+    {
+      "aria": "Add italic text",
+      "bounds": [
+        155,
+        727,
+        26,
+        30
+      ],
+      "ref": "e1460",
+      "role": "button",
+      "tag": "md-italic",
+      "text": "",
+      "title": "Add italic text"
+    },
+    {
+      "aria": "Quote text",
+      "bounds": [
+        188,
+        727,
+        26,
+        30
+      ],
+      "ref": "e1461",
+      "role": "button",
+      "tag": "md-quote",
+      "text": "",
+      "title": "Quote text"
+    },
+    {
+      "aria": "Add code",
+      "bounds": [
+        214,
+        727,
+        26,
+        30
+      ],
+      "ref": "e1462",
+      "role": "button",
+      "tag": "md-code",
+      "text": "",
+      "title": "Add code"
+    },
+    {
+      "aria": "Add a link",
+      "bounds": [
+        240,
+        727,
+        26,
+        30
+      ],
+      "ref": "e1463",
+      "role": "button",
+      "tag": "md-link",
+      "text": "",
+      "title": "Add a link"
+    },
+    {
+      "aria": "Add a bullet list",
+      "bounds": [
+        273,
+        727,
+        26,
+        30
+      ],
+      "ref": "e1464",
+      "role": "button",
+      "tag": "md-unordered-list",
+      "text": "",
+      "title": "Add a bullet list"
+    },
+    {
+      "aria": "Add a numbered list",
+      "bounds": [
+        299,
+        727,
+        26,
+        30
+      ],
+      "ref": "e1465",
+      "role": "button",
+      "tag": "md-ordered-list",
+      "text": "",
+      "title": "Add a numbered list"
+    },
+    {
+      "aria": "Add a list of tasks",
+      "bounds": [
+        325,
+        727,
+        26,
+        30
+      ],
+      "ref": "e1466",
+      "role": "button",
+      "tag": "md-task-list",
+      "text": "",
+      "title": "Add a list of tasks"
+    },
+    {
+      "aria": "Mention a user or team",
+      "bounds": [
+        358,
+        727,
+        26,
+        30
+      ],
+      "ref": "e1467",
+      "role": "button",
+      "tag": "md-mention",
+      "text": "",
+      "title": "Mention a user or team"
+    },
+    {
+      "aria": "Reference an issue or pull request",
+      "bounds": [
+        384,
+        727,
+        26,
+        30
+      ],
+      "ref": "e1468",
+      "role": "button",
+      "tag": "md-ref",
+      "text": "",
+      "title": "Reference an issue or pull request"
+    },
+    {
+      "bounds": [
+        865,
+        729,
+        26,
+        26
+      ],
+      "ref": "e1469",
+      "role": "button",
+      "tag": "button",
+      "text": "",
+      "title": "Enable monospace font",
+      "type": "button"
+    },
+    {
+      "aria": "Use the legacy editor instead",
+      "bounds": [
+        891,
+        729,
+        26,
+        26
+      ],
+      "ref": "e1470",
+      "role": "button",
+      "tag": "button",
+      "text": "",
+      "title": "Use the legacy editor instead",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        103,
+        767,
+        814,
+        132
+      ],
+      "name": "content",
+      "placeholder": "Leave a comment",
+      "ref": "e1471",
+      "role": null,
+      "tag": "textarea",
+      "text": "",
+      "type": "textarea",
+      "value": ""
+    },
+    {
+      "bounds": [
+        363,
+        925,
+        294,
+        20
+      ],
+      "offscreen": true,
+      "ref": "e1472",
+      "role": null,
+      "tag": "button",
+      "text": "Drop files or click here to upload.",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        666,
+        971,
+        136,
+        38
+      ],
+      "name": "status",
+      "offscreen": true,
+      "ref": "e1473",
+      "role": null,
+      "tag": "button",
+      "text": "Close Issue"
+    },
+    {
+      "bounds": [
+        814,
+        971,
+        103,
+        38
+      ],
+      "offscreen": true,
+      "ref": "e1474",
+      "role": null,
+      "tag": "button",
+      "text": "Comment"
+    },
+    {
+      "bounds": [
+        963,
+        266,
+        255,
+        40
+      ],
+      "expanded": false,
+      "ref": "e1475",
+      "role": "combobox",
+      "tag": "div",
+      "text": "No Branch/Tag Specified"
+    },
+    {
+      "bounds": [
+        963,
+        330,
+        78,
+        16
+      ],
+      "expanded": false,
+      "ref": "e1476",
+      "role": "menu",
+      "tag": "div",
+      "text": "Labels"
+    },
+    {
+      "bounds": [
+        963,
+        409,
+        104,
+        16
+      ],
+      "expanded": false,
+      "ref": "e1477",
+      "role": "menu",
+      "tag": "div",
+      "text": "Milestone"
+    },
+    {
+      "bounds": [
+        963,
+        409,
+        104,
+        16
+      ],
+      "ref": "e1478",
+      "role": null,
+      "tag": "a",
+      "text": "Milestone"
+    },
+    {
+      "bounds": [
+        963,
+        488,
+        95,
+        16
+      ],
+      "expanded": false,
+      "ref": "e1479",
+      "role": "menu",
+      "tag": "div",
+      "text": "Projects"
+    },
+    {
+      "bounds": [
+        963,
+        488,
+        95,
+        16
+      ],
+      "ref": "e1480",
+      "role": null,
+      "tag": "a",
+      "text": "Projects"
+    },
+    {
+      "bounds": [
+        963,
+        567,
+        104,
+        16
+      ],
+      "expanded": false,
+      "ref": "e1481",
+      "role": "combobox",
+      "tag": "div",
+      "text": "Assignees"
+    },
+    {
+      "bounds": [
+        963,
+        567,
+        104,
+        16
+      ],
+      "ref": "e1482",
+      "role": null,
+      "tag": "a",
+      "text": "Assignees"
+    },
+    {
+      "aria": "alice",
+      "bounds": [
+        963,
+        677,
+        32,
+        32
+      ],
+      "href": "/alice",
+      "ref": "e1483",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "alice"
+    },
+    {
+      "bounds": [
+        963,
+        761,
+        270,
+        40
+      ],
+      "ref": "e1484",
+      "role": null,
+      "tag": "button",
+      "text": "Unsubscribe"
+    },
+    {
+      "aria": "Start Time Tracking",
+      "bounds": [
+        963,
+        849,
+        270,
+        40
+      ],
+      "ref": "e1485",
+      "role": null,
+      "tag": "button",
+      "text": "Start Timer",
+      "title": "Start Time Tracking"
+    },
+    {
+      "aria": "Manually Add Time",
+      "bounds": [
+        963,
+        896,
+        270,
+        40
+      ],
+      "ref": "e1486",
+      "role": null,
+      "tag": "button",
+      "text": "Add Time",
+      "title": "Manually Add Time"
+    },
+    {
+      "bounds": [
+        963,
+        1025,
+        230,
+        39
+      ],
+      "name": "deadlineDate",
+      "offscreen": true,
+      "placeholder": "yyyy-mm-dd",
+      "ref": "e1487",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "date",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1193,
+        1025,
+        40,
+        39
+      ],
+      "offscreen": true,
+      "ref": "e1488",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        965,
+        1140,
+        229,
+        36
+      ],
+      "expanded": false,
+      "offscreen": true,
+      "ref": "e1489",
+      "role": "combobox",
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1193,
+        1139,
+        40,
+        40
+      ],
+      "offscreen": true,
+      "ref": "e1490",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1201,
+        1193,
+        36,
+        31
+      ],
+      "offscreen": true,
+      "ref": "e1491",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        963,
+        1238,
+        270,
+        40
+      ],
+      "offscreen": true,
+      "ref": "e1492",
+      "role": null,
+      "tag": "button",
+      "text": "Pin"
+    },
+    {
+      "bounds": [
+        963,
+        1281,
+        270,
+        40
+      ],
+      "offscreen": true,
+      "ref": "e1493",
+      "role": null,
+      "tag": "button",
+      "text": "Lock conversation"
+    },
+    {
+      "bounds": [
+        963,
+        1325,
+        270,
+        40
+      ],
+      "offscreen": true,
+      "ref": "e1494",
+      "role": null,
+      "tag": "button",
+      "text": "Delete"
+    },
+    {
+      "bounds": [
+        20,
+        1469,
+        134,
+        20
+      ],
+      "href": "[external]",
+      "offscreen": true,
+      "ref": "e1495",
+      "role": null,
+      "tag": "a",
+      "text": "Powered by Gitea"
+    },
+    {
+      "bounds": [
+        1063,
+        1471,
+        76,
+        16
+      ],
+      "expanded": false,
+      "offscreen": true,
+      "ref": "e1496",
+      "role": "menu",
+      "tag": "div",
+      "text": "English"
+    },
+    {
+      "bounds": [
+        1145,
+        1469,
+        76,
+        20
+      ],
+      "href": "/assets/licenses.txt",
+      "offscreen": true,
+      "ref": "e1497",
+      "role": null,
+      "tag": "a",
+      "text": "Licenses"
+    },
+    {
+      "bounds": [
+        1226,
+        1469,
+        34,
+        20
+      ],
+      "href": "/api/swagger",
+      "offscreen": true,
+      "ref": "e1498",
+      "role": null,
+      "tag": "a",
+      "text": "API"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    1497
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Issues\nPull Requests\nMilestones\nExplore\n \nalice\n/\nworkbench\nUnwatch\n1\nStar\n0\nFork\n0\nCode\nIssues\n1\nPull Requests\nActions\nPackages\nProjects\nReleases\nWiki\nActivity\nSettings\nRepeated comments #1\nEdit\nNew Issue\nOpen\nopened  by alice · 2 comments\nalice commented \nOwner\n\nRepeated body Ω\n\nalice commented \nAuthor\nOwner\n\nRepeated body Ω\n\nalice commented \nAuthor\nOwner\n\nRepeated body Ω\n\nWrite\nPreview\nDrop files or click here to upload.\nClose Issue Comment\nNo Branch/Tag Specified\nLabels \nNo Label\nMilestone \nNo Milestone\nProjects \nNo project\nAssignees \nNo Assignees\n1 Participants\nNotifications\nUnsubscribe\nTime Tracker\nStart Timer \nAdd Time\nDue Date\n\nNo due date set.\n\nDependencies\n\n\nNo dependencies set.\n\nAdd dependency…\nReference: alice/workbench#1\nPin\nLock conversation \nDelete\nPowered by Gitea\nPage:\n54ms\nTemplate:\n10ms\nEnglish\nLicenses\nAPI",
+  "text_truncated": false,
+  "title": "#1 - Repeated comments - workbench - Gitea",
+  "url": "/alice/workbench/issues/1#issuecomment-2",
+  "viewport": [
+    1280,
+    900
+  ]
+}

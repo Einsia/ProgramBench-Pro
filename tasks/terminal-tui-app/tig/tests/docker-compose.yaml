@@ -1,0 +1,16 @@
+services:
+  main:
+    network_mode: none
+    cap_drop: [ALL]
+    cap_add: [CHOWN, FOWNER, DAC_OVERRIDE, SETUID, SETGID, KILL]
+    security_opt: [no-new-privileges:true]
+    pids_limit: 1024
+    shm_size: 64m
+    volumes:
+      - "${TIG_VERIFIER_STATE:-candidate-state}:/app/candidate-state"
+      - "${TIG_VERIFIER_TMP:-verifier-tmp}:/tmp"
+      - "${TIG_MODEL_RPC_STORAGE:-model-rpc}:/model"
+volumes:
+  candidate-state:
+  verifier-tmp:
+  model-rpc:

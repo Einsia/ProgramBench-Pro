@@ -1,0 +1,346 @@
+{
+  "controls": [
+    {
+      "aria": "Dashboard",
+      "bounds": [
+        10,
+        7,
+        56,
+        36
+      ],
+      "href": "/",
+      "ref": "e373",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        71,
+        7,
+        76,
+        36
+      ],
+      "href": "/issues",
+      "ref": "e374",
+      "role": null,
+      "tag": "a",
+      "text": "Issues"
+    },
+    {
+      "bounds": [
+        152,
+        7,
+        135,
+        36
+      ],
+      "href": "/pulls",
+      "ref": "e375",
+      "role": null,
+      "tag": "a",
+      "text": "Pull Requests"
+    },
+    {
+      "bounds": [
+        293,
+        7,
+        110,
+        36
+      ],
+      "href": "/milestones",
+      "ref": "e376",
+      "role": null,
+      "tag": "a",
+      "text": "Milestones"
+    },
+    {
+      "bounds": [
+        408,
+        7,
+        85,
+        36
+      ],
+      "href": "/explore/repos",
+      "ref": "e377",
+      "role": null,
+      "tag": "a",
+      "text": "Explore"
+    },
+    {
+      "aria": "Notifications",
+      "bounds": [
+        1094,
+        7,
+        42,
+        36
+      ],
+      "href": "/notifications",
+      "ref": "e378",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Notifications"
+    },
+    {
+      "aria": "Create…",
+      "bounds": [
+        1141,
+        7,
+        60,
+        36
+      ],
+      "expanded": false,
+      "ref": "e379",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Create…"
+    },
+    {
+      "aria": "Profile and Settings…",
+      "bounds": [
+        1207,
+        7,
+        64,
+        36
+      ],
+      "expanded": false,
+      "ref": "e380",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Profile and Settings…"
+    },
+    {
+      "bounds": [
+        147,
+        100,
+        175,
+        26
+      ],
+      "href": "/alice",
+      "ref": "e381",
+      "role": null,
+      "tag": "a",
+      "text": "Alice Example"
+    },
+    {
+      "bounds": [
+        32,
+        163,
+        146,
+        41
+      ],
+      "href": "/alice?tab=repositories",
+      "ref": "e382",
+      "role": null,
+      "tag": "a",
+      "text": "Repositories"
+    },
+    {
+      "bounds": [
+        178,
+        163,
+        112,
+        41
+      ],
+      "href": "/alice/-/projects",
+      "ref": "e383",
+      "role": null,
+      "tag": "a",
+      "text": "Projects"
+    },
+    {
+      "bounds": [
+        290,
+        163,
+        112,
+        41
+      ],
+      "href": "/alice/-/packages",
+      "ref": "e384",
+      "role": null,
+      "tag": "a",
+      "text": "Packages"
+    },
+    {
+      "bounds": [
+        402,
+        163,
+        171,
+        41
+      ],
+      "href": "/alice?tab=activity",
+      "ref": "e385",
+      "role": null,
+      "tag": "a",
+      "text": "Public Activity"
+    },
+    {
+      "bounds": [
+        573,
+        163,
+        213,
+        41
+      ],
+      "href": "/alice?tab=stars",
+      "ref": "e386",
+      "role": null,
+      "tag": "a",
+      "text": "Starred Repositories"
+    },
+    {
+      "bounds": [
+        175,
+        270,
+        42,
+        16
+      ],
+      "href": "/alice",
+      "ref": "e387",
+      "role": null,
+      "tag": "a",
+      "text": "alice"
+    },
+    {
+      "bounds": [
+        405,
+        634,
+        133,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e388",
+      "role": null,
+      "tag": "a",
+      "text": "the documentation"
+    },
+    {
+      "bounds": [
+        963,
+        628,
+        143,
+        16
+      ],
+      "href": "/alice/-/packages/npm/pbp-npm/1.0.0/files/7",
+      "ref": "e389",
+      "role": null,
+      "tag": "a",
+      "text": "pbp-npm-1.0.0.tgz"
+    },
+    {
+      "bounds": [
+        1166,
+        672,
+        67,
+        20
+      ],
+      "href": "/alice/-/packages/npm/pbp-npm/versions",
+      "ref": "e390",
+      "role": null,
+      "tag": "a",
+      "text": "View all"
+    },
+    {
+      "bounds": [
+        963,
+        706,
+        201,
+        20
+      ],
+      "href": "/alice/-/packages/npm/pbp-npm/1.0.0",
+      "ref": "e391",
+      "role": null,
+      "tag": "a",
+      "text": "1.0.0",
+      "title": "1.0.0"
+    },
+    {
+      "bounds": [
+        994,
+        757,
+        67,
+        16
+      ],
+      "href": "/alice/-/packages/npm/pbp-npm/1.0.0/settings",
+      "ref": "e392",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        20,
+        1152,
+        134,
+        20
+      ],
+      "href": "[external]",
+      "offscreen": true,
+      "ref": "e393",
+      "role": null,
+      "tag": "a",
+      "text": "Powered by Gitea"
+    },
+    {
+      "bounds": [
+        1063,
+        1154,
+        76,
+        16
+      ],
+      "expanded": false,
+      "offscreen": true,
+      "ref": "e394",
+      "role": "menu",
+      "tag": "div",
+      "text": "English"
+    },
+    {
+      "bounds": [
+        1145,
+        1152,
+        76,
+        20
+      ],
+      "href": "/assets/licenses.txt",
+      "offscreen": true,
+      "ref": "e395",
+      "role": null,
+      "tag": "a",
+      "text": "Licenses"
+    },
+    {
+      "bounds": [
+        1226,
+        1152,
+        34,
+        20
+      ],
+      "href": "/api/swagger",
+      "offscreen": true,
+      "ref": "e396",
+      "role": null,
+      "tag": "a",
+      "text": "API"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    1180
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Issues\nPull Requests\nMilestones\nExplore\n \nAlice Example\nRepositories\nProjects\nPackages\nPublic Activity\nStarred Repositories\npbp-npm (1.0.0)\nPublished  by alice\nInstallation\n Setup this registry in your project .npmrc file:\nregistry=http://127.0.0.1:3000/api/packages/alice/npm/\n To install the package using npm, run the following command:\nnpm install pbp-npm@1.0.0\n or add it to the package.json file:\n\"pbp-npm\": \"1.0.0\"\nFor more information on the npm registry, see the documentation.\nAbout this package\nLocal npm package\nDependencies\n\nDependencies\n\nID\tVersion\nexample-dependency\t^1.0.0\nKeywords\nlocal test\nDetails\n npm\n \n 0\n Alice Example\n MIT\n latest\n 198 B\nAssets (1)\npbp-npm-1.0.0.tgz 198 B\nVersions (1)\nView all\n1.0.0\n Settings\nPowered by Gitea\nPage:\n4ms\nTemplate:\n1ms\nEnglish\nLicenses\nAPI",
+  "text_truncated": false,
+  "title": "pbp-npm - Gitea",
+  "url": "/alice/-/packages/npm/pbp-npm/1.0.0",
+  "viewport": [
+    1280,
+    900
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        260,
+        8,
+        48,
+        48
+      ],
+      "ref": "e3565697427",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        308,
+        8,
+        956,
+        48
+      ],
+      "expanded": false,
+      "ref": "e3932625320",
+      "role": "combobox",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "bounds": [
+        348,
+        16,
+        900,
+        32
+      ],
+      "placeholder": "Search",
+      "ref": "e3492990951",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        8,
+        73,
+        240,
+        40
+      ],
+      "href": "/dashboard",
+      "ref": "e4053023811",
+      "role": null,
+      "tag": "a",
+      "text": "Home"
+    },
+    {
+      "bounds": [
+        8,
+        117,
+        240,
+        40
+      ],
+      "href": "/libraries/all",
+      "ref": "e2922887771",
+      "role": null,
+      "tag": "a",
+      "text": "Libraries"
+    },
+    {
+      "bounds": [
+        168,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3616030284",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        204,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3666363141",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        161,
+        240,
+        40
+      ],
+      "href": "/libraries/0S3GH94HAZJK4",
+      "ref": "e1310144666",
+      "role": null,
+      "tag": "a",
+      "text": "Comics"
+    },
+    {
+      "bounds": [
+        204,
+        163,
+        36,
+        36
+      ],
+      "ref": "e3699918379",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        205,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e1184854462",
+      "role": "button",
+      "tag": "div",
+      "text": "Import"
+    },
+    {
+      "bounds": [
+        8,
+        245,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e2070932497",
+      "role": "button",
+      "tag": "div",
+      "text": "Media"
+    },
+    {
+      "bounds": [
+        8,
+        285,
+        240,
+        40
+      ],
+      "href": "/history",
+      "ref": "e3700334507",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        8,
+        329,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e3104230938",
+      "role": "button",
+      "tag": "div",
+      "text": "Server"
+    },
+    {
+      "bounds": [
+        8,
+        369,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e1456337507",
+      "role": "button",
+      "tag": "div",
+      "text": "My Account"
+    },
+    {
+      "bounds": [
+        8,
+        453,
+        240,
+        40
+      ],
+      "href": "/next",
+      "ref": "e108006909",
+      "role": null,
+      "tag": "a",
+      "text": "Try the new UI"
+    },
+    {
+      "bounds": [
+        72,
+        530,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e3679130362",
+      "role": "button",
+      "tag": "div",
+      "text": "Theme\nSystem"
+    },
+    {
+      "bounds": [
+        129,
+        530,
+        83,
+        26
+      ],
+      "label": "Theme",
+      "ref": "e2293683443",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        72,
+        594,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e918547495",
+      "role": "button",
+      "tag": "div",
+      "text": "Translation\nEnglish"
+    },
+    {
+      "bounds": [
+        128,
+        594,
+        84,
+        26
+      ],
+      "label": "Translation",
+      "ref": "e965999643",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        260,
+        72,
+        48,
+        48
+      ],
+      "href": "/series/0S3GH94PTZY82",
+      "ref": "e588597506",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        308,
+        72,
+        48,
+        48
+      ],
+      "ref": "e1098337195",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        356,
+        72,
+        48,
+        48
+      ],
+      "ref": "e1081559576",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1132,
+        72,
+        48,
+        48
+      ],
+      "href": "/book/0S3GH94PTZY83",
+      "ref": "e511891807",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1180,
+        72,
+        48,
+        48
+      ],
+      "ref": "e1115114814",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1228,
+        72,
+        48,
+        48
+      ],
+      "href": "/book/0",
+      "ref": "e2347164381",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        528,
+        158,
+        113,
+        28
+      ],
+      "href": "/series/0S3GH94PTZY82",
+      "ref": "e3463576094",
+      "role": null,
+      "tag": "a",
+      "text": "Evergreen"
+    },
+    {
+      "bounds": [
+        645,
+        169,
+        58,
+        14
+      ],
+      "href": "/libraries/0S3GH94HAZJK4/series",
+      "ref": "e4215493610",
+      "role": null,
+      "tag": "a",
+      "text": "in Comics"
+    },
+    {
+      "bounds": [
+        528,
+        288,
+        82,
+        28
+      ],
+      "href": "/book/0S3GH94PTZY85/read",
+      "ref": "e2276875733",
+      "role": null,
+      "tag": "a",
+      "text": "READ",
+      "title": "Read book"
+    },
+    {
+      "bounds": [
+        634,
+        288,
+        82,
+        28
+      ],
+      "href": "/book/0S3GH94PTZY85/read?incognito=true",
+      "ref": "e1490491808",
+      "role": null,
+      "tag": "a",
+      "text": "READ",
+      "title": "Read incognito"
+    },
+    {
+      "bounds": [
+        740,
+        288,
+        124,
+        28
+      ],
+      "href": "/api/v1/books/0S3GH94PTZY85/file",
+      "ref": "e3875449515",
+      "role": null,
+      "tag": "a",
+      "text": "DOWNLOAD",
+      "title": "Download file"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Komga\nHome\nLibraries\nComics\nImport\nMedia\nHistory\nServer\nMy Account\nLog Out\nTry the new UI\nTheme\nSystem\nTranslation\nEnglish\nEvergreen in Comics\nVector\n3 · 2 pages\nREAD\nREAD\nDOWNLOAD\nSIZE\n1.1 KiB\nFORMAT\nPDF\nFILE\n/exchange/inbox/Comics/Documents/Vector.pdf\nCREATED\nNovember 1, 2026 at 10:33 AM\nLAST MODIFIED\nNovember 1, 2026 at 10:33 AM",
+  "text_truncated": false,
+  "title": "Komga - Evergreen - 3 - Vector",
+  "url": "/book/0S3GH94PTZY85",
+  "viewport": [
+    1280,
+    900
+  ]
+}

@@ -1,0 +1,24 @@
+Grocy 4.7.1
+Copyright (c) 2017-2026 Bernd Bestel.
+Source: https://github.com/grocy/grocy/tree/v4.7.1
+License: MIT; the complete upstream copyright and license are in LICENSE.
+
+The official release archive is unmodified and retains third-party notices in
+packages/ and public/packages/. The local shell/Python launchers and router
+configure SQLite and storage under DATA_DIR, choose the upstream offline demo
+barcode lookup, initialize the application through its normal entrypoint, and
+start PHP's web server. Printer features remain disabled.
+
+The bundled PHP CLI 8.5.12 was built from the unmodified official source:
+https://www.php.net/distributions/php-8.5.12.tar.xz
+It is distributed under PHP-3.01 with Ubuntu 24.04 shared libraries. The runtime
+retains its notices in php/share/licenses; copies are available in LICENSES/.
+SOURCE.json records the PHP configure options and source input. Ubuntu library
+source packages are available at https://archive.ubuntu.com/ubuntu/; retrieve
+the matching source package with apt-get source on Ubuntu 24.04.
+
+The environment also builds libfaketime 0.9.12, separately preloaded to provide
+the application clock. It is GPL-2.0-only; the full text is LICENSES/libfaketime.txt.
+Unmodified corresponding source and build files:
+https://github.com/wolfcw/libfaketime/archive/refs/tags/v0.9.12.tar.gz
+The environment Dockerfile fixes that source checksum and builds its library.

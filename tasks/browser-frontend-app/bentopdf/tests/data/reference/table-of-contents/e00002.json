@@ -1,0 +1,276 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        104,
+        135,
+        24
+      ],
+      "ref": "e3005f4e3",
+      "tag": "button",
+      "text": "Back to Tools"
+    },
+    {
+      "bounds": [
+        49,
+        153,
+        62,
+        18
+      ],
+      "ref": "e307a47db",
+      "tag": "a",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        276,
+        1182,
+        192
+      ],
+      "ref": "e899963c5",
+      "tag": "div",
+      "text": "Click to select a file or drag and drop A single PDF file Your files never leave your device."
+    },
+    {
+      "bounds": [
+        49,
+        520,
+        1182,
+        42
+      ],
+      "label": "TOC Title",
+      "placeholder": "Table of Contents",
+      "ref": "e7b4899ac",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        49,
+        606,
+        1182,
+        41
+      ],
+      "label": "Font Size",
+      "options": [
+        {
+          "label": "10pt",
+          "selected": false,
+          "value": "10"
+        },
+        {
+          "label": "11pt",
+          "selected": false,
+          "value": "11"
+        },
+        {
+          "label": "12pt",
+          "selected": true,
+          "value": "12"
+        },
+        {
+          "label": "14pt",
+          "selected": false,
+          "value": "14"
+        },
+        {
+          "label": "16pt",
+          "selected": false,
+          "value": "16"
+        },
+        {
+          "label": "18pt",
+          "selected": false,
+          "value": "18"
+        },
+        {
+          "label": "20pt",
+          "selected": false,
+          "value": "20"
+        },
+        {
+          "label": "22pt",
+          "selected": false,
+          "value": "22"
+        },
+        {
+          "label": "24pt",
+          "selected": false,
+          "value": "24"
+        },
+        {
+          "label": "26pt",
+          "selected": false,
+          "value": "26"
+        },
+        {
+          "label": "30pt",
+          "selected": false,
+          "value": "30"
+        },
+        {
+          "label": "36pt",
+          "selected": false,
+          "value": "36"
+        },
+        {
+          "label": "42pt",
+          "selected": false,
+          "value": "42"
+        },
+        {
+          "label": "48pt",
+          "selected": false,
+          "value": "48"
+        },
+        {
+          "label": "60pt",
+          "selected": false,
+          "value": "60"
+        },
+        {
+          "label": "72pt",
+          "selected": false,
+          "value": "72"
+        }
+      ],
+      "ref": "ea6117766",
+      "tag": "select",
+      "value": "12"
+    },
+    {
+      "bounds": [
+        49,
+        691,
+        1182,
+        41
+      ],
+      "label": "Font Family",
+      "options": [
+        {
+          "label": "Times Roman",
+          "selected": false,
+          "value": "0"
+        },
+        {
+          "label": "Times Bold",
+          "selected": false,
+          "value": "1"
+        },
+        {
+          "label": "Times Italic",
+          "selected": false,
+          "value": "2"
+        },
+        {
+          "label": "Times Bold Italic",
+          "selected": false,
+          "value": "3"
+        },
+        {
+          "label": "Helvetica",
+          "selected": true,
+          "value": "4"
+        },
+        {
+          "label": "Helvetica Bold",
+          "selected": false,
+          "value": "5"
+        },
+        {
+          "label": "Helvetica Oblique",
+          "selected": false,
+          "value": "6"
+        },
+        {
+          "label": "Helvetica Bold Oblique",
+          "selected": false,
+          "value": "7"
+        },
+        {
+          "label": "Courier",
+          "selected": false,
+          "value": "8"
+        },
+        {
+          "label": "Courier Bold",
+          "selected": false,
+          "value": "9"
+        },
+        {
+          "label": "Courier Oblique",
+          "selected": false,
+          "value": "10"
+        },
+        {
+          "label": "Courier Bold Oblique",
+          "selected": false,
+          "value": "11"
+        }
+      ],
+      "ref": "eb4602d3d",
+      "tag": "select",
+      "value": "4"
+    },
+    {
+      "bounds": [
+        49,
+        750,
+        16,
+        16
+      ],
+      "checked": true,
+      "label": "Add bookmark for TOC page",
+      "ref": "efb2c8607",
+      "tag": "input",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        49,
+        792,
+        1182,
+        48
+      ],
+      "disabled": true,
+      "ref": "e48e964cc",
+      "tag": "button",
+      "text": "Generate Table of Contents"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "bookmarks.pdf",
+      "ref": "dd23d0d7ca447",
+      "size": 7107
+    }
+  ],
+  "inputs": [
+    "bookmarks.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›Table of Contents\nTable of Contents\n\nGenerate a table of contents page from PDF bookmarks.\n\nClick to select a file or drag and drop\n\nA single PDF file\n\nYour files never leave your device.\n\nTOC Title\nFont Size\n10pt\n11pt\n12pt\n14pt\n16pt\n18pt\n20pt\n22pt\n24pt\n26pt\n30pt\n36pt\n42pt\n48pt\n60pt\n72pt\nFont Family\nTimes Roman\nTimes Bold\nTimes Italic\nTimes Bold Italic\nHelvetica\nHelvetica Bold\nHelvetica Oblique\nHelvetica Bold Oblique\nCourier\nCourier Bold\nCourier Oblique\nCourier Bold Oblique\nAdd bookmark for TOC page\nGenerate Table of Contents\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/table-of-contents.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

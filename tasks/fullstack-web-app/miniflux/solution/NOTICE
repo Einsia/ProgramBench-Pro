@@ -1,0 +1,13 @@
+Miniflux 2.3.4
+
+Includes the unmodified official Linux amd64 executable from:
+https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-linux-amd64
+
+The product is licensed under Apache-2.0; the full license is in LICENSE.
+Upstream repository: https://github.com/miniflux/v2
+Source for this version: https://github.com/miniflux/v2/archive/refs/tags/2.3.4.tar.gz
+
+start.sh and launch.py configure a private PostgreSQL 16 cluster under DATA_DIR,
+create the three initial accounts through the product API, and start Miniflux.
+The executable is not modified. PostgreSQL is supplied by the Ubuntu 24.04
+postgresql-16 package; its license is retained by that package.

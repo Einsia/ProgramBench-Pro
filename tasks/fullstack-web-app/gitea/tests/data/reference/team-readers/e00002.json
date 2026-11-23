@@ -1,0 +1,375 @@
+{
+  "controls": [
+    {
+      "aria": "Dashboard",
+      "bounds": [
+        10,
+        7,
+        56,
+        36
+      ],
+      "href": "/",
+      "ref": "e892",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        71,
+        7,
+        76,
+        36
+      ],
+      "href": "/issues",
+      "ref": "e893",
+      "role": null,
+      "tag": "a",
+      "text": "Issues"
+    },
+    {
+      "bounds": [
+        152,
+        7,
+        135,
+        36
+      ],
+      "href": "/pulls",
+      "ref": "e894",
+      "role": null,
+      "tag": "a",
+      "text": "Pull Requests"
+    },
+    {
+      "bounds": [
+        293,
+        7,
+        110,
+        36
+      ],
+      "href": "/milestones",
+      "ref": "e895",
+      "role": null,
+      "tag": "a",
+      "text": "Milestones"
+    },
+    {
+      "bounds": [
+        408,
+        7,
+        85,
+        36
+      ],
+      "href": "/explore/repos",
+      "ref": "e896",
+      "role": null,
+      "tag": "a",
+      "text": "Explore"
+    },
+    {
+      "aria": "Notifications",
+      "bounds": [
+        1094,
+        7,
+        42,
+        36
+      ],
+      "href": "/notifications",
+      "ref": "e897",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Notifications"
+    },
+    {
+      "aria": "Create…",
+      "bounds": [
+        1141,
+        7,
+        60,
+        36
+      ],
+      "expanded": false,
+      "ref": "e898",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Create…"
+    },
+    {
+      "aria": "Profile and Settings…",
+      "bounds": [
+        1207,
+        7,
+        64,
+        36
+      ],
+      "expanded": false,
+      "ref": "e899",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Profile and Settings…"
+    },
+    {
+      "aria": "RSS Feed",
+      "bounds": [
+        1106,
+        65,
+        44,
+        38
+      ],
+      "href": "/web-team-org.rss",
+      "ref": "e900",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "RSS Feed"
+    },
+    {
+      "bounds": [
+        1154,
+        65,
+        94,
+        38
+      ],
+      "ref": "e901",
+      "role": null,
+      "tag": "button",
+      "text": "Follow"
+    },
+    {
+      "bounds": [
+        32,
+        166,
+        146,
+        41
+      ],
+      "href": "/web-team-org",
+      "ref": "e902",
+      "role": null,
+      "tag": "a",
+      "text": "Repositories"
+    },
+    {
+      "bounds": [
+        178,
+        166,
+        112,
+        41
+      ],
+      "href": "/web-team-org/-/projects",
+      "ref": "e903",
+      "role": null,
+      "tag": "a",
+      "text": "Projects"
+    },
+    {
+      "bounds": [
+        290,
+        166,
+        112,
+        41
+      ],
+      "href": "/web-team-org/-/packages",
+      "ref": "e904",
+      "role": null,
+      "tag": "a",
+      "text": "Packages"
+    },
+    {
+      "bounds": [
+        402,
+        166,
+        135,
+        41
+      ],
+      "href": "/org/web-team-org/members",
+      "ref": "e905",
+      "role": null,
+      "tag": "a",
+      "text": "Members\n1"
+    },
+    {
+      "bounds": [
+        537,
+        166,
+        118,
+        41
+      ],
+      "href": "/org/web-team-org/teams",
+      "ref": "e906",
+      "role": null,
+      "tag": "a",
+      "text": "Teams\n2"
+    },
+    {
+      "bounds": [
+        1136,
+        166,
+        112,
+        41
+      ],
+      "href": "/org/web-team-org/settings",
+      "ref": "e907",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        406,
+        231,
+        51,
+        26
+      ],
+      "name": "uid",
+      "ref": "e908",
+      "role": null,
+      "tag": "button",
+      "text": "Join"
+    },
+    {
+      "bounds": [
+        46,
+        777,
+        123,
+        33
+      ],
+      "href": "/org/web-team-org/teams/readers/edit",
+      "ref": "e909",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        500,
+        223,
+        128,
+        33
+      ],
+      "href": "/org/web-team-org/teams/readers",
+      "ref": "e910",
+      "role": null,
+      "tag": "a",
+      "text": "0\n  members"
+    },
+    {
+      "bounds": [
+        628,
+        223,
+        167,
+        33
+      ],
+      "href": "/org/web-team-org/teams/readers/repositories",
+      "ref": "e911",
+      "role": null,
+      "tag": "a",
+      "text": "0\n  repositories"
+    },
+    {
+      "bounds": [
+        513,
+        286,
+        207,
+        38
+      ],
+      "name": "uname",
+      "placeholder": "Search users...",
+      "ref": "e912",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        734,
+        286,
+        170,
+        38
+      ],
+      "ref": "e913",
+      "role": null,
+      "tag": "button",
+      "text": "Add Team Member"
+    },
+    {
+      "bounds": [
+        20,
+        928,
+        134,
+        20
+      ],
+      "href": "[external]",
+      "offscreen": true,
+      "ref": "e914",
+      "role": null,
+      "tag": "a",
+      "text": "Powered by Gitea"
+    },
+    {
+      "bounds": [
+        1063,
+        930,
+        76,
+        16
+      ],
+      "expanded": false,
+      "offscreen": true,
+      "ref": "e915",
+      "role": "menu",
+      "tag": "div",
+      "text": "English"
+    },
+    {
+      "bounds": [
+        1145,
+        928,
+        76,
+        20
+      ],
+      "href": "/assets/licenses.txt",
+      "offscreen": true,
+      "ref": "e916",
+      "role": null,
+      "tag": "a",
+      "text": "Licenses"
+    },
+    {
+      "bounds": [
+        1226,
+        928,
+        34,
+        20
+      ],
+      "href": "/api/swagger",
+      "offscreen": true,
+      "ref": "e917",
+      "role": null,
+      "tag": "a",
+      "text": "API"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    956
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Issues\nPull Requests\nMilestones\nExplore\n \nweb-team-org\nFollow\nRepositories\nProjects\nPackages\nMembers\n1\nTeams\n2\nSettings\nreaders\nJoin\nTeam responsibilities\nRepository access\nSpecific repositories\nUnit\tPermission\nCode\tRead\nIssues\tRead\nPull Requests\tRead\nReleases\tRead\nWiki\tRead\nAccess to External Wiki\tRead\nAccess to External Issues\tRead\nProjects\tRead\nPackages\tRead\nActions\tRead\nSettings\n0\n  members\n0\n  repositories\nAdd Team Member\nNo members on this team.\nPowered by Gitea\nPage:\n5ms\nTemplate:\n2ms\nEnglish\nLicenses\nAPI",
+  "text_truncated": false,
+  "title": "readers - Gitea",
+  "url": "/org/web-team-org/teams/readers",
+  "viewport": [
+    1280,
+    900
+  ]
+}

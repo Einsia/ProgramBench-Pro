@@ -1,0 +1,15 @@
+{
+  "reference_paths": [
+    "/app/solution/piskel-0.15.0-prod.tar.gz"
+  ],
+  "shared_solution_files": [
+    {
+      "file": "LICENSE",
+      "reason": "This is the unmodified Apache-2.0 license text also installed as /usr/share/common-licenses/Apache-2.0; no product implementation is shared."
+    },
+    {
+      "file": "LICENSES/piskel-LICENSE-Apache-2.0.txt",
+      "reason": "This is the unmodified Apache-2.0 license text also installed as /usr/share/common-licenses/Apache-2.0; no product implementation is shared."
+    }
+  ]
+}

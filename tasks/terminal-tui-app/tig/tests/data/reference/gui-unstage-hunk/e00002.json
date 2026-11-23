@@ -1,0 +1,336 @@
+{
+  "base_style": [
+    "fg=white",
+    "bg=blue"
+  ],
+  "cursor": {
+    "column": 119,
+    "hidden": true,
+    "row": 34
+  },
+  "process": "running",
+  "screen": [
+    "00|On branch main",
+    "01|Changes to be committed:",
+    "02|M observations.txt",
+    "03|Changes not staged for commit:",
+    "04|M observations.txt",
+    "05|Untracked files:",
+    "06|  (no files)",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|[status] Press u to unstage 'observations.txt' for commit                                                           100%",
+    "12| observations.txt | 1 +",
+    "13| 1 file changed, 1 insertion(+)",
+    "14|",
+    "15|diff --git a/observations.txt b/observations.txt",
+    "16|index f8a8ac7..061085d 100644",
+    "17|--- a/observations.txt",
+    "18|+++ b/observations.txt",
+    "19|@@ -30,6 +30,7 @@ line 29",
+    "20| line 30",
+    "21| line 31",
+    "22| line 32",
+    "23|+SECOND ADDED",
+    "24| line 33",
+    "25| line 34",
+    "26| line 35",
+    "27|",
+    "28|",
+    "29|",
+    "30|",
+    "31|",
+    "32|",
+    "33|",
+    "34|[stage] Staged changes to 'observations.txt' - line 8 of 15                                                         100%",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "On branch main                                                                                                          "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 1,
+      "style": [
+        "fg=cyan"
+      ],
+      "text": "Changes to be committed:                                                                                                "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 2,
+      "style": [
+        "fg=white",
+        "bg=green"
+      ],
+      "text": "M observations.txt                                                                                                      "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 3,
+      "style": [
+        "fg=cyan"
+      ],
+      "text": "Changes not staged for commit:                                                                                          "
+    },
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 4,
+      "style": [
+        "fg=magenta"
+      ],
+      "text": "M "
+    },
+    {
+      "columns": [
+        2,
+        120
+      ],
+      "row": 4,
+      "style": [
+        "default"
+      ],
+      "text": "observations.txt                                                                                                      "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 5,
+      "style": [
+        "fg=cyan"
+      ],
+      "text": "Untracked files:                                                                                                        "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 6,
+      "style": [
+        "default"
+      ],
+      "text": "  (no files)                                                                                                            "
+    },
+    {
+      "columns": [
+        0,
+        18
+      ],
+      "row": 12,
+      "style": [
+        "fg=blue"
+      ],
+      "text": " observations.txt "
+    },
+    {
+      "columns": [
+        18,
+        22
+      ],
+      "row": 12,
+      "style": [
+        "default"
+      ],
+      "text": "| 1 "
+    },
+    {
+      "columns": [
+        22,
+        120
+      ],
+      "row": 12,
+      "style": [
+        "fg=green"
+      ],
+      "text": "+                                                                                                 "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 13,
+      "style": [
+        "default"
+      ],
+      "text": " 1 file changed, 1 insertion(+)                                                                                         "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 15,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "diff --git a/observations.txt b/observations.txt                                                                        "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 16,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "index f8a8ac7..061085d 100644                                                                                           "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 17,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "--- a/observations.txt                                                                                                  "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 18,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "+++ b/observations.txt                                                                                                  "
+    },
+    {
+      "columns": [
+        0,
+        25
+      ],
+      "row": 19,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=green"
+      ],
+      "text": "@@ -30,6 +30,7 @@ line 29"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 20,
+      "style": [
+        "default"
+      ],
+      "text": " line 30                                                                                                                "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 21,
+      "style": [
+        "default"
+      ],
+      "text": " line 31                                                                                                                "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 22,
+      "style": [
+        "default"
+      ],
+      "text": " line 32                                                                                                                "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 23,
+      "style": [
+        "fg=green"
+      ],
+      "text": "+SECOND ADDED                                                                                                           "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 24,
+      "style": [
+        "default"
+      ],
+      "text": " line 33                                                                                                                "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 25,
+      "style": [
+        "default"
+      ],
+      "text": " line 34                                                                                                                "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 26,
+      "style": [
+        "default"
+      ],
+      "text": " line 35                                                                                                                "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "[stage] Staged changes to 'observations.txt' - line 8 of 15                                                         100%"
+    }
+  ]
+}

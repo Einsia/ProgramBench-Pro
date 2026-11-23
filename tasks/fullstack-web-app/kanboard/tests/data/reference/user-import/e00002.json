@@ -1,0 +1,291 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e310",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e311",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/users",
+      "ref": "e312",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/users",
+      "ref": "e313",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "bounds": [
+        10,
+        49,
+        91,
+        17
+      ],
+      "href": "/?controller=UserCreationController&action=show",
+      "ref": "e314",
+      "role": null,
+      "tag": "a",
+      "text": "New user"
+    },
+    {
+      "bounds": [
+        121,
+        49,
+        114,
+        17
+      ],
+      "href": "/?controller=UserInviteController&action=show",
+      "ref": "e315",
+      "role": null,
+      "tag": "a",
+      "text": "Invite people"
+    },
+    {
+      "bounds": [
+        254,
+        49,
+        69,
+        17
+      ],
+      "href": "/?controller=UserImportController&action=show",
+      "ref": "e316",
+      "role": null,
+      "tag": "a",
+      "text": "Import"
+    },
+    {
+      "bounds": [
+        343,
+        49,
+        132,
+        17
+      ],
+      "href": "/groups",
+      "ref": "e317",
+      "role": null,
+      "tag": "a",
+      "text": "View all groups"
+    },
+    {
+      "aria": "Search",
+      "bounds": [
+        10,
+        87,
+        308,
+        28
+      ],
+      "name": "search",
+      "placeholder": "Search",
+      "ref": "e318",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1214,
+        136,
+        42,
+        28
+      ],
+      "href": "/users",
+      "ref": "e319",
+      "role": null,
+      "tag": "a",
+      "text": "Sort"
+    },
+    {
+      "bounds": [
+        14,
+        169,
+        30,
+        15
+      ],
+      "href": "/users",
+      "ref": "e320",
+      "role": null,
+      "tag": "a",
+      "text": "#1"
+    },
+    {
+      "bounds": [
+        74,
+        169,
+        37,
+        15
+      ],
+      "href": "/user/show/1",
+      "ref": "e321",
+      "role": null,
+      "tag": "a",
+      "text": "admin"
+    },
+    {
+      "bounds": [
+        14,
+        223,
+        30,
+        15
+      ],
+      "href": "/users",
+      "ref": "e322",
+      "role": null,
+      "tag": "a",
+      "text": "#2"
+    },
+    {
+      "bounds": [
+        74,
+        223,
+        70,
+        15
+      ],
+      "href": "/user/show/2",
+      "ref": "e323",
+      "role": null,
+      "tag": "a",
+      "text": "Bob Builder"
+    },
+    {
+      "bounds": [
+        86,
+        244,
+        114,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e324",
+      "role": null,
+      "tag": "a",
+      "text": "bob@example.test"
+    },
+    {
+      "bounds": [
+        14,
+        277,
+        30,
+        15
+      ],
+      "href": "/users",
+      "ref": "e325",
+      "role": null,
+      "tag": "a",
+      "text": "#3"
+    },
+    {
+      "bounds": [
+        74,
+        277,
+        63,
+        15
+      ],
+      "href": "/user/show/3",
+      "ref": "e326",
+      "role": null,
+      "tag": "a",
+      "text": "Erin Editor"
+    },
+    {
+      "bounds": [
+        108,
+        298,
+        114,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e327",
+      "role": null,
+      "tag": "a",
+      "text": "erin@example.test"
+    },
+    {
+      "bounds": [
+        14,
+        331,
+        30,
+        15
+      ],
+      "href": "/users",
+      "ref": "e328",
+      "role": null,
+      "tag": "a",
+      "text": "#4"
+    },
+    {
+      "bounds": [
+        74,
+        331,
+        68,
+        15
+      ],
+      "href": "/user/show/4",
+      "ref": "e329",
+      "role": null,
+      "tag": "a",
+      "text": "Frank Field"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "inputs": [
+    "users.csv"
+  ],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Users (4)\n \n \nA\nNew user Invite people Import View all groups\n4 users\nSort \n#1 \n \nA\n admin\nAdministrator\n \n#2 \n \nBB\n Bob Builder\nUser bob bob@example.test\n \n#3 \n \nEE\n Erin Editor\nManager erin erin@example.test\n \n#4 \n \nFF\n Frank Field\nUser frank\n ",
+  "text_truncated": false,
+  "title": "Users (4)",
+  "url": "/users",
+  "viewport": [
+    1280,
+    900
+  ]
+}

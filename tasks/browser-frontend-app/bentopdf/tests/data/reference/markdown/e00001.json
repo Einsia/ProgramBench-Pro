@@ -1,0 +1,228 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        41,
+        122,
+        135,
+        24
+      ],
+      "ref": "e3005f4e3",
+      "tag": "button",
+      "text": "Back to Tools"
+    },
+    {
+      "bounds": [
+        41,
+        171,
+        62,
+        18
+      ],
+      "ref": "e307a47db",
+      "tag": "a",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        41,
+        294,
+        104,
+        39
+      ],
+      "ref": "ef6742527",
+      "tag": "button",
+      "text": "Upload"
+    },
+    {
+      "bounds": [
+        190,
+        304,
+        40,
+        20
+      ],
+      "ref": "ee28b3622",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        275,
+        294,
+        129,
+        39
+      ],
+      "ref": "e6c36cd05",
+      "tag": "button",
+      "text": "Sync Scroll",
+      "title": "Toggle sync scroll"
+    },
+    {
+      "bounds": [
+        412,
+        294,
+        113,
+        39
+      ],
+      "ref": "e5ec257eb",
+      "tag": "button",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        533,
+        295,
+        129,
+        37
+      ],
+      "ref": "e0f01bf86",
+      "tag": "button",
+      "text": "Export PDF"
+    },
+    {
+      "bounds": [
+        42,
+        396,
+        588,
+        504
+      ],
+      "label": "Markdown",
+      "ref": "ec66ef621",
+      "tag": "textarea",
+      "value": "# Welcome to BentoPDF Markdown Editor\n\nThis is a **live preview** markdown editor with full plugin support.\n\n${toc}\n\n## Basic Formatting\n\n- **Bold** and *italic* text\n- ~~Strikethrough~~ text\n- [Links](https://bentopdf.com)\n- ==Highlighted text== using mark\n- ++Inserted text++ using ins\n- H~2~O for subscript\n- E=mc^2^ for superscript\n\n## Task Lists\n\n- [x] Completed task\n- [x] Another done item\n- [ ] Pending task\n- [ ] Future work\n\n## Emoji Support :rocket:\n\nUse emoji shortcodes: :smile: :heart: :thumbsup: :star: :fire:\n\n## Code with Syntax Highlighting\n\n```javascript\nfunction greet(name) {\n  console.log(`Hello, ${name}!`);\n  return { message: 'Welcome!' };\n}\n```\n\n```python\ndef fibonacci(n):\n    if n <= 1:\n        return n\n    return fibonacci(n-1) + fibonacci(n-2)\n```\n\n## Tables\n\n| Feature | Supported | Notes |\n|---------|:---------:|-------|\n| Headers | ✓ | Multiple levels |\n| Lists | ✓ | Ordered & unordered |\n| Code | ✓ | With highlighting |\n| Tables | ✓ | With alignment |\n| Emoji | ✓ | :white_check_mark: |\n| Mermaid | ✓ | Diagrams! |\n\n## Mermaid Diagrams\n\n### Flowchart\n\n```mermaid\ngraph TD\n    A[Start] --> B{Decision}\n    B -->|Yes| C[OK]\n    B -->|No| D[Cancel]\n```\n\n### Sequence Diagram\n\n```mermaid\nsequenceDiagram\n    participant User\n    participant BentoPDF\n    participant Server\n    User->>BentoPDF: Upload PDF\n    BentoPDF->>BentoPDF: Process locally\n    BentoPDF-->>User: Download result\n    Note over BentoPDF: No server needed!\n```\n\n### Pie Chart\n\n```mermaid\npie title PDF Tools Usage\n    \"Merge\" : 35\n    \"Compress\" : 25\n    \"Convert\" : 20\n    \"Edit\" : 15\n    \"Other\" : 5\n```\n\n### Class Diagram\n\n```mermaid\nclassDiagram\n    class PDFDocument {\n        +String title\n        +int pageCount\n        +merge()\n        +split()\n        +compress()\n    }\n    class Page {\n        +int number\n        +rotate()\n        +crop()\n    }\n    PDFDocument \"1\" --> \"*\" Page\n```\n\n### Gantt Chart\n\n```mermaid\ngantt\n    title Project Timeline\n    dateFormat YYYY-MM-DD\n    section Planning\n        Research      :a1, 2024-01-01, 7d\n        Design        :a2, after a1, 5d\n    section Development\n        Implementation :a3, after a2, 14d\n        Testing       :a4, after a3, 7d\n```\n\n### Entity Relationship\n\n```mermaid\nerDiagram\n    USER ||--o{ DOCUMENT : uploads\n    DOCUMENT ||--|{ PAGE : contains\n    DOCUMENT {\n        string id\n        string name\n        date created\n    }\n    PAGE {\n        int number\n        string content\n    }\n```\n\n### Mindmap\n\n```mermaid\nmindmap\n    root((BentoPDF))\n        Convert\n            Word to PDF\n            Excel to PDF\n            Image to PDF\n        Edit\n            Merge\n            Split\n            Compress\n        Secure\n            Encrypt\n            Sign\n            Watermark\n```\n\n## Footnotes\n\nHere's a sentence with a footnote[^1].\n\n## Definition Lists\n\nTerm 1\n:   Definition for term 1\n\nTerm 2\n:   Definition for term 2\n:   Another definition for term 2\n\n## Abbreviations\n\nThe HTML specification is maintained by the W3C.\n\n*[HTML]: Hyper Text Markup Language\n*[W3C]: World Wide Web Consortium\n\n---\n\nStart editing to see the magic happen!\n\n[^1]: This is the footnote content.\n"
+    },
+    {
+      "bounds": [
+        729,
+        602,
+        290,
+        21
+      ],
+      "ref": "eb5b5fb46",
+      "tag": "a",
+      "text": "Welcome to BentoPDF Markdown Editor"
+    },
+    {
+      "bounds": [
+        761,
+        642,
+        125,
+        21
+      ],
+      "ref": "e6e9a8ce8",
+      "tag": "a",
+      "text": "Basic Formatting"
+    },
+    {
+      "bounds": [
+        761,
+        670,
+        71,
+        21
+      ],
+      "ref": "e5d540861",
+      "tag": "a",
+      "text": "Task Lists"
+    },
+    {
+      "bounds": [
+        761,
+        698,
+        103,
+        21
+      ],
+      "ref": "eca84b040",
+      "tag": "a",
+      "text": "Emoji Support"
+    },
+    {
+      "bounds": [
+        761,
+        726,
+        219,
+        21
+      ],
+      "ref": "e5d1268cf",
+      "tag": "a",
+      "text": "Code with Syntax Highlighting"
+    },
+    {
+      "bounds": [
+        761,
+        754,
+        48,
+        21
+      ],
+      "ref": "efea4e52c",
+      "tag": "a",
+      "text": "Tables"
+    },
+    {
+      "bounds": [
+        761,
+        782,
+        139,
+        21
+      ],
+      "ref": "e32cd399e",
+      "tag": "a",
+      "text": "Mermaid Diagrams"
+    },
+    {
+      "bounds": [
+        793,
+        822,
+        73,
+        21
+      ],
+      "ref": "e93da50e5",
+      "tag": "a",
+      "text": "Flowchart"
+    },
+    {
+      "bounds": [
+        793,
+        850,
+        139,
+        21
+      ],
+      "ref": "e74ca9c05",
+      "tag": "a",
+      "text": "Sequence Diagram"
+    },
+    {
+      "bounds": [
+        793,
+        878,
+        67,
+        21
+      ],
+      "ref": "e5b46bcd7",
+      "tag": "a",
+      "text": "Pie Chart"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "inputs": [
+    "notes.md"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›Markdown to PDF\nMarkdown to PDF\n\nWrite or paste Markdown and export it as a beautifully formatted PDF.\n\nUpload\nSync Scroll\nSettings\nExport PDF\nMarkdown\nPreview\nWelcome to BentoPDF Markdown Editor\n\nThis is a live preview markdown editor with full plugin support.\n\nWelcome to BentoPDF Markdown Editor\nBasic Formatting\nTask Lists\nEmoji Support\nCode with Syntax Highlighting\nTables\nMermaid Diagrams\nFlowchart\nSequence Diagram\nPie Chart\nClass Diagram\nGantt Chart\nEntity Relationship\nMindmap\nFootnotes\nDefinition Lists\nAbbreviations\nBasic Formatting\nBold and italic text\nStrikethrough text\nLinks\nHighlighted text using mark\nInserted text using ins\nH2O for subscript\nE=mc2 for superscript\nTask Lists\n Completed task\n Another done item\n Pending task\n Future work\nEmoji Support 🚀\n\nUse emoji shortcodes: 😄 ❤️ 👍 ⭐ 🔥\n\nCode with Syntax Highlighting\nfunction greet(name) {\n  console.log(`Hello, ${name}!`);\n  return { message: 'Welcome!' };\n}\n\ndef fibonacci(n):\n    if n <= 1:\n        return n\n    return fibonacci(n-1) + fibonacci(n-2)\n\nTables\nFeature\tSupported\tNotes\nHeaders\t✓\tMultiple levels\nLists\t✓\tOrdered & unordered\nCode\t✓\tWith highlighting\nTables\t✓\tWith alignment\nEmoji\t✓\t✅\nMermaid\t✓\tDiagrams!\nMermaid Diagrams\nFlowchart\nYes\nNo\nStart\nDecision\nOK\nCancel\nSequence Diagram\nServer\nBentoPDF\nUser\nServer\nBentoPDF\nUser\nNo server needed!\nUpload PDF\nProcess locally\nDownload result\nPie Chart\n35%\n25%\n20%\n15%\n5%\nPDF Tools Usage\nMerge\nCompress\nConvert\nEdit\nOther\nClass Diagram\n1\n*\nPDFDocument\n+String title\n+int pageCount\n+merge()\n+split()\n+compress()\nPage\n+int number\n+rotate()\n+crop()\nGantt Chart\n2024-01-01\n2024-01-03\n2024-01-05\n2024-01-07\n2024-01-09\n2024-01-11\n2024-01-13\n2024-01-15\n2024-01-17\n2024-01-19\n2024-01-21\n2024-01-23\n2024-01-25\n2024-01-27\n2024-01-29\n2024-01-31\n2024-02-01\n2024-02-03\nResearch\nDesign\nImplementation\nTesting\nPlanning\nDevelopment\nProject Timeline\nEntity Relationship\nuploads\ncontains\nUSER\nDOCUMENT\nstring\nid\nstring\nname\ndate\ncreated\nPAGE\nint\nnumber\nstring\ncontent\nMindmap\nBentoPDF\nConvert\nWord to PDF\nExcel to PDF\nImage to PDF\nEdit\nMerge\nSplit\nCompress\nSecure\nEncrypt\nSign\nWatermark\nFootnotes\n\nHere’s a sentence with a footnote[1].\n\nDefinition Lists\nTerm 1\nDefinition for term 1\nTerm 2\nDefinition for term 2\nAnother definition for term 2\nAbbreviations\n\nThe HTML specification is maintained by the W3C.\n\nStart editing to see the magic happen!\n\nThis is the footnote content. ↩︎\n\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/markdown-to-pdf.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

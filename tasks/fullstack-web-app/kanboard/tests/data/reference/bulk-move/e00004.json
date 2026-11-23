@@ -1,0 +1,358 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e551",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e552",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/list/1",
+      "ref": "e553",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/list/1",
+      "ref": "e554",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "aria": "Configure this project",
+      "bounds": [
+        10,
+        48,
+        29,
+        17
+      ],
+      "href": "/list/1",
+      "ref": "e555",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Configure this project"
+    },
+    {
+      "bounds": [
+        53,
+        49,
+        81,
+        16
+      ],
+      "href": "/project/1/overview/status%3Aopen",
+      "ref": "e556",
+      "role": null,
+      "tag": "a",
+      "text": "Overview",
+      "title": "Keyboard shortcut: \"v o\""
+    },
+    {
+      "bounds": [
+        155,
+        49,
+        60,
+        16
+      ],
+      "href": "/board/1/search/status%3Aopen",
+      "ref": "e557",
+      "role": null,
+      "tag": "a",
+      "text": "Board",
+      "title": "Keyboard shortcut: \"v b\""
+    },
+    {
+      "bounds": [
+        236,
+        49,
+        47,
+        16
+      ],
+      "href": "/list/1/search/status%3Aopen",
+      "ref": "e558",
+      "role": null,
+      "tag": "a",
+      "text": "List",
+      "title": "Keyboard shortcut: \"v l\""
+    },
+    {
+      "aria": "Filter",
+      "bounds": [
+        302,
+        44,
+        846,
+        28
+      ],
+      "name": "search",
+      "placeholder": "Filter",
+      "ref": "e559",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "status:open"
+    },
+    {
+      "aria": "Default filters",
+      "bounds": [
+        1161,
+        49,
+        36,
+        16
+      ],
+      "href": "/list/1",
+      "ref": "e560",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Default filters"
+    },
+    {
+      "aria": "Custom filters",
+      "bounds": [
+        1221,
+        49,
+        36,
+        16
+      ],
+      "href": "/list/1",
+      "ref": "e561",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "User filters"
+    },
+    {
+      "bounds": [
+        67,
+        87,
+        56,
+        15
+      ],
+      "href": "/list/1",
+      "ref": "e562",
+      "role": null,
+      "tag": "a",
+      "text": "Select All"
+    },
+    {
+      "bounds": [
+        134,
+        87,
+        71,
+        15
+      ],
+      "href": "/list/1",
+      "ref": "e563",
+      "role": null,
+      "tag": "a",
+      "text": "Unselect All"
+    },
+    {
+      "bounds": [
+        1088,
+        87,
+        112,
+        15
+      ],
+      "href": "/?controller=TaskListController&action=show&project_id=1&show_subtasks=1&csrf_token=2dd82c4f64b753078cf4701ad8251d1ff4f44e7ad668411d3351cd874f3fdf79",
+      "ref": "e564",
+      "role": null,
+      "tag": "a",
+      "text": "Show subtasks"
+    },
+    {
+      "bounds": [
+        1214,
+        81,
+        42,
+        28
+      ],
+      "href": "/list/1",
+      "ref": "e565",
+      "role": null,
+      "tag": "a",
+      "text": "Sort"
+    },
+    {
+      "bounds": [
+        22,
+        113,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "tasks[]",
+      "ref": "e566",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "3"
+    },
+    {
+      "bounds": [
+        42,
+        114,
+        30,
+        15
+      ],
+      "href": "/list/1",
+      "ref": "e567",
+      "role": null,
+      "tag": "a",
+      "text": "#3"
+    },
+    {
+      "bounds": [
+        75,
+        114,
+        78,
+        15
+      ],
+      "href": "/task/3",
+      "ref": "e568",
+      "role": null,
+      "tag": "a",
+      "text": "Gamma item"
+    },
+    {
+      "bounds": [
+        22,
+        179,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "tasks[]",
+      "ref": "e569",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "2"
+    },
+    {
+      "bounds": [
+        42,
+        180,
+        30,
+        15
+      ],
+      "href": "/list/1",
+      "ref": "e570",
+      "role": null,
+      "tag": "a",
+      "text": "#2"
+    },
+    {
+      "bounds": [
+        75,
+        180,
+        57,
+        15
+      ],
+      "href": "/task/2",
+      "ref": "e571",
+      "role": null,
+      "tag": "a",
+      "text": "Beta item"
+    },
+    {
+      "bounds": [
+        22,
+        245,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "tasks[]",
+      "ref": "e572",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        42,
+        246,
+        30,
+        15
+      ],
+      "href": "/list/1",
+      "ref": "e573",
+      "role": null,
+      "tag": "a",
+      "text": "#1"
+    },
+    {
+      "bounds": [
+        75,
+        246,
+        64,
+        15
+      ],
+      "href": "/task/1",
+      "ref": "e574",
+      "role": null,
+      "tag": "a",
+      "text": "Alpha item"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Website \n \n \nA\nOverview Board List\n3 tasks\nSelect All / Unselect All\nShow subtasks \nSort \n \n#3 \n Gamma item\nWebsite > Default swimlane > Backlog\n(\nPosition\n3) \nTask age in days\n<15m \nDays in this column\n<15m \nTask priority\nP0\n \n#2 \n Beta item\nWebsite > Default swimlane > Done\n(\nPosition\n1) \nTask age in days\n<15m \nDays in this column\n<15m \nTask priority\nP0\n \n#1 \n Alpha item\nWebsite > Default swimlane > Done\n(\nPosition\n2) \nTask age in days\n<15m \nDays in this column\n<15m \nTask priority\nP0",
+  "text_truncated": false,
+  "title": "Website",
+  "url": "/list/1",
+  "viewport": [
+    1280,
+    900
+  ]
+}

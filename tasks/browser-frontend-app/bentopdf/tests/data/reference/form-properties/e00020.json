@@ -1,0 +1,348 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        291,
+        123,
+        699,
+        777
+      ],
+      "frame": "f9548d0dc0d",
+      "ref": "f9548d0dc0d:canvas0",
+      "tag": "canvas"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        1186,
+        5,
+        32,
+        32
+      ],
+      "ref": "ecf405c22",
+      "tag": "button",
+      "title": "Remove file"
+    },
+    {
+      "bounds": [
+        51,
+        83,
+        28,
+        28
+      ],
+      "expanded": false,
+      "frame": "f9548d0dc0d",
+      "ref": "f9548d0dc0d:e728588bf",
+      "tag": "button",
+      "text": "Toggle Sidebar",
+      "title": "Toggle Sidebar"
+    },
+    {
+      "bounds": [
+        111,
+        83,
+        28,
+        28
+      ],
+      "expanded": false,
+      "frame": "f9548d0dc0d",
+      "ref": "f9548d0dc0d:e46a0cc6d",
+      "tag": "button",
+      "text": "Find",
+      "title": "Find in Document"
+    },
+    {
+      "bounds": [
+        140,
+        83,
+        28,
+        28
+      ],
+      "disabled": true,
+      "frame": "f9548d0dc0d",
+      "ref": "f9548d0dc0d:e78dc9092",
+      "tag": "button",
+      "text": "Previous",
+      "title": "Previous Page"
+    },
+    {
+      "bounds": [
+        171,
+        83,
+        28,
+        28
+      ],
+      "disabled": true,
+      "frame": "f9548d0dc0d",
+      "ref": "f9548d0dc0d:edb0f7476",
+      "tag": "button",
+      "text": "Next",
+      "title": "Next Page"
+    },
+    {
+      "bounds": [
+        200,
+        83,
+        56,
+        28
+      ],
+      "frame": "f9548d0dc0d",
+      "ref": "f9548d0dc0d:ed49838ef",
+      "tag": "input",
+      "title": "Page",
+      "type": "number",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        552,
+        83,
+        28,
+        28
+      ],
+      "frame": "f9548d0dc0d",
+      "ref": "f9548d0dc0d:e2fe296bd",
+      "tag": "button",
+      "text": "Zoom Out",
+      "title": "Zoom Out"
+    },
+    {
+      "bounds": [
+        583,
+        83,
+        28,
+        28
+      ],
+      "frame": "f9548d0dc0d",
+      "ref": "f9548d0dc0d:e78e9bd4b",
+      "tag": "button",
+      "text": "Zoom In",
+      "title": "Zoom In"
+    },
+    {
+      "bounds": [
+        612,
+        83,
+        140,
+        28
+      ],
+      "frame": "f9548d0dc0d",
+      "options": [
+        {
+          "label": "Automatic Zoom",
+          "selected": true,
+          "value": "auto"
+        },
+        {
+          "label": "Actual Size",
+          "selected": false,
+          "value": "page-actual"
+        },
+        {
+          "label": "Page Fit",
+          "selected": false,
+          "value": "page-fit"
+        },
+        {
+          "label": "Page Width",
+          "selected": false,
+          "value": "page-width"
+        },
+        {
+          "label": "⁨0⁩%",
+          "selected": false,
+          "value": "custom"
+        },
+        {
+          "label": "⁨50⁩%",
+          "selected": false,
+          "value": "0.5"
+        },
+        {
+          "label": "⁨75⁩%",
+          "selected": false,
+          "value": "0.75"
+        },
+        {
+          "label": "⁨100⁩%",
+          "selected": false,
+          "value": "1"
+        },
+        {
+          "label": "⁨125⁩%",
+          "selected": false,
+          "value": "1.25"
+        },
+        {
+          "label": "⁨150⁩%",
+          "selected": false,
+          "value": "1.5"
+        },
+        {
+          "label": "⁨200⁩%",
+          "selected": false,
+          "value": "2"
+        },
+        {
+          "label": "⁨300⁩%",
+          "selected": false,
+          "value": "3"
+        },
+        {
+          "label": "⁨400⁩%",
+          "selected": false,
+          "value": "4"
+        }
+      ],
+      "ref": "f9548d0dc0d:ef9bb90f9",
+      "tag": "select",
+      "title": "Zoom",
+      "value": "auto"
+    },
+    {
+      "bounds": [
+        1015,
+        83,
+        28,
+        28
+      ],
+      "expanded": false,
+      "frame": "f9548d0dc0d",
+      "ref": "f9548d0dc0d:e3426a6ef",
+      "role": "radio",
+      "tag": "button",
+      "text": "Highlight",
+      "title": "Highlight"
+    },
+    {
+      "bounds": [
+        1044,
+        83,
+        28,
+        28
+      ],
+      "expanded": false,
+      "frame": "f9548d0dc0d",
+      "ref": "f9548d0dc0d:ec687efd5",
+      "role": "radio",
+      "tag": "button",
+      "text": "Text",
+      "title": "Text"
+    },
+    {
+      "bounds": [
+        1073,
+        83,
+        28,
+        28
+      ],
+      "expanded": false,
+      "frame": "f9548d0dc0d",
+      "ref": "f9548d0dc0d:e8231b78f",
+      "role": "radio",
+      "tag": "button",
+      "text": "Draw",
+      "title": "Draw"
+    },
+    {
+      "bounds": [
+        1102,
+        83,
+        28,
+        28
+      ],
+      "expanded": false,
+      "frame": "f9548d0dc0d",
+      "ref": "f9548d0dc0d:e0f16af6f",
+      "role": "radio",
+      "tag": "button",
+      "text": "Add or edit images",
+      "title": "Add or edit images"
+    },
+    {
+      "bounds": [
+        1137,
+        83,
+        28,
+        28
+      ],
+      "frame": "f9548d0dc0d",
+      "ref": "f9548d0dc0d:ea80b199f",
+      "tag": "button",
+      "text": "Print",
+      "title": "Print"
+    },
+    {
+      "bounds": [
+        1166,
+        83,
+        28,
+        28
+      ],
+      "frame": "f9548d0dc0d",
+      "ref": "f9548d0dc0d:eeaeb6069",
+      "tag": "button",
+      "text": "Save",
+      "title": "Save"
+    },
+    {
+      "bounds": [
+        1201,
+        83,
+        28,
+        28
+      ],
+      "expanded": false,
+      "frame": "f9548d0dc0d",
+      "ref": "f9548d0dc0d:e7a0e568f",
+      "tag": "button",
+      "text": "Tools",
+      "title": "Tools"
+    },
+    {
+      "bounds": [
+        384,
+        286,
+        187,
+        37
+      ],
+      "frame": "f9548d0dc0d",
+      "name": "visitor",
+      "ref": "f9548d0dc0d:e77e596c6",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "single.pdf",
+      "ref": "dc17c5114d563",
+      "size": 2544
+    }
+  ],
+  "inputs": [
+    "single.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nPDF Form Filler\n\nUpload a PDF with form fields. Fill them directly in the viewer below, then click the button to save and download the filled form. Also supports XFA forms.\n\nNote on XFA Forms: XFA (XML Forms Architecture) is a legacy format that's only supported by certain PDF viewers like BentoPDF and Firefox. If you open an XFA PDF in other software and see blank pages or no form fields, it means that viewer doesn't support XFA. To view and fill XFA forms properly, use Firefox or BentoPDF's Form Filler.\n\nClick to select a file or drag and drop\n\nPDF file with form fields\n\nYour files never leave your device.\n\nsingle.pdf\n\n2.5 KB\n\nSave & Download Filled Form\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish\nToggle Sidebar\nFind\nPrevious\nNext\nof ⁨1⁩\nZoom Out\nZoom In\nAutomatic Zoom\nActual Size\nPage Fit\nPage Width\n⁨0⁩%\n⁨50⁩%\n⁨75⁩%\n⁨100⁩%\n⁨125⁩%\n⁨150⁩%\n⁨200⁩%\n⁨300⁩%\n⁨400⁩%\nHighlight\nText\nDraw\nAdd or edit images\nPrint\nSave\nTools\nHarbor Map\n\n\nHarbor survey 2026 - station 1\n\n\nAnchor 1 - 42 meters",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/form-filler.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

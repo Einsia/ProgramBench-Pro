@@ -1,0 +1,25 @@
+FROM program-bench-mealie-base:1.0.0
+COPY solution/mealie-3.29.0-runtime.tar.xz solution/mealie-3.29.0-source.tar.gz solution/libxcrypt-4.5.2.tar.xz solution/start.sh solution/solve.sh solution/SOURCE.json solution/LICENSE solution/NOTICE /solution/
+# The same runtime drives the reference and local application.
+COPY solution/LICENSES/ /solution/LICENSES/
+COPY environment/runtime/ /opt/blackbox/runtime/
+RUN bash /solution/solve.sh && \
+    find /solution -mindepth 1 -maxdepth 1 ! -name mealie-3.29.0-source.tar.gz ! -name libxcrypt-4.5.2.tar.xz -exec rm -rf {} + && \
+    chown -R root:root /app/solution && chown root:root /app && chmod 755 /app && \
+    find /app/solution -type d -exec chmod 0711 {} + && \
+    find /app/solution -type f -perm /111 -exec chmod 0555 {} + && \
+    find /app/solution -type f ! -perm /111 -exec chmod 0444 {} + && \
+    chmod -R u=rwX,go=rX /opt/blackbox/runtime && \
+    mkdir -p /reference /blackbox && chown -R root:root /reference /blackbox
+# Python's import finder must list directories containing Python modules or native extensions.
+# Keep only these module directories readable; the installation root remains 0711.
+RUN find /app/solution/mealie/python/lib/python3.14 -type f \( -name '*.py' -o -name '*.so' \) \
+      -exec sh -ec 'for module; do chmod 0755 "${module%/*}"; done' _ {} +
+# The locale provider and recipe-time migration enumerate message JSON files.
+RUN chmod 0755 /app/solution/mealie/python/lib/python3.14/site-packages/mealie/lang/messages
+# Python enumerates this namespace package to import the telemetry context subpackage.
+RUN chmod 0755 /app/solution/mealie/python/lib/python3.14/site-packages/opentelemetry
+ENV PYTHONDONTWRITEBYTECODE=1 LANG=C.UTF-8 LC_ALL=C.UTF-8 TZ=UTC TMPDIR=/tmp
+USER root
+ENTRYPOINT ["/usr/bin/tini", "--", "python3", "-I", "-B", "/opt/blackbox/runtime/reference_entrypoint.py"]
+CMD ["python3", "-I", "-B", "/opt/blackbox/runtime/broker.py", "--user", "agent", "--socket-mode", "0600", "--log-dir", "/reference/logs"]

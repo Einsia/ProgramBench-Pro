@@ -1,0 +1,183 @@
+{
+  "counts": {
+    "assertions": 1494,
+    "backend": 1278,
+    "checkpoints": 536,
+    "features": 15,
+    "frontend": 216,
+    "gui_episodes": 50,
+    "program_episodes": 41,
+    "episodes": 91
+  },
+  "features": {
+    "colours": {
+      "assertions": 97,
+      "episodes": [
+        "colours",
+        "palettes",
+        "gui-colours",
+        "gui-palettes",
+        "gui-color-entry",
+        "gui-palette-edit",
+        "gui-palette-colors",
+        "gui-palette-components"
+      ]
+    },
+    "drawing": {
+      "assertions": 199,
+      "episodes": [
+        "pen",
+        "mirror-pen",
+        "eraser",
+        "stroke",
+        "rectangle",
+        "circle",
+        "paint-bucket",
+        "colour-swap",
+        "lighten",
+        "dithering",
+        "move",
+        "gui-pen",
+        "gui-mirror-pen",
+        "gui-eraser",
+        "gui-stroke",
+        "gui-rectangle",
+        "gui-circle",
+        "gui-paint-bucket",
+        "gui-colour-swap",
+        "gui-lighten",
+        "gui-dithering",
+        "gui-move"
+      ]
+    },
+    "export": {
+      "assertions": 112,
+      "episodes": [
+        "export-png",
+        "export-gif",
+        "export-zip",
+        "export-other",
+        "gui-export-png",
+        "gui-export-gif",
+        "gui-export-zip",
+        "gui-export-other",
+        "gui-export-resolution"
+      ]
+    },
+    "file-format": {
+      "assertions": 352,
+      "episodes": [
+        "format-layout",
+        "format-size",
+        "format-metadata",
+        "format-backward",
+        "format-errors",
+        "format-encoding"
+      ]
+    },
+    "frames": {
+      "assertions": 46,
+      "episodes": [
+        "frames",
+        "animation",
+        "gui-frames",
+        "gui-animation"
+      ]
+    },
+    "history": {
+      "assertions": 23,
+      "episodes": [
+        "undo",
+        "gui-undo"
+      ]
+    },
+    "import": {
+      "assertions": 139,
+      "episodes": [
+        "import-replace",
+        "import-combine",
+        "import-batch",
+        "gui-import-replace-a",
+        "gui-import-replace-b",
+        "gui-import-combine"
+      ]
+    },
+    "layers": {
+      "assertions": 63,
+      "episodes": [
+        "layers",
+        "gui-layers-a",
+        "gui-layers-b"
+      ]
+    },
+    "persistence": {
+      "assertions": 45,
+      "episodes": [
+        "browser-storage",
+        "gui-browser-storage",
+        "gui-backup",
+        "gui-storage-more",
+        "gui-storage-delete",
+        "gui-backup-delete"
+      ]
+    },
+    "preferences": {
+      "assertions": 34,
+      "episodes": [
+        "preferences",
+        "gui-preferences",
+        "gui-shortcut-settings",
+        "gui-view-preferences"
+      ]
+    },
+    "resize": {
+      "assertions": 104,
+      "episodes": [
+        "resize",
+        "gui-resize"
+      ]
+    },
+    "save": {
+      "assertions": 67,
+      "episodes": [
+        "save-file",
+        "save-structure",
+        "gui-save-file"
+      ]
+    },
+    "selection": {
+      "assertions": 27,
+      "episodes": [
+        "selection",
+        "gui-selection",
+        "gui-selection-more"
+      ]
+    },
+    "transforms": {
+      "assertions": 169,
+      "episodes": [
+        "flip",
+        "rotate",
+        "center",
+        "clone-frames",
+        "crop",
+        "gui-flip",
+        "gui-rotate",
+        "gui-center",
+        "gui-clone-frames",
+        "gui-crop"
+      ]
+    },
+    "view": {
+      "assertions": 17,
+      "episodes": [
+        "gui-view-a",
+        "gui-view-b",
+        "gui-view-settings"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

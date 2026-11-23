@@ -1,0 +1,261 @@
+{
+  "controls": [
+    {
+      "aria": "Home",
+      "bounds": [
+        10,
+        7,
+        56,
+        36
+      ],
+      "href": "/",
+      "ref": "e200",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        71,
+        7,
+        85,
+        36
+      ],
+      "href": "/explore/repos",
+      "ref": "e201",
+      "role": null,
+      "tag": "a",
+      "text": "Explore"
+    },
+    {
+      "bounds": [
+        161,
+        7,
+        60,
+        36
+      ],
+      "href": "[external]",
+      "ref": "e202",
+      "role": null,
+      "tag": "a",
+      "text": "Help"
+    },
+    {
+      "bounds": [
+        1055,
+        7,
+        109,
+        36
+      ],
+      "href": "/user/sign_up",
+      "ref": "e203",
+      "role": null,
+      "tag": "a",
+      "text": "Register"
+    },
+    {
+      "bounds": [
+        1169,
+        7,
+        101,
+        36
+      ],
+      "href": "/user/login?redirect_to=%2fexplore%2fusers",
+      "ref": "e204",
+      "role": null,
+      "tag": "a",
+      "text": "Sign In"
+    },
+    {
+      "bounds": [
+        447,
+        50,
+        146,
+        41
+      ],
+      "href": "/explore/repos",
+      "ref": "e205",
+      "role": null,
+      "tag": "a",
+      "text": "Repositories"
+    },
+    {
+      "bounds": [
+        592,
+        50,
+        87,
+        41
+      ],
+      "href": "/explore/users",
+      "ref": "e206",
+      "role": null,
+      "tag": "a",
+      "text": "Users"
+    },
+    {
+      "bounds": [
+        679,
+        50,
+        154,
+        41
+      ],
+      "href": "/explore/organizations",
+      "ref": "e207",
+      "role": null,
+      "tag": "a",
+      "text": "Organizations"
+    },
+    {
+      "bounds": [
+        32,
+        107,
+        1100,
+        35
+      ],
+      "maxlength": "255",
+      "name": "q",
+      "placeholder": "Search users...",
+      "ref": "e208",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "search",
+      "value": ""
+    },
+    {
+      "aria": "Search...",
+      "bounds": [
+        1132,
+        107,
+        38,
+        35
+      ],
+      "ref": "e209",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1175,
+        107,
+        73,
+        35
+      ],
+      "expanded": false,
+      "ref": "e210",
+      "role": "menu",
+      "tag": "div",
+      "text": "Sort"
+    },
+    {
+      "bounds": [
+        88,
+        172,
+        202,
+        20
+      ],
+      "href": "/carol",
+      "ref": "e211",
+      "role": null,
+      "tag": "a",
+      "text": "carol (Carol Example)"
+    },
+    {
+      "bounds": [
+        88,
+        241,
+        163,
+        20
+      ],
+      "href": "/bob",
+      "ref": "e212",
+      "role": null,
+      "tag": "a",
+      "text": "bob (Bob Example)"
+    },
+    {
+      "bounds": [
+        88,
+        310,
+        202,
+        20
+      ],
+      "href": "/alice",
+      "ref": "e213",
+      "role": null,
+      "tag": "a",
+      "text": "alice (Alice Example)"
+    },
+    {
+      "bounds": [
+        20,
+        872,
+        134,
+        20
+      ],
+      "href": "[external]",
+      "ref": "e214",
+      "role": null,
+      "tag": "a",
+      "text": "Powered by Gitea"
+    },
+    {
+      "bounds": [
+        1063,
+        874,
+        76,
+        16
+      ],
+      "expanded": false,
+      "ref": "e215",
+      "role": "menu",
+      "tag": "div",
+      "text": "English"
+    },
+    {
+      "bounds": [
+        1145,
+        872,
+        76,
+        20
+      ],
+      "href": "/assets/licenses.txt",
+      "ref": "e216",
+      "role": null,
+      "tag": "a",
+      "text": "Licenses"
+    },
+    {
+      "bounds": [
+        1226,
+        872,
+        34,
+        20
+      ],
+      "href": "/api/swagger",
+      "ref": "e217",
+      "role": null,
+      "tag": "a",
+      "text": "API"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Explore\nHelp\nRegister\nSign In\nRepositories\nUsers\nOrganizations\nSort\ncarol (Carol Example)\nJoined on\nbob (Bob Example)\nJoined on\nalice (Alice Example)\nJoined on\nPowered by Gitea\nPage:\n24ms\nTemplate:\n23ms\nEnglish\nLicenses\nAPI",
+  "text_truncated": false,
+  "title": "Explore - Gitea",
+  "url": "/explore/users",
+  "viewport": [
+    1280,
+    900
+  ]
+}

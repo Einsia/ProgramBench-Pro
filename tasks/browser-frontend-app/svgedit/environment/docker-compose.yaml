@@ -1,0 +1,36 @@
+services:
+  main:
+    image: program-bench-svgedit-agent:1.0.0
+    pull_policy: never
+    cap_drop: [ALL]
+    cap_add: [CHOWN, FOWNER, DAC_OVERRIDE, SETUID, SETGID, KILL]
+    security_opt: [no-new-privileges:true]
+    environment:
+      PYTHONDONTWRITEBYTECODE: "1"
+      TMPDIR: /tmp
+    volumes:
+      - ${SVGEDIT_RPC_STORAGE:-blackbox-rpc}:/blackbox:ro
+      - ${SVGEDIT_AGENT_TMP:-agent-tmp}:/tmp
+  blackbox:
+    image: program-bench-svgedit-reference:1.0.0
+    pull_policy: never
+    network_mode: none
+    cap_drop: [ALL]
+    cap_add: [CHOWN, FOWNER, DAC_OVERRIDE, SETUID, SETGID, KILL]
+    security_opt: [no-new-privileges:true]
+    cpus: 2
+    mem_limit: 8g
+    pids_limit: 2048
+    shm_size: 1g
+    environment:
+      HOME: /reference/home
+      XDG_CACHE_HOME: /reference/cache
+    volumes:
+      - ${SVGEDIT_REFERENCE_STORAGE:-reference-state}:/reference
+      - ${SVGEDIT_REFERENCE_TMP:-reference-tmp}:/tmp
+      - ${SVGEDIT_RPC_STORAGE:-blackbox-rpc}:/blackbox
+volumes:
+  blackbox-rpc:
+  agent-tmp:
+  reference-state:
+  reference-tmp:

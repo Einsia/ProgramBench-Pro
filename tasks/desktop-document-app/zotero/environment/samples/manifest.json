@@ -1,0 +1,7 @@
+{
+  "sample-article.pdf": {"kind": "PDF", "pages": 2, "title": "A Sample Article", "author": "Jane Example"},
+  "sample-library.bib": {"kind": "BibTeX", "entries": ["wirth1976algorithms (book)", "hoare1969axiomatic (article)", "example2010chapter (incollection)"]},
+  "sample-library.ris": {"kind": "RIS", "records": ["Thompson 1984 (journal article)", "Kernighan and Ritchie 1978 (book)"]},
+  "sample-items.json": {"kind": "CSL JSON", "items": ["Codd 1970 (article)", "Example 2010 (chapter)"]},
+  "sample-citations.rtf": {"kind": "RTF", "citation markers": ["{Wirth, 1976}"]}
+}

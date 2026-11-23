@@ -1,0 +1,20 @@
+FROM program-bench-calcurse-base:1.0.0
+COPY solution /solution
+# The black-box runtime: the same files the verifier image installs to drive applications.
+COPY environment/runtime/ /opt/blackbox/runtime/
+RUN bash /solution/solve.sh && rm -rf /solution && \
+    chmod -R u=rwX,go=rX /opt/blackbox/runtime && \
+    mkdir -p /reference /blackbox && chown -R root:root /reference /blackbox && \
+    # Protect the reference installation so it cannot be listed or copied: the directories are root-owned and traversable
+    # but not listable (0711), the calcurse program is executable (0555), and the
+    # other files are readable by exact path only. The product itself cannot reach the installation at all:
+    # pbsandbox.so confines calcurse to its instance files and the system data it needs .
+    chown -R root:root /app/solution && \
+    find /app/solution -type d -exec chmod 0711 {} + && \
+    find /app/solution -type f -exec chmod 0444 {} + && \
+    chmod 0555 /app/solution/start.sh && \
+    chmod 0555 /app/solution/calcurse/bin/calcurse
+ENV PYTHONDONTWRITEBYTECODE=1 LANG=C.UTF-8 LC_ALL=C.UTF-8 TZ=UTC TMPDIR=/tmp
+USER root
+ENTRYPOINT ["/usr/bin/tini", "--", "python3", "-I", "-B", "/opt/blackbox/runtime/reference_entrypoint.py"]
+CMD ["python3", "-I", "-B", "/opt/blackbox/runtime/broker.py", "--user", "agent", "--socket-mode", "0600", "--log-dir", "/reference/logs"]

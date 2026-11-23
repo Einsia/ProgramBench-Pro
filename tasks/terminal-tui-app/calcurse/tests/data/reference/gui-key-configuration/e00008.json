@@ -1,0 +1,197 @@
+{
+  "cursor": {
+    "column": 41,
+    "hidden": true,
+    "row": 33
+  },
+  "process": "running",
+  "screen": [
+    "00|┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐",
+    "01|│                                                  keys configuration                                                  │",
+    "02|├──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤",
+    "03|│ generic-cancel        = ESC",
+    "04|│",
+    "05|│ generic-select        = SPC",
+    "06|│",
+    "07|│ generic-credits       = @",
+    "08|│",
+    "09|│ generic-help          = ?",
+    "10|│",
+    "11|│ generic-quit          = q Q                                                                                          │",
+    "12|│                                                                                                                      │",
+    "13|│ generic-save          = s ^S z                                                                                       │",
+    "14|│                                                                                                                      │",
+    "15|│ generic-reload        = R                                                                                            │",
+    "16|│                                                                                                                      │",
+    "17|│ generic-copy          = c                                                                                            │",
+    "18|│                                                                                                                      │",
+    "19|│ generic-paste         = p ^V                                                                                         │",
+    "20|│                                                                                                                      │",
+    "21|│ generic-change-view   = TAB                                                                                          │",
+    "22|│                                                                                                                      │",
+    "23|│ generic-prev-view     = KEY_BTAB                                                                                     │",
+    "24|│                                                                                                                      │",
+    "25|│ generic-import        = i I                                                                                          │",
+    "26|│                                                                                                                      │",
+    "27|│ generic-export        = x X                                                                                          │",
+    "28|│                                                                                                                      │",
+    "29|│ generic-goto          = g G                                                                                          │",
+    "30|│                                                                                                                      │",
+    "31|│ generic-other-cmd     = o O                                                                                          │",
+    "32|└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘",
+    "33|───[ Wed 2026-03-18 | 09:30:00 ]───(apts)───────────────────────────────────────────────────────────────────────────────",
+    "34|  q Quit                        a Add Item                    k Up                          h Left",
+    "35|  ? Help                        d Del Item                    j Down                        l Right"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        51,
+        69
+      ],
+      "row": 1,
+      "style": [
+        "fg=red"
+      ],
+      "text": "keys configuration"
+    },
+    {
+      "columns": [
+        2,
+        15
+      ],
+      "row": 13,
+      "style": [
+        "fg=red"
+      ],
+      "text": "generic-save "
+    },
+    {
+      "columns": [
+        24,
+        25
+      ],
+      "row": 13,
+      "style": [
+        "fg=red"
+      ],
+      "text": "="
+    },
+    {
+      "columns": [
+        26,
+        28
+      ],
+      "row": 13,
+      "style": [
+        "fg=red"
+      ],
+      "text": "s "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 33,
+      "style": [
+        "underline",
+        "reverse",
+        "fg=red"
+      ],
+      "text": "───[ Wed 2026-03-18 | 09:30:00 ]───(apts)───────────────────────────────────────────────────────────────────────────────"
+    },
+    {
+      "columns": [
+        2,
+        3
+      ],
+      "row": 34,
+      "style": [
+        "fg=red"
+      ],
+      "text": "q"
+    },
+    {
+      "columns": [
+        32,
+        33
+      ],
+      "row": 34,
+      "style": [
+        "fg=red"
+      ],
+      "text": "a"
+    },
+    {
+      "columns": [
+        62,
+        63
+      ],
+      "row": 34,
+      "style": [
+        "fg=red"
+      ],
+      "text": "k"
+    },
+    {
+      "columns": [
+        92,
+        93
+      ],
+      "row": 34,
+      "style": [
+        "fg=red"
+      ],
+      "text": "h"
+    },
+    {
+      "columns": [
+        2,
+        3
+      ],
+      "row": 35,
+      "style": [
+        "fg=red"
+      ],
+      "text": "?"
+    },
+    {
+      "columns": [
+        32,
+        33
+      ],
+      "row": 35,
+      "style": [
+        "fg=red"
+      ],
+      "text": "d"
+    },
+    {
+      "columns": [
+        62,
+        63
+      ],
+      "row": 35,
+      "style": [
+        "fg=red"
+      ],
+      "text": "j"
+    },
+    {
+      "columns": [
+        92,
+        93
+      ],
+      "row": 35,
+      "style": [
+        "fg=red"
+      ],
+      "text": "l"
+    }
+  ]
+}

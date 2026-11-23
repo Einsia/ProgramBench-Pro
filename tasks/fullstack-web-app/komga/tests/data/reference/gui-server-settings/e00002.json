@@ -1,0 +1,605 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        260,
+        8,
+        48,
+        48
+      ],
+      "ref": "e3565697427",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        308,
+        8,
+        956,
+        48
+      ],
+      "expanded": false,
+      "ref": "e3932625320",
+      "role": "combobox",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "bounds": [
+        348,
+        16,
+        900,
+        32
+      ],
+      "placeholder": "Search",
+      "ref": "e3492990951",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        8,
+        73,
+        240,
+        40
+      ],
+      "href": "/dashboard",
+      "ref": "e4053023811",
+      "role": null,
+      "tag": "a",
+      "text": "Home"
+    },
+    {
+      "bounds": [
+        8,
+        117,
+        240,
+        40
+      ],
+      "href": "/libraries/all",
+      "ref": "e2922887771",
+      "role": null,
+      "tag": "a",
+      "text": "Libraries"
+    },
+    {
+      "bounds": [
+        168,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3616030284",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        204,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3666363141",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        161,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e1084188748",
+      "role": "button",
+      "tag": "div",
+      "text": "Import"
+    },
+    {
+      "bounds": [
+        8,
+        201,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e3453248592",
+      "role": "button",
+      "tag": "div",
+      "text": "Media"
+    },
+    {
+      "bounds": [
+        8,
+        241,
+        240,
+        40
+      ],
+      "href": "/history",
+      "ref": "e402132000",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        8,
+        285,
+        240,
+        40
+      ],
+      "expanded": true,
+      "ref": "e3070675700",
+      "role": "button",
+      "tag": "div",
+      "text": "Server"
+    },
+    {
+      "bounds": [
+        8,
+        329,
+        240,
+        40
+      ],
+      "href": "/settings/users",
+      "ref": "e3565617267",
+      "role": null,
+      "tag": "a",
+      "text": "Users"
+    },
+    {
+      "bounds": [
+        8,
+        373,
+        240,
+        40
+      ],
+      "href": "/settings/server",
+      "ref": "e1043275034",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        8,
+        417,
+        240,
+        40
+      ],
+      "href": "/settings/ui",
+      "ref": "e4106621851",
+      "role": null,
+      "tag": "a",
+      "text": "User Interface"
+    },
+    {
+      "bounds": [
+        8,
+        461,
+        240,
+        40
+      ],
+      "href": "/settings/metrics",
+      "ref": "e2826219996",
+      "role": null,
+      "tag": "a",
+      "text": "Metrics"
+    },
+    {
+      "bounds": [
+        8,
+        505,
+        240,
+        40
+      ],
+      "href": "/settings/announcements",
+      "ref": "e3707466815",
+      "role": null,
+      "tag": "a",
+      "text": "Announcements"
+    },
+    {
+      "bounds": [
+        8,
+        549,
+        240,
+        40
+      ],
+      "href": "/settings/updates",
+      "ref": "e738882402",
+      "role": null,
+      "tag": "a",
+      "text": "Updates"
+    },
+    {
+      "bounds": [
+        8,
+        589,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e1523447983",
+      "role": "button",
+      "tag": "div",
+      "text": "My Account"
+    },
+    {
+      "bounds": [
+        8,
+        673,
+        240,
+        40
+      ],
+      "href": "/next",
+      "ref": "e4201642777",
+      "role": null,
+      "tag": "a",
+      "text": "Try the new UI"
+    },
+    {
+      "bounds": [
+        72,
+        750,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e3477798934",
+      "role": "button",
+      "tag": "div",
+      "text": "Theme\nSystem"
+    },
+    {
+      "bounds": [
+        129,
+        750,
+        83,
+        26
+      ],
+      "label": "Theme",
+      "ref": "e2495161966",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        72,
+        814,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e750624210",
+      "role": "button",
+      "tag": "div",
+      "text": "Translation\nEnglish"
+    },
+    {
+      "bounds": [
+        128,
+        814,
+        84,
+        26
+      ],
+      "label": "Translation",
+      "ref": "e3247211374",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        304,
+        184,
+        345,
+        32
+      ],
+      "expanded": false,
+      "ref": "e3961197912",
+      "role": "button",
+      "tag": "div",
+      "text": "Thumbnails size\nDefault (300px)"
+    },
+    {
+      "bounds": [
+        419,
+        184,
+        202,
+        32
+      ],
+      "label": "Thumbnails size",
+      "ref": "e1420782733",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        336,
+        238,
+        313,
+        20
+      ],
+      "checked": false,
+      "label": "Delete empty collections after scan",
+      "proxy": true,
+      "ref": "e3225862107",
+      "role": "checkbox",
+      "tag": "input",
+      "text": "Delete empty collections after scan",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        336,
+        282,
+        313,
+        20
+      ],
+      "checked": true,
+      "label": "Delete empty read lists after scan",
+      "proxy": true,
+      "ref": "e1157545830",
+      "role": "checkbox",
+      "tag": "input",
+      "text": "Delete empty read lists after scan",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        304,
+        332,
+        345,
+        32
+      ],
+      "label": "Task threads",
+      "min": "1",
+      "ref": "e1910011732",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        304,
+        414,
+        345,
+        32
+      ],
+      "label": "Remember me duration (in days)",
+      "min": "1",
+      "ref": "e2312521049",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "365"
+    },
+    {
+      "bounds": [
+        336,
+        490,
+        313,
+        20
+      ],
+      "checked": false,
+      "label": "Regenerate the RememberMe key",
+      "proxy": true,
+      "ref": "e3231104696",
+      "role": "checkbox",
+      "tag": "input",
+      "text": "Regenerate the RememberMe key",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        304,
+        562,
+        313,
+        32
+      ],
+      "label": "Server Port",
+      "max": "65535",
+      "min": "1",
+      "placeholder": "3000",
+      "ref": "e1238459079",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": ""
+    },
+    {
+      "bounds": [
+        304,
+        644,
+        341,
+        32
+      ],
+      "label": "Base URL",
+      "ref": "e3304998475",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        336,
+        720,
+        313,
+        20
+      ],
+      "checked": false,
+      "label": "Proxy Kobo Sync requests to Kobo Store",
+      "proxy": true,
+      "ref": "e677313248",
+      "role": "checkbox",
+      "tag": "input",
+      "text": "Proxy Kobo Sync requests to Kobo Store",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        304,
+        770,
+        341,
+        32
+      ],
+      "label": "Kobo Sync external port",
+      "max": "65535",
+      "min": "1",
+      "ref": "e3632707385",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": ""
+    },
+    {
+      "bounds": [
+        304,
+        852,
+        252,
+        32
+      ],
+      "label": "Path to kepubify",
+      "ref": "e339128875",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        569,
+        856,
+        80,
+        28
+      ],
+      "ref": "e3083242575",
+      "role": null,
+      "tag": "button",
+      "text": "BROWSE",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        304,
+        930,
+        99,
+        36
+      ],
+      "disabled": true,
+      "offscreen": true,
+      "ref": "e720617068",
+      "role": null,
+      "tag": "button",
+      "text": "DISCARD",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        427,
+        930,
+        148,
+        36
+      ],
+      "disabled": true,
+      "offscreen": true,
+      "ref": "e627264999",
+      "role": null,
+      "tag": "button",
+      "text": "SAVE CHANGES",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        304,
+        1094,
+        194,
+        36
+      ],
+      "offscreen": true,
+      "ref": "e1316892444",
+      "role": null,
+      "tag": "button",
+      "text": "DOWNLOAD LOG FILE",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        304,
+        1154,
+        179,
+        36
+      ],
+      "offscreen": true,
+      "ref": "e3014928312",
+      "role": null,
+      "tag": "button",
+      "text": "CANCEL ALL TASKS",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        304,
+        1214,
+        125,
+        36
+      ],
+      "offscreen": true,
+      "ref": "e2405251841",
+      "role": null,
+      "tag": "button",
+      "text": "SHUT DOWN",
+      "type": "button"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    1298
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Komga\nHome\nLibraries\nImport\nMedia\nHistory\nServer\nUsers\nSettings\nUser Interface\nMetrics\nAnnouncements\nUpdates\nMy Account\nLog Out\nTry the new UI\nTheme\nSystem\nTranslation\nEnglish\nServer Settings\nThumbnails size\nDefault (300px)\nDelete empty collections after scan\nDelete empty read lists after scan\nTask threads\nRemember me duration (in days)\nRequires restart to take effect\nRegenerate the RememberMe key\nRequires restart to take effect\nServer Port\nRequires restart to take effect\nBase URL\nRequires restart to take effect\nProxy Kobo Sync requests to Kobo Store\nKobo Sync external port\nSet only in case of sync issues with covers and downloads\nPath to kepubify\nBROWSE\nDISCARD\nSAVE CHANGES\nServer Management\nDOWNLOAD LOG FILE\nCANCEL ALL TASKS\nSHUT DOWN",
+  "text_truncated": false,
+  "title": "Komga",
+  "url": "/settings/server",
+  "viewport": [
+    1280,
+    900
+  ]
+}

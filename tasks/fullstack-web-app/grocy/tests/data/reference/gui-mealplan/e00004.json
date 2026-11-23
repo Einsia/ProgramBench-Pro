@@ -1,0 +1,658 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        12,
+        10,
+        250,
+        30
+      ],
+      "href": "/",
+      "ref": "e1323279754",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        0,
+        48,
+        250,
+        41
+      ],
+      "href": "/stockoverview",
+      "ref": "e1053475070",
+      "role": null,
+      "tag": "a",
+      "text": "Stock overview"
+    },
+    {
+      "bounds": [
+        0,
+        89,
+        250,
+        41
+      ],
+      "href": "/shoppinglist",
+      "ref": "e3484720244",
+      "role": null,
+      "tag": "a",
+      "text": "Shopping list"
+    },
+    {
+      "bounds": [
+        0,
+        132,
+        250,
+        41
+      ],
+      "href": "/recipes",
+      "ref": "e3605665942",
+      "role": null,
+      "tag": "a",
+      "text": "Recipes"
+    },
+    {
+      "bounds": [
+        0,
+        173,
+        250,
+        41
+      ],
+      "href": "/mealplan",
+      "ref": "e2044783333",
+      "role": null,
+      "tag": "a",
+      "text": "Meal plan"
+    },
+    {
+      "bounds": [
+        0,
+        216,
+        250,
+        41
+      ],
+      "href": "/choresoverview",
+      "ref": "e3381809840",
+      "role": null,
+      "tag": "a",
+      "text": "Chores overview"
+    },
+    {
+      "bounds": [
+        0,
+        257,
+        250,
+        41
+      ],
+      "href": "/tasks",
+      "ref": "e3412285266",
+      "role": null,
+      "tag": "a",
+      "text": "Tasks"
+    },
+    {
+      "bounds": [
+        0,
+        298,
+        250,
+        41
+      ],
+      "href": "/batteriesoverview",
+      "ref": "e1339919142",
+      "role": null,
+      "tag": "a",
+      "text": "Batteries overview"
+    },
+    {
+      "bounds": [
+        0,
+        339,
+        250,
+        41
+      ],
+      "href": "/equipment",
+      "ref": "e3517608074",
+      "role": null,
+      "tag": "a",
+      "text": "Equipment"
+    },
+    {
+      "bounds": [
+        0,
+        382,
+        250,
+        41
+      ],
+      "href": "/calendar",
+      "ref": "e2087124146",
+      "role": null,
+      "tag": "a",
+      "text": "Calendar"
+    },
+    {
+      "bounds": [
+        0,
+        425,
+        250,
+        41
+      ],
+      "href": "/purchase",
+      "ref": "e337229804",
+      "role": null,
+      "tag": "a",
+      "text": "Purchase"
+    },
+    {
+      "bounds": [
+        0,
+        466,
+        250,
+        41
+      ],
+      "href": "/consume",
+      "ref": "e2179824942",
+      "role": null,
+      "tag": "a",
+      "text": "Consume"
+    },
+    {
+      "bounds": [
+        0,
+        507,
+        250,
+        41
+      ],
+      "href": "/transfer",
+      "ref": "e3647083400",
+      "role": null,
+      "tag": "a",
+      "text": "Transfer"
+    },
+    {
+      "bounds": [
+        0,
+        548,
+        250,
+        41
+      ],
+      "href": "/inventory",
+      "ref": "e2792827466",
+      "role": null,
+      "tag": "a",
+      "text": "Inventory"
+    },
+    {
+      "bounds": [
+        0,
+        589,
+        250,
+        41
+      ],
+      "href": "/choretracking",
+      "ref": "e2922941790",
+      "role": null,
+      "tag": "a",
+      "text": "Chore tracking"
+    },
+    {
+      "bounds": [
+        0,
+        630,
+        250,
+        41
+      ],
+      "href": "/batterytracking",
+      "ref": "e1450042086",
+      "role": null,
+      "tag": "a",
+      "text": "Battery tracking"
+    },
+    {
+      "bounds": [
+        0,
+        673,
+        250,
+        41
+      ],
+      "href": "/mealplan?week=2026-03-10&start=2026-03-08#sub-nav-manage-master-data",
+      "ref": "e761715877",
+      "role": null,
+      "tag": "a",
+      "text": "Manage master data"
+    },
+    {
+      "bounds": [
+        0,
+        852,
+        250,
+        49
+      ],
+      "ref": "e1866405181",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1039,
+        8,
+        113,
+        33
+      ],
+      "href": "/mealplan?week=2026-03-10&start=2026-03-08",
+      "ref": "e977631619",
+      "role": null,
+      "tag": "a",
+      "text": "admin"
+    },
+    {
+      "bounds": [
+        1152,
+        8,
+        64,
+        33
+      ],
+      "href": "/mealplan?week=2026-03-10&start=2026-03-08",
+      "ref": "e270618320",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1216,
+        8,
+        64,
+        33
+      ],
+      "href": "/mealplan?week=2026-03-10&start=2026-03-08",
+      "ref": "e287395939",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1066,
+        56,
+        56,
+        35
+      ],
+      "ref": "e2835477920",
+      "role": null,
+      "tag": "a",
+      "text": "Print"
+    },
+    {
+      "bounds": [
+        1130,
+        56,
+        142,
+        35
+      ],
+      "href": "/mealplansections",
+      "ref": "e2059138086",
+      "role": null,
+      "tag": "a",
+      "text": "Configure sections"
+    },
+    {
+      "bounds": [
+        1079,
+        109,
+        50,
+        29
+      ],
+      "ref": "e3196214625",
+      "role": null,
+      "tag": "button",
+      "text": "week",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1129,
+        109,
+        41,
+        29
+      ],
+      "ref": "e3994835211",
+      "role": null,
+      "tag": "button",
+      "text": "day",
+      "type": "button"
+    },
+    {
+      "aria": "prev",
+      "bounds": [
+        1169,
+        109,
+        27,
+        29
+      ],
+      "ref": "e3643343391",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1195,
+        109,
+        54,
+        29
+      ],
+      "disabled": true,
+      "ref": "e1858497638",
+      "role": null,
+      "tag": "button",
+      "text": "today",
+      "type": "button"
+    },
+    {
+      "aria": "next",
+      "bounds": [
+        1249,
+        109,
+        27,
+        29
+      ],
+      "ref": "e4278475451",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        308,
+        166,
+        30,
+        29
+      ],
+      "ref": "e871395989",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Add recipe",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        337,
+        166,
+        28,
+        29
+      ],
+      "ref": "e854618370",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        447,
+        166,
+        30,
+        29
+      ],
+      "ref": "e837840751",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Add recipe",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        476,
+        166,
+        28,
+        29
+      ],
+      "ref": "e821063132",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        584,
+        166,
+        30,
+        29
+      ],
+      "ref": "e804285513",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Add recipe",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        613,
+        166,
+        28,
+        29
+      ],
+      "ref": "e787507894",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        722,
+        166,
+        30,
+        29
+      ],
+      "ref": "e770730275",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Add recipe",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        752,
+        166,
+        28,
+        29
+      ],
+      "ref": "e753952656",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        864,
+        166,
+        30,
+        29
+      ],
+      "ref": "e1005616941",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Add recipe",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        893,
+        166,
+        28,
+        29
+      ],
+      "ref": "e988839322",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1008,
+        166,
+        30,
+        29
+      ],
+      "ref": "e1652699574",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Add recipe",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1037,
+        166,
+        28,
+        29
+      ],
+      "ref": "e1669477193",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1145,
+        166,
+        30,
+        29
+      ],
+      "ref": "e1619144336",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Add recipe",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1175,
+        166,
+        28,
+        29
+      ],
+      "ref": "e1635921955",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        576,
+        238,
+        139,
+        177
+      ],
+      "ref": "e2275619059",
+      "role": null,
+      "tag": "a",
+      "text": "Rice bowl\n2 servings\n Enough in stock\n$5.00 / 0 kcal per serving"
+    },
+    {
+      "bounds": [
+        598,
+        340,
+        29,
+        24
+      ],
+      "href": "/mealplan?week=2026-03-10&start=2026-03-08",
+      "ref": "e304173558",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Edit this item"
+    },
+    {
+      "bounds": [
+        632,
+        340,
+        27,
+        24
+      ],
+      "href": "/mealplan?week=2026-03-10&start=2026-03-08",
+      "ref": "e320951177",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Delete this item"
+    },
+    {
+      "bounds": [
+        672,
+        340,
+        29,
+        24
+      ],
+      "href": "/mealplan?week=2026-03-10&start=2026-03-08",
+      "ref": "e337728796",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Consume all ingredients needed by this recipe"
+    },
+    {
+      "bounds": [
+        609,
+        366,
+        33,
+        24
+      ],
+      "href": "/mealplan?week=2026-03-10&start=2026-03-08",
+      "ref": "e354506415",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Put missing products on shopping list"
+    },
+    {
+      "bounds": [
+        655,
+        366,
+        27,
+        24
+      ],
+      "href": "/mealplan?week=2026-03-10&start=2026-03-08",
+      "ref": "e371284034",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Mark this item as done"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": " Stock overview\n Shopping list\n Recipes\n Meal plan\n Chores overview\n Tasks\n Batteries overview\n Equipment\n Calendar\n Purchase\n Consume\n Transfer\n Inventory\n Chore tracking\n Battery tracking\n Manage master data\n admin\nMeal plan\nPrint\nConfigure sections\nMar 8 – 14, 2026\nweek\nday\ntoday\n\t\nSun 3/8\t\nMon 3/9\t\nTue 3/10\n$5.00 / 0 kcal per day\n\t\nWed 3/11\t\nThu 3/12\t\nFri 3/13\t\nSat 3/14\n\n\nDinner\n18:30\n\t\t\t\t\t\t\t\n\t\t\t\nRice bowl\n2 servings\n Enough in stock\n$5.00 / 0 kcal per serving\n    \n\t\t\t\t",
+  "text_truncated": false,
+  "title": "Meal plan | Grocy",
+  "url": "/mealplan?week=2026-03-10&start=2026-03-08",
+  "viewport": [
+    1280,
+    900
+  ]
+}

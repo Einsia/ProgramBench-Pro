@@ -1,0 +1,45 @@
+schema_version = "1.4"
+artifacts = [{ source = "/app/solution" }]
+
+[task]
+name = "program-bench/piskel"
+version = "1.0.0"
+description = "Reconstruct Piskel 0.15.0, a browser editor for pixel art and animated sprites, from black-box observation."
+keywords = ["pixel-art", "sprite-animation", "canvas", "browser", "javascript"]
+
+[metadata]
+category = "browser-frontend-app"
+upstream = "piskelapp/piskel 0.15.0"
+license = "Apache-2.0 AND MIT AND CC-BY-3.0"
+interface = "browser GUI; sprite-coordinate input; JavaScript document API; file upload/drop and downloads"
+network_boundary = "agent: no network except hosts allowed with --allow-agent-host (Harbor egress sidecar); reference and verifier: Compose network_mode:none; restricted Unix socket RPC to the black-box runtime"
+
+[agent]
+timeout_sec = 28800
+user = "agent"
+
+[environment]
+docker_image = "program-bench-piskel-agent:1.0.0"
+build_timeout_sec = 600
+cpus = 4
+memory_mb = 16384
+storage_mb = 20480
+network_mode = "no-network"
+
+[environment.healthcheck]
+command = "blackbox-health"
+interval_sec = 1
+timeout_sec = 5
+retries = 60
+
+[verifier]
+timeout_sec = 750000
+environment_mode = "separate"
+
+[verifier.environment]
+docker_image = "program-bench-piskel-verifier:1.0.0"
+cpus = 4
+memory_mb = 8192
+storage_mb = 20480
+network_mode = "no-network"
+build_timeout_sec = 600

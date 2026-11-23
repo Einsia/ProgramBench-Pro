@@ -1,0 +1,449 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        4,
+        0,
+        48,
+        48
+      ],
+      "ref": "e11102633781375530811",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        52,
+        0,
+        48,
+        48
+      ],
+      "href": "/g/home",
+      "ref": "e6999663049315888676",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        52,
+        0,
+        48,
+        48
+      ],
+      "ref": "e11102632681863902600",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        964,
+        4,
+        214,
+        40
+      ],
+      "placeholder": "Press '/'",
+      "ref": "e8266481313866675366",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1178,
+        6,
+        98,
+        36
+      ],
+      "ref": "e18428108610740647529",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        0,
+        48,
+        255,
+        76
+      ],
+      "href": "/user/profile",
+      "ref": "e9026058544016782197",
+      "role": null,
+      "tag": "a",
+      "text": "Change Me\nFavorite Recipes"
+    },
+    {
+      "bounds": [
+        64,
+        84,
+        123,
+        28
+      ],
+      "href": "/user/4b11b8e6-1903-4fa0-abdd-56caa8309534/favorites",
+      "ref": "e14013455441632128615",
+      "role": null,
+      "tag": "a",
+      "text": "Favorite Recipes"
+    },
+    {
+      "bounds": [
+        8,
+        137,
+        118,
+        44
+      ],
+      "expanded": false,
+      "ref": "e3474039823230350343",
+      "role": null,
+      "tag": "button",
+      "text": "Create",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        189,
+        239,
+        44
+      ],
+      "href": "/g/home",
+      "ref": "e18093976238526241986",
+      "role": "link",
+      "tag": "a",
+      "text": "Recipes"
+    },
+    {
+      "bounds": [
+        8,
+        233,
+        239,
+        44
+      ],
+      "href": "/g/home/recipes/finder",
+      "ref": "e7707295927814897631",
+      "role": "link",
+      "tag": "a",
+      "text": "Recipe Finder"
+    },
+    {
+      "bounds": [
+        8,
+        277,
+        239,
+        44
+      ],
+      "href": "/household/mealplan/planner/view",
+      "ref": "e15345382085259656294",
+      "role": "link",
+      "tag": "a",
+      "text": "Meal Planner"
+    },
+    {
+      "bounds": [
+        8,
+        321,
+        239,
+        44
+      ],
+      "href": "/shopping-lists",
+      "ref": "e1392928906823606240",
+      "role": "link",
+      "tag": "a",
+      "text": "Shopping Lists"
+    },
+    {
+      "bounds": [
+        8,
+        365,
+        239,
+        44
+      ],
+      "href": "/g/home/recipes/timeline",
+      "ref": "e14323894326858449786",
+      "role": "link",
+      "tag": "a",
+      "text": "Timeline"
+    },
+    {
+      "bounds": [
+        8,
+        409,
+        239,
+        44
+      ],
+      "href": "/g/home/cookbooks",
+      "ref": "e12188956910744264135",
+      "role": "link",
+      "tag": "a",
+      "text": "Cookbooks"
+    },
+    {
+      "bounds": [
+        8,
+        453,
+        239,
+        44
+      ],
+      "ref": "e18331291136850913378",
+      "role": "listitem",
+      "tag": "div",
+      "text": "Organizers"
+    },
+    {
+      "bounds": [
+        8,
+        848,
+        239,
+        44
+      ],
+      "expanded": false,
+      "ref": "e9453406036293201081",
+      "role": "listitem",
+      "tag": "div",
+      "text": "Settings"
+    },
+    {
+      "aria": "Private Group",
+      "bounds": [
+        429,
+        379,
+        101,
+        40
+      ],
+      "checked": false,
+      "label": "Private Group",
+      "proxy": true,
+      "ref": "e983960546908018922",
+      "role": null,
+      "tag": "input",
+      "text": "Private Group",
+      "type": "checkbox",
+      "value": "true"
+    },
+    {
+      "bounds": [
+        433,
+        467,
+        52,
+        20
+      ],
+      "href": "[external]",
+      "ref": "e17718561554466260587",
+      "role": null,
+      "tag": "a",
+      "text": "Docs"
+    },
+    {
+      "aria": "Show announcements from Mealie",
+      "bounds": [
+        429,
+        511,
+        251,
+        40
+      ],
+      "checked": false,
+      "label": "Show announcements from Mealie",
+      "proxy": true,
+      "ref": "e2181461938646160598",
+      "role": null,
+      "tag": "input",
+      "text": "Show announcements from Mealie",
+      "type": "checkbox",
+      "value": "true"
+    },
+    {
+      "bounds": [
+        1044,
+        640,
+        100,
+        36
+      ],
+      "ref": "e9707048278508923054",
+      "role": null,
+      "tag": "button",
+      "text": "Update"
+    },
+    {
+      "bounds": [
+        401,
+        874,
+        734,
+        40
+      ],
+      "expanded": false,
+      "ref": "e329771462843070394",
+      "role": "combobox",
+      "tag": "div",
+      "text": "Default Provider"
+    },
+    {
+      "bounds": [
+        401,
+        882,
+        694,
+        24
+      ],
+      "expanded": false,
+      "label": "Default Provider",
+      "ref": "e881260056816677277",
+      "role": "combobox",
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1099,
+        882,
+        24,
+        24
+      ],
+      "ref": "e18360827172584935921",
+      "role": "button",
+      "tag": "i",
+      "text": ""
+    },
+    {
+      "bounds": [
+        401,
+        962,
+        734,
+        40
+      ],
+      "expanded": false,
+      "offscreen": true,
+      "ref": "e17593527874402789267",
+      "role": "combobox",
+      "tag": "div",
+      "text": "Audio Provider"
+    },
+    {
+      "bounds": [
+        401,
+        970,
+        694,
+        24
+      ],
+      "expanded": false,
+      "label": "Audio Provider",
+      "offscreen": true,
+      "ref": "e12940986128417685862",
+      "role": "combobox",
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1099,
+        970,
+        24,
+        24
+      ],
+      "offscreen": true,
+      "ref": "e18360826073073307710",
+      "role": "button",
+      "tag": "i",
+      "text": ""
+    },
+    {
+      "bounds": [
+        401,
+        1050,
+        734,
+        40
+      ],
+      "expanded": false,
+      "offscreen": true,
+      "ref": "e11575906321853579094",
+      "role": "combobox",
+      "tag": "div",
+      "text": "Image Provider"
+    },
+    {
+      "bounds": [
+        401,
+        1058,
+        694,
+        24
+      ],
+      "expanded": false,
+      "label": "Image Provider",
+      "offscreen": true,
+      "ref": "e1430781886818884741",
+      "role": "combobox",
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1099,
+        1058,
+        24,
+        24
+      ],
+      "offscreen": true,
+      "ref": "e18360824973561679499",
+      "role": "button",
+      "tag": "i",
+      "text": ""
+    },
+    {
+      "bounds": [
+        991,
+        1146,
+        128,
+        28
+      ],
+      "offscreen": true,
+      "ref": "e1449216694008459478",
+      "role": null,
+      "tag": "button",
+      "text": "Create Provider",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1044,
+        1232,
+        100,
+        36
+      ],
+      "offscreen": true,
+      "ref": "e9707049378020551265",
+      "role": null,
+      "tag": "button",
+      "text": "Update"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    1292
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Mealie\nLogout\nChange Me\nFavorite Recipes\nCreate\nRecipes\nRecipe Finder\nMeal Planner\nShopping Lists\nTimeline\nCookbooks\nOrganizers\nSettings\nGroup Settings\nThese items are shared within your group. Editing one of them will change it for the whole group!\nGroup Preferences\nPrivate Group\n\nSetting your group to private will disable all public view options. This overrides any individual public view settings\n\nDocs\nShow announcements from Mealie\n\nWhether or not you want to allow users to see announcements from Mealie. When enabled users can still opt-out from seeing them in their user settings\n\nUpdate\nAI Provider Settings\nConfigure AI providers to enable AI-powered features, such as enhanced ingredient parsing, creating recipes from videos, and more!\nDefault Provider\nRequired to enable AI features\nAudio Provider\nEnables audio transcription features, such as creating recipes from videos\nImage Provider\nEnables image recognition features, such as creating recipes from images\nProviders\nCreate Provider\nUpdate",
+  "text_truncated": false,
+  "title": "Group",
+  "url": "/group/",
+  "viewport": [
+    1280,
+    900
+  ]
+}

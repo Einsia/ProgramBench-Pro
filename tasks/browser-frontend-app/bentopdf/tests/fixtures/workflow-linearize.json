@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "nodes": [
+    {
+      "id": "input",
+      "type": "PDFInputNode",
+      "position": {
+        "x": 40,
+        "y": 40
+      },
+      "controls": {}
+    },
+    {
+      "id": "process",
+      "type": "LinearizeNode",
+      "position": {
+        "x": 340,
+        "y": 40
+      },
+      "controls": {}
+    },
+    {
+      "id": "output",
+      "type": "DownloadNode",
+      "position": {
+        "x": 640,
+        "y": 40
+      },
+      "controls": {
+        "filename": "workflow-output"
+      }
+    }
+  ],
+  "connections": [
+    {
+      "id": "first",
+      "source": "input",
+      "sourceOutput": "pdf",
+      "target": "process",
+      "targetInput": "pdf"
+    },
+    {
+      "id": "second",
+      "source": "process",
+      "sourceOutput": "pdf",
+      "target": "output",
+      "targetInput": "pdf"
+    }
+  ]
+}

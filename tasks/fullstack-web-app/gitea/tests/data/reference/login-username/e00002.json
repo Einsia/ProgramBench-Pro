@@ -1,0 +1,593 @@
+{
+  "controls": [
+    {
+      "aria": "Dashboard",
+      "bounds": [
+        10,
+        7,
+        56,
+        36
+      ],
+      "href": "/",
+      "ref": "e223",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        71,
+        7,
+        76,
+        36
+      ],
+      "href": "/issues",
+      "ref": "e224",
+      "role": null,
+      "tag": "a",
+      "text": "Issues"
+    },
+    {
+      "bounds": [
+        152,
+        7,
+        135,
+        36
+      ],
+      "href": "/pulls",
+      "ref": "e225",
+      "role": null,
+      "tag": "a",
+      "text": "Pull Requests"
+    },
+    {
+      "bounds": [
+        293,
+        7,
+        110,
+        36
+      ],
+      "href": "/milestones",
+      "ref": "e226",
+      "role": null,
+      "tag": "a",
+      "text": "Milestones"
+    },
+    {
+      "bounds": [
+        408,
+        7,
+        85,
+        36
+      ],
+      "href": "/explore/repos",
+      "ref": "e227",
+      "role": null,
+      "tag": "a",
+      "text": "Explore"
+    },
+    {
+      "aria": "Notifications",
+      "bounds": [
+        1094,
+        7,
+        42,
+        36
+      ],
+      "href": "/notifications",
+      "ref": "e228",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Notifications"
+    },
+    {
+      "aria": "Create…",
+      "bounds": [
+        1141,
+        7,
+        60,
+        36
+      ],
+      "expanded": false,
+      "ref": "e229",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Create…"
+    },
+    {
+      "aria": "Profile and Settings…",
+      "bounds": [
+        1207,
+        7,
+        64,
+        36
+      ],
+      "expanded": false,
+      "ref": "e230",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Profile and Settings…"
+    },
+    {
+      "bounds": [
+        33,
+        114,
+        238,
+        42
+      ],
+      "href": "/user/settings",
+      "ref": "e231",
+      "role": null,
+      "tag": "a",
+      "text": "Profile"
+    },
+    {
+      "bounds": [
+        33,
+        156,
+        238,
+        42
+      ],
+      "href": "/user/settings/account",
+      "ref": "e232",
+      "role": null,
+      "tag": "a",
+      "text": "Account"
+    },
+    {
+      "bounds": [
+        33,
+        198,
+        238,
+        42
+      ],
+      "href": "/user/settings/appearance",
+      "ref": "e233",
+      "role": null,
+      "tag": "a",
+      "text": "Appearance"
+    },
+    {
+      "bounds": [
+        33,
+        240,
+        238,
+        42
+      ],
+      "href": "/user/settings/security",
+      "ref": "e234",
+      "role": null,
+      "tag": "a",
+      "text": "Security"
+    },
+    {
+      "bounds": [
+        33,
+        282,
+        238,
+        42
+      ],
+      "href": "/user/settings/blocked_users",
+      "ref": "e235",
+      "role": null,
+      "tag": "a",
+      "text": "Blocked users"
+    },
+    {
+      "bounds": [
+        33,
+        324,
+        238,
+        42
+      ],
+      "href": "/user/settings/applications",
+      "ref": "e236",
+      "role": null,
+      "tag": "a",
+      "text": "Applications"
+    },
+    {
+      "bounds": [
+        33,
+        366,
+        238,
+        42
+      ],
+      "href": "/user/settings/keys",
+      "ref": "e237",
+      "role": null,
+      "tag": "a",
+      "text": "SSH / GPG Keys"
+    },
+    {
+      "bounds": [
+        33,
+        408,
+        238,
+        42
+      ],
+      "ref": "e238",
+      "role": null,
+      "tag": "summary",
+      "text": "Actions"
+    },
+    {
+      "bounds": [
+        33,
+        454,
+        238,
+        26
+      ],
+      "href": "/user/settings/actions/runners",
+      "ref": "e239",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        33,
+        480,
+        238,
+        26
+      ],
+      "href": "/user/settings/actions/secrets",
+      "ref": "e240",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        33,
+        506,
+        238,
+        26
+      ],
+      "href": "/user/settings/actions/variables",
+      "ref": "e241",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        33,
+        450,
+        238,
+        42
+      ],
+      "href": "/user/settings/packages",
+      "ref": "e242",
+      "role": null,
+      "tag": "a",
+      "text": "Packages"
+    },
+    {
+      "bounds": [
+        33,
+        492,
+        238,
+        42
+      ],
+      "href": "/user/settings/hooks",
+      "ref": "e243",
+      "role": null,
+      "tag": "a",
+      "text": "Webhooks"
+    },
+    {
+      "bounds": [
+        33,
+        534,
+        238,
+        42
+      ],
+      "href": "/user/settings/organization",
+      "ref": "e244",
+      "role": null,
+      "tag": "a",
+      "text": "Organizations"
+    },
+    {
+      "bounds": [
+        33,
+        576,
+        238,
+        42
+      ],
+      "href": "/user/settings/repos",
+      "ref": "e245",
+      "role": null,
+      "tag": "a",
+      "text": "Repositories"
+    },
+    {
+      "bounds": [
+        302,
+        201,
+        932,
+        38
+      ],
+      "focused": true,
+      "label": "Username",
+      "maxlength": "40",
+      "name": "name",
+      "ref": "e246",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "bob"
+    },
+    {
+      "bounds": [
+        302,
+        277,
+        932,
+        38
+      ],
+      "label": "Full Name",
+      "maxlength": "100",
+      "name": "full_name",
+      "ref": "e247",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "Bob Example"
+    },
+    {
+      "bounds": [
+        302,
+        411,
+        932,
+        60
+      ],
+      "label": "Biography",
+      "maxlength": "255",
+      "name": "description",
+      "placeholder": "Tell us a little bit about yourself! (You can use Markdown)",
+      "ref": "e248",
+      "role": null,
+      "tag": "textarea",
+      "text": "",
+      "type": "textarea",
+      "value": ""
+    },
+    {
+      "bounds": [
+        302,
+        509,
+        932,
+        38
+      ],
+      "label": "Website",
+      "maxlength": "255",
+      "name": "website",
+      "ref": "e249",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": ""
+    },
+    {
+      "bounds": [
+        302,
+        585,
+        932,
+        38
+      ],
+      "label": "Location",
+      "maxlength": "50",
+      "name": "location",
+      "placeholder": "Share your approximate location with others",
+      "ref": "e250",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        450,
+        682,
+        196,
+        40
+      ],
+      "expanded": false,
+      "ref": "e251",
+      "role": "combobox",
+      "tag": "div",
+      "text": "Public"
+    },
+    {
+      "bounds": [
+        302,
+        739,
+        15,
+        15
+      ],
+      "checked": false,
+      "label": "Hide Email Address",
+      "name": "keep_email_private",
+      "ref": "e252",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        302,
+        773,
+        15,
+        15
+      ],
+      "checked": false,
+      "label": "Hide Activity from profile page",
+      "name": "keep_activity_private",
+      "ref": "e253",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        302,
+        815,
+        162,
+        38
+      ],
+      "ref": "e254",
+      "role": null,
+      "tag": "button",
+      "text": "Update Profile"
+    },
+    {
+      "bounds": [
+        302,
+        942,
+        15,
+        15
+      ],
+      "checked": false,
+      "label": "Use Custom Avatar",
+      "name": "source",
+      "offscreen": true,
+      "ref": "e255",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "local"
+    },
+    {
+      "accept": "image/png,image/jpeg,image/gif,image/webp",
+      "bounds": [
+        468,
+        973,
+        316,
+        42
+      ],
+      "label": "Choose new avatar",
+      "name": "avatar",
+      "offscreen": true,
+      "ref": "e256",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "file",
+      "value": ""
+    },
+    {
+      "bounds": [
+        302,
+        1029,
+        153,
+        38
+      ],
+      "offscreen": true,
+      "ref": "e257",
+      "role": null,
+      "tag": "button",
+      "text": "Update Avatar"
+    },
+    {
+      "bounds": [
+        467,
+        1029,
+        220,
+        38
+      ],
+      "offscreen": true,
+      "ref": "e258",
+      "role": null,
+      "tag": "button",
+      "text": "Delete Current Avatar"
+    },
+    {
+      "bounds": [
+        20,
+        1171,
+        134,
+        20
+      ],
+      "href": "[external]",
+      "offscreen": true,
+      "ref": "e259",
+      "role": null,
+      "tag": "a",
+      "text": "Powered by Gitea"
+    },
+    {
+      "bounds": [
+        1063,
+        1173,
+        76,
+        16
+      ],
+      "expanded": false,
+      "offscreen": true,
+      "ref": "e260",
+      "role": "menu",
+      "tag": "div",
+      "text": "English"
+    },
+    {
+      "bounds": [
+        1145,
+        1171,
+        76,
+        20
+      ],
+      "href": "/assets/licenses.txt",
+      "offscreen": true,
+      "ref": "e261",
+      "role": null,
+      "tag": "a",
+      "text": "Licenses"
+    },
+    {
+      "bounds": [
+        1226,
+        1171,
+        34,
+        20
+      ],
+      "href": "/api/swagger",
+      "offscreen": true,
+      "ref": "e262",
+      "role": null,
+      "tag": "a",
+      "text": "API"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    1199
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Issues\nPull Requests\nMilestones\nExplore\n \nUser Settings\nProfile\nAccount\nAppearance\nSecurity\nBlocked users\nApplications\nSSH / GPG Keys\nActions\nPackages\nWebhooks\nOrganizations\nRepositories\nPublic Profile\n\nControl how your profile is show to other users. Your primary email address will be used for notifications, password recovery and web-based Git operations.\n\nUsername \nFull Name\nEmail Address\n\nbob@example.test\n\nBiography\nWebsite\nLocation\nPrivacy\nUser visibility \nPublic\nHide Email Address\nHide Activity from profile page\nUpdate Profile\nAvatar\nUse Custom Avatar\nChoose new avatar \nUpdate Avatar Delete Current Avatar\nPowered by Gitea\nPage:\n3ms\nTemplate:\n2ms\nEnglish\nLicenses\nAPI",
+  "text_truncated": false,
+  "title": "Profile - Gitea",
+  "url": "/user/settings",
+  "viewport": [
+    1280,
+    900
+  ]
+}

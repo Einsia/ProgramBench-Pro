@@ -1,0 +1,107 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        50,
+        0,
+        836,
+        761
+      ],
+      "ref": "canvas0",
+      "tag": "canvas"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        911,
+        39,
+        320,
+        16
+      ],
+      "label": "Noise 10",
+      "ref": "eb7c5ba4b",
+      "tag": "input",
+      "type": "range",
+      "value": "10"
+    },
+    {
+      "bounds": [
+        911,
+        103,
+        320,
+        16
+      ],
+      "label": "Yellowish 0",
+      "ref": "ebdc822ac",
+      "tag": "input",
+      "type": "range",
+      "value": "0"
+    },
+    {
+      "bounds": [
+        911,
+        167,
+        320,
+        16
+      ],
+      "label": "Resolution 150 DPI",
+      "ref": "ef103a273",
+      "tag": "input",
+      "type": "range",
+      "value": "150"
+    },
+    {
+      "bounds": [
+        49,
+        786,
+        1182,
+        48
+      ],
+      "ref": "eda63acf5",
+      "tag": "button",
+      "text": "Apply Scanner Effect"
+    },
+    {
+      "bounds": [
+        473,
+        472,
+        334,
+        40
+      ],
+      "ref": "e2a50e308",
+      "tag": "button",
+      "text": "OK"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "color.pdf",
+      "ref": "d4f5650e42f45",
+      "size": 146420
+    }
+  ],
+  "inputs": [
+    "color.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›Scanner Effect\nScanner Effect\n\nMake your PDF look like a scanned document.\n\nClick to select a file or drag and drop\n\nA single PDF file\n\nYour files never leave your device.\n\ncolor.pdf\n3.8 KB • 1 Page\nScan Settings\nReset\nColorspace\nGray\nBorder\nRotate\n0°\nRotate Variance\n0°\nBrightness\n0\nContrast\n0\nBlur\n0px\nNoise\n10\nYellowish\n0\nResolution\n150 DPI\nApply Scanner Effect\nSuccess\n\nScanner effect applied successfully!\n\nOK\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/scanner-effect.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

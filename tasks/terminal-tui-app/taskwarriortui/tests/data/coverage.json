@@ -1,0 +1,268 @@
+{
+  "counts": {
+    "assertions": 1284,
+    "backend": 1184,
+    "checkpoints": 973,
+    "features": 22,
+    "frontend": 100,
+    "gui_episodes": 70,
+    "program_episodes": 71,
+    "episodes": 141
+  },
+  "features": {
+    "actions": {
+      "assertions": 111,
+      "episodes": [
+        "actions",
+        "finish",
+        "undo",
+        "marked-actions",
+        "prompts",
+        "undo-2",
+        "prompts-2",
+        "gui-priority",
+        "gui-done-delete",
+        "gui-start-stop",
+        "gui-quick-tag",
+        "gui-duplicate",
+        "gui-undo",
+        "gui-delete-confirm",
+        "gui-undo-modify",
+        "gui-done-confirm"
+      ]
+    },
+    "add": {
+      "assertions": 194,
+      "episodes": [
+        "add-dates",
+        "add-bad-dates",
+        "add-attributes",
+        "add-prompt",
+        "add-errors",
+        "gui-add-basic",
+        "gui-add-dates",
+        "gui-add-priority",
+        "gui-add-scheduled",
+        "gui-add-depends",
+        "gui-add-recur",
+        "gui-add-subproject",
+        "gui-add-until",
+        "gui-add-tags",
+        "gui-add-error"
+      ]
+    },
+    "annotate": {
+      "assertions": 13,
+      "episodes": [
+        "annotate",
+        "gui-annotate",
+        "gui-add-annotate"
+      ]
+    },
+    "cli": {
+      "assertions": 143,
+      "episodes": [
+        "cli-queries",
+        "cli-changes",
+        "cli-config",
+        "cli-reports",
+        "cli-information",
+        "cli-metadata",
+        "cli-charts",
+        "cli-helpers",
+        "cli-confirm",
+        "cli-contexts"
+      ]
+    },
+    "completion": {
+      "assertions": 26,
+      "episodes": [
+        "completion",
+        "gui-completion",
+        "gui-completion-project"
+      ]
+    },
+    "context": {
+      "assertions": 45,
+      "episodes": [
+        "context-menu",
+        "context-write",
+        "context-preset",
+        "context-options",
+        "gui-context-home",
+        "gui-context-none"
+      ]
+    },
+    "data": {
+      "assertions": 9,
+      "episodes": [
+        "data"
+      ]
+    },
+    "details": {
+      "assertions": 53,
+      "episodes": [
+        "details",
+        "details-layout",
+        "details-scroll",
+        "details-options",
+        "details-narrow",
+        "details-wide",
+        "details-2",
+        "gui-details-pane",
+        "gui-details-task"
+      ]
+    },
+    "editing": {
+      "assertions": 20,
+      "episodes": [
+        "edit-keys",
+        "gui-edit-line",
+        "gui-edit-word"
+      ]
+    },
+    "filter": {
+      "assertions": 167,
+      "episodes": [
+        "filter-expressions",
+        "filter-prompt",
+        "filter-expressions-2",
+        "gui-filter-project",
+        "gui-filter-tags",
+        "gui-filter-overdue",
+        "gui-filter-word",
+        "gui-filter-completed",
+        "gui-filter-priority",
+        "gui-filter-week",
+        "gui-filter-untagged",
+        "gui-filter-noproject"
+      ]
+    },
+    "help": {
+      "assertions": 13,
+      "episodes": [
+        "views-help",
+        "gui-help",
+        "gui-help-scroll"
+      ]
+    },
+    "history": {
+      "assertions": 27,
+      "episodes": [
+        "history",
+        "gui-history",
+        "gui-filter-history"
+      ]
+    },
+    "log": {
+      "assertions": 14,
+      "episodes": [
+        "add-log",
+        "gui-log"
+      ]
+    },
+    "modify": {
+      "assertions": 58,
+      "episodes": [
+        "modify",
+        "modify-more",
+        "modify-marked",
+        "modify-2",
+        "gui-modify-project",
+        "gui-modify-tags",
+        "gui-modify-due",
+        "gui-modify-depends",
+        "gui-modify-wait",
+        "gui-modify-marked"
+      ]
+    },
+    "navigation": {
+      "assertions": 41,
+      "episodes": [
+        "nav-keys",
+        "nav-paging",
+        "nav-jump",
+        "gui-jump",
+        "gui-jump-error"
+      ]
+    },
+    "persistence": {
+      "assertions": 21,
+      "episodes": [
+        "lifecycle",
+        "refresh"
+      ]
+    },
+    "reports": {
+      "assertions": 120,
+      "episodes": [
+        "reports",
+        "report-menu",
+        "report-custom",
+        "report-columns",
+        "gui-report-completed",
+        "gui-report-waiting",
+        "gui-report-oldest",
+        "gui-report-blocked",
+        "gui-report-all",
+        "gui-report-ready",
+        "gui-report-overdue",
+        "gui-report-newest"
+      ]
+    },
+    "selection": {
+      "assertions": 33,
+      "episodes": [
+        "nav-marks",
+        "gui-marks-done",
+        "gui-marks-priority",
+        "gui-mark-all",
+        "gui-marks-delete",
+        "gui-marks-start",
+        "gui-marks-annotate",
+        "gui-done-project"
+      ]
+    },
+    "settings": {
+      "assertions": 59,
+      "episodes": [
+        "settings",
+        "keys-remap"
+      ]
+    },
+    "taskwarrior": {
+      "assertions": 39,
+      "episodes": [
+        "dependencies",
+        "recurrence",
+        "waiting",
+        "taskwarrior-config"
+      ]
+    },
+    "urgency": {
+      "assertions": 31,
+      "episodes": [
+        "urgency",
+        "urgency-coefficients"
+      ]
+    },
+    "views": {
+      "assertions": 47,
+      "episodes": [
+        "views-tabs",
+        "views-calendar",
+        "views-calendar-options",
+        "views-rotate",
+        "views-quit",
+        "views-2",
+        "gui-projects",
+        "gui-calendar",
+        "gui-timesheet",
+        "gui-calendar-decade"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

@@ -1,0 +1,29 @@
+{
+  "reference_paths": [
+    "/app/solution/newsboat/bin/newsboat",
+    "/app/solution/newsboat/lib/pbsandbox.so",
+    "/app/solution/newsboat/lib/libstfl.so.0"
+  ],
+  "shared_solution_files": [
+    {
+      "file": "LICENSES/GPL-2.txt",
+      "reason": "The identical distribution licence text is installed in /usr/share/common-licenses for system packages."
+    },
+    {
+      "file": "LICENSES/GPL-3.txt",
+      "reason": "The identical distribution licence text is installed in /usr/share/common-licenses for system packages."
+    },
+    {
+      "file": "LICENSES/LGPL-2.txt",
+      "reason": "The identical distribution licence text is installed in /usr/share/common-licenses for system packages."
+    },
+    {
+      "file": "LICENSES/LGPL-2.1.txt",
+      "reason": "The identical distribution licence text is installed in /usr/share/common-licenses for system packages."
+    },
+    {
+      "file": "LICENSES/LGPL-3.txt",
+      "reason": "The identical distribution licence text is installed in /usr/share/common-licenses for system packages."
+    }
+  ]
+}

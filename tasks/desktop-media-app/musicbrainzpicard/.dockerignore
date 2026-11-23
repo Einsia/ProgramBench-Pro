@@ -1,0 +1,17 @@
+# Reference build context: application package and runtime.
+**
+!solution/
+!solution/start.sh
+!solution/picard-cli
+!solution/picard_start.py
+!solution/solve.sh
+!solution/SOURCE.json
+!solution/picard-3.0.3.tar.gz
+!environment/
+!environment/Dockerfile.reference
+!environment/runtime/
+!environment/runtime/*.py
+!environment/runtime/*.json
+!solution/LICENSE
+!solution/NOTICE
+!solution/process_guard.c

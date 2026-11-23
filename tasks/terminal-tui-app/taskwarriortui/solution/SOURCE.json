@@ -1,0 +1,64 @@
+{
+  "task": "taskwarriortui",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "taskwarrior-tui",
+    "version": "0.27.0",
+    "homepage": "https://kdheepak.com/taskwarrior-tui",
+    "repository": "https://github.com/kdheepak/taskwarrior-tui",
+    "license": "MIT"
+  },
+  "downloads": [
+    {
+      "file": "taskwarrior-tui-x86_64-unknown-linux-gnu.tar.gz",
+      "url": "https://github.com/kdheepak/taskwarrior-tui/releases/download/v0.27.0/taskwarrior-tui-x86_64-unknown-linux-gnu.tar.gz",
+      "sha256": "11656a6c250eb3feaba35133987405ad0e3bc7b48f1b716ab59b70b6f7911974"
+    }
+  ],
+  "bundled": [
+    {
+      "file": "taskwarrior-3.3.0-x86_64-linux-gnu.tar.gz",
+      "built_from": "Taskwarrior 3.3.0 from https://github.com/GothenburgBitFactory/taskwarrior/releases/download/v3.3.0/task-3.3.0.tar.gz; compiled without source changes on Ubuntu 24.04 with GCC 13.3.0 and Rust 1.94.0 using cmake -S . -B build -DCMAKE_BUILD_TYPE=Release && cmake --build build && cmake --install build; strip --strip-unneeded bin/task. The archive contains the stripped task executable."
+    }
+  ],
+  "modifications": "No upstream source changes. taskwarrior-tui is the upstream release binary; the Taskwarrior executable is locally built and stripped. Separate launchers apply Landlock restrictions.",
+  "configuration": "Both applications use DATA_DIR as HOME. Taskwarrior creates its native .taskrc and .task data; taskwarrior-tui stores history below .local/share/taskwarrior-tui. The runtime supplies libfaketime 0.9.12 with a fixed wall clock and a running monotonic clock. Landlock permits only the two product programs and their loader to execute; writes are limited to private instance directories. Installed executables remain root-owned mode 0555. Before confinement the launcher creates mode-0111 executable copies under private TMPDIR; Landlock permits executing those copies and denies access to the installed implementation.",
+  "notes": {
+    "tui_source": {
+      "url": "https://github.com/kdheepak/taskwarrior-tui/archive/refs/tags/v0.27.0.tar.gz",
+      "version": "0.27.0",
+      "sha256": "e4f5d10428dc1917b6084b5b0ed502ffe691cb14908cedd04ffff3940f9ffceb"
+    },
+    "backend": {
+      "name": "Taskwarrior",
+      "version": "3.3.0",
+      "homepage": "https://taskwarrior.org/",
+      "repository": "https://github.com/GothenburgBitFactory/taskwarrior",
+      "license": "MIT",
+      "source_url": "https://github.com/GothenburgBitFactory/taskwarrior/releases/download/v3.3.0/task-3.3.0.tar.gz",
+      "source_sha256": "7fd1e3571f673679758f001b5f44963eee59fd0d2cac887a5807cf2fd90856a1",
+      "build": {
+        "base_image": "ubuntu:24.04@sha256:68ee22004a9109b44973313b02ff7b1de250f1de0f5ecb628d73f579aaff33ac",
+        "compiler": "g++ 13.3.0 (Ubuntu 24.04 build-essential)",
+        "rust": "rust-1.94.0-x86_64-unknown-linux-gnu.tar.xz (sha256 e8fa4185f3ef6ae32725ff638b1ecdbff28f5d651dc0b3111e2539350d03b15a)",
+        "dependencies": "build-essential cmake uuid-dev pkg-config (Ubuntu 24.04)",
+        "command": "cmake -S . -B build -DCMAKE_BUILD_TYPE=Release && cmake --build build && cmake --install build; strip --strip-unneeded bin/task",
+        "archive": "taskwarrior-3.3.0-x86_64-linux-gnu.tar.gz (the stripped task program)"
+      },
+      "archive_sha256": "64f8fce2a3b2a54c42ff65ac8f69a6a3a161ecfff8abb07c18db0069995742f0"
+    },
+    "libfaketime": {
+      "version": "0.9.12",
+      "license": "GPL-2.0-only",
+      "source_url": "https://github.com/wolfcw/libfaketime/archive/refs/tags/v0.9.12.tar.gz",
+      "source_sha256": "4fc32218697c052adcdc5ee395581f2554ca56d086ac817ced2be0d6f1f8a9fa",
+      "license_file": "LICENSES/libfaketime.txt",
+      "build": "The Dockerfile compiles the pinned release with make in src and installs it under /usr/local/lib/faketime."
+    },
+    "licenses": {
+      "Taskwarrior": "LICENSES/taskwarrior.txt",
+      "libshared": "LICENSES/libshared.txt",
+      "Rust dependencies": "LICENSES/rust-dependencies.txt"
+    }
+  }
+}

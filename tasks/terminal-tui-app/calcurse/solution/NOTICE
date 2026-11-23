@@ -1,0 +1,22 @@
+calcurse 4.8.2
+
+https://github.com/lfos/calcurse
+License: BSD-2-Clause; the complete product license is in LICENSE.
+
+Upstream source is unchanged. A separate pbsandbox preload library confines the process.
+
+HOME and the working directory are DATA_DIR, initially empty. A preloaded libfaketime fixes the wall clock; pbsandbox confines file access with Landlock and denies creation of external processes. Native calendar, to-do, note and configuration files persist under DATA_DIR.
+
+calcurse-runtime-4.8.2.tar.gz is a locally built runtime package.
+It contains the unchanged calcurse executable and a separate pbsandbox.so built
+from pbsandbox.c. The matching source and build details are in SOURCE.json.
+Upstream calcurse source: https://calcurse.org/files/calcurse-4.8.2.tar.gz
+pbsandbox.c is task-authored and provided under the Apache License 2.0, the
+license of the Program Bench Pro repository.
+
+The shared execution environment uses libfaketime 0.9.12 (GPL-2.0-only).
+The complete license is in LICENSES/libfaketime.txt. Corresponding source:
+https://github.com/wolfcw/libfaketime/archive/refs/tags/v0.9.12.tar.gz
+SHA-256: 4fc32218697c052adcdc5ee395581f2554ca56d086ac817ced2be0d6f1f8a9fa
+
+This task is not affiliated with or endorsed by the upstream project.

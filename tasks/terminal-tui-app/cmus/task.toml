@@ -1,0 +1,45 @@
+schema_version = "1.4"
+artifacts = [{ source = "/app/solution" }]
+
+[task]
+name = "program-bench/cmus"
+version = "1.0.0"
+description = "Reconstruct cmus 2.13.0, a terminal music player with media libraries and playlists, from black-box observation."
+keywords = ["music", "audio", "playlists", "terminal", "curses"]
+
+[metadata]
+category = "terminal-tui-app"
+upstream = "cmus/cmus 2.13.0"
+license = "GPL-2.0-or-later"
+interface = "terminal UI (PTY); native Unix control socket; command-line options; media and state file exchange; user manuals"
+network_boundary = "agent: no network except hosts allowed with --allow-agent-host (Harbor egress sidecar); reference and verifier: Compose network_mode:none; restricted Unix socket RPC to the black-box runtime"
+
+[agent]
+timeout_sec = 28800
+user = "agent"
+
+[environment]
+docker_image = "program-bench-cmus-agent:1.0.0"
+build_timeout_sec = 900
+cpus = 4
+memory_mb = 16384
+storage_mb = 20480
+network_mode = "no-network"
+
+[environment.healthcheck]
+command = "blackbox-health"
+interval_sec = 1
+timeout_sec = 5
+retries = 60
+
+[verifier]
+timeout_sec = 282600
+environment_mode = "separate"
+
+[verifier.environment]
+docker_image = "program-bench-cmus-verifier:1.0.0"
+cpus = 4
+memory_mb = 8192
+storage_mb = 20480
+network_mode = "no-network"
+build_timeout_sec = 900

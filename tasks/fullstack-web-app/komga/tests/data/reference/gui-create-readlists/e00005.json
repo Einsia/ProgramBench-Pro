@@ -1,0 +1,382 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        260,
+        8,
+        48,
+        48
+      ],
+      "ref": "e3565697427",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        308,
+        8,
+        956,
+        48
+      ],
+      "expanded": false,
+      "ref": "e3932625320",
+      "role": "combobox",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "bounds": [
+        348,
+        16,
+        900,
+        32
+      ],
+      "placeholder": "Search",
+      "ref": "e3492990951",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        8,
+        73,
+        240,
+        40
+      ],
+      "href": "/dashboard",
+      "ref": "e4053023811",
+      "role": null,
+      "tag": "a",
+      "text": "Home"
+    },
+    {
+      "bounds": [
+        8,
+        117,
+        240,
+        40
+      ],
+      "href": "/libraries/all",
+      "ref": "e2922887771",
+      "role": null,
+      "tag": "a",
+      "text": "Libraries"
+    },
+    {
+      "bounds": [
+        168,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3616030284",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        204,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3666363141",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        161,
+        240,
+        40
+      ],
+      "href": "/libraries/0S3GJXTDXX5B6",
+      "ref": "e3617833458",
+      "role": null,
+      "tag": "a",
+      "text": "Comics"
+    },
+    {
+      "bounds": [
+        204,
+        163,
+        36,
+        36
+      ],
+      "ref": "e3699918379",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        205,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e1184854462",
+      "role": "button",
+      "tag": "div",
+      "text": "Import"
+    },
+    {
+      "bounds": [
+        8,
+        245,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e2070932497",
+      "role": "button",
+      "tag": "div",
+      "text": "Media"
+    },
+    {
+      "bounds": [
+        8,
+        285,
+        240,
+        40
+      ],
+      "href": "/history",
+      "ref": "e3700334507",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        8,
+        329,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e3104230938",
+      "role": "button",
+      "tag": "div",
+      "text": "Server"
+    },
+    {
+      "bounds": [
+        8,
+        369,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e1456337507",
+      "role": "button",
+      "tag": "div",
+      "text": "My Account"
+    },
+    {
+      "bounds": [
+        8,
+        453,
+        240,
+        40
+      ],
+      "href": "/next",
+      "ref": "e108006909",
+      "role": null,
+      "tag": "a",
+      "text": "Try the new UI"
+    },
+    {
+      "bounds": [
+        72,
+        530,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e3679130362",
+      "role": "button",
+      "tag": "div",
+      "text": "Theme\nSystem"
+    },
+    {
+      "bounds": [
+        129,
+        530,
+        83,
+        26
+      ],
+      "label": "Theme",
+      "ref": "e2293683443",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        72,
+        594,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e918547495",
+      "role": "button",
+      "tag": "div",
+      "text": "Translation\nEnglish"
+    },
+    {
+      "bounds": [
+        128,
+        594,
+        84,
+        26
+      ],
+      "label": "Translation",
+      "ref": "e965999643",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        272,
+        72,
+        48,
+        48
+      ],
+      "ref": "e946897339",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1084,
+        72,
+        48,
+        48
+      ],
+      "ref": "e1098337195",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1132,
+        72,
+        48,
+        48
+      ],
+      "ref": "e1081559576",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1180,
+        72,
+        48,
+        48
+      ],
+      "ref": "e1131892433",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1228,
+        72,
+        48,
+        48
+      ],
+      "ref": "e1115114814",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        276,
+        140,
+        124,
+        28
+      ],
+      "href": "/api/v1/readlists/0S3GJZ581X6W9/file",
+      "ref": "e246025070",
+      "role": null,
+      "tag": "a",
+      "text": "DOWNLOAD",
+      "title": "Download read list"
+    },
+    {
+      "bounds": [
+        284,
+        421,
+        134,
+        22
+      ],
+      "href": "/series/0S3GJXTJSX122",
+      "ref": "e332536772",
+      "role": null,
+      "tag": "a",
+      "text": "Atlas",
+      "title": "Atlas"
+    },
+    {
+      "bounds": [
+        284,
+        443,
+        134,
+        22
+      ],
+      "href": "/book/0S3GJXTJSX123?context=READLIST&contextId=0S3GJZ581X6W9",
+      "ref": "e2714181191",
+      "role": null,
+      "tag": "a",
+      "text": "1 - Atlas chapter 1",
+      "title": "1 - Atlas chapter 1"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Komga\nHome\nLibraries\nComics\nImport\nMedia\nHistory\nServer\nMy Account\nLog Out\nTry the new UI\nTheme\nSystem\nTranslation\nEnglish\nNew weekend read list\n1\n(MANUAL ORDERING)\nDOWNLOAD\nAtlas\n1 - Atlas chapter 1\n4 pages",
+  "text_truncated": false,
+  "title": "Komga - New weekend read list",
+  "url": "/readlists/0S3GJZ581X6W9",
+  "viewport": [
+    1280,
+    900
+  ]
+}

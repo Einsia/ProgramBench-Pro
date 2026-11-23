@@ -1,0 +1,376 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        559,
+        -44,
+        162,
+        36
+      ],
+      "href": "/categories#main",
+      "offscreen": true,
+      "ref": "e906",
+      "role": null,
+      "tag": "a",
+      "text": "Skip to content"
+    },
+    {
+      "aria": "Home page",
+      "bounds": [
+        193,
+        10,
+        77,
+        19
+      ],
+      "href": "/unread",
+      "ref": "e907",
+      "role": null,
+      "tag": "a",
+      "text": "Mini\nflux"
+    },
+    {
+      "aria": "Unread, 1 unread entry",
+      "bounds": [
+        278,
+        12,
+        102,
+        16
+      ],
+      "href": "/unread",
+      "ref": "e908",
+      "role": null,
+      "tag": "a",
+      "text": "Unread (1)"
+    },
+    {
+      "bounds": [
+        395,
+        12,
+        78,
+        16
+      ],
+      "href": "/starred",
+      "ref": "e909",
+      "role": null,
+      "tag": "a",
+      "text": "Starred"
+    },
+    {
+      "bounds": [
+        488,
+        12,
+        78,
+        16
+      ],
+      "href": "/history",
+      "ref": "e910",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        581,
+        12,
+        70,
+        16
+      ],
+      "href": "/feeds",
+      "ref": "e911",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "aria": "Add feed",
+      "bounds": [
+        650,
+        12,
+        26,
+        16
+      ],
+      "href": "/subscribe",
+      "ref": "e912",
+      "role": null,
+      "tag": "a",
+      "text": "(+)",
+      "title": "Keyboard Shortcut: +"
+    },
+    {
+      "bounds": [
+        691,
+        12,
+        104,
+        16
+      ],
+      "href": "/categories",
+      "ref": "e913",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        810,
+        12,
+        70,
+        16
+      ],
+      "href": "/search",
+      "ref": "e914",
+      "role": null,
+      "tag": "a",
+      "text": "Search"
+    },
+    {
+      "bounds": [
+        894,
+        12,
+        87,
+        16
+      ],
+      "href": "/settings",
+      "ref": "e915",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        996,
+        10,
+        70,
+        18
+      ],
+      "ref": "e916",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "title": "Logged in as alice"
+    },
+    {
+      "bounds": [
+        193,
+        82,
+        181,
+        18
+      ],
+      "href": "/category/create",
+      "ref": "e917",
+      "role": null,
+      "tag": "a",
+      "text": "Create a category"
+    },
+    {
+      "bounds": [
+        199,
+        122,
+        106,
+        18
+      ],
+      "href": "/category/5/entries",
+      "ref": "e918",
+      "role": null,
+      "tag": "a",
+      "text": "Leisure (1)\n1 unread entry"
+    },
+    {
+      "bounds": [
+        199,
+        168,
+        74,
+        15
+      ],
+      "href": "/category/5/entries",
+      "ref": "e919",
+      "role": null,
+      "tag": "a",
+      "text": "Entries"
+    },
+    {
+      "bounds": [
+        288,
+        168,
+        58,
+        15
+      ],
+      "href": "/category/5/feeds",
+      "ref": "e920",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "bounds": [
+        363,
+        168,
+        51,
+        15
+      ],
+      "href": "/category/5/edit",
+      "ref": "e921",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        429,
+        166,
+        111,
+        16
+      ],
+      "ref": "e922",
+      "role": null,
+      "tag": "button",
+      "text": "Mark all as read"
+    },
+    {
+      "bounds": [
+        199,
+        215,
+        67,
+        18
+      ],
+      "href": "/category/1/entries",
+      "ref": "e923",
+      "role": null,
+      "tag": "a",
+      "text": "All (0)\n0 unread entry"
+    },
+    {
+      "bounds": [
+        199,
+        261,
+        74,
+        15
+      ],
+      "href": "/category/1/entries",
+      "ref": "e924",
+      "role": null,
+      "tag": "a",
+      "text": "Entries"
+    },
+    {
+      "bounds": [
+        288,
+        261,
+        58,
+        15
+      ],
+      "href": "/category/1/feeds",
+      "ref": "e925",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "bounds": [
+        363,
+        261,
+        51,
+        15
+      ],
+      "href": "/category/1/edit",
+      "ref": "e926",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        429,
+        259,
+        68,
+        16
+      ],
+      "ref": "e927",
+      "role": null,
+      "tag": "button",
+      "text": "Remove"
+    },
+    {
+      "bounds": [
+        199,
+        308,
+        77,
+        18
+      ],
+      "href": "/category/4/entries",
+      "ref": "e928",
+      "role": null,
+      "tag": "a",
+      "text": "Work (0)\n0 unread entry"
+    },
+    {
+      "bounds": [
+        199,
+        353,
+        74,
+        15
+      ],
+      "href": "/category/4/entries",
+      "ref": "e929",
+      "role": null,
+      "tag": "a",
+      "text": "Entries"
+    },
+    {
+      "bounds": [
+        288,
+        353,
+        58,
+        15
+      ],
+      "href": "/category/4/feeds",
+      "ref": "e930",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "bounds": [
+        363,
+        353,
+        51,
+        15
+      ],
+      "href": "/category/4/edit",
+      "ref": "e931",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        578,
+        410,
+        124,
+        18
+      ],
+      "href": "/categories",
+      "ref": "e932",
+      "role": null,
+      "tag": "a",
+      "text": "Back to top"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Skip to content\nMini\nflux\nUnread (1) Starred History Feeds (+) Categories Search Settings Logout\nCategories (3)\n3 categories\nCreate a category\nLeisure (1)\n1 unread entry\nThere is 1 feed.\nEntries Feeds Edit Mark all as read\nAll (0)\n0 unread entry\nNo feed.\nEntries Feeds Edit Remove\nWork (0)\n0 unread entry\nThere is 1 feed.\nEntries Feeds Edit\nBack to top",
+  "text_truncated": false,
+  "title": "Categories (3) - Miniflux",
+  "url": "/categories",
+  "viewport": [
+    1280,
+    900
+  ]
+}

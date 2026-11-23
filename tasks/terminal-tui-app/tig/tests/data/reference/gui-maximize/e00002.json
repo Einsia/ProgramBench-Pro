@@ -1,0 +1,367 @@
+{
+  "base_style": [
+    "fg=brown"
+  ],
+  "cursor": {
+    "column": 0,
+    "hidden": true,
+    "row": 35
+  },
+  "process": "running",
+  "screen": [
+    "00|commit cd925f48f7d4e81b937c4796963726ec199bd01f",
+    "01|Refs: [main], v1.0-5-gcd925f4",
+    "02|Author:     Bea Meadow <bea@example.test>",
+    "03|AuthorDate: Sat Jan 6 12:00:00 2024 +0000",
+    "04|Commit:     Jordan Example <jordan@example.test>",
+    "05|CommitDate: Sat Jan 6 12:00:00 2024 +0000",
+    "06|",
+    "07|    Update trail heading",
+    "08|",
+    "09|    Record the northeast approach.",
+    "10|",
+    "11|    Reviewed-by: Trail Team <team@example.test>",
+    "12|---",
+    "13| notes.txt    | 2 +-",
+    "14| src/guide.py | 2 +-",
+    "15| 2 files changed, 2 insertions(+), 2 deletions(-)",
+    "16|",
+    "17|diff --git a/notes.txt b/notes.txt",
+    "18|index 6e2de33..ffb2269 100644",
+    "19|--- a/notes.txt",
+    "20|+++ b/notes.txt",
+    "21|@@ -1,3 +1,3 @@",
+    "22| oak tree",
+    "23| river bank with footpath",
+    "24|-stone bridge",
+    "25|+stone bridge restored",
+    "26|diff --git a/src/guide.py b/src/guide.py",
+    "27|index 72f69d2..dc0fd51 100644",
+    "28|--- a/src/guide.py",
+    "29|+++ b/src/guide.py",
+    "30|@@ -1,2 +1,2 @@",
+    "31| def heading():",
+    "32|-    return \"north\"",
+    "33|+    return \"northeast\"",
+    "34|[diff] cd925f48f7d4e81b937c4796963726ec199bd01f - line 1 of 34                                                      100%",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        47
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=green"
+      ],
+      "text": "commit cd925f48f7d4e81b937c4796963726ec199bd01f"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 1,
+      "style": [
+        "fg=red"
+      ],
+      "text": "Refs: [main], v1.0-5-gcd925f4                                                                                           "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 2,
+      "style": [
+        "fg=cyan"
+      ],
+      "text": "Author:     Bea Meadow <bea@example.test>                                                                               "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 4,
+      "style": [
+        "fg=magenta"
+      ],
+      "text": "Commit:     Jordan Example <jordan@example.test>                                                                        "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 7,
+      "style": [
+        "default"
+      ],
+      "text": "    Update trail heading                                                                                                "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 9,
+      "style": [
+        "default"
+      ],
+      "text": "    Record the northeast approach.                                                                                      "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 12,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "---                                                                                                                     "
+    },
+    {
+      "columns": [
+        0,
+        14
+      ],
+      "row": 13,
+      "style": [
+        "fg=blue"
+      ],
+      "text": " notes.txt    "
+    },
+    {
+      "columns": [
+        14,
+        18
+      ],
+      "row": 13,
+      "style": [
+        "default"
+      ],
+      "text": "| 2 "
+    },
+    {
+      "columns": [
+        18,
+        19
+      ],
+      "row": 13,
+      "style": [
+        "fg=green"
+      ],
+      "text": "+"
+    },
+    {
+      "columns": [
+        19,
+        120
+      ],
+      "row": 13,
+      "style": [
+        "fg=red"
+      ],
+      "text": "-                                                                                                    "
+    },
+    {
+      "columns": [
+        0,
+        14
+      ],
+      "row": 14,
+      "style": [
+        "fg=blue"
+      ],
+      "text": " src/guide.py "
+    },
+    {
+      "columns": [
+        14,
+        18
+      ],
+      "row": 14,
+      "style": [
+        "default"
+      ],
+      "text": "| 2 "
+    },
+    {
+      "columns": [
+        18,
+        19
+      ],
+      "row": 14,
+      "style": [
+        "fg=green"
+      ],
+      "text": "+"
+    },
+    {
+      "columns": [
+        19,
+        120
+      ],
+      "row": 14,
+      "style": [
+        "fg=red"
+      ],
+      "text": "-                                                                                                    "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 15,
+      "style": [
+        "default"
+      ],
+      "text": " 2 files changed, 2 insertions(+), 2 deletions(-)                                                                       "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 18,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "index 6e2de33..ffb2269 100644                                                                                           "
+    },
+    {
+      "columns": [
+        0,
+        15
+      ],
+      "row": 21,
+      "style": [
+        "fg=magenta"
+      ],
+      "text": "@@ -1,3 +1,3 @@"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 22,
+      "style": [
+        "default"
+      ],
+      "text": " oak tree                                                                                                               "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 23,
+      "style": [
+        "default"
+      ],
+      "text": " river bank with footpath                                                                                               "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 24,
+      "style": [
+        "fg=red"
+      ],
+      "text": "-stone bridge                                                                                                           "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 25,
+      "style": [
+        "fg=green"
+      ],
+      "text": "+stone bridge restored                                                                                                  "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 27,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "index 72f69d2..dc0fd51 100644                                                                                           "
+    },
+    {
+      "columns": [
+        0,
+        15
+      ],
+      "row": 30,
+      "style": [
+        "fg=magenta"
+      ],
+      "text": "@@ -1,2 +1,2 @@"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 31,
+      "style": [
+        "default"
+      ],
+      "text": " def heading():                                                                                                         "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 32,
+      "style": [
+        "fg=red"
+      ],
+      "text": "-    return \"north\"                                                                                                     "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 33,
+      "style": [
+        "fg=green"
+      ],
+      "text": "+    return \"northeast\"                                                                                                 "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "[diff] cd925f48f7d4e81b937c4796963726ec199bd01f - line 1 of 34                                                      100%"
+    }
+  ]
+}

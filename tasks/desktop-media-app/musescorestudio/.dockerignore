@@ -1,0 +1,18 @@
+# Reference build context: application package and runtime.
+**
+!solution/
+!solution/start.sh
+!solution/solve.sh
+!solution/musescore_start.py
+!solution/SOURCE.json
+!solution/MuseScore-Studio-4.7.6.261022093-x86_64.AppImage
+!environment/
+!environment/Dockerfile.reference
+!environment/runtime/
+!environment/runtime/*.py
+!environment/runtime/*.json
+!solution/LICENSE
+!solution/NOTICE
+!solution/LICENSES/
+!solution/LICENSES/*.txt
+!solution/process_guard.c

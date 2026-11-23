@@ -1,0 +1,341 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        559,
+        -44,
+        162,
+        36
+      ],
+      "href": "/user/save#main",
+      "offscreen": true,
+      "ref": "e603",
+      "role": null,
+      "tag": "a",
+      "text": "Skip to content"
+    },
+    {
+      "aria": "Home page",
+      "bounds": [
+        193,
+        10,
+        77,
+        19
+      ],
+      "href": "/unread",
+      "ref": "e604",
+      "role": null,
+      "tag": "a",
+      "text": "Mini\nflux"
+    },
+    {
+      "bounds": [
+        278,
+        12,
+        70,
+        16
+      ],
+      "href": "/unread",
+      "ref": "e605",
+      "role": null,
+      "tag": "a",
+      "text": "Unread"
+    },
+    {
+      "bounds": [
+        363,
+        12,
+        78,
+        16
+      ],
+      "href": "/starred",
+      "ref": "e606",
+      "role": null,
+      "tag": "a",
+      "text": "Starred"
+    },
+    {
+      "bounds": [
+        456,
+        12,
+        78,
+        16
+      ],
+      "href": "/history",
+      "ref": "e607",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        549,
+        12,
+        70,
+        16
+      ],
+      "href": "/feeds",
+      "ref": "e608",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "aria": "Add feed",
+      "bounds": [
+        618,
+        12,
+        26,
+        16
+      ],
+      "href": "/subscribe",
+      "ref": "e609",
+      "role": null,
+      "tag": "a",
+      "text": "(+)",
+      "title": "Keyboard Shortcut: +"
+    },
+    {
+      "bounds": [
+        659,
+        12,
+        104,
+        16
+      ],
+      "href": "/categories",
+      "ref": "e610",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        778,
+        12,
+        70,
+        16
+      ],
+      "href": "/search",
+      "ref": "e611",
+      "role": null,
+      "tag": "a",
+      "text": "Search"
+    },
+    {
+      "bounds": [
+        862,
+        12,
+        87,
+        16
+      ],
+      "href": "/settings",
+      "ref": "e612",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        964,
+        10,
+        70,
+        18
+      ],
+      "ref": "e613",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "title": "Logged in as alice"
+    },
+    {
+      "bounds": [
+        193,
+        82,
+        95,
+        18
+      ],
+      "href": "/settings",
+      "ref": "e614",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        312,
+        82,
+        133,
+        18
+      ],
+      "href": "/integrations",
+      "ref": "e615",
+      "role": null,
+      "tag": "a",
+      "text": "Integrations"
+    },
+    {
+      "bounds": [
+        470,
+        82,
+        95,
+        18
+      ],
+      "href": "/keys",
+      "ref": "e616",
+      "role": null,
+      "tag": "a",
+      "text": "API Keys"
+    },
+    {
+      "bounds": [
+        590,
+        82,
+        95,
+        18
+      ],
+      "href": "/sessions",
+      "ref": "e617",
+      "role": null,
+      "tag": "a",
+      "text": "Sessions"
+    },
+    {
+      "bounds": [
+        709,
+        82,
+        66,
+        18
+      ],
+      "href": "/users",
+      "ref": "e618",
+      "role": null,
+      "tag": "a",
+      "text": "Users"
+    },
+    {
+      "bounds": [
+        800,
+        82,
+        66,
+        18
+      ],
+      "href": "/about",
+      "ref": "e619",
+      "role": null,
+      "tag": "a",
+      "text": "About"
+    },
+    {
+      "bounds": [
+        193,
+        195,
+        250,
+        28
+      ],
+      "focused": true,
+      "label": "Username",
+      "name": "username",
+      "ref": "e620",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "bob"
+    },
+    {
+      "bounds": [
+        193,
+        256,
+        250,
+        28
+      ],
+      "label": "Password",
+      "name": "password",
+      "ref": "e621",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": "[password]"
+    },
+    {
+      "bounds": [
+        193,
+        317,
+        250,
+        28
+      ],
+      "label": "Password Confirmation",
+      "name": "confirmation",
+      "ref": "e622",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": "[password]"
+    },
+    {
+      "bounds": [
+        193,
+        365,
+        13,
+        13
+      ],
+      "checked": false,
+      "label": "Administrator",
+      "name": "is_admin",
+      "ref": "e623",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        193,
+        398,
+        62,
+        29
+      ],
+      "ref": "e624",
+      "role": null,
+      "tag": "button",
+      "text": "Save"
+    },
+    {
+      "bounds": [
+        294,
+        405,
+        58,
+        18
+      ],
+      "href": "/users",
+      "ref": "e625",
+      "role": null,
+      "tag": "a",
+      "text": "cancel"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Skip to content\nMini\nflux\nUnread Starred History Feeds (+) Categories Search Settings Logout\nNew User\nSettings Integrations API Keys Sessions Users About\nThis user already exists.\nUsername\nPassword\nPassword Confirmation\n Administrator\nSave or cancel",
+  "text_truncated": false,
+  "title": "New User - Miniflux",
+  "url": "/user/save",
+  "viewport": [
+    1280,
+    900
+  ]
+}

@@ -1,0 +1,70 @@
+BentoPDF 2.8.10 — reference distribution
+
+Upstream: https://github.com/alam00000/bentopdf/releases/tag/v2.8.10
+License: AGPL-3.0-only (full text in LICENSE). During environment/build.sh,
+environment/fetch.py downloads the full upstream source, including its LICENSE
+and build scripts, as solution/bentopdf-2.8.10-source.tar.gz. SOURCE.json pins
+the download URL and SHA-256. The installer retains this archive and the PDF
+viewer source archive under /app/solution in the final reference image.
+No product source code is changed. The offline build uses the documented
+Simple deployment and local asset configuration. The task-authored server.py,
+start.sh and solve.sh are provided under the Apache License 2.0, the license
+of the Program Bench Pro repository.
+
+Rebuilding the included site
+
+Extract the source archive, install Node.js 22.21.1, and run npm ci with the
+included package-lock.json. Run npm run build with these environment variables:
+
+SIMPLE_MODE=true
+DISABLE_GITHUB_STARS=true
+COMPRESSION_MODE=o
+VITE_EMBEDPDF_FONTS_URL=/fonts/embedpdf
+VITE_WASM_PYMUPDF_URL=/wasm/pymupdf/
+VITE_WASM_GS_URL=/wasm/gs/assets/
+VITE_WASM_CPDF_URL=/wasm/cpdf/dist/
+VITE_TESSERACT_WORKER_URL=/wasm/ocr/worker.min.js
+VITE_TESSERACT_CORE_URL=/wasm/ocr/core
+VITE_TESSERACT_LANG_URL=/wasm/ocr/lang-data
+VITE_TESSERACT_AVAILABLE_LANGUAGES=eng
+VITE_OCR_FONT_BASE_URL=/wasm/ocr/fonts
+
+Stage these unmodified npm packages into dist/wasm: coherentpdf at cpdf/ and
+Tesseract's worker.min.js at ocr/ with its core package at ocr/core/, which are
+listed in SOURCE.json, and @bentopdf/pymupdf-wasm 0.11.16 (PyMuPDF) at
+pymupdf/ and @bentopdf/gs-wasm 0.1.1 (Ghostscript) at gs/, whose package
+manifests, licenses and source references are in LICENSES/processing/
+(pymupdf-wasm/, ghostscript-wasm/ and source-availability.md). Place the
+English traineddata file under ocr/lang-data/ and NotoSans-Regular.ttf under
+ocr/fonts/.
+The upstream source already includes the LibreOffice WASM files. The shipped
+ZIP uses these files verbatim, excluding source maps, Brotli duplicates and
+build-only scripts. It is served with the static allowlist and CSP in server.py.
+
+Third-party software
+
+LICENSES/dependencies/ preserves the license/notice files of npm dependencies;
+LICENSES/dependencies.json records their versions, licenses and upstream source
+repositories. LICENSES/processing/ includes notices and source instructions for
+separately packaged processing engines. All associated notices are part of the
+reference distribution; they are not served through the black-box observation surface.
+The installed reference image retains the downloaded source alongside the binaries.
+No proprietary or commercial-only implementation is used.
+
+Archive packaging
+
+The locally assembled site is stored in numbered .chunk001, .chunk002, ...
+files of at most 48,000,000 bytes. solve.sh concatenates them in lexical
+order into bentopdf-2.8.10-offline.zip. The static server reads that ZIP
+without extracting it. Product assets are unchanged by this packaging.
+
+The complete upstream release source is downloaded from
+https://api.github.com/repos/alam00000/bentopdf/tarball/v2.8.10
+as bentopdf-2.8.10-source.tar.gz. The corresponding PDF viewer fork source is
+https://api.github.com/repos/alam00000/bentopdf-pdfium-viewer/tarball/051abe5b72a9
+as bentopdf-viewer-source-051abe5b72a9.tar.gz. SOURCE.json pins both archive
+hashes. environment/fetch.py retrieves both archives before the image build;
+solution/solve.sh copies them and the license notices into /app/solution.
+environment/Dockerfile.reference retains that directory in the final reference
+image. The offline-build inputs and configuration are documented above and in
+SOURCE.json; third-party processing sources are listed in LICENSES/processing/.

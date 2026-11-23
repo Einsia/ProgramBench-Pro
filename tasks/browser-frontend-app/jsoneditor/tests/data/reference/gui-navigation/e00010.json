@@ -1,0 +1,396 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        13,
+        97,
+        26,
+        26
+      ],
+      "ref": "ee02b9e8c",
+      "tag": "button",
+      "title": "Expand all fields"
+    },
+    {
+      "bounds": [
+        43,
+        97,
+        26,
+        26
+      ],
+      "ref": "e85e63fcb",
+      "tag": "button",
+      "title": "Collapse all fields"
+    },
+    {
+      "bounds": [
+        73,
+        97,
+        26,
+        26
+      ],
+      "ref": "ea12a318a",
+      "tag": "button",
+      "title": "Sort contents"
+    },
+    {
+      "bounds": [
+        103,
+        97,
+        26,
+        26
+      ],
+      "ref": "e35050c81",
+      "tag": "button",
+      "title": "Filter, sort, or transform contents"
+    },
+    {
+      "bounds": [
+        141,
+        97,
+        26,
+        26
+      ],
+      "disabled": true,
+      "ref": "ebbb5bcf1",
+      "tag": "button",
+      "title": "Undo last action (Ctrl+Z)"
+    },
+    {
+      "bounds": [
+        171,
+        97,
+        26,
+        26
+      ],
+      "disabled": true,
+      "ref": "e0a2b66da",
+      "tag": "button",
+      "title": "Redo (Ctrl+Shift+Z)"
+    },
+    {
+      "bounds": [
+        209,
+        97,
+        57,
+        26
+      ],
+      "ref": "eed0e6f31",
+      "tag": "button",
+      "text": "Tree ▾",
+      "title": "Switch Editor Mode"
+    },
+    {
+      "bounds": [
+        320,
+        98,
+        18,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e1d35618c",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        339,
+        99,
+        126,
+        18
+      ],
+      "context": "Search fields and values",
+      "ref": "e3b24d854",
+      "tag": "input",
+      "type": "text",
+      "value": "rom"
+    },
+    {
+      "bounds": [
+        466,
+        98,
+        16,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e44fcfed4",
+      "tag": "button",
+      "title": "Next result (Enter)"
+    },
+    {
+      "bounds": [
+        482,
+        98,
+        16,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e0ed8f5b1",
+      "tag": "button",
+      "title": "Previous result (Shift + Enter)"
+    },
+    {
+      "bounds": [
+        33,
+        154,
+        24,
+        24
+      ],
+      "ref": "ebb03648e",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        57,
+        154,
+        24,
+        24
+      ],
+      "ref": "e8f71e697",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        140,
+        155,
+        31,
+        22
+      ],
+      "ref": "e18b741d1",
+      "tag": "div",
+      "text": "{2}",
+      "title": "object containing 2 items"
+    },
+    {
+      "bounds": [
+        9,
+        178,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3a",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        178,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex2",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        81,
+        178,
+        24,
+        24
+      ],
+      "ref": "e8f71e697x2",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        106,
+        179,
+        48,
+        22
+      ],
+      "ref": "ee1a32b2e",
+      "tag": "div",
+      "text": "north",
+      "value": "north"
+    },
+    {
+      "bounds": [
+        156,
+        179,
+        31,
+        22
+      ],
+      "ref": "e18b741d1x2",
+      "tag": "div",
+      "text": "{2}",
+      "title": "object containing 2 items"
+    },
+    {
+      "bounds": [
+        9,
+        202,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax2",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        202,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex3",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        81,
+        202,
+        24,
+        24
+      ],
+      "ref": "e8f71e697x3",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        106,
+        203,
+        48,
+        22
+      ],
+      "ref": "e1c57e984",
+      "tag": "div",
+      "text": "south",
+      "value": "south"
+    },
+    {
+      "bounds": [
+        156,
+        203,
+        31,
+        22
+      ],
+      "ref": "e18b741d1x3",
+      "tag": "div",
+      "text": "{2}",
+      "title": "object containing 2 items"
+    },
+    {
+      "bounds": [
+        9,
+        226,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax3",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        226,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex4",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        130,
+        227,
+        40,
+        22
+      ],
+      "ref": "eadf5ccbe",
+      "tag": "div",
+      "text": "city",
+      "value": "city"
+    },
+    {
+      "bounds": [
+        180,
+        227,
+        40,
+        22
+      ],
+      "ref": "e74a4dec4",
+      "tag": "div",
+      "text": "Rome",
+      "value": "Rome"
+    },
+    {
+      "bounds": [
+        9,
+        250,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax4",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        250,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex5",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        105,
+        250,
+        24,
+        24
+      ],
+      "ref": "e8f71e697x4",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        130,
+        251,
+        48,
+        22
+      ],
+      "ref": "e42828771",
+      "tag": "div",
+      "text": "items",
+      "value": "items"
+    },
+    {
+      "bounds": [
+        180,
+        251,
+        31,
+        22
+      ],
+      "ref": "e0f67b9d3",
+      "tag": "div",
+      "text": "[2]",
+      "title": "array containing 2 items"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "drawing": [],
+  "drawing_truncated": false,
+  "text": "Switch editor mode using the mode box. Note that the mode can be changed programmatically as well using the method\neditor.setMode(mode)\n, try it in the console of your browser.\n1 result\nSelect a node...\nobject\n:",
+  "text_truncated": false,
+  "title": "JSONEditor | Switch mode",
+  "url": "/",
+  "viewport": [
+    1280,
+    900
+  ]
+}

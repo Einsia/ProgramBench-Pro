@@ -1,0 +1,315 @@
+{
+  "focused": null,
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        1024
+      ],
+      "name": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),",
+      "ref": "e93ed40b7",
+      "role": "frame",
+      "states": [
+        "active"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        25
+      ],
+      "name": "",
+      "ref": "e37b0c28a",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        39,
+        25
+      ],
+      "name": "File",
+      "ref": "eae5e7196",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        39,
+        19,
+        75,
+        25
+      ],
+      "name": "Accounts",
+      "ref": "ecb5893cc",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        114,
+        19,
+        49,
+        25
+      ],
+      "name": "Tools",
+      "ref": "ec5eeafb2",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        163,
+        19,
+        48,
+        25
+      ],
+      "name": "View",
+      "ref": "eb0ba3d40",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        211,
+        19,
+        46,
+        25
+      ],
+      "name": "Help",
+      "ref": "ef594ac36",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        1,
+        105,
+        200,
+        896
+      ],
+      "description": "Credit Card Accounts",
+      "name": "",
+      "ref": "e469ef34c",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        1,
+        995,
+        200,
+        6
+      ],
+      "name": "",
+      "ref": "ef36204a0",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        210,
+        90,
+        191,
+        19
+      ],
+      "name": "Deleted Transactions",
+      "ref": "ebad78b0e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        215,
+        116,
+        1,
+        17
+      ],
+      "name": "",
+      "ref": "e0d2b3a7f",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        228,
+        160,
+        232,
+        34
+      ],
+      "name": "All",
+      "ref": "e421afc68",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        470,
+        160,
+        75,
+        34
+      ],
+      "name": "",
+      "ref": "e8461f29a",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "01/01/70"
+    },
+    {
+      "bounds": [
+        578,
+        160,
+        75,
+        34
+      ],
+      "name": "",
+      "ref": "e6c4015a2",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "12/31/99"
+    },
+    {
+      "bounds": [
+        686,
+        160,
+        182,
+        34
+      ],
+      "name": "Filter…",
+      "ref": "e25674430",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        870,
+        164,
+        18,
+        26
+      ],
+      "description": "Reset filter",
+      "name": "",
+      "ref": "eaab53f36",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        895,
+        168,
+        159,
+        17
+      ],
+      "name": "Sorted by:  Date ▲ / ID ▲",
+      "ref": "e64e58e2b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        209,
+        889,
+        1069,
+        6
+      ],
+      "name": "",
+      "ref": "e71930644",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        303,
+        901,
+        85,
+        34
+      ],
+      "description": "Delete all selected transactions",
+      "name": "Delete",
+      "ref": "edeb9aa07",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        210,
+        901,
+        88,
+        34
+      ],
+      "description": "Restore selected transaction",
+      "name": "Restore",
+      "ref": "e4754871b",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        394,
+        902,
+        440,
+        34
+      ],
+      "description": "Enter any string to find it in the nearest transaction data\n\nTip: Wildcard characters such as the question mark (?) and the asterisk (*) can be used in search criteria.\nThe question mark (?) is used t",
+      "name": "Search",
+      "ref": "e83bf31b2",
+      "role": "text",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        403,
+        911,
+        16,
+        16
+      ],
+      "name": "edit-find-symbolic",
+      "ref": "e5673f7a3",
+      "role": "icon",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        840,
+        906,
+        53,
+        17
+      ],
+      "name": "Monday",
+      "ref": "e35a485ee",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        210,
+        939,
+        1067,
+        60
+      ],
+      "description": "Click to copy to clipboard",
+      "name": "Recent",
+      "ref": "e32bbb3da",
+      "role": "label"
+    }
+  ],
+  "screen": [
+    1280,
+    1024
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": true,
+      "bounds": [
+        0,
+        38,
+        1280,
+        1005
+      ],
+      "ref": "w5b3c0310",
+      "title": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),"
+    }
+  ]
+}

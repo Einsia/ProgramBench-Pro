@@ -1,0 +1,38 @@
+{
+  "task": "marktext",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "MarkText",
+    "version": "0.23.0",
+    "homepage": "https://www.marktext.cc/",
+    "repository": "https://github.com/marktext/marktext",
+    "license": "MIT"
+  },
+  "downloads": [
+    {
+      "file": "marktext-linux-0.23.0.tar.gz",
+      "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-0.23.0.tar.gz",
+      "sha256": "ed377fe3a2c255212667a083a3e5e645633a5fd760ad7554c3f56785541b9214"
+    }
+  ],
+  "bundled": [
+    {
+      "file": "LICENSES/chromium.txt",
+      "built_from": "Complete textual content of marktext-linux-0.23.0/LICENSES.chromium.html in the unmodified marktext-linux-0.23.0.tar.gz release asset; HTML presentation and style/script markup removed, component license and attribution text retained."
+    }
+  ],
+  "modifications": "none; upstream product files are installed without patches",
+  "configuration": "English X11/D-Bus/AT-SPI desktop; HOME, XDG directories and Electron user data live under DATA_DIR. start.sh forwards document arguments to the unmodified release binary, with renderer accessibility, disabled Chromium sandbox and in-process GPU flags. jail.py applies Landlock before launching the product and refuses to start when it cannot establish confinement. Landlock allows writes only to the explicitly supplied private data/exchange/runtime directories and shared memory/devices; system execution is limited to the dynamic loader and the installed product tree. The GUI starts with the outbox as its working directory so native file dialogs do not try to enumerate the protected installation. Chromium worker /proc directory enumeration and inotify limit files are explicitly readable; this does not grant general /proc file-content access.",
+  "notes": {
+    "components": [
+      {
+        "name": "Electron",
+        "license_file": "LICENSES/electron.txt"
+      },
+      {
+        "name": "Chromium and bundled dependencies",
+        "license_file": "LICENSES/chromium.txt"
+      }
+    ]
+  }
+}

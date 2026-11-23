@@ -1,0 +1,856 @@
+{
+  "focused": "e402bf996",
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        1024
+      ],
+      "name": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),",
+      "ref": "e93ed40b7",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        25
+      ],
+      "name": "",
+      "ref": "e37b0c28a",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        39,
+        25
+      ],
+      "name": "File",
+      "ref": "eae5e7196",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        39,
+        19,
+        75,
+        25
+      ],
+      "name": "Accounts",
+      "ref": "ecb5893cc",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        114,
+        19,
+        49,
+        25
+      ],
+      "name": "Tools",
+      "ref": "ec5eeafb2",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        163,
+        19,
+        48,
+        25
+      ],
+      "name": "View",
+      "ref": "eb0ba3d40",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        211,
+        19,
+        46,
+        25
+      ],
+      "name": "Help",
+      "ref": "ef594ac36",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        1,
+        995,
+        200,
+        6
+      ],
+      "name": "",
+      "ref": "ef36204a0",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        225,
+        90,
+        208,
+        19
+      ],
+      "name": "Stock Portfolio: Broker",
+      "ref": "ed4d95c5c",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        223,
+        149,
+        150,
+        34
+      ],
+      "name": "All",
+      "ref": "e1abcbfc5",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        224,
+        119,
+        146,
+        17
+      ],
+      "name": "Market Value: $875.00",
+      "ref": "efa803078",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        390,
+        119,
+        117,
+        17
+      ],
+      "name": "Invested: $875.00",
+      "ref": "e8a41184d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        527,
+        119,
+        129,
+        17
+      ],
+      "name": "Loss: $0.00 (0.00%)",
+      "ref": "ef5c3af72",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        403,
+        158,
+        44,
+        17
+      ],
+      "name": "Name:",
+      "ref": "e95cbe83d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        457,
+        149,
+        98,
+        34
+      ],
+      "name": "",
+      "ref": "e27bd6921",
+      "role": "text",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        557,
+        153,
+        18,
+        26
+      ],
+      "description": "Reset filter",
+      "name": "",
+      "ref": "eb9335a5c",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        209,
+        889,
+        1069,
+        6
+      ],
+      "name": "",
+      "ref": "e259c576c",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        210,
+        901,
+        85,
+        34
+      ],
+      "description": "New Stock Investment",
+      "name": "New",
+      "ref": "e973af597",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        300,
+        901,
+        118,
+        34
+      ],
+      "description": "Add Stock Transactions",
+      "name": "Adjust Trade",
+      "ref": "eccd21b71",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        423,
+        901,
+        108,
+        34
+      ],
+      "description": "View Stock Transactions",
+      "name": "View Trans",
+      "ref": "e0e34c57a",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        536,
+        901,
+        85,
+        34
+      ],
+      "description": "Edit Stock Investment",
+      "name": "Edit",
+      "ref": "e73964de6",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        626,
+        901,
+        85,
+        34
+      ],
+      "description": "Delete Stock Investment",
+      "name": "Delete",
+      "ref": "eabd54329",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        716,
+        901,
+        85,
+        34
+      ],
+      "description": "Move selected transaction to another account",
+      "name": "Move",
+      "ref": "e8c8a8cfe",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        806,
+        901,
+        30,
+        34
+      ],
+      "description": "Open attachments",
+      "name": "",
+      "ref": "e2eceb096",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        841,
+        901,
+        30,
+        34
+      ],
+      "description": "Refresh Stock Prices from Yahoo",
+      "name": "",
+      "ref": "e95ec9c5e",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        881,
+        906,
+        266,
+        17
+      ],
+      "name": "Symbol: ACME\t\tTotal:  (10)",
+      "ref": "ea9afba79",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        210,
+        937,
+        1067,
+        62
+      ],
+      "name": "This Account: |$62.5000 - $50.0000| = $12.5000, $12.5000 * 10 = $0.00 (25.00 %)",
+      "ref": "ee00c0a74",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        269,
+        192,
+        742,
+        640
+      ],
+      "name": "Edit Stock Investment",
+      "ref": "e0678e276",
+      "role": "frame",
+      "states": [
+        "active",
+        "modal"
+      ]
+    },
+    {
+      "bounds": [
+        280,
+        222,
+        438,
+        521
+      ],
+      "name": "Stock Investment Details",
+      "ref": "e0789ba93",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        291,
+        258,
+        106,
+        17
+      ],
+      "name": "Company Name",
+      "ref": "ebd60a7e2",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        423,
+        250,
+        284,
+        34
+      ],
+      "description": "Enter the stock company name",
+      "name": "",
+      "ref": "ef1aceb18",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "Acme Corp"
+    },
+    {
+      "bounds": [
+        291,
+        302,
+        105,
+        17
+      ],
+      "name": "Stock Symbol",
+      "ref": "edb1db2e1",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        423,
+        294,
+        284,
+        34
+      ],
+      "description": "Enter the stock symbol. (Optional) Include exchange. eg: IBM.BE",
+      "name": "",
+      "ref": "eaaa00143",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "ACME"
+    },
+    {
+      "bounds": [
+        291,
+        346,
+        43,
+        17
+      ],
+      "name": "*Date",
+      "ref": "eab8e8270",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        423,
+        338,
+        114,
+        34
+      ],
+      "description": "Specify the initial date of the stock investment\nUsed when creating the initial Share transaction.",
+      "name": "",
+      "ref": "e2e39ada8",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        423,
+        338,
+        91,
+        34
+      ],
+      "name": "",
+      "ref": "ebfece13f",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "03/01/2025"
+    },
+    {
+      "bounds": [
+        547,
+        338,
+        71,
+        34
+      ],
+      "name": "",
+      "ref": "e6c1ed226",
+      "role": "spin button",
+      "states": [
+        "editable"
+      ],
+      "text": "0",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        628,
+        346,
+        79,
+        17
+      ],
+      "name": "Saturday",
+      "ref": "ef58d559d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        291,
+        390,
+        117,
+        17
+      ],
+      "name": "*Share Number",
+      "ref": "e1be5fe62",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        423,
+        382,
+        284,
+        34
+      ],
+      "description": "Enter number of shares.\nUsed when creating the initial Share transaction.",
+      "name": "",
+      "ref": "ef618cf3c",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "10"
+    },
+    {
+      "bounds": [
+        291,
+        434,
+        96,
+        17
+      ],
+      "name": "*Share Price",
+      "ref": "e3ae894b9",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        423,
+        426,
+        284,
+        34
+      ],
+      "description": "Enter the initial price per share.\nUsed when creating the initial Share transaction.",
+      "name": "",
+      "ref": "e5f814a34",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "50.0000"
+    },
+    {
+      "bounds": [
+        291,
+        478,
+        122,
+        17
+      ],
+      "name": "Deductible Comm.",
+      "ref": "e3525e380",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        423,
+        470,
+        284,
+        34
+      ],
+      "description": "Enter any commission paid.\nUsed when creating the initial Share transaction.",
+      "name": "",
+      "ref": "e9c5ac541",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "5.0000"
+    },
+    {
+      "bounds": [
+        291,
+        522,
+        108,
+        17
+      ],
+      "name": "Curr. Share Price",
+      "ref": "edeb34288",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        423,
+        514,
+        284,
+        34
+      ],
+      "description": "Enter current stock/share price.",
+      "name": "",
+      "ref": "e66973aae",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "62.5000"
+    },
+    {
+      "bounds": [
+        291,
+        563,
+        89,
+        17
+      ],
+      "name": "Current Value",
+      "ref": "e814de177",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        642,
+        563,
+        60,
+        17
+      ],
+      "name": "$625.00",
+      "ref": "efa1eeae7",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        286,
+        619,
+        39,
+        17
+      ],
+      "name": "Notes",
+      "ref": "e287f3035",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        656,
+        600,
+        18,
+        26
+      ],
+      "description": "Manage stock attachments",
+      "name": "",
+      "ref": "e3579dc3c",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        684,
+        600,
+        18,
+        26
+      ],
+      "description": "Display the web page for the specified Stock symbol",
+      "name": "",
+      "ref": "ee293c29e",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        287,
+        647,
+        424,
+        88
+      ],
+      "description": "Enter notes associated with this investment",
+      "name": "",
+      "ref": "e6e26c1eb",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "First lot"
+    },
+    {
+      "bounds": [
+        280,
+        222,
+        164,
+        17
+      ],
+      "name": "Stock Investment Details",
+      "ref": "e709c0a38",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        738,
+        222,
+        262,
+        595
+      ],
+      "name": "Stock History Options",
+      "ref": "e11a19f26",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        744,
+        245,
+        250,
+        424
+      ],
+      "description": "Stock Price History",
+      "name": "",
+      "ref": "e8f4cbdcf",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        751,
+        692,
+        68,
+        17
+      ],
+      "name": "Price Date",
+      "ref": "e537c5e3f",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        829,
+        684,
+        150,
+        34
+      ],
+      "description": "Specify the stock/share price date.",
+      "name": "",
+      "ref": "eede8d35c",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        829,
+        684,
+        91,
+        34
+      ],
+      "name": "",
+      "ref": "ecc0b99f8",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "06/10/2026"
+    },
+    {
+      "bounds": [
+        751,
+        736,
+        33,
+        17
+      ],
+      "name": "Price",
+      "ref": "eb8a8cae4",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        829,
+        728,
+        150,
+        34
+      ],
+      "name": "",
+      "ref": "ef431e615",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "64.1250"
+    },
+    {
+      "bounds": [
+        751,
+        776,
+        18,
+        26
+      ],
+      "description": "Download Stock Price history",
+      "name": "",
+      "ref": "e8367b65e",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        779,
+        776,
+        18,
+        26
+      ],
+      "description": "Import Stock Price history (CSV Format)",
+      "name": "",
+      "ref": "ee8382b10",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        807,
+        772,
+        85,
+        34
+      ],
+      "description": "Delete selected Stock Price",
+      "name": "Delete",
+      "ref": "e37ec94ec",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        902,
+        772,
+        85,
+        34
+      ],
+      "description": "Add Stock Price to history",
+      "name": "Add",
+      "ref": "e402bf996",
+      "role": "push button",
+      "states": [
+        "focused"
+      ]
+    },
+    {
+      "bounds": [
+        738,
+        222,
+        141,
+        17
+      ],
+      "name": "Stock History Options",
+      "ref": "ec1632f8b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        409,
+        778,
+        85,
+        34
+      ],
+      "name": "Save",
+      "ref": "eb401a874",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        504,
+        778,
+        85,
+        34
+      ],
+      "name": "Close",
+      "ref": "e0e01046c",
+      "role": "push button"
+    }
+  ],
+  "screen": [
+    1280,
+    1024
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": false,
+      "bounds": [
+        0,
+        38,
+        1280,
+        1005
+      ],
+      "ref": "w5b3c0310",
+      "title": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),"
+    },
+    {
+      "active": true,
+      "bounds": [
+        271,
+        232,
+        740,
+        615
+      ],
+      "ref": "wd678ec09",
+      "title": "Edit Stock Investment"
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        559,
+        -44,
+        162,
+        36
+      ],
+      "href": "/feeds#main",
+      "offscreen": true,
+      "ref": "e182",
+      "role": null,
+      "tag": "a",
+      "text": "Skip to content"
+    },
+    {
+      "aria": "Home page",
+      "bounds": [
+        193,
+        10,
+        77,
+        19
+      ],
+      "href": "/unread",
+      "ref": "e183",
+      "role": null,
+      "tag": "a",
+      "text": "Mini\nflux"
+    },
+    {
+      "aria": "Unread, 3 unread entries",
+      "bounds": [
+        278,
+        12,
+        102,
+        16
+      ],
+      "href": "/unread",
+      "ref": "e184",
+      "role": null,
+      "tag": "a",
+      "text": "Unread (3)"
+    },
+    {
+      "bounds": [
+        395,
+        12,
+        78,
+        16
+      ],
+      "href": "/starred",
+      "ref": "e185",
+      "role": null,
+      "tag": "a",
+      "text": "Starred"
+    },
+    {
+      "bounds": [
+        488,
+        12,
+        78,
+        16
+      ],
+      "href": "/history",
+      "ref": "e186",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        581,
+        12,
+        70,
+        16
+      ],
+      "href": "/feeds",
+      "ref": "e187",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "aria": "Add feed",
+      "bounds": [
+        650,
+        12,
+        26,
+        16
+      ],
+      "href": "/subscribe",
+      "ref": "e188",
+      "role": null,
+      "tag": "a",
+      "text": "(+)",
+      "title": "Keyboard Shortcut: +"
+    },
+    {
+      "bounds": [
+        691,
+        12,
+        104,
+        16
+      ],
+      "href": "/categories",
+      "ref": "e189",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        810,
+        12,
+        70,
+        16
+      ],
+      "href": "/search",
+      "ref": "e190",
+      "role": null,
+      "tag": "a",
+      "text": "Search"
+    },
+    {
+      "bounds": [
+        894,
+        12,
+        87,
+        16
+      ],
+      "href": "/settings",
+      "ref": "e191",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        996,
+        10,
+        70,
+        18
+      ],
+      "ref": "e192",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "title": "Logged in as alice"
+    },
+    {
+      "bounds": [
+        193,
+        82,
+        66,
+        18
+      ],
+      "href": "/feeds",
+      "ref": "e193",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "bounds": [
+        284,
+        82,
+        95,
+        18
+      ],
+      "href": "/subscribe",
+      "ref": "e194",
+      "role": null,
+      "tag": "a",
+      "text": "Add feed"
+    },
+    {
+      "bounds": [
+        403,
+        82,
+        76,
+        18
+      ],
+      "focused": true,
+      "href": "/export",
+      "ref": "e195",
+      "role": null,
+      "tag": "a",
+      "text": "Export"
+    },
+    {
+      "bounds": [
+        503,
+        82,
+        76,
+        18
+      ],
+      "href": "/import",
+      "ref": "e196",
+      "role": null,
+      "tag": "a",
+      "text": "Import"
+    },
+    {
+      "bounds": [
+        603,
+        81,
+        270,
+        18
+      ],
+      "ref": "e197",
+      "role": null,
+      "tag": "button",
+      "text": "Refresh all feeds in the background"
+    },
+    {
+      "bounds": [
+        199,
+        122,
+        154,
+        18
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e198",
+      "role": null,
+      "tag": "a",
+      "text": "Morning Gazette"
+    },
+    {
+      "aria": "Category: All",
+      "bounds": [
+        457,
+        125,
+        22,
+        14
+      ],
+      "href": "/category/1/entries",
+      "ref": "e199",
+      "role": null,
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        199,
+        146,
+        85,
+        12
+      ],
+      "href": "[external]",
+      "ref": "e200",
+      "role": null,
+      "tag": "a",
+      "text": "gazette.test",
+      "title": "http://gazette.test/"
+    },
+    {
+      "bounds": [
+        199,
+        167,
+        65,
+        16
+      ],
+      "ref": "e201",
+      "role": null,
+      "tag": "button",
+      "text": "Refresh"
+    },
+    {
+      "bounds": [
+        280,
+        169,
+        51,
+        15
+      ],
+      "href": "/feed/1/edit",
+      "ref": "e202",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        346,
+        167,
+        68,
+        16
+      ],
+      "ref": "e203",
+      "role": null,
+      "tag": "button",
+      "text": "Remove"
+    },
+    {
+      "bounds": [
+        429,
+        167,
+        111,
+        16
+      ],
+      "ref": "e204",
+      "role": null,
+      "tag": "button",
+      "text": "Mark all as read"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "feeds.opml",
+      "ref": "d0",
+      "url": "/export"
+    }
+  ],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Skip to content\nMini\nflux\nUnread (3) Starred History Feeds (+) Categories Search Settings Logout\nFeeds (1)\nFeeds Add feed Export Import \nRefresh all feeds in the background\nMorning Gazette ( \n3 unread entries\n3 / \n3 entries in total\n3 ) All\ngazette.test  Last check: just now\nRefresh Edit Remove Mark all as read",
+  "text_truncated": false,
+  "title": "Feeds (1) - Miniflux",
+  "url": "/feeds",
+  "viewport": [
+    1280,
+    900
+  ]
+}

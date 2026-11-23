@@ -1,0 +1,45 @@
+schema_version = "1.4"
+artifacts = [{ source = "/app/solution" }]
+
+[task]
+name = "program-bench/gitea"
+version = "1.0.0"
+description = "Reconstruct Gitea 1.22.6, a Git repository hosting and code collaboration platform, from black-box observation."
+keywords = ["git", "repository-hosting", "code-review", "web", "go"]
+
+[metadata]
+category = "fullstack-web-app"
+upstream = "go-gitea/gitea 1.22.6"
+license = "MIT"
+interface = "browser GUI; HTTP API; Git smart HTTP and LFS; package and container registries; uploads and downloads"
+network_boundary = "agent: no network except hosts allowed with --allow-agent-host (Harbor egress sidecar); reference and verifier: Compose network_mode:none; restricted Unix socket RPC to the black-box runtime"
+
+[agent]
+timeout_sec = 28800
+user = "agent"
+
+[environment]
+docker_image = "program-bench-gitea-agent:1.0.0"
+build_timeout_sec = 600
+cpus = 4
+memory_mb = 16384
+storage_mb = 20480
+network_mode = "no-network"
+
+[environment.healthcheck]
+command = "blackbox-health"
+interval_sec = 1
+timeout_sec = 5
+retries = 60
+
+[verifier]
+timeout_sec = 98400
+environment_mode = "separate"
+
+[verifier.environment]
+docker_image = "program-bench-gitea-verifier:1.0.0"
+cpus = 4
+memory_mb = 8192
+storage_mb = 20480
+network_mode = "no-network"
+build_timeout_sec = 600

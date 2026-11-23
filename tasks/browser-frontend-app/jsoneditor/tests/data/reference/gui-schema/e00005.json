@@ -1,0 +1,259 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        13,
+        97,
+        26,
+        26
+      ],
+      "ref": "ee02b9e8c",
+      "tag": "button",
+      "title": "Expand all fields"
+    },
+    {
+      "bounds": [
+        43,
+        97,
+        26,
+        26
+      ],
+      "ref": "e85e63fcb",
+      "tag": "button",
+      "title": "Collapse all fields"
+    },
+    {
+      "bounds": [
+        81,
+        97,
+        26,
+        26
+      ],
+      "disabled": true,
+      "ref": "ebbb5bcf1",
+      "tag": "button",
+      "title": "Undo last action (Ctrl+Z)"
+    },
+    {
+      "bounds": [
+        111,
+        97,
+        26,
+        26
+      ],
+      "disabled": true,
+      "ref": "e0a2b66da",
+      "tag": "button",
+      "title": "Redo (Ctrl+Shift+Z)"
+    },
+    {
+      "bounds": [
+        149,
+        97,
+        61,
+        26
+      ],
+      "ref": "efc114b1f",
+      "tag": "button",
+      "text": "Form ▾",
+      "title": "Switch Editor Mode"
+    },
+    {
+      "bounds": [
+        320,
+        98,
+        18,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e1d35618c",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        339,
+        99,
+        126,
+        18
+      ],
+      "context": "Search fields and values",
+      "ref": "e3b24d854",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        466,
+        98,
+        16,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e44fcfed4",
+      "tag": "button",
+      "title": "Next result (Enter)"
+    },
+    {
+      "bounds": [
+        482,
+        98,
+        16,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e0ed8f5b1",
+      "tag": "button",
+      "title": "Previous result (Shift + Enter)"
+    },
+    {
+      "bounds": [
+        9,
+        154,
+        24,
+        24
+      ],
+      "ref": "e8f71e697",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        92,
+        155,
+        31,
+        22
+      ],
+      "ref": "e4b214abd",
+      "tag": "div",
+      "text": "{4}",
+      "title": "object containing 4 items"
+    },
+    {
+      "bounds": [
+        125,
+        154,
+        24,
+        24
+      ],
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        108,
+        179,
+        38,
+        22
+      ],
+      "ref": "ed60aee84",
+      "tag": "div",
+      "text": "Al",
+      "value": "Al"
+    },
+    {
+      "bounds": [
+        147,
+        178,
+        24,
+        24
+      ],
+      "ref": "ea0fc21fdx2",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        106,
+        203,
+        38,
+        22
+      ],
+      "ref": "ef96bd126",
+      "tag": "div",
+      "text": "16",
+      "value": "16"
+    },
+    {
+      "bounds": [
+        145,
+        202,
+        24,
+        24
+      ],
+      "ref": "ea0fc21fdx3",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        107,
+        226,
+        61,
+        19
+      ],
+      "name": "role_704",
+      "options": [
+        {
+          "label": "reader",
+          "selected": false,
+          "value": "reader"
+        },
+        {
+          "label": "writer",
+          "selected": false,
+          "value": "writer"
+        }
+      ],
+      "ref": "ed2db247c",
+      "tag": "select",
+      "value": ""
+    },
+    {
+      "bounds": [
+        168,
+        226,
+        24,
+        24
+      ],
+      "ref": "ea0fc21fdx4",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        136,
+        253,
+        13,
+        13
+      ],
+      "checked": true,
+      "ref": "ecd10f8cf",
+      "tag": "input",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        153,
+        251,
+        40,
+        22
+      ],
+      "ref": "e39ebbf99",
+      "tag": "div",
+      "text": "true",
+      "value": "true"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "drawing": [],
+  "drawing_truncated": false,
+  "text": "Switch editor mode using the mode box. Note that the mode can be changed programmatically as well using the method\neditor.setMode(mode)\n, try it in the console of your browser.\nSelect a node...\nobject\nname\n:\nage\n:\nrole\n:\nenabled\n:",
+  "text_truncated": false,
+  "title": "JSONEditor | Switch mode",
+  "url": "/",
+  "viewport": [
+    1280,
+    900
+  ]
+}

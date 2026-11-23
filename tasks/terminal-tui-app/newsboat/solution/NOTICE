@@ -1,0 +1,29 @@
+Newsboat 2.45 — distribution, licences and sources
+
+newsboat-runtime-2.45.tar.gz contains the Newsboat executable, the shared
+libraries it requires, their original notices, and the separate pbsandbox.so
+isolation library. It is a locally assembled runtime, not an upstream binary
+release. solve.sh installs it without rebuilding the executable or libraries.
+
+Newsboat is distributed under the MIT License; its complete text is LICENSE.
+The unmodified Newsboat 2.45 source is available at:
+https://newsboat.org/releases/2.45/newsboat-2.45.tar.xz
+Repository: https://github.com/newsboat/newsboat
+SOURCE.json records the source checksum, build inputs and build commands.
+The executable was stripped and given a relative library search path; upstream
+source files were not changed. Rust and bundled-header licence texts are in
+LICENSES/newsboat-dependencies.txt.
+
+Bundled shared libraries come from the Ubuntu 24.04 source packages and exact
+versions listed in SOURCE.json notes.libraries. Their corresponding source
+packages are available from https://archive.ubuntu.com/ubuntu/pool/ by those
+source-package names and versions. Component notices are in LICENSES/ and in
+the runtime's share/doc/ tree. Full GPL and LGPL texts supplement notices that
+refer to the distribution's common-licenses directory. Library code was not
+changed; packaging strips files and changes their library search paths.
+
+start.sh loads pbsandbox.so before Newsboat starts. This separate library,
+whose source is pbsandbox.c and newsboat/share/doc/newsboat/pbsandbox.c, applies
+Landlock file restrictions and disables external program execution with
+seccomp. These launcher and packaging files are not part of upstream Newsboat.
+This distribution is not affiliated with or endorsed by the Newsboat project.

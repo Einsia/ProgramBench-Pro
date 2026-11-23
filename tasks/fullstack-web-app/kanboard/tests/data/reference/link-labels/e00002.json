@@ -1,0 +1,570 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e613",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e614",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/settings/links/labels",
+      "ref": "e615",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/settings/links/labels",
+      "ref": "e616",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "bounds": [
+        23,
+        53,
+        42,
+        17
+      ],
+      "href": "/settings",
+      "ref": "e617",
+      "role": null,
+      "tag": "a",
+      "text": "About"
+    },
+    {
+      "bounds": [
+        23,
+        89,
+        138,
+        17
+      ],
+      "href": "/settings/application",
+      "ref": "e618",
+      "role": null,
+      "tag": "a",
+      "text": "Application settings"
+    },
+    {
+      "bounds": [
+        23,
+        125,
+        100,
+        17
+      ],
+      "href": "/settings/email",
+      "ref": "e619",
+      "role": null,
+      "tag": "a",
+      "text": "Email settings"
+    },
+    {
+      "bounds": [
+        23,
+        161,
+        109,
+        17
+      ],
+      "href": "/settings/project",
+      "ref": "e620",
+      "role": null,
+      "tag": "a",
+      "text": "Project settings"
+    },
+    {
+      "bounds": [
+        23,
+        197,
+        102,
+        17
+      ],
+      "href": "/settings/board",
+      "ref": "e621",
+      "role": null,
+      "tag": "a",
+      "text": "Board settings"
+    },
+    {
+      "bounds": [
+        23,
+        233,
+        132,
+        17
+      ],
+      "href": "/settings/tags",
+      "ref": "e622",
+      "role": null,
+      "tag": "a",
+      "text": "Tags management"
+    },
+    {
+      "bounds": [
+        23,
+        269,
+        76,
+        17
+      ],
+      "href": "/settings/links/labels",
+      "ref": "e623",
+      "role": null,
+      "tag": "a",
+      "text": "Link labels"
+    },
+    {
+      "bounds": [
+        23,
+        305,
+        105,
+        17
+      ],
+      "href": "/settings/currencies",
+      "ref": "e624",
+      "role": null,
+      "tag": "a",
+      "text": "Currency rates"
+    },
+    {
+      "bounds": [
+        23,
+        341,
+        84,
+        17
+      ],
+      "href": "/settings/integrations",
+      "ref": "e625",
+      "role": null,
+      "tag": "a",
+      "text": "Integrations"
+    },
+    {
+      "bounds": [
+        23,
+        377,
+        75,
+        17
+      ],
+      "href": "/settings/webhook",
+      "ref": "e626",
+      "role": null,
+      "tag": "a",
+      "text": "Webhooks"
+    },
+    {
+      "bounds": [
+        23,
+        413,
+        26,
+        17
+      ],
+      "href": "/settings/api",
+      "ref": "e627",
+      "role": null,
+      "tag": "a",
+      "text": "API"
+    },
+    {
+      "bounds": [
+        250,
+        76,
+        119,
+        17
+      ],
+      "href": "/settings/links/labels/create",
+      "ref": "e628",
+      "role": null,
+      "tag": "a",
+      "text": "Add link label"
+    },
+    {
+      "bounds": [
+        967,
+        158,
+        51,
+        17
+      ],
+      "href": "/settings/links/labels/edit/1",
+      "ref": "e629",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        1042,
+        158,
+        83,
+        17
+      ],
+      "href": "/settings/links/labels/confirm/1",
+      "ref": "e630",
+      "role": null,
+      "tag": "a",
+      "text": "Remove"
+    },
+    {
+      "bounds": [
+        967,
+        193,
+        51,
+        17
+      ],
+      "href": "/settings/links/labels/edit/2",
+      "ref": "e631",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        1042,
+        193,
+        83,
+        17
+      ],
+      "href": "/settings/links/labels/confirm/2",
+      "ref": "e632",
+      "role": null,
+      "tag": "a",
+      "text": "Remove"
+    },
+    {
+      "bounds": [
+        967,
+        228,
+        51,
+        17
+      ],
+      "href": "/settings/links/labels/edit/3",
+      "ref": "e633",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        1042,
+        228,
+        83,
+        17
+      ],
+      "href": "/settings/links/labels/confirm/3",
+      "ref": "e634",
+      "role": null,
+      "tag": "a",
+      "text": "Remove"
+    },
+    {
+      "bounds": [
+        967,
+        263,
+        51,
+        17
+      ],
+      "href": "/settings/links/labels/edit/4",
+      "ref": "e635",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        1042,
+        263,
+        83,
+        17
+      ],
+      "href": "/settings/links/labels/confirm/4",
+      "ref": "e636",
+      "role": null,
+      "tag": "a",
+      "text": "Remove"
+    },
+    {
+      "bounds": [
+        967,
+        298,
+        51,
+        17
+      ],
+      "href": "/settings/links/labels/edit/5",
+      "ref": "e637",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        1042,
+        298,
+        83,
+        17
+      ],
+      "href": "/settings/links/labels/confirm/5",
+      "ref": "e638",
+      "role": null,
+      "tag": "a",
+      "text": "Remove"
+    },
+    {
+      "bounds": [
+        967,
+        333,
+        51,
+        17
+      ],
+      "href": "/settings/links/labels/edit/6",
+      "ref": "e639",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        1042,
+        333,
+        83,
+        17
+      ],
+      "href": "/settings/links/labels/confirm/6",
+      "ref": "e640",
+      "role": null,
+      "tag": "a",
+      "text": "Remove"
+    },
+    {
+      "bounds": [
+        967,
+        368,
+        51,
+        17
+      ],
+      "href": "/settings/links/labels/edit/7",
+      "ref": "e641",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        1042,
+        368,
+        83,
+        17
+      ],
+      "href": "/settings/links/labels/confirm/7",
+      "ref": "e642",
+      "role": null,
+      "tag": "a",
+      "text": "Remove"
+    },
+    {
+      "bounds": [
+        967,
+        403,
+        51,
+        17
+      ],
+      "href": "/settings/links/labels/edit/8",
+      "ref": "e643",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        1042,
+        403,
+        83,
+        17
+      ],
+      "href": "/settings/links/labels/confirm/8",
+      "ref": "e644",
+      "role": null,
+      "tag": "a",
+      "text": "Remove"
+    },
+    {
+      "bounds": [
+        967,
+        438,
+        51,
+        17
+      ],
+      "href": "/settings/links/labels/edit/9",
+      "ref": "e645",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        1042,
+        438,
+        83,
+        17
+      ],
+      "href": "/settings/links/labels/confirm/9",
+      "ref": "e646",
+      "role": null,
+      "tag": "a",
+      "text": "Remove"
+    },
+    {
+      "bounds": [
+        967,
+        473,
+        51,
+        17
+      ],
+      "href": "/settings/links/labels/edit/10",
+      "ref": "e647",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        1042,
+        473,
+        83,
+        17
+      ],
+      "href": "/settings/links/labels/confirm/10",
+      "ref": "e648",
+      "role": null,
+      "tag": "a",
+      "text": "Remove"
+    },
+    {
+      "bounds": [
+        967,
+        508,
+        51,
+        17
+      ],
+      "href": "/settings/links/labels/edit/11",
+      "ref": "e649",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        1042,
+        508,
+        83,
+        17
+      ],
+      "href": "/settings/links/labels/confirm/11",
+      "ref": "e650",
+      "role": null,
+      "tag": "a",
+      "text": "Remove"
+    },
+    {
+      "bounds": [
+        967,
+        543,
+        51,
+        17
+      ],
+      "href": "/settings/links/labels/edit/12",
+      "ref": "e651",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        1042,
+        543,
+        83,
+        17
+      ],
+      "href": "/settings/links/labels/confirm/12",
+      "ref": "e652",
+      "role": null,
+      "tag": "a",
+      "text": "Remove"
+    },
+    {
+      "bounds": [
+        967,
+        578,
+        51,
+        17
+      ],
+      "href": "/settings/links/labels/edit/13",
+      "ref": "e653",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        1042,
+        578,
+        83,
+        17
+      ],
+      "href": "/settings/links/labels/confirm/13",
+      "ref": "e654",
+      "role": null,
+      "tag": "a",
+      "text": "Remove"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Settings > Link labels\n \n \nA\nAbout\nApplication settings\nEmail settings\nProject settings\nBoard settings\nTags management\nLink labels\nCurrency rates\nIntegrations\nWebhooks\nAPI\nLink labels\nAdd link label\nLink labels\tActions\nrelates to\t\nEdit or Remove\n\nblocks | is blocked by\t\nEdit or Remove\n\nis blocked by | blocks\t\nEdit or Remove\n\nduplicates | is duplicated by\t\nEdit or Remove\n\nis duplicated by | duplicates\t\nEdit or Remove\n\nis a child of | is a parent of\t\nEdit or Remove\n\nis a parent of | is a child of\t\nEdit or Remove\n\ntargets milestone | is a milestone of\t\nEdit or Remove\n\nis a milestone of | targets milestone\t\nEdit or Remove\n\nfixes | is fixed by\t\nEdit or Remove\n\nis fixed by | fixes\t\nEdit or Remove\n\ndepends on | is a dependency of\t\nEdit or Remove\n\nis a dependency of | depends on\t\nEdit or Remove",
+  "text_truncated": false,
+  "title": "Settings > Link labels",
+  "url": "/settings/links/labels",
+  "viewport": [
+    1280,
+    900
+  ]
+}

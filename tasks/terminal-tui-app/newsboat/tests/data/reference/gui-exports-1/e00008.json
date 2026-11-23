@@ -1,0 +1,415 @@
+{
+  "cursor": {
+    "column": 0,
+    "hidden": true,
+    "row": 1
+  },
+  "process": "running",
+  "screen": [
+    "00|Newsboat 2.45.0 - Articles in feed 'Tech Daily' (4 unread, 4 total) - file://feeds/tech.xml",
+    "01|   1 N  Jan 09    26   Filesystem benchmarks",
+    "02|   2 N  Jan 07    29   Compiler news",
+    "03|   3 N  Jan 05    81   Rust in the kernel",
+    "04|   4 N  Jan 03    51   Kernel 6.9 released",
+    "05|",
+    "06|",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|",
+    "12|",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|",
+    "19|",
+    "20|",
+    "21|",
+    "22|",
+    "23|",
+    "24|",
+    "25|",
+    "26|",
+    "27|",
+    "28|",
+    "29|",
+    "30|",
+    "31|",
+    "32|",
+    "33|",
+    "34|q:Quit ENTER:Open s:Save r:Reload n:Next Unread A:Mark All Read /:Search ?:Help",
+    "35|Saved article to ~/Filesystem_benchmarks.txt"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": "Newsboat 2.45.0 - Articles in feed 'Tech Daily' (4 unread, 4 total) - file://feeds/tech.xml                             "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 1,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": "   1 N  Jan 09    26   Filesystem benchmarks                                                                            "
+    },
+    {
+      "columns": [
+        0,
+        36
+      ],
+      "row": 2,
+      "style": [
+        "bold"
+      ],
+      "text": "   2 N  Jan 07    29   Compiler news"
+    },
+    {
+      "columns": [
+        0,
+        41
+      ],
+      "row": 3,
+      "style": [
+        "bold"
+      ],
+      "text": "   3 N  Jan 05    81   Rust in the kernel"
+    },
+    {
+      "columns": [
+        0,
+        42
+      ],
+      "row": 4,
+      "style": [
+        "bold"
+      ],
+      "text": "   4 N  Jan 03    51   Kernel 6.9 released"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": "q"
+    },
+    {
+      "columns": [
+        1,
+        2
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        2,
+        6
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Quit"
+    },
+    {
+      "columns": [
+        6,
+        12
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": " ENTER"
+    },
+    {
+      "columns": [
+        12,
+        13
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        13,
+        17
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Open"
+    },
+    {
+      "columns": [
+        17,
+        19
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": " s"
+    },
+    {
+      "columns": [
+        19,
+        20
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        20,
+        24
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Save"
+    },
+    {
+      "columns": [
+        24,
+        26
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": " r"
+    },
+    {
+      "columns": [
+        26,
+        27
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        27,
+        33
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Reload"
+    },
+    {
+      "columns": [
+        33,
+        35
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": " n"
+    },
+    {
+      "columns": [
+        35,
+        36
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        36,
+        47
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Next Unread"
+    },
+    {
+      "columns": [
+        47,
+        49
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": " A"
+    },
+    {
+      "columns": [
+        49,
+        50
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        50,
+        63
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Mark All Read"
+    },
+    {
+      "columns": [
+        63,
+        65
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": " /"
+    },
+    {
+      "columns": [
+        65,
+        66
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        66,
+        72
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Search"
+    },
+    {
+      "columns": [
+        72,
+        74
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": " ?"
+    },
+    {
+      "columns": [
+        74,
+        75
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        75,
+        79
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Help"
+    }
+  ]
+}

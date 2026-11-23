@@ -1,0 +1,297 @@
+{
+  "focused": null,
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        1024
+      ],
+      "name": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),",
+      "ref": "e93ed40b7",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        25
+      ],
+      "name": "",
+      "ref": "e37b0c28a",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        39,
+        25
+      ],
+      "name": "File",
+      "ref": "eae5e7196",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        39,
+        19,
+        75,
+        25
+      ],
+      "name": "Accounts",
+      "ref": "ecb5893cc",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        114,
+        19,
+        49,
+        25
+      ],
+      "name": "Tools",
+      "ref": "ec5eeafb2",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        163,
+        19,
+        48,
+        25
+      ],
+      "name": "View",
+      "ref": "eb0ba3d40",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        211,
+        19,
+        46,
+        25
+      ],
+      "name": "Help",
+      "ref": "ef594ac36",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        1,
+        995,
+        200,
+        6
+      ],
+      "name": "",
+      "ref": "ef36204a0",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        363,
+        202,
+        554,
+        621
+      ],
+      "name": "Category Manager",
+      "ref": "e3f2aba52",
+      "role": "frame",
+      "states": [
+        "active",
+        "modal"
+      ]
+    },
+    {
+      "bounds": [
+        743,
+        236,
+        18,
+        26
+      ],
+      "description": "Merge Categories",
+      "name": "",
+      "ref": "e930ff70c",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        374,
+        232,
+        111,
+        34
+      ],
+      "name": "Collapse All",
+      "ref": "e969ea2f8",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        500,
+        232,
+        103,
+        34
+      ],
+      "name": "Expand All",
+      "ref": "e79f5fd28",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        628,
+        232,
+        90,
+        34
+      ],
+      "description": "Show all hidden categories",
+      "name": "Show All",
+      "ref": "e06ed97f1",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        781,
+        232,
+        125,
+        34
+      ],
+      "description": "Remove hidden setting from all categories",
+      "name": "Clear Settings",
+      "ref": "e8122e0de",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        429,
+        676,
+        477,
+        34
+      ],
+      "name": "Search",
+      "ref": "e87fcce6e",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "Education:Books"
+    },
+    {
+      "bounds": [
+        438,
+        685,
+        16,
+        16
+      ],
+      "name": "edit-find-symbolic",
+      "ref": "eaf3fb8ca",
+      "role": "icon",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        881,
+        685,
+        16,
+        16
+      ],
+      "name": "edit-clear-symbolic",
+      "ref": "ec344a31e",
+      "role": "icon"
+    },
+    {
+      "bounds": [
+        374,
+        684,
+        45,
+        17
+      ],
+      "name": "Search",
+      "ref": "eff12fb4c",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        502,
+        730,
+        85,
+        34
+      ],
+      "description": "New category",
+      "name": "New",
+      "ref": "e9c7ddb25",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        597,
+        730,
+        85,
+        34
+      ],
+      "description": "Edit category",
+      "name": "Edit",
+      "ref": "e094b6336",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        692,
+        730,
+        85,
+        34
+      ],
+      "description": "Delete category. The category is unable to be used by existing transactions.",
+      "name": "Delete",
+      "ref": "e219e8083",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        597,
+        774,
+        85,
+        34
+      ],
+      "name": "Close",
+      "ref": "e35a38e58",
+      "role": "push button"
+    }
+  ],
+  "screen": [
+    1280,
+    1024
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": false,
+      "bounds": [
+        0,
+        38,
+        1280,
+        1005
+      ],
+      "ref": "w5b3c0310",
+      "title": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),"
+    },
+    {
+      "active": true,
+      "bounds": [
+        365,
+        242,
+        552,
+        596
+      ],
+      "ref": "w07965443",
+      "title": "Category Manager"
+    }
+  ]
+}

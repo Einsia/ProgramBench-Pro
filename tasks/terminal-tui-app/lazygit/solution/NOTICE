@@ -1,0 +1,14 @@
+lazygit 0.66.2
+
+https://github.com/jesseduffield/lazygit
+License: MIT; the complete product license is in LICENSE.
+
+Upstream executable is unchanged. Deployment provides a fixed configuration and Landlock launcher.
+
+An empty Git repository on main lives in DATA_DIR/workspace. Author and committer identity and timestamps are fixed. A root-owned system configuration disables external tools and background network activity; hooks and global Git configuration are disabled. Landlock restricts executable programs and writable directories; application state persists under DATA_DIR/.lazygit.
+
+lazygit_0.66.2_linux_x86_64.tar.gz
+https://github.com/jesseduffield/lazygit/releases/download/v0.66.2/lazygit_0.66.2_linux_x86_64.tar.gz
+SHA-256: 158efc9ddfa1241fab5fb3526bb442c8dc6c4b1904d73213b9e4e93e03c52034
+
+This task is not affiliated with or endorsed by the upstream project.

@@ -1,0 +1,55 @@
+Hydrogen 1.2.7 reference runtime: licence and corresponding source
+
+Hydrogen-1.2.7-x86_64.AppImage in this directory is the unmodified upstream
+release asset of Hydrogen 1.2.7 (GitHub release 1.2.7; 85973496
+bytes, sha256 4fa9e8e2f506f8380fc0b511a36c4ae72cbe0dc8b0ecd0fc0f7518443750b1bf).
+solve.sh checks that digest and unpacks the image with the AppImage's own
+extractor (--appimage-extract) into runtime/; no file content of the image is
+changed. The launcher launch.py, start.sh and solve.sh are this
+repository's own files and are not part of Hydrogen. launch.py only
+seeds the product's settings file on first start (the product defaults with
+OSC enabled, autosave off and the mixer window closed) and runs the product's
+own programs (hydrogen, h2cli).
+
+Hydrogen is free software, distributed under the terms of the GNU General
+Public License, version 2 or (at your option) any later version: COPYING of
+the source release is the text of the GPL version 2 and the source headers
+say "either version 2 of the License, or (at your option) any later version".
+The full GPL version 2 is included in LICENSE. Component notices are
+reproduced in LICENSES and retained in the extracted upstream runtime.
+
+The image also carries the factory drumkits GMRockKit and TR808EmulationKit,
+demo songs and documentation (usr/share/hydrogen/data; their licences are
+named in the drumkit and song files) and third-party shared libraries that
+keep their own licences: Qt 5.15.2 (LGPL-3.0 / GPL), liblo, libsndfile,
+libsamplerate, libmp3lame, libmpg123 and libpulse (LGPL-2.1), librubberband
+(GPL-2.0-or-later), libarchive, FLAC, Ogg, Vorbis and Opus (BSD-style),
+PortAudio and PortMidi (MIT-style), FFTW (GPL-2.0-or-later), ICU, OpenSSL 1.1
+and further libraries of Ubuntu 20.04, whose copyright files are in
+usr/share/doc of the unpacked image.
+
+Corresponding source of Hydrogen 1.2.7 is the upstream release tag:
+
+  https://github.com/hydrogen-music/hydrogen/archive/refs/tags/1.2.7.tar.gz
+  hydrogen-1.2.7.tar.gz, 14473190 bytes,
+  sha256 4336299b7ebb5897d9faf2d4e705bba34a223d8e8c889b3805312559b0d27ef8
+
+The source of the bundled Ubuntu libraries is that of the Ubuntu 20.04
+(focal) packages named in usr/share/doc of the unpacked image
+(http://archive.ubuntu.com/ubuntu/pool/); Qt 5.15.2 is available from
+https://download.qt.io/archive/qt/5.15/5.15.2/; the other libraries are
+available from their upstream projects at the versions named by their file
+names in usr/lib of the unpacked image.
+
+The task is not affiliated with or endorsed by the Hydrogen developers;
+Hydrogen names the reference product only.
+
+The local isolation.py adapter requires enabled Landlock ABI 1 or newer and
+uses the filesystem rights supported by that ABI. File writes, creation and
+removal are restricted to the configured instance/document directories and
+the required /dev/null and /dev/shm paths. Execution is limited to the selected
+product binary and the dynamic loader. ABI 1 denies cross-directory renames
+and hard links. On ABI 2 or newer, these operations are permitted only where
+the applicable Landlock path rules allow them. File truncation is restricted
+only on ABI 3 or newer; the adapter provides no truncation restriction on
+ABI 1 or 2. It does not modify upstream executable bytes.

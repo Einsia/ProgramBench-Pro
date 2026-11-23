@@ -1,0 +1,47 @@
+{
+  "task": "musicbrainzpicard",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "MusicBrainz Picard",
+    "version": "3.0.3",
+    "homepage": "https://picard.musicbrainz.org/",
+    "repository": "https://github.com/metabrainz/picard",
+    "license": "GPL-2.0-or-later"
+  },
+  "downloads": [
+    {
+      "file": "picard-3.0.3.tar.gz",
+      "url": "https://github.com/metabrainz/picard/releases/download/release-3.0.3/picard-3.0.3.tar.gz",
+      "sha256": "e97f5049495e41b55c0da99ea8506d3d5345936bf348aca1ce34d66ad3b52c03"
+    }
+  ],
+  "bundled": [],
+  "modifications": "The upstream source tree is unchanged. Separate launchers select the GUI/remote-command or picard-cli entry point, initialize the profile, and omit source text from tracebacks. A separate process guard confines writes to profile/document directories and restricts child executables; upstream files remain unchanged.",
+  "configuration": "XDG_CONFIG_HOME and XDG_DATA_HOME are below DATA_DIR; first-run wizard and tutorial prompts are completed. The GUI starts with --no-plugins and update checks disabled.",
+  "notes": {
+    "entrypoint": "start.sh",
+    "installer": "solve.sh",
+    "second_entrypoint": "picard-cli",
+    "python_requirements": [
+      "charset-normalizer==3.5.2",
+      "markdown==3.10.3",
+      "mutagen==1.48.1",
+      "pyjwt==2.15.1",
+      "pyqt6==6.11.0",
+      "pyqt6-qt6==6.11.2",
+      "pyqt6-sip==13.13.0",
+      "pyyaml==6.0.3",
+      "tomli==2.5.0",
+      "tomlkit==0.15.2",
+      "typing-extensions==4.16.0"
+    ],
+    "requirements_source": "The upstream source release requirements.txt; pinned in environment/base-requirements.txt.",
+    "optional_components_absent": [
+      "pygit2 (plug-in installation from git repositories)",
+      "discid (CD lookup)",
+      "fpcalc/Chromaprint (AcoustID fingerprinting)"
+    ],
+    "corresponding_source": "https://github.com/metabrainz/picard/releases/download/release-3.0.3/picard-3.0.3.tar.gz",
+    "process_isolation": "process_guard.c is compiled at installation; requires Linux Landlock. Native helper execution is limited to the installed runtime; Python applications cannot launch external executables."
+  }
+}

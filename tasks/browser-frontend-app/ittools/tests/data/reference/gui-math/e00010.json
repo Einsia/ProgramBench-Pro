@@ -1,0 +1,2948 @@
+{
+  "blocks": [],
+  "controls": [
+    {
+      "bounds": [
+        0,
+        0,
+        240,
+        162
+      ],
+      "onscreen": true,
+      "ref": "e7e68dff6",
+      "tag": "a",
+      "text": "IT - TOOLS Handy tools for developers"
+    },
+    {
+      "bounds": [
+        6,
+        172,
+        234,
+        21
+      ],
+      "onscreen": true,
+      "ref": "e0dec2a7d",
+      "tag": "div",
+      "text": "Crypto"
+    },
+    {
+      "bounds": [
+        0,
+        193,
+        24,
+        429
+      ],
+      "onscreen": true,
+      "ref": "eef54bf9b",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        24,
+        199,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e2e2a37d7",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Token generator"
+    },
+    {
+      "bounds": [
+        24,
+        199,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e570de7bd",
+      "role": "none",
+      "tag": "div",
+      "text": "Token generator"
+    },
+    {
+      "bounds": [
+        24,
+        237,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "ec4492a12",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Hash text"
+    },
+    {
+      "bounds": [
+        24,
+        237,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e3702346c",
+      "role": "none",
+      "tag": "div",
+      "text": "Hash text"
+    },
+    {
+      "bounds": [
+        24,
+        275,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e21dc1ffb",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Bcrypt"
+    },
+    {
+      "bounds": [
+        24,
+        275,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e5c450be9",
+      "role": "none",
+      "tag": "div",
+      "text": "Bcrypt"
+    },
+    {
+      "bounds": [
+        24,
+        313,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "eb82851cc",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "UUIDs generator"
+    },
+    {
+      "bounds": [
+        24,
+        313,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e199d7d12",
+      "role": "none",
+      "tag": "div",
+      "text": "UUIDs generator"
+    },
+    {
+      "bounds": [
+        24,
+        351,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e83c658f2",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "ULID generator"
+    },
+    {
+      "bounds": [
+        24,
+        351,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e1c347630",
+      "role": "none",
+      "tag": "div",
+      "text": "ULID generator"
+    },
+    {
+      "bounds": [
+        24,
+        389,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "ea443b1bd",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Encrypt / decrypt text"
+    },
+    {
+      "bounds": [
+        24,
+        389,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "ea207f3e7",
+      "role": "none",
+      "tag": "div",
+      "text": "Encrypt / decrypt text"
+    },
+    {
+      "bounds": [
+        62,
+        397,
+        185,
+        16
+      ],
+      "onscreen": true,
+      "ref": "e41d19c5a",
+      "tag": "a",
+      "text": "Encrypt / decrypt text"
+    },
+    {
+      "bounds": [
+        24,
+        427,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e203e41d5",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "BIP39 passphrase generator"
+    },
+    {
+      "bounds": [
+        24,
+        427,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "ee5d63b63",
+      "role": "none",
+      "tag": "div",
+      "text": "BIP39 passphrase generator"
+    },
+    {
+      "bounds": [
+        62,
+        435,
+        218,
+        16
+      ],
+      "onscreen": true,
+      "ref": "ebfc38e3a",
+      "tag": "a",
+      "text": "BIP39 passphrase generator"
+    },
+    {
+      "bounds": [
+        24,
+        465,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "ebe940343",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Hmac generator"
+    },
+    {
+      "bounds": [
+        24,
+        465,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e910bfac5",
+      "role": "none",
+      "tag": "div",
+      "text": "Hmac generator"
+    },
+    {
+      "bounds": [
+        24,
+        503,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e8c31c743",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "RSA key pair generator"
+    },
+    {
+      "bounds": [
+        24,
+        503,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e0ea45609",
+      "role": "none",
+      "tag": "div",
+      "text": "RSA key pair generator"
+    },
+    {
+      "bounds": [
+        62,
+        511,
+        185,
+        16
+      ],
+      "onscreen": true,
+      "ref": "ef5f8f90c",
+      "tag": "a",
+      "text": "RSA key pair generator"
+    },
+    {
+      "bounds": [
+        24,
+        541,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e4bfcb398",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Password strength analyser"
+    },
+    {
+      "bounds": [
+        24,
+        541,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e7cc171c2",
+      "role": "none",
+      "tag": "div",
+      "text": "Password strength analyser"
+    },
+    {
+      "bounds": [
+        62,
+        549,
+        218,
+        16
+      ],
+      "onscreen": true,
+      "ref": "e9fe78f73",
+      "tag": "a",
+      "text": "Password strength analyser"
+    },
+    {
+      "bounds": [
+        24,
+        579,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "ec8d25056",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "PDF signature checker"
+    },
+    {
+      "bounds": [
+        24,
+        579,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e52744628",
+      "role": "none",
+      "tag": "div",
+      "text": "PDF signature checker"
+    },
+    {
+      "bounds": [
+        6,
+        634,
+        234,
+        21
+      ],
+      "onscreen": true,
+      "ref": "eaa3139f2",
+      "tag": "div",
+      "text": "Converter"
+    },
+    {
+      "bounds": [
+        0,
+        655,
+        24,
+        771
+      ],
+      "onscreen": true,
+      "ref": "eef54bf9bx2",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        24,
+        661,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "efe7d4285",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Date-time converter"
+    },
+    {
+      "bounds": [
+        24,
+        661,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e977323ab",
+      "role": "none",
+      "tag": "div",
+      "text": "Date-time converter"
+    },
+    {
+      "bounds": [
+        24,
+        699,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "eb2f83b44",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Integer base converter"
+    },
+    {
+      "bounds": [
+        24,
+        699,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e645af41a",
+      "role": "none",
+      "tag": "div",
+      "text": "Integer base converter"
+    },
+    {
+      "bounds": [
+        62,
+        706,
+        185,
+        16
+      ],
+      "onscreen": true,
+      "ref": "efc5e4983",
+      "tag": "a",
+      "text": "Integer base converter"
+    },
+    {
+      "bounds": [
+        24,
+        737,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "eb8eccea6",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Roman numeral converter"
+    },
+    {
+      "bounds": [
+        24,
+        737,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "ebeb29800",
+      "role": "none",
+      "tag": "div",
+      "text": "Roman numeral converter"
+    },
+    {
+      "bounds": [
+        62,
+        744,
+        193,
+        16
+      ],
+      "onscreen": true,
+      "ref": "edae4842f",
+      "tag": "a",
+      "text": "Roman numeral converter"
+    },
+    {
+      "bounds": [
+        24,
+        775,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "ee939d956",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Base64 string encoder/decoder"
+    },
+    {
+      "bounds": [
+        24,
+        775,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "eff447c68",
+      "role": "none",
+      "tag": "div",
+      "text": "Base64 string encoder/decoder"
+    },
+    {
+      "bounds": [
+        62,
+        782,
+        244,
+        16
+      ],
+      "onscreen": true,
+      "ref": "e57c4baf3",
+      "tag": "a",
+      "text": "Base64 string encoder/decoder"
+    },
+    {
+      "bounds": [
+        24,
+        813,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e33964716",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Base64 file converter"
+    },
+    {
+      "bounds": [
+        24,
+        813,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "ef56e3544",
+      "role": "none",
+      "tag": "div",
+      "text": "Base64 file converter"
+    },
+    {
+      "bounds": [
+        24,
+        851,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e6271cd66",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Color converter"
+    },
+    {
+      "bounds": [
+        24,
+        851,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e3becaac4",
+      "role": "none",
+      "tag": "div",
+      "text": "Color converter"
+    },
+    {
+      "bounds": [
+        24,
+        889,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "ea8333845",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Case converter"
+    },
+    {
+      "bounds": [
+        24,
+        889,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "ed3e08487",
+      "role": "none",
+      "tag": "div",
+      "text": "Case converter"
+    },
+    {
+      "bounds": [
+        24,
+        927,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e0586abae",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Text to NATO alphabet"
+    },
+    {
+      "bounds": [
+        24,
+        927,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "eb15b3be4",
+      "role": "none",
+      "tag": "div",
+      "text": "Text to NATO alphabet"
+    },
+    {
+      "bounds": [
+        24,
+        965,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e57d6f799",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Text to ASCII binary"
+    },
+    {
+      "bounds": [
+        24,
+        965,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "eba6e2783",
+      "role": "none",
+      "tag": "div",
+      "text": "Text to ASCII binary"
+    },
+    {
+      "bounds": [
+        24,
+        1003,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e0ceb0b02",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Text to Unicode"
+    },
+    {
+      "bounds": [
+        24,
+        1003,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "efc360888",
+      "role": "none",
+      "tag": "div",
+      "text": "Text to Unicode"
+    },
+    {
+      "bounds": [
+        24,
+        1041,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ee297e987",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "YAML to JSON converter"
+    },
+    {
+      "bounds": [
+        24,
+        1041,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ea0e7b685",
+      "role": "none",
+      "tag": "div",
+      "text": "YAML to JSON converter"
+    },
+    {
+      "bounds": [
+        62,
+        1048,
+        185,
+        16
+      ],
+      "onscreen": false,
+      "ref": "e61015c34",
+      "tag": "a",
+      "text": "YAML to JSON converter"
+    },
+    {
+      "bounds": [
+        24,
+        1079,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e0c27c469",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "YAML to TOML"
+    },
+    {
+      "bounds": [
+        24,
+        1079,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e4deca0b3",
+      "role": "none",
+      "tag": "div",
+      "text": "YAML to TOML"
+    },
+    {
+      "bounds": [
+        24,
+        1117,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e1a3460ab",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "JSON to YAML converter"
+    },
+    {
+      "bounds": [
+        24,
+        1117,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ec1912909",
+      "role": "none",
+      "tag": "div",
+      "text": "JSON to YAML converter"
+    },
+    {
+      "bounds": [
+        62,
+        1124,
+        185,
+        16
+      ],
+      "onscreen": false,
+      "ref": "ef5a4e6b0",
+      "tag": "a",
+      "text": "JSON to YAML converter"
+    },
+    {
+      "bounds": [
+        24,
+        1155,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "eaead245e",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "JSON to TOML"
+    },
+    {
+      "bounds": [
+        24,
+        1155,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e94de9038",
+      "role": "none",
+      "tag": "div",
+      "text": "JSON to TOML"
+    },
+    {
+      "bounds": [
+        24,
+        1193,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ea60b3291",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "List converter"
+    },
+    {
+      "bounds": [
+        24,
+        1193,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e6bedd1b7",
+      "role": "none",
+      "tag": "div",
+      "text": "List converter"
+    },
+    {
+      "bounds": [
+        24,
+        1231,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e78305036",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "TOML to JSON"
+    },
+    {
+      "bounds": [
+        24,
+        1231,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e6b89f028",
+      "role": "none",
+      "tag": "div",
+      "text": "TOML to JSON"
+    },
+    {
+      "bounds": [
+        24,
+        1269,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ef7ce5b91",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "TOML to YAML"
+    },
+    {
+      "bounds": [
+        24,
+        1269,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e771ba1d3",
+      "role": "none",
+      "tag": "div",
+      "text": "TOML to YAML"
+    },
+    {
+      "bounds": [
+        24,
+        1307,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "eb53fcd03",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "XML to JSON"
+    },
+    {
+      "bounds": [
+        24,
+        1307,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "eadfa66a5",
+      "role": "none",
+      "tag": "div",
+      "text": "XML to JSON"
+    },
+    {
+      "bounds": [
+        24,
+        1345,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ea547f245",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "JSON to XML"
+    },
+    {
+      "bounds": [
+        24,
+        1345,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e27b867ff",
+      "role": "none",
+      "tag": "div",
+      "text": "JSON to XML"
+    },
+    {
+      "bounds": [
+        24,
+        1383,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e37c03434",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Markdown to HTML"
+    },
+    {
+      "bounds": [
+        24,
+        1383,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e94121546",
+      "role": "none",
+      "tag": "div",
+      "text": "Markdown to HTML"
+    },
+    {
+      "bounds": [
+        6,
+        1438,
+        234,
+        21
+      ],
+      "onscreen": false,
+      "ref": "e6a816548",
+      "tag": "div",
+      "text": "Web"
+    },
+    {
+      "bounds": [
+        0,
+        1458,
+        24,
+        619
+      ],
+      "onscreen": false,
+      "ref": "eef54bf9bx3",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        24,
+        1464,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e83025582",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Encode/decode URL-formatted strings"
+    },
+    {
+      "bounds": [
+        24,
+        1464,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e942cbb04",
+      "role": "none",
+      "tag": "div",
+      "text": "Encode/decode URL-formatted strings"
+    },
+    {
+      "bounds": [
+        62,
+        1472,
+        294,
+        16
+      ],
+      "onscreen": false,
+      "ref": "e191b681b",
+      "tag": "a",
+      "text": "Encode/decode URL-formatted strings"
+    },
+    {
+      "bounds": [
+        24,
+        1502,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e5d0450cc",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Escape HTML entities"
+    },
+    {
+      "bounds": [
+        24,
+        1502,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ee4b04c6e",
+      "role": "none",
+      "tag": "div",
+      "text": "Escape HTML entities"
+    },
+    {
+      "bounds": [
+        24,
+        1540,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e5d23e051",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "URL parser"
+    },
+    {
+      "bounds": [
+        24,
+        1540,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e33509003",
+      "role": "none",
+      "tag": "div",
+      "text": "URL parser"
+    },
+    {
+      "bounds": [
+        24,
+        1578,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "efb4a491d",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Device information"
+    },
+    {
+      "bounds": [
+        24,
+        1578,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ef7da0b67",
+      "role": "none",
+      "tag": "div",
+      "text": "Device information"
+    },
+    {
+      "bounds": [
+        24,
+        1616,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e7434f4de",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Basic auth generator"
+    },
+    {
+      "bounds": [
+        24,
+        1616,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e0c745de8",
+      "role": "none",
+      "tag": "div",
+      "text": "Basic auth generator"
+    },
+    {
+      "bounds": [
+        24,
+        1654,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "eb772b3af",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Open graph meta generator"
+    },
+    {
+      "bounds": [
+        24,
+        1654,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e65eb4259",
+      "role": "none",
+      "tag": "div",
+      "text": "Open graph meta generator"
+    },
+    {
+      "bounds": [
+        62,
+        1662,
+        210,
+        16
+      ],
+      "onscreen": false,
+      "ref": "ee17b4772",
+      "tag": "a",
+      "text": "Open graph meta generator"
+    },
+    {
+      "bounds": [
+        24,
+        1692,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e12601398",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "OTP code generator"
+    },
+    {
+      "bounds": [
+        24,
+        1692,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e0d8432c2",
+      "role": "none",
+      "tag": "div",
+      "text": "OTP code generator"
+    },
+    {
+      "bounds": [
+        24,
+        1730,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e9d9b37e6",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "MIME types"
+    },
+    {
+      "bounds": [
+        24,
+        1730,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e14115aec",
+      "role": "none",
+      "tag": "div",
+      "text": "MIME types"
+    },
+    {
+      "bounds": [
+        24,
+        1768,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ec9f7ba55",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "JWT parser"
+    },
+    {
+      "bounds": [
+        24,
+        1768,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "edf281423",
+      "role": "none",
+      "tag": "div",
+      "text": "JWT parser"
+    },
+    {
+      "bounds": [
+        24,
+        1806,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ef6481f7f",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Keycode info"
+    },
+    {
+      "bounds": [
+        24,
+        1806,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e262d01e9",
+      "role": "none",
+      "tag": "div",
+      "text": "Keycode info"
+    },
+    {
+      "bounds": [
+        24,
+        1844,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ee4ecf7e1",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Slugify string"
+    },
+    {
+      "bounds": [
+        24,
+        1844,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "eae964187",
+      "role": "none",
+      "tag": "div",
+      "text": "Slugify string"
+    },
+    {
+      "bounds": [
+        24,
+        1882,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ebe685280",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "HTML WYSIWYG editor"
+    },
+    {
+      "bounds": [
+        24,
+        1882,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e0e58020e",
+      "role": "none",
+      "tag": "div",
+      "text": "HTML WYSIWYG editor"
+    },
+    {
+      "bounds": [
+        24,
+        1920,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e60158b49",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "User-agent parser"
+    },
+    {
+      "bounds": [
+        24,
+        1920,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e5bfebd73",
+      "role": "none",
+      "tag": "div",
+      "text": "User-agent parser"
+    },
+    {
+      "bounds": [
+        24,
+        1958,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ea79ec773",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "HTTP status codes"
+    },
+    {
+      "bounds": [
+        24,
+        1958,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "eecb87cf5",
+      "role": "none",
+      "tag": "div",
+      "text": "HTTP status codes"
+    },
+    {
+      "bounds": [
+        24,
+        1996,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e7c34217c",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "JSON diff"
+    },
+    {
+      "bounds": [
+        24,
+        1996,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ee77bda7a",
+      "role": "none",
+      "tag": "div",
+      "text": "JSON diff"
+    },
+    {
+      "bounds": [
+        24,
+        2034,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e5edfb551",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Outlook Safelink decoder"
+    },
+    {
+      "bounds": [
+        24,
+        2034,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e595e76b7",
+      "role": "none",
+      "tag": "div",
+      "text": "Outlook Safelink decoder"
+    },
+    {
+      "bounds": [
+        62,
+        2042,
+        202,
+        16
+      ],
+      "onscreen": false,
+      "ref": "ef4e692e6",
+      "tag": "a",
+      "text": "Outlook Safelink decoder"
+    },
+    {
+      "bounds": [
+        6,
+        2089,
+        234,
+        21
+      ],
+      "onscreen": false,
+      "ref": "eecf09d0e",
+      "tag": "div",
+      "text": "Images & Videos"
+    },
+    {
+      "bounds": [
+        0,
+        2110,
+        24,
+        163
+      ],
+      "onscreen": false,
+      "ref": "eef54bf9bx4",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        24,
+        2116,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ebc496df4",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "QR Code generator"
+    },
+    {
+      "bounds": [
+        24,
+        2116,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "eeda3f642",
+      "role": "none",
+      "tag": "div",
+      "text": "QR Code generator"
+    },
+    {
+      "bounds": [
+        24,
+        2154,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e5ef98eb9",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "WiFi QR Code generator"
+    },
+    {
+      "bounds": [
+        24,
+        2154,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e65a07bfb",
+      "role": "none",
+      "tag": "div",
+      "text": "WiFi QR Code generator"
+    },
+    {
+      "bounds": [
+        62,
+        2162,
+        185,
+        16
+      ],
+      "onscreen": false,
+      "ref": "ed29db14e",
+      "tag": "a",
+      "text": "WiFi QR Code generator"
+    },
+    {
+      "bounds": [
+        24,
+        2192,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e9e95b4c1",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "SVG placeholder generator"
+    },
+    {
+      "bounds": [
+        24,
+        2192,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e997cd683",
+      "role": "none",
+      "tag": "div",
+      "text": "SVG placeholder generator"
+    },
+    {
+      "bounds": [
+        62,
+        2200,
+        210,
+        16
+      ],
+      "onscreen": false,
+      "ref": "e11a08680",
+      "tag": "a",
+      "text": "SVG placeholder generator"
+    },
+    {
+      "bounds": [
+        24,
+        2230,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e2e87a7d2",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Camera recorder"
+    },
+    {
+      "bounds": [
+        24,
+        2230,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e69edf3ec",
+      "role": "none",
+      "tag": "div",
+      "text": "Camera recorder"
+    },
+    {
+      "bounds": [
+        6,
+        2285,
+        234,
+        21
+      ],
+      "onscreen": false,
+      "ref": "e709d5fe1",
+      "tag": "div",
+      "text": "Development"
+    },
+    {
+      "bounds": [
+        0,
+        2306,
+        24,
+        543
+      ],
+      "onscreen": false,
+      "ref": "eef54bf9bx5",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        24,
+        2312,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e4cf15d67",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Git cheatsheet"
+    },
+    {
+      "bounds": [
+        24,
+        2312,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e59b98355",
+      "role": "none",
+      "tag": "div",
+      "text": "Git cheatsheet"
+    },
+    {
+      "bounds": [
+        24,
+        2350,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "edc71dc32",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Random port generator"
+    },
+    {
+      "bounds": [
+        24,
+        2350,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e2ea87e78",
+      "role": "none",
+      "tag": "div",
+      "text": "Random port generator"
+    },
+    {
+      "bounds": [
+        24,
+        2388,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e0a56e245",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Crontab generator"
+    },
+    {
+      "bounds": [
+        24,
+        2388,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ef9403c63",
+      "role": "none",
+      "tag": "div",
+      "text": "Crontab generator"
+    },
+    {
+      "bounds": [
+        24,
+        2426,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e4c88e5fe",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "JSON prettify and format"
+    },
+    {
+      "bounds": [
+        24,
+        2426,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "eca0604e8",
+      "role": "none",
+      "tag": "div",
+      "text": "JSON prettify and format"
+    },
+    {
+      "bounds": [
+        62,
+        2434,
+        202,
+        16
+      ],
+      "onscreen": false,
+      "ref": "ebb774df9",
+      "tag": "a",
+      "text": "JSON prettify and format"
+    },
+    {
+      "bounds": [
+        24,
+        2464,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e5b9885df",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "JSON minify"
+    },
+    {
+      "bounds": [
+        24,
+        2464,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e509d75f5",
+      "role": "none",
+      "tag": "div",
+      "text": "JSON minify"
+    },
+    {
+      "bounds": [
+        24,
+        2502,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e61157752",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "JSON to CSV"
+    },
+    {
+      "bounds": [
+        24,
+        2502,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "edae2c5f0",
+      "role": "none",
+      "tag": "div",
+      "text": "JSON to CSV"
+    },
+    {
+      "bounds": [
+        24,
+        2540,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ebf0786e2",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "SQL prettify and format"
+    },
+    {
+      "bounds": [
+        24,
+        2540,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e5a3ee1ac",
+      "role": "none",
+      "tag": "div",
+      "text": "SQL prettify and format"
+    },
+    {
+      "bounds": [
+        62,
+        2548,
+        193,
+        16
+      ],
+      "onscreen": false,
+      "ref": "e45dc0597",
+      "tag": "a",
+      "text": "SQL prettify and format"
+    },
+    {
+      "bounds": [
+        24,
+        2578,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e9b3dc950",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Chmod calculator"
+    },
+    {
+      "bounds": [
+        24,
+        2578,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e33efe38a",
+      "role": "none",
+      "tag": "div",
+      "text": "Chmod calculator"
+    },
+    {
+      "bounds": [
+        24,
+        2616,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ed43d3a2b",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Docker run to Docker compose converter"
+    },
+    {
+      "bounds": [
+        24,
+        2616,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ed807fcd9",
+      "role": "none",
+      "tag": "div",
+      "text": "Docker run to Docker compose converter"
+    },
+    {
+      "bounds": [
+        62,
+        2624,
+        319,
+        16
+      ],
+      "onscreen": false,
+      "ref": "e9d65eba0",
+      "tag": "a",
+      "text": "Docker run to Docker compose converter"
+    },
+    {
+      "bounds": [
+        24,
+        2654,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e5838fbc6",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "XML formatter"
+    },
+    {
+      "bounds": [
+        24,
+        2654,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e1feb1b8c",
+      "role": "none",
+      "tag": "div",
+      "text": "XML formatter"
+    },
+    {
+      "bounds": [
+        24,
+        2692,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e5625f381",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "YAML prettify and format"
+    },
+    {
+      "bounds": [
+        24,
+        2692,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e3c28c59b",
+      "role": "none",
+      "tag": "div",
+      "text": "YAML prettify and format"
+    },
+    {
+      "bounds": [
+        62,
+        2700,
+        202,
+        16
+      ],
+      "onscreen": false,
+      "ref": "e26db156e",
+      "tag": "a",
+      "text": "YAML prettify and format"
+    },
+    {
+      "bounds": [
+        24,
+        2730,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e775979a8",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Email normalizer"
+    },
+    {
+      "bounds": [
+        24,
+        2730,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e98e8a966",
+      "role": "none",
+      "tag": "div",
+      "text": "Email normalizer"
+    },
+    {
+      "bounds": [
+        24,
+        2768,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e9051dbfb",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Regex Tester"
+    },
+    {
+      "bounds": [
+        24,
+        2768,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ed9a8d91d",
+      "role": "none",
+      "tag": "div",
+      "text": "Regex Tester"
+    },
+    {
+      "bounds": [
+        24,
+        2806,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "edcb90944",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Regex cheatsheet"
+    },
+    {
+      "bounds": [
+        24,
+        2806,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e9179063e",
+      "role": "none",
+      "tag": "div",
+      "text": "Regex cheatsheet"
+    },
+    {
+      "bounds": [
+        6,
+        2861,
+        234,
+        21
+      ],
+      "onscreen": false,
+      "ref": "e583c4f04",
+      "tag": "div",
+      "text": "Network"
+    },
+    {
+      "bounds": [
+        0,
+        2882,
+        24,
+        239
+      ],
+      "onscreen": false,
+      "ref": "eef54bf9bx6",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        24,
+        2888,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e4534833d",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "IPv4 subnet calculator"
+    },
+    {
+      "bounds": [
+        24,
+        2888,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e7de2bde7",
+      "role": "none",
+      "tag": "div",
+      "text": "IPv4 subnet calculator"
+    },
+    {
+      "bounds": [
+        62,
+        2896,
+        185,
+        16
+      ],
+      "onscreen": false,
+      "ref": "e9b2f99b6",
+      "tag": "a",
+      "text": "IPv4 subnet calculator"
+    },
+    {
+      "bounds": [
+        24,
+        2926,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ee234fa10",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "IPv4 address converter"
+    },
+    {
+      "bounds": [
+        24,
+        2926,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "efeb0619a",
+      "role": "none",
+      "tag": "div",
+      "text": "IPv4 address converter"
+    },
+    {
+      "bounds": [
+        62,
+        2934,
+        185,
+        16
+      ],
+      "onscreen": false,
+      "ref": "e4680bbbb",
+      "tag": "a",
+      "text": "IPv4 address converter"
+    },
+    {
+      "bounds": [
+        24,
+        2964,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e949e6e88",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "IPv4 range expander"
+    },
+    {
+      "bounds": [
+        24,
+        2964,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ee8f39ec6",
+      "role": "none",
+      "tag": "div",
+      "text": "IPv4 range expander"
+    },
+    {
+      "bounds": [
+        24,
+        3002,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e262acb3c",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "MAC address lookup"
+    },
+    {
+      "bounds": [
+        24,
+        3002,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e6a20d142",
+      "role": "none",
+      "tag": "div",
+      "text": "MAC address lookup"
+    },
+    {
+      "bounds": [
+        24,
+        3040,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e9a324639",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "MAC address generator"
+    },
+    {
+      "bounds": [
+        24,
+        3040,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e483e576b",
+      "role": "none",
+      "tag": "div",
+      "text": "MAC address generator"
+    },
+    {
+      "bounds": [
+        24,
+        3078,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ec07340cd",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "IPv6 ULA generator"
+    },
+    {
+      "bounds": [
+        24,
+        3078,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ec3b20473",
+      "role": "none",
+      "tag": "div",
+      "text": "IPv6 ULA generator"
+    },
+    {
+      "bounds": [
+        6,
+        3133,
+        234,
+        21
+      ],
+      "onscreen": false,
+      "ref": "eb0c168cc",
+      "tag": "div",
+      "text": "Math"
+    },
+    {
+      "bounds": [
+        0,
+        3154,
+        24,
+        125
+      ],
+      "onscreen": false,
+      "ref": "eef54bf9bx7",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        24,
+        3160,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e1f73b518",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Math evaluator"
+    },
+    {
+      "bounds": [
+        24,
+        3160,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "edd6e603e",
+      "role": "none",
+      "tag": "div",
+      "text": "Math evaluator"
+    },
+    {
+      "bounds": [
+        24,
+        3198,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ef6b37739",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "ETA calculator"
+    },
+    {
+      "bounds": [
+        24,
+        3198,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e56c3f703",
+      "role": "none",
+      "tag": "div",
+      "text": "ETA calculator"
+    },
+    {
+      "bounds": [
+        24,
+        3236,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e0c43f25b",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Percentage calculator"
+    },
+    {
+      "bounds": [
+        24,
+        3236,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e5b6ce3d9",
+      "role": "none",
+      "tag": "div",
+      "text": "Percentage calculator"
+    },
+    {
+      "bounds": [
+        6,
+        3291,
+        234,
+        21
+      ],
+      "onscreen": false,
+      "ref": "e4a684c5e",
+      "tag": "div",
+      "text": "Measurement"
+    },
+    {
+      "bounds": [
+        0,
+        3311,
+        24,
+        125
+      ],
+      "onscreen": false,
+      "ref": "eef54bf9bx8",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        24,
+        3317,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e229da7e3",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Chronometer"
+    },
+    {
+      "bounds": [
+        24,
+        3317,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e026c16b9",
+      "role": "none",
+      "tag": "div",
+      "text": "Chronometer"
+    },
+    {
+      "bounds": [
+        24,
+        3355,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "eaf22195d",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Temperature converter"
+    },
+    {
+      "bounds": [
+        24,
+        3355,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "eef270de3",
+      "role": "none",
+      "tag": "div",
+      "text": "Temperature converter"
+    },
+    {
+      "bounds": [
+        24,
+        3393,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e7185a103",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Benchmark builder"
+    },
+    {
+      "bounds": [
+        24,
+        3393,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e04686085",
+      "role": "none",
+      "tag": "div",
+      "text": "Benchmark builder"
+    },
+    {
+      "bounds": [
+        6,
+        3448,
+        234,
+        21
+      ],
+      "onscreen": false,
+      "ref": "e3a72a273",
+      "tag": "div",
+      "text": "Text"
+    },
+    {
+      "bounds": [
+        0,
+        3469,
+        24,
+        277
+      ],
+      "onscreen": false,
+      "ref": "eef54bf9bx9",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        24,
+        3475,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e5c1bd851",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Lorem ipsum generator"
+    },
+    {
+      "bounds": [
+        24,
+        3475,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ec067a057",
+      "role": "none",
+      "tag": "div",
+      "text": "Lorem ipsum generator"
+    },
+    {
+      "bounds": [
+        24,
+        3513,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e9dcabc7d",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Text statistics"
+    },
+    {
+      "bounds": [
+        24,
+        3513,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e217797c3",
+      "role": "none",
+      "tag": "div",
+      "text": "Text statistics"
+    },
+    {
+      "bounds": [
+        24,
+        3551,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "efad53a65",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Emoji picker"
+    },
+    {
+      "bounds": [
+        24,
+        3551,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ee101c1d3",
+      "role": "none",
+      "tag": "div",
+      "text": "Emoji picker"
+    },
+    {
+      "bounds": [
+        24,
+        3589,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ea768c8f8",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "String obfuscator"
+    },
+    {
+      "bounds": [
+        24,
+        3589,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e8c2f3342",
+      "role": "none",
+      "tag": "div",
+      "text": "String obfuscator"
+    },
+    {
+      "bounds": [
+        24,
+        3627,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e0156a271",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Text diff"
+    },
+    {
+      "bounds": [
+        24,
+        3627,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e7631dfef",
+      "role": "none",
+      "tag": "div",
+      "text": "Text diff"
+    },
+    {
+      "bounds": [
+        24,
+        3665,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e4129a82c",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Numeronym generator"
+    },
+    {
+      "bounds": [
+        24,
+        3665,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e8a87ad3e",
+      "role": "none",
+      "tag": "div",
+      "text": "Numeronym generator"
+    },
+    {
+      "bounds": [
+        24,
+        3703,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "eff20f3a9",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "ASCII Art Text Generator"
+    },
+    {
+      "bounds": [
+        24,
+        3703,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e582c5a2b",
+      "role": "none",
+      "tag": "div",
+      "text": "ASCII Art Text Generator"
+    },
+    {
+      "bounds": [
+        62,
+        3711,
+        202,
+        16
+      ],
+      "onscreen": false,
+      "ref": "e456feefa",
+      "tag": "a",
+      "text": "ASCII Art Text Generator"
+    },
+    {
+      "bounds": [
+        6,
+        3758,
+        234,
+        21
+      ],
+      "onscreen": false,
+      "ref": "e84db70c2",
+      "tag": "div",
+      "text": "Data"
+    },
+    {
+      "bounds": [
+        0,
+        3779,
+        24,
+        87
+      ],
+      "onscreen": false,
+      "ref": "eef54bf9bx10",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        24,
+        3785,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "edf5e9f11",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Phone parser and formatter"
+    },
+    {
+      "bounds": [
+        24,
+        3785,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e8530bb63",
+      "role": "none",
+      "tag": "div",
+      "text": "Phone parser and formatter"
+    },
+    {
+      "bounds": [
+        62,
+        3793,
+        218,
+        16
+      ],
+      "onscreen": false,
+      "ref": "ed17b4e42",
+      "tag": "a",
+      "text": "Phone parser and formatter"
+    },
+    {
+      "bounds": [
+        24,
+        3823,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ea6d60fb5",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "IBAN validator and parser"
+    },
+    {
+      "bounds": [
+        24,
+        3823,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e46ae403f",
+      "role": "none",
+      "tag": "div",
+      "text": "IBAN validator and parser"
+    },
+    {
+      "bounds": [
+        62,
+        3831,
+        210,
+        16
+      ],
+      "onscreen": false,
+      "ref": "e01b3fa2c",
+      "tag": "a",
+      "text": "IBAN validator and parser"
+    },
+    {
+      "bounds": [
+        78,
+        3909,
+        160,
+        16
+      ],
+      "onscreen": false,
+      "ref": "ed25633ed",
+      "tag": "a",
+      "text": "v2024.10.22-7ca5933"
+    },
+    {
+      "bounds": [
+        74,
+        3931,
+        151,
+        16
+      ],
+      "onscreen": false,
+      "ref": "eb80f035c",
+      "tag": "a",
+      "text": "Corentin Thomasset"
+    },
+    {
+      "bounds": [
+        231,
+        2,
+        5,
+        201
+      ],
+      "onscreen": true,
+      "ref": "eef54bf9bx11",
+      "tag": "div"
+    },
+    {
+      "aria": "Toggle menu",
+      "bounds": [
+        266,
+        27,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "ed2448758",
+      "tag": "button"
+    },
+    {
+      "aria": "Home",
+      "bounds": [
+        308,
+        26,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "e2014cb47",
+      "tag": "a"
+    },
+    {
+      "aria": "UI Lib",
+      "bounds": [
+        350,
+        26,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "e1578ec99",
+      "tag": "a"
+    },
+    {
+      "bounds": [
+        392,
+        27,
+        426,
+        34
+      ],
+      "onscreen": true,
+      "ref": "ee24b3c2e",
+      "tag": "button",
+      "text": "Search Ctrl + K"
+    },
+    {
+      "bounds": [
+        826,
+        27,
+        100,
+        34
+      ],
+      "onscreen": true,
+      "ref": "ec9b27fda",
+      "tag": "div",
+      "text": "English"
+    },
+    {
+      "aria": "IT-Tools GitHub repository",
+      "bounds": [
+        934,
+        26,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "ecb9f018c",
+      "tag": "a"
+    },
+    {
+      "aria": "IT Tools Twitter account",
+      "bounds": [
+        968,
+        26,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "eea48ccbc",
+      "tag": "a"
+    },
+    {
+      "aria": "About",
+      "bounds": [
+        1002,
+        26,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "e7e39c559",
+      "tag": "a"
+    },
+    {
+      "aria": "Toggle dark/light mode",
+      "bounds": [
+        1036,
+        26,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "e9e73cd4d",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1078,
+        27,
+        176,
+        34
+      ],
+      "onscreen": true,
+      "ref": "e239c4c2b",
+      "tag": "a",
+      "text": "Buy me a coffee"
+    },
+    {
+      "bounds": [
+        1026,
+        106,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "e14be57e2",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        473,
+        251,
+        582,
+        36
+      ],
+      "onscreen": true,
+      "placeholder": "Your math expression (ex: 2*sqrt(6) )...",
+      "ref": "e11d03fcb",
+      "tag": "textarea",
+      "value": ""
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "text": "IT-Tools\n© 2026\nMath evaluator\nA calculator for evaluating mathematical expressions. You can use functions like sqrt, cos, sin, abs, etc.",
+  "text_truncated": false,
+  "title": "Math evaluator - IT Tools",
+  "url": "/math-evaluator",
+  "viewport": [
+    1280,
+    900
+  ]
+}

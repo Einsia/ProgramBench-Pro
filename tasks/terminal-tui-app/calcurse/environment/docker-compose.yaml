@@ -1,0 +1,33 @@
+services:
+  main:
+    image: program-bench-calcurse-agent:1.0.0
+    pull_policy: never
+    cap_drop: [ALL]
+    cap_add: [CHOWN, FOWNER, DAC_OVERRIDE, SETUID, SETGID, KILL]
+    security_opt: [no-new-privileges:true]
+    cpus: 4
+    mem_limit: 16g
+    pids_limit: 512
+    shm_size: 256m
+    environment:
+      PYTHONDONTWRITEBYTECODE: '1'
+    volumes:
+      - blackbox-socket:/blackbox:ro
+  blackbox:
+    image: program-bench-calcurse-reference:1.0.0
+    pull_policy: never
+    network_mode: none
+    cap_drop: [ALL]
+    cap_add: [CHOWN, FOWNER, DAC_OVERRIDE, SETUID, SETGID, KILL]
+    security_opt: [no-new-privileges:true]
+    cpus: 2
+    mem_limit: 4g
+    pids_limit: 1024
+    shm_size: 64m
+    environment:
+      PYTHONDONTWRITEBYTECODE: '1'
+    volumes:
+      - blackbox-socket:/blackbox
+# Compose scopes this volume to the Harbor trial/project. No host preparation is needed.
+volumes:
+  blackbox-socket:

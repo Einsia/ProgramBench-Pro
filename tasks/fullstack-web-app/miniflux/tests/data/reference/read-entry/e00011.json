@@ -1,0 +1,261 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        559,
+        -44,
+        162,
+        36
+      ],
+      "href": "/starred#main",
+      "offscreen": true,
+      "ref": "e544",
+      "role": null,
+      "tag": "a",
+      "text": "Skip to content"
+    },
+    {
+      "aria": "Home page",
+      "bounds": [
+        193,
+        10,
+        77,
+        19
+      ],
+      "href": "/unread",
+      "ref": "e545",
+      "role": null,
+      "tag": "a",
+      "text": "Mini\nflux"
+    },
+    {
+      "aria": "Unread, 3 unread entries",
+      "bounds": [
+        278,
+        12,
+        102,
+        16
+      ],
+      "href": "/unread",
+      "ref": "e546",
+      "role": null,
+      "tag": "a",
+      "text": "Unread (3)"
+    },
+    {
+      "bounds": [
+        395,
+        12,
+        78,
+        16
+      ],
+      "href": "/starred",
+      "ref": "e547",
+      "role": null,
+      "tag": "a",
+      "text": "Starred"
+    },
+    {
+      "bounds": [
+        488,
+        12,
+        78,
+        16
+      ],
+      "href": "/history",
+      "ref": "e548",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        581,
+        12,
+        70,
+        16
+      ],
+      "href": "/feeds",
+      "ref": "e549",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "aria": "Add feed",
+      "bounds": [
+        650,
+        12,
+        26,
+        16
+      ],
+      "href": "/subscribe",
+      "ref": "e550",
+      "role": null,
+      "tag": "a",
+      "text": "(+)",
+      "title": "Keyboard Shortcut: +"
+    },
+    {
+      "bounds": [
+        691,
+        12,
+        104,
+        16
+      ],
+      "href": "/categories",
+      "ref": "e551",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        810,
+        12,
+        70,
+        16
+      ],
+      "href": "/search",
+      "ref": "e552",
+      "role": null,
+      "tag": "a",
+      "text": "Search"
+    },
+    {
+      "bounds": [
+        894,
+        12,
+        87,
+        16
+      ],
+      "href": "/settings",
+      "ref": "e553",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        996,
+        10,
+        70,
+        18
+      ],
+      "ref": "e554",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "title": "Logged in as alice"
+    },
+    {
+      "bounds": [
+        199,
+        121,
+        96,
+        18
+      ],
+      "href": "/starred/entry/2",
+      "ref": "e555",
+      "role": null,
+      "tag": "a",
+      "text": "Reading 2"
+    },
+    {
+      "bounds": [
+        304,
+        124,
+        22,
+        14
+      ],
+      "href": "/category/1/entries",
+      "ref": "e556",
+      "role": null,
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        199,
+        145,
+        78,
+        12
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e557",
+      "role": null,
+      "tag": "a",
+      "text": "Reading Room",
+      "title": "http://reading.test/"
+    },
+    {
+      "bounds": [
+        199,
+        166,
+        95,
+        16
+      ],
+      "ref": "e558",
+      "role": null,
+      "tag": "button",
+      "text": "Mark as read",
+      "title": "Change entry status"
+    },
+    {
+      "bounds": [
+        309,
+        166,
+        58,
+        16
+      ],
+      "ref": "e559",
+      "role": null,
+      "tag": "button",
+      "text": "Unstar"
+    },
+    {
+      "bounds": [
+        383,
+        168,
+        120,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e560",
+      "role": null,
+      "tag": "a",
+      "text": "External link"
+    },
+    {
+      "bounds": [
+        599,
+        217,
+        134,
+        20
+      ],
+      "href": "/starred",
+      "ref": "e561",
+      "role": null,
+      "tag": "a",
+      "text": "Back to top"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Skip to content\nMini\nflux\nUnread (3) Starred History Feeds (+) Categories Search Settings Logout\nStarred (1)\n1 starred entry\nFirst\nPrevious\nNext \nLast \nReading 2 All\nReading Room  1 year ago  1 minute read\nMark as read Unstar External link\nFirst\nPrevious\nBack to top\nNext \nLast ",
+  "text_truncated": false,
+  "title": "Starred (1) - Miniflux",
+  "url": "/starred",
+  "viewport": [
+    1280,
+    900
+  ]
+}

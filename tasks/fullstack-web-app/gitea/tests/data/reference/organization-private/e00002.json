@@ -1,0 +1,385 @@
+{
+  "controls": [
+    {
+      "aria": "Dashboard",
+      "bounds": [
+        10,
+        7,
+        56,
+        36
+      ],
+      "href": "/",
+      "ref": "e355",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        71,
+        7,
+        76,
+        36
+      ],
+      "href": "/issues",
+      "ref": "e356",
+      "role": null,
+      "tag": "a",
+      "text": "Issues"
+    },
+    {
+      "bounds": [
+        152,
+        7,
+        135,
+        36
+      ],
+      "href": "/pulls",
+      "ref": "e357",
+      "role": null,
+      "tag": "a",
+      "text": "Pull Requests"
+    },
+    {
+      "bounds": [
+        293,
+        7,
+        110,
+        36
+      ],
+      "href": "/milestones",
+      "ref": "e358",
+      "role": null,
+      "tag": "a",
+      "text": "Milestones"
+    },
+    {
+      "bounds": [
+        408,
+        7,
+        85,
+        36
+      ],
+      "href": "/explore/repos",
+      "ref": "e359",
+      "role": null,
+      "tag": "a",
+      "text": "Explore"
+    },
+    {
+      "aria": "Notifications",
+      "bounds": [
+        1094,
+        7,
+        42,
+        36
+      ],
+      "href": "/notifications",
+      "ref": "e360",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Notifications"
+    },
+    {
+      "aria": "Create…",
+      "bounds": [
+        1141,
+        7,
+        60,
+        36
+      ],
+      "expanded": false,
+      "ref": "e361",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Create…"
+    },
+    {
+      "aria": "Profile and Settings…",
+      "bounds": [
+        1207,
+        7,
+        64,
+        36
+      ],
+      "expanded": false,
+      "ref": "e362",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Profile and Settings…"
+    },
+    {
+      "bounds": [
+        25,
+        62,
+        242,
+        20
+      ],
+      "expanded": false,
+      "ref": "e363",
+      "role": "menu",
+      "tag": "div",
+      "text": "web-org-private\nPrivate"
+    },
+    {
+      "bounds": [
+        298,
+        63,
+        86,
+        18
+      ],
+      "expanded": false,
+      "ref": "e364",
+      "role": "menu",
+      "tag": "div",
+      "text": "Teams"
+    },
+    {
+      "bounds": [
+        492,
+        53,
+        139,
+        38
+      ],
+      "href": "/org/web-org-private/dashboard",
+      "ref": "e365",
+      "role": null,
+      "tag": "a",
+      "text": "Activities"
+    },
+    {
+      "bounds": [
+        631,
+        53,
+        106,
+        38
+      ],
+      "href": "/org/web-org-private/issues",
+      "ref": "e366",
+      "role": null,
+      "tag": "a",
+      "text": "Issues"
+    },
+    {
+      "bounds": [
+        737,
+        53,
+        165,
+        38
+      ],
+      "href": "/org/web-org-private/pulls",
+      "ref": "e367",
+      "role": null,
+      "tag": "a",
+      "text": "Pull Requests"
+    },
+    {
+      "bounds": [
+        901,
+        53,
+        139,
+        38
+      ],
+      "href": "/org/web-org-private/milestones",
+      "ref": "e368",
+      "role": null,
+      "tag": "a",
+      "text": "Milestones"
+    },
+    {
+      "bounds": [
+        1053,
+        56,
+        202,
+        33
+      ],
+      "href": "/web-org-private",
+      "ref": "e369",
+      "role": null,
+      "tag": "a",
+      "text": "View web-org-private",
+      "title": "View web-org-private"
+    },
+    {
+      "aria": "New Repository",
+      "bounds": [
+        1217,
+        125,
+        16,
+        16
+      ],
+      "href": "/repo/create?org=4",
+      "ref": "e370",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "New Repository"
+    },
+    {
+      "bounds": [
+        837,
+        168,
+        356,
+        35
+      ],
+      "focused": true,
+      "maxlength": "255",
+      "placeholder": "Search repos...",
+      "ref": "e371",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "search",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1193,
+        168,
+        40,
+        35
+      ],
+      "expanded": false,
+      "ref": "e372",
+      "role": "combobox",
+      "tag": "div",
+      "text": "",
+      "title": "Other Filters"
+    },
+    {
+      "bounds": [
+        864,
+        203,
+        74,
+        41
+      ],
+      "ref": "e373",
+      "role": null,
+      "tag": "a",
+      "text": "All\n0"
+    },
+    {
+      "bounds": [
+        938,
+        203,
+        83,
+        41
+      ],
+      "ref": "e374",
+      "role": null,
+      "tag": "a",
+      "text": "Sources"
+    },
+    {
+      "bounds": [
+        1021,
+        203,
+        66,
+        41
+      ],
+      "ref": "e375",
+      "role": null,
+      "tag": "a",
+      "text": "Forks"
+    },
+    {
+      "bounds": [
+        1087,
+        203,
+        83,
+        41
+      ],
+      "ref": "e376",
+      "role": null,
+      "tag": "a",
+      "text": "Mirrors"
+    },
+    {
+      "aria": "More items",
+      "bounds": [
+        1201,
+        203,
+        32,
+        41
+      ],
+      "expanded": false,
+      "ref": "e377",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        20,
+        872,
+        134,
+        20
+      ],
+      "href": "[external]",
+      "ref": "e378",
+      "role": null,
+      "tag": "a",
+      "text": "Powered by Gitea"
+    },
+    {
+      "bounds": [
+        1063,
+        874,
+        76,
+        16
+      ],
+      "expanded": false,
+      "ref": "e379",
+      "role": "menu",
+      "tag": "div",
+      "text": "English"
+    },
+    {
+      "bounds": [
+        1145,
+        872,
+        76,
+        20
+      ],
+      "href": "/assets/licenses.txt",
+      "ref": "e380",
+      "role": null,
+      "tag": "a",
+      "text": "Licenses"
+    },
+    {
+      "bounds": [
+        1226,
+        872,
+        34,
+        20
+      ],
+      "href": "/api/swagger",
+      "ref": "e381",
+      "role": null,
+      "tag": "a",
+      "text": "API"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Issues\nPull Requests\nMilestones\nExplore\n \nweb-org-private\nPrivate\n Teams\n Activities\n Issues\n Pull Requests\n Milestones\nView web-org-private\nRepositories\n0\nAll\n0\nSources\nForks\nMirrors\nPowered by Gitea\nPage:\n4ms\nTemplate:\n1ms\nEnglish\nLicenses\nAPI",
+  "text_truncated": false,
+  "title": "web-org-private - Dashboard - Gitea",
+  "url": "/org/web-org-private/dashboard",
+  "viewport": [
+    1280,
+    900
+  ]
+}

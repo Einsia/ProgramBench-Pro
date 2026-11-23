@@ -1,0 +1,36 @@
+{
+  "reference_paths": [
+    "/app/solution/runtime/opt/Joplin/joplin",
+    "/app/solution/runtime/opt/Joplin/resources/app.asar"
+  ],
+  "shared_solution_files": [
+    {
+      "file": "LICENSE",
+      "reason": "Unmodified third-party license/attribution text may also accompany a system or development dependency; contains no implementation."
+    },
+    {
+      "file": "LICENSES/tesseract-js-core.txt",
+      "reason": "Unmodified third-party license/attribution text may also accompany a system or development dependency; contains no implementation."
+    },
+    {
+      "file": "LICENSES/chromium.txt",
+      "reason": "Unmodified third-party license/attribution text may also accompany a system or development dependency; contains no implementation."
+    },
+    {
+      "file": "LICENSES/electron.txt",
+      "reason": "Unmodified third-party license/attribution text may also accompany a system or development dependency; contains no implementation."
+    },
+    {
+      "file": "LICENSES/libfaketime.txt",
+      "reason": "Unmodified third-party license/attribution text may also accompany a system or development dependency; contains no implementation."
+    },
+    {
+      "file": "LICENSES/7zip.txt",
+      "reason": "Unmodified third-party license/attribution text may also accompany a system or development dependency; contains no implementation."
+    },
+    {
+      "file": "LICENSES/joplin.txt",
+      "reason": "Unmodified third-party license/attribution text may also accompany a system or development dependency; contains no implementation."
+    }
+  ]
+}

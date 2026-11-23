@@ -1,0 +1,287 @@
+{
+  "controls": [
+    {
+      "aria": "Home",
+      "bounds": [
+        10,
+        7,
+        56,
+        36
+      ],
+      "href": "/",
+      "ref": "e70",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        71,
+        7,
+        85,
+        36
+      ],
+      "href": "/explore/repos",
+      "ref": "e71",
+      "role": null,
+      "tag": "a",
+      "text": "Explore"
+    },
+    {
+      "bounds": [
+        161,
+        7,
+        60,
+        36
+      ],
+      "href": "[external]",
+      "ref": "e72",
+      "role": null,
+      "tag": "a",
+      "text": "Help"
+    },
+    {
+      "bounds": [
+        1055,
+        7,
+        109,
+        36
+      ],
+      "href": "/user/sign_up",
+      "ref": "e73",
+      "role": null,
+      "tag": "a",
+      "text": "Register"
+    },
+    {
+      "bounds": [
+        1169,
+        7,
+        101,
+        36
+      ],
+      "href": "/user/login?redirect_to=%2fexplore%2frepos%3fq%3ddirectory",
+      "ref": "e74",
+      "role": null,
+      "tag": "a",
+      "text": "Sign In"
+    },
+    {
+      "bounds": [
+        447,
+        50,
+        146,
+        41
+      ],
+      "href": "/explore/repos",
+      "ref": "e75",
+      "role": null,
+      "tag": "a",
+      "text": "Repositories"
+    },
+    {
+      "bounds": [
+        592,
+        50,
+        87,
+        41
+      ],
+      "href": "/explore/users",
+      "ref": "e76",
+      "role": null,
+      "tag": "a",
+      "text": "Users"
+    },
+    {
+      "bounds": [
+        679,
+        50,
+        154,
+        41
+      ],
+      "href": "/explore/organizations",
+      "ref": "e77",
+      "role": null,
+      "tag": "a",
+      "text": "Organizations"
+    },
+    {
+      "bounds": [
+        32,
+        106,
+        1002,
+        37
+      ],
+      "maxlength": "255",
+      "name": "q",
+      "placeholder": "Search repos...",
+      "ref": "e78",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "search",
+      "value": "directory"
+    },
+    {
+      "aria": "Search...",
+      "bounds": [
+        1034,
+        106,
+        38,
+        37
+      ],
+      "ref": "e79",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1080,
+        107,
+        88,
+        35
+      ],
+      "expanded": false,
+      "ref": "e80",
+      "role": "combobox",
+      "tag": "div",
+      "text": "Filter"
+    },
+    {
+      "bounds": [
+        1175,
+        107,
+        73,
+        35
+      ],
+      "expanded": false,
+      "ref": "e81",
+      "role": "combobox",
+      "tag": "div",
+      "text": "Sort"
+    },
+    {
+      "bounds": [
+        64,
+        168,
+        48,
+        20
+      ],
+      "href": "/alice",
+      "ref": "e82",
+      "role": null,
+      "tag": "a",
+      "text": "alice"
+    },
+    {
+      "bounds": [
+        129,
+        168,
+        144,
+        20
+      ],
+      "href": "/alice/directory-alpha",
+      "ref": "e83",
+      "role": null,
+      "tag": "a",
+      "text": "directory-alpha"
+    },
+    {
+      "bounds": [
+        1185,
+        168,
+        28,
+        20
+      ],
+      "href": "/alice/directory-alpha/stars",
+      "ref": "e84",
+      "role": null,
+      "tag": "a",
+      "text": "0"
+    },
+    {
+      "bounds": [
+        1220,
+        168,
+        28,
+        20
+      ],
+      "href": "/alice/directory-alpha/forks",
+      "ref": "e85",
+      "role": null,
+      "tag": "a",
+      "text": "0"
+    },
+    {
+      "bounds": [
+        20,
+        872,
+        134,
+        20
+      ],
+      "href": "[external]",
+      "ref": "e86",
+      "role": null,
+      "tag": "a",
+      "text": "Powered by Gitea"
+    },
+    {
+      "bounds": [
+        1063,
+        874,
+        76,
+        16
+      ],
+      "expanded": false,
+      "ref": "e87",
+      "role": "menu",
+      "tag": "div",
+      "text": "English"
+    },
+    {
+      "bounds": [
+        1145,
+        872,
+        76,
+        20
+      ],
+      "href": "/assets/licenses.txt",
+      "ref": "e88",
+      "role": null,
+      "tag": "a",
+      "text": "Licenses"
+    },
+    {
+      "bounds": [
+        1226,
+        872,
+        34,
+        20
+      ],
+      "href": "/api/swagger",
+      "ref": "e89",
+      "role": null,
+      "tag": "a",
+      "text": "API"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Explore\nHelp\nRegister\nSign In\nRepositories\nUsers\nOrganizations\nFilter\nSort\nalice\n/\ndirectory-alpha\n0\n0\nUpdated\nPowered by Gitea\nPage:\n10ms\nTemplate:\n8ms\nEnglish\nLicenses\nAPI",
+  "text_truncated": false,
+  "title": "Explore - Gitea",
+  "url": "/explore/repos?q=directory",
+  "viewport": [
+    1280,
+    900
+  ]
+}

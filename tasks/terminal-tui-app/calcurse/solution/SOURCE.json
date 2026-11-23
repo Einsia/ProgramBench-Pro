@@ -1,0 +1,47 @@
+{
+  "task": "calcurse",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "calcurse",
+    "version": "4.8.2",
+    "homepage": "https://calcurse.org",
+    "repository": "https://github.com/lfos/calcurse",
+    "license": "BSD-2-Clause"
+  },
+  "downloads": [],
+  "bundled": [
+    {
+      "file": "calcurse-runtime-4.8.2.tar.gz",
+      "built_from": "calcurse 4.8.2 source from https://calcurse.org/files/calcurse-4.8.2.tar.gz (SHA-256 849ba852c7f37b6772365cb0c42a94cde0fe75efba91363e96a0e7ef797ba565), configured with --prefix=/usr --disable-docs on Ubuntu 24.04 amd64; includes pbsandbox.so compiled from the accompanying pbsandbox.c with gcc -shared -fPIC -O2 -ldl."
+    }
+  ],
+  "modifications": "Upstream source is unchanged. A separate pbsandbox preload library confines the process.",
+  "configuration": "HOME and the working directory are DATA_DIR, initially empty. A preloaded libfaketime fixes the wall clock; pbsandbox confines file access with Landlock and denies creation of external processes. Native calendar, to-do, note and configuration files persist under DATA_DIR.",
+  "notes": {
+    "upstream_source": {
+      "url": "https://calcurse.org/files/calcurse-4.8.2.tar.gz",
+      "sha256": "849ba852c7f37b6772365cb0c42a94cde0fe75efba91363e96a0e7ef797ba565"
+    },
+    "bundled_sha256": {
+      "calcurse-runtime-4.8.2.tar.gz": "336f8b092d7a58165a2179f5db8328d9a7bb387d508cfc08f283ba4d8acb62f0"
+    },
+    "build": {
+      "platform": "linux/amd64",
+      "base": "ubuntu:24.04",
+      "configure": [
+        "--prefix=/usr",
+        "--disable-docs"
+      ],
+      "upstream_modifications": [],
+      "sandbox": "pbsandbox.c is compiled as a shared library with gcc -shared -fPIC -O2 -ldl; it confines the unmodified upstream process before main."
+    },
+    "environment_dependency": {
+      "name": "libfaketime",
+      "version": "0.9.12",
+      "license": "GPL-2.0-only",
+      "url": "https://github.com/wolfcw/libfaketime/archive/refs/tags/v0.9.12.tar.gz",
+      "sha256": "4fc32218697c052adcdc5ee395581f2554ca56d086ac817ced2be0d6f1f8a9fa",
+      "purpose": "Supplies a fixed wall clock to the application; installed with its license in the shared execution environment."
+    }
+  }
+}

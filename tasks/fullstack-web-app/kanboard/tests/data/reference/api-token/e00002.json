@@ -1,0 +1,232 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e164",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e165",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/settings/api",
+      "ref": "e166",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/settings/api",
+      "ref": "e167",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "bounds": [
+        23,
+        53,
+        42,
+        17
+      ],
+      "href": "/settings",
+      "ref": "e168",
+      "role": null,
+      "tag": "a",
+      "text": "About"
+    },
+    {
+      "bounds": [
+        23,
+        89,
+        138,
+        17
+      ],
+      "href": "/settings/application",
+      "ref": "e169",
+      "role": null,
+      "tag": "a",
+      "text": "Application settings"
+    },
+    {
+      "bounds": [
+        23,
+        125,
+        100,
+        17
+      ],
+      "href": "/settings/email",
+      "ref": "e170",
+      "role": null,
+      "tag": "a",
+      "text": "Email settings"
+    },
+    {
+      "bounds": [
+        23,
+        161,
+        109,
+        17
+      ],
+      "href": "/settings/project",
+      "ref": "e171",
+      "role": null,
+      "tag": "a",
+      "text": "Project settings"
+    },
+    {
+      "bounds": [
+        23,
+        197,
+        102,
+        17
+      ],
+      "href": "/settings/board",
+      "ref": "e172",
+      "role": null,
+      "tag": "a",
+      "text": "Board settings"
+    },
+    {
+      "bounds": [
+        23,
+        233,
+        132,
+        17
+      ],
+      "href": "/settings/tags",
+      "ref": "e173",
+      "role": null,
+      "tag": "a",
+      "text": "Tags management"
+    },
+    {
+      "bounds": [
+        23,
+        269,
+        76,
+        17
+      ],
+      "href": "/settings/links/labels",
+      "ref": "e174",
+      "role": null,
+      "tag": "a",
+      "text": "Link labels"
+    },
+    {
+      "bounds": [
+        23,
+        305,
+        105,
+        17
+      ],
+      "href": "/settings/currencies",
+      "ref": "e175",
+      "role": null,
+      "tag": "a",
+      "text": "Currency rates"
+    },
+    {
+      "bounds": [
+        23,
+        341,
+        84,
+        17
+      ],
+      "href": "/settings/integrations",
+      "ref": "e176",
+      "role": null,
+      "tag": "a",
+      "text": "Integrations"
+    },
+    {
+      "bounds": [
+        23,
+        377,
+        75,
+        17
+      ],
+      "href": "/settings/webhook",
+      "ref": "e177",
+      "role": null,
+      "tag": "a",
+      "text": "Webhooks"
+    },
+    {
+      "bounds": [
+        23,
+        413,
+        26,
+        17
+      ],
+      "href": "/settings/api",
+      "ref": "e178",
+      "role": null,
+      "tag": "a",
+      "text": "API"
+    },
+    {
+      "bounds": [
+        250,
+        167,
+        124,
+        30
+      ],
+      "href": "/?controller=ConfigController&action=token&type=api&csrf_token=e8975d02c3f336d1f310b79d26819bd9422912964606a14350bbd1099a7fd555",
+      "ref": "e179",
+      "role": null,
+      "tag": "a",
+      "text": "Reset token"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Settings > API\n \n \nA\nAbout\nApplication settings\nEmail settings\nProject settings\nBoard settings\nTags management\nLink labels\nCurrency rates\nIntegrations\nWebhooks\nAPI\nAPI\nAPI token: ecbec2a120a9b17c70f9c2d0ae93ab9858fcf9f9e645b29ca9e89c2c2c06\nAPI endpoint: http://localhost/jsonrpc.php\nReset token",
+  "text_truncated": false,
+  "title": "Settings > API",
+  "url": "/settings/api",
+  "viewport": [
+    1280,
+    900
+  ]
+}

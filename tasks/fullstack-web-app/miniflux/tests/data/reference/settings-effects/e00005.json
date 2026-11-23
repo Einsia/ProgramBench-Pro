@@ -1,0 +1,531 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        559,
+        -44,
+        162,
+        36
+      ],
+      "href": "/unread#main",
+      "offscreen": true,
+      "ref": "e954",
+      "role": null,
+      "tag": "a",
+      "text": "Skip to content"
+    },
+    {
+      "aria": "Home page",
+      "bounds": [
+        193,
+        10,
+        77,
+        19
+      ],
+      "href": "/unread",
+      "ref": "e955",
+      "role": null,
+      "tag": "a",
+      "text": "Mini\nflux"
+    },
+    {
+      "aria": "Unread, 4 unread entries",
+      "bounds": [
+        278,
+        12,
+        102,
+        16
+      ],
+      "href": "/unread",
+      "ref": "e956",
+      "role": null,
+      "tag": "a",
+      "text": "Unread (4)"
+    },
+    {
+      "bounds": [
+        395,
+        12,
+        78,
+        16
+      ],
+      "href": "/starred",
+      "ref": "e957",
+      "role": null,
+      "tag": "a",
+      "text": "Starred"
+    },
+    {
+      "bounds": [
+        488,
+        12,
+        78,
+        16
+      ],
+      "href": "/history",
+      "ref": "e958",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        581,
+        12,
+        70,
+        16
+      ],
+      "href": "/feeds",
+      "ref": "e959",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "aria": "Add feed",
+      "bounds": [
+        650,
+        12,
+        26,
+        16
+      ],
+      "href": "/subscribe",
+      "ref": "e960",
+      "role": null,
+      "tag": "a",
+      "text": "(+)",
+      "title": "Keyboard Shortcut: +"
+    },
+    {
+      "bounds": [
+        691,
+        12,
+        104,
+        16
+      ],
+      "href": "/categories",
+      "ref": "e961",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        810,
+        12,
+        70,
+        16
+      ],
+      "href": "/search",
+      "ref": "e962",
+      "role": null,
+      "tag": "a",
+      "text": "Search"
+    },
+    {
+      "bounds": [
+        894,
+        12,
+        87,
+        16
+      ],
+      "href": "/settings",
+      "ref": "e963",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        996,
+        10,
+        70,
+        18
+      ],
+      "ref": "e964",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "title": "Logged in as alice"
+    },
+    {
+      "bounds": [
+        193,
+        81,
+        181,
+        18
+      ],
+      "ref": "e965",
+      "role": null,
+      "tag": "button",
+      "text": "Mark this page as read"
+    },
+    {
+      "bounds": [
+        398,
+        81,
+        132,
+        18
+      ],
+      "ref": "e966",
+      "role": null,
+      "tag": "button",
+      "text": "Mark all as read"
+    },
+    {
+      "bounds": [
+        199,
+        150,
+        86,
+        18
+      ],
+      "href": "/unread/entry/1",
+      "ref": "e967",
+      "role": null,
+      "tag": "a",
+      "text": "Effect 3"
+    },
+    {
+      "bounds": [
+        294,
+        153,
+        22,
+        14
+      ],
+      "href": "/category/1/entries",
+      "ref": "e968",
+      "role": null,
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        199,
+        174,
+        78,
+        12
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e969",
+      "role": null,
+      "tag": "a",
+      "text": "Effects Feed",
+      "title": "http://effects.test/"
+    },
+    {
+      "bounds": [
+        199,
+        195,
+        95,
+        16
+      ],
+      "ref": "e970",
+      "role": null,
+      "tag": "button",
+      "text": "Mark as read",
+      "title": "Change entry status"
+    },
+    {
+      "bounds": [
+        309,
+        195,
+        43,
+        16
+      ],
+      "ref": "e971",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        369,
+        197,
+        120,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e972",
+      "role": null,
+      "tag": "a",
+      "text": "External link"
+    },
+    {
+      "bounds": [
+        199,
+        244,
+        86,
+        18
+      ],
+      "href": "/unread/entry/2",
+      "ref": "e973",
+      "role": null,
+      "tag": "a",
+      "text": "Effect 2"
+    },
+    {
+      "bounds": [
+        294,
+        247,
+        22,
+        14
+      ],
+      "href": "/category/1/entries",
+      "ref": "e974",
+      "role": null,
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        199,
+        268,
+        78,
+        12
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e975",
+      "role": null,
+      "tag": "a",
+      "text": "Effects Feed",
+      "title": "http://effects.test/"
+    },
+    {
+      "bounds": [
+        199,
+        289,
+        95,
+        16
+      ],
+      "ref": "e976",
+      "role": null,
+      "tag": "button",
+      "text": "Mark as read",
+      "title": "Change entry status"
+    },
+    {
+      "bounds": [
+        309,
+        289,
+        43,
+        16
+      ],
+      "ref": "e977",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        369,
+        291,
+        120,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e978",
+      "role": null,
+      "tag": "a",
+      "text": "External link"
+    },
+    {
+      "bounds": [
+        199,
+        338,
+        115,
+        18
+      ],
+      "href": "/unread/entry/4",
+      "ref": "e979",
+      "role": null,
+      "tag": "a",
+      "text": "Episode one"
+    },
+    {
+      "bounds": [
+        323,
+        341,
+        22,
+        14
+      ],
+      "href": "/category/1/entries",
+      "ref": "e980",
+      "role": null,
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        199,
+        362,
+        52,
+        12
+      ],
+      "href": "/feed/2/entries",
+      "ref": "e981",
+      "role": null,
+      "tag": "a",
+      "text": "Pod Feed",
+      "title": "http://pod.test/"
+    },
+    {
+      "bounds": [
+        199,
+        383,
+        95,
+        16
+      ],
+      "ref": "e982",
+      "role": null,
+      "tag": "button",
+      "text": "Mark as read",
+      "title": "Change entry status"
+    },
+    {
+      "bounds": [
+        309,
+        383,
+        43,
+        16
+      ],
+      "ref": "e983",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        369,
+        385,
+        120,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e984",
+      "role": null,
+      "tag": "a",
+      "text": "External link"
+    },
+    {
+      "bounds": [
+        199,
+        432,
+        86,
+        18
+      ],
+      "href": "/unread/entry/3",
+      "ref": "e985",
+      "role": null,
+      "tag": "a",
+      "text": "Effect 1"
+    },
+    {
+      "bounds": [
+        294,
+        435,
+        22,
+        14
+      ],
+      "href": "/category/1/entries",
+      "ref": "e986",
+      "role": null,
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        199,
+        456,
+        78,
+        12
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e987",
+      "role": null,
+      "tag": "a",
+      "text": "Effects Feed",
+      "title": "http://effects.test/"
+    },
+    {
+      "bounds": [
+        199,
+        477,
+        95,
+        16
+      ],
+      "ref": "e988",
+      "role": null,
+      "tag": "button",
+      "text": "Mark as read",
+      "title": "Change entry status"
+    },
+    {
+      "bounds": [
+        309,
+        477,
+        43,
+        16
+      ],
+      "ref": "e989",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        369,
+        479,
+        120,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e990",
+      "role": null,
+      "tag": "a",
+      "text": "External link"
+    },
+    {
+      "bounds": [
+        193,
+        524,
+        181,
+        18
+      ],
+      "ref": "e991",
+      "role": null,
+      "tag": "button",
+      "text": "Mark this page as read"
+    },
+    {
+      "bounds": [
+        599,
+        567,
+        134,
+        20
+      ],
+      "href": "/unread",
+      "ref": "e992",
+      "role": null,
+      "tag": "a",
+      "text": "Back to top"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Skip to content\nMini\nflux\nUnread (4) Starred History Feeds (+) Categories Search Settings Logout\nUnread (4)\n4 unread entries\nMark this page as read Mark all as read\nFirst\nPrevious\nNext \nLast \nEffect 3 All\nEffects Feed  1 year ago  1 minute read\nMark as read Star External link\nEffect 2 All\nEffects Feed  1 year ago  1 minute read\nMark as read Star External link\nEpisode one All\nPod Feed  1 year ago  1 minute read\nMark as read Star External link\nEffect 1 All\nEffects Feed  1 year ago  1 minute read\nMark as read Star External link\nMark this page as read\nFirst\nPrevious\nBack to top\nNext \nLast ",
+  "text_truncated": false,
+  "title": "Unread (4) - Miniflux",
+  "url": "/unread",
+  "viewport": [
+    1280,
+    900
+  ]
+}

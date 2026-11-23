@@ -1,0 +1,522 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        260,
+        8,
+        48,
+        48
+      ],
+      "ref": "e3565697427",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        308,
+        8,
+        956,
+        48
+      ],
+      "expanded": false,
+      "ref": "e3932625320",
+      "role": "combobox",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "bounds": [
+        348,
+        16,
+        900,
+        32
+      ],
+      "placeholder": "Search",
+      "ref": "e3492990951",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        8,
+        73,
+        240,
+        40
+      ],
+      "href": "/dashboard",
+      "ref": "e4053023811",
+      "role": null,
+      "tag": "a",
+      "text": "Home"
+    },
+    {
+      "bounds": [
+        8,
+        117,
+        240,
+        40
+      ],
+      "href": "/libraries/all",
+      "ref": "e2922887771",
+      "role": null,
+      "tag": "a",
+      "text": "Libraries"
+    },
+    {
+      "bounds": [
+        168,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3616030284",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        204,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3666363141",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        161,
+        240,
+        40
+      ],
+      "href": "/libraries/0S3GJFMHD0ZXN",
+      "ref": "e2554966484",
+      "role": null,
+      "tag": "a",
+      "text": "Comics"
+    },
+    {
+      "bounds": [
+        204,
+        163,
+        36,
+        36
+      ],
+      "ref": "e3699918379",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        205,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e1184854462",
+      "role": "button",
+      "tag": "div",
+      "text": "Import"
+    },
+    {
+      "bounds": [
+        8,
+        245,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e2070932497",
+      "role": "button",
+      "tag": "div",
+      "text": "Media"
+    },
+    {
+      "bounds": [
+        8,
+        285,
+        240,
+        40
+      ],
+      "href": "/history",
+      "ref": "e3700334507",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        8,
+        329,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e3104230938",
+      "role": "button",
+      "tag": "div",
+      "text": "Server"
+    },
+    {
+      "bounds": [
+        8,
+        369,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e1456337507",
+      "role": "button",
+      "tag": "div",
+      "text": "My Account"
+    },
+    {
+      "bounds": [
+        8,
+        453,
+        240,
+        40
+      ],
+      "href": "/next",
+      "ref": "e108006909",
+      "role": null,
+      "tag": "a",
+      "text": "Try the new UI"
+    },
+    {
+      "bounds": [
+        72,
+        530,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e3679130362",
+      "role": "button",
+      "tag": "div",
+      "text": "Theme\nSystem"
+    },
+    {
+      "bounds": [
+        129,
+        530,
+        83,
+        26
+      ],
+      "label": "Theme",
+      "ref": "e2293683443",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        72,
+        594,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e918547495",
+      "role": "button",
+      "tag": "div",
+      "text": "Translation\nEnglish"
+    },
+    {
+      "bounds": [
+        128,
+        594,
+        84,
+        26
+      ],
+      "label": "Translation",
+      "ref": "e965999643",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        272,
+        72,
+        48,
+        48
+      ],
+      "ref": "e946897339",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1084,
+        72,
+        48,
+        48
+      ],
+      "ref": "e1098337195",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1132,
+        72,
+        48,
+        48
+      ],
+      "ref": "e1081559576",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1180,
+        72,
+        48,
+        48
+      ],
+      "ref": "e1131892433",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1228,
+        72,
+        48,
+        48
+      ],
+      "ref": "e1115114814",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        276,
+        140,
+        124,
+        28
+      ],
+      "href": "/api/v1/readlists/0S3GJFRS10TEM/file",
+      "ref": "e3666052684",
+      "role": null,
+      "tag": "a",
+      "text": "DOWNLOAD",
+      "title": "Download read list"
+    },
+    {
+      "bounds": [
+        284,
+        421,
+        134,
+        22
+      ],
+      "href": "/series/0S3GJFMN90KDW",
+      "ref": "e378583464",
+      "role": null,
+      "tag": "a",
+      "text": "Atlas",
+      "title": "Atlas"
+    },
+    {
+      "bounds": [
+        284,
+        443,
+        134,
+        22
+      ],
+      "href": "/book/0S3GJFMN90KDX?context=READLIST&contextId=0S3GJFRS10TEM",
+      "ref": "e2829380983",
+      "role": null,
+      "tag": "a",
+      "text": "1 - Atlas chapter 1",
+      "title": "1 - Atlas chapter 1"
+    },
+    {
+      "bounds": [
+        450,
+        421,
+        134,
+        22
+      ],
+      "href": "/series/0S3GJFMMS0J9V",
+      "ref": "e4216569527",
+      "role": null,
+      "tag": "a",
+      "text": "Beacon",
+      "title": "Beacon"
+    },
+    {
+      "bounds": [
+        450,
+        443,
+        134,
+        22
+      ],
+      "href": "/book/0S3GJFMN10P68?context=READLIST&contextId=0S3GJFRS10TEM",
+      "ref": "e3356681161",
+      "role": null,
+      "tag": "a",
+      "text": "1 - Beacon chapter 1",
+      "title": "1 - Beacon chapter 1"
+    },
+    {
+      "bounds": [
+        616,
+        421,
+        134,
+        22
+      ],
+      "href": "/series/0S3GJFMND0KJG",
+      "ref": "e3742638765",
+      "role": null,
+      "tag": "a",
+      "text": "Café 漫画",
+      "title": "Café 漫画"
+    },
+    {
+      "bounds": [
+        616,
+        443,
+        134,
+        22
+      ],
+      "href": "/book/0S3GJFMNN0WWR?context=READLIST&contextId=0S3GJFRS10TEM",
+      "ref": "e2436049418",
+      "role": null,
+      "tag": "a",
+      "text": "1 - Café 漫画 chapter 1",
+      "title": "1 - Café 漫画 chapter 1"
+    },
+    {
+      "bounds": [
+        782,
+        421,
+        134,
+        22
+      ],
+      "href": "/series/0S3GJFMND0KJC",
+      "ref": "e3335263269",
+      "role": null,
+      "tag": "a",
+      "text": "Delta",
+      "title": "Delta"
+    },
+    {
+      "bounds": [
+        782,
+        443,
+        134,
+        22
+      ],
+      "href": "/book/0S3GJFMND0KJF?context=READLIST&contextId=0S3GJFRS10TEM",
+      "ref": "e3571676622",
+      "role": null,
+      "tag": "a",
+      "text": "1 - Delta chapter 1",
+      "title": "1 - Delta chapter 1"
+    },
+    {
+      "bounds": [
+        948,
+        421,
+        134,
+        22
+      ],
+      "href": "/series/0S3GJFMN50YG9",
+      "ref": "e3672692022",
+      "role": null,
+      "tag": "a",
+      "text": "Evergreen",
+      "title": "Evergreen"
+    },
+    {
+      "bounds": [
+        948,
+        443,
+        134,
+        22
+      ],
+      "href": "/book/0S3GJFMN50YGA?context=READLIST&contextId=0S3GJFRS10TEM",
+      "ref": "e458465690",
+      "role": null,
+      "tag": "a",
+      "text": "1 - Evergreen chapter 1",
+      "title": "1 - Evergreen chapter 1"
+    },
+    {
+      "bounds": [
+        1114,
+        421,
+        134,
+        22
+      ],
+      "href": "/series/0S3GJFMN50YG5",
+      "ref": "e4100178310",
+      "role": null,
+      "tag": "a",
+      "text": "Folio",
+      "title": "Folio"
+    },
+    {
+      "bounds": [
+        1114,
+        443,
+        134,
+        22
+      ],
+      "href": "/book/0S3GJFMN50YG7?context=READLIST&contextId=0S3GJFRS10TEM",
+      "ref": "e4207599652",
+      "role": null,
+      "tag": "a",
+      "text": "1 - Folio chapter 1",
+      "title": "1 - Folio chapter 1"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Komga\nHome\nLibraries\nComics\nImport\nMedia\nHistory\nServer\nMy Account\nLog Out\nTry the new UI\nTheme\nSystem\nTranslation\nEnglish\nEdited reading list\n6\n(MANUAL ORDERING)\nDOWNLOAD\nAtlas\n1 - Atlas chapter 1\n4 pages\nBeacon\n1 - Beacon chapter 1\n4 pages\nCafé 漫画\n1 - Café 漫画 chapter 1\n4 pages\nDelta\n1 - Delta chapter 1\n4 pages\nEvergreen\n1 - Evergreen chapter 1\n4 pages\nFolio\n1 - Folio chapter 1\n4 pages",
+  "text_truncated": false,
+  "title": "Komga - Edited reading list",
+  "url": "/readlists/0S3GJFRS10TEM",
+  "viewport": [
+    1280,
+    900
+  ]
+}

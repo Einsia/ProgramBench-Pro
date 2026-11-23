@@ -1,0 +1,619 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        55,
+        95,
+        1210,
+        765
+      ],
+      "ref": "canvas0",
+      "tag": "svg"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        4,
+        84,
+        32,
+        30
+      ],
+      "pressed": true,
+      "ref": "e2f7971cd",
+      "tag": "se-button",
+      "title": "Outil de sélection"
+    },
+    {
+      "bounds": [
+        4,
+        118,
+        32,
+        30
+      ],
+      "ref": "e61e77941",
+      "tag": "se-button",
+      "title": "Zoom [Z/Alt+wheels]"
+    },
+    {
+      "bounds": [
+        4,
+        152,
+        32,
+        30
+      ],
+      "ref": "e8a59bcf6",
+      "tag": "se-button",
+      "title": "Panning [Space / mouse wheel + drag]"
+    },
+    {
+      "bounds": [
+        4,
+        186,
+        32,
+        30
+      ],
+      "ref": "e20b7fffe",
+      "tag": "se-button",
+      "title": "Crayon à main levée [Q]"
+    },
+    {
+      "bounds": [
+        4,
+        220,
+        32,
+        30
+      ],
+      "ref": "e89543038",
+      "tag": "se-button",
+      "title": "Tracer des lignes [L]"
+    },
+    {
+      "bounds": [
+        4,
+        254,
+        32,
+        30
+      ],
+      "ref": "e3fb5998e",
+      "tag": "se-button",
+      "title": "Outil chemin [P]"
+    },
+    {
+      "bounds": [
+        4,
+        288,
+        32,
+        30
+      ],
+      "ref": "e95d758c4",
+      "tag": "se-flyingbutton",
+      "title": "Square/Rect Tool"
+    },
+    {
+      "bounds": [
+        4,
+        322,
+        32,
+        30
+      ],
+      "ref": "e46d36714",
+      "tag": "se-flyingbutton",
+      "title": "Outil Ellipse/Cercle"
+    },
+    {
+      "bounds": [
+        4,
+        356,
+        32,
+        30
+      ],
+      "ref": "ec7f58032",
+      "tag": "se-button",
+      "title": "Outil texte [T]"
+    },
+    {
+      "bounds": [
+        4,
+        390,
+        32,
+        30
+      ],
+      "ref": "e072f8da0",
+      "tag": "se-explorerbutton",
+      "title": "Bibliothèque d'images [null]"
+    },
+    {
+      "bounds": [
+        4,
+        424,
+        32,
+        30
+      ],
+      "ref": "ecbf69563",
+      "tag": "se-flyingbutton",
+      "title": "Outil Polygone/Etoile"
+    },
+    {
+      "bounds": [
+        4,
+        458,
+        32,
+        30
+      ],
+      "ref": "e54e9d22d",
+      "tag": "se-button",
+      "title": "Outil image"
+    },
+    {
+      "bounds": [
+        4,
+        492,
+        32,
+        30
+      ],
+      "ref": "e6f0b1247",
+      "tag": "se-button",
+      "title": "Connecter deux objets"
+    },
+    {
+      "bounds": [
+        4,
+        526,
+        32,
+        30
+      ],
+      "ref": "e0c8cd2bc",
+      "tag": "se-button",
+      "title": "Outil pipette [ctrl+I]"
+    },
+    {
+      "bounds": [
+        40,
+        870,
+        94,
+        20
+      ],
+      "ref": "e71091cee",
+      "tag": "se-zoom",
+      "text": "▲ ▼",
+      "title": "Change zoom level",
+      "type": "text",
+      "value": "100.0"
+    },
+    {
+      "bounds": [
+        134,
+        868,
+        56,
+        24
+      ],
+      "ref": "e9c310b1d",
+      "tag": "se-colorpicker",
+      "title": "Changer la couleur de remplissage"
+    },
+    {
+      "bounds": [
+        190,
+        868,
+        56,
+        24
+      ],
+      "ref": "e1815d72f",
+      "tag": "se-colorpicker",
+      "title": "Changer la couleur du contour"
+    },
+    {
+      "bounds": [
+        248,
+        870,
+        32,
+        22
+      ],
+      "context": "Changer la largeur du contour de 1, Maj+clic pour changer la largeur de 0,1",
+      "ref": "ef63f8f1d",
+      "tag": "input",
+      "type": "text",
+      "value": "5"
+    },
+    {
+      "bounds": [
+        287,
+        870,
+        13,
+        11
+      ],
+      "context": "Changer la largeur du contour de 1, Maj+clic pour changer la largeur de 0,1",
+      "ref": "ee5f74520",
+      "tag": "button",
+      "text": "▲"
+    },
+    {
+      "bounds": [
+        287,
+        882,
+        13,
+        11
+      ],
+      "context": "Changer la largeur du contour de 1, Maj+clic pour changer la largeur de 0,1",
+      "ref": "e61c46abe",
+      "tag": "button",
+      "text": "▼"
+    },
+    {
+      "bounds": [
+        305,
+        861,
+        24,
+        30
+      ],
+      "label": "▲ ▼",
+      "options": [
+        {
+          "label": "—",
+          "selected": true,
+          "value": "none"
+        },
+        {
+          "label": "...",
+          "selected": false,
+          "value": "2,2"
+        },
+        {
+          "label": "--",
+          "selected": false,
+          "value": "5,5"
+        },
+        {
+          "label": "-.",
+          "selected": false,
+          "value": "5,2,2,2"
+        },
+        {
+          "label": "-..",
+          "selected": false,
+          "value": "5,2,2,2,2,2"
+        }
+      ],
+      "ref": "e0290c5af",
+      "tag": "se-select",
+      "title": "Changer le style du contour",
+      "value": "none"
+    },
+    {
+      "bounds": [
+        329,
+        869,
+        22,
+        22
+      ],
+      "context": "properties.linejoin_miter",
+      "ref": "ec075253b",
+      "tag": "div",
+      "title": "Raccord : Droit"
+    },
+    {
+      "bounds": [
+        351,
+        869,
+        22,
+        22
+      ],
+      "context": "properties.linecap_butt",
+      "ref": "e2a590f59",
+      "tag": "div",
+      "title": "Terminaison : Sur le nœud"
+    },
+    {
+      "bounds": [
+        405,
+        870,
+        32,
+        22
+      ],
+      "context": "Changer l'opacité de l'élément sélectionné",
+      "ref": "ec2c085e1",
+      "tag": "input",
+      "type": "text",
+      "value": "100"
+    },
+    {
+      "bounds": [
+        444,
+        870,
+        13,
+        11
+      ],
+      "context": "Changer l'opacité de l'élément sélectionné",
+      "ref": "eb59f48be",
+      "tag": "button",
+      "text": "▲"
+    },
+    {
+      "bounds": [
+        444,
+        882,
+        13,
+        11
+      ],
+      "context": "Changer l'opacité de l'élément sélectionné",
+      "ref": "e4188b0cc",
+      "tag": "button",
+      "text": "▼"
+    },
+    {
+      "bounds": [
+        612,
+        869,
+        638,
+        23
+      ],
+      "ref": "edc1b4fae",
+      "tag": "div",
+      "title": "Cliquer pour changer la couleur de remplissage, Maj+clic pour changer la couleur de contour"
+    },
+    {
+      "bounds": [
+        1250,
+        873,
+        14,
+        14
+      ],
+      "ref": "e644ca8fa",
+      "tag": "button",
+      "text": "▼",
+      "title": "Show whole palette"
+    },
+    {
+      "bounds": [
+        176,
+        0,
+        32,
+        40
+      ],
+      "ref": "e589ee321",
+      "tag": "se-button",
+      "title": "Modifier la source [U]"
+    },
+    {
+      "bounds": [
+        208,
+        0,
+        32,
+        40
+      ],
+      "ref": "e8a4fb31b",
+      "tag": "se-button",
+      "title": "Mode Fil de fer [F]"
+    },
+    {
+      "bounds": [
+        240,
+        0,
+        32,
+        40
+      ],
+      "ref": "ef3fe1a31",
+      "tag": "se-button",
+      "title": "Afficher/Cacher Grille"
+    },
+    {
+      "bounds": [
+        272,
+        0,
+        32,
+        40
+      ],
+      "ref": "edf6ca10c",
+      "tag": "se-button",
+      "title": "Enable/Disable Layer View [Ctrl+Shift+L]"
+    },
+    {
+      "bounds": [
+        307,
+        0,
+        32,
+        40
+      ],
+      "ref": "e81f3864e",
+      "tag": "se-button",
+      "title": "Annuler [ctrl+Z]"
+    },
+    {
+      "bounds": [
+        339,
+        0,
+        32,
+        40
+      ],
+      "disabled": true,
+      "ref": "eac087513",
+      "tag": "se-button",
+      "title": "Restaurer [ctrl+Y]"
+    },
+    {
+      "bounds": [
+        1265,
+        450,
+        12,
+        84
+      ],
+      "ref": "efefe3717",
+      "tag": "se-text",
+      "text": "Panneau",
+      "title": "Cliquer pour ouvrir le panel de côté"
+    },
+    {
+      "bounds": [
+        3,
+        2,
+        92,
+        31
+      ],
+      "ref": "eb4df12b3",
+      "tag": "button",
+      "text": "SVG-Edit"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "drawing": [
+    {
+      "canvas": "canvas0",
+      "container": "svg#canvasBackground",
+      "items": [
+        {
+          "bounds": [
+            340,
+            237,
+            640,
+            480
+          ],
+          "fill": "#FFF",
+          "height": "100%",
+          "kind": "rect",
+          "stroke": "#000",
+          "width": "100%",
+          "x": "0",
+          "y": "0"
+        }
+      ]
+    },
+    {
+      "canvas": "canvas0",
+      "container": "svg#svgcontent > g.layer \"Layer 1\"",
+      "items": [
+        {
+          "bounds": [
+            400,
+            297,
+            120,
+            80
+          ],
+          "fill": "#3366cc",
+          "height": "80",
+          "id": "mr",
+          "kind": "rect",
+          "width": "120",
+          "x": "60",
+          "y": "60"
+        },
+        {
+          "bounds": [
+            590,
+            297,
+            140,
+            80
+          ],
+          "cx": "320",
+          "cy": "100",
+          "fill": "#cc6633",
+          "id": "me",
+          "kind": "ellipse",
+          "rx": "70",
+          "ry": "40"
+        },
+        {
+          "bounds": [
+            790,
+            297,
+            110,
+            90
+          ],
+          "d": "M450,60L560,60L470,150L450,60z",
+          "fill": "#33aa55",
+          "id": "mp",
+          "kind": "path"
+        },
+        {
+          "bounds": [
+            410,
+            487,
+            100,
+            95
+          ],
+          "fill": "#aa55aa",
+          "id": "mg",
+          "kind": "polygon",
+          "points": "120,250 170,285 150,345 90,345 70,285"
+        },
+        {
+          "bounds": [
+            580,
+            497,
+            160,
+            80
+          ],
+          "id": "ml",
+          "kind": "line",
+          "stroke": "#333333",
+          "stroke-width": "6",
+          "x1": "240",
+          "x2": "400",
+          "y1": "260",
+          "y2": "340"
+        },
+        {
+          "bounds": [
+            810,
+            528,
+            96,
+            36
+          ],
+          "fill": "#222222",
+          "font-family": "serif",
+          "font-size": "32",
+          "id": "mt",
+          "kind": "text",
+          "text": "Sample",
+          "x": "470",
+          "y": "320"
+        }
+      ]
+    },
+    {
+      "canvas": "canvas0",
+      "container": "svg#svgcontent > g.layer \"Layer 1\" > g#mgp",
+      "items": [
+        {
+          "bounds": [
+            600,
+            627,
+            70,
+            50
+          ],
+          "fill": "#996633",
+          "height": "50",
+          "id": "mgr",
+          "kind": "rect",
+          "width": "70",
+          "x": "260",
+          "y": "390"
+        },
+        {
+          "bounds": [
+            685,
+            627,
+            50,
+            50
+          ],
+          "cx": "370",
+          "cy": "415",
+          "fill": "#339966",
+          "id": "mgc",
+          "kind": "circle",
+          "r": "25"
+        }
+      ]
+    }
+  ],
+  "drawing_truncated": false,
+  "text": "untitled.svg",
+  "text_truncated": false,
+  "title": "SVG-edit",
+  "url": "/",
+  "viewport": [
+    1280,
+    900
+  ]
+}

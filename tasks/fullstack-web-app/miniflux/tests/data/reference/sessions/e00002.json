@@ -1,0 +1,247 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        559,
+        -44,
+        162,
+        36
+      ],
+      "href": "/sessions#main",
+      "offscreen": true,
+      "ref": "e80",
+      "role": null,
+      "tag": "a",
+      "text": "Skip to content"
+    },
+    {
+      "aria": "Home page",
+      "bounds": [
+        193,
+        10,
+        77,
+        19
+      ],
+      "href": "/unread",
+      "ref": "e81",
+      "role": null,
+      "tag": "a",
+      "text": "Mini\nflux"
+    },
+    {
+      "bounds": [
+        278,
+        12,
+        70,
+        16
+      ],
+      "href": "/unread",
+      "ref": "e82",
+      "role": null,
+      "tag": "a",
+      "text": "Unread"
+    },
+    {
+      "bounds": [
+        363,
+        12,
+        78,
+        16
+      ],
+      "href": "/starred",
+      "ref": "e83",
+      "role": null,
+      "tag": "a",
+      "text": "Starred"
+    },
+    {
+      "bounds": [
+        456,
+        12,
+        78,
+        16
+      ],
+      "href": "/history",
+      "ref": "e84",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        549,
+        12,
+        70,
+        16
+      ],
+      "href": "/feeds",
+      "ref": "e85",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "aria": "Add feed",
+      "bounds": [
+        618,
+        12,
+        26,
+        16
+      ],
+      "href": "/subscribe",
+      "ref": "e86",
+      "role": null,
+      "tag": "a",
+      "text": "(+)",
+      "title": "Keyboard Shortcut: +"
+    },
+    {
+      "bounds": [
+        659,
+        12,
+        104,
+        16
+      ],
+      "href": "/categories",
+      "ref": "e87",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        778,
+        12,
+        70,
+        16
+      ],
+      "href": "/search",
+      "ref": "e88",
+      "role": null,
+      "tag": "a",
+      "text": "Search"
+    },
+    {
+      "bounds": [
+        862,
+        12,
+        87,
+        16
+      ],
+      "href": "/settings",
+      "ref": "e89",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        964,
+        10,
+        70,
+        18
+      ],
+      "ref": "e90",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "title": "Logged in as alice"
+    },
+    {
+      "bounds": [
+        193,
+        82,
+        95,
+        18
+      ],
+      "href": "/settings",
+      "ref": "e91",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        312,
+        82,
+        133,
+        18
+      ],
+      "href": "/integrations",
+      "ref": "e92",
+      "role": null,
+      "tag": "a",
+      "text": "Integrations"
+    },
+    {
+      "bounds": [
+        470,
+        82,
+        95,
+        18
+      ],
+      "href": "/keys",
+      "ref": "e93",
+      "role": null,
+      "tag": "a",
+      "text": "API Keys"
+    },
+    {
+      "bounds": [
+        590,
+        82,
+        95,
+        18
+      ],
+      "href": "/sessions",
+      "ref": "e94",
+      "role": null,
+      "tag": "a",
+      "text": "Sessions"
+    },
+    {
+      "bounds": [
+        709,
+        82,
+        66,
+        18
+      ],
+      "href": "/users",
+      "ref": "e95",
+      "role": null,
+      "tag": "a",
+      "text": "Users"
+    },
+    {
+      "bounds": [
+        800,
+        82,
+        66,
+        18
+      ],
+      "href": "/about",
+      "ref": "e96",
+      "role": null,
+      "tag": "a",
+      "text": "About"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Skip to content\nMini\nflux\nUnread Starred History Feeds (+) Categories Search Settings Logout\nSessions\nSettings Integrations API Keys Sessions Users About\nDate\tIP Address\tUser Agent\tActions\njust now\t127.0.0.1\tMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36\tCurrent Session",
+  "text_truncated": false,
+  "title": "Sessions - Miniflux",
+  "url": "/sessions",
+  "viewport": [
+    1280,
+    900
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        0,
+        1182,
+        24
+      ],
+      "ref": "e816a866e",
+      "tag": "div",
+      "text": "Click to select a file or drag and drop PDFs or Images Your files never leave your device."
+    },
+    {
+      "bounds": [
+        49,
+        40,
+        176,
+        40
+      ],
+      "ref": "e4b856335",
+      "tag": "button",
+      "text": "Add More Files"
+    },
+    {
+      "bounds": [
+        237,
+        40,
+        127,
+        40
+      ],
+      "ref": "edd833bd2",
+      "tag": "button",
+      "text": "Clear All"
+    },
+    {
+      "bounds": [
+        54,
+        109,
+        582,
+        40
+      ],
+      "ref": "e8169ccf5",
+      "tag": "button",
+      "text": "File Mode"
+    },
+    {
+      "bounds": [
+        644,
+        109,
+        582,
+        40
+      ],
+      "ref": "e40a03b9e",
+      "tag": "button",
+      "text": "Page Mode"
+    },
+    {
+      "bounds": [
+        62,
+        301,
+        1124,
+        24
+      ],
+      "ref": "e0bb1c41f",
+      "tag": "span",
+      "text": "chapter-a.pdf",
+      "title": "chapter-a.pdf"
+    },
+    {
+      "bounds": [
+        62,
+        361,
+        1116,
+        38
+      ],
+      "label": "Pages (e.g., 1-3, 5) - Total: 3",
+      "placeholder": "Leave blank for all pages",
+      "ref": "eaef7a223",
+      "tag": "input",
+      "type": "text",
+      "value": "2-3"
+    },
+    {
+      "bounds": [
+        1186,
+        367,
+        32,
+        32
+      ],
+      "ref": "ecf405c22",
+      "tag": "button",
+      "title": "Remove file"
+    },
+    {
+      "bounds": [
+        62,
+        433,
+        1124,
+        24
+      ],
+      "ref": "ebf3f24eb",
+      "tag": "span",
+      "text": "chapter-b.pdf",
+      "title": "chapter-b.pdf"
+    },
+    {
+      "bounds": [
+        62,
+        493,
+        1116,
+        38
+      ],
+      "label": "Pages (e.g., 1-3, 5) - Total: 2",
+      "placeholder": "Leave blank for all pages",
+      "ref": "e460534e6",
+      "tag": "input",
+      "type": "text",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        1186,
+        499,
+        32,
+        32
+      ],
+      "ref": "ecf405c22x2",
+      "tag": "button",
+      "title": "Remove file"
+    },
+    {
+      "bounds": [
+        49,
+        560,
+        1182,
+        38
+      ],
+      "checked": false,
+      "label": "Keep original page labels from each file Off (default): the merged PDF uses natural page numbering 1–N. On: each file's",
+      "ref": "ece16a9c0",
+      "tag": "label",
+      "text": "Keep original page labels from each file Off (default): the merged PDF uses natural page numbering 1–N. On: each file's original page labels are preserved (may produce duplicate labels).",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        49,
+        614,
+        1182,
+        20
+      ],
+      "checked": false,
+      "label": "Remove duplicate fonts",
+      "ref": "e8038d081",
+      "tag": "label",
+      "text": "Remove duplicate fonts",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        49,
+        658,
+        1182,
+        48
+      ],
+      "ref": "e6fb092e9",
+      "tag": "button",
+      "text": "Merge PDFs"
+    },
+    {
+      "bounds": [
+        473,
+        472,
+        334,
+        40
+      ],
+      "ref": "e2a50e308",
+      "tag": "button",
+      "text": "OK"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "merged.pdf",
+      "ref": "d02e81503926f",
+      "size": 3553
+    }
+  ],
+  "inputs": [
+    "chapter-a.pdf",
+    "chapter-b.pdf",
+    "font-1.pdf",
+    "font-2.pdf",
+    "labels.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›Merge PDF\nMerge PDF\n\nCombine multiple PDFs into one file. Preserves Bookmarks.\n\nClick to select a file or drag and drop\n\nPDFs or Images\n\nYour files never leave your device.\n\nAdd More Files\nClear All\nFile Mode\nPage Mode\n\nHow it works:\n\nClick and drag the  icon to change the order of the files.\nIn the \"Pages\" box for each file, you can specify ranges (e.g., \"1-3, 5\") to merge only those pages.\nLeave the \"Pages\" box blank to include all pages from that file.\nchapter-a.pdf\nPages (e.g., 1-3, 5) - Total: 3\nchapter-b.pdf\nPages (e.g., 1-3, 5) - Total: 2\nKeep original page labels from each file\nOff (default): the merged PDF uses natural page numbering 1–N. On: each file's original page labels are preserved (may produce duplicate labels).\nRemove duplicate fonts\nMerge PDFs\nSuccess\n\nPDFs merged successfully!\n\nOK\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/merge-pdf.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

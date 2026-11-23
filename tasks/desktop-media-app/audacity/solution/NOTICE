@@ -1,0 +1,43 @@
+Audacity 2.4.2 runtime: licence and corresponding source
+
+audacity-runtime-2.4.2.tar.gz in this directory redistributes files of the
+Ubuntu 22.04 (Jammy) binary packages audacity 2.4.2~dfsg0-5 (amd64) and
+audacity-data 2.4.2~dfsg0-5 (all), re-rooted as bin/, lib/audacity/ and
+share/: the audacity executable, the mod-script-pipe module,
+EQDefaultCurves.xml, the Nyquist runtime and plug-ins, and the package's
+copyright and changelog files (91 archive entries; the archive retains upstream notices). The files are unmodified. solve.sh, at installation,
+changes one string in lib/audacity/modules/mod-script-pipe.so: the FIFO path
+template "/tmp/audacity_script_pipe.%s.%d" becomes the relative
+"audacity_script_pipe.%s.%d" (NUL padded), so that the pipes follow
+PBP_AUDIO_PIPE_DIR. SOURCE.json records the stock and patched digests.
+
+Audacity is free software, distributed under the terms of the GNU General
+Public License, version 2 or (at your option) any later version; individual
+components carry the licences listed in share/doc/audacity/copyright inside
+the archive. The full GPL version 2 is included in LICENSE, and the package copyright
+notices are reproduced in LICENSES/Audacity-components.txt. This repository's own
+files (the launcher launch.py, start.sh and solve.sh) are not part of
+Audacity.
+
+Corresponding source is the Debian/Ubuntu source package audacity
+2.4.2~dfsg0-5, from http://archive.ubuntu.com/ubuntu/pool/universe/a/audacity/
+or https://snapshot.debian.org/package/audacity/2.4.2~dfsg0-5/:
+
+  audacity_2.4.2~dfsg0-5.dsc
+  audacity_2.4.2~dfsg0.orig.tar.xz      42194528 bytes
+    sha256 a2325aa94b5f05150e280601ae3a467c63e043b26f08b209df8a756030a9ed14
+  audacity_2.4.2~dfsg0-5.debian.tar.xz  37328 bytes
+    sha256 56c179822da5dc64884422bc6df7c5e213d955f1ed18d116226b1836bdc420a3
+
+The task is not affiliated with or endorsed by the Audacity Team; "Audacity"
+names the reference product only.
+
+The local isolation.py adapter requires enabled Landlock ABI 1 or newer and
+uses the filesystem rights supported by that ABI. File writes, creation and
+removal are restricted to the configured instance/document directories and
+the required /dev/null and /dev/shm paths. Execution is limited to the selected
+product binary and the dynamic loader. ABI 1 denies cross-directory renames
+and hard links. On ABI 2 or newer, these operations are permitted only where
+the applicable Landlock path rules allow them. File truncation is restricted
+only on ABI 3 or newer; the adapter provides no truncation restriction on
+ABI 1 or 2. It does not modify upstream executable bytes.

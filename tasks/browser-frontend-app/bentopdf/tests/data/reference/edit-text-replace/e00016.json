@@ -1,0 +1,1007 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        284,
+        73,
+        716,
+        794
+      ],
+      "ref": "canvas0",
+      "tag": "canvas"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        12,
+        9,
+        30,
+        30
+      ],
+      "ref": "ed27599cf",
+      "tag": "button",
+      "title": "Back to upload"
+    },
+    {
+      "bounds": [
+        46,
+        9,
+        72,
+        30
+      ],
+      "ref": "e49479f3a",
+      "tag": "label",
+      "text": "Open",
+      "title": "Open another PDF"
+    },
+    {
+      "bounds": [
+        122,
+        9,
+        90,
+        30
+      ],
+      "ref": "e611a328d",
+      "tag": "button",
+      "text": "Export",
+      "title": "Export (⌘S)"
+    },
+    {
+      "bounds": [
+        226,
+        9,
+        97,
+        30
+      ],
+      "ref": "e6332faa0",
+      "tag": "button",
+      "text": "Edit All",
+      "title": "Edit existing content"
+    },
+    {
+      "bounds": [
+        1131,
+        9,
+        30,
+        30
+      ],
+      "ref": "e11a50d3a",
+      "tag": "button",
+      "title": "Add a text box"
+    },
+    {
+      "bounds": [
+        1165,
+        9,
+        30,
+        30
+      ],
+      "ref": "eb0c619f7",
+      "tag": "button",
+      "title": "Find & replace"
+    },
+    {
+      "bounds": [
+        1199,
+        9,
+        30,
+        30
+      ],
+      "ref": "e6915b359",
+      "tag": "button",
+      "title": "Add an image"
+    },
+    {
+      "bounds": [
+        1238,
+        9,
+        30,
+        30
+      ],
+      "ref": "e6b768012",
+      "tag": "button",
+      "title": "Show or hide the format panel"
+    },
+    {
+      "bounds": [
+        215,
+        63,
+        30,
+        30
+      ],
+      "ref": "eea168720",
+      "tag": "button",
+      "title": "Close"
+    },
+    {
+      "bounds": [
+        14,
+        103,
+        167,
+        30
+      ],
+      "placeholder": "Find",
+      "ref": "e5392364d",
+      "tag": "input",
+      "type": "text",
+      "value": "Harbor"
+    },
+    {
+      "bounds": [
+        187,
+        103,
+        26,
+        30
+      ],
+      "ref": "eea0260f8",
+      "tag": "button",
+      "title": "Previous match"
+    },
+    {
+      "bounds": [
+        219,
+        103,
+        26,
+        30
+      ],
+      "ref": "eab1ec198",
+      "tag": "button",
+      "title": "Next match"
+    },
+    {
+      "bounds": [
+        14,
+        143,
+        231,
+        30
+      ],
+      "placeholder": "Replace with",
+      "ref": "e5392364dx2",
+      "tag": "input",
+      "type": "text",
+      "value": "Port"
+    },
+    {
+      "bounds": [
+        14,
+        183,
+        104,
+        30
+      ],
+      "ref": "e28360a84",
+      "tag": "button",
+      "text": "Replace"
+    },
+    {
+      "bounds": [
+        124,
+        183,
+        121,
+        30
+      ],
+      "ref": "e900c4f53",
+      "tag": "button",
+      "text": "Replace All"
+    },
+    {
+      "bounds": [
+        14,
+        223,
+        13,
+        30
+      ],
+      "checked": true,
+      "label": "Match case",
+      "ref": "eef848e3b",
+      "tag": "input",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        14,
+        263,
+        13,
+        30
+      ],
+      "checked": false,
+      "label": "Whole word",
+      "ref": "ec1d138b9",
+      "tag": "input",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        14,
+        303,
+        13,
+        30
+      ],
+      "checked": false,
+      "label": "Ignore accents",
+      "ref": "e3eda8ed1",
+      "tag": "input",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        664,
+        133,
+        10,
+        10
+      ],
+      "ref": "e76bd4381",
+      "tag": "div",
+      "title": "Drag to rotate"
+    },
+    {
+      "bounds": [
+        432,
+        67,
+        30,
+        30
+      ],
+      "ref": "e2da35641",
+      "tag": "button",
+      "title": "Rotate left 90°"
+    },
+    {
+      "bounds": [
+        466,
+        67,
+        30,
+        30
+      ],
+      "ref": "e2f52e6aa",
+      "tag": "button",
+      "title": "Rotate right 90°"
+    },
+    {
+      "bounds": [
+        505,
+        67,
+        30,
+        30
+      ],
+      "ref": "ed951befb",
+      "tag": "button",
+      "title": "Duplicate"
+    },
+    {
+      "bounds": [
+        539,
+        67,
+        30,
+        30
+      ],
+      "ref": "e56a78f49",
+      "tag": "button",
+      "title": "Delete"
+    },
+    {
+      "bounds": [
+        1017,
+        119,
+        156,
+        27
+      ],
+      "options": [
+        {
+          "label": "Chrom Sans OTF",
+          "selected": true,
+          "value": "Chrom Sans OTF"
+        },
+        {
+          "label": "Helvetica",
+          "selected": false,
+          "value": "Helvetica"
+        }
+      ],
+      "ref": "e60847119",
+      "tag": "select",
+      "value": "Chrom Sans OTF"
+    },
+    {
+      "bounds": [
+        1180,
+        119,
+        64,
+        26
+      ],
+      "ref": "e97994ae4",
+      "tag": "input",
+      "title": "Font size",
+      "type": "number",
+      "value": "18"
+    },
+    {
+      "bounds": [
+        1244,
+        121,
+        16,
+        11
+      ],
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1244,
+        132,
+        16,
+        11
+      ],
+      "ref": "ea0fc21fdx2",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1017,
+        158,
+        247,
+        30
+      ],
+      "ref": "e7ec944fa",
+      "tag": "button",
+      "text": "System fonts",
+      "title": "List fonts installed on this device (Chromium)"
+    },
+    {
+      "bounds": [
+        1017,
+        243,
+        24,
+        24
+      ],
+      "ref": "ee28b3622",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        1047,
+        243,
+        24,
+        24
+      ],
+      "ref": "ee28b3622x2",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        1077,
+        243,
+        24,
+        24
+      ],
+      "ref": "ee28b3622x3",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        1107,
+        243,
+        24,
+        24
+      ],
+      "ref": "ee28b3622x4",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        1137,
+        243,
+        24,
+        24
+      ],
+      "ref": "ee28b3622x5",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        1167,
+        243,
+        24,
+        24
+      ],
+      "ref": "ee28b3622x6",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        1238,
+        242,
+        26,
+        26
+      ],
+      "ref": "eca1ea517",
+      "tag": "input",
+      "title": "Custom text color",
+      "type": "color",
+      "value": "#000000"
+    },
+    {
+      "bounds": [
+        1018,
+        323,
+        62,
+        32
+      ],
+      "ref": "e65dc8772",
+      "tag": "button",
+      "title": "Align left"
+    },
+    {
+      "bounds": [
+        1080,
+        323,
+        62,
+        32
+      ],
+      "ref": "e1aa4508e",
+      "tag": "button",
+      "title": "Align center"
+    },
+    {
+      "bounds": [
+        1141,
+        323,
+        62,
+        32
+      ],
+      "ref": "ed46fa8e5",
+      "tag": "button",
+      "title": "Align right"
+    },
+    {
+      "bounds": [
+        1203,
+        323,
+        61,
+        32
+      ],
+      "ref": "e8cb2905c",
+      "tag": "button",
+      "title": "Justify"
+    },
+    {
+      "bounds": [
+        1017,
+        410,
+        36,
+        32
+      ],
+      "ref": "ee8d00dd9",
+      "tag": "button",
+      "title": "Bold"
+    },
+    {
+      "bounds": [
+        1059,
+        410,
+        36,
+        32
+      ],
+      "ref": "e7d420148",
+      "tag": "button",
+      "title": "Italic"
+    },
+    {
+      "bounds": [
+        1101,
+        410,
+        36,
+        32
+      ],
+      "ref": "e342e6548",
+      "tag": "button",
+      "title": "Underline"
+    },
+    {
+      "bounds": [
+        1144,
+        410,
+        36,
+        32
+      ],
+      "ref": "e8217683d",
+      "tag": "button",
+      "title": "Strikethrough"
+    },
+    {
+      "bounds": [
+        1186,
+        410,
+        36,
+        32
+      ],
+      "ref": "e44383320",
+      "tag": "button",
+      "title": "Superscript"
+    },
+    {
+      "bounds": [
+        1228,
+        410,
+        36,
+        32
+      ],
+      "ref": "ed4089d53",
+      "tag": "button",
+      "title": "Subscript"
+    },
+    {
+      "bounds": [
+        1018,
+        497,
+        32,
+        26
+      ],
+      "ref": "eef68435c",
+      "tag": "button",
+      "title": "Toggle bulleted item"
+    },
+    {
+      "bounds": [
+        1050,
+        497,
+        31,
+        26
+      ],
+      "ref": "ef5298f81",
+      "tag": "button",
+      "title": "Toggle numbered item"
+    },
+    {
+      "bounds": [
+        1088,
+        497,
+        105,
+        27
+      ],
+      "options": [
+        {
+          "label": "1. 2. 3.",
+          "selected": true,
+          "value": "1"
+        },
+        {
+          "label": "a. b. c.",
+          "selected": false,
+          "value": "a"
+        },
+        {
+          "label": "A. B. C.",
+          "selected": false,
+          "value": "A"
+        },
+        {
+          "label": "i. ii. iii.",
+          "selected": false,
+          "value": "i"
+        },
+        {
+          "label": "I. II. III.",
+          "selected": false,
+          "value": "I"
+        }
+      ],
+      "ref": "e21a90512",
+      "tag": "select",
+      "title": "Numbered-list marker style",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        1200,
+        497,
+        32,
+        26
+      ],
+      "ref": "e39891743",
+      "tag": "button",
+      "title": "Decrease list indent (⇧Tab)"
+    },
+    {
+      "bounds": [
+        1232,
+        497,
+        31,
+        26
+      ],
+      "ref": "e2a7f25c0",
+      "tag": "button",
+      "title": "Increase list indent (Tab)"
+    },
+    {
+      "bounds": [
+        1017,
+        579,
+        26,
+        26
+      ],
+      "ref": "ee3be33dc",
+      "tag": "input",
+      "title": "Text outline color",
+      "type": "color",
+      "value": "#000000"
+    },
+    {
+      "bounds": [
+        1050,
+        579,
+        54,
+        26
+      ],
+      "ref": "e6e5e68be",
+      "tag": "input",
+      "title": "Outline width (0 = none)",
+      "type": "number",
+      "value": "0.0"
+    },
+    {
+      "bounds": [
+        1104,
+        581,
+        16,
+        11
+      ],
+      "ref": "ea0fc21fdx3",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1104,
+        592,
+        16,
+        11
+      ],
+      "ref": "ea0fc21fdx4",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1190,
+        661,
+        54,
+        26
+      ],
+      "label": "Line Spacing",
+      "ref": "e6c9af197",
+      "tag": "input",
+      "type": "number",
+      "value": "1.20"
+    },
+    {
+      "bounds": [
+        1244,
+        663,
+        16,
+        11
+      ],
+      "ref": "ea0fc21fdx5",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1244,
+        674,
+        16,
+        11
+      ],
+      "ref": "ea0fc21fdx6",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1190,
+        699,
+        54,
+        26
+      ],
+      "label": "Paragraph Spacing",
+      "ref": "ecd1d722b",
+      "tag": "input",
+      "type": "number",
+      "value": "0"
+    },
+    {
+      "bounds": [
+        1244,
+        701,
+        16,
+        11
+      ],
+      "ref": "ea0fc21fdx7",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1244,
+        712,
+        16,
+        11
+      ],
+      "ref": "ea0fc21fdx8",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1190,
+        737,
+        54,
+        26
+      ],
+      "label": "Character Spacing",
+      "ref": "eda179398",
+      "tag": "input",
+      "type": "number",
+      "value": "0.0"
+    },
+    {
+      "bounds": [
+        1244,
+        739,
+        16,
+        11
+      ],
+      "ref": "ea0fc21fdx9",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1244,
+        750,
+        16,
+        11
+      ],
+      "ref": "ea0fc21fdx10",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1190,
+        775,
+        54,
+        26
+      ],
+      "label": "Word Spacing",
+      "ref": "e98b03d99",
+      "tag": "input",
+      "type": "number",
+      "value": "0.0"
+    },
+    {
+      "bounds": [
+        1244,
+        777,
+        16,
+        11
+      ],
+      "ref": "ea0fc21fdx11",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1244,
+        788,
+        16,
+        11
+      ],
+      "ref": "ea0fc21fdx12",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1190,
+        813,
+        54,
+        26
+      ],
+      "label": "Horizontal Scale %",
+      "ref": "ee4292369",
+      "tag": "input",
+      "type": "number",
+      "value": "100"
+    },
+    {
+      "bounds": [
+        1244,
+        815,
+        16,
+        11
+      ],
+      "ref": "ea0fc21fdx13",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1244,
+        826,
+        16,
+        11
+      ],
+      "ref": "ea0fc21fdx14",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1190,
+        851,
+        54,
+        16
+      ],
+      "label": "First-line Indent",
+      "ref": "e4396a49b",
+      "tag": "input",
+      "type": "number",
+      "value": "0"
+    },
+    {
+      "bounds": [
+        1244,
+        853,
+        16,
+        11
+      ],
+      "ref": "ea0fc21fdx15",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1244,
+        864,
+        16,
+        3
+      ],
+      "ref": "ea0fc21fdx16",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        10,
+        871,
+        66,
+        26
+      ],
+      "ref": "edc1a0bc6",
+      "tag": "button",
+      "text": "227%",
+      "title": "Zoom presets"
+    },
+    {
+      "bounds": [
+        78,
+        871,
+        26,
+        26
+      ],
+      "ref": "e49aadc59",
+      "tag": "button",
+      "title": "Zoom out"
+    },
+    {
+      "bounds": [
+        106,
+        871,
+        26,
+        26
+      ],
+      "ref": "ebb274ece",
+      "tag": "button",
+      "title": "Zoom in"
+    },
+    {
+      "bounds": [
+        134,
+        871,
+        26,
+        26
+      ],
+      "ref": "eac153d06",
+      "tag": "button",
+      "title": "Fit page"
+    },
+    {
+      "bounds": [
+        582,
+        871,
+        26,
+        26
+      ],
+      "ref": "e6b7a0a40",
+      "tag": "button",
+      "title": "Previous page"
+    },
+    {
+      "bounds": [
+        610,
+        872,
+        44,
+        24
+      ],
+      "ref": "e41f71173",
+      "tag": "input",
+      "title": "Type a page number and press Enter",
+      "type": "number",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        672,
+        871,
+        26,
+        26
+      ],
+      "ref": "ee37732e0",
+      "tag": "button",
+      "title": "Next page"
+    },
+    {
+      "bounds": [
+        1216,
+        871,
+        26,
+        26
+      ],
+      "ref": "ec695e98a",
+      "tag": "button",
+      "title": "Document properties"
+    },
+    {
+      "bounds": [
+        1244,
+        871,
+        26,
+        26
+      ],
+      "ref": "e0091ee1f",
+      "tag": "button",
+      "title": "Hide bar"
+    },
+    {
+      "bounds": [
+        473,
+        472,
+        334,
+        40
+      ],
+      "ref": "e2a50e308",
+      "tag": "button",
+      "text": "OK"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "search (edited).pdf",
+      "ref": "dbfbd8848e233",
+      "size": 7967
+    }
+  ],
+  "inputs": [
+    "search.pdf",
+    "single.pdf"
+  ],
+  "text": "BentoPDF\nOpen\nExport\nEdit All\nFIND & REPLACE\nReplace\nReplace All\nMatch case\nWhole word\nIgnore accents\nReplaced 5\nFORMAT\nFONT\nChrom Sans OTF\nHelvetica\nSystem fonts\nCOLOR\nALIGNMENT\nSTYLE\nLISTS\n1. 2. 3.\na. b. c.\nA. B. C.\ni. ii. iii.\nI. II. III.\nOUTLINE\nSPACING\nLine Spacing\nParagraph Spacing\nCharacter Spacing\nWord Spacing\nHorizontal Scale %\nFirst-line Indent\nHanging Indent\nDIRECTION\nAuto\nLTR\nRTL\n227%\n/ 1\nSuccess\n\nPDF saved successfully! (7 KB)\n\nOK",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/edit-pdf-text.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

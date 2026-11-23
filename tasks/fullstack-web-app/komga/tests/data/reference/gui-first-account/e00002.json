@@ -1,0 +1,262 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        260,
+        8,
+        48,
+        48
+      ],
+      "ref": "e3565697427",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        308,
+        8,
+        956,
+        48
+      ],
+      "expanded": false,
+      "ref": "e3932625320",
+      "role": "combobox",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "bounds": [
+        348,
+        16,
+        900,
+        32
+      ],
+      "placeholder": "Search",
+      "ref": "e3492990951",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        8,
+        73,
+        240,
+        40
+      ],
+      "href": "/dashboard",
+      "ref": "e4053023811",
+      "role": null,
+      "tag": "a",
+      "text": "Home"
+    },
+    {
+      "bounds": [
+        8,
+        117,
+        240,
+        40
+      ],
+      "href": "/libraries/all",
+      "ref": "e2922887771",
+      "role": null,
+      "tag": "a",
+      "text": "Libraries"
+    },
+    {
+      "bounds": [
+        168,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3616030284",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        204,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3666363141",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        161,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e1084188748",
+      "role": "button",
+      "tag": "div",
+      "text": "Import"
+    },
+    {
+      "bounds": [
+        8,
+        201,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e3453248592",
+      "role": "button",
+      "tag": "div",
+      "text": "Media"
+    },
+    {
+      "bounds": [
+        8,
+        241,
+        240,
+        40
+      ],
+      "href": "/history",
+      "ref": "e402132000",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        8,
+        285,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e3070675700",
+      "role": "button",
+      "tag": "div",
+      "text": "Server"
+    },
+    {
+      "bounds": [
+        8,
+        325,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e1489892745",
+      "role": "button",
+      "tag": "div",
+      "text": "My Account"
+    },
+    {
+      "bounds": [
+        8,
+        409,
+        240,
+        40
+      ],
+      "href": "/next",
+      "ref": "e7341195",
+      "role": null,
+      "tag": "a",
+      "text": "Try the new UI"
+    },
+    {
+      "bounds": [
+        72,
+        486,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e3578464648",
+      "role": "button",
+      "tag": "div",
+      "text": "Theme\nSystem"
+    },
+    {
+      "bounds": [
+        129,
+        486,
+        83,
+        26
+      ],
+      "label": "Theme",
+      "ref": "e2327238681",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        72,
+        550,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e952102733",
+      "role": "button",
+      "tag": "div",
+      "text": "Translation\nEnglish"
+    },
+    {
+      "bounds": [
+        128,
+        550,
+        84,
+        26
+      ],
+      "label": "Translation",
+      "ref": "e932444405",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        701,
+        564,
+        134,
+        36
+      ],
+      "ref": "e4178479879",
+      "role": null,
+      "tag": "button",
+      "text": "ADD LIBRARY",
+      "type": "button"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Komga\nHome\nLibraries\nImport\nMedia\nHistory\nServer\nMy Account\nLog Out\nTry the new UI\nTheme\nSystem\nTranslation\nEnglish\nWelcome to Komga\n\nNo libraries have been added yet!\n\nADD LIBRARY",
+  "text_truncated": false,
+  "title": "Komga",
+  "url": "/welcome",
+  "viewport": [
+    1280,
+    900
+  ]
+}

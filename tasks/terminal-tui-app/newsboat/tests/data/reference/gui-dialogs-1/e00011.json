@@ -1,0 +1,192 @@
+{
+  "cursor": {
+    "column": 0,
+    "hidden": true,
+    "row": 1
+  },
+  "process": "running",
+  "screen": [
+    "00|Newsboat 2.45.0 - Dialogs",
+    "01|   1   Feed List - 3 unread, 3 total",
+    "02|   2   Article List - Tech Daily",
+    "03|   3 * Article - Filesystem benchmarks",
+    "04|",
+    "05|",
+    "06|",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|",
+    "12|",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|",
+    "19|",
+    "20|",
+    "21|",
+    "22|",
+    "23|",
+    "24|",
+    "25|",
+    "26|",
+    "27|",
+    "28|",
+    "29|",
+    "30|",
+    "31|",
+    "32|",
+    "33|",
+    "34|q:Close ENTER:Goto Dialog ^X:Close Dialog",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": "Newsboat 2.45.0 - Dialogs                                                                                               "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 1,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": "   1   Feed List - 3 unread, 3 total                                                                                    "
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": "q"
+    },
+    {
+      "columns": [
+        1,
+        2
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        2,
+        7
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Close"
+    },
+    {
+      "columns": [
+        7,
+        13
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": " ENTER"
+    },
+    {
+      "columns": [
+        13,
+        14
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        14,
+        25
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Goto Dialog"
+    },
+    {
+      "columns": [
+        25,
+        28
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": " ^X"
+    },
+    {
+      "columns": [
+        28,
+        29
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        29,
+        41
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Close Dialog"
+    }
+  ]
+}

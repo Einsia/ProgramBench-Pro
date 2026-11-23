@@ -1,0 +1,311 @@
+{
+  "cursor": {
+    "column": 34,
+    "hidden": true,
+    "row": 35
+  },
+  "process": "running",
+  "screen": [
+    "00| Tasks   Projects   Timesheet   Calendar                                                                   newest [none]",
+    "01|  ID Active Created    Age P Project      Tags        Sch Due        Description",
+    "02|",
+    "03|   4 1h     2026-05-12 1d  M Work.Code    code            2026-05-13 Review PR",
+    "04|•  5        2026-05-11 2d  L              errand,shop     2026-05-14 Buy groceries",
+    "05|  12        2026-05-08 5d    Work         social          2026-05-13 Team lunch",
+    "06|   9        2026-05-06 7d                                            Fix bike",
+    "07|   3        2026-05-05 8d    Home.Repairs phone           2026-05-10 Call plumber",
+    "08|   6        2026-05-02 11d   Travel                   6d             Plan trip",
+    "09|   1        2026-05-01 12d H Home         bills           2026-05-15 Pay rent",
+    "10|  10        2026-04-25 2w  L              garden          2026-05-20 Water plants",
+    "11|   2        2026-04-20 3w    Work                                    Write report",
+    "12|   8        2026-03-01 10w                                           Read book",
+    "13|  11        2026-02-10 3mo   Music        hobby                      Learn piano",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────",
+    "19|",
+    "20|Name                  Value",
+    "21|--------------------- ------------------------------------------------------------------------------------------",
+    "22|ID                    5",
+    "23|Description           Buy groceries",
+    "24|Status                Pending",
+    "25|This task is blocking 9 Fix bike",
+    "26|Entered               2026-05-11 08:00:00 (2d)",
+    "27|Due                   2026-05-14 00:00:00",
+    "28|Last modified         2026-05-13 10:00:00 ()",
+    "29|Tags                  errand shop",
+    "30|Virtual tags          BLOCKING DUE MONTH PENDING PRIORITY QUARTER READY TAGGED TOMORROW UDA UNBLOCKED WEEK YEAR",
+    "31|UUID                  00000005-0000-4000-8000-000000000005",
+    "32|Urgency               19.24",
+    "33|Priority              L",
+    "34|Filter Tasks",
+    "35|status:pending -WAITING"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        1,
+        6
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "reverse"
+      ],
+      "text": "Tasks"
+    },
+    {
+      "columns": [
+        6,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "reverse"
+      ],
+      "text": "   Projects   Timesheet   Calendar                                                                   newest [none]"
+    },
+    {
+      "columns": [
+        0,
+        4
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "  ID"
+    },
+    {
+      "columns": [
+        5,
+        11
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Active"
+    },
+    {
+      "columns": [
+        12,
+        22
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Created   "
+    },
+    {
+      "columns": [
+        23,
+        26
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Age"
+    },
+    {
+      "columns": [
+        27,
+        28
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "P"
+    },
+    {
+      "columns": [
+        29,
+        41
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Project     "
+    },
+    {
+      "columns": [
+        42,
+        53
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Tags       "
+    },
+    {
+      "columns": [
+        54,
+        57
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Sch"
+    },
+    {
+      "columns": [
+        58,
+        68
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Due       "
+    },
+    {
+      "columns": [
+        69,
+        118
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Description                                      "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 3,
+      "style": [
+        "fg=ffffff",
+        "bg=d75f00"
+      ],
+      "text": "   4 1h     2026-05-12 1d  M Work.Code    code            2026-05-13 Review PR                                        "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 4,
+      "style": [
+        "bold",
+        "fg=cd0000",
+        "bg=ffffff"
+      ],
+      "text": "•  5        2026-05-11 2d  L              errand,shop     2026-05-14 Buy groceries                                    "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 5,
+      "style": [
+        "fg=d70000"
+      ],
+      "text": "  12        2026-05-08 5d    Work         social          2026-05-13 Team lunch                                       "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 6,
+      "style": [
+        "fg=e5e5e5",
+        "bg=7f7f7f"
+      ],
+      "text": "   9        2026-05-06 7d                                            Fix bike                                         "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 7,
+      "style": [
+        "fg=ff0000"
+      ],
+      "text": "   3        2026-05-05 8d    Home.Repairs phone           2026-05-10 Call plumber                                     "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 8,
+      "style": [
+        "bg=00005f"
+      ],
+      "text": "   6        2026-05-02 11d   Travel                   6d             Plan trip                                        "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 9,
+      "style": [
+        "fg=cd0000"
+      ],
+      "text": "   1        2026-05-01 12d H Home         bills           2026-05-15 Pay rent                                         "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 10,
+      "style": [
+        "fg=cd0000",
+        "bg=1c1c1c"
+      ],
+      "text": "  10        2026-04-25 2w  L              garden          2026-05-20 Water plants                                     "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 12,
+      "style": [
+        "bg=1c1c1c"
+      ],
+      "text": "   8        2026-03-01 10w                                           Read book                                        "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 13,
+      "style": [
+        "fg=00af5f"
+      ],
+      "text": "  11        2026-02-10 3mo   Music        hobby                      Learn piano                                      "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "reverse"
+      ],
+      "text": "Filter Tasks                                                                                                            "
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "reference_paths": [
+    "/app/solution/drawdb-1.8.2-dist.tar.gz",
+    "/app/solution/server.py"
+  ],
+  "shared_solution_files": [
+    {
+      "file": "LICENSES/third-party/@lexical__clipboard@0.12.6/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/scheduler/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/ms@2.1.3/license.md",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/send/node_modules/ms/license.md. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@types__debug@4.1.12/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/@types/estree/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@lexical__rich-text@0.12.6/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/scheduler/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@lexical__html@0.12.6/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/scheduler/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/dompurify@3.4.13/LICENSE-MPL",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /usr/share/common-licenses/MPL-2.0. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/dompurify@3.4.13/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /usr/share/common-licenses/Apache-2.0. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@types__pegjs@0.10.6/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/@types/estree/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/math-intrinsics@1.1.0/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/math-intrinsics/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@lexical__utils@0.12.6/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/scheduler/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@types__mdx@2.0.13/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/@types/estree/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@types__estree@1.0.8/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/@types/estree/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@types__prop-types@15.7.15/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/@types/estree/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/gopd@1.2.0/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/gopd/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@types__pako@2.0.4/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/@types/estree/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@lexical__history@0.12.6/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/scheduler/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@types__trusted-types@2.0.7/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/@types/estree/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@types__mdast@4.0.4/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/@types/estree/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/es-errors@1.3.0/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/es-object-atoms/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/source-map@0.7.6/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/source-map-js/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/safe-buffer@5.1.2/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/safe-buffer/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@lexical__yjs@0.12.6/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/scheduler/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@lexical__code@0.12.6/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/scheduler/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/es-define-property@1.0.1/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/es-object-atoms/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/mime-db@1.52.0/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/mime-db/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@lexical__dragon@0.12.6/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/scheduler/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@types__unist@2.0.11/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/@types/estree/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@types__unist@3.0.3/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/@types/estree/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@lexical__plain-text@0.12.6/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/scheduler/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@lexical__markdown@0.12.6/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/scheduler/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@lexical__react@0.12.6/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/scheduler/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/dunder-proto@1.0.1/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/math-intrinsics/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@lexical__list@0.12.6/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/scheduler/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@lexical__text@0.12.6/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/scheduler/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@lexical__selection@0.12.6/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/scheduler/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/use-sync-external-store@1.5.0/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/scheduler/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/call-bind-apply-helpers@1.0.2/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/es-object-atoms/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@types__react@18.3.24/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/@types/estree/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@lexical__overflow@0.12.6/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/scheduler/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@lexical__hashtag@0.12.6/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/scheduler/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@lexical__mark@0.12.6/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/scheduler/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/hasown@2.0.4/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/hasown/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/readable-stream@2.3.8/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/readable-stream/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@types__hast@3.0.4/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/@types/estree/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/string_decoder@1.1.1/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/string_decoder/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/util-deprecate@1.0.2/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/util-deprecate/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/cookie@1.1.1/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/cookie/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@lexical__table@0.12.6/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/scheduler/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/inherits@2.0.4/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/inherits/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@lexical__offset@0.12.6/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/scheduler/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/function-bind@1.1.2/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/function-bind/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/lexical@0.12.6/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/scheduler/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@types__estree-jsx@1.0.5/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/@types/estree/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@lexical__link@0.12.6/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/scheduler/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/object-assign@4.1.1/license",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/object-assign/license. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@types__ms@2.1.0/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/@types/estree/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/get-proto@1.0.1/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/get-proto/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/es-object-atoms@1.1.1/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/es-object-atoms/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/@types__raf@3.4.3/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/@types/estree/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/mime-types@2.1.35/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/mime-types/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/has-symbols@1.1.0/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/has-symbols/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/get-intrinsic@1.3.0/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /opt/node_modules/get-intrinsic/LICENSE. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/monaco-editor@0.52.2/LICENSE",
+      "reason": "Verbatim license supplied with the public Monaco Editor 0.52.2 resource mirror at /opt/cdn-mirror/monaco-editor@0.52.2/LICENSE, shared by all browser targets. No implementation is exempted."
+    },
+    {
+      "file": "LICENSES/third-party/lodash@4.18.1/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared system/development dependency at /usr/share/nodejs/lodash-cli/template/license.jst. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/lodash-es@4.18.1/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared system/development dependency at /usr/share/nodejs/lodash-cli/template/license.jst. No implementation is shared."
+    }
+  ]
+}

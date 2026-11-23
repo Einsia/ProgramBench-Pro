@@ -1,0 +1,217 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        13,
+        109,
+        26,
+        26
+      ],
+      "ref": "e546c927e",
+      "tag": "button",
+      "title": "Format JSON data, with proper indentation and line feeds (Ctrl+I)"
+    },
+    {
+      "bounds": [
+        43,
+        109,
+        26,
+        26
+      ],
+      "ref": "e9b780019",
+      "tag": "button",
+      "title": "Compact JSON data, remove all whitespaces (Ctrl+Shift+I)"
+    },
+    {
+      "bounds": [
+        73,
+        109,
+        26,
+        26
+      ],
+      "ref": "ea12a318a",
+      "tag": "button",
+      "title": "Sort contents"
+    },
+    {
+      "bounds": [
+        103,
+        109,
+        26,
+        26
+      ],
+      "ref": "e35050c81",
+      "tag": "button",
+      "title": "Filter, sort, or transform contents"
+    },
+    {
+      "bounds": [
+        133,
+        109,
+        26,
+        26
+      ],
+      "ref": "e877cc316",
+      "tag": "button",
+      "title": "Repair JSON: fix quotes and escape characters, remove comments and JSONP notation, turn JavaScript objects into JSON."
+    },
+    {
+      "bounds": [
+        171,
+        109,
+        26,
+        26
+      ],
+      "disabled": true,
+      "ref": "ebbb5bcf1",
+      "tag": "button",
+      "title": "Undo last action (Ctrl+Z)"
+    },
+    {
+      "bounds": [
+        201,
+        109,
+        26,
+        26
+      ],
+      "disabled": true,
+      "ref": "e0a2b66da",
+      "tag": "button",
+      "title": "Redo (Ctrl+Shift+Z)"
+    },
+    {
+      "bounds": [
+        239,
+        109,
+        62,
+        26
+      ],
+      "ref": "e23f38dbc",
+      "tag": "button",
+      "text": "Code ▾",
+      "title": "Switch Editor Mode"
+    },
+    {
+      "bounds": [
+        512,
+        105,
+        95,
+        35
+      ],
+      "ref": "e5a4fce2f",
+      "tag": "a",
+      "text": "powered by ace"
+    },
+    {
+      "aria": "Toggle code folding, rows 1 through 12",
+      "bounds": [
+        47,
+        140,
+        11,
+        18
+      ],
+      "expanded": true,
+      "ref": "ebbb3f72a",
+      "role": "button",
+      "tag": "span",
+      "title": "Fold code"
+    },
+    {
+      "aria": "Warning, read annotations row 4",
+      "bounds": [
+        9,
+        194,
+        18,
+        18
+      ],
+      "ref": "ed985a419",
+      "role": "button",
+      "tag": "span"
+    },
+    {
+      "aria": "Warning, read annotations row 5",
+      "bounds": [
+        9,
+        212,
+        18,
+        18
+      ],
+      "ref": "edb4a73d2",
+      "role": "button",
+      "tag": "span"
+    },
+    {
+      "aria": "Toggle code folding, rows 7 through 11",
+      "bounds": [
+        47,
+        248,
+        11,
+        18
+      ],
+      "expanded": true,
+      "ref": "e07be8855",
+      "role": "button",
+      "tag": "span",
+      "title": "Fold code"
+    },
+    {
+      "aria": "Warning, read annotations row 7",
+      "bounds": [
+        9,
+        248,
+        18,
+        18
+      ],
+      "ref": "e9e1d805c",
+      "role": "button",
+      "tag": "span"
+    },
+    {
+      "aria": "Warning, read annotations row 10",
+      "bounds": [
+        9,
+        302,
+        18,
+        18
+      ],
+      "ref": "e5fb70808",
+      "role": "button",
+      "tag": "span"
+    },
+    {
+      "bounds": [
+        595,
+        578,
+        8,
+        26
+      ],
+      "ref": "e21639507",
+      "tag": "span",
+      "text": "5"
+    },
+    {
+      "bounds": [
+        571,
+        579,
+        24,
+        24
+      ],
+      "ref": "eb32624f3",
+      "tag": "span",
+      "title": "5 schema validation error(s) found"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "drawing": [],
+  "drawing_truncated": false,
+  "text": "JSON schema validation\nThis example demonstrates onValidationError callback.\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n{\n\"firstName\"\n:\n\"John\"\n,\n\"lastName\"\n:\n\"Doe\"\n,\n\"gender\"\n: null\n,\n\"age\"\n:\n\"28\"\n,\n\"availableToHire\"\n:\ntrue\n,\n\"job\"\n:\n{\n\"company\"\n:\n\"freelance\"\n,\n\"role\"\n:\n\"developer\"\n,\n\"salary\"\n:\n100\n}\nLn:\n1\nCol:\n1\nonValidationError\nwas called with 5 errors\nopen the browser console to see the error objects",
+  "text_truncated": false,
+  "title": "JSONEditor | onValidationError",
+  "url": "/examples/22_on_validation_event.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

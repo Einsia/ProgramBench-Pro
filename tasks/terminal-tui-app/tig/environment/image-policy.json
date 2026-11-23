@@ -1,0 +1,12 @@
+{
+  "reference_paths": [
+    "/app/solution/tig",
+    "/app/solution/confine.so"
+  ],
+  "shared_solution_files": [
+    {
+      "file": "LICENSE",
+      "reason": "The GPL licence text is also installed for general system packages; it contains no product implementation."
+    }
+  ]
+}

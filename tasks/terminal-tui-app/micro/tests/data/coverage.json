@@ -1,0 +1,362 @@
+{
+  "counts": {
+    "assertions": 1421,
+    "backend": 1295,
+    "checkpoints": 1112,
+    "features": 24,
+    "frontend": 126,
+    "gui_episodes": 119,
+    "program_episodes": 106,
+    "episodes": 225
+  },
+  "features": {
+    "actions": {
+      "assertions": 97,
+      "episodes": [
+        "act-move-1",
+        "act-move-2",
+        "act-select-1",
+        "act-edit-1",
+        "act-edit-2",
+        "act-edit-3",
+        "act-state-1",
+        "act-state-2",
+        "act-panes-1",
+        "act-panes-2"
+      ]
+    },
+    "autocomplete": {
+      "assertions": 10,
+      "episodes": [
+        "complete-1",
+        "gui-complete"
+      ]
+    },
+    "cli": {
+      "assertions": 23,
+      "episodes": [
+        "cli-print-1",
+        "cli-args-1",
+        "cli-args-2"
+      ]
+    },
+    "command-bar": {
+      "assertions": 69,
+      "episodes": [
+        "prompt-1",
+        "prompt-2",
+        "prompt-3",
+        "cmdkey-1",
+        "cmdkey-2",
+        "cmdkey-3"
+      ]
+    },
+    "commands": {
+      "assertions": 40,
+      "episodes": [
+        "cmd-show-1",
+        "cmd-misc-1",
+        "cmd-misc-2",
+        "cmd-misc-3"
+      ]
+    },
+    "display": {
+      "assertions": 78,
+      "episodes": [
+        "opt-display-1",
+        "opt-display-2",
+        "opt-display-3",
+        "opt-display-4",
+        "opt-status-1",
+        "plug-diff-1",
+        "view-scroll-1",
+        "usercolors-1",
+        "gui-ruler-toggle"
+      ]
+    },
+    "editing": {
+      "assertions": 76,
+      "episodes": [
+        "gui-insert-top",
+        "gui-delete-line",
+        "gui-fix-typo",
+        "gui-append",
+        "gui-join",
+        "gui-duplicate",
+        "gui-move-up",
+        "gui-indent",
+        "gui-outdent",
+        "gui-cut-paste",
+        "gui-copy-word",
+        "gui-delete-word",
+        "gui-new-line",
+        "gui-replace-all-text",
+        "gui-swap",
+        "gui-delete-range",
+        "gui-paste-block",
+        "gui-undo-last",
+        "gui-comment",
+        "gui-rename-var",
+        "gui-prefix-lines",
+        "gui-suffix-lines",
+        "gui-multi-word",
+        "gui-delete-to-eol",
+        "gui-delete-word-left",
+        "gui-replace-line",
+        "gui-split-line",
+        "gui-indent-spaces",
+        "gui-trailing",
+        "gui-uncomment",
+        "gui-comment-block",
+        "gui-retab",
+        "gui-duplicate-block",
+        "gui-move-block-down",
+        "gui-cut-two",
+        "gui-overwrite",
+        "gui-eofnewline",
+        "gui-paste-indent"
+      ]
+    },
+    "files": {
+      "assertions": 98,
+      "episodes": [
+        "cmd-save-1",
+        "cmd-save-2",
+        "cmd-save-3",
+        "cmd-open-1",
+        "opt-files-1",
+        "opt-files-2",
+        "gui-crlf",
+        "gui-latin1",
+        "gui-save-as",
+        "gui-new-file",
+        "gui-open",
+        "gui-save-all",
+        "gui-mkparents",
+        "gui-quit-discard",
+        "gui-open-subdir",
+        "gui-quit-save",
+        "gui-save-copy-continue",
+        "gui-crlf-to-unix",
+        "gui-utf16"
+      ]
+    },
+    "filetypes": {
+      "assertions": 148,
+      "episodes": [
+        "filetype-1",
+        "filetype-2",
+        "filetype-3",
+        "filetype-4",
+        "syntax-1",
+        "filetype-limit-1",
+        "syntax-more-1",
+        "syntax-more-2",
+        "usersyntax-1",
+        "userdefault-1"
+      ]
+    },
+    "help": {
+      "assertions": 8,
+      "episodes": [
+        "userhelp-1",
+        "gui-help-topic",
+        "gui-help-close",
+        "gui-help-vsplit"
+      ]
+    },
+    "keybindings": {
+      "assertions": 67,
+      "episodes": [
+        "cmd-showkey-1",
+        "cmd-showkey-2",
+        "cmd-bind-1",
+        "cmd-bind-2",
+        "act-syntax-1",
+        "act-syntax-2",
+        "gui-bind-save",
+        "gui-bind-delete",
+        "gui-unbind",
+        "gui-showkey"
+      ]
+    },
+    "keys": {
+      "assertions": 160,
+      "episodes": [
+        "keys-move-1",
+        "keys-move-2",
+        "keys-move-3",
+        "keys-edit-1",
+        "keys-edit-2",
+        "keys-edit-3",
+        "keys-edit-4",
+        "keys-select-1",
+        "keys-select-2"
+      ]
+    },
+    "macros": {
+      "assertions": 8,
+      "episodes": [
+        "macro-1",
+        "gui-macro"
+      ]
+    },
+    "mouse": {
+      "assertions": 20,
+      "episodes": [
+        "mouse-1",
+        "mouse-2"
+      ]
+    },
+    "multicursor": {
+      "assertions": 27,
+      "episodes": [
+        "multi-1",
+        "multi-2",
+        "gui-cursors-down",
+        "gui-delete-occurrences"
+      ]
+    },
+    "navigation": {
+      "assertions": 32,
+      "episodes": [
+        "cmd-goto-1",
+        "cmd-goto-2",
+        "gui-goto",
+        "gui-goto-col",
+        "gui-end",
+        "gui-brace",
+        "gui-goto-last-but-two",
+        "gui-paragraph",
+        "gui-page-down",
+        "gui-word-right"
+      ]
+    },
+    "options": {
+      "assertions": 136,
+      "episodes": [
+        "cmd-set-1",
+        "cmd-set-2",
+        "cmd-set-3",
+        "cmd-toggle-1",
+        "opt-edit-1",
+        "opt-edit-2",
+        "opt-search-1",
+        "opt-life-1",
+        "opt-life-2",
+        "opt-life-3",
+        "gui-tabsize",
+        "gui-ruler-off",
+        "gui-softwrap",
+        "gui-tabstospaces",
+        "gui-colorscheme",
+        "gui-relativeruler",
+        "gui-scrollbar",
+        "gui-showchars",
+        "gui-keymenu",
+        "gui-statusline-off",
+        "gui-local-option",
+        "gui-autoindent-off",
+        "gui-cursorline-off",
+        "gui-colorcolumn",
+        "gui-wordwrap",
+        "gui-filetype",
+        "gui-ignorecase",
+        "gui-reset-option",
+        "gui-toggle-option",
+        "gui-set-then-check"
+      ]
+    },
+    "persistence": {
+      "assertions": 16,
+      "episodes": [
+        "cli-persist-1",
+        "cli-persist-2",
+        "cli-persist-3"
+      ]
+    },
+    "plugins": {
+      "assertions": 71,
+      "episodes": [
+        "plug-comment-1",
+        "plug-comment-2",
+        "plug-comment-3",
+        "plug-comment-4",
+        "plug-autoclose-1",
+        "plug-ftoptions-1",
+        "gui-autoclose"
+      ]
+    },
+    "search": {
+      "assertions": 100,
+      "episodes": [
+        "find-1",
+        "find-2",
+        "find-3",
+        "replace-1",
+        "replace-2",
+        "replace-3",
+        "regex-1",
+        "gui-find",
+        "gui-find-next",
+        "gui-replaceall",
+        "gui-replace-one",
+        "gui-replace-regex",
+        "gui-hlsearch",
+        "gui-find-backwards",
+        "gui-find-literal",
+        "gui-replace-in-selection",
+        "gui-replace-case",
+        "gui-find-then-replace"
+      ]
+    },
+    "settings": {
+      "assertions": 16,
+      "episodes": [
+        "opt-set-1",
+        "opt-set-2"
+      ]
+    },
+    "splits-tabs": {
+      "assertions": 77,
+      "episodes": [
+        "cmd-split-1",
+        "cmd-split-2",
+        "view-split-1",
+        "view-tab-1",
+        "gui-vsplit",
+        "gui-hsplit",
+        "gui-tab",
+        "gui-close-split",
+        "gui-switch-tab",
+        "gui-tabmove",
+        "gui-edit-split",
+        "gui-close-middle-tab",
+        "gui-split-switch",
+        "gui-unsplit",
+        "gui-new-tab-save",
+        "gui-close-tab-save",
+        "gui-tab-last",
+        "gui-tab-roundtrip",
+        "gui-split-then-close"
+      ]
+    },
+    "text": {
+      "assertions": 23,
+      "episodes": [
+        "text-1",
+        "text-2"
+      ]
+    },
+    "undo": {
+      "assertions": 21,
+      "episodes": [
+        "undo-1",
+        "gui-edit-undo-redo"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

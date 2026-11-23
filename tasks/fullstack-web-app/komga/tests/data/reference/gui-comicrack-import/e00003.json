@@ -1,0 +1,433 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        260,
+        8,
+        48,
+        48
+      ],
+      "ref": "e3565697427",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        308,
+        8,
+        956,
+        48
+      ],
+      "expanded": false,
+      "ref": "e3932625320",
+      "role": "combobox",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "bounds": [
+        348,
+        16,
+        900,
+        32
+      ],
+      "placeholder": "Search",
+      "ref": "e3492990951",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        8,
+        73,
+        240,
+        40
+      ],
+      "href": "/dashboard",
+      "ref": "e4053023811",
+      "role": null,
+      "tag": "a",
+      "text": "Home"
+    },
+    {
+      "bounds": [
+        8,
+        117,
+        240,
+        40
+      ],
+      "href": "/libraries/all",
+      "ref": "e2922887771",
+      "role": null,
+      "tag": "a",
+      "text": "Libraries"
+    },
+    {
+      "bounds": [
+        168,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3616030284",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        204,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3666363141",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        161,
+        240,
+        40
+      ],
+      "href": "/libraries/0S3GMSA0QGA1B",
+      "ref": "e160075692",
+      "role": null,
+      "tag": "a",
+      "text": "Comics"
+    },
+    {
+      "bounds": [
+        204,
+        163,
+        36,
+        36
+      ],
+      "ref": "e3699918379",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        205,
+        240,
+        40
+      ],
+      "expanded": true,
+      "ref": "e1184854462",
+      "role": "button",
+      "tag": "div",
+      "text": "Import"
+    },
+    {
+      "bounds": [
+        8,
+        249,
+        240,
+        40
+      ],
+      "href": "/import/books",
+      "ref": "e2347376180",
+      "role": null,
+      "tag": "a",
+      "text": "Books"
+    },
+    {
+      "bounds": [
+        8,
+        293,
+        240,
+        40
+      ],
+      "href": "/import/readlist",
+      "ref": "e1263792461",
+      "role": null,
+      "tag": "a",
+      "text": "Read List"
+    },
+    {
+      "bounds": [
+        8,
+        333,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e2037377259",
+      "role": "button",
+      "tag": "div",
+      "text": "Media"
+    },
+    {
+      "bounds": [
+        8,
+        373,
+        240,
+        40
+      ],
+      "href": "/history",
+      "ref": "e3733889745",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        8,
+        417,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e3003565224",
+      "role": "button",
+      "tag": "div",
+      "text": "Server"
+    },
+    {
+      "bounds": [
+        8,
+        457,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e1557003221",
+      "role": "button",
+      "tag": "div",
+      "text": "My Account"
+    },
+    {
+      "bounds": [
+        8,
+        541,
+        240,
+        40
+      ],
+      "href": "/next",
+      "ref": "e74451671",
+      "role": null,
+      "tag": "a",
+      "text": "Try the new UI"
+    },
+    {
+      "bounds": [
+        72,
+        618,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e3645575124",
+      "role": "button",
+      "tag": "div",
+      "text": "Theme\nSystem"
+    },
+    {
+      "bounds": [
+        129,
+        618,
+        83,
+        26
+      ],
+      "label": "Theme",
+      "ref": "e2528570109",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        72,
+        682,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e750771305",
+      "role": "button",
+      "tag": "div",
+      "text": "Translation\nEnglish"
+    },
+    {
+      "bounds": [
+        128,
+        682,
+        84,
+        26
+      ],
+      "label": "Translation",
+      "ref": "e3213656136",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "aria": "$vuetify.close",
+      "bounds": [
+        1220,
+        111,
+        28,
+        28
+      ],
+      "ref": "e3608839772",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "aria": "$vuetify.input.prependAction",
+      "bounds": [
+        280,
+        198,
+        24,
+        24
+      ],
+      "ref": "e4136716409",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "aria": "$vuetify.input.clear",
+      "bounds": [
+        1121,
+        198,
+        24,
+        24
+      ],
+      "ref": "e1218821003",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1169,
+        195,
+        88,
+        36
+      ],
+      "ref": "e4088522658",
+      "role": null,
+      "tag": "button",
+      "text": "MATCH",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        280,
+        457,
+        198,
+        32
+      ],
+      "label": "Name",
+      "ref": "e1470115281",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "Ordered voyage"
+    },
+    {
+      "aria": "$vuetify.input.clear",
+      "bounds": [
+        482,
+        461,
+        24,
+        24
+      ],
+      "ref": "e1269153860",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        562,
+        465,
+        116,
+        20
+      ],
+      "checked": true,
+      "label": "Manual ordering",
+      "proxy": true,
+      "ref": "e928918861",
+      "role": "checkbox",
+      "tag": "input",
+      "text": "Manual ordering",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        702,
+        457,
+        393,
+        32
+      ],
+      "label": "Summary",
+      "ref": "e2290341735",
+      "role": null,
+      "tag": "textarea",
+      "text": "",
+      "type": "textarea",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1164,
+        458,
+        92,
+        36
+      ],
+      "ref": "e3568321784",
+      "role": null,
+      "tag": "button",
+      "text": "CREATE",
+      "type": "button"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "inputs": [
+    "read-order.cbl"
+  ],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Komga\nHome\nLibraries\nComics\nImport\nBooks\nRead List\nMedia\nHistory\nServer\nMy Account\nLog Out\nTry the new UI\nTheme\nSystem\nTranslation\nEnglish\nYou can import existing ComicRack Reading Lists in .cbl format.\nKomga will try to match the provided series and book number with series and books in your libraries.\nComicRack Reading List (.cbl)\nread-order.cbl (164 B)\nMATCH\nOK\nError\nDuplicate\n#\tRequested Series\tRequested Number\tSeries\tBook\t\n1\t\nAtlas (2020)\nAtlas\n\t3\t\nAtlas\n2020\n\t3 - Atlas chapter 3\n\t\n2\t\nBeacon (2021)\nBeacon\n\t1\t\nBeacon\n2021\n\t1 - Beacon chapter 1\n\t\nName\nManual ordering\nSummary\nCREATE",
+  "text_truncated": false,
+  "title": "Komga",
+  "url": "/import/readlist",
+  "viewport": [
+    1280,
+    900
+  ]
+}

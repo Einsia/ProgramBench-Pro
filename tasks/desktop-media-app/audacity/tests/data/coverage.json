@@ -1,0 +1,174 @@
+{
+  "counts": {
+    "assertions": 3576,
+    "backend": 3506,
+    "checkpoints": 3499,
+    "features": 17,
+    "frontend": 70,
+    "gui_episodes": 30,
+    "program_episodes": 42,
+    "episodes": 72
+  },
+  "features": {
+    "analysis": {
+      "assertions": 52,
+      "episodes": [
+        "program-analysis-01"
+      ]
+    },
+    "editing": {
+      "assertions": 1405,
+      "episodes": [
+        "edit-segments-cut-paste-history",
+        "edit-ramp-silence-delete-trim",
+        "edit-clips-split-join",
+        "edit-duplicate-split-new",
+        "program-editing-01",
+        "program-editing-02",
+        "program-editing-03",
+        "program-editing-04",
+        "program-editing-05",
+        "program-editing-06",
+        "program-editing-07",
+        "program-editing-08",
+        "program-editing-09",
+        "program-editing-10",
+        "program-editing-11",
+        "program-editing-12"
+      ]
+    },
+    "effects": {
+      "assertions": 735,
+      "episodes": [
+        "effect-amplify-cancel-apply",
+        "effect-normalize-dc",
+        "effect-fades",
+        "effect-change-speed",
+        "effect-repeat",
+        "effect-echo",
+        "effect-low-pass",
+        "program-effects-01",
+        "program-effects-02",
+        "program-effects-03",
+        "program-effects-04",
+        "program-effects-05",
+        "program-effects-06",
+        "program-effects-07"
+      ]
+    },
+    "export": {
+      "assertions": 10,
+      "episodes": [
+        "export-formats",
+        "export-selected-range"
+      ]
+    },
+    "generation": {
+      "assertions": 12,
+      "episodes": [
+        "generate-tone",
+        "generate-noise-in-selection",
+        "program-generation-01"
+      ]
+    },
+    "history": {
+      "assertions": 82,
+      "episodes": [
+        "history-three-edits",
+        "program-history-01"
+      ]
+    },
+    "import": {
+      "assertions": 18,
+      "episodes": [
+        "import-stereo-second-cancel",
+        "import-unicode-name",
+        "import-damaged-file",
+        "import-compressed-files"
+      ]
+    },
+    "import-export": {
+      "assertions": 112,
+      "episodes": [
+        "program-import-export-01",
+        "program-import-export-02",
+        "program-import-export-03",
+        "program-import-export-04"
+      ]
+    },
+    "labels": {
+      "assertions": 126,
+      "episodes": [
+        "labels-unicode-edit-export",
+        "program-labels-01"
+      ]
+    },
+    "malformed-input": {
+      "assertions": 9,
+      "episodes": [
+        "program-malformed-input-01"
+      ]
+    },
+    "mixing": {
+      "assertions": 508,
+      "episodes": [
+        "tracks-mute-solo-gain",
+        "tracks-mix-and-render",
+        "tracks-stereo-to-mono",
+        "program-mixing-01",
+        "program-mixing-02",
+        "program-mixing-03",
+        "program-mixing-04",
+        "program-mixing-05"
+      ]
+    },
+    "native-episode": {
+      "assertions": 14,
+      "episodes": [
+        "native-ramp-reverse-export",
+        "native-stereo-delete-history"
+      ]
+    },
+    "persistence": {
+      "assertions": 226,
+      "episodes": [
+        "project-save-reopen",
+        "program-persistence-01",
+        "program-persistence-02",
+        "program-persistence-03",
+        "program-persistence-04",
+        "program-persistence-05",
+        "program-persistence-06"
+      ]
+    },
+    "preferences": {
+      "assertions": 6,
+      "episodes": [
+        "preferences-track-name"
+      ]
+    },
+    "project": {
+      "assertions": 83,
+      "episodes": [
+        "project-rate-export",
+        "program-project-01"
+      ]
+    },
+    "selection": {
+      "assertions": 108,
+      "episodes": [
+        "program-selection-01"
+      ]
+    },
+    "tracks": {
+      "assertions": 70,
+      "episodes": [
+        "tracks-add-rename-remove",
+        "program-tracks-01"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

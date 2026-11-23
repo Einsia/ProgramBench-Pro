@@ -1,0 +1,86 @@
+{
+  "cursor": {
+    "column": 34,
+    "hidden": true,
+    "row": 35
+  },
+  "process": "running",
+  "screen": [
+    "00| Tasks   Projects   Timesheet   Calendar                                                                     next [none]",
+    "01|",
+    "02|Project   Remaining Avg age Complete 0%                        100%",
+    "03|--------- --------- ------- -------- ------------------------------",
+    "04|(none)            4      3w      20% ======",
+    "05|Home              2     10d       0%",
+    "06|  Repairs         1      8d       0%",
+    "07|Music             1     3mo       0%",
+    "08|Travel            2     10d       0%",
+    "09|Work              3      9d       0%",
+    "10|  Code            1      1d       0%",
+    "11|",
+    "12|7 projects",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|",
+    "19|",
+    "20|",
+    "21|",
+    "22|",
+    "23|",
+    "24|",
+    "25|",
+    "26|",
+    "27|",
+    "28|",
+    "29|",
+    "30|",
+    "31|",
+    "32|",
+    "33|",
+    "34|",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        9
+      ],
+      "row": 0,
+      "style": [
+        "reverse"
+      ],
+      "text": " Tasks   "
+    },
+    {
+      "columns": [
+        9,
+        17
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "reverse"
+      ],
+      "text": "Projects"
+    },
+    {
+      "columns": [
+        17,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "reverse"
+      ],
+      "text": "   Timesheet   Calendar                                                                     next [none]"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "base_style": [
+    "fg=brightwhite",
+    "bg=262626"
+  ],
+  "cursor": {
+    "column": 2,
+    "hidden": false,
+    "row": 0
+  },
+  "process": "running",
+  "screen": [
+    "00|1 # header",
+    "01|2 # a = 1",
+    "02|3 # b = 2",
+    "03|4",
+    "04|",
+    "05|",
+    "06|",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|",
+    "12|",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|",
+    "19|",
+    "20|",
+    "21|",
+    "22|",
+    "23|",
+    "24|",
+    "25|",
+    "26|",
+    "27|",
+    "28|",
+    "29|",
+    "30|",
+    "31|",
+    "32|",
+    "33|",
+    "34|conf.py (1,1) | ft:python | unix | utf-8                                                   Alt-g: bindings, Ctrl-g: help",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 0,
+      "style": [
+        "fg=a8a8a8",
+        "bg=262626"
+      ],
+      "text": "1 "
+    },
+    {
+      "columns": [
+        2,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "fg=6c6c6c",
+        "bg=303030"
+      ],
+      "text": "# header                                                                                                              "
+    },
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 1,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "2 "
+    },
+    {
+      "columns": [
+        2,
+        120
+      ],
+      "row": 1,
+      "style": [
+        "fg=6c6c6c",
+        "bg=262626"
+      ],
+      "text": "# a = 1                                                                                                               "
+    },
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 2,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "3 "
+    },
+    {
+      "columns": [
+        2,
+        120
+      ],
+      "row": 2,
+      "style": [
+        "fg=6c6c6c",
+        "bg=262626"
+      ],
+      "text": "# b = 2                                                                                                               "
+    },
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 3,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "4 "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "fg=262626",
+        "bg=brightwhite"
+      ],
+      "text": "conf.py (1,1) | ft:python | unix | utf-8                                                   Alt-g: bindings, Ctrl-g: help"
+    }
+  ]
+}

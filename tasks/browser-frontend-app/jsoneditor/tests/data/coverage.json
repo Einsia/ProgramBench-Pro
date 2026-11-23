@@ -1,0 +1,320 @@
+{
+  "counts": {
+    "assertions": 2526,
+    "backend": 2251,
+    "checkpoints": 1044,
+    "features": 35,
+    "frontend": 275,
+    "gui_episodes": 51,
+    "program_episodes": 77,
+    "episodes": 128
+  },
+  "features": {
+    "autocomplete": {
+      "assertions": 22,
+      "episodes": [
+        "gui-autocomplete-1",
+        "gui-autocomplete-2",
+        "gui-schema-completion"
+      ]
+    },
+    "configuration": {
+      "assertions": 35,
+      "episodes": [
+        "api-config-format",
+        "gui-config-history",
+        "gui-config-tools",
+        "gui-config-display"
+      ]
+    },
+    "configured-editors": {
+      "assertions": 10,
+      "episodes": [
+        "gui-custom-editors"
+      ]
+    },
+    "constructor-api": {
+      "assertions": 54,
+      "episodes": [
+        "api-constructor-roots"
+      ]
+    },
+    "custom-validation": {
+      "assertions": 18,
+      "episodes": [
+        "gui-custom-validation-1",
+        "gui-custom-validation-2"
+      ]
+    },
+    "display-tools": {
+      "assertions": 14,
+      "episodes": [
+        "gui-display-tools-1",
+        "gui-display-tools-2"
+      ]
+    },
+    "document-api": {
+      "assertions": 156,
+      "episodes": [
+        "data-tree",
+        "data-form",
+        "data-view",
+        "data-text",
+        "data-code",
+        "data-preview",
+        "api-root-name",
+        "api-name-clear"
+      ]
+    },
+    "editing-fields": {
+      "assertions": 14,
+      "episodes": [
+        "gui-field-names"
+      ]
+    },
+    "editing-values": {
+      "assertions": 50,
+      "episodes": [
+        "gui-values-tree-1",
+        "gui-values-tree-2",
+        "gui-values-form-1",
+        "gui-values-form-2"
+      ]
+    },
+    "example-callbacks": {
+      "assertions": 7,
+      "episodes": [
+        "gui-example-callbacks"
+      ]
+    },
+    "expansion-api": {
+      "assertions": 18,
+      "episodes": [
+        "api-expand-options"
+      ]
+    },
+    "files": {
+      "assertions": 20,
+      "episodes": [
+        "gui-file-errors",
+        "gui-files"
+      ]
+    },
+    "hierarchy": {
+      "assertions": 8,
+      "episodes": [
+        "gui-hierarchy"
+      ]
+    },
+    "history": {
+      "assertions": 28,
+      "episodes": [
+        "gui-history-a",
+        "gui-history-b"
+      ]
+    },
+    "mode-api": {
+      "assertions": 34,
+      "episodes": [
+        "mode-transitions"
+      ]
+    },
+    "modes": {
+      "assertions": 20,
+      "episodes": [
+        "gui-modes-1",
+        "gui-modes-2"
+      ]
+    },
+    "multiple-selection": {
+      "assertions": 10,
+      "episodes": [
+        "gui-multi-selection"
+      ]
+    },
+    "navigation": {
+      "assertions": 6,
+      "episodes": [
+        "gui-navigation"
+      ]
+    },
+    "preview": {
+      "assertions": 8,
+      "episodes": [
+        "gui-preview-actions"
+      ]
+    },
+    "readonly": {
+      "assertions": 26,
+      "episodes": [
+        "gui-readonly-modes",
+        "gui-readonly-fields",
+        "gui-readonly-text"
+      ]
+    },
+    "schema-feedback": {
+      "assertions": 14,
+      "episodes": [
+        "gui-schema"
+      ]
+    },
+    "schema-validation": {
+      "assertions": 1547,
+      "episodes": [
+        "schema-additionalItems",
+        "schema-additionalProperties",
+        "schema-allOf",
+        "schema-anyOf",
+        "schema-const",
+        "schema-contains",
+        "schema-default",
+        "schema-definitions",
+        "schema-dependencies",
+        "schema-enum",
+        "schema-exclusiveMaximum",
+        "schema-exclusiveMinimum",
+        "schema-format",
+        "schema-if-then-else",
+        "schema-infinite-loop-detection",
+        "schema-items",
+        "schema-maxItems",
+        "schema-maxLength",
+        "schema-maxProperties",
+        "schema-maximum",
+        "schema-minItems",
+        "schema-minLength",
+        "schema-minProperties",
+        "schema-minimum",
+        "schema-multipleOf",
+        "schema-not",
+        "schema-oneOf",
+        "schema-optional-bignum",
+        "schema-optional-content",
+        "schema-optional-ecmascript-regex",
+        "schema-optional-float-overflow",
+        "schema-optional-format-date-time",
+        "schema-optional-format-date",
+        "schema-optional-format-ecmascript-regex",
+        "schema-optional-format-email",
+        "schema-optional-format-hostname",
+        "schema-optional-format-ipv4",
+        "schema-optional-format-ipv6",
+        "schema-optional-format-json-pointer",
+        "schema-optional-format-regex",
+        "schema-optional-format-relative-json-pointer",
+        "schema-optional-format-time",
+        "schema-optional-format-uri-reference",
+        "schema-optional-format-uri-template",
+        "schema-optional-format-uri",
+        "schema-optional-id",
+        "schema-optional-non-bmp-regex",
+        "schema-optional-unknownKeyword",
+        "schema-pattern",
+        "schema-patternProperties",
+        "schema-properties",
+        "schema-propertyNames",
+        "schema-ref",
+        "schema-required",
+        "schema-type",
+        "schema-uniqueItems",
+        "api-schema-state"
+      ]
+    },
+    "search-navigation": {
+      "assertions": 5,
+      "episodes": [
+        "gui-search-navigation"
+      ]
+    },
+    "selection-api": {
+      "assertions": 16,
+      "episodes": [
+        "text-selection",
+        "tree-selection",
+        "api-range"
+      ]
+    },
+    "sort": {
+      "assertions": 20,
+      "episodes": [
+        "gui-sorting-1",
+        "gui-sorting-2"
+      ]
+    },
+    "state-preservation": {
+      "assertions": 6,
+      "episodes": [
+        "api-set-reset-state"
+      ]
+    },
+    "structure": {
+      "assertions": 28,
+      "episodes": [
+        "gui-structure-1",
+        "gui-structure-2",
+        "gui-keyboard-structure"
+      ]
+    },
+    "synchronization": {
+      "assertions": 6,
+      "episodes": [
+        "gui-synchronization"
+      ]
+    },
+    "templates": {
+      "assertions": 20,
+      "episodes": [
+        "gui-insert-templates-1",
+        "gui-insert-templates-2"
+      ]
+    },
+    "text-api": {
+      "assertions": 108,
+      "episodes": [
+        "text-parsing",
+        "api-update-text"
+      ]
+    },
+    "text-tools": {
+      "assertions": 84,
+      "episodes": [
+        "gui-text-text-1",
+        "gui-text-text-2",
+        "gui-text-code-1",
+        "gui-text-code-2",
+        "gui-text-preview-1",
+        "gui-text-preview-2"
+      ]
+    },
+    "transform": {
+      "assertions": 32,
+      "episodes": [
+        "gui-transform-a",
+        "gui-transform-b"
+      ]
+    },
+    "transform-wizard": {
+      "assertions": 14,
+      "episodes": [
+        "gui-transform-wizard"
+      ]
+    },
+    "validation-diagnostics": {
+      "assertions": 44,
+      "episodes": [
+        "validation-locations",
+        "custom-validation-locations"
+      ]
+    },
+    "value-types": {
+      "assertions": 24,
+      "episodes": [
+        "gui-types-1",
+        "gui-types-2"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

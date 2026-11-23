@@ -1,0 +1,578 @@
+{
+  "controls": [
+    {
+      "aria": "Skip to content",
+      "bounds": [
+        16,
+        -80,
+        145,
+        39
+      ],
+      "offscreen": true,
+      "ref": "e408",
+      "role": null,
+      "tag": "button",
+      "text": "SKIP TO CONTENT",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        5,
+        0,
+        48,
+        48
+      ],
+      "ref": "e409",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Close menu",
+      "type": "button"
+    },
+    {
+      "aria": "Refresh",
+      "bounds": [
+        1072,
+        0,
+        48,
+        48
+      ],
+      "ref": "e410",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Refresh",
+      "type": "button"
+    },
+    {
+      "aria": "Now Playing",
+      "bounds": [
+        1120,
+        2,
+        44,
+        44
+      ],
+      "ref": "e411",
+      "role": null,
+      "tag": "button",
+      "text": "0",
+      "title": "Now Playing",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1164,
+        2,
+        44,
+        44
+      ],
+      "ref": "e412",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Activity",
+      "type": "button"
+    },
+    {
+      "aria": "Settings",
+      "bounds": [
+        1208,
+        0,
+        48,
+        48
+      ],
+      "ref": "e413",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Settings",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        0,
+        56,
+        240,
+        36
+      ],
+      "ref": "e414",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "Albums"
+    },
+    {
+      "bounds": [
+        0,
+        92,
+        240,
+        36
+      ],
+      "href": "/app/#/album/all",
+      "ref": "e415",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        0,
+        128,
+        240,
+        36
+      ],
+      "href": "/app/#/album/random",
+      "ref": "e416",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Random"
+    },
+    {
+      "bounds": [
+        0,
+        164,
+        240,
+        36
+      ],
+      "href": "/app/#/album/starred",
+      "ref": "e417",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Favourites"
+    },
+    {
+      "bounds": [
+        0,
+        200,
+        240,
+        36
+      ],
+      "href": "/app/#/album/topRated",
+      "ref": "e418",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Top Rated"
+    },
+    {
+      "bounds": [
+        0,
+        236,
+        240,
+        36
+      ],
+      "href": "/app/#/album/recentlyAdded",
+      "ref": "e419",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Recently Added"
+    },
+    {
+      "bounds": [
+        0,
+        272,
+        240,
+        36
+      ],
+      "href": "/app/#/album/recentlyPlayed",
+      "ref": "e420",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Recently Played"
+    },
+    {
+      "bounds": [
+        0,
+        308,
+        240,
+        36
+      ],
+      "href": "/app/#/album/mostPlayed",
+      "ref": "e421",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Most Played"
+    },
+    {
+      "bounds": [
+        0,
+        344,
+        240,
+        36
+      ],
+      "href": "/app/#/artist",
+      "ref": "e422",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Artists"
+    },
+    {
+      "bounds": [
+        0,
+        380,
+        240,
+        36
+      ],
+      "href": "/app/#/song",
+      "ref": "e423",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Songs"
+    },
+    {
+      "bounds": [
+        0,
+        416,
+        240,
+        36
+      ],
+      "href": "/app/#/radio",
+      "ref": "e424",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Radios"
+    },
+    {
+      "bounds": [
+        0,
+        452,
+        240,
+        36
+      ],
+      "href": "/app/#/share",
+      "ref": "e425",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Shares"
+    },
+    {
+      "bounds": [
+        0,
+        489,
+        240,
+        38
+      ],
+      "ref": "e426",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "Playlists"
+    },
+    {
+      "bounds": [
+        0,
+        527,
+        240,
+        36
+      ],
+      "href": "/app/#/playlist/4VtjOSAPujiCAWI2FWVDxH/show",
+      "ref": "e427",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Favourites"
+    },
+    {
+      "bounds": [
+        245,
+        72,
+        221,
+        40
+      ],
+      "name": "name",
+      "placeholder": "Search",
+      "ref": "e428",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        528,
+        72,
+        160,
+        40
+      ],
+      "ref": "e429",
+      "role": "button",
+      "tag": "div",
+      "text": "Album Artists"
+    },
+    {
+      "aria": "Add filter",
+      "bounds": [
+        1093,
+        80,
+        115,
+        31
+      ],
+      "ref": "e430",
+      "role": null,
+      "tag": "button",
+      "text": "ADD FILTER",
+      "type": "button"
+    },
+    {
+      "aria": "more",
+      "bounds": [
+        1208,
+        72,
+        48,
+        48
+      ],
+      "ref": "e431",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        372,
+        143,
+        64,
+        24
+      ],
+      "ref": "e432",
+      "role": "button",
+      "tag": "span",
+      "text": "Name",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        540,
+        143,
+        83,
+        24
+      ],
+      "ref": "e433",
+      "role": "button",
+      "tag": "span",
+      "text": "Album Count",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        683,
+        143,
+        75,
+        24
+      ],
+      "ref": "e434",
+      "role": "button",
+      "tag": "span",
+      "text": "Song Count",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        818,
+        143,
+        28,
+        24
+      ],
+      "ref": "e435",
+      "role": "button",
+      "tag": "span",
+      "text": "Size",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        947,
+        143,
+        35,
+        24
+      ],
+      "ref": "e436",
+      "role": "button",
+      "tag": "span",
+      "text": "Plays",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        1022,
+        143,
+        41,
+        24
+      ],
+      "ref": "e437",
+      "role": "button",
+      "tag": "span",
+      "text": "Rating",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        1174,
+        147,
+        23,
+        18
+      ],
+      "ref": "e438",
+      "role": "button",
+      "tag": "span",
+      "text": "",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        1021,
+        354,
+        1,
+        1
+      ],
+      "checked": false,
+      "label": "1 Star",
+      "name": "2w8Ikt7VvPP85g6C77CheR",
+      "ref": "e439",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        1021,
+        354,
+        1,
+        1
+      ],
+      "checked": false,
+      "label": "2 Stars",
+      "name": "2w8Ikt7VvPP85g6C77CheR",
+      "ref": "e440",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "2"
+    },
+    {
+      "bounds": [
+        1021,
+        354,
+        1,
+        1
+      ],
+      "checked": false,
+      "label": "3 Stars",
+      "name": "2w8Ikt7VvPP85g6C77CheR",
+      "ref": "e441",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "3"
+    },
+    {
+      "bounds": [
+        1021,
+        354,
+        1,
+        1
+      ],
+      "checked": false,
+      "label": "4 Stars",
+      "name": "2w8Ikt7VvPP85g6C77CheR",
+      "ref": "e442",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "4"
+    },
+    {
+      "bounds": [
+        1021,
+        354,
+        1,
+        1
+      ],
+      "checked": false,
+      "label": "5 Stars",
+      "name": "2w8Ikt7VvPP85g6C77CheR",
+      "ref": "e443",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "5"
+    },
+    {
+      "bounds": [
+        1021,
+        354,
+        1,
+        1
+      ],
+      "checked": true,
+      "label": "Empty",
+      "name": "2w8Ikt7VvPP85g6C77CheR",
+      "ref": "e444",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1174,
+        333,
+        26,
+        26
+      ],
+      "ref": "e445",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "aria": "more",
+      "bounds": [
+        1200,
+        333,
+        26,
+        26
+      ],
+      "ref": "e446",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1105,
+        669,
+        48,
+        30
+      ],
+      "ref": "e447",
+      "role": "button",
+      "tag": "div",
+      "text": "15"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "SKIP TO CONTENT\nNavidrome - Artists\n0\nAlbums\nAll\nRandom\nFavourites\nTop Rated\nRecently Added\nRecently Played\nMost Played\nArtists\nSongs\nRadios\nShares\nPlaylists\nFavourites\n​\n\n \nRole\nAlbum Artists\n\n \nADD FILTER\n\t\nName\n\t\nAlbum Count\n\t\nSong Count\n\t\nSize\n\t\nPlays\n\t\nRating\n\t\n\n\n\t[Unknown Artist]\t1\t2\t48.4 KB\t\t\t\n\n\tAlpha Artist\t1\t3\t30.97 KB\t\t\t\n\n\tBeta Band\t1\t3\t62.76 KB\t\t\n1 Star\n2 Stars\n3 Stars\n4 Stars\n5 Stars\nEmpty\n\t\n\n\n\tDelta Duo\t1\t1\t20.23 KB\t\t\t\n\n\tGamma Trio\t1\t2\t13.21 KB\t\t\t\n\n\tÜnïcode Ärtist\t1\t1\t17.03 KB\t\t\t\n\n\tVarious Artists\t1\t3\t20.85 KB\t\t\t\n\nItems per page:\n\n15\n\n1-7 of 7",
+  "text_truncated": false,
+  "title": "Navidrome",
+  "url": "/app/#/artist",
+  "viewport": [
+    1280,
+    900
+  ]
+}

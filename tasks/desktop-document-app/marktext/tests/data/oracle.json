@@ -1,0 +1,4107 @@
+{
+  "frontend": {
+    "gui-bold/bold": {
+      "after": {
+        "checkpoint": "bold",
+        "id": "gui-bold/bold/reference-after/e00002",
+        "image": "reference/gui-bold/e00002.png",
+        "observation": "reference/gui-bold/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-bold"
+      },
+      "before": {
+        "checkpoint": "bold",
+        "id": "gui-bold/bold/reference-before/e00001",
+        "image": "reference/gui-bold/e00001.png",
+        "observation": "reference/gui-bold/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-bold"
+      }
+    },
+    "gui-code-fence/do": {
+      "after": {
+        "checkpoint": "do",
+        "id": "gui-code-fence/do/reference-after/e00002",
+        "image": "reference/gui-code-fence/e00002.png",
+        "observation": "reference/gui-code-fence/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-code-fence"
+      },
+      "before": {
+        "checkpoint": "do",
+        "id": "gui-code-fence/do/reference-before/e00001",
+        "image": "reference/gui-code-fence/e00001.png",
+        "observation": "reference/gui-code-fence/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-code-fence"
+      }
+    },
+    "gui-compose/heading": {
+      "after": {
+        "checkpoint": "heading",
+        "id": "gui-compose/heading/reference-after/e00002",
+        "image": "reference/gui-compose/e00002.png",
+        "observation": "reference/gui-compose/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-compose"
+      },
+      "before": {
+        "checkpoint": "heading",
+        "id": "gui-compose/heading/reference-before/e00001",
+        "image": "reference/gui-list/e00001.png",
+        "observation": "reference/gui-compose/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-compose"
+      }
+    },
+    "gui-compose/save": {
+      "after": {
+        "checkpoint": "save",
+        "id": "gui-compose/save/reference-after/e00004",
+        "image": "reference/gui-compose/e00004.png",
+        "observation": "reference/gui-compose/e00004.json",
+        "role": "reference-after",
+        "episode": "gui-compose"
+      },
+      "before": {
+        "checkpoint": "save",
+        "id": "gui-compose/save/reference-before/e00003",
+        "image": "reference/gui-compose/e00002.png",
+        "observation": "reference/gui-compose/e00003.json",
+        "role": "reference-before",
+        "episode": "gui-compose"
+      }
+    },
+    "gui-export-html/html": {
+      "after": {
+        "checkpoint": "html",
+        "id": "gui-export-html/html/reference-after/e00002",
+        "image": "reference/gui-export-html/e00002.png",
+        "observation": "reference/gui-export-html/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-export-html"
+      },
+      "before": {
+        "checkpoint": "html",
+        "id": "gui-export-html/html/reference-before/e00001",
+        "image": "reference/gui-save/e00001.png",
+        "observation": "reference/gui-export-html/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-export-html"
+      }
+    },
+    "gui-export-pdf/pdf": {
+      "after": {
+        "checkpoint": "pdf",
+        "id": "gui-export-pdf/pdf/reference-after/e00002",
+        "image": "reference/gui-export-pdf/e00002.png",
+        "observation": "reference/gui-export-pdf/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-export-pdf"
+      },
+      "before": {
+        "checkpoint": "pdf",
+        "id": "gui-export-pdf/pdf/reference-before/e00001",
+        "image": "reference/gui-save/e00001.png",
+        "observation": "reference/gui-export-pdf/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-export-pdf"
+      }
+    },
+    "gui-heading/heading": {
+      "after": {
+        "checkpoint": "heading",
+        "id": "gui-heading/heading/reference-after/e00002",
+        "image": "reference/gui-heading/e00002.png",
+        "observation": "reference/gui-heading/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-heading"
+      },
+      "before": {
+        "checkpoint": "heading",
+        "id": "gui-heading/heading/reference-before/e00001",
+        "image": "reference/gui-bold/e00001.png",
+        "observation": "reference/gui-heading/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-heading"
+      }
+    },
+    "gui-heading1/do": {
+      "after": {
+        "checkpoint": "do",
+        "id": "gui-heading1/do/reference-after/e00002",
+        "image": "reference/gui-heading1/e00002.png",
+        "observation": "reference/gui-heading1/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-heading1"
+      },
+      "before": {
+        "checkpoint": "do",
+        "id": "gui-heading1/do/reference-before/e00001",
+        "image": "reference/gui-bold/e00001.png",
+        "observation": "reference/gui-heading1/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-heading1"
+      }
+    },
+    "gui-heading3/do": {
+      "after": {
+        "checkpoint": "do",
+        "id": "gui-heading3/do/reference-after/e00002",
+        "image": "reference/gui-heading3/e00002.png",
+        "observation": "reference/gui-heading3/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-heading3"
+      },
+      "before": {
+        "checkpoint": "do",
+        "id": "gui-heading3/do/reference-before/e00001",
+        "image": "reference/gui-quote/e00001.png",
+        "observation": "reference/gui-heading3/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-heading3"
+      }
+    },
+    "gui-highlight/do": {
+      "after": {
+        "checkpoint": "do",
+        "id": "gui-highlight/do/reference-after/e00002",
+        "image": "reference/gui-highlight/e00002.png",
+        "observation": "reference/gui-highlight/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-highlight"
+      },
+      "before": {
+        "checkpoint": "do",
+        "id": "gui-highlight/do/reference-before/e00001",
+        "image": "reference/gui-quote/e00001.png",
+        "observation": "reference/gui-highlight/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-highlight"
+      }
+    },
+    "gui-inline-code/do": {
+      "after": {
+        "checkpoint": "do",
+        "id": "gui-inline-code/do/reference-after/e00002",
+        "image": "reference/gui-inline-code/e00002.png",
+        "observation": "reference/gui-inline-code/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-inline-code"
+      },
+      "before": {
+        "checkpoint": "do",
+        "id": "gui-inline-code/do/reference-before/e00001",
+        "image": "reference/gui-quote/e00001.png",
+        "observation": "reference/gui-inline-code/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-inline-code"
+      }
+    },
+    "gui-inline-math/do": {
+      "after": {
+        "checkpoint": "do",
+        "id": "gui-inline-math/do/reference-after/e00002",
+        "image": "reference/gui-inline-math/e00002.png",
+        "observation": "reference/gui-inline-math/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-inline-math"
+      },
+      "before": {
+        "checkpoint": "do",
+        "id": "gui-inline-math/do/reference-before/e00001",
+        "image": "reference/gui-bold/e00001.png",
+        "observation": "reference/gui-inline-math/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-inline-math"
+      }
+    },
+    "gui-italic/do": {
+      "after": {
+        "checkpoint": "do",
+        "id": "gui-italic/do/reference-after/e00002",
+        "image": "reference/gui-italic/e00002.png",
+        "observation": "reference/gui-italic/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-italic"
+      },
+      "before": {
+        "checkpoint": "do",
+        "id": "gui-italic/do/reference-before/e00001",
+        "image": "reference/gui-quote/e00001.png",
+        "observation": "reference/gui-italic/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-italic"
+      }
+    },
+    "gui-list/bullets": {
+      "after": {
+        "checkpoint": "bullets",
+        "id": "gui-list/bullets/reference-after/e00002",
+        "image": "reference/gui-list/e00002.png",
+        "observation": "reference/gui-list/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-list"
+      },
+      "before": {
+        "checkpoint": "bullets",
+        "id": "gui-list/bullets/reference-before/e00001",
+        "image": "reference/gui-list/e00001.png",
+        "observation": "reference/gui-list/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-list"
+      }
+    },
+    "gui-ordered-list/do": {
+      "after": {
+        "checkpoint": "do",
+        "id": "gui-ordered-list/do/reference-after/e00002",
+        "image": "reference/gui-ordered-list/e00002.png",
+        "observation": "reference/gui-ordered-list/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-ordered-list"
+      },
+      "before": {
+        "checkpoint": "do",
+        "id": "gui-ordered-list/do/reference-before/e00001",
+        "image": "reference/gui-list/e00001.png",
+        "observation": "reference/gui-ordered-list/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-ordered-list"
+      }
+    },
+    "gui-quote/quote": {
+      "after": {
+        "checkpoint": "quote",
+        "id": "gui-quote/quote/reference-after/e00002",
+        "image": "reference/gui-quote/e00002.png",
+        "observation": "reference/gui-quote/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-quote"
+      },
+      "before": {
+        "checkpoint": "quote",
+        "id": "gui-quote/quote/reference-before/e00001",
+        "image": "reference/gui-quote/e00001.png",
+        "observation": "reference/gui-quote/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-quote"
+      }
+    },
+    "gui-render-code/render": {
+      "after": {
+        "checkpoint": "render",
+        "id": "gui-render-code/render/reference-after/e00002",
+        "image": "reference/gui-render-code/e00002.png",
+        "observation": "reference/gui-render-code/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-render-code"
+      },
+      "before": {
+        "checkpoint": "render",
+        "id": "gui-render-code/render/reference-before/e00001",
+        "image": "reference/gui-render-code/e00001.png",
+        "observation": "reference/gui-render-code/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-render-code"
+      }
+    },
+    "gui-render-emphasis/render": {
+      "after": {
+        "checkpoint": "render",
+        "id": "gui-render-emphasis/render/reference-after/e00002",
+        "image": "reference/gui-render-emphasis/e00002.png",
+        "observation": "reference/gui-render-emphasis/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-render-emphasis"
+      },
+      "before": {
+        "checkpoint": "render",
+        "id": "gui-render-emphasis/render/reference-before/e00001",
+        "image": "reference/gui-render-emphasis/e00001.png",
+        "observation": "reference/gui-render-emphasis/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-render-emphasis"
+      }
+    },
+    "gui-render-headings/render": {
+      "after": {
+        "checkpoint": "render",
+        "id": "gui-render-headings/render/reference-after/e00002",
+        "image": "reference/gui-render-headings/e00002.png",
+        "observation": "reference/gui-render-headings/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-render-headings"
+      },
+      "before": {
+        "checkpoint": "render",
+        "id": "gui-render-headings/render/reference-before/e00001",
+        "image": "reference/gui-render-headings/e00001.png",
+        "observation": "reference/gui-render-headings/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-render-headings"
+      }
+    },
+    "gui-render-links/render": {
+      "after": {
+        "checkpoint": "render",
+        "id": "gui-render-links/render/reference-after/e00002",
+        "image": "reference/gui-render-links/e00002.png",
+        "observation": "reference/gui-render-links/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-render-links"
+      },
+      "before": {
+        "checkpoint": "render",
+        "id": "gui-render-links/render/reference-before/e00001",
+        "image": "reference/gui-render-links/e00001.png",
+        "observation": "reference/gui-render-links/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-render-links"
+      }
+    },
+    "gui-render-nested/render": {
+      "after": {
+        "checkpoint": "render",
+        "id": "gui-render-nested/render/reference-after/e00002",
+        "image": "reference/gui-render-nested/e00002.png",
+        "observation": "reference/gui-render-nested/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-render-nested"
+      },
+      "before": {
+        "checkpoint": "render",
+        "id": "gui-render-nested/render/reference-before/e00001",
+        "image": "reference/gui-render-nested/e00001.png",
+        "observation": "reference/gui-render-nested/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-render-nested"
+      }
+    },
+    "gui-render-table/render": {
+      "after": {
+        "checkpoint": "render",
+        "id": "gui-render-table/render/reference-after/e00002",
+        "image": "reference/gui-render-table/e00002.png",
+        "observation": "reference/gui-render-table/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-render-table"
+      },
+      "before": {
+        "checkpoint": "render",
+        "id": "gui-render-table/render/reference-before/e00001",
+        "image": "reference/gui-render-table/e00001.png",
+        "observation": "reference/gui-render-table/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-render-table"
+      }
+    },
+    "gui-render-tasks/render": {
+      "after": {
+        "checkpoint": "render",
+        "id": "gui-render-tasks/render/reference-after/e00002",
+        "image": "reference/gui-render-tasks/e00002.png",
+        "observation": "reference/gui-render-tasks/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-render-tasks"
+      },
+      "before": {
+        "checkpoint": "render",
+        "id": "gui-render-tasks/render/reference-before/e00001",
+        "image": "reference/gui-render-tasks/e00001.png",
+        "observation": "reference/gui-render-tasks/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-render-tasks"
+      }
+    },
+    "gui-save/save": {
+      "after": {
+        "checkpoint": "save",
+        "id": "gui-save/save/reference-after/e00002",
+        "image": "reference/gui-save/e00002.png",
+        "observation": "reference/gui-save/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-save"
+      },
+      "before": {
+        "checkpoint": "save",
+        "id": "gui-save/save/reference-before/e00001",
+        "image": "reference/gui-save/e00001.png",
+        "observation": "reference/gui-save/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-save"
+      }
+    },
+    "gui-strike/do": {
+      "after": {
+        "checkpoint": "do",
+        "id": "gui-strike/do/reference-after/e00002",
+        "image": "reference/gui-strike/e00002.png",
+        "observation": "reference/gui-strike/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-strike"
+      },
+      "before": {
+        "checkpoint": "do",
+        "id": "gui-strike/do/reference-before/e00001",
+        "image": "reference/gui-quote/e00001.png",
+        "observation": "reference/gui-strike/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-strike"
+      }
+    },
+    "gui-task-list/do": {
+      "after": {
+        "checkpoint": "do",
+        "id": "gui-task-list/do/reference-after/e00002",
+        "image": "reference/gui-task-list/e00002.png",
+        "observation": "reference/gui-task-list/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-task-list"
+      },
+      "before": {
+        "checkpoint": "do",
+        "id": "gui-task-list/do/reference-before/e00001",
+        "image": "reference/gui-task-list/e00001.png",
+        "observation": "reference/gui-task-list/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-task-list"
+      }
+    },
+    "gui-type-emphasis/type": {
+      "after": {
+        "checkpoint": "type",
+        "id": "gui-type-emphasis/type/reference-after/e00002",
+        "image": "reference/gui-type-emphasis/e00002.png",
+        "observation": "reference/gui-type-emphasis/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-type-emphasis"
+      },
+      "before": {
+        "checkpoint": "type",
+        "id": "gui-type-emphasis/type/reference-before/e00001",
+        "image": "reference/gui-type-emphasis/e00001.png",
+        "observation": "reference/gui-type-emphasis/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-type-emphasis"
+      }
+    },
+    "gui-type-list/type": {
+      "after": {
+        "checkpoint": "type",
+        "id": "gui-type-list/type/reference-after/e00002",
+        "image": "reference/gui-type-list/e00002.png",
+        "observation": "reference/gui-type-list/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-type-list"
+      },
+      "before": {
+        "checkpoint": "type",
+        "id": "gui-type-list/type/reference-before/e00001",
+        "image": "reference/gui-type/e00001.png",
+        "observation": "reference/gui-type-list/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-type-list"
+      }
+    },
+    "gui-type/type": {
+      "after": {
+        "checkpoint": "type",
+        "id": "gui-type/type/reference-after/e00002",
+        "image": "reference/gui-type/e00002.png",
+        "observation": "reference/gui-type/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-type"
+      },
+      "before": {
+        "checkpoint": "type",
+        "id": "gui-type/type/reference-before/e00001",
+        "image": "reference/gui-type/e00001.png",
+        "observation": "reference/gui-type/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-type"
+      }
+    },
+    "gui-underline/do": {
+      "after": {
+        "checkpoint": "do",
+        "id": "gui-underline/do/reference-after/e00002",
+        "image": "reference/gui-underline/e00002.png",
+        "observation": "reference/gui-underline/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-underline"
+      },
+      "before": {
+        "checkpoint": "do",
+        "id": "gui-underline/do/reference-before/e00001",
+        "image": "reference/gui-quote/e00001.png",
+        "observation": "reference/gui-underline/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-underline"
+      }
+    }
+  },
+  "program": {
+    "copymd-blockquotes/sz-quote-blank-nested.md/text": {
+      "aspect": "text",
+      "text": [
+        "> outer",
+        ">",
+        "> > inner one",
+        "> > inner two",
+        "> > outer back",
+        ""
+      ]
+    },
+    "copymd-blockquotes/sz-quote-code-inside.md/text": {
+      "aspect": "text",
+      "text": [
+        "> text before",
+        ">",
+        "> ```",
+        "> fenced in quote",
+        "> ```",
+        ""
+      ]
+    },
+    "copymd-blockquotes/sz-quote-deep.md/text": {
+      "aspect": "text",
+      "text": [
+        "> a",
+        ">",
+        "> > b",
+        "> >",
+        "> > > c",
+        ""
+      ]
+    },
+    "copymd-blockquotes/sz-quote-heading-inside.md/text": {
+      "aspect": "text",
+      "text": [
+        "> # quoted heading",
+        ">",
+        "> body paragraph",
+        ""
+      ]
+    },
+    "copymd-blockquotes/sz-quote-lazy-multi.md/text": {
+      "aspect": "text",
+      "text": [
+        "> first line of quote",
+        "> lazily continued",
+        "> and more",
+        ""
+      ]
+    },
+    "copymd-blockquotes/sz-quote-lazy.md/text": {
+      "aspect": "text",
+      "text": [
+        "> lazy continuation",
+        "> still the quote",
+        ""
+      ]
+    },
+    "copymd-blockquotes/sz-quote-nested-deep-lazy.md/text": {
+      "aspect": "text",
+      "text": [
+        "> a",
+        ">",
+        "> > b",
+        "> > lazy c",
+        ""
+      ]
+    },
+    "copymd-blockquotes/sz-quote-nested-lazy.md/text": {
+      "aspect": "text",
+      "text": [
+        "> outer start",
+        ">",
+        "> > inner start",
+        "> > inner lazy line",
+        ""
+      ]
+    },
+    "copymd-blockquotes/sz-quote-nested.md/text": {
+      "aspect": "text",
+      "text": [
+        "> outer",
+        ">",
+        "> > inner",
+        "> > back to outer",
+        ""
+      ]
+    },
+    "copymd-blockquotes/sz-quote-nospace-multi.md/text": {
+      "aspect": "text",
+      "text": [
+        "> line one",
+        "> line two",
+        "> line three",
+        ""
+      ]
+    },
+    "copymd-blockquotes/sz-quote-nospace.md/text": {
+      "aspect": "text",
+      "text": [
+        "> no space here",
+        "> second line",
+        ""
+      ]
+    },
+    "copymd-bullet-lists/sz-bul-blank-between.md/text": {
+      "aspect": "text",
+      "text": [
+        "- one",
+        "",
+        "- two",
+        "",
+        "- three",
+        ""
+      ]
+    },
+    "copymd-bullet-lists/sz-bul-dash-space.md/text": {
+      "aspect": "text",
+      "text": [
+        "- first apple",
+        "- second banana",
+        "- third cherry",
+        ""
+      ]
+    },
+    "copymd-bullet-lists/sz-bul-deep-nest.md/text": {
+      "aspect": "text",
+      "text": [
+        "- a",
+        "  - b",
+        "    - c",
+        "      - d",
+        ""
+      ]
+    },
+    "copymd-bullet-lists/sz-bul-deep-three.md/text": {
+      "aspect": "text",
+      "text": [
+        "- level one",
+        "  - level two three-space",
+        "    - level three six-space",
+        ""
+      ]
+    },
+    "copymd-bullet-lists/sz-bul-mixed-indent.md/text": {
+      "aspect": "text",
+      "text": [
+        "- spaced marker",
+        "- two space marker",
+        ""
+      ]
+    },
+    "copymd-bullet-lists/sz-bul-multiparagraph.md/text": {
+      "aspect": "text",
+      "text": [
+        "- first paragraph",
+        "",
+        "  second paragraph of first item",
+        "",
+        "- second item",
+        ""
+      ]
+    },
+    "copymd-bullet-lists/sz-bul-nested.md/text": {
+      "aspect": "text",
+      "text": [
+        "- top",
+        "  - nested one",
+        "  - nested two",
+        "- top two",
+        ""
+      ]
+    },
+    "copymd-bullet-lists/sz-bul-para-continuation.md/text": {
+      "aspect": "text",
+      "text": [
+        "- item with",
+        "  a lazy continuation line",
+        "- second item",
+        ""
+      ]
+    },
+    "copymd-bullet-lists/sz-bul-plus-nested.md/text": {
+      "aspect": "text",
+      "text": [
+        "+ outer",
+        "  + inner a",
+        "  + inner b",
+        ""
+      ]
+    },
+    "copymd-bullet-lists/sz-bul-plus-space.md/text": {
+      "aspect": "text",
+      "text": [
+        "+ one plus",
+        "+ two plus",
+        ""
+      ]
+    },
+    "copymd-bullet-lists/sz-bul-star-nested.md/text": {
+      "aspect": "text",
+      "text": [
+        "* top",
+        "  * child one",
+        "  * child two",
+        "* top two",
+        ""
+      ]
+    },
+    "copymd-bullet-lists/sz-bul-star-space.md/text": {
+      "aspect": "text",
+      "text": [
+        "* red star",
+        "* green star",
+        ""
+      ]
+    },
+    "copymd-bullet-lists/sz-bul-tab.md/text": {
+      "aspect": "text",
+      "text": [
+        "- tabbed one",
+        "- tabbed two",
+        ""
+      ]
+    },
+    "copymd-bullet-lists/sz-bul-two-space.md/text": {
+      "aspect": "text",
+      "text": [
+        "- two space one",
+        "- two space two",
+        ""
+      ]
+    },
+    "copymd-bullet-lists/sz-bul-with-code.md/text": {
+      "aspect": "text",
+      "text": [
+        "- item",
+        "",
+        "  ```",
+        "  code in item",
+        "  ```",
+        "",
+        "- next",
+        ""
+      ]
+    },
+    "copymd-code-blocks/sz-code-blank-leading.md/text": {
+      "aspect": "text",
+      "text": [
+        "```",
+        "first code line",
+        "```",
+        ""
+      ]
+    },
+    "copymd-code-blocks/sz-code-blank-lines.md/text": {
+      "aspect": "text",
+      "text": [
+        "```",
+        "code after blank",
+        "```",
+        ""
+      ]
+    },
+    "copymd-code-blocks/sz-code-empty.md/text": {
+      "aspect": "text",
+      "text": [
+        "```",
+        "",
+        "```",
+        ""
+      ]
+    },
+    "copymd-code-blocks/sz-code-indented-blank.md/text": {
+      "aspect": "text",
+      "text": [
+        "    line one",
+        "",
+        "    line two",
+        ""
+      ]
+    },
+    "copymd-code-blocks/sz-code-info-space.md/text": {
+      "aspect": "text",
+      "text": [
+        "```js",
+        "const a = 1",
+        "```",
+        ""
+      ]
+    },
+    "copymd-code-blocks/sz-code-info-trailing.md/text": {
+      "aspect": "text",
+      "text": [
+        "```python",
+        "print(1)",
+        "```",
+        ""
+      ]
+    },
+    "copymd-code-blocks/sz-code-long-info-space.md/text": {
+      "aspect": "text",
+      "text": [
+        "````text",
+        "code with ``` inside",
+        "````",
+        ""
+      ]
+    },
+    "copymd-code-blocks/sz-code-no-close.md/text": {
+      "aspect": "text",
+      "text": [
+        "```python",
+        "x = 1",
+        "y = 2",
+        "```",
+        ""
+      ]
+    },
+    "copymd-code-blocks/sz-code-tilde-info.md/text": {
+      "aspect": "text",
+      "text": [
+        "~~~python",
+        "print(1)",
+        "~~~",
+        ""
+      ]
+    },
+    "copymd-code-blocks/sz-code-tilde-no-close.md/text": {
+      "aspect": "text",
+      "text": [
+        "~~~",
+        "code without a close",
+        "~~~",
+        ""
+      ]
+    },
+    "copymd-code-blocks/sz-code-trailing-blank-in-fence.md/text": {
+      "aspect": "text",
+      "text": [
+        "```",
+        "content line",
+        "```",
+        ""
+      ]
+    },
+    "copymd-headings/sz-head-closed-many.md/text": {
+      "aspect": "text",
+      "text": [
+        "#### Four level closed",
+        ""
+      ]
+    },
+    "copymd-headings/sz-head-closed-uneven.md/text": {
+      "aspect": "text",
+      "text": [
+        "### Three open two close",
+        ""
+      ]
+    },
+    "copymd-headings/sz-head-closed.md/text": {
+      "aspect": "text",
+      "text": [
+        "## Closed heading",
+        "",
+        "body",
+        ""
+      ]
+    },
+    "copymd-headings/sz-head-consecutive.md/text": {
+      "aspect": "text",
+      "text": [
+        "# First section",
+        "",
+        "## Second section",
+        "",
+        "### Third section",
+        ""
+      ]
+    },
+    "copymd-headings/sz-head-leading-space.md/text": {
+      "aspect": "text",
+      "text": [
+        "# Up to three leading spaces",
+        ""
+      ]
+    },
+    "copymd-headings/sz-head-levels.md/text": {
+      "aspect": "text",
+      "text": [
+        "# One",
+        "",
+        "## Two",
+        "",
+        "### Three",
+        "",
+        "#### Four",
+        ""
+      ]
+    },
+    "copymd-headings/sz-head-para-adjacent.md/text": {
+      "aspect": "text",
+      "text": [
+        "# A heading",
+        "",
+        "paragraph right after with no blank line",
+        ""
+      ]
+    },
+    "copymd-headings/sz-head-space-after.md/text": {
+      "aspect": "text",
+      "text": [
+        "# Heading with collapsed spaces",
+        "",
+        "body",
+        ""
+      ]
+    },
+    "copymd-headings/sz-head-tab-and-space.md/text": {
+      "aspect": "text",
+      "text": [
+        "## mixed whitespace heading",
+        ""
+      ]
+    },
+    "copymd-headings/sz-head-tabs.md/text": {
+      "aspect": "text",
+      "text": [
+        "# Tab after the hash",
+        ""
+      ]
+    },
+    "copymd-headings/sz-head-trailing-hashes.md/text": {
+      "aspect": "text",
+      "text": [
+        "# Spaced word",
+        ""
+      ]
+    },
+    "copymd-headings/sz-head-trailing-tab.md/text": {
+      "aspect": "text",
+      "text": [
+        "# Heading with a trailing tab",
+        ""
+      ]
+    },
+    "copymd-headings/sz-head-trailing-ws.md/text": {
+      "aspect": "text",
+      "text": [
+        "# Heading with trailing spaces",
+        ""
+      ]
+    },
+    "copymd-headings/sz-head-two-consecutive.md/text": {
+      "aspect": "text",
+      "text": [
+        "## Alpha section",
+        "",
+        "### Beta section",
+        ""
+      ]
+    },
+    "copymd-headings/sz-head-unicode.md/text": {
+      "aspect": "text",
+      "text": [
+        "# 日本語の見出し",
+        "",
+        "## Ещё заголовок",
+        ""
+      ]
+    },
+    "copymd-headings/sz-head-wide-space.md/text": {
+      "aspect": "text",
+      "text": [
+        "### wide gap heading",
+        ""
+      ]
+    },
+    "copymd-ordered-lists/sz-ord-deep-four.md/text": {
+      "aspect": "text",
+      "text": [
+        "1. a",
+        "   1. b",
+        "      1. c",
+        "         1. d",
+        ""
+      ]
+    },
+    "copymd-ordered-lists/sz-ord-deep.md/text": {
+      "aspect": "text",
+      "text": [
+        "1. a",
+        "   1. b",
+        "      1. c",
+        ""
+      ]
+    },
+    "copymd-ordered-lists/sz-ord-dot-space.md/text": {
+      "aspect": "text",
+      "text": [
+        "1. one",
+        "2. two",
+        "3. three",
+        ""
+      ]
+    },
+    "copymd-ordered-lists/sz-ord-dot-wide.md/text": {
+      "aspect": "text",
+      "text": [
+        "1. first wide",
+        "2. second wide",
+        ""
+      ]
+    },
+    "copymd-ordered-lists/sz-ord-nested-bullet-deep.md/text": {
+      "aspect": "text",
+      "text": [
+        "1. first",
+        "   - sub a",
+        "     - sub sub",
+        "2. second",
+        ""
+      ]
+    },
+    "copymd-ordered-lists/sz-ord-nested-bullet.md/text": {
+      "aspect": "text",
+      "text": [
+        "1. first",
+        "   - a",
+        "   - b",
+        "2. second",
+        ""
+      ]
+    },
+    "copymd-ordered-lists/sz-ord-nested-mixed.md/text": {
+      "aspect": "text",
+      "text": [
+        "1. outer",
+        "   1. inner one",
+        "   2. inner two",
+        "2. outer two",
+        ""
+      ]
+    },
+    "copymd-ordered-lists/sz-ord-paren-nested.md/text": {
+      "aspect": "text",
+      "text": [
+        "1) first",
+        "   1) nested one",
+        "2) second",
+        ""
+      ]
+    },
+    "copymd-ordered-lists/sz-ord-paren-space.md/text": {
+      "aspect": "text",
+      "text": [
+        "1) one paren",
+        "2) two paren",
+        ""
+      ]
+    },
+    "copymd-ordered-lists/sz-ord-paren-wide.md/text": {
+      "aspect": "text",
+      "text": [
+        "1) paren wide a",
+        "2) paren wide b",
+        ""
+      ]
+    },
+    "copymd-ordered-lists/sz-ord-tab.md/text": {
+      "aspect": "text",
+      "text": [
+        "1. tabbed one",
+        "2. tabbed two",
+        ""
+      ]
+    },
+    "copymd-ordered-lists/sz-ord-wide-space.md/text": {
+      "aspect": "text",
+      "text": [
+        "1. alpha",
+        "2. beta",
+        "3. gamma",
+        ""
+      ]
+    },
+    "copymd-tables/sz-table-align-right.md/text": {
+      "aspect": "text",
+      "text": [
+        "| item   | qty |",
+        "| ------ | ---:|",
+        "| apples | 3   |",
+        "| pears  | 12  |",
+        ""
+      ]
+    },
+    "copymd-tables/sz-table-align.md/text": {
+      "aspect": "text",
+      "text": [
+        "| L   | C   | R   |",
+        "|:--- |:---:| ---:|",
+        "| a   | b   | c   |",
+        ""
+      ]
+    },
+    "copymd-tables/sz-table-basic.md/text": {
+      "aspect": "text",
+      "text": [
+        "| A   | B   |",
+        "| --- | --- |",
+        "| 1   | 2   |",
+        "| 3   | 4   |",
+        ""
+      ]
+    },
+    "copymd-tables/sz-table-center-only.md/text": {
+      "aspect": "text",
+      "text": [
+        "| a   | b   |",
+        "|:---:|:---:|",
+        "| 1   | 2   |",
+        ""
+      ]
+    },
+    "copymd-tables/sz-table-colon-variants.md/text": {
+      "aspect": "text",
+      "text": [
+        "| a   | b   | c   | d   |",
+        "|:--- |:---:| ---:| --- |",
+        "| 1   | 2   | 3   | 4   |",
+        ""
+      ]
+    },
+    "copymd-tables/sz-table-empty-cells.md/text": {
+      "aspect": "text",
+      "text": [
+        "| a   | b   |",
+        "| --- | --- |",
+        "|     |     |",
+        "| 1   |     |",
+        ""
+      ]
+    },
+    "copymd-tables/sz-table-escaped-pipe.md/text": {
+      "aspect": "text",
+      "text": [
+        "| col | note   |",
+        "| --- | ------ |",
+        "| a   | x \\| y |",
+        ""
+      ]
+    },
+    "copymd-tables/sz-table-inline.md/text": {
+      "aspect": "text",
+      "text": [
+        "| name     | value  |",
+        "| -------- | ------ |",
+        "| **bold** | `code` |",
+        ""
+      ]
+    },
+    "copymd-tables/sz-table-long-content.md/text": {
+      "aspect": "text",
+      "text": [
+        "| key  | value             |",
+        "| ---- | ----------------- |",
+        "| name | a long value here |",
+        ""
+      ]
+    },
+    "copymd-tables/sz-table-min.md/text": {
+      "aspect": "text",
+      "text": [
+        "| x   |",
+        "| --- |",
+        "| 1   |",
+        ""
+      ]
+    },
+    "copymd-tables/sz-table-no-outer-pipes.md/text": {
+      "aspect": "text",
+      "text": [
+        "| a   | b   |",
+        "| --- | --- |",
+        "| 1   | 2   |",
+        ""
+      ]
+    },
+    "copymd-tables/sz-table-ragged.md/text": {
+      "aspect": "text",
+      "text": [
+        "| A   | B   | C   |",
+        "| --- | --- | --- |",
+        "| 1   | 2   |     |",
+        ""
+      ]
+    },
+    "copymd-tables/sz-table-three-col.md/text": {
+      "aspect": "text",
+      "text": [
+        "| x   | y   | z   |",
+        "| --- | --- | --- |",
+        "| 1   | 2   | 3   |",
+        ""
+      ]
+    },
+    "copymd-tables/sz-table-uneven-width.md/text": {
+      "aspect": "text",
+      "text": [
+        "| h1          | header two is wide |",
+        "|:----------- |:------------------ |",
+        "| x           | y                  |",
+        "| longer cell | z                  |",
+        ""
+      ]
+    },
+    "copymd-tables/sz-table-wide-cells.md/text": {
+      "aspect": "text",
+      "text": [
+        "| short | a very long header cell |",
+        "| ----- | ----------------------- |",
+        "| x     | y                       |",
+        ""
+      ]
+    },
+    "copymd-task-lists/sz-task-deep.md/text": {
+      "aspect": "text",
+      "text": [
+        "- [ ] top",
+        "  - [x] mid",
+        "    - [ ] deep",
+        ""
+      ]
+    },
+    "copymd-task-lists/sz-task-mixed-upper.md/text": {
+      "aspect": "text",
+      "text": [
+        "- [x] a",
+        "- [ ] b",
+        "- [x] c",
+        ""
+      ]
+    },
+    "copymd-task-lists/sz-task-nested-deep.md/text": {
+      "aspect": "text",
+      "text": [
+        "- [ ] a",
+        "  - [ ] b",
+        "    - [x] c",
+        ""
+      ]
+    },
+    "copymd-task-lists/sz-task-nested.md/text": {
+      "aspect": "text",
+      "text": [
+        "- [ ] parent",
+        "  - [x] child done",
+        "  - [ ] child todo",
+        ""
+      ]
+    },
+    "copymd-task-lists/sz-task-spacing.md/text": {
+      "aspect": "text",
+      "text": [
+        "- [ ] spaced task",
+        "- [x] another spaced",
+        ""
+      ]
+    },
+    "copymd-task-lists/sz-task-upper-only.md/text": {
+      "aspect": "text",
+      "text": [
+        "- [x] all upper one",
+        "- [x] all upper two",
+        ""
+      ]
+    },
+    "copymd-task-lists/sz-task-upper.md/text": {
+      "aspect": "text",
+      "text": [
+        "- [x] done upper",
+        "- [ ] not done",
+        ""
+      ]
+    },
+    "copymd-task-lists/sz-task-wide-space.md/text": {
+      "aspect": "text",
+      "text": [
+        "- [ ] wide spaced",
+        "- [x] wide spaced two",
+        ""
+      ]
+    },
+    "copymd-whitespace/sz-ws-blanks-around-heading.md/text": {
+      "aspect": "text",
+      "text": [
+        "para one",
+        "",
+        "# A heading",
+        "",
+        "para two",
+        ""
+      ]
+    },
+    "copymd-whitespace/sz-ws-far-apart.md/text": {
+      "aspect": "text",
+      "text": [
+        "first paragraph",
+        "",
+        "far apart paragraph",
+        ""
+      ]
+    },
+    "copymd-whitespace/sz-ws-heading-list-adjacent.md/text": {
+      "aspect": "text",
+      "text": [
+        "## Items",
+        "",
+        "- one",
+        "- two",
+        ""
+      ]
+    },
+    "copymd-whitespace/sz-ws-heading-then-list.md/text": {
+      "aspect": "text",
+      "text": [
+        "# Title here",
+        "",
+        "- one",
+        "- two",
+        ""
+      ]
+    },
+    "copymd-whitespace/sz-ws-leading-blanks.md/text": {
+      "aspect": "text",
+      "text": [
+        "first line after blanks",
+        ""
+      ]
+    },
+    "copymd-whitespace/sz-ws-mixed-constructs.md/text": {
+      "aspect": "text",
+      "text": [
+        "# Doc heading",
+        "",
+        "- loose bullet",
+        "- second",
+        "1) ordered one",
+        "2) ordered two",
+        "",
+        "> a quote",
+        "> lazily continued",
+        "",
+        "| a   | b   |",
+        "| --- | --- |",
+        "| 1   | 2   |",
+        ""
+      ]
+    },
+    "copymd-whitespace/sz-ws-multiple-blanks.md/text": {
+      "aspect": "text",
+      "text": [
+        "first",
+        "",
+        "second",
+        "",
+        "third",
+        ""
+      ]
+    },
+    "copymd-whitespace/sz-ws-only-spaces-line.md/text": {
+      "aspect": "text",
+      "text": [
+        "first paragraph",
+        "",
+        "second paragraph",
+        ""
+      ]
+    },
+    "copymd-whitespace/sz-ws-para-then-heading.md/text": {
+      "aspect": "text",
+      "text": [
+        "a paragraph of text",
+        "",
+        "# then a heading with no blank line",
+        ""
+      ]
+    },
+    "copymd-whitespace/sz-ws-trailing-blanks.md/text": {
+      "aspect": "text",
+      "text": [
+        "content line",
+        ""
+      ]
+    },
+    "edit-block/bullet-list/content": {
+      "aspect": "content",
+      "markdown": "- Alpha beta gamma.\n\n- \n"
+    },
+    "edit-block/code-fence/content": {
+      "aspect": "content",
+      "markdown": "```\nconst value = 1;\n```\n"
+    },
+    "edit-block/order-list/content": {
+      "aspect": "content",
+      "markdown": "1. Alpha beta gamma.\n\n2. \n"
+    },
+    "edit-block/quote-block/content": {
+      "aspect": "content",
+      "markdown": "> Alpha beta gamma.\n>\n> \n"
+    },
+    "edit-block/task-list/content": {
+      "aspect": "content",
+      "markdown": "- [ ] Alpha beta gamma.\n\n- [ ] \n"
+    },
+    "edit-heading/heading-1/content": {
+      "aspect": "content",
+      "markdown": "# Alpha beta gamma.\n"
+    },
+    "edit-heading/heading-2/content": {
+      "aspect": "content",
+      "markdown": "## Alpha beta gamma.\n"
+    },
+    "edit-heading/heading-3/content": {
+      "aspect": "content",
+      "markdown": "### Alpha beta gamma.\n"
+    },
+    "edit-heading/heading-4/content": {
+      "aspect": "content",
+      "markdown": "#### Alpha beta gamma.\n"
+    },
+    "edit-heading/heading-5/content": {
+      "aspect": "content",
+      "markdown": "##### Alpha beta gamma.\n"
+    },
+    "edit-heading/heading-6/content": {
+      "aspect": "content",
+      "markdown": "###### Alpha beta gamma.\n"
+    },
+    "edit-heading/heading-degrade/content": {
+      "aspect": "content",
+      "markdown": "### Heading two.\n"
+    },
+    "edit-heading/heading-join-lines/content": {
+      "aspect": "content",
+      "markdown": "# First line. Second line.\n"
+    },
+    "edit-heading/heading-upgrade/content": {
+      "aspect": "content",
+      "markdown": "# Heading two.\n"
+    },
+    "edit-inline/bold-italic/content": {
+      "aspect": "content",
+      "markdown": "***Alpha beta gamma.***\n"
+    },
+    "edit-inline/bold/content": {
+      "aspect": "content",
+      "markdown": "**Alpha beta gamma.**\n"
+    },
+    "edit-inline/clear-formatting/content": {
+      "aspect": "content",
+      "markdown": "Alpha and beta and code text.\n"
+    },
+    "edit-inline/highlight/content": {
+      "aspect": "content",
+      "markdown": "<mark>Alpha beta gamma.</mark>\n"
+    },
+    "edit-inline/inline-code/content": {
+      "aspect": "content",
+      "markdown": "`Alpha beta gamma.`\n"
+    },
+    "edit-inline/inline-math/content": {
+      "aspect": "content",
+      "markdown": "$Alpha beta gamma.$\n"
+    },
+    "edit-inline/italic/content": {
+      "aspect": "content",
+      "markdown": "*Alpha beta gamma.*\n"
+    },
+    "edit-inline/strikethrough/content": {
+      "aspect": "content",
+      "markdown": "~~Alpha beta gamma.~~\n"
+    },
+    "edit-inline/underline/content": {
+      "aspect": "content",
+      "markdown": "<u>Alpha beta gamma.</u>\n"
+    },
+    "gui-bold/bold/content": {
+      "aspect": "content",
+      "markdown": "**Alpha beta gamma delta.**\n"
+    },
+    "gui-compose/save/content": {
+      "aspect": "content",
+      "markdown": "## First item here.\n\nSecond item here.\n\nThird item here.\n"
+    },
+    "gui-export-html/html/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "Report Title"
+          ],
+          "t": "h1"
+        },
+        {
+          "c": [
+            "Alpha",
+            {
+              "c": [
+                "bold"
+              ],
+              "t": "strong"
+            },
+            "and",
+            {
+              "c": [
+                "italic"
+              ],
+              "t": "em"
+            },
+            "text with",
+            {
+              "c": [
+                "code"
+              ],
+              "t": "code"
+            },
+            "."
+          ],
+          "t": "p"
+        },
+        {
+          "c": [
+            {
+              "c": [
+                "one"
+              ],
+              "t": "li"
+            },
+            {
+              "c": [
+                "two"
+              ],
+              "t": "li"
+            }
+          ],
+          "t": "ul"
+        },
+        {
+          "c": [
+            {
+              "c": [
+                "a quote line"
+              ],
+              "t": "p"
+            }
+          ],
+          "t": "blockquote"
+        }
+      ]
+    },
+    "gui-export-html/html/text": {
+      "aspect": "text",
+      "text": "Report Title Alpha bold and italic text with code . one two a quote line"
+    },
+    "gui-export-pdf/pdf/text": {
+      "aspect": "text",
+      "pages": [
+        "Report Title Alpha bold and italic text with code. one two a quote line"
+      ]
+    },
+    "gui-heading/heading/content": {
+      "aspect": "content",
+      "markdown": "## Alpha beta gamma delta.\n"
+    },
+    "gui-heading1/do/content": {
+      "aspect": "content",
+      "markdown": "# Alpha beta gamma delta.\n"
+    },
+    "gui-heading3/do/content": {
+      "aspect": "content",
+      "markdown": "### Alpha beta gamma delta.\n"
+    },
+    "gui-highlight/do/content": {
+      "aspect": "content",
+      "markdown": "<mark>Alpha beta gamma delta.</mark>\n"
+    },
+    "gui-inline-code/do/content": {
+      "aspect": "content",
+      "markdown": "`Alpha beta gamma delta.`\n"
+    },
+    "gui-inline-math/do/content": {
+      "aspect": "content",
+      "markdown": "$Alpha beta gamma delta.$\n"
+    },
+    "gui-italic/do/content": {
+      "aspect": "content",
+      "markdown": "*Alpha beta gamma delta.*\n"
+    },
+    "gui-render-code/render/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            {
+              "a": {
+                "class": "language-python"
+              },
+              "c": [
+                "print(\"hello\") value = 1"
+              ],
+              "t": "code"
+            }
+          ],
+          "t": "pre"
+        }
+      ]
+    },
+    "gui-render-code/render/text": {
+      "aspect": "text",
+      "text": "print ( \"hello\" ) value = 1"
+    },
+    "gui-render-emphasis/render/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "Text with",
+            {
+              "c": [
+                "bold"
+              ],
+              "t": "strong"
+            },
+            ",",
+            {
+              "c": [
+                "italic"
+              ],
+              "t": "em"
+            },
+            "and",
+            {
+              "c": [
+                "strike"
+              ],
+              "t": "del"
+            },
+            "words."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "gui-render-emphasis/render/text": {
+      "aspect": "text",
+      "text": "Text with bold , italic and strike words."
+    },
+    "gui-render-headings/render/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "Heading one"
+          ],
+          "t": "h1"
+        },
+        {
+          "c": [
+            "Heading two"
+          ],
+          "t": "h2"
+        },
+        {
+          "c": [
+            "Heading three"
+          ],
+          "t": "h3"
+        },
+        {
+          "t": "hr"
+        },
+        {
+          "c": [
+            "A paragraph."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "gui-render-headings/render/text": {
+      "aspect": "text",
+      "text": "Heading one Heading two Heading three A paragraph."
+    },
+    "gui-render-links/render/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "A",
+            {
+              "a": {
+                "href": "http://example.com"
+              },
+              "c": [
+                "site link"
+              ],
+              "t": "a"
+            },
+            "and an image",
+            {
+              "a": {
+                "alt": "alt text",
+                "src": "http://x.io/i.png"
+              },
+              "t": "img"
+            },
+            "and",
+            {
+              "c": [
+                "inline code"
+              ],
+              "t": "code"
+            },
+            "."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "gui-render-links/render/text": {
+      "aspect": "text",
+      "text": "A site link and an image and inline code ."
+    },
+    "gui-render-nested/render/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            {
+              "c": [
+                "top one",
+                {
+                  "c": [
+                    {
+                      "c": [
+                        "child a"
+                      ],
+                      "t": "li"
+                    },
+                    {
+                      "c": [
+                        "child b"
+                      ],
+                      "t": "li"
+                    }
+                  ],
+                  "t": "ul"
+                }
+              ],
+              "t": "li"
+            },
+            {
+              "c": [
+                "top two"
+              ],
+              "t": "li"
+            }
+          ],
+          "t": "ul"
+        }
+      ]
+    },
+    "gui-render-nested/render/text": {
+      "aspect": "text",
+      "text": "top one child a child b top two"
+    },
+    "gui-render-table/render/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            {
+              "c": [
+                {
+                  "c": [
+                    {
+                      "a": {
+                        "align": "left"
+                      },
+                      "c": [
+                        "Name"
+                      ],
+                      "t": "th"
+                    },
+                    {
+                      "a": {
+                        "align": "right"
+                      },
+                      "c": [
+                        "Age"
+                      ],
+                      "t": "th"
+                    }
+                  ],
+                  "t": "tr"
+                }
+              ],
+              "t": "thead"
+            },
+            {
+              "c": [
+                {
+                  "c": [
+                    {
+                      "a": {
+                        "align": "left"
+                      },
+                      "c": [
+                        "Alice"
+                      ],
+                      "t": "td"
+                    },
+                    {
+                      "a": {
+                        "align": "right"
+                      },
+                      "c": [
+                        "30"
+                      ],
+                      "t": "td"
+                    }
+                  ],
+                  "t": "tr"
+                },
+                {
+                  "c": [
+                    {
+                      "a": {
+                        "align": "left"
+                      },
+                      "c": [
+                        "Bob"
+                      ],
+                      "t": "td"
+                    },
+                    {
+                      "a": {
+                        "align": "right"
+                      },
+                      "c": [
+                        "25"
+                      ],
+                      "t": "td"
+                    }
+                  ],
+                  "t": "tr"
+                }
+              ],
+              "t": "tbody"
+            }
+          ],
+          "t": "table"
+        }
+      ]
+    },
+    "gui-render-table/render/text": {
+      "aspect": "text",
+      "text": "Name Age Alice 30 Bob 25"
+    },
+    "gui-render-tasks/render/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            {
+              "c": [
+                {
+                  "a": {
+                    "disabled": "",
+                    "type": "checkbox"
+                  },
+                  "t": "input"
+                },
+                "first todo"
+              ],
+              "t": "li"
+            },
+            {
+              "c": [
+                {
+                  "a": {
+                    "checked": "",
+                    "disabled": "",
+                    "type": "checkbox"
+                  },
+                  "t": "input"
+                },
+                "second done"
+              ],
+              "t": "li"
+            },
+            {
+              "c": [
+                {
+                  "a": {
+                    "disabled": "",
+                    "type": "checkbox"
+                  },
+                  "t": "input"
+                },
+                "third todo"
+              ],
+              "t": "li"
+            }
+          ],
+          "t": "ul"
+        }
+      ]
+    },
+    "gui-render-tasks/render/text": {
+      "aspect": "text",
+      "text": "first todo second done third todo"
+    },
+    "gui-save/save/content": {
+      "aspect": "content",
+      "markdown": "# Report Title\n\nAlpha **bold** and *italic* text with `code`.\n\n- one\n- two\n\n> a quote line\n"
+    },
+    "gui-strike/do/content": {
+      "aspect": "content",
+      "markdown": "~~Alpha beta gamma delta.~~\n"
+    },
+    "gui-type-emphasis/type/content": {
+      "aspect": "content",
+      "markdown": "This is **bold** and *italic* text.\n"
+    },
+    "gui-type/type/content": {
+      "aspect": "content",
+      "markdown": "# Notes\n\nFirst point.\n"
+    },
+    "gui-underline/do/content": {
+      "aspect": "content",
+      "markdown": "<u>Alpha beta gamma delta.</u>\n"
+    },
+    "render-code/rd-code-no-lang.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            {
+              "c": [
+                "no language code second line"
+              ],
+              "t": "code"
+            }
+          ],
+          "t": "pre"
+        }
+      ]
+    },
+    "render-code/rd-code-no-lang.md/text": {
+      "aspect": "text",
+      "text": "no language code second line"
+    },
+    "render-code/rd-code-plain.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            {
+              "c": [
+                "plain code second line"
+              ],
+              "t": "code"
+            }
+          ],
+          "t": "pre"
+        }
+      ]
+    },
+    "render-code/rd-code-plain.md/text": {
+      "aspect": "text",
+      "text": "plain code second line"
+    },
+    "render-code/rd-code.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            {
+              "a": {
+                "class": "language-python"
+              },
+              "c": [
+                "print(\"hello\") value = 1"
+              ],
+              "t": "code"
+            }
+          ],
+          "t": "pre"
+        }
+      ]
+    },
+    "render-code/rd-code.md/text": {
+      "aspect": "text",
+      "text": "print(\"hello\") value = 1"
+    },
+    "render-emphasis/rd-bold-italic.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "This is",
+            {
+              "c": [
+                {
+                  "c": [
+                    "bold and italic"
+                  ],
+                  "t": "strong"
+                }
+              ],
+              "t": "em"
+            },
+            "together."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-emphasis/rd-bold-italic.md/text": {
+      "aspect": "text",
+      "text": "This is bold and italic together."
+    },
+    "render-emphasis/rd-bold.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "This has",
+            {
+              "c": [
+                "bold text"
+              ],
+              "t": "strong"
+            },
+            "in it."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-emphasis/rd-bold.md/text": {
+      "aspect": "text",
+      "text": "This has bold text in it."
+    },
+    "render-emphasis/rd-emphasis-adjacent.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "word",
+            {
+              "c": [
+                "bold"
+              ],
+              "t": "strong"
+            },
+            "then",
+            {
+              "c": [
+                "italic"
+              ],
+              "t": "em"
+            },
+            "then normal."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-emphasis/rd-emphasis-adjacent.md/text": {
+      "aspect": "text",
+      "text": "word bold then italic then normal."
+    },
+    "render-emphasis/rd-emphasis-in-list.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            {
+              "c": [
+                {
+                  "c": [
+                    "bold item"
+                  ],
+                  "t": "strong"
+                }
+              ],
+              "t": "li"
+            },
+            {
+              "c": [
+                {
+                  "c": [
+                    "italic item"
+                  ],
+                  "t": "em"
+                }
+              ],
+              "t": "li"
+            },
+            {
+              "c": [
+                {
+                  "c": [
+                    "struck item"
+                  ],
+                  "t": "del"
+                }
+              ],
+              "t": "li"
+            }
+          ],
+          "t": "ul"
+        }
+      ]
+    },
+    "render-emphasis/rd-emphasis-in-list.md/text": {
+      "aspect": "text",
+      "text": "bold item italic item struck item"
+    },
+    "render-emphasis/rd-emphasis-mixed.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "Text with",
+            {
+              "c": [
+                "bold"
+              ],
+              "t": "strong"
+            },
+            ",",
+            {
+              "c": [
+                "italic"
+              ],
+              "t": "em"
+            },
+            "and",
+            {
+              "c": [
+                "strike"
+              ],
+              "t": "del"
+            },
+            "words."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-emphasis/rd-emphasis-mixed.md/text": {
+      "aspect": "text",
+      "text": "Text with bold , italic and strike words."
+    },
+    "render-emphasis/rd-emphasis-nested.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "A",
+            {
+              "c": [
+                "bold with",
+                {
+                  "c": [
+                    "italic"
+                  ],
+                  "t": "em"
+                },
+                "inside"
+              ],
+              "t": "strong"
+            },
+            "here."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-emphasis/rd-emphasis-nested.md/text": {
+      "aspect": "text",
+      "text": "A bold with italic inside here."
+    },
+    "render-emphasis/rd-emphasis-underscore.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "Using",
+            {
+              "c": [
+                "double"
+              ],
+              "t": "strong"
+            },
+            "and",
+            {
+              "c": [
+                "single"
+              ],
+              "t": "em"
+            },
+            "underscores."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-emphasis/rd-emphasis-underscore.md/text": {
+      "aspect": "text",
+      "text": "Using double and single underscores."
+    },
+    "render-emphasis/rd-italic.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "This has",
+            {
+              "c": [
+                "italic text"
+              ],
+              "t": "em"
+            },
+            "in it."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-emphasis/rd-italic.md/text": {
+      "aspect": "text",
+      "text": "This has italic text in it."
+    },
+    "render-emphasis/rd-strike-bold.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "A",
+            {
+              "c": [
+                "struck"
+              ],
+              "t": "del"
+            },
+            "and",
+            {
+              "c": [
+                "bold"
+              ],
+              "t": "strong"
+            },
+            "mix here."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-emphasis/rd-strike-bold.md/text": {
+      "aspect": "text",
+      "text": "A struck and bold mix here."
+    },
+    "render-emphasis/rd-strike.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "This has",
+            {
+              "c": [
+                "struck through"
+              ],
+              "t": "del"
+            },
+            "text."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-emphasis/rd-strike.md/text": {
+      "aspect": "text",
+      "text": "This has struck through text."
+    },
+    "render-headings-rules/rd-heading-inline.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "Heading with",
+            {
+              "c": [
+                "bold"
+              ],
+              "t": "strong"
+            },
+            "and",
+            {
+              "c": [
+                "code"
+              ],
+              "t": "code"
+            }
+          ],
+          "t": "h1"
+        }
+      ]
+    },
+    "render-headings-rules/rd-heading-inline.md/text": {
+      "aspect": "text",
+      "text": "Heading with bold and code"
+    },
+    "render-headings-rules/rd-heading-levels.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "One"
+          ],
+          "t": "h1"
+        },
+        {
+          "c": [
+            "Two"
+          ],
+          "t": "h2"
+        },
+        {
+          "c": [
+            "Three"
+          ],
+          "t": "h3"
+        },
+        {
+          "c": [
+            "Four"
+          ],
+          "t": "h4"
+        },
+        {
+          "c": [
+            "Five"
+          ],
+          "t": "h5"
+        },
+        {
+          "c": [
+            "Six"
+          ],
+          "t": "h6"
+        }
+      ]
+    },
+    "render-headings-rules/rd-heading-levels.md/text": {
+      "aspect": "text",
+      "text": "One Two Three Four Five Six"
+    },
+    "render-headings-rules/rd-heading-mixed.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "Title"
+          ],
+          "t": "h1"
+        },
+        {
+          "c": [
+            "Text then a",
+            {
+              "c": [
+                "code"
+              ],
+              "t": "code"
+            },
+            "span and",
+            {
+              "c": [
+                "bold"
+              ],
+              "t": "strong"
+            },
+            "."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-headings-rules/rd-heading-mixed.md/text": {
+      "aspect": "text",
+      "text": "Title Text then a code span and bold ."
+    },
+    "render-headings-rules/rd-headings.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "Heading one"
+          ],
+          "t": "h1"
+        },
+        {
+          "c": [
+            "Heading two"
+          ],
+          "t": "h2"
+        },
+        {
+          "c": [
+            "Heading three"
+          ],
+          "t": "h3"
+        },
+        {
+          "c": [
+            "A paragraph."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-headings-rules/rd-headings.md/text": {
+      "aspect": "text",
+      "text": "Heading one Heading two Heading three A paragraph."
+    },
+    "render-headings-rules/rd-hr.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "before the rule"
+          ],
+          "t": "p"
+        },
+        {
+          "t": "hr"
+        },
+        {
+          "c": [
+            "after the rule"
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-headings-rules/rd-hr.md/text": {
+      "aspect": "text",
+      "text": "before the rule after the rule"
+    },
+    "render-html/rd-html-block.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "raw html block"
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-html/rd-html-block.md/text": {
+      "aspect": "text",
+      "text": "raw html block"
+    },
+    "render-html/rd-html-inline.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "Text with inline html here."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-html/rd-html-inline.md/text": {
+      "aspect": "text",
+      "text": "Text with inline html here."
+    },
+    "render-inline-code/rd-escapes.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "Escaped *star* and _underscore_ and #hash stay literal."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-inline-code/rd-escapes.md/text": {
+      "aspect": "text",
+      "text": "Escaped *star* and _underscore_ and #hash stay literal."
+    },
+    "render-inline-code/rd-hardbreak.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "line one with a hard break",
+            {
+              "t": "br"
+            },
+            "line two follows"
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-inline-code/rd-hardbreak.md/text": {
+      "aspect": "text",
+      "text": "line one with a hard break line two follows"
+    },
+    "render-inline-code/rd-inline-code-backtick.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "A span with a backtick:",
+            {
+              "c": [
+                "a ` b"
+              ],
+              "t": "code"
+            },
+            "here."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-inline-code/rd-inline-code-backtick.md/text": {
+      "aspect": "text",
+      "text": "A span with a backtick: a ` b here."
+    },
+    "render-inline-code/rd-inline-code-multi.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "First",
+            {
+              "c": [
+                "one"
+              ],
+              "t": "code"
+            },
+            "then",
+            {
+              "c": [
+                "two"
+              ],
+              "t": "code"
+            },
+            "then",
+            {
+              "c": [
+                "three"
+              ],
+              "t": "code"
+            },
+            "spans."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-inline-code/rd-inline-code-multi.md/text": {
+      "aspect": "text",
+      "text": "First one then two then three spans."
+    },
+    "render-inline-code/rd-inline-code.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "Use",
+            {
+              "c": [
+                "inline code"
+              ],
+              "t": "code"
+            },
+            "and",
+            {
+              "c": [
+                "another span"
+              ],
+              "t": "code"
+            },
+            "here."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-inline-code/rd-inline-code.md/text": {
+      "aspect": "text",
+      "text": "Use inline code and another span here."
+    },
+    "render-links-images/rd-autolink.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "Visit",
+            {
+              "a": {
+                "href": "http://example.com"
+              },
+              "c": [
+                "http://example.com"
+              ],
+              "t": "a"
+            },
+            "directly."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-links-images/rd-autolink.md/text": {
+      "aspect": "text",
+      "text": "Visit http://example.com directly."
+    },
+    "render-links-images/rd-image-reference.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "An",
+            {
+              "a": {
+                "alt": "img",
+                "src": "http://x.io/l.png"
+              },
+              "t": "img"
+            },
+            "here."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-links-images/rd-image-reference.md/text": {
+      "aspect": "text",
+      "text": "An here."
+    },
+    "render-links-images/rd-image-title.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "An image",
+            {
+              "a": {
+                "alt": "alt",
+                "src": "http://example.com/i.png",
+                "title": "Img Title"
+              },
+              "t": "img"
+            },
+            "here."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-links-images/rd-image-title.md/text": {
+      "aspect": "text",
+      "text": "An image here."
+    },
+    "render-links-images/rd-image.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "An image",
+            {
+              "a": {
+                "alt": "alt text",
+                "src": "http://example.com/i.png"
+              },
+              "t": "img"
+            },
+            "here."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-links-images/rd-image.md/text": {
+      "aspect": "text",
+      "text": "An image here."
+    },
+    "render-links-images/rd-link-and-image.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "A",
+            {
+              "a": {
+                "href": "http://x.io"
+              },
+              "c": [
+                "link"
+              ],
+              "t": "a"
+            },
+            "and",
+            {
+              "a": {
+                "alt": "img",
+                "src": "http://y.io/i.png"
+              },
+              "t": "img"
+            },
+            "together."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-links-images/rd-link-and-image.md/text": {
+      "aspect": "text",
+      "text": "A link and together."
+    },
+    "render-links-images/rd-link-in-emphasis.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "A",
+            {
+              "a": {
+                "href": "http://x.io"
+              },
+              "c": [
+                {
+                  "c": [
+                    "bold link"
+                  ],
+                  "t": "strong"
+                }
+              ],
+              "t": "a"
+            },
+            "and plain text."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-links-images/rd-link-in-emphasis.md/text": {
+      "aspect": "text",
+      "text": "A bold link and plain text."
+    },
+    "render-links-images/rd-link-multiple.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "See",
+            {
+              "a": {
+                "href": "http://a.io"
+              },
+              "c": [
+                "one"
+              ],
+              "t": "a"
+            },
+            "and",
+            {
+              "a": {
+                "href": "http://b.io"
+              },
+              "c": [
+                "two"
+              ],
+              "t": "a"
+            },
+            "links."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-links-images/rd-link-multiple.md/text": {
+      "aspect": "text",
+      "text": "See one and two links."
+    },
+    "render-links-images/rd-link-reference.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "See",
+            {
+              "a": {
+                "href": "http://example.com",
+                "title": "Ref Title"
+              },
+              "c": [
+                "the ref"
+              ],
+              "t": "a"
+            },
+            "now."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-links-images/rd-link-reference.md/text": {
+      "aspect": "text",
+      "text": "See the ref now."
+    },
+    "render-links-images/rd-link-title.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "See",
+            {
+              "a": {
+                "href": "http://example.com",
+                "title": "A Title"
+              },
+              "c": [
+                "site"
+              ],
+              "t": "a"
+            },
+            "now."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-links-images/rd-link-title.md/text": {
+      "aspect": "text",
+      "text": "See site now."
+    },
+    "render-links-images/rd-link.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "See",
+            {
+              "a": {
+                "href": "http://example.com"
+              },
+              "c": [
+                "the site"
+              ],
+              "t": "a"
+            },
+            "now."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-links-images/rd-link.md/text": {
+      "aspect": "text",
+      "text": "See the site now."
+    },
+    "render-lists/rd-bullet.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            {
+              "c": [
+                "first"
+              ],
+              "t": "li"
+            },
+            {
+              "c": [
+                "second"
+              ],
+              "t": "li"
+            },
+            {
+              "c": [
+                "third"
+              ],
+              "t": "li"
+            }
+          ],
+          "t": "ul"
+        }
+      ]
+    },
+    "render-lists/rd-bullet.md/text": {
+      "aspect": "text",
+      "text": "first second third"
+    },
+    "render-lists/rd-nested.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            {
+              "c": [
+                "top one",
+                {
+                  "c": [
+                    {
+                      "c": [
+                        "child a"
+                      ],
+                      "t": "li"
+                    },
+                    {
+                      "c": [
+                        "child b"
+                      ],
+                      "t": "li"
+                    }
+                  ],
+                  "t": "ul"
+                }
+              ],
+              "t": "li"
+            },
+            {
+              "c": [
+                "top two"
+              ],
+              "t": "li"
+            }
+          ],
+          "t": "ul"
+        }
+      ]
+    },
+    "render-lists/rd-nested.md/text": {
+      "aspect": "text",
+      "text": "top one child a child b top two"
+    },
+    "render-lists/rd-ordered-nested.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            {
+              "c": [
+                "first",
+                {
+                  "c": [
+                    {
+                      "c": [
+                        "inner one"
+                      ],
+                      "t": "li"
+                    },
+                    {
+                      "c": [
+                        "inner two"
+                      ],
+                      "t": "li"
+                    }
+                  ],
+                  "t": "ol"
+                }
+              ],
+              "t": "li"
+            },
+            {
+              "c": [
+                "second"
+              ],
+              "t": "li"
+            }
+          ],
+          "t": "ol"
+        }
+      ]
+    },
+    "render-lists/rd-ordered-nested.md/text": {
+      "aspect": "text",
+      "text": "first inner one inner two second"
+    },
+    "render-lists/rd-ordered-start.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "a": {
+            "start": "5"
+          },
+          "c": [
+            {
+              "c": [
+                "five"
+              ],
+              "t": "li"
+            },
+            {
+              "c": [
+                "six"
+              ],
+              "t": "li"
+            },
+            {
+              "c": [
+                "seven"
+              ],
+              "t": "li"
+            }
+          ],
+          "t": "ol"
+        }
+      ]
+    },
+    "render-lists/rd-ordered-start.md/text": {
+      "aspect": "text",
+      "text": "five six seven"
+    },
+    "render-lists/rd-ordered.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            {
+              "c": [
+                "one"
+              ],
+              "t": "li"
+            },
+            {
+              "c": [
+                "two"
+              ],
+              "t": "li"
+            },
+            {
+              "c": [
+                "three"
+              ],
+              "t": "li"
+            }
+          ],
+          "t": "ol"
+        }
+      ]
+    },
+    "render-lists/rd-ordered.md/text": {
+      "aspect": "text",
+      "text": "one two three"
+    },
+    "render-lists/rd-task.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            {
+              "c": [
+                {
+                  "a": {
+                    "disabled": "",
+                    "type": "checkbox"
+                  },
+                  "t": "input"
+                },
+                "first todo"
+              ],
+              "t": "li"
+            },
+            {
+              "c": [
+                {
+                  "a": {
+                    "checked": "",
+                    "disabled": "",
+                    "type": "checkbox"
+                  },
+                  "t": "input"
+                },
+                "second done"
+              ],
+              "t": "li"
+            },
+            {
+              "c": [
+                {
+                  "a": {
+                    "disabled": "",
+                    "type": "checkbox"
+                  },
+                  "t": "input"
+                },
+                "third todo"
+              ],
+              "t": "li"
+            }
+          ],
+          "t": "ul"
+        }
+      ]
+    },
+    "render-lists/rd-task.md/text": {
+      "aspect": "text",
+      "text": "first todo second done third todo"
+    },
+    "render-math/rd-math-block.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "\\int_0^1 x\\,dx"
+          ],
+          "t": "pre"
+        }
+      ]
+    },
+    "render-math/rd-math-block.md/text": {
+      "aspect": "text",
+      "text": "\\int_0^1 x\\,dx"
+    },
+    "render-math/rd-math-inline.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "Inline math $E = mc^2$ here."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-math/rd-math-inline.md/text": {
+      "aspect": "text",
+      "text": "Inline math $E = mc^2$ here."
+    },
+    "render-math/rd-math-multiple.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "Both $a$ and $b$ inline here."
+          ],
+          "t": "p"
+        }
+      ]
+    },
+    "render-math/rd-math-multiple.md/text": {
+      "aspect": "text",
+      "text": "Both $a$ and $b$ inline here."
+    },
+    "render-mixed/rd-mixed.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            "Report Title"
+          ],
+          "t": "h1"
+        },
+        {
+          "c": [
+            "Alpha",
+            {
+              "c": [
+                "bold"
+              ],
+              "t": "strong"
+            },
+            "and",
+            {
+              "c": [
+                "italic"
+              ],
+              "t": "em"
+            },
+            "text with",
+            {
+              "c": [
+                "code"
+              ],
+              "t": "code"
+            },
+            "and a",
+            {
+              "a": {
+                "href": "http://x.io"
+              },
+              "c": [
+                "link"
+              ],
+              "t": "a"
+            },
+            "."
+          ],
+          "t": "p"
+        },
+        {
+          "c": [
+            {
+              "c": [
+                "one"
+              ],
+              "t": "li"
+            },
+            {
+              "c": [
+                "two"
+              ],
+              "t": "li"
+            }
+          ],
+          "t": "ul"
+        },
+        {
+          "c": [
+            {
+              "c": [
+                "first"
+              ],
+              "t": "li"
+            },
+            {
+              "c": [
+                "second"
+              ],
+              "t": "li"
+            }
+          ],
+          "t": "ol"
+        },
+        {
+          "c": [
+            {
+              "c": [
+                "a quote line"
+              ],
+              "t": "p"
+            }
+          ],
+          "t": "blockquote"
+        },
+        {
+          "c": [
+            {
+              "c": [
+                {
+                  "c": [
+                    {
+                      "c": [
+                        "a"
+                      ],
+                      "t": "th"
+                    },
+                    {
+                      "c": [
+                        "b"
+                      ],
+                      "t": "th"
+                    }
+                  ],
+                  "t": "tr"
+                }
+              ],
+              "t": "thead"
+            },
+            {
+              "c": [
+                {
+                  "c": [
+                    {
+                      "c": [
+                        "1"
+                      ],
+                      "t": "td"
+                    },
+                    {
+                      "c": [
+                        "2"
+                      ],
+                      "t": "td"
+                    }
+                  ],
+                  "t": "tr"
+                }
+              ],
+              "t": "tbody"
+            }
+          ],
+          "t": "table"
+        }
+      ]
+    },
+    "render-mixed/rd-mixed.md/text": {
+      "aspect": "text",
+      "text": "Report Title Alpha bold and italic text with code and a link . one two first second a quote line a b 1 2"
+    },
+    "render-quotes/rd-quote-multiline.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            {
+              "c": [
+                "line one line two line three"
+              ],
+              "t": "p"
+            }
+          ],
+          "t": "blockquote"
+        }
+      ]
+    },
+    "render-quotes/rd-quote-multiline.md/text": {
+      "aspect": "text",
+      "text": "line one line two line three"
+    },
+    "render-quotes/rd-quote-nested.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            {
+              "c": [
+                "outer"
+              ],
+              "t": "p"
+            },
+            {
+              "c": [
+                {
+                  "c": [
+                    "inner"
+                  ],
+                  "t": "p"
+                }
+              ],
+              "t": "blockquote"
+            }
+          ],
+          "t": "blockquote"
+        }
+      ]
+    },
+    "render-quotes/rd-quote-nested.md/text": {
+      "aspect": "text",
+      "text": "outer inner"
+    },
+    "render-quotes/rd-quote-with-list.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            {
+              "c": [
+                {
+                  "c": [
+                    "item one"
+                  ],
+                  "t": "li"
+                },
+                {
+                  "c": [
+                    "item two"
+                  ],
+                  "t": "li"
+                }
+              ],
+              "t": "ul"
+            }
+          ],
+          "t": "blockquote"
+        }
+      ]
+    },
+    "render-quotes/rd-quote-with-list.md/text": {
+      "aspect": "text",
+      "text": "item one item two"
+    },
+    "render-quotes/rd-quote.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            {
+              "c": [
+                "a quote line second line"
+              ],
+              "t": "p"
+            }
+          ],
+          "t": "blockquote"
+        }
+      ]
+    },
+    "render-quotes/rd-quote.md/text": {
+      "aspect": "text",
+      "text": "a quote line second line"
+    },
+    "render-tables/rd-table-center.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            {
+              "c": [
+                {
+                  "c": [
+                    {
+                      "a": {
+                        "align": "left"
+                      },
+                      "c": [
+                        "Left"
+                      ],
+                      "t": "th"
+                    },
+                    {
+                      "a": {
+                        "align": "center"
+                      },
+                      "c": [
+                        "Center"
+                      ],
+                      "t": "th"
+                    },
+                    {
+                      "a": {
+                        "align": "right"
+                      },
+                      "c": [
+                        "Right"
+                      ],
+                      "t": "th"
+                    }
+                  ],
+                  "t": "tr"
+                }
+              ],
+              "t": "thead"
+            },
+            {
+              "c": [
+                {
+                  "c": [
+                    {
+                      "a": {
+                        "align": "left"
+                      },
+                      "c": [
+                        "a"
+                      ],
+                      "t": "td"
+                    },
+                    {
+                      "a": {
+                        "align": "center"
+                      },
+                      "c": [
+                        "b"
+                      ],
+                      "t": "td"
+                    },
+                    {
+                      "a": {
+                        "align": "right"
+                      },
+                      "c": [
+                        "c"
+                      ],
+                      "t": "td"
+                    }
+                  ],
+                  "t": "tr"
+                }
+              ],
+              "t": "tbody"
+            }
+          ],
+          "t": "table"
+        }
+      ]
+    },
+    "render-tables/rd-table-center.md/text": {
+      "aspect": "text",
+      "text": "Left Center Right a b c"
+    },
+    "render-tables/rd-table-three.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            {
+              "c": [
+                {
+                  "c": [
+                    {
+                      "c": [
+                        "A"
+                      ],
+                      "t": "th"
+                    },
+                    {
+                      "c": [
+                        "B"
+                      ],
+                      "t": "th"
+                    },
+                    {
+                      "c": [
+                        "C"
+                      ],
+                      "t": "th"
+                    }
+                  ],
+                  "t": "tr"
+                }
+              ],
+              "t": "thead"
+            },
+            {
+              "c": [
+                {
+                  "c": [
+                    {
+                      "c": [
+                        "1"
+                      ],
+                      "t": "td"
+                    },
+                    {
+                      "c": [
+                        "2"
+                      ],
+                      "t": "td"
+                    },
+                    {
+                      "c": [
+                        "3"
+                      ],
+                      "t": "td"
+                    }
+                  ],
+                  "t": "tr"
+                }
+              ],
+              "t": "tbody"
+            }
+          ],
+          "t": "table"
+        }
+      ]
+    },
+    "render-tables/rd-table-three.md/text": {
+      "aspect": "text",
+      "text": "A B C 1 2 3"
+    },
+    "render-tables/rd-table.md/body": {
+      "aspect": "body",
+      "body": [
+        {
+          "c": [
+            {
+              "c": [
+                {
+                  "c": [
+                    {
+                      "a": {
+                        "align": "left"
+                      },
+                      "c": [
+                        "Name"
+                      ],
+                      "t": "th"
+                    },
+                    {
+                      "a": {
+                        "align": "right"
+                      },
+                      "c": [
+                        "Age"
+                      ],
+                      "t": "th"
+                    }
+                  ],
+                  "t": "tr"
+                }
+              ],
+              "t": "thead"
+            },
+            {
+              "c": [
+                {
+                  "c": [
+                    {
+                      "a": {
+                        "align": "left"
+                      },
+                      "c": [
+                        "Alice"
+                      ],
+                      "t": "td"
+                    },
+                    {
+                      "a": {
+                        "align": "right"
+                      },
+                      "c": [
+                        "30"
+                      ],
+                      "t": "td"
+                    }
+                  ],
+                  "t": "tr"
+                },
+                {
+                  "c": [
+                    {
+                      "a": {
+                        "align": "left"
+                      },
+                      "c": [
+                        "Bob"
+                      ],
+                      "t": "td"
+                    },
+                    {
+                      "a": {
+                        "align": "right"
+                      },
+                      "c": [
+                        "25"
+                      ],
+                      "t": "td"
+                    }
+                  ],
+                  "t": "tr"
+                }
+              ],
+              "t": "tbody"
+            }
+          ],
+          "t": "table"
+        }
+      ]
+    },
+    "render-tables/rd-table.md/text": {
+      "aspect": "text",
+      "text": "Name Age Alice 30 Bob 25"
+    },
+    "serialize-blockquotes/sz-quote-blank-nested.md/content": {
+      "aspect": "content",
+      "markdown": "> outer\n>\n> > inner one\n> > inner two\n> > outer back\n"
+    },
+    "serialize-blockquotes/sz-quote-code-inside.md/content": {
+      "aspect": "content",
+      "markdown": "> text before\n>\n> ```\n> fenced in quote\n> ```\n"
+    },
+    "serialize-blockquotes/sz-quote-deep.md/content": {
+      "aspect": "content",
+      "markdown": "> a\n>\n> > b\n> >\n> > > c\n"
+    },
+    "serialize-blockquotes/sz-quote-heading-inside.md/content": {
+      "aspect": "content",
+      "markdown": "> # quoted heading\n>\n> body paragraph\n"
+    },
+    "serialize-blockquotes/sz-quote-lazy-multi.md/content": {
+      "aspect": "content",
+      "markdown": "> first line of quote\n> lazily continued\n> and more\n"
+    },
+    "serialize-blockquotes/sz-quote-lazy.md/content": {
+      "aspect": "content",
+      "markdown": "> lazy continuation\n> still the quote\n"
+    },
+    "serialize-blockquotes/sz-quote-nested-deep-lazy.md/content": {
+      "aspect": "content",
+      "markdown": "> a\n>\n> > b\n> > lazy c\n"
+    },
+    "serialize-blockquotes/sz-quote-nested-lazy.md/content": {
+      "aspect": "content",
+      "markdown": "> outer start\n>\n> > inner start\n> > inner lazy line\n"
+    },
+    "serialize-blockquotes/sz-quote-nested.md/content": {
+      "aspect": "content",
+      "markdown": "> outer\n>\n> > inner\n> > back to outer\n"
+    },
+    "serialize-blockquotes/sz-quote-nospace-multi.md/content": {
+      "aspect": "content",
+      "markdown": "> line one\n> line two\n> line three\n"
+    },
+    "serialize-blockquotes/sz-quote-nospace.md/content": {
+      "aspect": "content",
+      "markdown": "> no space here\n> second line\n"
+    },
+    "serialize-bullet-lists/sz-bul-blank-between.md/content": {
+      "aspect": "content",
+      "markdown": "- one\n\n- two\n\n- three\n"
+    },
+    "serialize-bullet-lists/sz-bul-dash-space.md/content": {
+      "aspect": "content",
+      "markdown": "- first apple\n- second banana\n- third cherry\n"
+    },
+    "serialize-bullet-lists/sz-bul-deep-nest.md/content": {
+      "aspect": "content",
+      "markdown": "- a\n  - b\n    - c\n      - d\n"
+    },
+    "serialize-bullet-lists/sz-bul-deep-three.md/content": {
+      "aspect": "content",
+      "markdown": "- level one\n  - level two three-space\n    - level three six-space\n"
+    },
+    "serialize-bullet-lists/sz-bul-mixed-indent.md/content": {
+      "aspect": "content",
+      "markdown": "- spaced marker\n- two space marker\n"
+    },
+    "serialize-bullet-lists/sz-bul-multiparagraph.md/content": {
+      "aspect": "content",
+      "markdown": "- first paragraph\n\n  second paragraph of first item\n\n- second item\n"
+    },
+    "serialize-bullet-lists/sz-bul-nested.md/content": {
+      "aspect": "content",
+      "markdown": "- top\n  - nested one\n  - nested two\n- top two\n"
+    },
+    "serialize-bullet-lists/sz-bul-para-continuation.md/content": {
+      "aspect": "content",
+      "markdown": "- item with\n  a lazy continuation line\n- second item\n"
+    },
+    "serialize-bullet-lists/sz-bul-plus-nested.md/content": {
+      "aspect": "content",
+      "markdown": "+ outer\n  + inner a\n  + inner b\n"
+    },
+    "serialize-bullet-lists/sz-bul-plus-space.md/content": {
+      "aspect": "content",
+      "markdown": "+ one plus\n+ two plus\n"
+    },
+    "serialize-bullet-lists/sz-bul-star-nested.md/content": {
+      "aspect": "content",
+      "markdown": "* top\n  * child one\n  * child two\n* top two\n"
+    },
+    "serialize-bullet-lists/sz-bul-star-space.md/content": {
+      "aspect": "content",
+      "markdown": "* red star\n* green star\n"
+    },
+    "serialize-bullet-lists/sz-bul-tab.md/content": {
+      "aspect": "content",
+      "markdown": "- tabbed one\n- tabbed two\n"
+    },
+    "serialize-bullet-lists/sz-bul-two-space.md/content": {
+      "aspect": "content",
+      "markdown": "- two space one\n- two space two\n"
+    },
+    "serialize-bullet-lists/sz-bul-with-code.md/content": {
+      "aspect": "content",
+      "markdown": "- item\n\n  ```\n  code in item\n  ```\n\n- next\n"
+    },
+    "serialize-code-blocks/sz-code-blank-leading.md/content": {
+      "aspect": "content",
+      "markdown": "```\nfirst code line\n```\n"
+    },
+    "serialize-code-blocks/sz-code-blank-lines.md/content": {
+      "aspect": "content",
+      "markdown": "```\ncode after blank\n```\n"
+    },
+    "serialize-code-blocks/sz-code-empty.md/content": {
+      "aspect": "content",
+      "markdown": "```\n\n```\n"
+    },
+    "serialize-code-blocks/sz-code-indented-blank.md/content": {
+      "aspect": "content",
+      "markdown": "    line one\n    \n    line two\n"
+    },
+    "serialize-code-blocks/sz-code-info-space.md/content": {
+      "aspect": "content",
+      "markdown": "```js\nconst a = 1\n```\n"
+    },
+    "serialize-code-blocks/sz-code-info-trailing.md/content": {
+      "aspect": "content",
+      "markdown": "```python\nprint(1)\n```\n"
+    },
+    "serialize-code-blocks/sz-code-long-info-space.md/content": {
+      "aspect": "content",
+      "markdown": "````text\ncode with ``` inside\n````\n"
+    },
+    "serialize-code-blocks/sz-code-no-close.md/content": {
+      "aspect": "content",
+      "markdown": "```python\nx = 1\ny = 2\n```\n"
+    },
+    "serialize-code-blocks/sz-code-tilde-info.md/content": {
+      "aspect": "content",
+      "markdown": "~~~python\nprint(1)\n~~~\n"
+    },
+    "serialize-code-blocks/sz-code-tilde-no-close.md/content": {
+      "aspect": "content",
+      "markdown": "~~~\ncode without a close\n~~~\n"
+    },
+    "serialize-code-blocks/sz-code-trailing-blank-in-fence.md/content": {
+      "aspect": "content",
+      "markdown": "```\ncontent line\n```\n"
+    },
+    "serialize-headings/sz-head-closed-many.md/content": {
+      "aspect": "content",
+      "markdown": "#### Four level closed\n"
+    },
+    "serialize-headings/sz-head-closed-uneven.md/content": {
+      "aspect": "content",
+      "markdown": "### Three open two close\n"
+    },
+    "serialize-headings/sz-head-closed.md/content": {
+      "aspect": "content",
+      "markdown": "## Closed heading\n\nbody\n"
+    },
+    "serialize-headings/sz-head-consecutive.md/content": {
+      "aspect": "content",
+      "markdown": "# First section\n\n## Second section\n\n### Third section\n"
+    },
+    "serialize-headings/sz-head-leading-space.md/content": {
+      "aspect": "content",
+      "markdown": "# Up to three leading spaces\n"
+    },
+    "serialize-headings/sz-head-levels.md/content": {
+      "aspect": "content",
+      "markdown": "# One\n\n## Two\n\n### Three\n\n#### Four\n"
+    },
+    "serialize-headings/sz-head-para-adjacent.md/content": {
+      "aspect": "content",
+      "markdown": "# A heading\n\nparagraph right after with no blank line\n"
+    },
+    "serialize-headings/sz-head-space-after.md/content": {
+      "aspect": "content",
+      "markdown": "# Heading with collapsed spaces\n\nbody\n"
+    },
+    "serialize-headings/sz-head-tab-and-space.md/content": {
+      "aspect": "content",
+      "markdown": "## mixed whitespace heading\n"
+    },
+    "serialize-headings/sz-head-tabs.md/content": {
+      "aspect": "content",
+      "markdown": "# Tab after the hash\n"
+    },
+    "serialize-headings/sz-head-trailing-hashes.md/content": {
+      "aspect": "content",
+      "markdown": "# Spaced word\n"
+    },
+    "serialize-headings/sz-head-trailing-tab.md/content": {
+      "aspect": "content",
+      "markdown": "# Heading with a trailing tab\n"
+    },
+    "serialize-headings/sz-head-trailing-ws.md/content": {
+      "aspect": "content",
+      "markdown": "# Heading with trailing spaces\n"
+    },
+    "serialize-headings/sz-head-two-consecutive.md/content": {
+      "aspect": "content",
+      "markdown": "## Alpha section\n\n### Beta section\n"
+    },
+    "serialize-headings/sz-head-unicode.md/content": {
+      "aspect": "content",
+      "markdown": "# 日本語の見出し\n\n## Ещё заголовок\n"
+    },
+    "serialize-headings/sz-head-wide-space.md/content": {
+      "aspect": "content",
+      "markdown": "### wide gap heading\n"
+    },
+    "serialize-ordered-lists/sz-ord-deep-four.md/content": {
+      "aspect": "content",
+      "markdown": "1. a\n   1. b\n      1. c\n         1. d\n"
+    },
+    "serialize-ordered-lists/sz-ord-deep.md/content": {
+      "aspect": "content",
+      "markdown": "1. a\n   1. b\n      1. c\n"
+    },
+    "serialize-ordered-lists/sz-ord-dot-space.md/content": {
+      "aspect": "content",
+      "markdown": "1. one\n2. two\n3. three\n"
+    },
+    "serialize-ordered-lists/sz-ord-dot-wide.md/content": {
+      "aspect": "content",
+      "markdown": "1. first wide\n2. second wide\n"
+    },
+    "serialize-ordered-lists/sz-ord-nested-bullet-deep.md/content": {
+      "aspect": "content",
+      "markdown": "1. first\n   - sub a\n     - sub sub\n2. second\n"
+    },
+    "serialize-ordered-lists/sz-ord-nested-bullet.md/content": {
+      "aspect": "content",
+      "markdown": "1. first\n   - a\n   - b\n2. second\n"
+    },
+    "serialize-ordered-lists/sz-ord-nested-mixed.md/content": {
+      "aspect": "content",
+      "markdown": "1. outer\n   1. inner one\n   2. inner two\n2. outer two\n"
+    },
+    "serialize-ordered-lists/sz-ord-paren-nested.md/content": {
+      "aspect": "content",
+      "markdown": "1) first\n   1) nested one\n2) second\n"
+    },
+    "serialize-ordered-lists/sz-ord-paren-space.md/content": {
+      "aspect": "content",
+      "markdown": "1) one paren\n2) two paren\n"
+    },
+    "serialize-ordered-lists/sz-ord-paren-wide.md/content": {
+      "aspect": "content",
+      "markdown": "1) paren wide a\n2) paren wide b\n"
+    },
+    "serialize-ordered-lists/sz-ord-tab.md/content": {
+      "aspect": "content",
+      "markdown": "1. tabbed one\n2. tabbed two\n"
+    },
+    "serialize-ordered-lists/sz-ord-wide-space.md/content": {
+      "aspect": "content",
+      "markdown": "1. alpha\n2. beta\n3. gamma\n"
+    },
+    "serialize-tables/sz-table-align-right.md/content": {
+      "aspect": "content",
+      "markdown": "| item   | qty |\n| ------ | ---:|\n| apples | 3   |\n| pears  | 12  |\n"
+    },
+    "serialize-tables/sz-table-align.md/content": {
+      "aspect": "content",
+      "markdown": "| L   | C   | R   |\n|:--- |:---:| ---:|\n| a   | b   | c   |\n"
+    },
+    "serialize-tables/sz-table-basic.md/content": {
+      "aspect": "content",
+      "markdown": "| A   | B   |\n| --- | --- |\n| 1   | 2   |\n| 3   | 4   |\n"
+    },
+    "serialize-tables/sz-table-center-only.md/content": {
+      "aspect": "content",
+      "markdown": "| a   | b   |\n|:---:|:---:|\n| 1   | 2   |\n"
+    },
+    "serialize-tables/sz-table-colon-variants.md/content": {
+      "aspect": "content",
+      "markdown": "| a   | b   | c   | d   |\n|:--- |:---:| ---:| --- |\n| 1   | 2   | 3   | 4   |\n"
+    },
+    "serialize-tables/sz-table-empty-cells.md/content": {
+      "aspect": "content",
+      "markdown": "| a   | b   |\n| --- | --- |\n|     |     |\n| 1   |     |\n"
+    },
+    "serialize-tables/sz-table-escaped-pipe.md/content": {
+      "aspect": "content",
+      "markdown": "| col | note   |\n| --- | ------ |\n| a   | x \\| y |\n"
+    },
+    "serialize-tables/sz-table-inline.md/content": {
+      "aspect": "content",
+      "markdown": "| name     | value  |\n| -------- | ------ |\n| **bold** | `code` |\n"
+    },
+    "serialize-tables/sz-table-long-content.md/content": {
+      "aspect": "content",
+      "markdown": "| key  | value             |\n| ---- | ----------------- |\n| name | a long value here |\n"
+    },
+    "serialize-tables/sz-table-min.md/content": {
+      "aspect": "content",
+      "markdown": "| x   |\n| --- |\n| 1   |\n"
+    },
+    "serialize-tables/sz-table-no-outer-pipes.md/content": {
+      "aspect": "content",
+      "markdown": "| a   | b   |\n| --- | --- |\n| 1   | 2   |\n"
+    },
+    "serialize-tables/sz-table-ragged.md/content": {
+      "aspect": "content",
+      "markdown": "| A   | B   | C   |\n| --- | --- | --- |\n| 1   | 2   |     |\n"
+    },
+    "serialize-tables/sz-table-three-col.md/content": {
+      "aspect": "content",
+      "markdown": "| x   | y   | z   |\n| --- | --- | --- |\n| 1   | 2   | 3   |\n"
+    },
+    "serialize-tables/sz-table-uneven-width.md/content": {
+      "aspect": "content",
+      "markdown": "| h1          | header two is wide |\n|:----------- |:------------------ |\n| x           | y                  |\n| longer cell | z                  |\n"
+    },
+    "serialize-tables/sz-table-wide-cells.md/content": {
+      "aspect": "content",
+      "markdown": "| short | a very long header cell |\n| ----- | ----------------------- |\n| x     | y                       |\n"
+    },
+    "serialize-task-lists/sz-task-deep.md/content": {
+      "aspect": "content",
+      "markdown": "- [ ] top\n  - [x] mid\n    - [ ] deep\n"
+    },
+    "serialize-task-lists/sz-task-mixed-upper.md/content": {
+      "aspect": "content",
+      "markdown": "- [x] a\n- [ ] b\n- [x] c\n"
+    },
+    "serialize-task-lists/sz-task-nested-deep.md/content": {
+      "aspect": "content",
+      "markdown": "- [ ] a\n  - [ ] b\n    - [x] c\n"
+    },
+    "serialize-task-lists/sz-task-nested.md/content": {
+      "aspect": "content",
+      "markdown": "- [ ] parent\n  - [x] child done\n  - [ ] child todo\n"
+    },
+    "serialize-task-lists/sz-task-spacing.md/content": {
+      "aspect": "content",
+      "markdown": "- [ ] spaced task\n- [x] another spaced\n"
+    },
+    "serialize-task-lists/sz-task-upper-only.md/content": {
+      "aspect": "content",
+      "markdown": "- [x] all upper one\n- [x] all upper two\n"
+    },
+    "serialize-task-lists/sz-task-upper.md/content": {
+      "aspect": "content",
+      "markdown": "- [x] done upper\n- [ ] not done\n"
+    },
+    "serialize-task-lists/sz-task-wide-space.md/content": {
+      "aspect": "content",
+      "markdown": "- [ ] wide spaced\n- [x] wide spaced two\n"
+    },
+    "serialize-whitespace/sz-ws-blanks-around-heading.md/content": {
+      "aspect": "content",
+      "markdown": "para one\n\n# A heading\n\npara two\n"
+    },
+    "serialize-whitespace/sz-ws-far-apart.md/content": {
+      "aspect": "content",
+      "markdown": "first paragraph\n\nfar apart paragraph\n"
+    },
+    "serialize-whitespace/sz-ws-heading-list-adjacent.md/content": {
+      "aspect": "content",
+      "markdown": "## Items\n\n- one\n- two\n"
+    },
+    "serialize-whitespace/sz-ws-heading-then-list.md/content": {
+      "aspect": "content",
+      "markdown": "# Title here\n\n- one\n- two\n"
+    },
+    "serialize-whitespace/sz-ws-leading-blanks.md/content": {
+      "aspect": "content",
+      "markdown": "first line after blanks\n"
+    },
+    "serialize-whitespace/sz-ws-mixed-constructs.md/content": {
+      "aspect": "content",
+      "markdown": "# Doc heading\n\n- loose bullet\n- second\n1) ordered one\n2) ordered two\n\n> a quote\n> lazily continued\n\n| a   | b   |\n| --- | --- |\n| 1   | 2   |\n"
+    },
+    "serialize-whitespace/sz-ws-multiple-blanks.md/content": {
+      "aspect": "content",
+      "markdown": "first\n\nsecond\n\nthird\n"
+    },
+    "serialize-whitespace/sz-ws-only-spaces-line.md/content": {
+      "aspect": "content",
+      "markdown": "first paragraph\n\nsecond paragraph\n"
+    },
+    "serialize-whitespace/sz-ws-para-then-heading.md/content": {
+      "aspect": "content",
+      "markdown": "a paragraph of text\n\n# then a heading with no blank line\n"
+    },
+    "serialize-whitespace/sz-ws-trailing-blanks.md/content": {
+      "aspect": "content",
+      "markdown": "content line\n\n\n"
+    }
+  }
+}

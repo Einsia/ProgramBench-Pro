@@ -1,0 +1,869 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        260,
+        8,
+        48,
+        48
+      ],
+      "ref": "e3565697427",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        308,
+        8,
+        956,
+        48
+      ],
+      "expanded": false,
+      "ref": "e3932625320",
+      "role": "combobox",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "bounds": [
+        348,
+        16,
+        900,
+        32
+      ],
+      "placeholder": "Search",
+      "ref": "e3492990951",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        8,
+        73,
+        240,
+        40
+      ],
+      "href": "/dashboard",
+      "ref": "e4053023811",
+      "role": null,
+      "tag": "a",
+      "text": "Home"
+    },
+    {
+      "bounds": [
+        8,
+        117,
+        240,
+        40
+      ],
+      "href": "/libraries/all",
+      "ref": "e2922887771",
+      "role": null,
+      "tag": "a",
+      "text": "Libraries"
+    },
+    {
+      "bounds": [
+        168,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3616030284",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        204,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3666363141",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        161,
+        240,
+        40
+      ],
+      "href": "/libraries/0S3GGPB95TMP6",
+      "ref": "e358385297",
+      "role": null,
+      "tag": "a",
+      "text": "Comics"
+    },
+    {
+      "bounds": [
+        204,
+        163,
+        36,
+        36
+      ],
+      "ref": "e3699918379",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        205,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e1184854462",
+      "role": "button",
+      "tag": "div",
+      "text": "Import"
+    },
+    {
+      "bounds": [
+        8,
+        245,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e2070932497",
+      "role": "button",
+      "tag": "div",
+      "text": "Media"
+    },
+    {
+      "bounds": [
+        8,
+        285,
+        240,
+        40
+      ],
+      "href": "/history",
+      "ref": "e3700334507",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        8,
+        329,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e3104230938",
+      "role": "button",
+      "tag": "div",
+      "text": "Server"
+    },
+    {
+      "bounds": [
+        8,
+        369,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e1456337507",
+      "role": "button",
+      "tag": "div",
+      "text": "My Account"
+    },
+    {
+      "bounds": [
+        8,
+        453,
+        240,
+        40
+      ],
+      "href": "/next",
+      "ref": "e108006909",
+      "role": null,
+      "tag": "a",
+      "text": "Try the new UI"
+    },
+    {
+      "bounds": [
+        72,
+        530,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e3679130362",
+      "role": "button",
+      "tag": "div",
+      "text": "Theme\nSystem"
+    },
+    {
+      "bounds": [
+        129,
+        530,
+        83,
+        26
+      ],
+      "label": "Theme",
+      "ref": "e2293683443",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        72,
+        594,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e918547495",
+      "role": "button",
+      "tag": "div",
+      "text": "Translation\nEnglish"
+    },
+    {
+      "bounds": [
+        128,
+        594,
+        84,
+        26
+      ],
+      "label": "Translation",
+      "ref": "e965999643",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        609,
+        78,
+        86,
+        36
+      ],
+      "href": "/libraries/all/series",
+      "ref": "e500207629",
+      "role": null,
+      "tag": "a",
+      "text": "SERIES"
+    },
+    {
+      "bounds": [
+        702,
+        78,
+        86,
+        36
+      ],
+      "href": "/libraries/all/books",
+      "ref": "e1890257787",
+      "role": null,
+      "tag": "a",
+      "text": "BOOKS"
+    },
+    {
+      "bounds": [
+        796,
+        78,
+        140,
+        36
+      ],
+      "href": "/libraries/all/collections",
+      "ref": "e3141257572",
+      "role": null,
+      "tag": "a",
+      "text": "COLLECTIONS"
+    },
+    {
+      "bounds": [
+        944,
+        78,
+        121,
+        36
+      ],
+      "href": "/libraries/all/readlists",
+      "ref": "e483480077",
+      "role": null,
+      "tag": "a",
+      "text": "READ LISTS"
+    },
+    {
+      "bounds": [
+        1180,
+        72,
+        48,
+        48
+      ],
+      "ref": "e1115114814",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1228,
+        72,
+        48,
+        48
+      ],
+      "ref": "e1165447671",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        284,
+        368,
+        134,
+        22
+      ],
+      "href": "/series/0S3GGPBDNTRDR",
+      "ref": "e2459529909",
+      "role": null,
+      "tag": "a",
+      "text": "Atlas",
+      "title": "Atlas"
+    },
+    {
+      "bounds": [
+        284,
+        390,
+        134,
+        22
+      ],
+      "href": "/book/0S3GGPBDNTRDS",
+      "ref": "e1338261347",
+      "role": null,
+      "tag": "a",
+      "text": "1 - Atlas chapter 1",
+      "title": "1 - Atlas chapter 1"
+    },
+    {
+      "bounds": [
+        450,
+        368,
+        134,
+        22
+      ],
+      "href": "/series/0S3GGPBDNTRDR",
+      "ref": "e2425974671",
+      "role": null,
+      "tag": "a",
+      "text": "Atlas",
+      "title": "Atlas"
+    },
+    {
+      "bounds": [
+        450,
+        390,
+        134,
+        22
+      ],
+      "href": "/book/0S3GGPBDNTRDT",
+      "ref": "e2592464962",
+      "role": null,
+      "tag": "a",
+      "text": "2 - Atlas chapter 2",
+      "title": "2 - Atlas chapter 2"
+    },
+    {
+      "bounds": [
+        616,
+        368,
+        134,
+        22
+      ],
+      "href": "/series/0S3GGPBDNTRDR",
+      "ref": "e2526640385",
+      "role": null,
+      "tag": "a",
+      "text": "Atlas",
+      "title": "Atlas"
+    },
+    {
+      "bounds": [
+        616,
+        390,
+        134,
+        22
+      ],
+      "href": "/book/0S3GGPBDSTTFP",
+      "ref": "e3719919602",
+      "role": null,
+      "tag": "a",
+      "text": "3 - Atlas chapter 3",
+      "title": "3 - Atlas chapter 3"
+    },
+    {
+      "bounds": [
+        782,
+        368,
+        134,
+        22
+      ],
+      "href": "/series/0S3GGPBD5TJ5X",
+      "ref": "e2234065013",
+      "role": null,
+      "tag": "a",
+      "text": "Beacon",
+      "title": "Beacon"
+    },
+    {
+      "bounds": [
+        782,
+        390,
+        134,
+        22
+      ],
+      "href": "/book/0S3GGPBDDTJQ0",
+      "ref": "e527525385",
+      "role": null,
+      "tag": "a",
+      "text": "1 - Beacon chapter 1",
+      "title": "1 - Beacon chapter 1"
+    },
+    {
+      "bounds": [
+        948,
+        368,
+        134,
+        22
+      ],
+      "href": "/series/0S3GGPBD5TJ5X",
+      "ref": "e2200509775",
+      "role": null,
+      "tag": "a",
+      "text": "Beacon",
+      "title": "Beacon"
+    },
+    {
+      "bounds": [
+        948,
+        390,
+        134,
+        22
+      ],
+      "href": "/book/0S3GGPBD9TP2X",
+      "ref": "e3857714631",
+      "role": null,
+      "tag": "a",
+      "text": "2 - Beacon chapter 2",
+      "title": "2 - Beacon chapter 2"
+    },
+    {
+      "bounds": [
+        1114,
+        368,
+        134,
+        22
+      ],
+      "href": "/series/0S3GGPBD5TJ5X",
+      "ref": "e2166954537",
+      "role": null,
+      "tag": "a",
+      "text": "Beacon",
+      "title": "Beacon"
+    },
+    {
+      "bounds": [
+        1114,
+        390,
+        134,
+        22
+      ],
+      "href": "/book/0S3GGPBDDTJPZ",
+      "ref": "e3810514558",
+      "role": null,
+      "tag": "a",
+      "text": "3 - Beacon chapter 3",
+      "title": "3 - Beacon chapter 3"
+    },
+    {
+      "bounds": [
+        284,
+        690,
+        134,
+        22
+      ],
+      "href": "/series/0S3GGPBDXTYP3",
+      "ref": "e3803943728",
+      "role": null,
+      "tag": "a",
+      "text": "Café 漫画",
+      "title": "Café 漫画"
+    },
+    {
+      "bounds": [
+        284,
+        712,
+        134,
+        22
+      ],
+      "href": "/book/0S3GGPBE1TPD2",
+      "ref": "e475071781",
+      "role": null,
+      "tag": "a",
+      "text": "1 - Café 漫画 chapter 1",
+      "title": "1 - Café 漫画 chapter 1"
+    },
+    {
+      "bounds": [
+        450,
+        690,
+        134,
+        22
+      ],
+      "href": "/series/0S3GGPBDXTYP3",
+      "ref": "e4038830394",
+      "role": null,
+      "tag": "a",
+      "text": "Café 漫画",
+      "title": "Café 漫画"
+    },
+    {
+      "bounds": [
+        450,
+        712,
+        134,
+        22
+      ],
+      "href": "/book/0S3GGPBDXTYP5",
+      "ref": "e791227526",
+      "role": null,
+      "tag": "a",
+      "text": "2 - Café 漫画 chapter 2",
+      "title": "2 - Café 漫画 chapter 2"
+    },
+    {
+      "bounds": [
+        616,
+        690,
+        134,
+        22
+      ],
+      "href": "/series/0S3GGPBDXTYP3",
+      "ref": "e2025074829",
+      "role": null,
+      "tag": "a",
+      "text": "Café 漫画",
+      "title": "Café 漫画"
+    },
+    {
+      "bounds": [
+        616,
+        712,
+        134,
+        22
+      ],
+      "href": "/book/0S3GGPBDXTYP4",
+      "ref": "e3439128453",
+      "role": null,
+      "tag": "a",
+      "text": "3 - Café 漫画 chapter 3",
+      "title": "3 - Café 漫画 chapter 3"
+    },
+    {
+      "bounds": [
+        782,
+        690,
+        134,
+        22
+      ],
+      "href": "/series/0S3GGPBDSTTFQ",
+      "ref": "e4159071196",
+      "role": null,
+      "tag": "a",
+      "text": "Delta",
+      "title": "Delta"
+    },
+    {
+      "bounds": [
+        782,
+        712,
+        134,
+        22
+      ],
+      "href": "/book/0S3GGPBDSTTFT",
+      "ref": "e1059656298",
+      "role": null,
+      "tag": "a",
+      "text": "1 - Delta chapter 1",
+      "title": "1 - Delta chapter 1"
+    },
+    {
+      "bounds": [
+        948,
+        690,
+        134,
+        22
+      ],
+      "href": "/series/0S3GGPBDSTTFQ",
+      "ref": "e4125515958",
+      "role": null,
+      "tag": "a",
+      "text": "Delta",
+      "title": "Delta"
+    },
+    {
+      "bounds": [
+        948,
+        712,
+        134,
+        22
+      ],
+      "href": "/book/0S3GGPBDSTTFS",
+      "ref": "e3296145223",
+      "role": null,
+      "tag": "a",
+      "text": "2 - Delta chapter 2",
+      "title": "2 - Delta chapter 2"
+    },
+    {
+      "bounds": [
+        1114,
+        690,
+        134,
+        22
+      ],
+      "href": "/series/0S3GGPBDSTTFQ",
+      "ref": "e4091960720",
+      "role": null,
+      "tag": "a",
+      "text": "Delta",
+      "title": "Delta"
+    },
+    {
+      "bounds": [
+        1114,
+        712,
+        134,
+        22
+      ],
+      "href": "/book/0S3GGPBDSTTFR",
+      "ref": "e1044985240",
+      "role": null,
+      "tag": "a",
+      "text": "3 - Delta chapter 3",
+      "title": "3 - Delta chapter 3"
+    },
+    {
+      "bounds": [
+        284,
+        1012,
+        134,
+        22
+      ],
+      "href": "/series/0S3GGPBDNTRDM",
+      "offscreen": true,
+      "ref": "e1429165248",
+      "role": null,
+      "tag": "a",
+      "text": "Evergreen",
+      "title": "Evergreen"
+    },
+    {
+      "bounds": [
+        284,
+        1034,
+        134,
+        22
+      ],
+      "href": "/book/0S3GGPBDNTRDN",
+      "offscreen": true,
+      "ref": "e1033352151",
+      "role": null,
+      "tag": "a",
+      "text": "1 - Evergreen chapter 1",
+      "title": "1 - Evergreen chapter 1"
+    },
+    {
+      "bounds": [
+        450,
+        1012,
+        134,
+        22
+      ],
+      "href": "/series/0S3GGPBDNTRDM",
+      "offscreen": true,
+      "ref": "e1496128629",
+      "role": null,
+      "tag": "a",
+      "text": "Evergreen",
+      "title": "Evergreen"
+    },
+    {
+      "bounds": [
+        450,
+        1034,
+        134,
+        22
+      ],
+      "href": "/book/0S3GGPBDNTRDP",
+      "offscreen": true,
+      "ref": "e4188761767",
+      "role": null,
+      "tag": "a",
+      "text": "2 - Evergreen chapter 2",
+      "title": "2 - Evergreen chapter 2"
+    },
+    {
+      "bounds": [
+        616,
+        1012,
+        134,
+        22
+      ],
+      "href": "/series/0S3GGPBDNTRDM",
+      "offscreen": true,
+      "ref": "e1462573391",
+      "role": null,
+      "tag": "a",
+      "text": "Evergreen",
+      "title": "Evergreen"
+    },
+    {
+      "bounds": [
+        616,
+        1034,
+        134,
+        22
+      ],
+      "href": "/book/0S3GGPBDNTRDQ",
+      "offscreen": true,
+      "ref": "e1474791520",
+      "role": null,
+      "tag": "a",
+      "text": "3 - Evergreen chapter 3",
+      "title": "3 - Evergreen chapter 3"
+    },
+    {
+      "bounds": [
+        782,
+        1012,
+        134,
+        22
+      ],
+      "href": "/series/0S3GGPBDHTMZ9",
+      "offscreen": true,
+      "ref": "e2234815804",
+      "role": null,
+      "tag": "a",
+      "text": "Folio",
+      "title": "Folio"
+    },
+    {
+      "bounds": [
+        782,
+        1034,
+        134,
+        22
+      ],
+      "href": "/book/0S3GGPBDHTMZB",
+      "offscreen": true,
+      "ref": "e3960755008",
+      "role": null,
+      "tag": "a",
+      "text": "1 - Folio chapter 1",
+      "title": "1 - Folio chapter 1"
+    },
+    {
+      "bounds": [
+        948,
+        1012,
+        134,
+        22
+      ],
+      "href": "/series/0S3GGPBDHTMZ9",
+      "offscreen": true,
+      "ref": "e2268371042",
+      "role": null,
+      "tag": "a",
+      "text": "Folio",
+      "title": "Folio"
+    },
+    {
+      "bounds": [
+        948,
+        1034,
+        134,
+        22
+      ],
+      "href": "/book/0S3GGPBDHTMZC",
+      "offscreen": true,
+      "ref": "e1680601399",
+      "role": null,
+      "tag": "a",
+      "text": "2 - Folio chapter 2",
+      "title": "2 - Folio chapter 2"
+    },
+    {
+      "bounds": [
+        1114,
+        1012,
+        134,
+        22
+      ],
+      "href": "/series/0S3GGPBDHTMZ9",
+      "offscreen": true,
+      "ref": "e2301926280",
+      "role": null,
+      "tag": "a",
+      "text": "Folio",
+      "title": "Folio"
+    },
+    {
+      "bounds": [
+        1114,
+        1034,
+        134,
+        22
+      ],
+      "href": "/book/0S3GGPBDHTMZA",
+      "offscreen": true,
+      "ref": "e2335380666",
+      "role": null,
+      "tag": "a",
+      "text": "3 - Folio chapter 3",
+      "title": "3 - Folio chapter 3"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    1118
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Komga\nHome\nLibraries\nComics\nImport\nMedia\nHistory\nServer\nMy Account\nLog Out\nTry the new UI\nTheme\nSystem\nTranslation\nEnglish\nPinned Libraries\n18\nSERIES\nBOOKS\nCOLLECTIONS\nREAD LISTS\nAtlas\n1 - Atlas chapter 1\n4 pages\nAtlas\n2 - Atlas chapter 2\n4 pages\nAtlas\n3 - Atlas chapter 3\n4 pages\nBeacon\n1 - Beacon chapter 1\n4 pages\nBeacon\n2 - Beacon chapter 2\n4 pages\nBeacon\n3 - Beacon chapter 3\n4 pages\nCafé 漫画\n1 - Café 漫画 chapter 1\n4 pages\nCafé 漫画\n2 - Café 漫画 chapter 2\n4 pages\nCafé 漫画\n3 - Café 漫画 chapter 3\n4 pages\nDelta\n1 - Delta chapter 1\n4 pages\nDelta\n2 - Delta chapter 2\n4 pages\nDelta\n3 - Delta chapter 3\n4 pages\nEvergreen\n1 - Evergreen chapter 1\n4 pages\nEvergreen\n2 - Evergreen chapter 2\n4 pages\nEvergreen\n3 - Evergreen chapter 3\n4 pages\nFolio\n1 - Folio chapter 1\n4 pages\nFolio\n2 - Folio chapter 2\n4 pages\nFolio\n3 - Folio chapter 3\n4 pages",
+  "text_truncated": false,
+  "title": "Komga",
+  "url": "/libraries/all/books",
+  "viewport": [
+    1280,
+    900
+  ]
+}

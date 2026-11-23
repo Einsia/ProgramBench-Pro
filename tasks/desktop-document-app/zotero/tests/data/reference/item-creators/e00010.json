@@ -1,0 +1,2088 @@
+{
+  "focused": "e46bdbfb4",
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        881
+      ],
+      "name": "My Library - Zotero",
+      "ref": "ead4bdb1d",
+      "role": "frame",
+      "states": [
+        "active"
+      ],
+      "text": "￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼"
+    },
+    {
+      "bounds": [
+        8,
+        19,
+        1154,
+        36
+      ],
+      "name": "",
+      "ref": "eeb2247d8",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        19,
+        210,
+        36
+      ],
+      "name": "Application",
+      "ref": "e5c0c6bd6",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        8,
+        19,
+        36,
+        36
+      ],
+      "name": "File",
+      "ref": "eae5e7196",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        44,
+        19,
+        39,
+        36
+      ],
+      "name": "Edit",
+      "ref": "e9280c15b",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        83,
+        19,
+        45,
+        36
+      ],
+      "name": "View",
+      "ref": "e2cb9b4a8",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        128,
+        19,
+        46,
+        36
+      ],
+      "name": "Tools",
+      "ref": "ec5a466a3",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        174,
+        19,
+        44,
+        36
+      ],
+      "name": "Help",
+      "ref": "ef594ac36",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        0,
+        55,
+        1207,
+        36
+      ],
+      "name": "",
+      "ref": "ef0a88b3f",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        55,
+        1199,
+        36
+      ],
+      "name": "",
+      "ref": "e5435fdac",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        9,
+        59,
+        200,
+        28
+      ],
+      "name": "",
+      "ref": "e6f6dda1a",
+      "role": "section",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        35,
+        64,
+        168,
+        18
+      ],
+      "name": "My Library",
+      "ref": "e14c014a2",
+      "role": "section"
+    },
+    {
+      "bounds": [
+        1211,
+        59,
+        28,
+        28
+      ],
+      "name": "List all tabs",
+      "ref": "e82983a32",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1248,
+        59,
+        28,
+        28
+      ],
+      "name": "Sync with zotero.org",
+      "ref": "ebd38ba1b",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        92,
+        200,
+        41
+      ],
+      "name": "",
+      "ref": "e30e37922",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        8,
+        98,
+        28,
+        28
+      ],
+      "name": "New Collection…",
+      "ref": "eaf37dda1",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        156,
+        98,
+        28,
+        28
+      ],
+      "name": "Filter Collections",
+      "ref": "e7bbd7881",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        133,
+        200,
+        567
+      ],
+      "name": "",
+      "ref": "e6cae55ac",
+      "role": "section",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        0,
+        133,
+        200,
+        567
+      ],
+      "name": "Collections",
+      "ref": "e3fc109d8",
+      "role": "tree",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        0,
+        133,
+        200,
+        567
+      ],
+      "name": "",
+      "ref": "eb7fe2a2b",
+      "role": "section",
+      "text": "￼￼￼￼￼￼"
+    },
+    {
+      "bounds": [
+        8,
+        133,
+        184,
+        28
+      ],
+      "name": "My Library",
+      "ref": "e19545fd2",
+      "role": "tree item",
+      "states": [
+        "selected",
+        "expanded",
+        "active"
+      ],
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        133,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e5b982c1c",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        44,
+        138,
+        144,
+        18
+      ],
+      "name": "",
+      "ref": "e949e16e3",
+      "role": "section",
+      "text": "My Library"
+    },
+    {
+      "bounds": [
+        8,
+        161,
+        184,
+        28
+      ],
+      "name": "Recently Read",
+      "ref": "e97dca4d1",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        161,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e4b31b13a",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        166,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "e6527c2eb",
+      "role": "section",
+      "text": "Recently Read"
+    },
+    {
+      "bounds": [
+        8,
+        189,
+        184,
+        28
+      ],
+      "name": "My Publications",
+      "ref": "e8018da65",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        189,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e60ce88f8",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        194,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "e1cd9ec22",
+      "role": "section",
+      "text": "My Publications"
+    },
+    {
+      "bounds": [
+        8,
+        217,
+        184,
+        28
+      ],
+      "name": "Duplicate Items",
+      "ref": "ec080f737",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        217,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e1a9174ab",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        222,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "e9a440bd6",
+      "role": "section",
+      "text": "Duplicate Items"
+    },
+    {
+      "bounds": [
+        8,
+        245,
+        184,
+        28
+      ],
+      "name": "Unfiled Items",
+      "ref": "ebc78b9cf",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        245,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "ed3a9131c",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        250,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "e6881de92",
+      "role": "section",
+      "text": "Unfiled Items"
+    },
+    {
+      "bounds": [
+        8,
+        273,
+        184,
+        28
+      ],
+      "name": "Trash",
+      "ref": "e3a1da046",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        273,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "eedbb7f7a",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        278,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "ea2ad079a",
+      "role": "section",
+      "text": "Trash"
+    },
+    {
+      "bounds": [
+        0,
+        700,
+        200,
+        200
+      ],
+      "name": "",
+      "ref": "e57aa693b",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        0,
+        700,
+        200,
+        200
+      ],
+      "name": "",
+      "ref": "e8e529781",
+      "role": "section",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        0,
+        700,
+        200,
+        163
+      ],
+      "name": "",
+      "ref": "e7ef021d1",
+      "role": "section",
+      "text": "No tags to display"
+    },
+    {
+      "bounds": [
+        8,
+        870,
+        144,
+        24
+      ],
+      "name": "Filter Tags",
+      "ref": "e59a38a2f",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        156,
+        870,
+        36,
+        24
+      ],
+      "name": "Actions",
+      "ref": "ec1ed66a8",
+      "role": "push button",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        200,
+        92,
+        723,
+        41
+      ],
+      "name": "",
+      "ref": "e32ed8ff3",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        208,
+        98,
+        40,
+        28
+      ],
+      "name": "New Item",
+      "ref": "ed2f311e2",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        256,
+        98,
+        28,
+        28
+      ],
+      "name": "Add Item(s) by Identifier",
+      "ref": "ea6d01f8f",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        292,
+        98,
+        40,
+        28
+      ],
+      "name": "Add Attachment",
+      "ref": "ef952ec7e",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        340,
+        98,
+        40,
+        28
+      ],
+      "name": "New Note",
+      "ref": "e553c0457",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        615,
+        98,
+        36,
+        28
+      ],
+      "name": "Quick Search mode",
+      "ref": "ef94081cc",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        655,
+        99,
+        227,
+        26
+      ],
+      "description": "All Fields & Tags",
+      "name": "Quick Search",
+      "ref": "e8b8992fe",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        885,
+        98,
+        28,
+        28
+      ],
+      "name": "Advanced Search",
+      "ref": "e9d5a1225",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        200,
+        133,
+        723,
+        767
+      ],
+      "name": "",
+      "ref": "e33b3cb16",
+      "role": "section",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        200,
+        133,
+        723,
+        767
+      ],
+      "name": "Items",
+      "ref": "e86693c48",
+      "role": "tree",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        200,
+        133,
+        723,
+        30
+      ],
+      "name": "",
+      "ref": "ed5511ba1",
+      "role": "section",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        139,
+        525,
+        17
+      ],
+      "name": "",
+      "ref": "e694c5b64",
+      "role": "section",
+      "text": "Title"
+    },
+    {
+      "bounds": [
+        749,
+        139,
+        126,
+        17
+      ],
+      "name": "",
+      "ref": "e8ed6218b",
+      "role": "section",
+      "text": "Creator"
+    },
+    {
+      "bounds": [
+        883,
+        140,
+        32,
+        16
+      ],
+      "name": "Attachments",
+      "ref": "efdc5d7d7",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        200,
+        167,
+        723,
+        733
+      ],
+      "name": "",
+      "ref": "e340087f0",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        208,
+        167,
+        707,
+        28
+      ],
+      "name": "Patterns of Software. Book. Software Patterns Group",
+      "ref": "e46bdbfb4",
+      "role": "tree item",
+      "states": [
+        "focused",
+        "selected",
+        "active"
+      ],
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        173,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "e63c25d20",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        173,
+        489,
+        17
+      ],
+      "name": "Patterns of Software. Book.",
+      "ref": "e23676d62",
+      "role": "section",
+      "text": "Patterns of Software"
+    },
+    {
+      "bounds": [
+        741,
+        173,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "e0a3db963",
+      "role": "section",
+      "text": "Software Patterns Group"
+    },
+    {
+      "bounds": [
+        931,
+        96,
+        304,
+        27
+      ],
+      "name": "Title",
+      "ref": "ef7a8c8b0",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        931,
+        96,
+        304,
+        27
+      ],
+      "name": "Title",
+      "ref": "e94a73ef1",
+      "role": "entry",
+      "states": [
+        "editable"
+      ],
+      "text": "Patterns of Software"
+    },
+    {
+      "bounds": [
+        923,
+        133,
+        320,
+        767
+      ],
+      "name": "Item Details",
+      "ref": "e55679017",
+      "role": "section",
+      "text": "￼￼￼￼￼￼￼￼￼￼￼￼￼￼"
+    },
+    {
+      "bounds": [
+        931,
+        137,
+        304,
+        24
+      ],
+      "name": "Info",
+      "ref": "e8348799e",
+      "role": "push button",
+      "states": [
+        "expanded"
+      ],
+      "text": "Info￼￼￼"
+    },
+    {
+      "bounds": [
+        1215,
+        139,
+        20,
+        20
+      ],
+      "name": "Collapse Info section",
+      "ref": "e6e221451",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        931,
+        163,
+        304,
+        832
+      ],
+      "name": "",
+      "ref": "e88aa4710",
+      "role": "section",
+      "text": "￼￼￼￼￼"
+    },
+    {
+      "bounds": [
+        931,
+        163,
+        304,
+        832
+      ],
+      "name": "",
+      "ref": "e78af295d",
+      "role": "section",
+      "text": "￼￼￼￼￼￼￼￼,￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼"
+    },
+    {
+      "bounds": [
+        931,
+        166,
+        115,
+        18
+      ],
+      "name": "Item Type",
+      "ref": "eef596acd",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1054,
+        163,
+        176,
+        21
+      ],
+      "name": "Item Type",
+      "ref": "e064c99a3",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        931,
+        189,
+        115,
+        21
+      ],
+      "name": "Title",
+      "ref": "e8e09e9fc",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1054,
+        186,
+        159,
+        24
+      ],
+      "name": "Title",
+      "ref": "e36fd53e2",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1054,
+        186,
+        159,
+        24
+      ],
+      "name": "Title",
+      "ref": "ea6598eee",
+      "role": "entry",
+      "states": [
+        "editable"
+      ],
+      "text": "Patterns of Software"
+    },
+    {
+      "bounds": [
+        1217,
+        186,
+        18,
+        21
+      ],
+      "name": "Open context menu",
+      "ref": "e5c0a16b7",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        931,
+        212,
+        18,
+        20
+      ],
+      "name": "",
+      "ref": "e6d9e7677",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        991,
+        213,
+        59,
+        21
+      ],
+      "name": "Editor",
+      "ref": "e4e8ecac8",
+      "role": "push button",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        1006,
+        215,
+        40,
+        17
+      ],
+      "name": "Editor",
+      "ref": "e0c47f08f",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1054,
+        212,
+        57,
+        23
+      ],
+      "name": "(last)",
+      "ref": "ea301e30b",
+      "role": "entry",
+      "states": [
+        "editable"
+      ],
+      "text": "Hopper"
+    },
+    {
+      "bounds": [
+        1111,
+        212,
+        49,
+        23
+      ],
+      "name": "(first)",
+      "ref": "eea861b3f",
+      "role": "entry",
+      "states": [
+        "editable"
+      ],
+      "text": "Grace"
+    },
+    {
+      "bounds": [
+        1044,
+        204,
+        22,
+        16
+      ],
+      "name": "Switch to Single Field",
+      "ref": "eb292f082",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1047,
+        204,
+        16,
+        16
+      ],
+      "name": "Delete",
+      "ref": "e87642421",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1047,
+        204,
+        16,
+        16
+      ],
+      "name": "Create",
+      "ref": "e7c99eb7a",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1047,
+        204,
+        16,
+        16
+      ],
+      "name": "Open context menu",
+      "ref": "e42405fe6",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        931,
+        237,
+        18,
+        20
+      ],
+      "name": "",
+      "ref": "eee452864",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        986,
+        238,
+        64,
+        21
+      ],
+      "description": "Editor",
+      "name": "Author",
+      "ref": "e302e52a4",
+      "role": "push button",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        1000,
+        240,
+        46,
+        17
+      ],
+      "name": "Author",
+      "ref": "e510ddf4b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1054,
+        237,
+        99,
+        23
+      ],
+      "name": "(full name)",
+      "ref": "e1ce58475",
+      "role": "entry",
+      "states": [
+        "editable"
+      ],
+      "text": "Software Patterns Group"
+    },
+    {
+      "bounds": [
+        1154,
+        237,
+        24,
+        20
+      ],
+      "name": "Switch to Two Fields",
+      "ref": "e61a72993",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1179,
+        237,
+        18,
+        20
+      ],
+      "name": "Delete",
+      "ref": "ef4684856",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1198,
+        237,
+        18,
+        20
+      ],
+      "name": "Create",
+      "ref": "e010ea0df",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1217,
+        237,
+        18,
+        20
+      ],
+      "name": "Open context menu",
+      "ref": "eed1d6797",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        931,
+        265,
+        115,
+        21
+      ],
+      "name": "Series",
+      "ref": "ec897d2f2",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1054,
+        262,
+        181,
+        24
+      ],
+      "name": "Series",
+      "ref": "e183be5ed",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1054,
+        262,
+        181,
+        24
+      ],
+      "name": "Series",
+      "ref": "eae1724b4",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        291,
+        115,
+        20
+      ],
+      "name": "Series Number",
+      "ref": "ea5a2f1cd",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1054,
+        288,
+        181,
+        23
+      ],
+      "name": "Series Number",
+      "ref": "e9304fdb6",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1054,
+        288,
+        181,
+        23
+      ],
+      "name": "Series Number",
+      "ref": "eda5fd108",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        316,
+        115,
+        20
+      ],
+      "name": "Volume",
+      "ref": "e60963c1f",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1054,
+        313,
+        181,
+        23
+      ],
+      "name": "Volume",
+      "ref": "e0bdf171e",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1054,
+        313,
+        181,
+        23
+      ],
+      "name": "Volume",
+      "ref": "ea1125b3a",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        341,
+        115,
+        21
+      ],
+      "name": "# of Volumes",
+      "ref": "ecc0a4bf0",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1054,
+        338,
+        181,
+        24
+      ],
+      "name": "# of Volumes",
+      "ref": "efdadf254",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1054,
+        338,
+        181,
+        24
+      ],
+      "name": "# of Volumes",
+      "ref": "e82359d94",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        367,
+        115,
+        20
+      ],
+      "name": "Edition",
+      "ref": "eafaf42b8",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1054,
+        364,
+        181,
+        23
+      ],
+      "name": "Edition",
+      "ref": "edfa7f63d",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1054,
+        364,
+        181,
+        23
+      ],
+      "name": "Edition",
+      "ref": "ed26262b6",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        392,
+        115,
+        20
+      ],
+      "name": "Date",
+      "ref": "e45c2e42e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1054,
+        389,
+        167,
+        23
+      ],
+      "description": "1996-00-00",
+      "name": "Date",
+      "ref": "ec6c1d43f",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1054,
+        389,
+        167,
+        23
+      ],
+      "name": "Date",
+      "ref": "e48345cfd",
+      "role": "entry",
+      "states": [
+        "editable"
+      ],
+      "text": "1996"
+    },
+    {
+      "bounds": [
+        1221,
+        392,
+        14,
+        17
+      ],
+      "name": "",
+      "ref": "e9b9ff252",
+      "role": "section",
+      "text": "y"
+    },
+    {
+      "bounds": [
+        931,
+        417,
+        115,
+        21
+      ],
+      "name": "Publisher",
+      "ref": "e7c3609f5",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1054,
+        414,
+        181,
+        24
+      ],
+      "name": "Publisher",
+      "ref": "e6736103b",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1054,
+        414,
+        181,
+        24
+      ],
+      "name": "Publisher",
+      "ref": "eb0a173ba",
+      "role": "entry",
+      "states": [
+        "editable"
+      ],
+      "text": "Oxford University Press"
+    },
+    {
+      "bounds": [
+        931,
+        443,
+        115,
+        20
+      ],
+      "name": "Place",
+      "ref": "ef1280174",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1054,
+        440,
+        181,
+        23
+      ],
+      "name": "Place",
+      "ref": "ef7f4dc64",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1054,
+        440,
+        181,
+        23
+      ],
+      "name": "Place",
+      "ref": "e7bb4be26",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        468,
+        115,
+        20
+      ],
+      "name": "Original Date",
+      "ref": "e9b76edf0",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1054,
+        465,
+        181,
+        23
+      ],
+      "name": "Original Date",
+      "ref": "e02bde62d",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1054,
+        465,
+        181,
+        23
+      ],
+      "name": "Original Date",
+      "ref": "e7de08725",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        493,
+        115,
+        21
+      ],
+      "name": "Original Publisher",
+      "ref": "e8430041a",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1054,
+        490,
+        181,
+        24
+      ],
+      "name": "Original Publisher",
+      "ref": "ee7c11e59",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1054,
+        490,
+        181,
+        24
+      ],
+      "name": "Original Publisher",
+      "ref": "ec985261a",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        519,
+        115,
+        20
+      ],
+      "name": "Original Place",
+      "ref": "e38e62da4",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1054,
+        516,
+        181,
+        23
+      ],
+      "name": "Original Place",
+      "ref": "e6e7fc640",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1054,
+        516,
+        181,
+        23
+      ],
+      "name": "Original Place",
+      "ref": "ec40f5f4d",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        544,
+        115,
+        20
+      ],
+      "name": "Format",
+      "ref": "e5257c0bf",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1054,
+        541,
+        181,
+        23
+      ],
+      "name": "Format",
+      "ref": "e1999a153",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1054,
+        541,
+        181,
+        23
+      ],
+      "name": "Format",
+      "ref": "e8d8af249",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        569,
+        115,
+        21
+      ],
+      "name": "# of Pages",
+      "ref": "ee736628d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1054,
+        566,
+        181,
+        24
+      ],
+      "name": "# of Pages",
+      "ref": "e1582747d",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1054,
+        566,
+        181,
+        24
+      ],
+      "name": "# of Pages",
+      "ref": "ee35660ea",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        595,
+        115,
+        20
+      ],
+      "name": "ISBN",
+      "ref": "ed40e130e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1054,
+        592,
+        181,
+        23
+      ],
+      "name": "ISBN",
+      "ref": "e61935111",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1054,
+        592,
+        181,
+        23
+      ],
+      "name": "ISBN",
+      "ref": "e693d1980",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        620,
+        115,
+        20
+      ],
+      "name": "DOI",
+      "ref": "e95ff8441",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1054,
+        617,
+        181,
+        23
+      ],
+      "name": "DOI",
+      "ref": "e384cd135",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1054,
+        617,
+        181,
+        23
+      ],
+      "name": "DOI",
+      "ref": "ef1b2e680",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        645,
+        115,
+        21
+      ],
+      "name": "Citation Key",
+      "ref": "ef976ea4e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1054,
+        642,
+        181,
+        24
+      ],
+      "name": "Citation Key",
+      "ref": "e4deefe43",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1054,
+        642,
+        181,
+        24
+      ],
+      "name": "Citation Key",
+      "ref": "e10721afe",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        671,
+        115,
+        20
+      ],
+      "name": "URL",
+      "ref": "ee37e1532",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1054,
+        668,
+        181,
+        23
+      ],
+      "name": "URL",
+      "ref": "e6a34ccb9",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1054,
+        668,
+        181,
+        23
+      ],
+      "name": "URL",
+      "ref": "e20e5e63e",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        696,
+        115,
+        20
+      ],
+      "name": "Accessed",
+      "ref": "eafc8b0a0",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1054,
+        693,
+        181,
+        23
+      ],
+      "name": "Accessed",
+      "ref": "ed8601566",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1054,
+        693,
+        181,
+        23
+      ],
+      "name": "Accessed",
+      "ref": "e2f52353d",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        721,
+        115,
+        21
+      ],
+      "name": "ISSN",
+      "ref": "e3a1c0fda",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1054,
+        718,
+        181,
+        24
+      ],
+      "name": "ISSN",
+      "ref": "e62e3c498",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1054,
+        718,
+        181,
+        24
+      ],
+      "name": "ISSN",
+      "ref": "e3bffcc62",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        747,
+        115,
+        20
+      ],
+      "name": "Archive",
+      "ref": "e049a6516",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1054,
+        744,
+        181,
+        23
+      ],
+      "name": "Archive",
+      "ref": "e063ba1d3",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1054,
+        744,
+        181,
+        23
+      ],
+      "name": "Archive",
+      "ref": "ef90093c3",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        772,
+        115,
+        20
+      ],
+      "name": "Loc. in Archive",
+      "ref": "e2d3e841b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1054,
+        769,
+        181,
+        23
+      ],
+      "name": "Loc. in Archive",
+      "ref": "e2c4dbd15",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1054,
+        769,
+        181,
+        23
+      ],
+      "name": "Loc. in Archive",
+      "ref": "e45c37b5c",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        797,
+        115,
+        21
+      ],
+      "name": "Short Title",
+      "ref": "e19d814ae",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1054,
+        794,
+        181,
+        24
+      ],
+      "name": "Short Title",
+      "ref": "eae82e8a5",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1054,
+        794,
+        181,
+        24
+      ],
+      "name": "Short Title",
+      "ref": "e3abb2cc8",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        823,
+        115,
+        20
+      ],
+      "name": "Language",
+      "ref": "ef66f2cd3",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1054,
+        820,
+        181,
+        23
+      ],
+      "name": "Language",
+      "ref": "e3125ca2d",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1054,
+        820,
+        181,
+        23
+      ],
+      "name": "Language",
+      "ref": "ef36f4b11",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        848,
+        115,
+        20
+      ],
+      "name": "Library Catalog",
+      "ref": "eb3f2a14e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1054,
+        845,
+        181,
+        23
+      ],
+      "name": "Library Catalog",
+      "ref": "e5e1cc708",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1054,
+        845,
+        181,
+        23
+      ],
+      "name": "Library Catalog",
+      "ref": "e49e9564c",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        873,
+        115,
+        21
+      ],
+      "name": "Call Number",
+      "ref": "ee964b19f",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1054,
+        870,
+        181,
+        24
+      ],
+      "name": "Call Number",
+      "ref": "e92f065e8",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1054,
+        870,
+        181,
+        24
+      ],
+      "name": "Call Number",
+      "ref": "e9ccf1ae7",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        1243,
+        92,
+        37,
+        808
+      ],
+      "name": "",
+      "ref": "e5a4bf7df",
+      "role": "page tab list"
+    },
+    {
+      "bounds": [
+        1248,
+        98,
+        28,
+        28
+      ],
+      "name": "Toggle Item Pane",
+      "ref": "e6d693178",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1248,
+        139,
+        28,
+        232
+      ],
+      "name": "Item Details",
+      "ref": "e372f452f",
+      "role": "page tab",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        1248,
+        384,
+        28,
+        28
+      ],
+      "name": "Locate",
+      "ref": "e88bf86cd",
+      "role": "push button"
+    }
+  ],
+  "screen": [
+    1280,
+    900
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": true,
+      "bounds": [
+        0,
+        38,
+        1280,
+        881
+      ],
+      "ref": "wdde7c1e4",
+      "title": "My Library - Zotero"
+    }
+  ]
+}

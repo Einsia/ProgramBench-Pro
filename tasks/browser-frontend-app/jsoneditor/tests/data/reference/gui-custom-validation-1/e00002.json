@@ -1,0 +1,631 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        13,
+        125,
+        26,
+        26
+      ],
+      "ref": "ee02b9e8c",
+      "tag": "button",
+      "title": "Expand all fields"
+    },
+    {
+      "bounds": [
+        43,
+        125,
+        26,
+        26
+      ],
+      "ref": "e85e63fcb",
+      "tag": "button",
+      "title": "Collapse all fields"
+    },
+    {
+      "bounds": [
+        73,
+        125,
+        26,
+        26
+      ],
+      "ref": "ea12a318a",
+      "tag": "button",
+      "title": "Sort contents"
+    },
+    {
+      "bounds": [
+        103,
+        125,
+        26,
+        26
+      ],
+      "ref": "e35050c81",
+      "tag": "button",
+      "title": "Filter, sort, or transform contents"
+    },
+    {
+      "bounds": [
+        141,
+        125,
+        26,
+        26
+      ],
+      "disabled": true,
+      "ref": "ebbb5bcf1",
+      "tag": "button",
+      "title": "Undo last action (Ctrl+Z)"
+    },
+    {
+      "bounds": [
+        171,
+        125,
+        26,
+        26
+      ],
+      "disabled": true,
+      "ref": "e0a2b66da",
+      "tag": "button",
+      "title": "Redo (Ctrl+Shift+Z)"
+    },
+    {
+      "bounds": [
+        209,
+        125,
+        57,
+        26
+      ],
+      "ref": "eed0e6f31",
+      "tag": "button",
+      "text": "Tree ▾",
+      "title": "Switch Editor Mode"
+    },
+    {
+      "bounds": [
+        420,
+        126,
+        18,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e1d35618c",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        439,
+        127,
+        126,
+        18
+      ],
+      "context": "Search fields and values",
+      "ref": "e3b24d854",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        566,
+        126,
+        16,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e44fcfed4",
+      "tag": "button",
+      "title": "Next result (Enter)"
+    },
+    {
+      "bounds": [
+        582,
+        126,
+        16,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e0ed8f5b1",
+      "tag": "button",
+      "title": "Previous result (Shift + Enter)"
+    },
+    {
+      "bounds": [
+        33,
+        182,
+        24,
+        24
+      ],
+      "ref": "ebb03648e",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        57,
+        182,
+        24,
+        24
+      ],
+      "ref": "e8f71e697",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        140,
+        183,
+        31,
+        22
+      ],
+      "ref": "eb2a9bdff",
+      "tag": "div",
+      "text": "{1}",
+      "title": "object containing 1 items"
+    },
+    {
+      "bounds": [
+        173,
+        182,
+        24,
+        24
+      ],
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        9,
+        206,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3a",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        206,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex2",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        81,
+        206,
+        24,
+        24
+      ],
+      "ref": "e8f71e697x2",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        106,
+        207,
+        40,
+        22
+      ],
+      "ref": "ed0d85270",
+      "tag": "div",
+      "text": "team",
+      "value": "team"
+    },
+    {
+      "bounds": [
+        148,
+        207,
+        31,
+        22
+      ],
+      "ref": "e3bbf3c2b",
+      "tag": "div",
+      "text": "[3]",
+      "title": "array containing 3 items"
+    },
+    {
+      "bounds": [
+        180,
+        206,
+        24,
+        24
+      ],
+      "ref": "ea0fc21fdx2",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        9,
+        230,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax2",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        230,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex3",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        105,
+        230,
+        24,
+        24
+      ],
+      "ref": "e8f71e697x3",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        154,
+        231,
+        31,
+        22
+      ],
+      "ref": "e18b741d1",
+      "tag": "div",
+      "text": "{2}",
+      "title": "object containing 2 items"
+    },
+    {
+      "bounds": [
+        9,
+        254,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax3",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        254,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex4",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        154,
+        255,
+        40,
+        22
+      ],
+      "ref": "e460e207a",
+      "tag": "div",
+      "text": "name",
+      "value": "name"
+    },
+    {
+      "bounds": [
+        204,
+        255,
+        38,
+        22
+      ],
+      "ref": "ecbda708f",
+      "tag": "div",
+      "text": "Joe",
+      "value": "Joe"
+    },
+    {
+      "bounds": [
+        9,
+        278,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax4",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        278,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex5",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        154,
+        279,
+        38,
+        22
+      ],
+      "ref": "eb6e67086",
+      "tag": "div",
+      "text": "age",
+      "value": "age"
+    },
+    {
+      "bounds": [
+        202,
+        279,
+        38,
+        22
+      ],
+      "ref": "ec82a76bd",
+      "tag": "div",
+      "text": "17",
+      "value": "17"
+    },
+    {
+      "bounds": [
+        9,
+        302,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax5",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        302,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex6",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        105,
+        302,
+        24,
+        24
+      ],
+      "ref": "e8f71e697x4",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        154,
+        303,
+        31,
+        22
+      ],
+      "ref": "e18b741d1x2",
+      "tag": "div",
+      "text": "{2}",
+      "title": "object containing 2 items"
+    },
+    {
+      "bounds": [
+        9,
+        326,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax6",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        326,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex7",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        154,
+        327,
+        40,
+        22
+      ],
+      "ref": "e460e207ax2",
+      "tag": "div",
+      "text": "name",
+      "value": "name"
+    },
+    {
+      "bounds": [
+        204,
+        327,
+        48,
+        22
+      ],
+      "ref": "e7968f026",
+      "tag": "div",
+      "text": "Sarah",
+      "value": "Sarah"
+    },
+    {
+      "bounds": [
+        9,
+        350,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax7",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        350,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex8",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        154,
+        351,
+        38,
+        22
+      ],
+      "ref": "eb6e67086x2",
+      "tag": "div",
+      "text": "age",
+      "value": "age"
+    },
+    {
+      "bounds": [
+        202,
+        351,
+        38,
+        22
+      ],
+      "ref": "e9b3a0701",
+      "tag": "div",
+      "text": "13",
+      "value": "13"
+    },
+    {
+      "bounds": [
+        9,
+        374,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax8",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        374,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex9",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        105,
+        374,
+        24,
+        24
+      ],
+      "ref": "e8f71e697x5",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        154,
+        375,
+        31,
+        22
+      ],
+      "ref": "eb2a9bdffx2",
+      "tag": "div",
+      "text": "{1}",
+      "title": "object containing 1 items"
+    },
+    {
+      "bounds": [
+        186,
+        374,
+        24,
+        24
+      ],
+      "ref": "ea0fc21fdx3",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        9,
+        398,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax9",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        398,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex10",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        154,
+        399,
+        40,
+        22
+      ],
+      "ref": "e460e207ax3",
+      "tag": "div",
+      "text": "name",
+      "value": "name"
+    },
+    {
+      "bounds": [
+        204,
+        399,
+        40,
+        22
+      ],
+      "ref": "e77206492",
+      "tag": "div",
+      "text": "Jack",
+      "value": "Jack"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "drawing": [],
+  "drawing_truncated": false,
+  "text": "Custom validation\nThis example demonstrates how to run custom validation on a JSON object. The validation is available in all modes.\nSelect a node...\nobject\n0\n:\n1\n:\n2\n:",
+  "text_truncated": false,
+  "title": "JSONEditor | Custom validation",
+  "url": "/examples/18_custom_validation.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

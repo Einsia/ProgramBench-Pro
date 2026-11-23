@@ -1,0 +1,245 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e106",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/2/notifications/web",
+      "ref": "e107",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/board/1",
+      "ref": "e108",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/board/1",
+      "ref": "e109",
+      "role": null,
+      "tag": "a",
+      "text": "CV"
+    },
+    {
+      "aria": "Configure this project",
+      "bounds": [
+        10,
+        48,
+        29,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e110",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Configure this project"
+    },
+    {
+      "bounds": [
+        53,
+        49,
+        81,
+        16
+      ],
+      "href": "/project/1/overview/status%3Aopen",
+      "ref": "e111",
+      "role": null,
+      "tag": "a",
+      "text": "Overview",
+      "title": "Keyboard shortcut: \"v o\""
+    },
+    {
+      "bounds": [
+        155,
+        49,
+        63,
+        16
+      ],
+      "href": "/board/1/search/status%3Aopen",
+      "ref": "e112",
+      "role": null,
+      "tag": "a",
+      "text": "Board",
+      "title": "Keyboard shortcut: \"v b\""
+    },
+    {
+      "bounds": [
+        240,
+        49,
+        44,
+        16
+      ],
+      "href": "/list/1/search/status%3Aopen",
+      "ref": "e113",
+      "role": null,
+      "tag": "a",
+      "text": "List",
+      "title": "Keyboard shortcut: \"v l\""
+    },
+    {
+      "aria": "Filter",
+      "bounds": [
+        302,
+        44,
+        846,
+        28
+      ],
+      "name": "search",
+      "placeholder": "Filter",
+      "ref": "e114",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "status:open"
+    },
+    {
+      "aria": "Default filters",
+      "bounds": [
+        1161,
+        49,
+        36,
+        16
+      ],
+      "href": "/board/1",
+      "ref": "e115",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Default filters"
+    },
+    {
+      "aria": "Custom filters",
+      "bounds": [
+        1221,
+        49,
+        36,
+        16
+      ],
+      "href": "/board/1",
+      "ref": "e116",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "User filters"
+    },
+    {
+      "bounds": [
+        14,
+        89,
+        79,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e117",
+      "role": null,
+      "tag": "a",
+      "text": "Backlog"
+    },
+    {
+      "bounds": [
+        329,
+        89,
+        64,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e118",
+      "role": null,
+      "tag": "a",
+      "text": "Ready"
+    },
+    {
+      "bounds": [
+        644,
+        89,
+        148,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e119",
+      "role": null,
+      "tag": "a",
+      "text": "Work in progress"
+    },
+    {
+      "bounds": [
+        958,
+        89,
+        56,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e120",
+      "role": null,
+      "tag": "a",
+      "text": "Done"
+    },
+    {
+      "bounds": [
+        18,
+        149,
+        96,
+        16
+      ],
+      "href": "/task/1",
+      "ref": "e121",
+      "role": null,
+      "tag": "a",
+      "text": "Read-only task"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Website \n \n \nCV\nOverview Board List\nBacklog \nTask count\n1  (\nTotal number of tasks in this column across all swimlanes\n1)\n\t\nReady \n\t\nWork in progress \n\t\nDone \n\n\n#1\nRead-only task\nTask age in days\n<15m \nDays in this column\n<15m \nTask priority\nP0\n\t\n\t\n\t",
+  "text_truncated": false,
+  "title": "Website",
+  "url": "/board/1",
+  "viewport": [
+    1280,
+    900
+  ]
+}

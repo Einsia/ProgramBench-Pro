@@ -1,0 +1,39 @@
+{
+  "task": "stackedit",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "StackEdit",
+    "version": "5.15.4",
+    "homepage": "https://github.com/benweet/stackedit",
+    "repository": "https://github.com/benweet/stackedit",
+    "license": "Apache-2.0 AND MIT AND BSD-2-Clause AND BSD-3-Clause AND ISC AND OFL-1.1"
+  },
+  "downloads": [
+    {
+      "file": "stackedit-5.15.4.tgz",
+      "url": "https://registry.npmjs.org/stackedit/-/stackedit-5.15.4.tgz",
+      "sha256": "373e49cdf109e50d6950c3ab48e7ac84a17b4e3ab8dd5fc1477a8013f4c250ad"
+    }
+  ],
+  "bundled": [
+    {
+      "file": "docker-build-layer.tar.gz",
+      "built_from": "Unmodified final build layer from the official benweet/stackedit:v5.15.4 container image (benweet/stackedit@sha256:b1505e5a1a56f8cbe395dd1989aa50dfa3773726c8ae763b69983d523734b0ce). The opt/stackedit/dist/ tree contains the production assets and source maps; the npm source archive alone does not contain this production build."
+    }
+  ],
+  "modifications": "none; the static server serves the original production bytes from the official image layer.",
+  "configuration": "Serve /app, / and /index.html on HOST:PORT. Browser workspace data is stored in IndexedDB. The static allowlist excludes source maps, service workers and alternative entry pages. CSP and the runtime restrict custom template execution while preserving built-in templates and the embedding message interface.",
+  "notes": {
+    "entrypoint": "start.sh",
+    "installer": "solve.sh",
+    "image": "benweet/stackedit@sha256:b1505e5a1a56f8cbe395dd1989aa50dfa3773726c8ae763b69983d523734b0ce",
+    "image_tag": "benweet/stackedit:v5.15.4",
+    "asset_prefix": "opt/stackedit/dist/",
+    "source_availability": "The npm archive contains StackEdit source; the official image build layer includes source maps with bundled module sourcesContent. Both archives are distributed unmodified.",
+    "license_files": [
+      "LICENSE",
+      "LICENSES/",
+      "NOTICE"
+    ]
+  }
+}

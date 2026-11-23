@@ -1,0 +1,683 @@
+{
+  "controls": [
+    {
+      "aria": "Skip to content",
+      "bounds": [
+        16,
+        -80,
+        145,
+        39
+      ],
+      "offscreen": true,
+      "ref": "e2729",
+      "role": null,
+      "tag": "button",
+      "text": "SKIP TO CONTENT",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        5,
+        0,
+        48,
+        48
+      ],
+      "ref": "e2730",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Close menu",
+      "type": "button"
+    },
+    {
+      "aria": "Refresh",
+      "bounds": [
+        1072,
+        0,
+        48,
+        48
+      ],
+      "ref": "e2731",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Refresh",
+      "type": "button"
+    },
+    {
+      "aria": "Now Playing",
+      "bounds": [
+        1120,
+        2,
+        44,
+        44
+      ],
+      "ref": "e2732",
+      "role": null,
+      "tag": "button",
+      "text": "0",
+      "title": "Now Playing",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1164,
+        2,
+        44,
+        44
+      ],
+      "ref": "e2733",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Activity",
+      "type": "button"
+    },
+    {
+      "aria": "Settings",
+      "bounds": [
+        1208,
+        0,
+        48,
+        48
+      ],
+      "ref": "e2734",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Settings",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        0,
+        56,
+        240,
+        36
+      ],
+      "ref": "e2735",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "Albums"
+    },
+    {
+      "bounds": [
+        0,
+        92,
+        240,
+        36
+      ],
+      "href": "/app/#/album/all",
+      "ref": "e2736",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        0,
+        128,
+        240,
+        36
+      ],
+      "href": "/app/#/album/random",
+      "ref": "e2737",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Random"
+    },
+    {
+      "bounds": [
+        0,
+        164,
+        240,
+        36
+      ],
+      "href": "/app/#/album/starred",
+      "ref": "e2738",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Favourites"
+    },
+    {
+      "bounds": [
+        0,
+        200,
+        240,
+        36
+      ],
+      "href": "/app/#/album/topRated",
+      "ref": "e2739",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Top Rated"
+    },
+    {
+      "bounds": [
+        0,
+        236,
+        240,
+        36
+      ],
+      "href": "/app/#/album/recentlyAdded",
+      "ref": "e2740",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Recently Added"
+    },
+    {
+      "bounds": [
+        0,
+        272,
+        240,
+        36
+      ],
+      "href": "/app/#/album/recentlyPlayed",
+      "ref": "e2741",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Recently Played"
+    },
+    {
+      "bounds": [
+        0,
+        308,
+        240,
+        36
+      ],
+      "href": "/app/#/album/mostPlayed",
+      "ref": "e2742",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Most Played"
+    },
+    {
+      "bounds": [
+        0,
+        344,
+        240,
+        36
+      ],
+      "href": "/app/#/artist",
+      "ref": "e2743",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Artists"
+    },
+    {
+      "bounds": [
+        0,
+        380,
+        240,
+        36
+      ],
+      "href": "/app/#/song",
+      "ref": "e2744",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Songs"
+    },
+    {
+      "bounds": [
+        0,
+        416,
+        240,
+        36
+      ],
+      "href": "/app/#/radio",
+      "ref": "e2745",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Radios"
+    },
+    {
+      "bounds": [
+        0,
+        452,
+        240,
+        36
+      ],
+      "href": "/app/#/share",
+      "ref": "e2746",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Shares"
+    },
+    {
+      "bounds": [
+        0,
+        489,
+        240,
+        38
+      ],
+      "ref": "e2747",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "Playlists"
+    },
+    {
+      "bounds": [
+        0,
+        527,
+        240,
+        36
+      ],
+      "href": "/app/#/playlist/5KqsO7KtXz3G0OIy4Thssn/show",
+      "ref": "e2748",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Evening Mix"
+    },
+    {
+      "bounds": [
+        0,
+        563,
+        240,
+        36
+      ],
+      "href": "/app/#/playlist/5UfwNzKLQGrJfcKNkWj8Uo/show",
+      "ref": "e2749",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Favourites"
+    },
+    {
+      "bounds": [
+        245,
+        72,
+        221,
+        40
+      ],
+      "name": "q",
+      "placeholder": "Search",
+      "ref": "e2750",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        528,
+        72,
+        160,
+        40
+      ],
+      "ref": "e2751",
+      "role": "button",
+      "tag": "div",
+      "text": "​"
+    },
+    {
+      "aria": "Add filter",
+      "bounds": [
+        1002,
+        80,
+        115,
+        31
+      ],
+      "ref": "e2752",
+      "role": null,
+      "tag": "button",
+      "text": "ADD FILTER",
+      "type": "button"
+    },
+    {
+      "aria": "Create",
+      "bounds": [
+        1118,
+        80,
+        91,
+        31
+      ],
+      "href": "/app/#/playlist/create",
+      "ref": "e2753",
+      "role": "button",
+      "tag": "a",
+      "text": "CREATE"
+    },
+    {
+      "aria": "more",
+      "bounds": [
+        1208,
+        72,
+        48,
+        48
+      ],
+      "ref": "e2754",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "aria": "Unselect",
+      "bounds": [
+        260,
+        122,
+        26,
+        28
+      ],
+      "ref": "e2755",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Unselect",
+      "type": "button"
+    },
+    {
+      "aria": "Make Public",
+      "bounds": [
+        880,
+        120,
+        128,
+        31
+      ],
+      "ref": "e2756",
+      "role": null,
+      "tag": "button",
+      "text": "MAKE PUBLIC",
+      "type": "button"
+    },
+    {
+      "aria": "Make Private",
+      "bounds": [
+        1008,
+        120,
+        135,
+        31
+      ],
+      "ref": "e2757",
+      "role": null,
+      "tag": "button",
+      "text": "MAKE PRIVATE",
+      "type": "button"
+    },
+    {
+      "aria": "Delete",
+      "bounds": [
+        1143,
+        120,
+        89,
+        31
+      ],
+      "ref": "e2758",
+      "role": null,
+      "tag": "button",
+      "text": "DELETE",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        261,
+        155,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e2759",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        408,
+        155,
+        64,
+        24
+      ],
+      "ref": "e2760",
+      "role": "button",
+      "tag": "span",
+      "text": "Name",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        515,
+        155,
+        42,
+        24
+      ],
+      "ref": "e2761",
+      "role": "button",
+      "tag": "span",
+      "text": "Owner",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        597,
+        155,
+        40,
+        24
+      ],
+      "ref": "e2762",
+      "role": "button",
+      "tag": "span",
+      "text": "Songs",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        677,
+        155,
+        54,
+        24
+      ],
+      "ref": "e2763",
+      "role": "button",
+      "tag": "span",
+      "text": "Duration",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        771,
+        142,
+        63,
+        48
+      ],
+      "ref": "e2764",
+      "role": "button",
+      "tag": "span",
+      "text": "Updated at",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        875,
+        155,
+        39,
+        24
+      ],
+      "ref": "e2765",
+      "role": "button",
+      "tag": "span",
+      "text": "Public",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        973,
+        142,
+        60,
+        48
+      ],
+      "ref": "e2766",
+      "role": "button",
+      "tag": "span",
+      "text": "Auto-import",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        261,
+        221,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e2767",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        884,
+        223,
+        20,
+        20
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e2768",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1002,
+        223,
+        20,
+        20
+      ],
+      "checked": true,
+      "proxy": true,
+      "ref": "e2769",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1073,
+        220,
+        26,
+        26
+      ],
+      "ref": "e2770",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "aria": "Edit",
+      "bounds": [
+        1172,
+        218,
+        68,
+        31
+      ],
+      "href": "/app/#/playlist/5UfwNzKLQGrJfcKNkWj8Uo",
+      "ref": "e2771",
+      "role": "button",
+      "tag": "a",
+      "text": "EDIT"
+    },
+    {
+      "bounds": [
+        261,
+        294,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e2772",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        904,
+        296,
+        20,
+        20
+      ],
+      "checked": true,
+      "proxy": true,
+      "ref": "e2773",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1073,
+        293,
+        26,
+        26
+      ],
+      "ref": "e2774",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "aria": "Edit",
+      "bounds": [
+        1172,
+        291,
+        68,
+        31
+      ],
+      "href": "/app/#/playlist/5KqsO7KtXz3G0OIy4Thssn",
+      "ref": "e2775",
+      "role": "button",
+      "tag": "a",
+      "text": "EDIT"
+    },
+    {
+      "bounds": [
+        1105,
+        354,
+        48,
+        30
+      ],
+      "ref": "e2776",
+      "role": "button",
+      "tag": "div",
+      "text": "15"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "SKIP TO CONTENT\nNavidrome - Playlists\n0\nAlbums\nAll\nRandom\nFavourites\nTop Rated\nRecently Added\nRecently Played\nMost Played\nArtists\nSongs\nRadios\nShares\nPlaylists\nEvening Mix\nFavourites\n​\n\n \nOwner\n​\n\n \nADD FILTER\nCREATE\n0 items selected\nMAKE PUBLIC\nMAKE PRIVATE\nDELETE\n\t\t\nName\n\t\nOwner\n\t\nSongs\n\t\nDuration\n\t\nUpdated at\n\t\nPublic\n\t\nAuto-import\n\tFavourite\t\n\n\t\n\tFavourites\tadmin\t2\t00:02\t11/1/2026\t\n\t\n\t\n\t\nEDIT\n\n\n\t\n\tLate Night\tadmin\t2\t00:02\t11/1/2026\t\n\t\t\n\t\nEDIT\n\nItems per page:\n\n15\n\n1-2 of 2",
+  "text_truncated": false,
+  "title": "Navidrome",
+  "url": "/app/#/playlist",
+  "viewport": [
+    1280,
+    900
+  ]
+}

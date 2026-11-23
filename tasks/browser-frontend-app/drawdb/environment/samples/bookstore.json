@@ -1,0 +1,288 @@
+{
+  "tables": [
+    {
+      "id": "t_authors",
+      "name": "authors",
+      "x": -400,
+      "y": -300,
+      "locked": false,
+      "fields": [
+        {
+          "name": "id",
+          "type": "INTEGER",
+          "default": "",
+          "check": "",
+          "primary": true,
+          "unique": true,
+          "notNull": true,
+          "increment": true,
+          "comment": "",
+          "id": "authors.id"
+        },
+        {
+          "name": "name",
+          "type": "VARCHAR",
+          "default": "",
+          "check": "",
+          "primary": false,
+          "unique": false,
+          "notNull": true,
+          "increment": false,
+          "comment": "",
+          "size": 120,
+          "id": "authors.name"
+        },
+        {
+          "name": "born",
+          "type": "DATE",
+          "default": "",
+          "check": "",
+          "primary": false,
+          "unique": false,
+          "notNull": false,
+          "increment": false,
+          "comment": "",
+          "id": "authors.born"
+        }
+      ],
+      "comment": "writers",
+      "indices": [],
+      "uniqueConstraints": [],
+      "color": "#175e7a"
+    },
+    {
+      "id": "t_books",
+      "name": "books",
+      "x": -80,
+      "y": -300,
+      "locked": false,
+      "fields": [
+        {
+          "name": "id",
+          "type": "INTEGER",
+          "default": "",
+          "check": "",
+          "primary": true,
+          "unique": true,
+          "notNull": true,
+          "increment": true,
+          "comment": "",
+          "id": "books.id"
+        },
+        {
+          "name": "author_id",
+          "type": "INTEGER",
+          "default": "",
+          "check": "",
+          "primary": false,
+          "unique": false,
+          "notNull": true,
+          "increment": false,
+          "comment": "",
+          "id": "books.author_id"
+        },
+        {
+          "name": "title",
+          "type": "VARCHAR",
+          "default": "",
+          "check": "",
+          "primary": false,
+          "unique": false,
+          "notNull": true,
+          "increment": false,
+          "comment": "",
+          "size": 200,
+          "id": "books.title"
+        },
+        {
+          "name": "price",
+          "type": "DECIMAL",
+          "default": "0",
+          "check": "",
+          "primary": false,
+          "unique": false,
+          "notNull": false,
+          "increment": false,
+          "comment": "",
+          "size": "6,2",
+          "id": "books.price"
+        },
+        {
+          "name": "format",
+          "type": "ENUM",
+          "default": "paper",
+          "check": "",
+          "primary": false,
+          "unique": false,
+          "notNull": false,
+          "increment": false,
+          "comment": "",
+          "values": [
+            "paper",
+            "ebook"
+          ],
+          "id": "books.format"
+        }
+      ],
+      "comment": "",
+      "indices": [
+        {
+          "name": "books_title",
+          "unique": false,
+          "fields": [
+            "title"
+          ],
+          "id": 0
+        }
+      ],
+      "uniqueConstraints": [],
+      "color": "#175e7a"
+    },
+    {
+      "id": "t_sales",
+      "name": "sales",
+      "x": 240,
+      "y": -300,
+      "locked": false,
+      "fields": [
+        {
+          "name": "id",
+          "type": "BIGINT",
+          "default": "",
+          "check": "",
+          "primary": true,
+          "unique": true,
+          "notNull": true,
+          "increment": true,
+          "comment": "",
+          "id": "sales.id"
+        },
+        {
+          "name": "book_id",
+          "type": "INTEGER",
+          "default": "",
+          "check": "",
+          "primary": false,
+          "unique": false,
+          "notNull": true,
+          "increment": false,
+          "comment": "",
+          "id": "sales.book_id"
+        },
+        {
+          "name": "sold_at",
+          "type": "DATETIME",
+          "default": "",
+          "check": "",
+          "primary": false,
+          "unique": false,
+          "notNull": false,
+          "increment": false,
+          "comment": "",
+          "id": "sales.sold_at"
+        }
+      ],
+      "comment": "",
+      "indices": [],
+      "uniqueConstraints": [],
+      "color": "#175e7a"
+    }
+  ],
+  "relationships": [
+    {
+      "name": "fk_books_author_id_authors",
+      "startTableId": "t_books",
+      "startFieldId": "books.author_id",
+      "endTableId": "t_authors",
+      "endFieldId": "authors.id",
+      "cardinality": "many_to_one",
+      "updateConstraint": "No action",
+      "deleteConstraint": "Cascade",
+      "fields": [
+        {
+          "startFieldId": "books.author_id",
+          "endFieldId": "authors.id"
+        }
+      ],
+      "id": 0
+    },
+    {
+      "name": "fk_sales_book_id_books",
+      "startTableId": "t_sales",
+      "startFieldId": "sales.book_id",
+      "endTableId": "t_books",
+      "endFieldId": "books.id",
+      "cardinality": "many_to_one",
+      "updateConstraint": "No action",
+      "deleteConstraint": "No action",
+      "fields": [
+        {
+          "startFieldId": "sales.book_id",
+          "endFieldId": "books.id"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "notes": [
+    {
+      "title": "Ideas",
+      "content": "add a reviews table",
+      "x": 240,
+      "y": 0,
+      "color": "#fcf7ac",
+      "height": 88,
+      "id": 0
+    }
+  ],
+  "subjectAreas": [
+    {
+      "name": "Catalog",
+      "x": -430,
+      "y": -340,
+      "width": 600,
+      "height": 330,
+      "color": "#4d4dff",
+      "id": 0
+    }
+  ],
+  "views": [
+    {
+      "id": "v_cheap_books",
+      "name": "cheap_books",
+      "x": -80,
+      "y": 60,
+      "baseTableId": "t_books",
+      "joins": [],
+      "columns": [
+        {
+          "id": "cheap_books.c0",
+          "tableId": "t_books",
+          "fieldId": "books.title",
+          "alias": ""
+        },
+        {
+          "id": "cheap_books.c1",
+          "tableId": "t_books",
+          "fieldId": "books.price",
+          "alias": ""
+        }
+      ],
+      "conditions": [
+        {
+          "id": "cheap_books.w0",
+          "connector": "",
+          "tableId": "t_books",
+          "fieldId": "books.price",
+          "operator": "<",
+          "value": "10"
+        }
+      ],
+      "comment": "",
+      "materialized": false,
+      "color": "#175e7a"
+    }
+  ],
+  "database": "mysql",
+  "title": "Bookstore"
+}

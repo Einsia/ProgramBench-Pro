@@ -1,0 +1,556 @@
+{
+  "base_style": [
+    "fg=brown"
+  ],
+  "cursor": {
+    "column": 119,
+    "hidden": true,
+    "row": 34
+  },
+  "process": "running",
+  "screen": [
+    "00|2024-01-06 12:00 +0000 Bea Meadow   o [main] Update trail heading",
+    "01|2024-01-05 12:00 +0000 Alex Example M─┐ {origin/main} Merge eastern route",
+    "02|2024-01-04 12:00 +0000 Chen Grove   │ o [feature/east] Mark eastern viewpoint",
+    "03|2024-01-03 12:00 +0000 Ada Rivers   o │ Add safety checklist",
+    "04|2024-01-02 12:00 +0000 Bea Meadow   o─┘ [archive] Document river access",
+    "05|2024-01-01 12:00 +0000 Ada Rivers   I <v1.0> Start field notebook",
+    "06|",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|[main] cd925f48f7d4e81b937c4796963726ec199bd01f - commit 1 of 6                                                     100%",
+    "12|commit cd925f48f7d4e81b937c4796963726ec199bd01f",
+    "13|Refs: [main], v1.0-5-gcd925f4",
+    "14|Author:     Bea Meadow <bea@example.test>",
+    "15|AuthorDate: Sat Jan 6 12:00:00 2024 +0000",
+    "16|Commit:     Jordan Example <jordan@example.test>",
+    "17|CommitDate: Sat Jan 6 12:00:00 2024 +0000",
+    "18|",
+    "19|    Update trail heading",
+    "20|",
+    "21|    Record the northeast approach.",
+    "22|",
+    "23|    Reviewed-by: Trail Team <team@example.test>",
+    "24|---",
+    "25| notes.txt    | 2 +-",
+    "26| src/guide.py | 2 +-",
+    "27| 2 files changed, 2 insertions(+), 2 deletions(-)",
+    "28|",
+    "29|diff --git a/notes.txt b/notes.txt",
+    "30|index 6e2de33..ffb2269 100644",
+    "31|--- a/notes.txt",
+    "32|+++ b/notes.txt",
+    "33|@@ -1,3 +1,3 @@",
+    "34|[diff] cd925f48f7d4e81b937c4796963726ec199bd01f - line 1 of 34                                                       64%",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "fg=white",
+        "bg=green"
+      ],
+      "text": "2024-01-06 12:00 +0000 Bea Meadow   o [main] Update trail heading                                                       "
+    },
+    {
+      "columns": [
+        0,
+        23
+      ],
+      "row": 1,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "2024-01-05 12:00 +0000 "
+    },
+    {
+      "columns": [
+        23,
+        36
+      ],
+      "row": 1,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Alex Example "
+    },
+    {
+      "columns": [
+        36,
+        37
+      ],
+      "row": 1,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "M"
+    },
+    {
+      "columns": [
+        53,
+        120
+      ],
+      "row": 1,
+      "style": [
+        "default"
+      ],
+      "text": " Merge eastern route                                               "
+    },
+    {
+      "columns": [
+        0,
+        23
+      ],
+      "row": 2,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "2024-01-04 12:00 +0000 "
+    },
+    {
+      "columns": [
+        23,
+        36
+      ],
+      "row": 2,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Chen Grove   "
+    },
+    {
+      "columns": [
+        36,
+        37
+      ],
+      "row": 2,
+      "style": [
+        "fg=magenta"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        37,
+        39
+      ],
+      "row": 2,
+      "style": [
+        "fg=blue"
+      ],
+      "text": " o"
+    },
+    {
+      "columns": [
+        40,
+        54
+      ],
+      "row": 2,
+      "style": [
+        "fg=cyan"
+      ],
+      "text": "[feature/east]"
+    },
+    {
+      "columns": [
+        54,
+        120
+      ],
+      "row": 2,
+      "style": [
+        "default"
+      ],
+      "text": " Mark eastern viewpoint                                           "
+    },
+    {
+      "columns": [
+        0,
+        23
+      ],
+      "row": 3,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "2024-01-03 12:00 +0000 "
+    },
+    {
+      "columns": [
+        23,
+        36
+      ],
+      "row": 3,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Ada Rivers   "
+    },
+    {
+      "columns": [
+        36,
+        37
+      ],
+      "row": 3,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "o"
+    },
+    {
+      "columns": [
+        39,
+        120
+      ],
+      "row": 3,
+      "style": [
+        "default"
+      ],
+      "text": " Add safety checklist                                                            "
+    },
+    {
+      "columns": [
+        0,
+        23
+      ],
+      "row": 4,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "2024-01-02 12:00 +0000 "
+    },
+    {
+      "columns": [
+        23,
+        36
+      ],
+      "row": 4,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Bea Meadow   "
+    },
+    {
+      "columns": [
+        36,
+        37
+      ],
+      "row": 4,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "o"
+    },
+    {
+      "columns": [
+        40,
+        49
+      ],
+      "row": 4,
+      "style": [
+        "fg=cyan"
+      ],
+      "text": "[archive]"
+    },
+    {
+      "columns": [
+        49,
+        120
+      ],
+      "row": 4,
+      "style": [
+        "default"
+      ],
+      "text": " Document river access                                                 "
+    },
+    {
+      "columns": [
+        0,
+        23
+      ],
+      "row": 5,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "2024-01-01 12:00 +0000 "
+    },
+    {
+      "columns": [
+        23,
+        36
+      ],
+      "row": 5,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Ada Rivers   "
+    },
+    {
+      "columns": [
+        36,
+        37
+      ],
+      "row": 5,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "I"
+    },
+    {
+      "columns": [
+        38,
+        44
+      ],
+      "row": 5,
+      "style": [
+        "fg=magenta"
+      ],
+      "text": "<v1.0>"
+    },
+    {
+      "columns": [
+        44,
+        120
+      ],
+      "row": 5,
+      "style": [
+        "default"
+      ],
+      "text": " Start field notebook                                                       "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 11,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "[main] cd925f48f7d4e81b937c4796963726ec199bd01f - commit 1 of 6                                                     100%"
+    },
+    {
+      "columns": [
+        0,
+        47
+      ],
+      "row": 12,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=green"
+      ],
+      "text": "commit cd925f48f7d4e81b937c4796963726ec199bd01f"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 13,
+      "style": [
+        "fg=red"
+      ],
+      "text": "Refs: [main], v1.0-5-gcd925f4                                                                                           "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 14,
+      "style": [
+        "fg=cyan"
+      ],
+      "text": "Author:     Bea Meadow <bea@example.test>                                                                               "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 16,
+      "style": [
+        "fg=magenta"
+      ],
+      "text": "Commit:     Jordan Example <jordan@example.test>                                                                        "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 19,
+      "style": [
+        "default"
+      ],
+      "text": "    Update trail heading                                                                                                "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 21,
+      "style": [
+        "default"
+      ],
+      "text": "    Record the northeast approach.                                                                                      "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 24,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "---                                                                                                                     "
+    },
+    {
+      "columns": [
+        0,
+        14
+      ],
+      "row": 25,
+      "style": [
+        "fg=blue"
+      ],
+      "text": " notes.txt    "
+    },
+    {
+      "columns": [
+        14,
+        18
+      ],
+      "row": 25,
+      "style": [
+        "default"
+      ],
+      "text": "| 2 "
+    },
+    {
+      "columns": [
+        18,
+        19
+      ],
+      "row": 25,
+      "style": [
+        "fg=green"
+      ],
+      "text": "+"
+    },
+    {
+      "columns": [
+        19,
+        120
+      ],
+      "row": 25,
+      "style": [
+        "fg=red"
+      ],
+      "text": "-                                                                                                    "
+    },
+    {
+      "columns": [
+        0,
+        14
+      ],
+      "row": 26,
+      "style": [
+        "fg=blue"
+      ],
+      "text": " src/guide.py "
+    },
+    {
+      "columns": [
+        14,
+        18
+      ],
+      "row": 26,
+      "style": [
+        "default"
+      ],
+      "text": "| 2 "
+    },
+    {
+      "columns": [
+        18,
+        19
+      ],
+      "row": 26,
+      "style": [
+        "fg=green"
+      ],
+      "text": "+"
+    },
+    {
+      "columns": [
+        19,
+        120
+      ],
+      "row": 26,
+      "style": [
+        "fg=red"
+      ],
+      "text": "-                                                                                                    "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 27,
+      "style": [
+        "default"
+      ],
+      "text": " 2 files changed, 2 insertions(+), 2 deletions(-)                                                                       "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 30,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "index 6e2de33..ffb2269 100644                                                                                           "
+    },
+    {
+      "columns": [
+        0,
+        15
+      ],
+      "row": 33,
+      "style": [
+        "fg=magenta"
+      ],
+      "text": "@@ -1,3 +1,3 @@"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "[diff] cd925f48f7d4e81b937c4796963726ec199bd01f - line 1 of 34                                                       64%"
+    }
+  ]
+}

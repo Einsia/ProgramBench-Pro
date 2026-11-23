@@ -1,0 +1,520 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        559,
+        -44,
+        162,
+        36
+      ],
+      "href": "/feed/1/entries#main",
+      "offscreen": true,
+      "ref": "e276",
+      "role": null,
+      "tag": "a",
+      "text": "Skip to content"
+    },
+    {
+      "aria": "Home page",
+      "bounds": [
+        193,
+        10,
+        77,
+        19
+      ],
+      "href": "/unread",
+      "ref": "e277",
+      "role": null,
+      "tag": "a",
+      "text": "Mini\nflux"
+    },
+    {
+      "aria": "Unread, 3 unread entries",
+      "bounds": [
+        278,
+        12,
+        102,
+        16
+      ],
+      "href": "/unread",
+      "ref": "e278",
+      "role": null,
+      "tag": "a",
+      "text": "Unread (3)"
+    },
+    {
+      "bounds": [
+        395,
+        12,
+        78,
+        16
+      ],
+      "href": "/starred",
+      "ref": "e279",
+      "role": null,
+      "tag": "a",
+      "text": "Starred"
+    },
+    {
+      "bounds": [
+        488,
+        12,
+        78,
+        16
+      ],
+      "href": "/history",
+      "ref": "e280",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        581,
+        12,
+        70,
+        16
+      ],
+      "href": "/feeds",
+      "ref": "e281",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "aria": "Add feed",
+      "bounds": [
+        650,
+        12,
+        26,
+        16
+      ],
+      "href": "/subscribe",
+      "ref": "e282",
+      "role": null,
+      "tag": "a",
+      "text": "(+)",
+      "title": "Keyboard Shortcut: +"
+    },
+    {
+      "bounds": [
+        691,
+        12,
+        104,
+        16
+      ],
+      "href": "/categories",
+      "ref": "e283",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        810,
+        12,
+        70,
+        16
+      ],
+      "href": "/search",
+      "ref": "e284",
+      "role": null,
+      "tag": "a",
+      "text": "Search"
+    },
+    {
+      "bounds": [
+        894,
+        12,
+        87,
+        16
+      ],
+      "href": "/settings",
+      "ref": "e285",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        996,
+        10,
+        70,
+        18
+      ],
+      "ref": "e286",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "title": "Logged in as alice"
+    },
+    {
+      "bounds": [
+        193,
+        49,
+        173,
+        27
+      ],
+      "href": "[external]",
+      "ref": "e287",
+      "role": null,
+      "tag": "a",
+      "text": "Growing Feed",
+      "title": "http://growing.test/"
+    },
+    {
+      "bounds": [
+        193,
+        81,
+        181,
+        18
+      ],
+      "ref": "e288",
+      "role": null,
+      "tag": "button",
+      "text": "Mark this page as read"
+    },
+    {
+      "bounds": [
+        398,
+        81,
+        132,
+        18
+      ],
+      "ref": "e289",
+      "role": null,
+      "tag": "button",
+      "text": "Mark all as read"
+    },
+    {
+      "bounds": [
+        555,
+        82,
+        172,
+        18
+      ],
+      "href": "/feed/1/entries/all",
+      "ref": "e290",
+      "role": null,
+      "tag": "a",
+      "text": "Show all entries"
+    },
+    {
+      "bounds": [
+        751,
+        81,
+        74,
+        18
+      ],
+      "ref": "e291",
+      "role": null,
+      "tag": "button",
+      "text": "Refresh"
+    },
+    {
+      "bounds": [
+        850,
+        82,
+        56,
+        18
+      ],
+      "href": "/feed/1/edit",
+      "ref": "e292",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        193,
+        110,
+        143,
+        18
+      ],
+      "ref": "e293",
+      "role": null,
+      "tag": "button",
+      "text": "Remove this feed"
+    },
+    {
+      "bounds": [
+        199,
+        179,
+        96,
+        18
+      ],
+      "href": "/unread/feed/1/entry/2",
+      "ref": "e294",
+      "role": null,
+      "tag": "a",
+      "text": "Growing 1"
+    },
+    {
+      "aria": "Category: All",
+      "bounds": [
+        304,
+        182,
+        22,
+        14
+      ],
+      "href": "/category/1/entries",
+      "ref": "e295",
+      "role": null,
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        199,
+        203,
+        78,
+        12
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e296",
+      "role": null,
+      "tag": "a",
+      "text": "Growing Feed",
+      "title": "http://growing.test/"
+    },
+    {
+      "bounds": [
+        199,
+        224,
+        95,
+        16
+      ],
+      "ref": "e297",
+      "role": null,
+      "tag": "button",
+      "text": "Mark as read",
+      "title": "Change entry status"
+    },
+    {
+      "bounds": [
+        309,
+        224,
+        43,
+        16
+      ],
+      "ref": "e298",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        369,
+        226,
+        120,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e299",
+      "role": null,
+      "tag": "a",
+      "text": "External link"
+    },
+    {
+      "bounds": [
+        199,
+        273,
+        96,
+        18
+      ],
+      "href": "/unread/feed/1/entry/1",
+      "ref": "e300",
+      "role": null,
+      "tag": "a",
+      "text": "Growing 2"
+    },
+    {
+      "aria": "Category: All",
+      "bounds": [
+        304,
+        276,
+        22,
+        14
+      ],
+      "href": "/category/1/entries",
+      "ref": "e301",
+      "role": null,
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        199,
+        297,
+        78,
+        12
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e302",
+      "role": null,
+      "tag": "a",
+      "text": "Growing Feed",
+      "title": "http://growing.test/"
+    },
+    {
+      "bounds": [
+        199,
+        318,
+        95,
+        16
+      ],
+      "ref": "e303",
+      "role": null,
+      "tag": "button",
+      "text": "Mark as read",
+      "title": "Change entry status"
+    },
+    {
+      "bounds": [
+        309,
+        318,
+        43,
+        16
+      ],
+      "ref": "e304",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        369,
+        320,
+        120,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e305",
+      "role": null,
+      "tag": "a",
+      "text": "External link"
+    },
+    {
+      "bounds": [
+        199,
+        367,
+        96,
+        18
+      ],
+      "href": "/unread/feed/1/entry/3",
+      "ref": "e306",
+      "role": null,
+      "tag": "a",
+      "text": "Growing 3"
+    },
+    {
+      "aria": "Category: All",
+      "bounds": [
+        304,
+        370,
+        22,
+        14
+      ],
+      "href": "/category/1/entries",
+      "ref": "e307",
+      "role": null,
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        199,
+        391,
+        78,
+        12
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e308",
+      "role": null,
+      "tag": "a",
+      "text": "Growing Feed",
+      "title": "http://growing.test/"
+    },
+    {
+      "bounds": [
+        199,
+        412,
+        95,
+        16
+      ],
+      "ref": "e309",
+      "role": null,
+      "tag": "button",
+      "text": "Mark as read",
+      "title": "Change entry status"
+    },
+    {
+      "bounds": [
+        309,
+        412,
+        43,
+        16
+      ],
+      "ref": "e310",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        369,
+        414,
+        120,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e311",
+      "role": null,
+      "tag": "a",
+      "text": "External link"
+    },
+    {
+      "bounds": [
+        193,
+        459,
+        181,
+        18
+      ],
+      "ref": "e312",
+      "role": null,
+      "tag": "button",
+      "text": "Mark this page as read"
+    },
+    {
+      "bounds": [
+        599,
+        501,
+        134,
+        20
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e313",
+      "role": null,
+      "tag": "a",
+      "text": "Back to top"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Skip to content\nMini\nflux\nUnread (3) Starred History Feeds (+) Categories Search Settings Logout\nGrowing Feed (3)\n3 unread entries\nMark this page as read Mark all as read Show all entries Refresh Edit Remove this feed\nFirst\nPrevious\nNext \nLast \nGrowing 1 All\nGrowing Feed  1 year ago  1 minute read\nMark as read Star External link\nGrowing 2 All\nGrowing Feed  1 year ago  1 minute read\nMark as read Star External link\nGrowing 3 All\nGrowing Feed  1 year ago  1 minute read\nMark as read Star External link\nMark this page as read\nFirst\nPrevious\nBack to top\nNext \nLast ",
+  "text_truncated": false,
+  "title": "Growing Feed (3) - Miniflux",
+  "url": "/feed/1/entries",
+  "viewport": [
+    1280,
+    900
+  ]
+}

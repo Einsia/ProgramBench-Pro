@@ -1,0 +1,45 @@
+schema_version = "1.4"
+artifacts = [{ source = "/app/solution" }]
+
+[task]
+name = "program-bench/xournal"
+version = "1.0.0"
+description = "Reconstruct Xournal++ 1.3.8, a GTK notebook editor for handwritten notes and PDF annotations, from black-box observation."
+keywords = ["handwriting", "pdf-annotation", "desktop", "gtk"]
+
+[metadata]
+category = "desktop-document-app"
+upstream = "xournalpp/xournalpp 1.3.8"
+license = "GPL-2.0-or-later"
+interface = "desktop GUI (GTK); command line; document exchange and clipboard text/images"
+network_boundary = "agent: no network except hosts allowed with --allow-agent-host (Harbor egress sidecar); reference and verifier: Compose network_mode:none; restricted Unix socket RPC to the black-box runtime"
+
+[agent]
+timeout_sec = 28800
+user = "agent"
+
+[environment]
+docker_image = "program-bench-xournal-agent:1.0.0"
+build_timeout_sec = 1200
+cpus = 4
+memory_mb = 16384
+storage_mb = 20480
+network_mode = "no-network"
+
+[environment.healthcheck]
+command = "blackbox-health"
+interval_sec = 1
+timeout_sec = 5
+retries = 120
+
+[verifier]
+timeout_sec = 273600
+environment_mode = "separate"
+
+[verifier.environment]
+docker_image = "program-bench-xournal-verifier:1.0.0"
+cpus = 4
+memory_mb = 8192
+storage_mb = 20480
+network_mode = "no-network"
+build_timeout_sec = 1200

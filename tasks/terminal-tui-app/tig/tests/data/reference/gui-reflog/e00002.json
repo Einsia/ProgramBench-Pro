@@ -1,0 +1,170 @@
+{
+  "base_style": [
+    "bold",
+    "fg=white",
+    "bg=blue"
+  ],
+  "cursor": {
+    "column": 119,
+    "hidden": true,
+    "row": 34
+  },
+  "process": "running",
+  "screen": [
+    "00|cd925f4 [main] checkout: moving from feature/east to main",
+    "01|df5a808 [feature/east] checkout: moving from archive to feature/east",
+    "02|2f964a1 [archive] checkout: moving from main to archive",
+    "03|cd925f4 [main] Update trail heading",
+    "04|",
+    "05|",
+    "06|",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|",
+    "12|",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|",
+    "19|",
+    "20|",
+    "21|",
+    "22|",
+    "23|",
+    "24|",
+    "25|",
+    "26|",
+    "27|",
+    "28|",
+    "29|",
+    "30|",
+    "31|",
+    "32|",
+    "33|",
+    "34|[reflog] HEAD@{0} - reference 1 of 4                                                                                100%",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        57
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=green"
+      ],
+      "text": "cd925f4 [main] checkout: moving from feature/east to main"
+    },
+    {
+      "columns": [
+        0,
+        8
+      ],
+      "row": 1,
+      "style": [
+        "fg=magenta"
+      ],
+      "text": "df5a808 "
+    },
+    {
+      "columns": [
+        8,
+        22
+      ],
+      "row": 1,
+      "style": [
+        "fg=cyan"
+      ],
+      "text": "[feature/east]"
+    },
+    {
+      "columns": [
+        22,
+        120
+      ],
+      "row": 1,
+      "style": [
+        "default"
+      ],
+      "text": " checkout: moving from archive to feature/east                                                    "
+    },
+    {
+      "columns": [
+        0,
+        8
+      ],
+      "row": 2,
+      "style": [
+        "fg=magenta"
+      ],
+      "text": "2f964a1 "
+    },
+    {
+      "columns": [
+        8,
+        17
+      ],
+      "row": 2,
+      "style": [
+        "fg=cyan"
+      ],
+      "text": "[archive]"
+    },
+    {
+      "columns": [
+        17,
+        120
+      ],
+      "row": 2,
+      "style": [
+        "default"
+      ],
+      "text": " checkout: moving from main to archive                                                                 "
+    },
+    {
+      "columns": [
+        0,
+        8
+      ],
+      "row": 3,
+      "style": [
+        "fg=magenta"
+      ],
+      "text": "cd925f4 "
+    },
+    {
+      "columns": [
+        8,
+        14
+      ],
+      "row": 3,
+      "style": [
+        "bold",
+        "fg=cyan"
+      ],
+      "text": "[main]"
+    },
+    {
+      "columns": [
+        14,
+        120
+      ],
+      "row": 3,
+      "style": [
+        "default"
+      ],
+      "text": " Update trail heading                                                                                     "
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "controls": [
+    {
+      "aria": "Skip to content",
+      "bounds": [
+        16,
+        -80,
+        145,
+        39
+      ],
+      "offscreen": true,
+      "ref": "e645",
+      "role": null,
+      "tag": "button",
+      "text": "SKIP TO CONTENT",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        5,
+        0,
+        48,
+        48
+      ],
+      "ref": "e646",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Close menu",
+      "type": "button"
+    },
+    {
+      "aria": "Refresh",
+      "bounds": [
+        1072,
+        0,
+        48,
+        48
+      ],
+      "ref": "e647",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Refresh",
+      "type": "button"
+    },
+    {
+      "aria": "Now Playing",
+      "bounds": [
+        1120,
+        2,
+        44,
+        44
+      ],
+      "ref": "e648",
+      "role": null,
+      "tag": "button",
+      "text": "0",
+      "title": "Now Playing",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1164,
+        2,
+        44,
+        44
+      ],
+      "ref": "e649",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Activity",
+      "type": "button"
+    },
+    {
+      "aria": "Settings",
+      "bounds": [
+        1208,
+        0,
+        48,
+        48
+      ],
+      "ref": "e650",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Settings",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        0,
+        56,
+        240,
+        36
+      ],
+      "ref": "e651",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "Albums"
+    },
+    {
+      "bounds": [
+        0,
+        92,
+        240,
+        36
+      ],
+      "href": "/app/#/album/all",
+      "ref": "e652",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        0,
+        128,
+        240,
+        36
+      ],
+      "href": "/app/#/album/random",
+      "ref": "e653",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Random"
+    },
+    {
+      "bounds": [
+        0,
+        164,
+        240,
+        36
+      ],
+      "href": "/app/#/album/starred",
+      "ref": "e654",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Favourites"
+    },
+    {
+      "bounds": [
+        0,
+        200,
+        240,
+        36
+      ],
+      "href": "/app/#/album/topRated",
+      "ref": "e655",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Top Rated"
+    },
+    {
+      "bounds": [
+        0,
+        236,
+        240,
+        36
+      ],
+      "href": "/app/#/album/recentlyAdded",
+      "ref": "e656",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Recently Added"
+    },
+    {
+      "bounds": [
+        0,
+        272,
+        240,
+        36
+      ],
+      "href": "/app/#/album/recentlyPlayed",
+      "ref": "e657",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Recently Played"
+    },
+    {
+      "bounds": [
+        0,
+        308,
+        240,
+        36
+      ],
+      "href": "/app/#/album/mostPlayed",
+      "ref": "e658",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Most Played"
+    },
+    {
+      "bounds": [
+        0,
+        344,
+        240,
+        36
+      ],
+      "href": "/app/#/artist",
+      "ref": "e659",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Artists"
+    },
+    {
+      "bounds": [
+        0,
+        380,
+        240,
+        36
+      ],
+      "href": "/app/#/song",
+      "ref": "e660",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Songs"
+    },
+    {
+      "bounds": [
+        0,
+        416,
+        240,
+        36
+      ],
+      "href": "/app/#/radio",
+      "ref": "e661",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Radios"
+    },
+    {
+      "bounds": [
+        0,
+        452,
+        240,
+        36
+      ],
+      "href": "/app/#/share",
+      "ref": "e662",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Shares"
+    },
+    {
+      "bounds": [
+        0,
+        489,
+        240,
+        38
+      ],
+      "ref": "e663",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "Playlists"
+    },
+    {
+      "bounds": [
+        0,
+        527,
+        240,
+        36
+      ],
+      "href": "/app/#/playlist/7FxZqf8Cj8sBXgGysugBKJ/show",
+      "ref": "e664",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Favourites"
+    },
+    {
+      "bounds": [
+        453,
+        264,
+        27,
+        27
+      ],
+      "ref": "e665",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Upload Cover",
+      "type": "button"
+    },
+    {
+      "aria": "artist context menu",
+      "bounds": [
+        634,
+        118,
+        30,
+        30
+      ],
+      "ref": "e666",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        497,
+        174,
+        1,
+        1
+      ],
+      "checked": false,
+      "label": "1 Star",
+      "name": "59VcArsq2QZfpfYYgn820i",
+      "ref": "e667",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        497,
+        174,
+        1,
+        1
+      ],
+      "checked": false,
+      "label": "2 Stars",
+      "name": "59VcArsq2QZfpfYYgn820i",
+      "ref": "e668",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "2"
+    },
+    {
+      "bounds": [
+        497,
+        174,
+        1,
+        1
+      ],
+      "checked": false,
+      "label": "3 Stars",
+      "name": "59VcArsq2QZfpfYYgn820i",
+      "ref": "e669",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "3"
+    },
+    {
+      "bounds": [
+        497,
+        174,
+        1,
+        1
+      ],
+      "checked": false,
+      "label": "4 Stars",
+      "name": "59VcArsq2QZfpfYYgn820i",
+      "ref": "e670",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "4"
+    },
+    {
+      "bounds": [
+        497,
+        174,
+        1,
+        1
+      ],
+      "checked": false,
+      "label": "5 Stars",
+      "name": "59VcArsq2QZfpfYYgn820i",
+      "ref": "e671",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "5"
+    },
+    {
+      "bounds": [
+        497,
+        174,
+        1,
+        1
+      ],
+      "checked": true,
+      "label": "Empty",
+      "name": "59VcArsq2QZfpfYYgn820i",
+      "ref": "e672",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": ""
+    },
+    {
+      "aria": "Top Songs",
+      "bounds": [
+        257,
+        339,
+        131,
+        37
+      ],
+      "ref": "e673",
+      "role": null,
+      "tag": "button",
+      "text": "TOP SONGS",
+      "type": "button"
+    },
+    {
+      "aria": "Shuffle",
+      "bounds": [
+        388,
+        339,
+        112,
+        37
+      ],
+      "ref": "e674",
+      "role": null,
+      "tag": "button",
+      "text": "SHUFFLE",
+      "type": "button"
+    },
+    {
+      "aria": "Radio",
+      "bounds": [
+        500,
+        339,
+        91,
+        37
+      ],
+      "ref": "e675",
+      "role": null,
+      "tag": "button",
+      "text": "RADIO",
+      "type": "button"
+    },
+    {
+      "aria": "Share",
+      "bounds": [
+        591,
+        339,
+        95,
+        37
+      ],
+      "ref": "e676",
+      "role": null,
+      "tag": "button",
+      "text": "SHARE",
+      "type": "button"
+    },
+    {
+      "aria": "Download (13.21 KB)",
+      "bounds": [
+        687,
+        339,
+        206,
+        37
+      ],
+      "ref": "e677",
+      "role": null,
+      "tag": "button",
+      "text": "DOWNLOAD (13.21 KB)",
+      "type": "button"
+    },
+    {
+      "aria": "Refresh Metadata",
+      "bounds": [
+        892,
+        340,
+        38,
+        34
+      ],
+      "ref": "e678",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        265,
+        395,
+        145,
+        145
+      ],
+      "href": "/app/#/album/2vHJMAQZWwXXkYxbocIBqN/show",
+      "ref": "e679",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "aria": "play",
+      "bounds": [
+        281,
+        493,
+        26,
+        26
+      ],
+      "ref": "e680",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        358,
+        493,
+        26,
+        26
+      ],
+      "ref": "e681",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "aria": "more",
+      "bounds": [
+        384,
+        493,
+        26,
+        26
+      ],
+      "ref": "e682",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        265,
+        540,
+        145,
+        21
+      ],
+      "href": "/app/#/album/2vHJMAQZWwXXkYxbocIBqN/show",
+      "ref": "e683",
+      "role": null,
+      "tag": "a",
+      "text": "Third Album"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "SKIP TO CONTENT\nNavidrome - Gamma Trio\n0\nAlbums\nAll\nRandom\nFavourites\nTop Rated\nRecently Added\nRecently Played\nMost Played\nArtists\nSongs\nRadios\nShares\nPlaylists\nFavourites\nGamma Trio\n1 Star\n2 Stars\n3 Stars\n4 Stars\n5 Stars\nEmpty\n\nTOP SONGS\nSHUFFLE\nRADIO\nSHARE\nDOWNLOAD (13.21 KB)\n\nThird Album\n\n1999",
+  "text_truncated": false,
+  "title": "Navidrome",
+  "url": "/app/#/artist/59VcArsq2QZfpfYYgn820i/show",
+  "viewport": [
+    1280,
+    900
+  ]
+}

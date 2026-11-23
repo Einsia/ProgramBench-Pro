@@ -1,0 +1,405 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e398",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "aria": "Display another project",
+      "bounds": [
+        836,
+        7,
+        273,
+        24
+      ],
+      "placeholder": "Display another project",
+      "ref": "e399",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/2/notifications/web",
+      "ref": "e400",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/user/2/notifications",
+      "ref": "e401",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/user/2/notifications",
+      "ref": "e402",
+      "role": null,
+      "tag": "a",
+      "text": "BB"
+    },
+    {
+      "bounds": [
+        23,
+        104,
+        68,
+        17
+      ],
+      "href": "/user/show/2",
+      "ref": "e403",
+      "role": null,
+      "tag": "a",
+      "text": "Summary"
+    },
+    {
+      "bounds": [
+        23,
+        140,
+        95,
+        17
+      ],
+      "href": "/user/show/2/timesheet",
+      "ref": "e404",
+      "role": null,
+      "tag": "a",
+      "text": "Time tracking"
+    },
+    {
+      "bounds": [
+        23,
+        176,
+        77,
+        17
+      ],
+      "href": "/user/show/2/last-logins",
+      "ref": "e405",
+      "role": null,
+      "tag": "a",
+      "text": "Last logins"
+    },
+    {
+      "bounds": [
+        23,
+        212,
+        161,
+        17
+      ],
+      "href": "/user/show/2/sessions",
+      "ref": "e406",
+      "role": null,
+      "tag": "a",
+      "text": "Persistent connections"
+    },
+    {
+      "bounds": [
+        23,
+        248,
+        162,
+        17
+      ],
+      "href": "/?controller=UserViewController&action=passwordReset&user_id=2",
+      "ref": "e407",
+      "role": null,
+      "tag": "a",
+      "text": "Password reset history"
+    },
+    {
+      "bounds": [
+        23,
+        335,
+        76,
+        17
+      ],
+      "href": "/user/2/edit",
+      "ref": "e408",
+      "role": null,
+      "tag": "a",
+      "text": "Edit profile"
+    },
+    {
+      "bounds": [
+        23,
+        371,
+        46,
+        17
+      ],
+      "href": "/user/2/avatar",
+      "ref": "e409",
+      "role": null,
+      "tag": "a",
+      "text": "Avatar"
+    },
+    {
+      "bounds": [
+        23,
+        407,
+        129,
+        17
+      ],
+      "href": "/user/2/password",
+      "ref": "e410",
+      "role": null,
+      "tag": "a",
+      "text": "Change password"
+    },
+    {
+      "bounds": [
+        23,
+        443,
+        178,
+        17
+      ],
+      "href": "/user/2/2fa",
+      "ref": "e411",
+      "role": null,
+      "tag": "a",
+      "text": "Two factor authentication"
+    },
+    {
+      "bounds": [
+        23,
+        479,
+        98,
+        17
+      ],
+      "href": "/user/2/share",
+      "ref": "e412",
+      "role": null,
+      "tag": "a",
+      "text": "Public access"
+    },
+    {
+      "bounds": [
+        23,
+        515,
+        87,
+        17
+      ],
+      "href": "/user/2/notifications",
+      "ref": "e413",
+      "role": null,
+      "tag": "a",
+      "text": "Notifications"
+    },
+    {
+      "bounds": [
+        23,
+        551,
+        127,
+        17
+      ],
+      "href": "/user/2/accounts",
+      "ref": "e414",
+      "role": null,
+      "tag": "a",
+      "text": "External accounts"
+    },
+    {
+      "bounds": [
+        23,
+        587,
+        84,
+        17
+      ],
+      "href": "/user/2/integrations",
+      "ref": "e415",
+      "role": null,
+      "tag": "a",
+      "text": "Integrations"
+    },
+    {
+      "bounds": [
+        23,
+        623,
+        26,
+        17
+      ],
+      "href": "/user/2/api",
+      "ref": "e416",
+      "role": null,
+      "tag": "a",
+      "text": "API"
+    },
+    {
+      "bounds": [
+        254,
+        150,
+        13,
+        13
+      ],
+      "checked": false,
+      "label": "Email",
+      "name": "notification_types[email]",
+      "ref": "e417",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "email"
+    },
+    {
+      "bounds": [
+        254,
+        180,
+        13,
+        13
+      ],
+      "checked": true,
+      "label": "Web",
+      "name": "notification_types[web]",
+      "ref": "e418",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "web"
+    },
+    {
+      "bounds": [
+        255,
+        270,
+        13,
+        13
+      ],
+      "checked": true,
+      "label": "All tasks",
+      "name": "notifications_filter",
+      "ref": "e419",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        255,
+        300,
+        13,
+        13
+      ],
+      "checked": false,
+      "label": "Only for tasks assigned to me",
+      "name": "notifications_filter",
+      "ref": "e420",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "2"
+    },
+    {
+      "bounds": [
+        255,
+        330,
+        13,
+        13
+      ],
+      "checked": false,
+      "label": "Only for tasks created by me",
+      "name": "notifications_filter",
+      "ref": "e421",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "3"
+    },
+    {
+      "bounds": [
+        255,
+        360,
+        13,
+        13
+      ],
+      "checked": false,
+      "label": "Only for tasks created by me and tasks assigned to me",
+      "name": "notifications_filter",
+      "ref": "e422",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "4"
+    },
+    {
+      "bounds": [
+        254,
+        451,
+        13,
+        13
+      ],
+      "checked": true,
+      "label": "Website",
+      "name": "notification_projects[1]",
+      "ref": "e423",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        250,
+        488,
+        66,
+        30
+      ],
+      "ref": "e424",
+      "role": null,
+      "tag": "button",
+      "text": "Save"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB #2 Bob Builder\n \n \nBB\nInformation\nSummary\nTime tracking\nLast logins\nPersistent connections\nPassword reset history\nActions\nEdit profile\nAvatar\nChange password\nTwo factor authentication\nPublic access\nNotifications\nExternal accounts\nIntegrations\nAPI\nNotifications\nNotification methods:\n Email\n Web\nI want to receive notifications for:\n All tasks\n Only for tasks assigned to me\n Only for tasks created by me\n Only for tasks created by me and tasks assigned to me\nI only want to receive notifications for these projects:\n Website\nSave",
+  "text_truncated": false,
+  "title": "#2 Bob Builder",
+  "url": "/user/2/notifications",
+  "viewport": [
+    1280,
+    900
+  ]
+}

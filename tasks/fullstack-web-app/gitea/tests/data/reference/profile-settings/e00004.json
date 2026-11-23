@@ -1,0 +1,399 @@
+{
+  "controls": [
+    {
+      "aria": "Dashboard",
+      "bounds": [
+        10,
+        7,
+        56,
+        36
+      ],
+      "href": "/",
+      "ref": "e758",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        71,
+        7,
+        76,
+        36
+      ],
+      "href": "/issues",
+      "ref": "e759",
+      "role": null,
+      "tag": "a",
+      "text": "Issues"
+    },
+    {
+      "bounds": [
+        152,
+        7,
+        135,
+        36
+      ],
+      "href": "/pulls",
+      "ref": "e760",
+      "role": null,
+      "tag": "a",
+      "text": "Pull Requests"
+    },
+    {
+      "bounds": [
+        293,
+        7,
+        110,
+        36
+      ],
+      "href": "/milestones",
+      "ref": "e761",
+      "role": null,
+      "tag": "a",
+      "text": "Milestones"
+    },
+    {
+      "bounds": [
+        408,
+        7,
+        85,
+        36
+      ],
+      "href": "/explore/repos",
+      "ref": "e762",
+      "role": null,
+      "tag": "a",
+      "text": "Explore"
+    },
+    {
+      "aria": "Notifications",
+      "bounds": [
+        1094,
+        7,
+        42,
+        36
+      ],
+      "href": "/notifications",
+      "ref": "e763",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Notifications"
+    },
+    {
+      "aria": "Create…",
+      "bounds": [
+        1141,
+        7,
+        60,
+        36
+      ],
+      "expanded": false,
+      "ref": "e764",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Create…"
+    },
+    {
+      "aria": "Profile and Settings…",
+      "bounds": [
+        1207,
+        7,
+        64,
+        36
+      ],
+      "expanded": false,
+      "ref": "e765",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Profile and Settings…"
+    },
+    {
+      "aria": "Change your avatar…",
+      "bounds": [
+        47,
+        81,
+        253,
+        253
+      ],
+      "href": "/user/settings",
+      "ref": "e766",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Change your avatar…"
+    },
+    {
+      "bounds": [
+        58,
+        396,
+        114,
+        16
+      ],
+      "href": "/carol?tab=followers",
+      "ref": "e767",
+      "role": null,
+      "tag": "a",
+      "text": "0 Followers"
+    },
+    {
+      "bounds": [
+        197,
+        396,
+        92,
+        16
+      ],
+      "href": "/carol?tab=following",
+      "ref": "e768",
+      "role": null,
+      "tag": "a",
+      "text": "0 Following"
+    },
+    {
+      "bounds": [
+        161,
+        416,
+        25,
+        16
+      ],
+      "href": "/carol.rss",
+      "ref": "e769",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        63,
+        500,
+        222,
+        20
+      ],
+      "href": "[external]",
+      "ref": "e770",
+      "role": null,
+      "tag": "a",
+      "text": "carol@example.test"
+    },
+    {
+      "bounds": [
+        288,
+        500,
+        16,
+        20
+      ],
+      "href": "/user/settings#privacy-user-settings",
+      "ref": "e771",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        63,
+        541,
+        218,
+        20
+      ],
+      "href": "[external]",
+      "ref": "e772",
+      "role": null,
+      "tag": "a",
+      "text": "https://example.test/carol"
+    },
+    {
+      "bounds": [
+        343,
+        66,
+        146,
+        41
+      ],
+      "href": "/carol?tab=repositories",
+      "ref": "e773",
+      "role": null,
+      "tag": "a",
+      "text": "Repositories"
+    },
+    {
+      "bounds": [
+        489,
+        66,
+        112,
+        41
+      ],
+      "href": "/carol/-/projects",
+      "ref": "e774",
+      "role": null,
+      "tag": "a",
+      "text": "Projects"
+    },
+    {
+      "bounds": [
+        601,
+        66,
+        112,
+        41
+      ],
+      "href": "/carol/-/packages",
+      "ref": "e775",
+      "role": null,
+      "tag": "a",
+      "text": "Packages"
+    },
+    {
+      "bounds": [
+        713,
+        66,
+        171,
+        41
+      ],
+      "href": "/carol?tab=activity",
+      "ref": "e776",
+      "role": null,
+      "tag": "a",
+      "text": "Public Activity"
+    },
+    {
+      "bounds": [
+        884,
+        66,
+        213,
+        41
+      ],
+      "href": "/carol?tab=stars",
+      "ref": "e777",
+      "role": null,
+      "tag": "a",
+      "text": "Starred Repositories"
+    },
+    {
+      "bounds": [
+        343,
+        122,
+        691,
+        37
+      ],
+      "maxlength": "255",
+      "name": "q",
+      "placeholder": "Search repos...",
+      "ref": "e778",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "search",
+      "value": ""
+    },
+    {
+      "aria": "Search...",
+      "bounds": [
+        1034,
+        122,
+        38,
+        37
+      ],
+      "ref": "e779",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1080,
+        123,
+        88,
+        35
+      ],
+      "expanded": false,
+      "ref": "e780",
+      "role": "combobox",
+      "tag": "div",
+      "text": "Filter"
+    },
+    {
+      "bounds": [
+        1175,
+        123,
+        73,
+        35
+      ],
+      "expanded": false,
+      "ref": "e781",
+      "role": "combobox",
+      "tag": "div",
+      "text": "Sort"
+    },
+    {
+      "bounds": [
+        20,
+        872,
+        134,
+        20
+      ],
+      "href": "[external]",
+      "ref": "e782",
+      "role": null,
+      "tag": "a",
+      "text": "Powered by Gitea"
+    },
+    {
+      "bounds": [
+        1063,
+        874,
+        76,
+        16
+      ],
+      "expanded": false,
+      "ref": "e783",
+      "role": "menu",
+      "tag": "div",
+      "text": "English"
+    },
+    {
+      "bounds": [
+        1145,
+        872,
+        76,
+        20
+      ],
+      "href": "/assets/licenses.txt",
+      "ref": "e784",
+      "role": null,
+      "tag": "a",
+      "text": "Licenses"
+    },
+    {
+      "bounds": [
+        1226,
+        872,
+        34,
+        20
+      ],
+      "href": "/api/swagger",
+      "ref": "e785",
+      "role": null,
+      "tag": "a",
+      "text": "API"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Issues\nPull Requests\nMilestones\nExplore\n \nCarol 浏览器 Ω\ncarol\n0 Followers · 0 Following \nTokyo / Paris\ncarol@example.test\nhttps://example.test/carol\n\nProfile biography\n\nJoined on \nRepositories\nProjects\nPackages\nPublic Activity\nStarred Repositories\nFilter\nSort\nNo matching results found.\nPowered by Gitea\nPage:\n10ms\nTemplate:\n3ms\nEnglish\nLicenses\nAPI",
+  "text_truncated": false,
+  "title": "Carol 浏览器 Ω - Gitea",
+  "url": "/carol",
+  "viewport": [
+    1280,
+    900
+  ]
+}

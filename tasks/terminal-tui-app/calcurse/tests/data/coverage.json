@@ -1,0 +1,230 @@
+{
+  "counts": {
+    "assertions": 1326,
+    "backend": 1206,
+    "checkpoints": 720,
+    "features": 18,
+    "frontend": 120,
+    "gui_episodes": 51,
+    "program_episodes": 72,
+    "episodes": 123
+  },
+  "features": {
+    "appointments": {
+      "assertions": 30,
+      "episodes": [
+        "gui-add-clock-times",
+        "gui-add-durations",
+        "gui-edit-appointment",
+        "gui-copy-appointment"
+      ]
+    },
+    "configuration": {
+      "assertions": 62,
+      "episodes": [
+        "date-format-1",
+        "date-format-2",
+        "date-format-3",
+        "date-format-4",
+        "date-output",
+        "gui-config-appearance-compactpanels",
+        "gui-config-appearance-calendarview",
+        "gui-config-appearance-todoview",
+        "gui-config-general-multipledays",
+        "gui-config-appearance-emptyday",
+        "gui-config-general-autosave",
+        "gui-config-general-autogc",
+        "gui-config-general-periodicsave",
+        "gui-config-general-confirmquit",
+        "gui-config-general-confirmdelete",
+        "gui-config-general-firstdayofweek",
+        "gui-config-format-outputdate",
+        "gui-config-format-dayheading",
+        "gui-config-format-appointmenttime",
+        "gui-input-format-2",
+        "gui-input-format-4",
+        "configuration-effects"
+      ]
+    },
+    "display": {
+      "assertions": 1,
+      "episodes": [
+        "gui-view-detail"
+      ]
+    },
+    "editing": {
+      "assertions": 23,
+      "episodes": [
+        "interaction-1",
+        "interaction-2",
+        "interaction-3"
+      ]
+    },
+    "events": {
+      "assertions": 18,
+      "episodes": [
+        "gui-add-events",
+        "gui-event-edit-copy",
+        "gui-delete-and-restore"
+      ]
+    },
+    "filters": {
+      "assertions": 190,
+      "episodes": [
+        "filter-selection-1",
+        "filter-selection-2",
+        "filter-hashes",
+        "filter-boundary-1",
+        "filter-boundary-2",
+        "filter-boundary-3",
+        "filter-boundary-4"
+      ]
+    },
+    "formatting": {
+      "assertions": 62,
+      "episodes": [
+        "format-records-1",
+        "format-records-2",
+        "format-duration-0",
+        "format-duration-1",
+        "format-duration-59",
+        "format-duration-60",
+        "format-duration-61",
+        "format-duration-1439",
+        "format-duration-1440",
+        "format-duration-1501",
+        "format-duration-44640",
+        "format-duration-150000",
+        "format-time-past",
+        "format-time-now",
+        "format-time-future",
+        "format-time-leap",
+        "format-time-iso-year"
+      ]
+    },
+    "icalendar": {
+      "assertions": 230,
+      "episodes": [
+        "import-1",
+        "import-2",
+        "import-3",
+        "import-4",
+        "import-5",
+        "import-6",
+        "import-7",
+        "import-8",
+        "export-properties",
+        "export-selection",
+        "gui-import",
+        "gui-export-files",
+        "export-replace-cancel"
+      ]
+    },
+    "keybindings": {
+      "assertions": 14,
+      "episodes": [
+        "gui-key-configuration",
+        "key-binding-conflict"
+      ]
+    },
+    "navigation": {
+      "assertions": 32,
+      "episodes": [
+        "gui-navigation-nearby",
+        "gui-navigation-months",
+        "gui-navigation-week-edges",
+        "gui-navigation-goto",
+        "gui-calendar-views"
+      ]
+    },
+    "notes": {
+      "assertions": 8,
+      "episodes": [
+        "note-gc",
+        "gui-note-copy-remove"
+      ]
+    },
+    "notifications": {
+      "assertions": 21,
+      "episodes": [
+        "gui-notify-flag",
+        "gui-notification-display",
+        "notification-settings"
+      ]
+    },
+    "persistence": {
+      "assertions": 37,
+      "episodes": [
+        "purge",
+        "filter-writeback",
+        "reload-persistence",
+        "gui-persistence",
+        "gui-reload-choice"
+      ]
+    },
+    "queries": {
+      "assertions": 46,
+      "episodes": [
+        "query-1",
+        "query-2"
+      ]
+    },
+    "recurrence": {
+      "assertions": 453,
+      "episodes": [
+        "recurrence-event-1",
+        "recurrence-event-2",
+        "recurrence-event-3",
+        "recurrence-event-4",
+        "recurrence-event-5",
+        "recurrence-event-6",
+        "recurrence-apt-1",
+        "recurrence-apt-2",
+        "recurrence-apt-3",
+        "recurrence-apt-4",
+        "recurrence-apt-5",
+        "recurrence-apt-6",
+        "recurrence-weekstart-monday",
+        "recurrence-weekstart-sunday",
+        "gui-repeat-daily",
+        "gui-repeat-weekly",
+        "gui-repeat-monthly",
+        "gui-repeat-yearly",
+        "gui-advanced-workdays",
+        "gui-advanced-first-last-monday",
+        "gui-advanced-month-end",
+        "gui-recur-edit",
+        "gui-remove-series",
+        "edit-recurrence-rules",
+        "gui-edit-recurrence-rule"
+      ]
+    },
+    "search": {
+      "assertions": 9,
+      "episodes": [
+        "search-entrypoints"
+      ]
+    },
+    "todos": {
+      "assertions": 28,
+      "episodes": [
+        "gui-todo-priorities",
+        "gui-todo-text",
+        "gui-todo-edit",
+        "gui-todo-delete"
+      ]
+    },
+    "validation": {
+      "assertions": 62,
+      "episodes": [
+        "cli-errors",
+        "import-recovery-1",
+        "import-recovery-2",
+        "search-invalid"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

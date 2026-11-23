@@ -1,0 +1,46 @@
+{
+  "task": "kanboard",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "Kanboard",
+    "version": "1.2.56",
+    "homepage": "https://kanboard.org/",
+    "repository": "https://github.com/kanboard/kanboard",
+    "license": "MIT"
+  },
+  "downloads": [
+    {
+      "file": "kanboard-1.2.56.tar.gz",
+      "url": "https://github.com/kanboard/kanboard/archive/refs/tags/v1.2.56.tar.gz",
+      "sha256": "48f0e33b065fe99d4b81669f3e52760fda412caca1b821435324294c121bb067"
+    }
+  ],
+  "bundled": [
+    {
+      "file": "php-runtime-8.5.12.tar.gz",
+      "built_from": "PHP 8.5.12 compiled from the official php.net source for Ubuntu 24.04 x86_64 with the CLI and Kanboard required extensions. The installed opt/php/bin/php, Ubuntu shared libraries missing from the base image, and their license notices were gathered under opt/php and archived. The program and libraries are unmodified; PHP input and build flags are recorded in notes."
+    }
+  ],
+  "modifications": "Upstream release and PHP runtime are unmodified. Local startup/seed/router scripts configure the instance and restrict database management routes; PHP logs errors instead of displaying them.",
+  "configuration": "SQLite under DATA_DIR; upstream migrations create admin/admin; documented fixed application API and webhook tokens. URL rewriting is enabled. The router only executes front controllers and disables database download, replacement and optimization. Plugin installation is disabled. The runtime supplies the documented application/browser clock.",
+  "notes": {
+    "php_source": {
+      "url": "https://www.php.net/distributions/php-8.5.12.tar.xz",
+      "version": "8.5.12",
+      "sha256": "08bc2eba2a588654ade1357174aa646b761556c862dda0678345ee29ed481209",
+      "license": "PHP-3.01"
+    },
+    "runtime_layout": "opt/php/bin/php, opt/php/lib, opt/php/share/licenses",
+    "faketime_source": {
+      "version": "0.9.12",
+      "url": "https://github.com/wolfcw/libfaketime/archive/refs/tags/v0.9.12.tar.gz",
+      "license": "GPL-2.0-only"
+    },
+    "documentation_source": {
+      "url": "https://github.com/kanboard/documentation/archive/4455fd04fb48ed42817fc99402d4c1fb3bde1c0d.tar.gz",
+      "sha256": "aa512b5a4b2fa63e54418c7262af9846c52e951ee6ff4c902adb98cef6975bf4",
+      "license": "MIT"
+    },
+    "php_configure": "'./configure'  '--prefix=/opt/php' '--disable-cgi' '--disable-phpdbg' '--without-pear' '--enable-cli' '--with-pdo-sqlite' '--with-sqlite3' '--enable-mbstring' '--enable-gd' '--with-freetype' '--with-jpeg' '--with-webp' '--with-openssl' '--with-zlib' '--enable-ctype' '--enable-fileinfo' '--enable-filter' '--with-iconv' '--enable-tokenizer' '--enable-dom' '--enable-xml' '--enable-simplexml' '--enable-xmlwriter' '--enable-xmlreader' '--enable-session' '--disable-phar' '--disable-posix'"
+  }
+}

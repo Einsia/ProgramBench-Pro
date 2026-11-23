@@ -1,0 +1,17 @@
+{
+  "reference_paths": [
+    "/app/solution/runtime/usr/bin/darktable",
+    "/app/solution/runtime/usr/bin/darktable-cli",
+    "/app/solution/runtime/usr/lib/libdarktable.so"
+  ],
+  "shared_solution_files": [
+    {
+      "file": "LICENSE",
+      "reason": "Unmodified license/copyright text for darktable; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/PhotoSwipe.txt",
+      "reason": "Unmodified license/copyright text for PhotoSwipe; the same legal text may accompany common system libraries."
+    }
+  ]
+}

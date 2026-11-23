@@ -1,0 +1,138 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        377,
+        364,
+        526,
+        32
+      ],
+      "focused": true,
+      "label": "Email",
+      "ref": "e1472995307",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        377,
+        458,
+        526,
+        32
+      ],
+      "label": "Password",
+      "ref": "e2124056865",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": ""
+    },
+    {
+      "bounds": [
+        409,
+        542,
+        494,
+        20
+      ],
+      "checked": false,
+      "label": "Remember me",
+      "proxy": true,
+      "ref": "e835076371",
+      "role": "checkbox",
+      "tag": "input",
+      "text": "Remember me",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        377,
+        588,
+        91,
+        36
+      ],
+      "ref": "e1755582596",
+      "role": null,
+      "tag": "button",
+      "text": "SIGN IN"
+    },
+    {
+      "bounds": [
+        410,
+        665,
+        218,
+        32
+      ],
+      "expanded": false,
+      "ref": "e414339825",
+      "role": "button",
+      "tag": "div",
+      "text": "Translation\nEnglish"
+    },
+    {
+      "bounds": [
+        466,
+        665,
+        134,
+        32
+      ],
+      "label": "Translation",
+      "ref": "e1728370349",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        685,
+        665,
+        218,
+        32
+      ],
+      "expanded": false,
+      "ref": "e248966474",
+      "role": "button",
+      "tag": "div",
+      "text": "Theme\nSystem"
+    },
+    {
+      "bounds": [
+        742,
+        665,
+        133,
+        32
+      ],
+      "label": "Theme",
+      "ref": "e1750562801",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Email\nPassword\nRemember me\nSIGN IN\nTranslation\nEnglish\nTheme\nSystem",
+  "text_truncated": false,
+  "title": "Komga",
+  "url": "/login?redirect=%2Fdashboard",
+  "viewport": [
+    1280,
+    900
+  ]
+}

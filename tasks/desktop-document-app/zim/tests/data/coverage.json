@@ -1,0 +1,114 @@
+{
+  "counts": {
+    "assertions": 790,
+    "backend": 667,
+    "checkpoints": 652,
+    "features": 8,
+    "frontend": 123,
+    "gui_episodes": 43,
+    "program_episodes": 14,
+    "episodes": 57
+  },
+  "features": {
+    "bulk": {
+      "assertions": 125,
+      "episodes": [
+        "program-bulk-01"
+      ]
+    },
+    "convert": {
+      "assertions": 24,
+      "episodes": [
+        "program-convert-01"
+      ]
+    },
+    "editing": {
+      "assertions": 89,
+      "episodes": [
+        "edit-append",
+        "format-bold",
+        "format-heading",
+        "format-list",
+        "format-checkbox",
+        "link-insert",
+        "edit-two-pages",
+        "format-emphasis",
+        "format-code-scripts",
+        "format-heading-levels",
+        "format-heading-remove",
+        "edit-undo-redo",
+        "insert-rule",
+        "insert-numbered",
+        "list-indent",
+        "word-count",
+        "insert-date",
+        "format-clear",
+        "copy-line",
+        "read-only",
+        "insert-text-file",
+        "insert-symbol",
+        "remove-list"
+      ]
+    },
+    "export": {
+      "assertions": 352,
+      "episodes": [
+        "program-export-01",
+        "program-export-02",
+        "program-export-03",
+        "program-export-04",
+        "program-export-05",
+        "program-export-06",
+        "program-export-07"
+      ]
+    },
+    "import": {
+      "assertions": 30,
+      "episodes": [
+        "program-import-01",
+        "program-import-02"
+      ]
+    },
+    "pages": {
+      "assertions": 96,
+      "episodes": [
+        "page-new",
+        "page-rename",
+        "page-delete",
+        "page-subpage",
+        "nav-history",
+        "nav-tree",
+        "notebook-rename",
+        "page-move",
+        "page-delete-keep",
+        "index-reveal",
+        "save-version",
+        "go-child",
+        "import-page",
+        "new-window",
+        "view-panes"
+      ]
+    },
+    "plugins": {
+      "assertions": 9,
+      "episodes": [
+        "plugin-tasklist",
+        "plugin-toc"
+      ]
+    },
+    "search": {
+      "assertions": 65,
+      "episodes": [
+        "replace-all",
+        "search-dialog",
+        "find-bar",
+        "program-search-01",
+        "program-search-02",
+        "program-search-03"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

@@ -1,0 +1,472 @@
+{
+  "cursor": {
+    "column": 108,
+    "hidden": true,
+    "row": 33
+  },
+  "process": "running",
+  "screen": [
+    "00| Tasks   Projects   Timesheet   Calendar                                                                     next [none]",
+    "01|  ID Active Age Deps P Project      Tag         S  Due Until Description                                         Urg",
+    "02|            ╭Help──────────────────────────────────────────────────────────────────────────────────────────╮",
+    "03|•  5        │# Keybindings                                                                                 │     19.24",
+    "04|   4 1h     │                                                                                              │     18.35",
+    "05|   1        │Keybindings:                                                                                  │     15.94",
+    "06|   3        │                                                                                              │     11.98",
+    "07|  12        │    Esc:                                 - Exit current action                                │     10.59",
+    "08|  10        │                                                                                              │     8.49",
+    "09|  11        │    ]: Next view                         - Go to next view                                    │     2.30",
+    "10|   8        │                                                                                              │     1.20",
+    "11|   2        │    [: Previous view                     - Go to previous view                                │     1.13",
+    "12|   6        │                                                                                              │     1.06",
+    "13|   9        │Keybindings for task report:                                                                  │     -4.96",
+    "14|            │                                                                                              │",
+    "15|            │    /: task {string}                     - Filter task report                                 │",
+    "16|            │                                                                                              │",
+    "17|            │    a: task add {string}                 - Add new task                                       │",
+    "18|────────────│                                                                                              │────────────",
+    "19|            │    d: task {selected} done              - Mark task as done                                  │",
+    "20|Name        │                                                                                              │",
+    "21|------------│    e: task {selected} edit              - Open selected task in editor                       │----",
+    "22|ID          │                                                                                              │",
+    "23|Description │    y: task {selected} duplicate         - Duplicate tasks                                    │",
+    "24|Status      │                                                                                              │",
+    "25|This task is│    j: {selected+=1}                     - Move down in task report                           │",
+    "26|Entered     │                                                                                              │",
+    "27|Due         │    k: {selected-=1}                     - Move up in task report                             │",
+    "28|Last modifie│                                                                                              │",
+    "29|Tags        │    J: {selected+=pageheight}            - Move page down in task report                      │",
+    "30|Virtual tags│                                                                                              │EAR",
+    "31|UUID        │    K: {selected-=pageheight}            - Move page up in task report                        │",
+    "32|Urgency     ╰──────────────────────────────────────────────────────────────────────────────────────────────╯",
+    "33|Priority     21% ───────────────────────────────────────────────────────────────────────────────────────────",
+    "34|Filter Tasks",
+    "35|status:pending -WAITING limit:page"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        1,
+        6
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "reverse"
+      ],
+      "text": "Tasks"
+    },
+    {
+      "columns": [
+        6,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "reverse"
+      ],
+      "text": "   Projects   Timesheet   Calendar                                                                     next [none]"
+    },
+    {
+      "columns": [
+        0,
+        4
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "  ID"
+    },
+    {
+      "columns": [
+        5,
+        11
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Active"
+    },
+    {
+      "columns": [
+        12,
+        15
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Age"
+    },
+    {
+      "columns": [
+        16,
+        20
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Deps"
+    },
+    {
+      "columns": [
+        21,
+        22
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "P"
+    },
+    {
+      "columns": [
+        23,
+        35
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Project     "
+    },
+    {
+      "columns": [
+        36,
+        47
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Tag        "
+    },
+    {
+      "columns": [
+        48,
+        50
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "S "
+    },
+    {
+      "columns": [
+        51,
+        54
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Due"
+    },
+    {
+      "columns": [
+        55,
+        60
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Until"
+    },
+    {
+      "columns": [
+        61,
+        112
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Description                                        "
+    },
+    {
+      "columns": [
+        113,
+        118
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Urg  "
+    },
+    {
+      "columns": [
+        13,
+        17
+      ],
+      "row": 2,
+      "style": [
+        "bold"
+      ],
+      "text": "Help"
+    },
+    {
+      "columns": [
+        0,
+        12
+      ],
+      "row": 3,
+      "style": [
+        "bold",
+        "fg=cd0000",
+        "bg=ffffff"
+      ],
+      "text": "•  5        "
+    },
+    {
+      "columns": [
+        108,
+        118
+      ],
+      "row": 3,
+      "style": [
+        "bold",
+        "fg=cd0000",
+        "bg=ffffff"
+      ],
+      "text": "     19.24"
+    },
+    {
+      "columns": [
+        0,
+        12
+      ],
+      "row": 4,
+      "style": [
+        "fg=ffffff",
+        "bg=d75f00"
+      ],
+      "text": "   4 1h     "
+    },
+    {
+      "columns": [
+        108,
+        118
+      ],
+      "row": 4,
+      "style": [
+        "fg=ffffff",
+        "bg=d75f00"
+      ],
+      "text": "     18.35"
+    },
+    {
+      "columns": [
+        0,
+        12
+      ],
+      "row": 5,
+      "style": [
+        "fg=cd0000"
+      ],
+      "text": "   1        "
+    },
+    {
+      "columns": [
+        108,
+        118
+      ],
+      "row": 5,
+      "style": [
+        "fg=cd0000"
+      ],
+      "text": "     15.94"
+    },
+    {
+      "columns": [
+        0,
+        12
+      ],
+      "row": 6,
+      "style": [
+        "fg=ff0000",
+        "bg=1c1c1c"
+      ],
+      "text": "   3        "
+    },
+    {
+      "columns": [
+        108,
+        118
+      ],
+      "row": 6,
+      "style": [
+        "fg=ff0000",
+        "bg=1c1c1c"
+      ],
+      "text": "     11.98"
+    },
+    {
+      "columns": [
+        0,
+        12
+      ],
+      "row": 7,
+      "style": [
+        "fg=d70000"
+      ],
+      "text": "  12        "
+    },
+    {
+      "columns": [
+        108,
+        118
+      ],
+      "row": 7,
+      "style": [
+        "fg=d70000"
+      ],
+      "text": "     10.59"
+    },
+    {
+      "columns": [
+        0,
+        12
+      ],
+      "row": 8,
+      "style": [
+        "fg=cd0000",
+        "bg=1c1c1c"
+      ],
+      "text": "  10        "
+    },
+    {
+      "columns": [
+        108,
+        118
+      ],
+      "row": 8,
+      "style": [
+        "fg=cd0000",
+        "bg=1c1c1c"
+      ],
+      "text": "     8.49 "
+    },
+    {
+      "columns": [
+        0,
+        12
+      ],
+      "row": 9,
+      "style": [
+        "fg=00af5f"
+      ],
+      "text": "  11        "
+    },
+    {
+      "columns": [
+        108,
+        118
+      ],
+      "row": 9,
+      "style": [
+        "fg=00af5f"
+      ],
+      "text": "     2.30 "
+    },
+    {
+      "columns": [
+        0,
+        12
+      ],
+      "row": 10,
+      "style": [
+        "bg=1c1c1c"
+      ],
+      "text": "   8        "
+    },
+    {
+      "columns": [
+        108,
+        118
+      ],
+      "row": 10,
+      "style": [
+        "bg=1c1c1c"
+      ],
+      "text": "     1.20 "
+    },
+    {
+      "columns": [
+        0,
+        12
+      ],
+      "row": 12,
+      "style": [
+        "bg=00005f"
+      ],
+      "text": "   6        "
+    },
+    {
+      "columns": [
+        108,
+        118
+      ],
+      "row": 12,
+      "style": [
+        "bg=00005f"
+      ],
+      "text": "     1.06 "
+    },
+    {
+      "columns": [
+        0,
+        12
+      ],
+      "row": 13,
+      "style": [
+        "fg=e5e5e5",
+        "bg=7f7f7f"
+      ],
+      "text": "   9        "
+    },
+    {
+      "columns": [
+        108,
+        118
+      ],
+      "row": 13,
+      "style": [
+        "fg=e5e5e5",
+        "bg=7f7f7f"
+      ],
+      "text": "     -4.96"
+    },
+    {
+      "columns": [
+        17,
+        35
+      ],
+      "row": 33,
+      "style": [
+        "fg=e5e5e5"
+      ],
+      "text": "──────────────────"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "reverse"
+      ],
+      "text": "Filter Tasks                                                                                                            "
+    }
+  ]
+}

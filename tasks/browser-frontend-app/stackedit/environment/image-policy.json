@@ -1,0 +1,11 @@
+{
+  "reference_paths": [
+    "/app/solution/docker-build-layer.tar.gz"
+  ],
+  "shared_solution_files": [
+    {
+      "file": "LICENSES/third-party/path-browserify@0.0.0/LICENSE",
+      "reason": "The same MIT license attribution is shipped by the generic minimist development dependency at /opt/node_modules/minimist/LICENSE; no implementation is shared."
+    }
+  ]
+}

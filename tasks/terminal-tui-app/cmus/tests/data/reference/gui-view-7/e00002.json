@@ -1,0 +1,90 @@
+{
+  "cursor": {
+    "column": 0,
+    "hidden": true,
+    "row": 1
+  },
+  "process": "running",
+  "screen": [
+    "00| Settings",
+    "01| Keybindings",
+    "02| -----------",
+    "03| browser  backspace               browser-up",
+    "04| browser  i                       toggle show_hidden",
+    "05| browser  space                   win-activate",
+    "06| browser  u                       win-update",
+    "07| common   !                       push shell",
+    "08| common   +                       vol +10%",
+    "09| common   ,                       seek -1m",
+    "10| common   -                       vol -10%",
+    "11| common   .                       seek +1m",
+    "12| common   /                       search-start",
+    "13| common   1                       view tree",
+    "14| common   2                       view sorted",
+    "15| common   3                       view playlist",
+    "16| common   4                       view queue",
+    "17| common   5                       view browser",
+    "18| common   6                       view filters",
+    "19| common   7                       view settings",
+    "20| common   =                       vol +10%",
+    "21| common   ?                       search-b-start",
+    "22| common   B                       player-next-album",
+    "23| common   C                       toggle continue",
+    "24| common   D                       win-remove",
+    "25| common   E                       win-add-Q",
+    "26| common   F                       push filter",
+    "27| common   G                       win-bottom",
+    "28| common   I                       echo {}",
+    "29| common   L                       push live-filter",
+    "30| common   M                       toggle play_library",
+    "31| common   N                       search-prev",
+    "32| common   P                       win-mv-before",
+    "33|",
+    "34| . 00:00 at 90 BPM                                                                                  library | 0% | C",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": " Settings                                                                                                               "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 1,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": " Keybindings                                                                                                            "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "fg=black",
+        "bg=white"
+      ],
+      "text": " . 00:00 at 90 BPM                                                                                  library | 0% | C    "
+    }
+  ]
+}

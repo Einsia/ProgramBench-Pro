@@ -1,0 +1,219 @@
+{
+  "cursor": {
+    "column": 72,
+    "hidden": true,
+    "row": 35
+  },
+  "process": "running",
+  "screen": [
+    "00|┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐",
+    "01|│                                                   general options                                                    │",
+    "02|├──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤",
+    "03|│                                                                                                                      │",
+    "04|│ general.systemevents = yes                                                                                           │",
+    "05|│ (if YES, system events are turned into appointments (or else deleted))                                               │",
+    "06|│                                                                                                                      │",
+    "07|│ general.confirmquit = yes                                                                                            │",
+    "08|│ (if set to YES, confirmation is required before quitting)                                                            │",
+    "09|│                                                                                                                      │",
+    "10|│ general.confirmdelete = yes                                                                                          │",
+    "11|│ (if set to YES, confirmation is required before deleting an event)                                                   │",
+    "12|│                                                                                                                      │",
+    "13|│ general.firstdayofweek = Monday                                                                                      │",
+    "14|│ (specifies the first day of week in the calendar view)                                                               │",
+    "15|│                                                                                                                      │",
+    "16|│ format.outputdate = %D                                                                                               │",
+    "17|│ (Format of the date to be displayed in non-interactive mode)                                                         │",
+    "18|│                                                                                                                      │",
+    "19|│ format.inputdate = 1                                                                                                 │",
+    "20|│ (Format to be used when entering a date:",
+    "21|│  (1) mm/dd/yyyy, (2) dd/mm/yyyy, (3) yyyy/mm/dd, (4) yyyy-mm-dd)",
+    "22|│",
+    "23|│ appearance.headingposition = to the right",
+    "24|│ (position of the heading in the appointments panel)",
+    "25|│",
+    "26|│ format.dayheading = %B %e, %Y",
+    "27|│ (Format of the date displayed in the appointments panel)",
+    "28|│",
+    "29|│ format.appointmenttime = %I:%M %p",
+    "30|│ (Format of the time displayed in the appointments panel)",
+    "31|│",
+    "32|└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘",
+    "33|───[ Wed 2026-03-18 | 09:30:00 ]───(apts)───> 00:30 :: Example <────────────────────────────────────────────────────────",
+    "34|  q Quit                                                      j Down",
+    "35|  k Up                                                        e Edit Itm"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        52,
+        67
+      ],
+      "row": 1,
+      "style": [
+        "fg=red"
+      ],
+      "text": "general options"
+    },
+    {
+      "columns": [
+        25,
+        28
+      ],
+      "row": 4,
+      "style": [
+        "fg=green"
+      ],
+      "text": "yes"
+    },
+    {
+      "columns": [
+        24,
+        27
+      ],
+      "row": 7,
+      "style": [
+        "fg=green"
+      ],
+      "text": "yes"
+    },
+    {
+      "columns": [
+        26,
+        29
+      ],
+      "row": 10,
+      "style": [
+        "fg=green"
+      ],
+      "text": "yes"
+    },
+    {
+      "columns": [
+        27,
+        33
+      ],
+      "row": 13,
+      "style": [
+        "fg=red"
+      ],
+      "text": "Monday"
+    },
+    {
+      "columns": [
+        22,
+        24
+      ],
+      "row": 16,
+      "style": [
+        "fg=red"
+      ],
+      "text": "%D"
+    },
+    {
+      "columns": [
+        21,
+        22
+      ],
+      "row": 19,
+      "style": [
+        "fg=red"
+      ],
+      "text": "1"
+    },
+    {
+      "columns": [
+        31,
+        43
+      ],
+      "row": 23,
+      "style": [
+        "fg=red"
+      ],
+      "text": "to the right"
+    },
+    {
+      "columns": [
+        22,
+        31
+      ],
+      "row": 26,
+      "style": [
+        "fg=red"
+      ],
+      "text": "%B %e, %Y"
+    },
+    {
+      "columns": [
+        2,
+        35
+      ],
+      "row": 29,
+      "style": [
+        "fg=red"
+      ],
+      "text": "format.appointmenttime = %I:%M %p"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 33,
+      "style": [
+        "underline",
+        "reverse",
+        "fg=red"
+      ],
+      "text": "───[ Wed 2026-03-18 | 09:30:00 ]───(apts)───> 00:30 :: Example <────────────────────────────────────────────────────────"
+    },
+    {
+      "columns": [
+        2,
+        3
+      ],
+      "row": 34,
+      "style": [
+        "fg=red"
+      ],
+      "text": "q"
+    },
+    {
+      "columns": [
+        62,
+        63
+      ],
+      "row": 34,
+      "style": [
+        "fg=red"
+      ],
+      "text": "j"
+    },
+    {
+      "columns": [
+        2,
+        3
+      ],
+      "row": 35,
+      "style": [
+        "fg=red"
+      ],
+      "text": "k"
+    },
+    {
+      "columns": [
+        62,
+        63
+      ],
+      "row": 35,
+      "style": [
+        "fg=red"
+      ],
+      "text": "e"
+    }
+  ]
+}

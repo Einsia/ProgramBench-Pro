@@ -1,0 +1,227 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        38,
+        202,
+        149,
+        16
+      ],
+      "ref": "e885964fe",
+      "tag": "a",
+      "text": "http://json-schema.org/"
+    },
+    {
+      "bounds": [
+        13,
+        238,
+        26,
+        26
+      ],
+      "ref": "e546c927e",
+      "tag": "button",
+      "title": "Format JSON data, with proper indentation and line feeds (Ctrl+I)"
+    },
+    {
+      "bounds": [
+        43,
+        238,
+        26,
+        26
+      ],
+      "ref": "e9b780019",
+      "tag": "button",
+      "title": "Compact JSON data, remove all whitespaces (Ctrl+Shift+I)"
+    },
+    {
+      "bounds": [
+        73,
+        238,
+        26,
+        26
+      ],
+      "ref": "ea12a318a",
+      "tag": "button",
+      "title": "Sort contents"
+    },
+    {
+      "bounds": [
+        103,
+        238,
+        26,
+        26
+      ],
+      "ref": "e35050c81",
+      "tag": "button",
+      "title": "Filter, sort, or transform contents"
+    },
+    {
+      "bounds": [
+        133,
+        238,
+        26,
+        26
+      ],
+      "ref": "e877cc316",
+      "tag": "button",
+      "title": "Repair JSON: fix quotes and escape characters, remove comments and JSONP notation, turn JavaScript objects into JSON."
+    },
+    {
+      "bounds": [
+        171,
+        238,
+        26,
+        26
+      ],
+      "ref": "ebbb5bcf1",
+      "tag": "button",
+      "title": "Undo last action (Ctrl+Z)"
+    },
+    {
+      "bounds": [
+        201,
+        238,
+        26,
+        26
+      ],
+      "disabled": true,
+      "ref": "e0a2b66da",
+      "tag": "button",
+      "title": "Redo (Ctrl+Shift+Z)"
+    },
+    {
+      "bounds": [
+        239,
+        238,
+        62,
+        26
+      ],
+      "ref": "e23f38dbc",
+      "tag": "button",
+      "text": "Code ▾",
+      "title": "Switch Editor Mode"
+    },
+    {
+      "bounds": [
+        512,
+        234,
+        95,
+        35
+      ],
+      "ref": "e5a4fce2f",
+      "tag": "a",
+      "text": "powered by ace"
+    },
+    {
+      "aria": "Toggle code folding, rows 1 through 49",
+      "bounds": [
+        47,
+        269,
+        11,
+        18
+      ],
+      "expanded": true,
+      "ref": "edba5a2a6",
+      "role": "button",
+      "tag": "span",
+      "title": "Fold code"
+    },
+    {
+      "aria": "Toggle code folding, rows 2 through 7",
+      "bounds": [
+        47,
+        287,
+        11,
+        18
+      ],
+      "expanded": true,
+      "ref": "efe1284a5",
+      "role": "button",
+      "tag": "span",
+      "title": "Fold code"
+    },
+    {
+      "aria": "Toggle code folding, rows 9 through 14",
+      "bounds": [
+        47,
+        413,
+        11,
+        18
+      ],
+      "expanded": true,
+      "ref": "e6d993618",
+      "role": "button",
+      "tag": "span",
+      "title": "Fold code"
+    },
+    {
+      "aria": "Toggle code folding, rows 15 through 18",
+      "bounds": [
+        47,
+        521,
+        11,
+        18
+      ],
+      "expanded": true,
+      "ref": "ef2b267a3",
+      "role": "button",
+      "tag": "span",
+      "title": "Fold code"
+    },
+    {
+      "aria": "Toggle code folding, rows 19 through 38",
+      "bounds": [
+        47,
+        593,
+        11,
+        18
+      ],
+      "expanded": true,
+      "ref": "e47f89e31",
+      "role": "button",
+      "tag": "span",
+      "title": "Fold code"
+    },
+    {
+      "aria": "Toggle code folding, rows 20 through 37",
+      "bounds": [
+        47,
+        611,
+        11,
+        18
+      ],
+      "expanded": true,
+      "ref": "e021e6378",
+      "role": "button",
+      "tag": "span",
+      "title": "Fold code"
+    },
+    {
+      "aria": "Toggle code folding, rows 21 through 26",
+      "bounds": [
+        47,
+        629,
+        11,
+        18
+      ],
+      "expanded": true,
+      "ref": "e2c939fef",
+      "role": "button",
+      "tag": "span",
+      "title": "Fold code"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "drawing": [],
+  "drawing_truncated": false,
+  "text": "JSON autocompletion by schema (recursive schema)\nThis example demonstrates JSON autocompletion by schema. try to change the JSON properties and values and you'll get a suggestions that are based on the schema properties, examples and enums. In this example the schema that in use is actually a recursive schema, meaninng it has a referance of a sub-\nSee\nfor more information.\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n{\n\"personalDetails\"\n:\n{\n\"firstName\"\n:\n\"John\"\n,\n\"lastName\"\n:\n\"Doe\"\n,\n\"gender\"\n:\n\"male\"\n,\n\"age\"\n:\n28\n}\n,\n\"availableToHire\"\n:\ntrue\n,\n\"job\"\n:\n{\n\"company\"\n:\n\"freelance\"\n,\n\"role\"\n:\n\"developer\"\n,\n\"salary\"\n:\n140\n,\n\"address\"\n:\n\"Jerusalem\"\n}\n,\n\"profession\"\n:\n{\n\"level\"\n:\n\"senior\"\n,\n\"experience\"\n:\n10\n}\n,\n\"reporters\"\n:\n[\n{\n\"personalDetails\"\n:\n{\n\"firstName\"\n:\n\"John\"\n,\n\"lastName\"\n:\n\"Doe\"\n,\n\"gender\"\n:\n\"male\"\n,\n\"age\"\n:\n28\n}\n,\nLn:\n3\nCol:\n23",
+  "text_truncated": false,
+  "title": "JSONEditor | Auto-completion by schema",
+  "url": "/examples/27_autocomplete_by_schema_recursive_refs.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

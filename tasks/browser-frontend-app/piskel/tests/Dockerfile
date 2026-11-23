@@ -1,0 +1,15 @@
+FROM program-bench-piskel-base:1.0.0
+# Image decoding for the verifier only, outside the Python environment that candidates use.
+COPY requirements-verifier.txt /tmp/requirements-verifier.txt
+RUN /opt/venv/bin/pip install --no-cache-dir --no-deps --require-hashes --only-binary=:all: \
+      --target /opt/verifier-lib -r /tmp/requirements-verifier.txt && rm /tmp/requirements-verifier.txt && \
+    chmod -R u=rwX,go=rX /opt/verifier-lib
+# The black-box runtime that drives candidates; the same files as the reference image (named build context).
+COPY --from=runtime . /opt/blackbox/runtime/
+COPY *.py *.md *.txt test.sh result-schema.json docker-compose.yaml Dockerfile .dockerignore /tests/
+COPY evaluation/ /tests/evaluation/
+COPY --from=scoring scoring.py /tests/evaluation/scoring.py
+COPY reference/ /tests/reference/
+COPY fixtures/ /tests/fixtures/
+COPY data/ /tests/data/
+RUN chmod -R u=rwX,go=rX /opt/blackbox/runtime && chmod 700 /tests && chmod 700 /tests/test.sh

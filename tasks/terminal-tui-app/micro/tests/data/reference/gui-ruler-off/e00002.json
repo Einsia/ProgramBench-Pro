@@ -1,0 +1,80 @@
+{
+  "base_style": [
+    "fg=brightwhite",
+    "bg=262626"
+  ],
+  "cursor": {
+    "column": 0,
+    "hidden": false,
+    "row": 0
+  },
+  "process": "running",
+  "screen": [
+    "00|alpha beta gamma",
+    "01|the teh quick fox",
+    "02|third line here",
+    "03|fourth line",
+    "04|fifth line",
+    "05|",
+    "06|",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|",
+    "12|",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|",
+    "19|",
+    "20|",
+    "21|",
+    "22|",
+    "23|",
+    "24|",
+    "25|",
+    "26|",
+    "27|",
+    "28|",
+    "29|",
+    "30|",
+    "31|",
+    "32|",
+    "33|",
+    "34|notes.txt (1,1) | ft:unknown | unix | utf-8                                                Alt-g: bindings, Ctrl-g: help",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "fg=brightwhite",
+        "bg=303030"
+      ],
+      "text": "alpha beta gamma                                                                                                        "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "fg=262626",
+        "bg=brightwhite"
+      ],
+      "text": "notes.txt (1,1) | ft:unknown | unix | utf-8                                                Alt-g: bindings, Ctrl-g: help"
+    }
+  ]
+}

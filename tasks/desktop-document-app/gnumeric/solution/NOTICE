@@ -1,0 +1,61 @@
+Gnumeric 1.12.62 and GOffice 0.10.62
+
+The native runtime archive was built from the unmodified official releases.
+Both products offer a choice of GPL version 2 or GPL version 3. LICENSE contains
+the complete GPL version 2 and LICENSES/gpl-3.0.txt contains GPL version 3.
+LICENSES/gnumeric.txt and LICENSES/goffice.txt preserve the upstream dual-license
+notices; their COPYING-gpl2 and COPYING-gpl3 references correspond to those texts.
+
+Corresponding source is available from the official release URLs:
+https://download.gnome.org/sources/gnumeric/1.12/gnumeric-1.12.62.tar.xz
+https://download.gnome.org/sources/goffice/0.10/goffice-0.10.62.tar.xz
+SOURCE.json records the exact versions and SHA-256 digests. The build fetches
+these archives; local verified copies are reusable. The bundled native runtime
+archive is retained separately. Product calculation and document code is unchanged.
+
+Building corresponding source
+
+Use Linux x86_64 and the Ubuntu 24.04 base digest in environment/Dockerfile.
+The build dependencies are build-essential, bison, flex, gettext, intltool,
+pkg-config, libgtk-3-dev, libgsf-1-dev, libxml2-dev, libxslt1-dev, librsvg2-dev,
+libbz2-dev, zlib1g-dev, libgsl-dev, itstool and libxml2-utils.
+
+Build GOffice first with:
+  ./configure --prefix=/proc/self/fd/9/upstream --with-config-backend=keyfile \
+    --disable-introspection --disable-static
+  make -j8
+  make DESTDIR="$stage" install
+
+Before the Gnumeric build, expose that staged installation with:
+  exec 9< "$stage/proc/self/fd/9"
+  export PKG_CONFIG_PATH=/proc/self/fd/9/upstream/lib/pkgconfig
+  export LD_LIBRARY_PATH=/proc/self/fd/9/upstream/lib
+
+Build Gnumeric with:
+  ./configure --prefix=/proc/self/fd/9/upstream --without-python --without-perl \
+    --without-gda --disable-introspection --disable-static --disable-component
+  make -j8
+  make DESTDIR="$stage" install
+
+The installed tree is "$stage/proc/self/fd/9/upstream". Remove headers,
+pkg-config files and gtk-doc output for the runtime package; strip native
+executables and shared libraries. Package the upstream tree with GNU tar using
+--sort=name, --mtime='2024-01-01 00:00:00Z', --owner=0, --group=0 and
+--numeric-owner. Compiler and distribution package updates can change the
+binary digest; solve.sh verifies the distributed runtime archive before extraction.
+
+The start.sh and CLI wrappers call launch.py, which opens the installation
+directory with O_PATH and inherits it as file descriptor 9. This keeps the compiled resource paths valid after an Open
+or Save dialog changes the process working directory. The launchers initialize
+the upstream time-series function plugin in the keyfile settings backend,
+which enables its native Fourier analysis. User-supplied modules are not
+loaded. The runtime supplies ordinary GLPK/lp_solve programs for native linear
+optimization.
+
+The local confinement.py applies Landlock before product execution; it permits
+only the installation, necessary system resources, private state and exchange
+directories. Gnumeric additionally permits the GLPK and lp_solve executables
+for native optimization. It refuses unconfined startup.
+
+The GUI starts in the document outbox so file dialogs open a readable exchange
+directory while the installation root remains non-enumerable.

@@ -1,0 +1,444 @@
+{
+  "counts": {
+    "assertions": 1533,
+    "backend": 1260,
+    "checkpoints": 1292,
+    "features": 65,
+    "frontend": 273,
+    "gui_episodes": 47,
+    "program_episodes": 55,
+    "episodes": 102
+  },
+  "features": {
+    "backup": {
+      "assertions": 30,
+      "episodes": [
+        "gui-backups",
+        "gui-backup-structure",
+        "gui-backup-invalid"
+      ]
+    },
+    "editing": {
+      "assertions": 110,
+      "episodes": [
+        "program-keyboard-1",
+        "program-keyboard-2",
+        "program-keyboard-3",
+        "gui-editing-1",
+        "gui-editing-2"
+      ]
+    },
+    "embedding": {
+      "assertions": 39,
+      "episodes": [
+        "program-embedding-reopen",
+        "gui-embedding-edit"
+      ]
+    },
+    "exports": {
+      "assertions": 24,
+      "episodes": [
+        "gui-exports",
+        "gui-metadata-export"
+      ]
+    },
+    "extension-abbr": {
+      "assertions": 17,
+      "episodes": [
+        "program-extension-abbr"
+      ]
+    },
+    "extension-aliases": {
+      "assertions": 6,
+      "episodes": [
+        "program-extension-aliases"
+      ]
+    },
+    "extension-autolinks": {
+      "assertions": 4,
+      "episodes": [
+        "program-extension-autolinks"
+      ]
+    },
+    "extension-commonmark_extras": {
+      "assertions": 38,
+      "episodes": [
+        "program-extension-commonmark-extras"
+      ]
+    },
+    "extension-deflist": {
+      "assertions": 10,
+      "episodes": [
+        "program-extension-deflist"
+      ]
+    },
+    "extension-emojis": {
+      "assertions": 5,
+      "episodes": [
+        "program-extension-emojis"
+      ]
+    },
+    "extension-footnote": {
+      "assertions": 12,
+      "episodes": [
+        "program-extension-footnote"
+      ]
+    },
+    "extension-linkify": {
+      "assertions": 7,
+      "episodes": [
+        "program-extension-linkify"
+      ]
+    },
+    "extension-normalize": {
+      "assertions": 14,
+      "episodes": [
+        "program-extension-normalize"
+      ]
+    },
+    "extension-smartquotes": {
+      "assertions": 14,
+      "episodes": [
+        "program-extension-smartquotes"
+      ]
+    },
+    "extension-strikethrough": {
+      "assertions": 12,
+      "episodes": [
+        "program-extension-strikethrough"
+      ]
+    },
+    "extension-sub": {
+      "assertions": 9,
+      "episodes": [
+        "program-extension-sub"
+      ]
+    },
+    "extension-sup": {
+      "assertions": 8,
+      "episodes": [
+        "program-extension-sup"
+      ]
+    },
+    "extension-tables": {
+      "assertions": 29,
+      "episodes": [
+        "program-extension-tables"
+      ]
+    },
+    "extension-typographer": {
+      "assertions": 9,
+      "episodes": [
+        "program-extension-typographer"
+      ]
+    },
+    "extension-xss": {
+      "assertions": 13,
+      "episodes": [
+        "program-extension-xss"
+      ]
+    },
+    "extensions": {
+      "assertions": 25,
+      "episodes": [
+        "program-extensions"
+      ]
+    },
+    "file-properties": {
+      "assertions": 90,
+      "episodes": [
+        "program-properties",
+        "gui-metadata",
+        "gui-presets",
+        "gui-properties-1",
+        "gui-properties-2"
+      ]
+    },
+    "formatting": {
+      "assertions": 44,
+      "episodes": [
+        "gui-format",
+        "gui-format-remove",
+        "gui-format-insert"
+      ]
+    },
+    "help": {
+      "assertions": 2,
+      "episodes": [
+        "gui-help"
+      ]
+    },
+    "imports": {
+      "assertions": 44,
+      "episodes": [
+        "gui-import-markdown",
+        "gui-import-html",
+        "gui-conversion-1",
+        "gui-conversion-2"
+      ]
+    },
+    "markdown-atx-headings": {
+      "assertions": 18,
+      "episodes": [
+        "program-markdown-atx-headings"
+      ]
+    },
+    "markdown-autolinks": {
+      "assertions": 19,
+      "episodes": [
+        "program-markdown-autolinks"
+      ]
+    },
+    "markdown-backslash-escapes": {
+      "assertions": 13,
+      "episodes": [
+        "program-markdown-backslash-escapes"
+      ]
+    },
+    "markdown-blank-lines": {
+      "assertions": 1,
+      "episodes": [
+        "program-markdown-blank-lines"
+      ]
+    },
+    "markdown-block-quotes": {
+      "assertions": 25,
+      "episodes": [
+        "program-markdown-block-quotes"
+      ]
+    },
+    "markdown-code-spans": {
+      "assertions": 22,
+      "episodes": [
+        "program-markdown-code-spans"
+      ]
+    },
+    "markdown-emphasis-and-strong-emphasis": {
+      "assertions": 131,
+      "episodes": [
+        "program-markdown-emphasis-and-strong-emphasis-1",
+        "program-markdown-emphasis-and-strong-emphasis-2",
+        "program-markdown-emphasis-and-strong-emphasis-3",
+        "program-markdown-emphasis-and-strong-emphasis-4"
+      ]
+    },
+    "markdown-entity-and-numeric-character-references": {
+      "assertions": 17,
+      "episodes": [
+        "program-markdown-entity-and-numeric-character-references"
+      ]
+    },
+    "markdown-fenced-code-blocks": {
+      "assertions": 29,
+      "episodes": [
+        "program-markdown-fenced-code-blocks"
+      ]
+    },
+    "markdown-hard-line-breaks": {
+      "assertions": 15,
+      "episodes": [
+        "program-markdown-hard-line-breaks"
+      ]
+    },
+    "markdown-html-blocks": {
+      "assertions": 44,
+      "episodes": [
+        "program-markdown-html-blocks-1",
+        "program-markdown-html-blocks-2"
+      ]
+    },
+    "markdown-images": {
+      "assertions": 22,
+      "episodes": [
+        "program-markdown-images"
+      ]
+    },
+    "markdown-indented-code-blocks": {
+      "assertions": 12,
+      "episodes": [
+        "program-markdown-indented-code-blocks"
+      ]
+    },
+    "markdown-inlines": {
+      "assertions": 1,
+      "episodes": [
+        "program-markdown-inlines"
+      ]
+    },
+    "markdown-link-reference-definitions": {
+      "assertions": 27,
+      "episodes": [
+        "program-markdown-link-reference-definitions"
+      ]
+    },
+    "markdown-links": {
+      "assertions": 90,
+      "episodes": [
+        "program-markdown-links-1",
+        "program-markdown-links-2",
+        "program-markdown-links-3"
+      ]
+    },
+    "markdown-list-items": {
+      "assertions": 48,
+      "episodes": [
+        "program-markdown-list-items-1",
+        "program-markdown-list-items-2"
+      ]
+    },
+    "markdown-lists": {
+      "assertions": 26,
+      "episodes": [
+        "program-markdown-lists"
+      ]
+    },
+    "markdown-paragraphs": {
+      "assertions": 8,
+      "episodes": [
+        "program-markdown-paragraphs"
+      ]
+    },
+    "markdown-precedence": {
+      "assertions": 1,
+      "episodes": [
+        "program-markdown-precedence"
+      ]
+    },
+    "markdown-raw-html": {
+      "assertions": 21,
+      "episodes": [
+        "program-markdown-raw-html"
+      ]
+    },
+    "markdown-setext-headings": {
+      "assertions": 27,
+      "episodes": [
+        "program-markdown-setext-headings"
+      ]
+    },
+    "markdown-soft-line-breaks": {
+      "assertions": 2,
+      "episodes": [
+        "program-markdown-soft-line-breaks"
+      ]
+    },
+    "markdown-tabs": {
+      "assertions": 11,
+      "episodes": [
+        "program-markdown-tabs"
+      ]
+    },
+    "markdown-textual-content": {
+      "assertions": 3,
+      "episodes": [
+        "program-markdown-textual-content"
+      ]
+    },
+    "markdown-thematic-breaks": {
+      "assertions": 19,
+      "episodes": [
+        "program-markdown-thematic-breaks"
+      ]
+    },
+    "rendering-advanced": {
+      "assertions": 12,
+      "episodes": [
+        "gui-render-advanced"
+      ]
+    },
+    "rendering-blocks": {
+      "assertions": 24,
+      "episodes": [
+        "gui-render-blocks"
+      ]
+    },
+    "rendering-code": {
+      "assertions": 16,
+      "episodes": [
+        "gui-render-code"
+      ]
+    },
+    "rendering-diagrams": {
+      "assertions": 12,
+      "episodes": [
+        "gui-render-diagrams"
+      ]
+    },
+    "rendering-inline": {
+      "assertions": 24,
+      "episodes": [
+        "gui-render-inline"
+      ]
+    },
+    "rendering-links": {
+      "assertions": 16,
+      "episodes": [
+        "gui-render-links"
+      ]
+    },
+    "rendering-lists": {
+      "assertions": 16,
+      "episodes": [
+        "gui-render-lists"
+      ]
+    },
+    "rendering-math": {
+      "assertions": 16,
+      "episodes": [
+        "gui-render-math"
+      ]
+    },
+    "rendering-tables": {
+      "assertions": 14,
+      "episodes": [
+        "gui-render-tables"
+      ]
+    },
+    "search": {
+      "assertions": 17,
+      "episodes": [
+        "gui-replace",
+        "gui-find",
+        "gui-search-navigation"
+      ]
+    },
+    "settings": {
+      "assertions": 27,
+      "episodes": [
+        "gui-settings-1",
+        "gui-settings-2",
+        "gui-settings-behavior-1",
+        "gui-settings-behavior-2"
+      ]
+    },
+    "templates": {
+      "assertions": 10,
+      "episodes": [
+        "gui-templates"
+      ]
+    },
+    "view": {
+      "assertions": 21,
+      "episodes": [
+        "gui-layout-1",
+        "gui-layout-2",
+        "gui-layout-long-document"
+      ]
+    },
+    "workspace": {
+      "assertions": 41,
+      "episodes": [
+        "gui-files-1",
+        "gui-files-2",
+        "gui-files-3",
+        "gui-files-4",
+        "gui-workspaces",
+        "gui-workspace-transitions",
+        "gui-temporary-files"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

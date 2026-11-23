@@ -1,0 +1,170 @@
+{
+  "counts": {
+    "assertions": 1107,
+    "backend": 1015,
+    "checkpoints": 242,
+    "features": 21,
+    "frontend": 92,
+    "gui_episodes": 43,
+    "program_episodes": 5,
+    "episodes": 48
+  },
+  "features": {
+    "clustering": {
+      "assertions": 48,
+      "episodes": [
+        "cluster-files",
+        "program-clustering-01",
+        "program-clustering-02"
+      ]
+    },
+    "cover-art": {
+      "assertions": 11,
+      "episodes": [
+        "cover-art"
+      ]
+    },
+    "editing": {
+      "assertions": 19,
+      "episodes": [
+        "edit-tags",
+        "edit-several-files"
+      ]
+    },
+    "file-naming": {
+      "assertions": 19,
+      "episodes": [
+        "rename-and-move"
+      ]
+    },
+    "interface": {
+      "assertions": 5,
+      "episodes": [
+        "interface"
+      ]
+    },
+    "loading": {
+      "assertions": 4,
+      "episodes": [
+        "add-files-and-folders"
+      ]
+    },
+    "maintenance": {
+      "assertions": 6,
+      "episodes": [
+        "config-backup"
+      ]
+    },
+    "naming-scripts": {
+      "assertions": 212,
+      "episodes": [
+        "naming-script-editor",
+        "naming-functions-text",
+        "naming-functions-logic",
+        "naming-functions-multi",
+        "naming-functions-variables",
+        "naming-functions-syntax",
+        "naming-functions-windows"
+      ]
+    },
+    "profiles": {
+      "assertions": 82,
+      "episodes": [
+        "option-profiles",
+        "program-profiles-01",
+        "program-profiles-02"
+      ]
+    },
+    "remote-commands": {
+      "assertions": 32,
+      "episodes": [
+        "program-remote-commands-01"
+      ]
+    },
+    "removing": {
+      "assertions": 4,
+      "episodes": [
+        "remove-files"
+      ]
+    },
+    "saving-options": {
+      "assertions": 49,
+      "episodes": [
+        "saving-options-tags",
+        "saving-options-writing",
+        "saving-options-cover",
+        "saving-options-files",
+        "saving-options-loading"
+      ]
+    },
+    "scripts": {
+      "assertions": 7,
+      "episodes": [
+        "script-files"
+      ]
+    },
+    "sessions": {
+      "assertions": 11,
+      "episodes": [
+        "sessions",
+        "session-startup"
+      ]
+    },
+    "setup-wizard": {
+      "assertions": 2,
+      "episodes": [
+        "setup-wizard"
+      ]
+    },
+    "tag-formats": {
+      "assertions": 100,
+      "episodes": [
+        "formats-vorbis",
+        "formats-id3",
+        "formats-mp4",
+        "formats-asf",
+        "formats-ape"
+      ]
+    },
+    "tag-options": {
+      "assertions": 4,
+      "episodes": [
+        "id3-options"
+      ]
+    },
+    "tag-writing": {
+      "assertions": 431,
+      "episodes": [
+        "tag-writing-vorbis",
+        "tag-writing-id3v24",
+        "tag-writing-id3v23",
+        "tag-writing-mp4",
+        "tag-writing-asf",
+        "tag-writing-apev2",
+        "tag-writing-containers"
+      ]
+    },
+    "tagger-scripts": {
+      "assertions": 47,
+      "episodes": [
+        "tagger-script-options",
+        "tagger-script-effects"
+      ]
+    },
+    "tags-from-file-names": {
+      "assertions": 7,
+      "episodes": [
+        "tags-from-file-names"
+      ]
+    },
+    "views": {
+      "assertions": 7,
+      "episodes": [
+        "browse-metadata"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

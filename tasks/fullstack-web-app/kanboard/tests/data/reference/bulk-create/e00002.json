@@ -1,0 +1,418 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e545",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e546",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/board/1",
+      "ref": "e547",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/board/1",
+      "ref": "e548",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "aria": "Configure this project",
+      "bounds": [
+        10,
+        48,
+        29,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e549",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Configure this project"
+    },
+    {
+      "bounds": [
+        53,
+        49,
+        81,
+        16
+      ],
+      "href": "/project/1/overview/status%3Aopen",
+      "ref": "e550",
+      "role": null,
+      "tag": "a",
+      "text": "Overview",
+      "title": "Keyboard shortcut: \"v o\""
+    },
+    {
+      "bounds": [
+        155,
+        49,
+        63,
+        16
+      ],
+      "href": "/board/1/search/status%3Aopen",
+      "ref": "e551",
+      "role": null,
+      "tag": "a",
+      "text": "Board",
+      "title": "Keyboard shortcut: \"v b\""
+    },
+    {
+      "bounds": [
+        240,
+        49,
+        44,
+        16
+      ],
+      "href": "/list/1/search/status%3Aopen",
+      "ref": "e552",
+      "role": null,
+      "tag": "a",
+      "text": "List",
+      "title": "Keyboard shortcut: \"v l\""
+    },
+    {
+      "aria": "Filter",
+      "bounds": [
+        302,
+        44,
+        846,
+        28
+      ],
+      "name": "search",
+      "placeholder": "Filter",
+      "ref": "e553",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "status:open"
+    },
+    {
+      "aria": "Default filters",
+      "bounds": [
+        1161,
+        49,
+        36,
+        16
+      ],
+      "href": "/board/1",
+      "ref": "e554",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Default filters"
+    },
+    {
+      "aria": "Custom filters",
+      "bounds": [
+        1221,
+        49,
+        36,
+        16
+      ],
+      "href": "/board/1",
+      "ref": "e555",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "User filters"
+    },
+    {
+      "bounds": [
+        19,
+        94,
+        32,
+        17
+      ],
+      "href": "/board/1/task/create/swimlane/1/column/1",
+      "ref": "e556",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Add a new task"
+    },
+    {
+      "bounds": [
+        56,
+        92,
+        79,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e557",
+      "role": null,
+      "tag": "a",
+      "text": "Backlog"
+    },
+    {
+      "bounds": [
+        139,
+        92,
+        12,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e558",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        334,
+        94,
+        32,
+        17
+      ],
+      "href": "/board/1/task/create/swimlane/1/column/2",
+      "ref": "e559",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Add a new task"
+    },
+    {
+      "bounds": [
+        371,
+        92,
+        64,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e560",
+      "role": null,
+      "tag": "a",
+      "text": "Ready"
+    },
+    {
+      "bounds": [
+        649,
+        94,
+        32,
+        17
+      ],
+      "href": "/board/1/task/create/swimlane/1/column/3",
+      "ref": "e561",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Add a new task"
+    },
+    {
+      "bounds": [
+        685,
+        92,
+        148,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e562",
+      "role": null,
+      "tag": "a",
+      "text": "Work in progress"
+    },
+    {
+      "bounds": [
+        963,
+        94,
+        32,
+        17
+      ],
+      "href": "/board/1/task/create/swimlane/1/column/4",
+      "ref": "e563",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Add a new task"
+    },
+    {
+      "bounds": [
+        1000,
+        92,
+        56,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e564",
+      "role": null,
+      "tag": "a",
+      "text": "Done"
+    },
+    {
+      "bounds": [
+        18,
+        133,
+        31,
+        16
+      ],
+      "href": "/board/1",
+      "ref": "e565",
+      "role": null,
+      "tag": "a",
+      "text": "#1"
+    },
+    {
+      "bounds": [
+        53,
+        133,
+        22,
+        16
+      ],
+      "href": "/task/1/edit",
+      "ref": "e566",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        18,
+        154,
+        99,
+        16
+      ],
+      "href": "/task/1",
+      "ref": "e567",
+      "role": null,
+      "tag": "a",
+      "text": "Translate menu"
+    },
+    {
+      "bounds": [
+        18,
+        212,
+        31,
+        16
+      ],
+      "href": "/board/1",
+      "ref": "e568",
+      "role": null,
+      "tag": "a",
+      "text": "#2"
+    },
+    {
+      "bounds": [
+        53,
+        212,
+        22,
+        16
+      ],
+      "href": "/task/2/edit",
+      "ref": "e569",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        18,
+        233,
+        100,
+        16
+      ],
+      "href": "/task/2",
+      "ref": "e570",
+      "role": null,
+      "tag": "a",
+      "text": "Translate footer"
+    },
+    {
+      "bounds": [
+        18,
+        291,
+        31,
+        16
+      ],
+      "href": "/board/1",
+      "ref": "e571",
+      "role": null,
+      "tag": "a",
+      "text": "#3"
+    },
+    {
+      "bounds": [
+        53,
+        291,
+        22,
+        16
+      ],
+      "href": "/task/3/edit",
+      "ref": "e572",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        18,
+        312,
+        105,
+        16
+      ],
+      "href": "/task/3",
+      "ref": "e573",
+      "role": null,
+      "tag": "a",
+      "text": "Translate emails"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Website \n \n \nA\nOverview Board List\nBacklog  \nTask count\n3  (\nTotal number of tasks in this column across all swimlanes\n3)\n\t\nReady \n\t\nWork in progress \n\t\nDone \n\n\n#1 \n \nTranslate menu\nTask age in days\n<15m \nDays in this column\n<15m \nTask priority\nP0\n#2 \n \nTranslate footer\nTask age in days\n<15m \nDays in this column\n<15m \nTask priority\nP0\n#3 \n \nTranslate emails\nTask age in days\n<15m \nDays in this column\n<15m \nTask priority\nP0\n\t\n\t\n\t",
+  "text_truncated": false,
+  "title": "Website",
+  "url": "/board/1",
+  "viewport": [
+    1280,
+    900
+  ]
+}

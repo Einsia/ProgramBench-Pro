@@ -1,0 +1,155 @@
+{
+  "base_style": [
+    "fg=brightwhite",
+    "bg=262626"
+  ],
+  "cursor": {
+    "column": 13,
+    "hidden": true,
+    "row": 35
+  },
+  "process": "running",
+  "screen": [
+    "00|1 // package main",
+    "01|2 // import \"fmt\"",
+    "02|3 // func main() {}",
+    "03|4",
+    "04|",
+    "05|",
+    "06|",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|",
+    "12|",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|",
+    "19|",
+    "20|",
+    "21|",
+    "22|",
+    "23|",
+    "24|",
+    "25|",
+    "26|",
+    "27|",
+    "28|",
+    "29|",
+    "30|",
+    "31|",
+    "32|",
+    "33|",
+    "34|main.go (4,1) | ft:go | unix | utf-8                                                       Alt-g: bindings, Ctrl-g: help",
+    "35|Saved main.go"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 0,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "1 "
+    },
+    {
+      "columns": [
+        2,
+        18
+      ],
+      "row": 0,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "// package main "
+    },
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 1,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "2 "
+    },
+    {
+      "columns": [
+        2,
+        18
+      ],
+      "row": 1,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "// import \"fmt\" "
+    },
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 2,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "3 "
+    },
+    {
+      "columns": [
+        2,
+        20
+      ],
+      "row": 2,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "// func main() {} "
+    },
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 3,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "4 "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "fg=262626",
+        "bg=brightwhite"
+      ],
+      "text": "main.go (4,1) | ft:go | unix | utf-8                                                       Alt-g: bindings, Ctrl-g: help"
+    }
+  ]
+}

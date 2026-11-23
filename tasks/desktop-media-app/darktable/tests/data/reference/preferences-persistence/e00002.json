@@ -1,0 +1,2819 @@
+{
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1440,
+        900
+      ],
+      "name": "darktable",
+      "ref": "eb96af1a1",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1440,
+        10
+      ],
+      "name": "",
+      "ref": "e14a3f305",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        1108,
+        89,
+        310,
+        41
+      ],
+      "description": "modify which of the displayed\nimages are selected",
+      "name": "",
+      "ref": "e0fce5d39",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1116,
+        97,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "ef8550394",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1139,
+        97,
+        89,
+        24
+      ],
+      "name": "selection",
+      "ref": "e5084bd84",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1228,
+        97,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "e73231827",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1364,
+        97,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "e9a7c361d",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1387,
+        97,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "ea66e29a2",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1108,
+        130,
+        310,
+        41
+      ],
+      "description": "actions on selection",
+      "name": "",
+      "ref": "e6269937f",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1116,
+        138,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "e1f414980",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1139,
+        138,
+        187,
+        24
+      ],
+      "name": "actions on selection",
+      "ref": "ede4cc5e3",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1326,
+        138,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "e5b3e2481",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1364,
+        138,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "eac2ee9b1",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1387,
+        138,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "ef08c5a84",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1108,
+        171,
+        310,
+        41
+      ],
+      "description": "perform actions on the history\nstacks (edit histories) of the\ncurrently selected images",
+      "name": "",
+      "ref": "e355657dc",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1116,
+        179,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "ecce85bfe",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1139,
+        179,
+        122,
+        24
+      ],
+      "name": "history stack",
+      "ref": "edcb9db8d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1261,
+        179,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "e875fa9bc",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1364,
+        179,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "e56331a19",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1387,
+        179,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "e9de71ab5",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1108,
+        212,
+        310,
+        41
+      ],
+      "description": "apply styles to the currently selected\nimages or manage your styles",
+      "name": "",
+      "ref": "e0e87e47c",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1116,
+        220,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "e5e69466f",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1139,
+        220,
+        60,
+        24
+      ],
+      "name": "styles",
+      "ref": "ed5e512ce",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1199,
+        220,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "e48ac389d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1364,
+        220,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "eb0d97c9e",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1387,
+        220,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "e2c56df13",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1108,
+        253,
+        310,
+        41
+      ],
+      "description": "modify text metadata fields of\nthe currently selected images",
+      "name": "",
+      "ref": "ee9de15d5",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1116,
+        261,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "e6e629dd2",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1139,
+        261,
+        153,
+        24
+      ],
+      "name": "metadata editor",
+      "ref": "e69c82397",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1292,
+        261,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "e28296461",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1364,
+        261,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "e0c6716f7",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1387,
+        261,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "e172da3ee",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1108,
+        294,
+        310,
+        41
+      ],
+      "description": "add or remove keywords for\nthe currently selected images",
+      "name": "",
+      "ref": "e57a6fc07",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1116,
+        302,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "ebf9d8f1e",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1139,
+        302,
+        76,
+        24
+      ],
+      "name": "tagging",
+      "ref": "e40b1fcb2",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1215,
+        302,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "ea80d572f",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1364,
+        302,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "ef99022c8",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1387,
+        302,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "ee28aba0c",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1108,
+        335,
+        310,
+        41
+      ],
+      "description": "set geolocation information for\nthe currently selected images",
+      "name": "",
+      "ref": "eb1399f7b",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1116,
+        343,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "e6b1fd0f2",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1139,
+        343,
+        109,
+        24
+      ],
+      "name": "geotagging",
+      "ref": "e2c8dc2d6",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1248,
+        343,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "ec8f2021a",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1364,
+        343,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "ec0a0a235",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1387,
+        343,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "e15be4503",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1108,
+        376,
+        310,
+        41
+      ],
+      "description": "AI-based image restoration: denoise and upscale",
+      "name": "",
+      "ref": "e22dcdd9c",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1116,
+        384,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "e09ebcd29",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1139,
+        384,
+        134,
+        24
+      ],
+      "name": "neural restore",
+      "ref": "e79f89af2",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1273,
+        384,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "ea0bfc04d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1364,
+        384,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "ea4fc3d96",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1387,
+        384,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "e4083b0f4",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1108,
+        417,
+        310,
+        41
+      ],
+      "description": "create new files for the\ncurrently selected images\nwhich apply your edits",
+      "name": "",
+      "ref": "e3866ba5e",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1116,
+        425,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "e69433d85",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1139,
+        425,
+        66,
+        24
+      ],
+      "name": "export",
+      "ref": "e9521c267",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1205,
+        425,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "e8b6e1f28",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1364,
+        425,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "ee8a54b23",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1387,
+        425,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "e1de61e84",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1108,
+        458,
+        310,
+        312
+      ],
+      "description": "right-click to show/hide modules",
+      "name": "",
+      "ref": "e9c167cb5",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        1418,
+        89,
+        12,
+        681
+      ],
+      "name": "",
+      "ref": "e42e8aaeb",
+      "role": "scroll bar"
+    },
+    {
+      "bounds": [
+        1108,
+        89,
+        5,
+        681
+      ],
+      "name": "",
+      "ref": "eaf30768b",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        22,
+        89,
+        266,
+        41
+      ],
+      "description": "import",
+      "name": "",
+      "ref": "eb32d2750",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        30,
+        97,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "e89c201be",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        53,
+        97,
+        67,
+        24
+      ],
+      "name": "import",
+      "ref": "e6a59e95b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        97,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "e9227a45f",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        234,
+        97,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "e3ca9824c",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        257,
+        97,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "e6387a778",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        22,
+        130,
+        266,
+        41
+      ],
+      "description": "define search criteria for images\nto be displayed or edited",
+      "name": "",
+      "ref": "e545ee006",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        30,
+        138,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "e96d9cb04",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        53,
+        138,
+        104,
+        24
+      ],
+      "name": "collections",
+      "ref": "efb878c9a",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        157,
+        138,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "e78d78480",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        211,
+        138,
+        23,
+        24
+      ],
+      "description": "toggle collection sort order ascending/descending",
+      "name": "",
+      "ref": "e94010fe2",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        234,
+        138,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "eb20aa0ee",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        257,
+        138,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "ef53bea69",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        22,
+        171,
+        266,
+        41
+      ],
+      "description": "refine the set of images to display or edit.\nfilters can be pinned to the top toolbar, where\nthey will also be visible in the darkroom",
+      "name": "",
+      "ref": "ee77347f8",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        30,
+        179,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "e38fa8827",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        53,
+        179,
+        151,
+        24
+      ],
+      "name": "collection filters",
+      "ref": "e375b7206",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        204,
+        179,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "ee8343ffb",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        234,
+        179,
+        23,
+        24
+      ],
+      "description": "reset\nctrl+click to remove pinned rules too",
+      "name": "",
+      "ref": "e0297d05b",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        257,
+        179,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "e1d1c2866",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        22,
+        212,
+        266,
+        41
+      ],
+      "description": "image information",
+      "name": "",
+      "ref": "e6100ab4c",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        30,
+        220,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "e9ec3c085",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        53,
+        220,
+        172,
+        24
+      ],
+      "name": "image information",
+      "ref": "ed66b04cb",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        225,
+        220,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "ea86800f9",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        234,
+        220,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "ed73d1692",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        257,
+        220,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "eee754e94",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        22,
+        253,
+        266,
+        517
+      ],
+      "description": "right-click to show/hide modules",
+      "name": "",
+      "ref": "e4ba9c13c",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        10,
+        89,
+        12,
+        681
+      ],
+      "name": "",
+      "ref": "e38d995b3",
+      "role": "scroll bar"
+    },
+    {
+      "bounds": [
+        283,
+        89,
+        5,
+        681
+      ],
+      "name": "",
+      "ref": "eeb8db010",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        10,
+        770,
+        1420,
+        5
+      ],
+      "name": "",
+      "ref": "e9e9b7193",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        292,
+        91,
+        39,
+        34
+      ],
+      "description": "filter preferences",
+      "name": "",
+      "ref": "e10591019",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        331,
+        91,
+        45,
+        34
+      ],
+      "name": "filter",
+      "ref": "e77fa672d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        376,
+        91,
+        13,
+        34
+      ],
+      "description": "filter images based on their module order",
+      "name": "",
+      "ref": "eb3e8a10d",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        389,
+        91,
+        30,
+        34
+      ],
+      "description": "filter by images color label\nclick to toggle the color label selection\nctrl+click to exclude the color label\nthe gray button affects all color labels",
+      "name": "",
+      "ref": "ea970ec4b",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        419,
+        91,
+        30,
+        34
+      ],
+      "description": "filter by images color label\nclick to toggle the color label selection\nctrl+click to exclude the color label\nthe gray button affects all color labels",
+      "name": "",
+      "ref": "ee6653202",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        449,
+        91,
+        30,
+        34
+      ],
+      "description": "filter by images color label\nclick to toggle the color label selection\nctrl+click to exclude the color label\nthe gray button affects all color labels",
+      "name": "",
+      "ref": "e12ea2821",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        479,
+        91,
+        30,
+        34
+      ],
+      "description": "filter by images color label\nclick to toggle the color label selection\nctrl+click to exclude the color label\nthe gray button affects all color labels",
+      "name": "",
+      "ref": "ec476f2d8",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        509,
+        91,
+        30,
+        34
+      ],
+      "description": "filter by images color label\nclick to toggle the color label selection\nctrl+click to exclude the color label\nthe gray button affects all color labels",
+      "name": "",
+      "ref": "e43ddd754",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        539,
+        91,
+        30,
+        34
+      ],
+      "description": "filter by images color label\nclick to toggle the color label selection\nctrl+click to exclude the color label\nthe gray button affects all color labels",
+      "name": "",
+      "ref": "e41770172",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        571,
+        91,
+        30,
+        34
+      ],
+      "description": "filter by images color label\nintersection: images having all selected color labels\nunion: images with at least one of the selected color labels",
+      "name": "",
+      "ref": "e6517961f",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        611,
+        91,
+        146,
+        32
+      ],
+      "name": "",
+      "ref": "eea792d53",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        765,
+        91,
+        63,
+        34
+      ],
+      "name": "sort by",
+      "ref": "e3312cbd3",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        828,
+        91,
+        13,
+        34
+      ],
+      "description": "determine the sort order of shown images",
+      "name": "",
+      "ref": "ec4aebb94",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        841,
+        91,
+        39,
+        34
+      ],
+      "name": "",
+      "ref": "ed3f4496f",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        880,
+        91,
+        29,
+        34
+      ],
+      "name": "0 images selected of 0",
+      "ref": "e93e89a07",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        909,
+        91,
+        39,
+        34
+      ],
+      "description": "collapse grouped images",
+      "name": "",
+      "ref": "e6d85c8be",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        948,
+        91,
+        39,
+        34
+      ],
+      "description": "click to change the type of overlays shown on thumbnails",
+      "name": "",
+      "ref": "ecc2e96ac",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        987,
+        91,
+        39,
+        34
+      ],
+      "description": "enable this, then click on a control element to see its online help",
+      "name": "",
+      "ref": "ef6834098",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1026,
+        91,
+        39,
+        34
+      ],
+      "description": "define keyboard shortcuts for on-screen controls\nctrl+click to switch off overwrite confirmations\n\nafter activating:\n\n- hover over a control (button, slider, etc.) and press\n  a keystroke combination ",
+      "name": "",
+      "ref": "eed700363",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1065,
+        91,
+        39,
+        34
+      ],
+      "description": "show global preferences",
+      "name": "",
+      "ref": "e3cc12f52",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        288,
+        127,
+        820,
+        605
+      ],
+      "name": "",
+      "ref": "e2c13d374",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        292,
+        742,
+        144,
+        18
+      ],
+      "description": "set star rating for selected images",
+      "name": "",
+      "ref": "ef622dc2c",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        452,
+        734,
+        34,
+        34
+      ],
+      "description": "toggle color label of selected images",
+      "name": "",
+      "ref": "e75dcc550",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        486,
+        734,
+        34,
+        34
+      ],
+      "description": "toggle color label of selected images",
+      "name": "",
+      "ref": "e4784da76",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        520,
+        734,
+        34,
+        34
+      ],
+      "description": "toggle color label of selected images",
+      "name": "",
+      "ref": "e6dda5560",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        554,
+        734,
+        34,
+        34
+      ],
+      "description": "toggle color label of selected images",
+      "name": "",
+      "ref": "e528a5ab3",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        588,
+        734,
+        34,
+        34
+      ],
+      "description": "toggle color label of selected images",
+      "name": "",
+      "ref": "e446ecc42",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        622,
+        734,
+        34,
+        34
+      ],
+      "description": "clear color labels of selected images",
+      "name": "",
+      "ref": "e932858ad",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        668,
+        734,
+        40,
+        34
+      ],
+      "description": "click to enter filemanager layout.",
+      "name": "",
+      "ref": "e5a8e5419",
+      "role": "toggle button",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        708,
+        734,
+        40,
+        34
+      ],
+      "description": "click to enter zoomable lighttable layout.",
+      "name": "",
+      "ref": "e40de2eaf",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        748,
+        734,
+        40,
+        34
+      ],
+      "description": "click to enter culling layout in fixed mode.",
+      "name": "",
+      "ref": "ed0090e0e",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        788,
+        734,
+        40,
+        34
+      ],
+      "description": "click to enter culling layout in dynamic mode.",
+      "name": "",
+      "ref": "e0f9db5de",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        828,
+        734,
+        40,
+        34
+      ],
+      "description": "click to enter full preview layout.",
+      "name": "",
+      "ref": "e414f551a",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        892,
+        734,
+        92,
+        34
+      ],
+      "description": "set the number of thumbnails per row in filemanager layout,\nor the total number of thumbnails shown in culling layouts.",
+      "name": "",
+      "ref": "e79ba2568",
+      "role": "spin button",
+      "states": [
+        "editable"
+      ],
+      "text": "5",
+      "value": 5.0
+    },
+    {
+      "bounds": [
+        996,
+        734,
+        40,
+        34
+      ],
+      "description": "toggle focus-peaking mode",
+      "name": "",
+      "ref": "e702d271a",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1036,
+        734,
+        34,
+        34
+      ],
+      "description": "set display profile",
+      "name": "",
+      "ref": "e719ee0ce",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1070,
+        734,
+        34,
+        34
+      ],
+      "description": "view log history",
+      "name": "",
+      "ref": "e69b26bc2",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1088,
+        734,
+        16,
+        21
+      ],
+      "name": "●",
+      "ref": "e0fdcd794",
+      "role": "label",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        258,
+        30,
+        669,
+        58
+      ],
+      "name": "",
+      "ref": "ee3120f00",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        930,
+        31,
+        134,
+        56
+      ],
+      "name": "lighttable",
+      "ref": "e8f15d86a",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1064,
+        31,
+        28,
+        56
+      ],
+      "name": "|",
+      "ref": "e0c870eb2",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1092,
+        31,
+        136,
+        56
+      ],
+      "name": "darkroom",
+      "ref": "eea8ce135",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1228,
+        31,
+        28,
+        56
+      ],
+      "name": "|",
+      "ref": "ed06f61b5",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1256,
+        31,
+        172,
+        56
+      ],
+      "name": "other",
+      "ref": "eec638793",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        1430,
+        29,
+        10,
+        741
+      ],
+      "name": "",
+      "ref": "ef4507aaf",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        0,
+        29,
+        10,
+        741
+      ],
+      "name": "",
+      "ref": "eaa3923f3",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        0,
+        890,
+        1440,
+        10
+      ],
+      "name": "",
+      "ref": "e4d26bbc9",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        77,
+        78,
+        1286,
+        745
+      ],
+      "name": "darktable preferences",
+      "ref": "e931d08ed",
+      "role": "dialog",
+      "states": [
+        "active",
+        "modal"
+      ]
+    },
+    {
+      "bounds": [
+        80,
+        100,
+        180,
+        716
+      ],
+      "name": "",
+      "ref": "e0cc276c3",
+      "role": "list box"
+    },
+    {
+      "bounds": [
+        80,
+        100,
+        180,
+        43
+      ],
+      "name": "",
+      "ref": "e1e4266cc",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        88,
+        106,
+        95,
+        31
+      ],
+      "name": "general",
+      "ref": "e4d0f4353",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        80,
+        143,
+        180,
+        43
+      ],
+      "name": "",
+      "ref": "eb43fb181",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        88,
+        149,
+        86,
+        31
+      ],
+      "name": "import",
+      "ref": "e91583ba7",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        80,
+        186,
+        180,
+        43
+      ],
+      "name": "",
+      "ref": "e701e83e5",
+      "role": "list item",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        88,
+        192,
+        112,
+        31
+      ],
+      "name": "lighttable",
+      "ref": "eea9b3144",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        80,
+        229,
+        180,
+        43
+      ],
+      "name": "",
+      "ref": "e03afd8f8",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        88,
+        235,
+        113,
+        31
+      ],
+      "name": "darkroom",
+      "ref": "e8ce10e55",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        80,
+        272,
+        180,
+        43
+      ],
+      "name": "",
+      "ref": "e53a4f370",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        88,
+        278,
+        123,
+        31
+      ],
+      "name": "processing",
+      "ref": "edef1bbf0",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        80,
+        315,
+        180,
+        43
+      ],
+      "name": "",
+      "ref": "e5b2e8d6a",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        88,
+        321,
+        98,
+        31
+      ],
+      "name": "security",
+      "ref": "eb6de7f52",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        80,
+        358,
+        180,
+        43
+      ],
+      "name": "",
+      "ref": "e1cc93f64",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        88,
+        364,
+        95,
+        31
+      ],
+      "name": "storage",
+      "ref": "e9b615d08",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        80,
+        401,
+        180,
+        43
+      ],
+      "name": "",
+      "ref": "e2b97a9dc",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        88,
+        407,
+        154,
+        31
+      ],
+      "name": "miscellaneous",
+      "ref": "e2f86b540",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        80,
+        444,
+        180,
+        43
+      ],
+      "name": "",
+      "ref": "e1fe6cf14",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        88,
+        450,
+        110,
+        31
+      ],
+      "name": "shortcuts",
+      "ref": "e0dbf19e6",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        80,
+        487,
+        180,
+        43
+      ],
+      "name": "",
+      "ref": "e689718f9",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        88,
+        493,
+        93,
+        31
+      ],
+      "name": "presets",
+      "ref": "e74d133bf",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        80,
+        530,
+        180,
+        43
+      ],
+      "name": "",
+      "ref": "e16b8543a",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        88,
+        536,
+        45,
+        31
+      ],
+      "name": "AI",
+      "ref": "e83f9c19b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        899,
+        739,
+        430,
+        135
+      ],
+      "description": "see manual to know all the tags you can use.",
+      "name": "",
+      "ref": "ea94b7b26",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "<b>$(FILE_NAME).$(FILE_EXTENSION)</b>$(NL)$(EXIF.DATE.REGIONAL) $(EXIF.TIME.REGIONAL) $(GPS.LOCATION.ICON) $(EXIF.FLASH.ICON)$(NL)<b>$(EXIF.EXPOSURE)</b> • <b>f/$(EXIF.APERTURE)</b> • <b>$(EXIF.FOCAL.LENGTH)</b>mm • ISO <b>$(EXIF.ISO)</b>",
+      "visible": [
+        899,
+        739,
+        430,
+        35
+      ]
+    },
+    {
+      "bounds": [
+        876,
+        739,
+        18,
+        135
+      ],
+      "name": "",
+      "ref": "e22e04c1a",
+      "role": "label",
+      "visible": [
+        876,
+        739,
+        18,
+        35
+      ]
+    },
+    {
+      "bounds": [
+        279,
+        739,
+        592,
+        135
+      ],
+      "description": "double click to reset to `<b>$(FILE_NAME).$(FILE_EXTENSION)</b>$(NL)$(EXIF.DATE.REGIONAL) $(EXIF.TIME.REGIONAL) $(GPS.LOCATION.ICON) $(EXIF.FLASH.ICON)$(NL)<b>$(EXIF.EXPOSURE)</b> • <b>f/$(EXIF.APERTU",
+      "name": "",
+      "ref": "ec144ed71",
+      "role": "panel",
+      "visible": [
+        279,
+        739,
+        592,
+        35
+      ]
+    },
+    {
+      "bounds": [
+        279,
+        739,
+        592,
+        135
+      ],
+      "name": "pattern for the thumbnail tooltip (empty to disable)",
+      "ref": "e19923e2d",
+      "role": "label",
+      "visible": [
+        279,
+        739,
+        592,
+        35
+      ]
+    },
+    {
+      "bounds": [
+        899,
+        639,
+        430,
+        97
+      ],
+      "description": "see manual to know all the tags you can use.",
+      "name": "",
+      "ref": "ee524a10d",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "$(FILE_NAME).$(FILE_EXTENSION)$(NL)<b>$(EXIF.EXPOSURE)</b> • <b>f/$(EXIF.APERTURE)</b> • <b>$(EXIF.FOCAL.LENGTH)</b>mm • ISO <b>$(EXIF.ISO)</b> $(GPS.LOCATION.ICON) $(EXIF.FLASH.ICON) $(SIDECAR_TXT)"
+    },
+    {
+      "bounds": [
+        876,
+        639,
+        18,
+        97
+      ],
+      "name": "",
+      "ref": "e9d3ffa50",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        279,
+        639,
+        592,
+        97
+      ],
+      "description": "double click to reset to `$(FILE_NAME).$(FILE_EXTENSION)$(NL)<b>$(EXIF.EXPOSURE)</b> • <b>f/$(EXIF.APERTURE)</b> • <b>$(EXIF.FOCAL.LENGTH)</b>mm • ISO <b>$(EXIF.ISO)</b> $(GPS.LOCATION.ICON) $(EXIF.FL",
+      "name": "",
+      "ref": "ec3622657",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        279,
+        639,
+        592,
+        97
+      ],
+      "name": "pattern for the thumbnail extended overlay text",
+      "ref": "e1cc95597",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        899,
+        610,
+        430,
+        26
+      ],
+      "description": "size categories are used to be able to set different overlays and CSS values depending on the size of the thumbnail, separated by |.\nfor example, 120|400 means 3 categories of thumbnails: up to 120px,",
+      "name": "",
+      "ref": "ee505e82a",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "120|400"
+    },
+    {
+      "bounds": [
+        876,
+        610,
+        18,
+        26
+      ],
+      "name": "",
+      "ref": "e6ba8c66a",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        279,
+        610,
+        592,
+        26
+      ],
+      "description": "double click to reset to `120|400'",
+      "name": "",
+      "ref": "e7bfbcaf5",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        279,
+        610,
+        592,
+        26
+      ],
+      "name": "delimiters for size categories",
+      "ref": "ed02ddf5b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        899,
+        581,
+        430,
+        26
+      ],
+      "description": "force thumbnails to be regenerated by resetting the database. this may be needed in case some thumbnails have been manually removed or corrupted.",
+      "name": "",
+      "ref": "ead2fecad",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        876,
+        581,
+        18,
+        26
+      ],
+      "name": "",
+      "ref": "e5a4188a9",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        279,
+        581,
+        592,
+        26
+      ],
+      "description": "double click to reset to `FALSE'",
+      "name": "",
+      "ref": "e9a532199",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        279,
+        581,
+        592,
+        26
+      ],
+      "name": "reset cached thumbnails",
+      "ref": "e5dfa1faf",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        899,
+        552,
+        259,
+        26
+      ],
+      "description": "if 'enable disk backend for thumbnail cache' is enabled thumbnails/mipmaps up to the selected size are generated while user is inactive in lighttable.",
+      "name": "",
+      "ref": "e27a35635",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        876,
+        552,
+        18,
+        26
+      ],
+      "name": "",
+      "ref": "eebbb6f58",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        279,
+        552,
+        592,
+        26
+      ],
+      "description": "double click to reset to `never'",
+      "name": "",
+      "ref": "e877be104",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        279,
+        552,
+        592,
+        26
+      ],
+      "name": "generate thumbnails in background",
+      "ref": "e4652497f",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        899,
+        523,
+        430,
+        26
+      ],
+      "description": "if enabled, scrolling the lighttable scrolls by some number of pixels, as expected with a touch pad.\ndisabled, the lighttable scrolls full rows of thumbnails, as befits a scroll wheel.",
+      "name": "",
+      "ref": "eaf7e7eb1",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        876,
+        523,
+        18,
+        26
+      ],
+      "name": "",
+      "ref": "eb88f3e0b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        279,
+        523,
+        592,
+        26
+      ],
+      "description": "double click to reset to `FALSE'",
+      "name": "",
+      "ref": "e292460bf",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        279,
+        523,
+        592,
+        26
+      ],
+      "name": "enable smooth scrolling for lighttable thumbnails",
+      "ref": "e55fcf9a1",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        899,
+        494,
+        430,
+        26
+      ],
+      "description": "if enabled, write full preview to disk (.cache/darktable/) when evicted from the memory cache.\nnote that this can take a lot of memory (several gigabytes for 20k images) and will never delete cached f",
+      "name": "",
+      "ref": "eda85afde",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        876,
+        494,
+        18,
+        26
+      ],
+      "name": "",
+      "ref": "e3a02f45f",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        279,
+        494,
+        592,
+        26
+      ],
+      "description": "double click to reset to `FALSE'",
+      "name": "",
+      "ref": "ea084cd49",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        279,
+        494,
+        592,
+        26
+      ],
+      "name": "enable disk backend for full preview cache",
+      "ref": "eabd6051b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        899,
+        465,
+        430,
+        26
+      ],
+      "description": "if enabled, write thumbnails to disk (.cache/darktable/) when evicted from the memory cache.\nnote that this can take a lot of memory (several gigabytes for 20k images) and will never delete cached thu",
+      "name": "",
+      "ref": "ed2feb9d6",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        876,
+        465,
+        18,
+        26
+      ],
+      "name": "",
+      "ref": "e6f874047",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        279,
+        465,
+        592,
+        26
+      ],
+      "description": "double click to reset to `TRUE'",
+      "name": "",
+      "ref": "e3308c51c",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        279,
+        465,
+        592,
+        26
+      ],
+      "name": "enable disk backend for thumbnail cache",
+      "ref": "eff9d149e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        899,
+        436,
+        259,
+        26
+      ],
+      "description": "if the thumbnail size is greater than this value, it will be processed using the full quality rendering path (better but slower).\nif you want all thumbnails and pre-rendered images in best quality you",
+      "name": "",
+      "ref": "e756e2ef7",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        876,
+        436,
+        18,
+        26
+      ],
+      "name": "",
+      "ref": "ec7ae3260",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        279,
+        436,
+        592,
+        26
+      ],
+      "description": "double click to reset to `720p'",
+      "name": "",
+      "ref": "e1950e5b3",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        279,
+        436,
+        592,
+        26
+      ],
+      "name": "high quality processing from size",
+      "ref": "e01fb0f4b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        899,
+        407,
+        259,
+        26
+      ],
+      "description": "if the thumbnail size is greater than this value, it will be processed using raw file instead of the embedded preview JPEG (better but slower).\nif you want all thumbnails and pre-rendered images in be",
+      "name": "",
+      "ref": "e7a67cfde",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        876,
+        407,
+        18,
+        26
+      ],
+      "name": "",
+      "ref": "eeab670e4",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        279,
+        407,
+        592,
+        26
+      ],
+      "description": "double click to reset to `never'",
+      "name": "",
+      "ref": "e70cb5729",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        279,
+        407,
+        592,
+        26
+      ],
+      "name": "for unaltered images, use raw file instead of embedded JPEG from size",
+      "ref": "eb5b64721",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        279,
+        375,
+        123,
+        29
+      ],
+      "name": "thumbnails",
+      "ref": "edd41c36c",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        899,
+        346,
+        430,
+        26
+      ],
+      "description": "defines whether time should be displayed with milliseconds",
+      "name": "",
+      "ref": "e844ea734",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        876,
+        346,
+        18,
+        26
+      ],
+      "description": "this setting has been modified",
+      "name": "●",
+      "ref": "e909ca35d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        279,
+        346,
+        592,
+        26
+      ],
+      "description": "double click to reset to `FALSE'",
+      "name": "",
+      "ref": "ecf866e4c",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        279,
+        346,
+        592,
+        26
+      ],
+      "name": "show image time with milliseconds",
+      "ref": "e49f1ed9c",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        899,
+        317,
+        430,
+        26
+      ],
+      "description": "defines whether scrollbars should be displayed",
+      "name": "",
+      "ref": "e5109e5d4",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        876,
+        317,
+        18,
+        26
+      ],
+      "name": "",
+      "ref": "eae9f2177",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        279,
+        317,
+        592,
+        26
+      ],
+      "description": "double click to reset to `TRUE'",
+      "name": "",
+      "ref": "ec234d521",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        279,
+        317,
+        592,
+        26
+      ],
+      "name": "show scrollbars for central view",
+      "ref": "e15fc8466",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        899,
+        288,
+        430,
+        26
+      ],
+      "description": "defines whether rating an image one star twice will zero out star rating",
+      "name": "",
+      "ref": "efeecc2f0",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        876,
+        288,
+        18,
+        26
+      ],
+      "name": "",
+      "ref": "e8d85aeb8",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        279,
+        288,
+        592,
+        26
+      ],
+      "description": "double click to reset to `FALSE'",
+      "name": "",
+      "ref": "e543f22a8",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        279,
+        288,
+        592,
+        26
+      ],
+      "name": "rating an image one star twice will not zero out the rating",
+      "ref": "ef93a4186",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        899,
+        259,
+        430,
+        26
+      ],
+      "description": "when this option is enabled then darktable will try to scroll the module to the top of the visible list",
+      "name": "",
+      "ref": "e094278f9",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        876,
+        259,
+        18,
+        26
+      ],
+      "name": "",
+      "ref": "ed3f87cda",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        279,
+        259,
+        592,
+        26
+      ],
+      "description": "double click to reset to `FALSE'",
+      "name": "",
+      "ref": "e40970fb0",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        279,
+        259,
+        592,
+        26
+      ],
+      "name": "scroll utility modules to the top when expanded",
+      "ref": "e27a95a45",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        899,
+        230,
+        430,
+        26
+      ],
+      "description": "this option toggles the behavior of shift clicking in lighttable mode",
+      "name": "",
+      "ref": "efb7d7862",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        876,
+        230,
+        18,
+        26
+      ],
+      "name": "",
+      "ref": "e21090c09",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        279,
+        230,
+        592,
+        26
+      ],
+      "description": "double click to reset to `FALSE'",
+      "name": "",
+      "ref": "e94e89c1a",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        279,
+        230,
+        592,
+        26
+      ],
+      "name": "expand a single utility module at a time",
+      "ref": "e0c66cdf0",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        899,
+        201,
+        430,
+        26
+      ],
+      "description": "in the lighttable, where culling takes place, you can apply actions (e.g., setting ratings) to the hovered image or to the selected ones\n\nenabled actions apply to the hovered image (less clicking)\n\ndi",
+      "name": "",
+      "ref": "ec0107cdd",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        876,
+        201,
+        18,
+        26
+      ],
+      "name": "",
+      "ref": "e387c8df6",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        279,
+        201,
+        592,
+        26
+      ],
+      "description": "double click to reset to `TRUE'",
+      "name": "",
+      "ref": "e084f316d",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        279,
+        201,
+        592,
+        26
+      ],
+      "name": "prioritize the hovered image over the selected images",
+      "ref": "ebaf2df39",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        899,
+        172,
+        430,
+        26
+      ],
+      "description": "check this option to use single-click to select items in the collections module. this will allow you to do range selections for date-time and numeric values.",
+      "name": "",
+      "ref": "e2f4fb780",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        876,
+        172,
+        18,
+        26
+      ],
+      "name": "",
+      "ref": "eddd35462",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        279,
+        172,
+        592,
+        26
+      ],
+      "description": "double click to reset to `FALSE'",
+      "name": "",
+      "ref": "eead12540",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        279,
+        172,
+        592,
+        26
+      ],
+      "name": "use single-click in the collections module",
+      "ref": "e70d19a3e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        899,
+        143,
+        430,
+        26
+      ],
+      "description": "hide built-in presets of utility modules in presets menu.",
+      "name": "",
+      "ref": "e0b8d2a07",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        876,
+        143,
+        18,
+        26
+      ],
+      "name": "",
+      "ref": "e11ec088a",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        279,
+        143,
+        592,
+        26
+      ],
+      "description": "double click to reset to `FALSE'",
+      "name": "",
+      "ref": "e6cde55bc",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        279,
+        143,
+        592,
+        26
+      ],
+      "name": "hide built-in presets for utility modules",
+      "ref": "ecc65d8af",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        279,
+        111,
+        83,
+        29
+      ],
+      "name": "general",
+      "ref": "e1759a2c6",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1329,
+        111,
+        12,
+        663
+      ],
+      "name": "",
+      "ref": "e4f46a41c",
+      "role": "scroll bar"
+    },
+    {
+      "bounds": [
+        1313,
+        774,
+        28,
+        31
+      ],
+      "name": "?",
+      "ref": "e01ef56f2",
+      "role": "push button"
+    }
+  ],
+  "screen": [
+    1440,
+    900
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": false,
+      "bounds": [
+        0,
+        38,
+        1440,
+        881
+      ],
+      "ref": "w7e208ab0",
+      "title": "darktable"
+    },
+    {
+      "active": true,
+      "bounds": [
+        79,
+        118,
+        1284,
+        720
+      ],
+      "ref": "w1a38ab45",
+      "title": "darktable preferences"
+    }
+  ]
+}

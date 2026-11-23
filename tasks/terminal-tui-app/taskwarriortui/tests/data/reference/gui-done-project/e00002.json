@@ -1,0 +1,86 @@
+{
+  "cursor": {
+    "column": 15,
+    "hidden": true,
+    "row": 33
+  },
+  "process": "running",
+  "screen": [
+    "00| Tasks   Projects   Timesheet   Calendar                                                                     next [none]",
+    "01|",
+    "02|",
+    "03|",
+    "04|",
+    "05|",
+    "06|",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|",
+    "12|",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────",
+    "19|Task not found",
+    "20|",
+    "21|",
+    "22|",
+    "23|",
+    "24|",
+    "25|",
+    "26|",
+    "27|",
+    "28|",
+    "29|",
+    "30|",
+    "31|",
+    "32|",
+    "33|",
+    "34|Filter Tasks",
+    "35|project:Home status:pending"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        1,
+        6
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "reverse"
+      ],
+      "text": "Tasks"
+    },
+    {
+      "columns": [
+        6,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "reverse"
+      ],
+      "text": "   Projects   Timesheet   Calendar                                                                     next [none]"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "reverse"
+      ],
+      "text": "Filter Tasks                                                                                                            "
+    }
+  ]
+}

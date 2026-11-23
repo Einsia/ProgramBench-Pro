@@ -1,0 +1,879 @@
+{
+  "focused": "eeed0d7f1",
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        1024
+      ],
+      "name": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),",
+      "ref": "e93ed40b7",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        25
+      ],
+      "name": "",
+      "ref": "e37b0c28a",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        39,
+        25
+      ],
+      "name": "File",
+      "ref": "eae5e7196",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        39,
+        19,
+        75,
+        25
+      ],
+      "name": "Accounts",
+      "ref": "ecb5893cc",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        114,
+        19,
+        49,
+        25
+      ],
+      "name": "Tools",
+      "ref": "ec5eeafb2",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        163,
+        19,
+        48,
+        25
+      ],
+      "name": "View",
+      "ref": "eb0ba3d40",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        211,
+        19,
+        46,
+        25
+      ],
+      "name": "Help",
+      "ref": "ef594ac36",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        1,
+        995,
+        200,
+        6
+      ],
+      "name": "",
+      "ref": "ef36204a0",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        93,
+        42,
+        1094,
+        940
+      ],
+      "name": "Export as XML file",
+      "ref": "e7a804d0c",
+      "role": "frame",
+      "states": [
+        "modal"
+      ]
+    },
+    {
+      "bounds": [
+        105,
+        81,
+        71,
+        17
+      ],
+      "name": "File Name:",
+      "ref": "e72e67aa8",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        186,
+        73,
+        464,
+        34
+      ],
+      "name": "",
+      "ref": "ef1aceb18",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "/app/candidate-state/session/files/outbox/ledger.xml"
+    },
+    {
+      "bounds": [
+        660,
+        73,
+        95,
+        34
+      ],
+      "description": "Choose XML data file to export",
+      "name": "Browse…",
+      "ref": "eca46729b",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        104,
+        126,
+        71,
+        17
+      ],
+      "name": "Account:",
+      "ref": "e223e9fd6",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        185,
+        118,
+        266,
+        34
+      ],
+      "name": "Everyday Checking",
+      "ref": "ee119a420",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        104,
+        172,
+        71,
+        17
+      ],
+      "name": "Preset:",
+      "ref": "ec0dfd030",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        185,
+        164,
+        210,
+        34
+      ],
+      "description": "Preset name",
+      "name": "",
+      "ref": "ec97f120d",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        405,
+        168,
+        18,
+        26
+      ],
+      "description": "Save current settings as a Preset",
+      "name": "",
+      "ref": "e92b86711",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        433,
+        168,
+        18,
+        26
+      ],
+      "description": "Delete Preset",
+      "name": "",
+      "ref": "ecf1ced91",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        461,
+        162,
+        246,
+        38
+      ],
+      "name": "Load this Preset when Account is:\nEveryday Checking",
+      "ref": "e6115bb17",
+      "role": "check box",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        104,
+        210,
+        232,
+        17
+      ],
+      "name": "Specify the order of fields in the file",
+      "ref": "ecafa5dae",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        106,
+        239,
+        202,
+        208
+      ],
+      "name": "",
+      "ref": "e90ffcd26",
+      "role": "table"
+    },
+    {
+      "bounds": [
+        108,
+        240,
+        198,
+        21
+      ],
+      "name": "Notes",
+      "ref": "e5803af2f",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        108,
+        263,
+        198,
+        21
+      ],
+      "name": "Don't Care",
+      "ref": "e3e655243",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        108,
+        286,
+        198,
+        21
+      ],
+      "name": "Withdrawal",
+      "ref": "eac5a4b0d",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        108,
+        309,
+        198,
+        21
+      ],
+      "name": "Deposit",
+      "ref": "e5ad36d7a",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        108,
+        332,
+        198,
+        21
+      ],
+      "name": "Balance",
+      "ref": "eb154f1ff",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        320,
+        282,
+        85,
+        34
+      ],
+      "name": "Add",
+      "ref": "e7f538fe4",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        320,
+        326,
+        92,
+        34
+      ],
+      "name": "Remove",
+      "ref": "eb50c74d4",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        320,
+        370,
+        123,
+        34
+      ],
+      "description": "MMEX standard format",
+      "name": "MMEX format",
+      "ref": "e6c839f04",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        455,
+        239,
+        202,
+        208
+      ],
+      "name": "",
+      "ref": "e25cf3dcf",
+      "role": "table"
+    },
+    {
+      "bounds": [
+        457,
+        240,
+        198,
+        21
+      ],
+      "name": "ID",
+      "ref": "e833b3895",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        457,
+        263,
+        198,
+        21
+      ],
+      "name": "Date",
+      "ref": "e700eba84",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        457,
+        286,
+        198,
+        21
+      ],
+      "name": "Status",
+      "ref": "effa8e162",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        457,
+        309,
+        198,
+        21
+      ],
+      "name": "Type",
+      "ref": "e26f63288",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        457,
+        332,
+        198,
+        21
+      ],
+      "name": "Account",
+      "ref": "eed9d7254",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        457,
+        355,
+        198,
+        21
+      ],
+      "name": "Payee",
+      "ref": "e27689147",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        457,
+        378,
+        198,
+        21
+      ],
+      "name": "Category",
+      "ref": "ed67f6335",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        457,
+        401,
+        198,
+        21
+      ],
+      "name": "SubCategory",
+      "ref": "e3684bfbf",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        457,
+        424,
+        198,
+        21
+      ],
+      "name": "Amount",
+      "ref": "ea4222073",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        457,
+        447,
+        198,
+        21
+      ],
+      "name": "Currency",
+      "ref": "ed2ea85d4",
+      "role": "table cell",
+      "visible": [
+        457,
+        447,
+        198,
+        1
+      ]
+    },
+    {
+      "bounds": [
+        651,
+        239,
+        6,
+        208
+      ],
+      "name": "",
+      "ref": "ef8e54042",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        665,
+        243,
+        85,
+        34
+      ],
+      "description": "Move Up",
+      "name": "Up",
+      "ref": "e64b0b7b6",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        665,
+        287,
+        85,
+        34
+      ],
+      "description": "Move Down",
+      "name": "Down",
+      "ref": "e49758bfa",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        94,
+        62,
+        1,
+        1
+      ],
+      "name": "",
+      "ref": "e907914e8",
+      "role": "separator"
+    },
+    {
+      "bounds": [
+        105,
+        475,
+        90,
+        17
+      ],
+      "name": "Date Format:",
+      "ref": "e787fae9a",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        421,
+        467,
+        143,
+        34
+      ],
+      "name": "YYYY-MM-DD",
+      "ref": "ee6b119f8",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        106,
+        512,
+        151,
+        21
+      ],
+      "name": "Only Export Stocks",
+      "ref": "ede21f65a",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        106,
+        543,
+        304,
+        21
+      ],
+      "name": "Only Export Transactions Between 2 Dates",
+      "ref": "e0987a3a2",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        107,
+        583,
+        71,
+        17
+      ],
+      "name": "Start Date:",
+      "ref": "e1e885b46",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        263,
+        575,
+        114,
+        34
+      ],
+      "description": "Specify the report start date",
+      "name": "",
+      "ref": "edb890627",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        263,
+        575,
+        91,
+        34
+      ],
+      "name": "",
+      "ref": "e286ad46e",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ],
+      "text": "01/01/1970"
+    },
+    {
+      "bounds": [
+        107,
+        627,
+        64,
+        17
+      ],
+      "name": "End Date:",
+      "ref": "e5ff0b005",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        263,
+        619,
+        114,
+        34
+      ],
+      "description": "Specify the report end date",
+      "name": "",
+      "ref": "e96041ce6",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        263,
+        619,
+        91,
+        34
+      ],
+      "name": "",
+      "ref": "eb572fcdc",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ],
+      "text": "06/15/2026"
+    },
+    {
+      "bounds": [
+        422,
+        520,
+        64,
+        17
+      ],
+      "name": "Encoding:",
+      "ref": "e66ba5085",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        496,
+        512,
+        89,
+        34
+      ],
+      "name": "Default",
+      "ref": "e0c30326b",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        596,
+        572,
+        159,
+        21
+      ],
+      "name": "Export column titles",
+      "ref": "ed9862fd5",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        94,
+        62,
+        1,
+        1
+      ],
+      "name": "",
+      "ref": "ee5c28676",
+      "role": "separator"
+    },
+    {
+      "bounds": [
+        99,
+        678,
+        1082,
+        248
+      ],
+      "name": "Preview",
+      "ref": "e3c2ea932",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        99,
+        678,
+        52,
+        17
+      ],
+      "name": "Preview",
+      "ref": "e9c37c83c",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        105,
+        701,
+        1070,
+        219
+      ],
+      "name": "",
+      "ref": "e32bf1c13",
+      "role": "page tab list"
+    },
+    {
+      "bounds": [
+        126,
+        705,
+        31,
+        30
+      ],
+      "name": "Data",
+      "ref": "e1d3eeb57",
+      "role": "page tab",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        1163,
+        744,
+        6,
+        170
+      ],
+      "name": "",
+      "ref": "e6b88ac90",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        550,
+        937,
+        85,
+        34
+      ],
+      "description": "Export File",
+      "name": "Export",
+      "ref": "e39433956",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        645,
+        937,
+        85,
+        34
+      ],
+      "name": "Close",
+      "ref": "e3abf1ad2",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        777,
+        73,
+        398,
+        545
+      ],
+      "name": "",
+      "ref": "e412710a0",
+      "role": "text",
+      "text": "Currency: US dollar\n"
+    },
+    {
+      "bounds": [
+        933,
+        629,
+        85,
+        34
+      ],
+      "name": "Clear",
+      "ref": "ef89bf866",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        446,
+        446,
+        388,
+        133
+      ],
+      "name": "Warning",
+      "ref": "e73121855",
+      "role": "alert",
+      "states": [
+        "active",
+        "modal"
+      ]
+    },
+    {
+      "bounds": [
+        494,
+        471,
+        48,
+        48
+      ],
+      "name": "Warning",
+      "ref": "eb9f230a4",
+      "role": "icon"
+    },
+    {
+      "bounds": [
+        584,
+        471,
+        214,
+        17
+      ],
+      "name": "Transactions/Stocks exported: 13",
+      "ref": "e9b9b1587",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        447,
+        544,
+        386,
+        34
+      ],
+      "name": "OK",
+      "ref": "eeed0d7f1",
+      "role": "push button",
+      "states": [
+        "focused"
+      ]
+    }
+  ],
+  "screen": [
+    1280,
+    1024
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": false,
+      "bounds": [
+        0,
+        38,
+        1280,
+        1005
+      ],
+      "ref": "w5b3c0310",
+      "title": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),"
+    },
+    {
+      "active": false,
+      "bounds": [
+        95,
+        82,
+        1092,
+        915
+      ],
+      "ref": "w600566fb",
+      "title": "Export as XML file"
+    },
+    {
+      "active": true,
+      "bounds": [
+        448,
+        486,
+        386,
+        112
+      ],
+      "ref": "w086efcde",
+      "title": "Export"
+    }
+  ]
+}

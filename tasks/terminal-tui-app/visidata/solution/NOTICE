@@ -1,0 +1,25 @@
+VisiData 3.4 — licences and corresponding source
+
+visidata-3.4-py3-none-any.whl is the unmodified upstream VisiData 3.4 wheel.
+It contains the complete Python sources used to install this distribution.
+The wheel is retained alongside the installed program as corresponding source:
+https://files.pythonhosted.org/packages/52/0a/23878c577da6227faa79c26ec80567e2998f8eb655d61295b18a2f163509/visidata-3.4-py3-none-any.whl
+The upstream source distribution for the same version is also available at:
+https://files.pythonhosted.org/packages/eb/dd/682ac00672daf1325a3174d5cb5f32b9d9a2aeb42d3baa18e669278308d0/visidata-3.4.tar.gz
+Release: https://pypi.org/project/visidata/3.4/
+Repository: https://github.com/saulpw/visidata
+
+VisiData is licensed under GPL-3.0-only; LICENSE contains the complete text.
+solve.sh extracts the Python packages and compiles them into bytecode without
+editing upstream source files. The separate launch.py and guard.py modify
+the in-memory command table, expression compiler/evaluator, conditional-format
+evaluation and traceback output. They disable code-loading and external-program
+features, run with -N, and apply Landlock and seccomp. These runtime changes
+and the launcher files are not part of upstream VisiData.
+
+The distribution also installs unmodified python-dateutil 3.0.0 and six 1.17.0
+from their upstream wheels. Their licence texts are in
+LICENSES/python-dateutil.txt (Apache-2.0 OR BSD-3-Clause) and LICENSES/six.txt
+(MIT). SOURCE.json records the precise download URLs and checksums.
+
+This distribution is not affiliated with or endorsed by the VisiData project.

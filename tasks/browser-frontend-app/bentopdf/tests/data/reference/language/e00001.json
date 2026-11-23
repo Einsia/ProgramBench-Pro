@@ -1,0 +1,204 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        384,
+        241,
+        512,
+        50
+      ],
+      "placeholder": "Search for a tool (e.g., 'split', 'organize'...)",
+      "ref": "e5392364d",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        864,
+        254,
+        24,
+        24
+      ],
+      "ref": "eb325aab6",
+      "tag": "button",
+      "title": "Keyboard Shortcuts"
+    },
+    {
+      "bounds": [
+        32,
+        355,
+        1216,
+        46
+      ],
+      "ref": "e26ed96f2",
+      "tag": "button",
+      "text": "Popular Tools"
+    },
+    {
+      "bounds": [
+        32,
+        417,
+        224,
+        206
+      ],
+      "ref": "e942f4eae",
+      "tag": "a",
+      "text": "Edit PDF Text Click any paragraph and edit it in place with live reflow, fonts, and styling."
+    },
+    {
+      "bounds": [
+        280,
+        417,
+        224,
+        206
+      ],
+      "ref": "e9cf6e362",
+      "tag": "a",
+      "text": "PDF Workflow Builder Build custom PDF processing pipelines with a visual node editor."
+    },
+    {
+      "bounds": [
+        528,
+        417,
+        224,
+        206
+      ],
+      "ref": "ef1125d9e",
+      "tag": "a",
+      "text": "PDF Multi Tool Merge, Split, Organize, Delete, Rotate, Add Blank Pages, Extract and Duplicate in a unified interface."
+    },
+    {
+      "bounds": [
+        776,
+        417,
+        224,
+        206
+      ],
+      "ref": "ea9e05091",
+      "tag": "a",
+      "text": "Merge PDF Combine multiple PDFs into one file. Preserves Bookmarks."
+    },
+    {
+      "bounds": [
+        1024,
+        417,
+        224,
+        206
+      ],
+      "ref": "e95206286",
+      "tag": "a",
+      "text": "Split PDF Extract a range of pages into a new PDF."
+    },
+    {
+      "bounds": [
+        32,
+        647,
+        224,
+        190
+      ],
+      "ref": "ee551d3a1",
+      "tag": "a",
+      "text": "Compress PDF Reduce the file size of your PDF."
+    },
+    {
+      "bounds": [
+        280,
+        647,
+        224,
+        190
+      ],
+      "ref": "eb3ac46ab",
+      "tag": "a",
+      "text": "PDF Editor Annotate, highlight, redact, comment, add shapes/images, search, and view PDFs."
+    },
+    {
+      "bounds": [
+        528,
+        647,
+        224,
+        190
+      ],
+      "ref": "e0deee34e",
+      "tag": "a",
+      "text": "JPG to PDF Create a PDF from JPG, JPEG, and JPEG2000 (JP2/JPX) images."
+    },
+    {
+      "bounds": [
+        776,
+        647,
+        224,
+        190
+      ],
+      "ref": "ed00492c7",
+      "tag": "a",
+      "text": "Sign PDF Draw, type, or upload your signature."
+    },
+    {
+      "bounds": [
+        1024,
+        647,
+        224,
+        190
+      ],
+      "ref": "ee0475868",
+      "tag": "a",
+      "text": "Crop PDF Trim the margins of every page in your PDF."
+    },
+    {
+      "bounds": [
+        32,
+        861,
+        224,
+        39
+      ],
+      "ref": "e83066844",
+      "tag": "a",
+      "text": "Extract Pages Save a selection of pages as new files."
+    },
+    {
+      "bounds": [
+        280,
+        861,
+        224,
+        39
+      ],
+      "ref": "e61720cf3",
+      "tag": "a",
+      "text": "Duplicate & Organize Duplicate, reorder, and delete pages."
+    },
+    {
+      "bounds": [
+        528,
+        861,
+        224,
+        39
+      ],
+      "ref": "e0f44e1d8",
+      "tag": "a",
+      "text": "Delete Pages Remove specific pages from your document."
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "text": "BentoPDF\nPDF Tools\n\nSelect a tool to get started\n\nCtrl + K\nPopular Tools\nEdit PDF Text\n\nClick any paragraph and edit it in place with live reflow, fonts, and styling.\n\nPDF Workflow Builder\n\nBuild custom PDF processing pipelines with a visual node editor.\n\nPDF Multi Tool\n\nMerge, Split, Organize, Delete, Rotate, Add Blank Pages, Extract and Duplicate in a unified interface.\n\nMerge PDF\n\nCombine multiple PDFs into one file. Preserves Bookmarks.\n\nSplit PDF\n\nExtract a range of pages into a new PDF.\n\nCompress PDF\n\nReduce the file size of your PDF.\n\nPDF Editor\n\nAnnotate, highlight, redact, comment, add shapes/images, search, and view PDFs.\n\nJPG to PDF\n\nCreate a PDF from JPG, JPEG, and JPEG2000 (JP2/JPX) images.\n\nSign PDF\n\nDraw, type, or upload your signature.\n\nCrop PDF\n\nTrim the margins of every page in your PDF.\n\nExtract Pages\n\nSave a selection of pages as new files.\n\nDuplicate & Organize\n\nDuplicate, reorder, and delete pages.\n\nDelete Pages\n\nRemove specific pages from your document.\n\nEdit & Annotate\nPDF Editor\n\nAnnotate, highlight, redact, comment, add shapes/images, search, and view PDFs.\n\nEdit PDF Text\n\nClick any paragraph and edit it in place with live reflow, fonts, and styling.\n\nEdit Bookmarks\n\nAdd, edit, import, delete and extract PDF bookmarks.\n\nTable of Contents\n\nGenerate a table of contents page from PDF bookmarks.\n\nPage Numbers\n\nInsert page numbers into your document.\n\nAdd Page Labels\n\nApply PDF page labels with Roman numerals, prefixes, and custom starts.\n\nBates Numbering\n\nAdd sequential Bates numbers across one or more PDF files.\n\nAdd Watermark\n\nStamp text or an image over your PDF pages.\n\nHeader & Footer\n\nAdd text to the top and bottom of pages.\n\nInvert Colors\n\nCreate a \"dark mode\" version of your PDF.\n\nScanner Effect\n\nMake your PDF look like a scanned document.\n\nAdjust Colors\n\nFine-tune brightness, contrast, saturation and more in your PDF.\n\nBackground Color\n\nChange the background color of your PDF.\n\nChange Text Color\n\nChange the color of text in your PDF.\n\nSign PDF\n\nDraw, type, or upload your signature.\n\nAdd Stamps\n\nAdd image stamps to your PDF using the annotation toolbar.\n\nRemove Annotations\n\nStrip comments, highlights, and links.\n\nCrop PDF\n\nTrim the margins of every page in your PDF.\n\nPDF Form Filler\n\nFill in forms directly in the browser. Also supports XFA forms.\n\nCreate PDF Form\n\nCreate fillable PDF forms with drag-and-drop text fields.\n\nRemove Blank Pages\n\nAutomatically detect and delete blank pages.\n\nConvert to PDF\nImages to PDF\n\nConvert JPG, PNG, BMP, GIF, TIFF, PNM, PGM, PBM, PPM, PAM, JXR, JPX, JP2, PSD, SVG, HEIC, WebP to PDF.\n\nJPG to PDF\n\nCreate a PDF from JPG, JPEG, and JPEG2000 (JP2/JPX) images.\n\nPNG to PDF\n\nCreate a PDF from one or more PNG images.\n\nWebP to PDF\n\nCreate a PDF from one or more WebP images.\n\nSVG to PDF\n\nCreate a PDF from one or more SVG images.\n\nBMP to PDF\n\nCreate a PDF from one or more BMP images.\n\nHEIC to PDF\n\nCreate a PDF from one or more HEIC images.\n\nTIFF to PDF\n\nCreate a PDF from one or more TIFF images.\n\nText to PDF\n\nConvert a plain text file into a PDF.\n\nMarkdown to PDF\n\nWrite or paste Markdown and export it as a beautifully formatted PDF.\n\nJSON to PDF\n\nConvert JSON files to PDF format.\n\nODT to PDF\n\nConvert OpenDocument Text files to PDF format. Supports multiple files.\n\nCSV to PDF\n\nConvert CSV spreadsheet files to PDF format. Supports multiple files.\n\nRTF to PDF\n\nConvert Rich Text Format documents to PDF. Supports multiple files.\n\nWord to PDF\n\nConvert Word documents (DOCX, DOC, ODT, RTF) to PDF format. Supports multiple files.\n\nExcel to PDF\n\nConvert Excel spreadsheets (XLSX, XLS, ODS, CSV) to PDF format. Supports multiple files.\n\nPowerPoint to PDF\n\nConvert PowerPoint presentations (PPTX, PPT, ODP) to PDF format. Supports multiple files.\n\nXPS to PDF\n\nConvert XPS/OXPS documents to PDF format. Supports multiple files.\n\nMOBI to PDF\n\nConvert MOBI e-books to PDF format. Supports multiple files.\n\nEPUB to PDF\n\nConvert EPUB e-books to PDF format. Supports multiple files.\n\nFB2 to PDF\n\nConvert FictionBook (FB2) e-books to PDF format. Supports multiple files.\n\nCBZ to PDF\n\nConvert comic book archives (CBZ/CBR) to PDF format. Supports multiple files.\n\nWPD to PDF\n\nConvert WordPerfect documents (WPD) to PDF format. Supports multiple files.\n\nWPS to PDF\n\nConvert WPS Office documents to PDF format. Supports multiple files.\n\nXML to PDF\n\nConvert XML documents to PDF format. Supports multiple files.\n\nPages to PDF\n\nConvert Apple Pages documents to PDF format. Supports multiple files.\n\nODG to PDF\n\nConvert OpenDocument Graphics (ODG) files to PDF format. Supports multiple files.\n\nODS to PDF\n\nConvert OpenDocument Spreadsheet (ODS) files to PDF format. Supports multiple files.\n\nODP to PDF\n\nConvert OpenDocument Presentation (ODP) files to PDF format. Supports multiple files.\n\nPUB to PDF\n\nConvert Microsoft Publisher (PUB) files to PDF format. Supports multiple files.\n\nVSD to PDF\n\nConvert Microsoft Visio (VSD, VSDX) files to PDF format. Supports multiple files.\n\nPSD to PDF\n\nConvert Adobe Photoshop (PSD) files to PDF format. Supports multiple files.\n\nEmail to PDF\n\nConvert email files (EML, MSG) to PDF format. Supports Outlook exports and standard email formats.\n\nConvert from PDF\nPDF to JPG\n\nConvert each PDF page into a JPG image.\n\nPDF to PNG\n\nConvert each PDF page into a PNG image.\n\nPDF to WebP\n\nConvert each PDF page into a WebP image.\n\nPDF to BMP\n\nConvert each PDF page into a BMP image.\n\nPDF to TIFF\n\nConvert each PDF page into a TIFF image.\n\nPDF to CBZ\n\nConvert a PDF into a CBZ (Comic Book Archive) file for comic readers.\n\nPDF to SVG\n\nConvert each page of a PDF file into a scalable vector graphic (SVG) for perfect quality at any size.\n\nPDF to CSV\n\nExtract tables from PDF and convert to CSV format.\n\nPDF to Excel\n\nExtract tables from PDF and convert to Excel (XLSX) format.\n\nPDF to Greyscale\n\nConvert all colors to black and white.\n\nPDF to JSON\n\nConvert PDF files to JSON format.\n\nPDF to Word\n\nConvert PDF files to editable Word documents.\n\nExtract Images\n\nExtract all embedded images from your PDF files.\n\nPDF to Markdown\n\nConvert PDF text and tables to Markdown format.\n\nPrepare PDF for AI\n\nExtract PDF content as LlamaIndex JSON for RAG/LLM pipelines.\n\nPDF to Text\n\nExtract text from PDF files and save as plain text (.txt). Supports multiple files.\n\nOrganize & Manage\nOCR PDF\n\nMake a PDF searchable and copyable.\n\nMerge PDF\n\nCombine multiple PDFs into one file. Preserves Bookmarks.\n\nAlternate & Mix Pages\n\nMerge PDFs by alternating pages from each PDF. Preserves Bookmarks.\n\nDuplex Collate\n\nReorder a PDF scanned as two blocks (all fronts, then all backs) into proper front/back order.\n\nDuplicate & Organize\n\nDuplicate, reorder, and delete pages.\n\nPDF Overlay\n\nOverlay or underlay pages from one PDF onto another.\n\nAdd Attachments\n\nEmbed one or more files into your PDF.\n\nExtract Attachments\n\nExtract all embedded files from PDF(s) as a ZIP.\n\nEdit Attachments\n\nView or remove attachments in your PDF.\n\nPDF Multi Tool\n\nMerge, Split, Organize, Delete, Rotate, Add Blank Pages, Extract and Duplicate in a unified interface.\n\nPDF OCG\n\nView, toggle, add, and delete OCG layers in your PDF.\n\nExtract PDF Tables\n\nExtract tables from PDF files and export as CSV, JSON, or Markdown.\n\nSplit PDF\n\nExtract a range of pages into a new PDF.\n\nDivide Pages\n\nDivide pages horizontally or vertically.\n\nExtract Pages\n\nSave a selection of pages as new files.\n\nDelete Pages\n\nRemove specific pages from your document.\n\nAdd Blank Page\n\nInsert an empty page anywhere in your PDF.\n\nReverse Pages\n\nFlip the order of all pages in your document.\n\nRotate PDF\n\nTurn pages in 90-degree increments.\n\nRotate by Custom Degrees\n\nRotate pages by any custom angle.\n\nN-Up PDF\n\nArrange multiple pages onto a single sheet.\n\nPDF Booklet\n\nRearrange pages for double-sided booklet printing. Fold and staple to create a booklet.\n\nCombine to Single Page\n\nStitch all pages into one continuous scroll.\n\nView Metadata\n\nInspect the hidden properties of your PDF.\n\nEdit Metadata\n\nChange the author, title, and other properties.\n\nPDFs to ZIP\n\nPackage multiple PDF files into a ZIP archive.\n\nCompare PDFs\n\nCompare two PDFs side by side.\n\nPosterize PDF\n\nSplit a large page into multiple smaller pages.\n\nOptimize & Repair\nCompress PDF\n\nReduce the file size of your PDF.\n\nPDF to PDF/A\n\nConvert PDF to PDF/A for long-term archiving.\n\nFix Page Size\n\nStandardize all pages to a uniform size.\n\nLinearize PDF\n\nOptimize PDF for fast web viewing.\n\nPage Dimensions\n\nAnalyze page size, orientation, and units.\n\nRemove Restrictions\n\nRemove password protection and security restrictions associated with digitally signed PDF files.\n\nRepair PDF\n\nRecover data from corrupted or damaged PDF files.\n\nRasterize PDF\n\nConvert PDF to image-based PDF. Flatten layers and remove selectable text.\n\nDeskew PDF\n\nAutomatically straighten tilted scanned pages using OpenCV.\n\nFont to Outline\n\nConvert all fonts to vector outlines for consistent rendering across all devices.\n\nSecure PDF\nProtect PDF\n\nPassword protect a PDF with strong AES encryption.\n\nSanitize PDF\n\nRemove metadata, annotations, scripts, and more.\n\nUnlock PDF\n\nRemove the password from a PDF so it opens freely.\n\nFlatten PDF\n\nMake form fields and annotations non-editable.\n\nRemove Metadata\n\nStrip hidden data from your PDF.\n\nChange Permissions\n\nSet or change user permissions on a PDF.\n\nDigital Signature PDF\n\nAdd a cryptographic digital signature to your PDF using X.509 certificates. Supports PKCS#12 (.pfx, .p12) and PEM formats. Your private key never leaves your browser.\n\nValidate PDF Signature\n\nVerify digital signatures in your PDF files. Check certificate validity, view signer details, and confirm document integrity. All processing happens in your browser.\n\nTimestamp PDF\n\nAdd an RFC 3161 document timestamp to your PDF using a trusted Time Stamp Authority (TSA) server. Proves your document existed at a specific point in time. No certificate required.\n\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/index.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

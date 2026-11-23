@@ -1,0 +1,14 @@
+{
+  "reference_paths": [
+    "/app/solution/zotero/zotero-bin",
+    "/app/solution/zotero/libxul.so",
+    "/app/solution/zotero/app/omni.ja",
+    "/app/solution/zotero/omni.ja"
+  ],
+  "shared_solution_files": [
+    {
+      "file": "LICENSE",
+      "reason": "The unmodified GPL/AGPL license text is also shipped with general development dependencies."
+    }
+  ]
+}

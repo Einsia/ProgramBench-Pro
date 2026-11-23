@@ -1,0 +1,263 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        336,
+        252,
+        128,
+        165
+      ],
+      "ref": "canvas0",
+      "tag": "canvas"
+    },
+    {
+      "bounds": [
+        816,
+        252,
+        128,
+        163
+      ],
+      "ref": "canvas1",
+      "tag": "canvas"
+    },
+    {
+      "bounds": [
+        1055,
+        270,
+        128,
+        109
+      ],
+      "ref": "canvas2",
+      "tag": "canvas"
+    },
+    {
+      "bounds": [
+        97,
+        475,
+        128,
+        102
+      ],
+      "ref": "canvas3",
+      "tag": "canvas"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        0,
+        1182,
+        24
+      ],
+      "ref": "e899963c5",
+      "tag": "div",
+      "text": "Click to select a file or drag and drop A single PDF file Your files never leave your device."
+    },
+    {
+      "bounds": [
+        1203,
+        64,
+        16,
+        16
+      ],
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        550,
+        181,
+        83,
+        38
+      ],
+      "ref": "e6c521c33",
+      "tag": "button",
+      "text": "Left"
+    },
+    {
+      "bounds": [
+        641,
+        181,
+        90,
+        38
+      ],
+      "ref": "ef8495522",
+      "tag": "button",
+      "text": "Right"
+    },
+    {
+      "bounds": [
+        119,
+        404,
+        38,
+        26
+      ],
+      "ref": "ea0fc21fdx2",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        165,
+        404,
+        38,
+        26
+      ],
+      "ref": "ea0fc21fdx3",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        358,
+        404,
+        38,
+        26
+      ],
+      "ref": "ea0fc21fdx4",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        404,
+        404,
+        38,
+        26
+      ],
+      "ref": "ea0fc21fdx5",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        598,
+        404,
+        38,
+        26
+      ],
+      "ref": "ea0fc21fdx6",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        644,
+        404,
+        38,
+        26
+      ],
+      "ref": "ea0fc21fdx7",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        838,
+        404,
+        38,
+        26
+      ],
+      "ref": "ea0fc21fdx8",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        884,
+        404,
+        38,
+        26
+      ],
+      "ref": "ea0fc21fdx9",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1077,
+        404,
+        38,
+        26
+      ],
+      "ref": "ea0fc21fdx10",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1123,
+        404,
+        38,
+        26
+      ],
+      "ref": "ea0fc21fdx11",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        119,
+        606,
+        38,
+        26
+      ],
+      "ref": "ea0fc21fdx12",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        165,
+        606,
+        38,
+        26
+      ],
+      "ref": "ea0fc21fdx13",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        49,
+        672,
+        1182,
+        48
+      ],
+      "ref": "e79325653",
+      "tag": "button",
+      "text": "Apply Rotations"
+    },
+    {
+      "bounds": [
+        473,
+        472,
+        334,
+        40
+      ],
+      "ref": "e2a50e308",
+      "tag": "button",
+      "text": "OK"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "mixed.pdf",
+      "ref": "dac8268830a96",
+      "size": 2849
+    }
+  ],
+  "inputs": [
+    "mixed.pdf",
+    "report.pdf",
+    "single.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›Rotate PDF\nRotate PDF\n\nTurn pages in 90-degree increments.\n\nClick to select a file or drag and drop\n\nA single PDF file\n\nYour files never leave your device.\n\nmixed.pdf\n5.6 KB • 6 pages\nBATCH ACTIONS\nLeft\nRight\n1\n2\n3\n4\n5\n6\nApply Rotations\nSuccess\n\nRotations applied successfully!\n\nOK\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/rotate-pdf.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

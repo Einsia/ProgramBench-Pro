@@ -1,0 +1,1030 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        13,
+        97,
+        26,
+        26
+      ],
+      "ref": "ee02b9e8c",
+      "tag": "button",
+      "title": "Expand all fields"
+    },
+    {
+      "bounds": [
+        43,
+        97,
+        26,
+        26
+      ],
+      "ref": "e85e63fcb",
+      "tag": "button",
+      "title": "Collapse all fields"
+    },
+    {
+      "bounds": [
+        73,
+        97,
+        26,
+        26
+      ],
+      "ref": "ea12a318a",
+      "tag": "button",
+      "title": "Sort contents"
+    },
+    {
+      "bounds": [
+        103,
+        97,
+        26,
+        26
+      ],
+      "ref": "e35050c81",
+      "tag": "button",
+      "title": "Filter, sort, or transform contents"
+    },
+    {
+      "bounds": [
+        141,
+        97,
+        26,
+        26
+      ],
+      "disabled": true,
+      "ref": "ebbb5bcf1",
+      "tag": "button",
+      "title": "Undo last action (Ctrl+Z)"
+    },
+    {
+      "bounds": [
+        171,
+        97,
+        26,
+        26
+      ],
+      "disabled": true,
+      "ref": "e0a2b66da",
+      "tag": "button",
+      "title": "Redo (Ctrl+Shift+Z)"
+    },
+    {
+      "bounds": [
+        209,
+        97,
+        57,
+        26
+      ],
+      "ref": "eed0e6f31",
+      "tag": "button",
+      "text": "Tree ▾",
+      "title": "Switch Editor Mode"
+    },
+    {
+      "bounds": [
+        320,
+        98,
+        18,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e1d35618c",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        339,
+        99,
+        126,
+        18
+      ],
+      "context": "Search fields and values",
+      "ref": "e3b24d854",
+      "tag": "input",
+      "type": "text",
+      "value": "Beacon"
+    },
+    {
+      "bounds": [
+        466,
+        98,
+        16,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e44fcfed4",
+      "tag": "button",
+      "title": "Next result (Enter)"
+    },
+    {
+      "bounds": [
+        482,
+        98,
+        16,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e0ed8f5b1",
+      "tag": "button",
+      "title": "Previous result (Shift + Enter)"
+    },
+    {
+      "bounds": [
+        9,
+        154,
+        24,
+        13
+      ],
+      "ref": "e4d1e7e3a",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        154,
+        24,
+        13
+      ],
+      "ref": "ebb03648e",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        130,
+        154,
+        82,
+        12
+      ],
+      "ref": "ecf98e8b5",
+      "tag": "div",
+      "text": "padding18",
+      "value": "padding18"
+    },
+    {
+      "bounds": [
+        222,
+        154,
+        115,
+        12
+      ],
+      "ref": "e68dff392",
+      "tag": "div",
+      "text": "north item 18",
+      "value": "north item 18"
+    },
+    {
+      "bounds": [
+        9,
+        167,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax2",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        167,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex2",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        130,
+        168,
+        82,
+        22
+      ],
+      "ref": "e7c46001e",
+      "tag": "div",
+      "text": "padding19",
+      "value": "padding19"
+    },
+    {
+      "bounds": [
+        222,
+        168,
+        115,
+        22
+      ],
+      "ref": "ee0d98e59",
+      "tag": "div",
+      "text": "north item 19",
+      "value": "north item 19"
+    },
+    {
+      "bounds": [
+        9,
+        191,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax3",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        191,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex3",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        130,
+        192,
+        82,
+        22
+      ],
+      "ref": "e8b4e2d12",
+      "tag": "div",
+      "text": "padding20",
+      "value": "padding20"
+    },
+    {
+      "bounds": [
+        222,
+        192,
+        115,
+        22
+      ],
+      "ref": "e09e49545",
+      "tag": "div",
+      "text": "north item 20",
+      "value": "north item 20"
+    },
+    {
+      "bounds": [
+        9,
+        215,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax4",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        215,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex4",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        130,
+        216,
+        82,
+        22
+      ],
+      "ref": "e0347c7d9",
+      "tag": "div",
+      "text": "padding21",
+      "value": "padding21"
+    },
+    {
+      "bounds": [
+        222,
+        216,
+        115,
+        22
+      ],
+      "ref": "e1e27b22e",
+      "tag": "div",
+      "text": "north item 21",
+      "value": "north item 21"
+    },
+    {
+      "bounds": [
+        9,
+        239,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax5",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        239,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex5",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        81,
+        239,
+        24,
+        24
+      ],
+      "ref": "e8f71e697",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        106,
+        240,
+        48,
+        22
+      ],
+      "ref": "e1c57e984",
+      "tag": "div",
+      "text": "south",
+      "value": "south"
+    },
+    {
+      "bounds": [
+        156,
+        240,
+        40,
+        22
+      ],
+      "ref": "e57b3345d",
+      "tag": "div",
+      "text": "{23}",
+      "title": "object containing 23 items"
+    },
+    {
+      "bounds": [
+        9,
+        263,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax6",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        263,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex6",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        130,
+        264,
+        48,
+        22
+      ],
+      "ref": "e64691adf",
+      "tag": "div",
+      "text": "label",
+      "value": "label"
+    },
+    {
+      "bounds": [
+        188,
+        264,
+        107,
+        22
+      ],
+      "ref": "e3f251aa4",
+      "tag": "div",
+      "text": "Beacon south",
+      "value": "Beacon south"
+    },
+    {
+      "bounds": [
+        9,
+        287,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax7",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        287,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex7",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        130,
+        288,
+        73,
+        22
+      ],
+      "ref": "e84c7770a",
+      "tag": "div",
+      "text": "padding0",
+      "value": "padding0"
+    },
+    {
+      "bounds": [
+        214,
+        288,
+        107,
+        22
+      ],
+      "ref": "e04d79b49",
+      "tag": "div",
+      "text": "south item 0",
+      "value": "south item 0"
+    },
+    {
+      "bounds": [
+        9,
+        311,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax8",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        311,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex8",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        130,
+        312,
+        73,
+        22
+      ],
+      "ref": "eaf625491",
+      "tag": "div",
+      "text": "padding1",
+      "value": "padding1"
+    },
+    {
+      "bounds": [
+        214,
+        312,
+        107,
+        22
+      ],
+      "ref": "e3f8f1642",
+      "tag": "div",
+      "text": "south item 1",
+      "value": "south item 1"
+    },
+    {
+      "bounds": [
+        9,
+        335,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax9",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        335,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex9",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        130,
+        336,
+        73,
+        22
+      ],
+      "ref": "efd60c970",
+      "tag": "div",
+      "text": "padding2",
+      "value": "padding2"
+    },
+    {
+      "bounds": [
+        214,
+        336,
+        107,
+        22
+      ],
+      "ref": "ebacfdd87",
+      "tag": "div",
+      "text": "south item 2",
+      "value": "south item 2"
+    },
+    {
+      "bounds": [
+        9,
+        359,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax10",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        359,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex10",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        130,
+        360,
+        73,
+        22
+      ],
+      "ref": "e36c5684f",
+      "tag": "div",
+      "text": "padding3",
+      "value": "padding3"
+    },
+    {
+      "bounds": [
+        214,
+        360,
+        107,
+        22
+      ],
+      "ref": "e6df0d748",
+      "tag": "div",
+      "text": "south item 3",
+      "value": "south item 3"
+    },
+    {
+      "bounds": [
+        9,
+        383,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax11",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        383,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex11",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        130,
+        384,
+        73,
+        22
+      ],
+      "ref": "ed18181b6",
+      "tag": "div",
+      "text": "padding4",
+      "value": "padding4"
+    },
+    {
+      "bounds": [
+        214,
+        384,
+        107,
+        22
+      ],
+      "ref": "e1a390485",
+      "tag": "div",
+      "text": "south item 4",
+      "value": "south item 4"
+    },
+    {
+      "bounds": [
+        9,
+        407,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax12",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        407,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex12",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        130,
+        408,
+        73,
+        22
+      ],
+      "ref": "e4f0f71cd",
+      "tag": "div",
+      "text": "padding5",
+      "value": "padding5"
+    },
+    {
+      "bounds": [
+        214,
+        408,
+        107,
+        22
+      ],
+      "ref": "e8392136e",
+      "tag": "div",
+      "text": "south item 5",
+      "value": "south item 5"
+    },
+    {
+      "bounds": [
+        9,
+        431,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax13",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        431,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex13",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        130,
+        432,
+        73,
+        22
+      ],
+      "ref": "eb31c97ac",
+      "tag": "div",
+      "text": "padding6",
+      "value": "padding6"
+    },
+    {
+      "bounds": [
+        214,
+        432,
+        107,
+        22
+      ],
+      "ref": "e588bcb03",
+      "tag": "div",
+      "text": "south item 6",
+      "value": "south item 6"
+    },
+    {
+      "bounds": [
+        9,
+        455,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax14",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        455,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex14",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        130,
+        456,
+        73,
+        22
+      ],
+      "ref": "e3cbf2e8b",
+      "tag": "div",
+      "text": "padding7",
+      "value": "padding7"
+    },
+    {
+      "bounds": [
+        214,
+        456,
+        107,
+        22
+      ],
+      "ref": "e51b89ee4",
+      "tag": "div",
+      "text": "south item 7",
+      "value": "south item 7"
+    },
+    {
+      "bounds": [
+        9,
+        479,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax15",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        479,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex15",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        130,
+        480,
+        73,
+        22
+      ],
+      "ref": "e88b04ff2",
+      "tag": "div",
+      "text": "padding8",
+      "value": "padding8"
+    },
+    {
+      "bounds": [
+        214,
+        480,
+        107,
+        22
+      ],
+      "ref": "e3bd7ed21",
+      "tag": "div",
+      "text": "south item 8",
+      "value": "south item 8"
+    },
+    {
+      "bounds": [
+        9,
+        503,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax16",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        503,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex16",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        130,
+        504,
+        73,
+        22
+      ],
+      "ref": "ef1657ab9",
+      "tag": "div",
+      "text": "padding9",
+      "value": "padding9"
+    },
+    {
+      "bounds": [
+        214,
+        504,
+        107,
+        22
+      ],
+      "ref": "ecd7a7b9a",
+      "tag": "div",
+      "text": "south item 9",
+      "value": "south item 9"
+    },
+    {
+      "bounds": [
+        9,
+        527,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax17",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        527,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex17",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        130,
+        528,
+        82,
+        22
+      ],
+      "ref": "e1ff509cd",
+      "tag": "div",
+      "text": "padding10",
+      "value": "padding10"
+    },
+    {
+      "bounds": [
+        222,
+        528,
+        115,
+        22
+      ],
+      "ref": "e0ca98268",
+      "tag": "div",
+      "text": "south item 10",
+      "value": "south item 10"
+    },
+    {
+      "bounds": [
+        9,
+        551,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax18",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        551,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex18",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        130,
+        552,
+        82,
+        22
+      ],
+      "ref": "ea26719b6",
+      "tag": "div",
+      "text": "padding11",
+      "value": "padding11"
+    },
+    {
+      "bounds": [
+        222,
+        552,
+        115,
+        22
+      ],
+      "ref": "e432f0427",
+      "tag": "div",
+      "text": "south item 11",
+      "value": "south item 11"
+    },
+    {
+      "bounds": [
+        9,
+        575,
+        24,
+        16
+      ],
+      "ref": "e4d1e7e3ax19",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        575,
+        24,
+        16
+      ],
+      "ref": "ebb03648ex19",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        130,
+        576,
+        82,
+        15
+      ],
+      "ref": "e0da4c68b",
+      "tag": "div",
+      "text": "padding12",
+      "value": "padding12"
+    },
+    {
+      "bounds": [
+        222,
+        576,
+        115,
+        15
+      ],
+      "ref": "e68d13262",
+      "tag": "div",
+      "text": "south item 12",
+      "value": "south item 12"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "drawing": [],
+  "drawing_truncated": false,
+  "text": "Switch editor mode using the mode box. Note that the mode can be changed programmatically as well using the method\neditor.setMode(mode)\n, try it in the console of your browser.\n3 results\nSelect a node...\npadding12\n:\nnorth item 12\npadding13\n:\nnorth item 13\npadding14\n:\nnorth item 14\npadding15\n:\nnorth item 15\npadding16\n:\nnorth item 16\npadding17\n:\nnorth item 17\n:\npadding13\n:\nsouth item 13\npadding14\n:\nsouth item 14\npadding15\n:\nsouth item 15\npadding16\n:\nsouth item 16\npadding17\n:\nsouth item 17\npadding18\n:\nsouth item 18\npadding19\n:\nsouth item 19\npadding20\n:\nsouth item 20\npadding21\n:\nsouth item 21\nwest\n{23}\nlabel\n:\nBeacon west\npadding0\n:\nwest item 0\npadding1\n:\nwest item 1",
+  "text_truncated": false,
+  "title": "JSONEditor | Switch mode",
+  "url": "/",
+  "viewport": [
+    1280,
+    900
+  ]
+}

@@ -1,0 +1,18 @@
+# Build context of environment/Dockerfile.reference: the reference package and the black-box runtime only.
+**
+!solution/
+!solution/start.sh
+!solution/solve.sh
+!solution/launch.py
+!solution/SOURCE.json
+!solution/audacity-runtime-2.4.2.tar.gz
+!environment/
+!environment/Dockerfile.reference
+!environment/runtime/
+!environment/runtime/*.py
+!environment/runtime/*.json
+!solution/LICENSE
+!solution/NOTICE
+!solution/LICENSES/
+!solution/LICENSES/**
+!solution/isolation.py

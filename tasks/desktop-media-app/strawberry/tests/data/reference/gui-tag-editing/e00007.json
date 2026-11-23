@@ -1,0 +1,1720 @@
+{
+  "focused": "ef8b223da",
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        19,
+        1440,
+        881
+      ],
+      "name": "Strawberry Music Player",
+      "ref": "e7117b946",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        0,
+        38,
+        1440,
+        862
+      ],
+      "name": "",
+      "ref": "e87b978b8",
+      "role": "split pane"
+    },
+    {
+      "bounds": [
+        317,
+        38,
+        124,
+        32
+      ],
+      "name": "Playlist 1",
+      "ref": "ef8b223da",
+      "role": "page tab",
+      "states": [
+        "focused"
+      ]
+    },
+    {
+      "bounds": [
+        317,
+        38,
+        1123,
+        27
+      ],
+      "name": "",
+      "ref": "e95520a0c",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        317,
+        38,
+        28,
+        27
+      ],
+      "name": "New playlist",
+      "ref": "e54880389",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        345,
+        38,
+        28,
+        27
+      ],
+      "name": "Load playlist",
+      "ref": "ee7d22b90",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        373,
+        38,
+        28,
+        27
+      ],
+      "name": "Save playlist",
+      "ref": "ef62958cb",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        401,
+        38,
+        28,
+        27
+      ],
+      "name": "Clear playlist",
+      "ref": "e0bec117e",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        429,
+        38,
+        28,
+        27
+      ],
+      "name": "Undo add 2 songs",
+      "ref": "ec5d0bd4a",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        457,
+        38,
+        28,
+        27
+      ],
+      "name": "Redo",
+      "ref": "e89d87c01",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        485,
+        38,
+        3,
+        27
+      ],
+      "name": "",
+      "ref": "eb78d97d9",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        488,
+        38,
+        952,
+        27
+      ],
+      "description": "<html><head/><body><p>Prefix a search term with a field name to limit the search to that field, e.g.: <span style=\"font-weight:600;\">artist:</span><span style=\"font-style:italic;\">Strawbs</span> searc",
+      "name": "",
+      "ref": "ee9a088a4",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        488,
+        38,
+        952,
+        27
+      ],
+      "name": "",
+      "ref": "e4e6fbe20",
+      "role": "text",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        489,
+        39,
+        28,
+        24
+      ],
+      "name": "",
+      "ref": "ef6aca296",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        317,
+        65,
+        1123,
+        767
+      ],
+      "name": "",
+      "ref": "e5fdcacea",
+      "role": "tree"
+    },
+    {
+      "bounds": [
+        365,
+        66,
+        213,
+        18
+      ],
+      "name": "Title",
+      "ref": "e71016221",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        578,
+        66,
+        252,
+        18
+      ],
+      "name": "Artist",
+      "ref": "ee8f6bd45",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        830,
+        66,
+        303,
+        18
+      ],
+      "name": "Album",
+      "ref": "e711cf7e5",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        318,
+        66,
+        47,
+        18
+      ],
+      "name": "Track",
+      "ref": "e5f5859e5",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        1133,
+        66,
+        51,
+        18
+      ],
+      "name": "Length",
+      "ref": "ec1bc4bc8",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        1184,
+        66,
+        63,
+        18
+      ],
+      "name": "Sample Rate",
+      "ref": "effbf432c",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        1247,
+        66,
+        49,
+        18
+      ],
+      "name": "Bit Depth",
+      "ref": "e42ff1be5",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        1296,
+        66,
+        47,
+        18
+      ],
+      "name": "Bitrate",
+      "ref": "e18c6088d",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        1343,
+        66,
+        46,
+        18
+      ],
+      "name": "File Type",
+      "ref": "e16e21fc1",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        1389,
+        66,
+        44,
+        18
+      ],
+      "name": "Source",
+      "ref": "ec6b196ba",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        365,
+        84,
+        213,
+        19
+      ],
+      "name": "Aurora Revisited",
+      "ref": "eeec70221",
+      "role": "table cell",
+      "states": [
+        "focused",
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        578,
+        84,
+        252,
+        19
+      ],
+      "name": "Mira North",
+      "ref": "ee63e7aa7",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        830,
+        84,
+        303,
+        19
+      ],
+      "name": "Winter Sketches",
+      "ref": "e5ec1696e",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        318,
+        84,
+        47,
+        19
+      ],
+      "name": "8",
+      "ref": "e9e52cf4b",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        1133,
+        84,
+        51,
+        19
+      ],
+      "name": "180000000000",
+      "ref": "e475937bf",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        1184,
+        84,
+        63,
+        19
+      ],
+      "name": "22050",
+      "ref": "e86dcb434",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        1247,
+        84,
+        49,
+        19
+      ],
+      "name": "16",
+      "ref": "ec45eba6d",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        1296,
+        84,
+        47,
+        19
+      ],
+      "name": "51",
+      "ref": "e97df49a5",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        1343,
+        84,
+        46,
+        19
+      ],
+      "name": "",
+      "ref": "e0c6a3fbd",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        1389,
+        84,
+        44,
+        19
+      ],
+      "name": "",
+      "ref": "e8ddf2583",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        365,
+        103,
+        213,
+        19
+      ],
+      "name": "Blue Harbor",
+      "ref": "eb1ca9283",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        578,
+        103,
+        252,
+        19
+      ],
+      "name": "Orion Trio",
+      "ref": "e73410c86",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        830,
+        103,
+        303,
+        19
+      ],
+      "name": "Harbor Sessions",
+      "ref": "eba78f2f7",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        318,
+        103,
+        47,
+        19
+      ],
+      "name": "2",
+      "ref": "ecc2f4454",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        1133,
+        103,
+        51,
+        19
+      ],
+      "name": "180000000000",
+      "ref": "e05c57ea2",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        1184,
+        103,
+        63,
+        19
+      ],
+      "name": "22050",
+      "ref": "eedd9a685",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        1247,
+        103,
+        49,
+        19
+      ],
+      "name": "16",
+      "ref": "e46393c9f",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        1296,
+        103,
+        47,
+        19
+      ],
+      "name": "52",
+      "ref": "e2d7abe97",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        1343,
+        103,
+        46,
+        19
+      ],
+      "name": "",
+      "ref": "e69ddf3c5",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        1389,
+        103,
+        44,
+        19
+      ],
+      "name": "",
+      "ref": "e651fe5c7",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        317,
+        832,
+        3,
+        68
+      ],
+      "name": "",
+      "ref": "e571ab269",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        320,
+        832,
+        1120,
+        41
+      ],
+      "name": "",
+      "ref": "e84cf7f0e",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        320,
+        832,
+        41,
+        41
+      ],
+      "description": "Previous track",
+      "name": "MenuPopupToolButton",
+      "ref": "e567e5bfd",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        362,
+        832,
+        41,
+        41
+      ],
+      "description": "Play",
+      "name": "MenuPopupToolButton",
+      "ref": "e4cff5eaa",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        404,
+        832,
+        56,
+        41
+      ],
+      "description": "Stop",
+      "name": "MenuPopupToolButton",
+      "ref": "e62268fb2",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        461,
+        832,
+        41,
+        41
+      ],
+      "description": "Next track",
+      "name": "MenuPopupToolButton",
+      "ref": "e42f4bb17",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        503,
+        832,
+        3,
+        41
+      ],
+      "name": "",
+      "ref": "e643fd088",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        1324,
+        832,
+        3,
+        41
+      ],
+      "name": "",
+      "ref": "e6bda715e",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        1328,
+        834,
+        112,
+        36
+      ],
+      "name": "",
+      "ref": "e482e1166",
+      "role": "slider",
+      "value": 100.0
+    },
+    {
+      "bounds": [
+        320,
+        873,
+        1120,
+        3
+      ],
+      "name": "",
+      "ref": "e9a26e847",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        320,
+        876,
+        241,
+        24
+      ],
+      "name": "",
+      "ref": "e7284cfec",
+      "role": "layered pane"
+    },
+    {
+      "bounds": [
+        320,
+        876,
+        241,
+        24
+      ],
+      "name": "2 track(s) - [ 6:00 ]",
+      "ref": "e3b4908f8",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        564,
+        876,
+        3,
+        24
+      ],
+      "name": "",
+      "ref": "edbf9be48",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        570,
+        878,
+        19,
+        19
+      ],
+      "description": "Repeat",
+      "name": "",
+      "ref": "e1f59ed9b",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        589,
+        878,
+        19,
+        19
+      ],
+      "description": "Shuffle",
+      "name": "",
+      "ref": "e17f895f8",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        611,
+        876,
+        3,
+        24
+      ],
+      "name": "",
+      "ref": "ec7fadde8",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        617,
+        876,
+        47,
+        24
+      ],
+      "name": "0:00:00",
+      "ref": "e02ec77cb",
+      "role": "label",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        670,
+        880,
+        713,
+        15
+      ],
+      "name": "",
+      "ref": "e0e3c9d59",
+      "role": "slider",
+      "states": [
+        "disabled"
+      ],
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        1389,
+        876,
+        51,
+        24
+      ],
+      "description": "Click to toggle between remaining time and total time",
+      "name": "0:00:00",
+      "ref": "e800ab2ff",
+      "role": "label",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        78,
+        40,
+        233,
+        858
+      ],
+      "name": "",
+      "ref": "e0625adde",
+      "role": "layered pane"
+    },
+    {
+      "bounds": [
+        78,
+        40,
+        189,
+        29
+      ],
+      "description": "<html><head/><body><p>Prefix a search term with a field name to limit the search to that field, e.g.: <span style=\"font-weight:600;\">artist:</span><span style=\"font-style:italic;\">Strawbs</span> searc",
+      "name": "",
+      "ref": "eeac0dcfb",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        78,
+        41,
+        189,
+        27
+      ],
+      "description": "Enter search terms here",
+      "name": "",
+      "ref": "e135d0c2c",
+      "role": "text",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        79,
+        42,
+        28,
+        24
+      ],
+      "name": "",
+      "ref": "e384e49c2",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        267,
+        40,
+        44,
+        29
+      ],
+      "name": "MenuPopupToolButton",
+      "ref": "ea6a11435",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        78,
+        69,
+        233,
+        829
+      ],
+      "name": "",
+      "ref": "ef610544c",
+      "role": "tree"
+    },
+    {
+      "bounds": [
+        0,
+        38,
+        78,
+        526
+      ],
+      "name": "Collection",
+      "ref": "e57a49005",
+      "role": "page tab list"
+    },
+    {
+      "bounds": [
+        0,
+        38,
+        78,
+        64
+      ],
+      "name": "Context",
+      "ref": "edaf3fdeb",
+      "role": "page tab"
+    },
+    {
+      "bounds": [
+        0,
+        102,
+        78,
+        64
+      ],
+      "name": "Collection",
+      "ref": "ec455f665",
+      "role": "page tab",
+      "states": [
+        "focused"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        166,
+        78,
+        64
+      ],
+      "name": "Queue",
+      "ref": "e0e5c5176",
+      "role": "page tab"
+    },
+    {
+      "bounds": [
+        0,
+        230,
+        78,
+        64
+      ],
+      "name": "Playlists",
+      "ref": "e016dfb70",
+      "role": "page tab"
+    },
+    {
+      "bounds": [
+        0,
+        294,
+        78,
+        78
+      ],
+      "name": "Smart playlists",
+      "ref": "e82645a02",
+      "role": "page tab"
+    },
+    {
+      "bounds": [
+        0,
+        372,
+        78,
+        64
+      ],
+      "name": "Files",
+      "ref": "eabb780c0",
+      "role": "page tab"
+    },
+    {
+      "bounds": [
+        0,
+        436,
+        78,
+        64
+      ],
+      "name": "Radios",
+      "ref": "eb64b5939",
+      "role": "page tab"
+    },
+    {
+      "bounds": [
+        0,
+        500,
+        78,
+        64
+      ],
+      "name": "Devices",
+      "ref": "efd17c5cb",
+      "role": "page tab"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1440,
+        19
+      ],
+      "name": "",
+      "ref": "ecbd86de2",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        6,
+        19,
+        43,
+        19
+      ],
+      "name": "Music",
+      "ref": "ea1161202",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        55,
+        19,
+        51,
+        19
+      ],
+      "name": "Playlist",
+      "ref": "e23664251",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        112,
+        19,
+        38,
+        19
+      ],
+      "name": "Tools",
+      "ref": "ea3bc750e",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        156,
+        19,
+        36,
+        19
+      ],
+      "name": "Help",
+      "ref": "ea8e6d851",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1440,
+        881
+      ],
+      "name": "Edit track information",
+      "ref": "efa4ff581",
+      "role": "dialog",
+      "states": [
+        "active"
+      ]
+    },
+    {
+      "bounds": [
+        20,
+        39,
+        1400,
+        811
+      ],
+      "name": "",
+      "ref": "e43a5e5e0",
+      "role": "split pane"
+    },
+    {
+      "bounds": [
+        22,
+        65,
+        1396,
+        783
+      ],
+      "name": "",
+      "ref": "e545f1538",
+      "role": "layered pane"
+    },
+    {
+      "bounds": [
+        31,
+        74,
+        134,
+        128
+      ],
+      "name": "",
+      "ref": "eb003093e",
+      "role": "image"
+    },
+    {
+      "bounds": [
+        31,
+        208,
+        686,
+        22
+      ],
+      "name": "MenuPopupToolButton",
+      "ref": "e01f0e30f",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        31,
+        237,
+        124,
+        18
+      ],
+      "name": "Embedded cover",
+      "ref": "e2b99630a",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        723,
+        74,
+        686,
+        182
+      ],
+      "name": "",
+      "ref": "e0106778c",
+      "role": "text",
+      "text": "Mira North - Aurora Revisited\n  Album cover editing is only available for collection songs."
+    },
+    {
+      "bounds": [
+        1257,
+        320,
+        32,
+        23
+      ],
+      "name": "Year",
+      "ref": "e59abdea8",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        138,
+        726,
+        1113,
+        28
+      ],
+      "name": "Complete tags automatically",
+      "ref": "e9dd786ce",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        31,
+        581,
+        101,
+        23
+      ],
+      "name": "Performer sort",
+      "ref": "e0be8a3b0",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        31,
+        668,
+        101,
+        23
+      ],
+      "name": "Compilation",
+      "ref": "eb0b3ce41",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        138,
+        465,
+        1113,
+        23
+      ],
+      "name": "Album artist sort",
+      "ref": "eab2692b0",
+      "role": "text",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        31,
+        291,
+        101,
+        23
+      ],
+      "name": "Title sort",
+      "ref": "e4337a122",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        31,
+        436,
+        101,
+        23
+      ],
+      "name": "Album artist",
+      "ref": "e011f3576",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        138,
+        262,
+        1113,
+        23
+      ],
+      "name": "Title",
+      "ref": "e3033752f",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "Aurora Revisited"
+    },
+    {
+      "bounds": [
+        31,
+        552,
+        101,
+        23
+      ],
+      "name": "Performer",
+      "ref": "e5e545cd7",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        138,
+        639,
+        1113,
+        23
+      ],
+      "name": "Genre",
+      "ref": "e051160dc",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "Classical"
+    },
+    {
+      "bounds": [
+        1295,
+        320,
+        114,
+        23
+      ],
+      "name": "Year",
+      "ref": "eef9c3585",
+      "role": "spin button",
+      "text": "2025",
+      "value": 2025.0
+    },
+    {
+      "bounds": [
+        138,
+        697,
+        140,
+        23
+      ],
+      "name": "Rating",
+      "ref": "e449d7e4e",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        138,
+        378,
+        1113,
+        23
+      ],
+      "name": "Album",
+      "ref": "e70525058",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "Winter Sketches"
+    },
+    {
+      "bounds": [
+        138,
+        760,
+        1113,
+        78
+      ],
+      "name": "Comment",
+      "ref": "ebd9a9c0c",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "First session"
+    },
+    {
+      "bounds": [
+        138,
+        349,
+        1113,
+        23
+      ],
+      "name": "Artist sort",
+      "ref": "ee34e480e",
+      "role": "text",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        31,
+        262,
+        101,
+        23
+      ],
+      "name": "Title",
+      "ref": "e899c5451",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        138,
+        610,
+        1113,
+        23
+      ],
+      "name": "Grouping",
+      "ref": "ef4751655",
+      "role": "text",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        1295,
+        291,
+        114,
+        23
+      ],
+      "name": "Disc",
+      "ref": "e9994906b",
+      "role": "spin button",
+      "text": "2",
+      "value": 2.0
+    },
+    {
+      "bounds": [
+        138,
+        672,
+        14,
+        14
+      ],
+      "name": "Compilation",
+      "ref": "e957aa7b1",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        138,
+        291,
+        1113,
+        23
+      ],
+      "name": "Title sort",
+      "ref": "e19da34f5",
+      "role": "text",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        31,
+        697,
+        101,
+        23
+      ],
+      "name": "Rating",
+      "ref": "e0b9e0c38",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1257,
+        291,
+        32,
+        23
+      ],
+      "name": "Disc",
+      "ref": "ed478a16e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        138,
+        552,
+        1113,
+        23
+      ],
+      "name": "Performer",
+      "ref": "e897fe54e",
+      "role": "text",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        1295,
+        262,
+        114,
+        23
+      ],
+      "name": "Track",
+      "ref": "e4072ded8",
+      "role": "spin button",
+      "text": "8",
+      "value": 8.0
+    },
+    {
+      "bounds": [
+        31,
+        465,
+        101,
+        23
+      ],
+      "name": "Album artist sort",
+      "ref": "e0a8c631e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        138,
+        320,
+        1113,
+        23
+      ],
+      "name": "Artist",
+      "ref": "ec12ed4c1",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "Mira North"
+    },
+    {
+      "bounds": [
+        31,
+        349,
+        101,
+        23
+      ],
+      "name": "Artist sort",
+      "ref": "e05cad7a4",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        31,
+        378,
+        101,
+        23
+      ],
+      "name": "Album",
+      "ref": "e06436cb0",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1257,
+        262,
+        32,
+        23
+      ],
+      "name": "Track",
+      "ref": "e546d4289",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        31,
+        494,
+        101,
+        23
+      ],
+      "name": "Composer",
+      "ref": "e41f94662",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        138,
+        436,
+        1113,
+        23
+      ],
+      "name": "Album artist",
+      "ref": "efe784d75",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "Lina Vale"
+    },
+    {
+      "bounds": [
+        138,
+        523,
+        1113,
+        23
+      ],
+      "name": "Composer sort",
+      "ref": "e1b401550",
+      "role": "text",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        138,
+        581,
+        1113,
+        23
+      ],
+      "name": "Performer sort",
+      "ref": "e767d0f08",
+      "role": "text",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        31,
+        610,
+        101,
+        23
+      ],
+      "name": "Grouping",
+      "ref": "ef7f1be95",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        31,
+        407,
+        101,
+        23
+      ],
+      "name": "Album sort",
+      "ref": "e42fb7829",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        31,
+        320,
+        101,
+        23
+      ],
+      "name": "Artist",
+      "ref": "e191c3ec0",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        31,
+        639,
+        101,
+        23
+      ],
+      "name": "Genre",
+      "ref": "e832716a8",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        138,
+        494,
+        1113,
+        23
+      ],
+      "name": "Composer",
+      "ref": "eca03ff7c",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "Alex Reed"
+    },
+    {
+      "bounds": [
+        31,
+        760,
+        101,
+        78
+      ],
+      "name": "Comment",
+      "ref": "e85951029",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        31,
+        523,
+        101,
+        23
+      ],
+      "name": "Composer sort",
+      "ref": "eba3334f5",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        138,
+        407,
+        1113,
+        23
+      ],
+      "name": "Album sort",
+      "ref": "ef3fe8dba",
+      "role": "text",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        20,
+        39,
+        191,
+        26
+      ],
+      "name": "Tags",
+      "ref": "e158925fb",
+      "role": "page tab list"
+    },
+    {
+      "bounds": [
+        20,
+        39,
+        82,
+        26
+      ],
+      "name": "Summary",
+      "ref": "e10f29871",
+      "role": "page tab"
+    },
+    {
+      "bounds": [
+        102,
+        39,
+        51,
+        26
+      ],
+      "name": "Tags",
+      "ref": "eab7e1bec",
+      "role": "page tab",
+      "states": [
+        "focused"
+      ]
+    },
+    {
+      "bounds": [
+        153,
+        39,
+        58,
+        26
+      ],
+      "name": "Lyrics",
+      "ref": "e107cd9e1",
+      "role": "page tab"
+    },
+    {
+      "bounds": [
+        1254,
+        856,
+        80,
+        24
+      ],
+      "name": "Save",
+      "ref": "e66c203cf",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1340,
+        856,
+        80,
+        24
+      ],
+      "name": "Discard",
+      "ref": "ebe4566ec",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        20,
+        856,
+        80,
+        24
+      ],
+      "description": "Previous (Alt+Left / PgUp)",
+      "name": "Previous",
+      "ref": "e7b2c6c39",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        106,
+        856,
+        80,
+        24
+      ],
+      "description": "Next (Alt+Right / PgDown)",
+      "name": "Next",
+      "ref": "ee1cebd9b",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    }
+  ],
+  "screen": [
+    1440,
+    900
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": false,
+      "bounds": [
+        0,
+        38,
+        1440,
+        881
+      ],
+      "ref": "w7a6e956b",
+      "title": "Strawberry Music Player"
+    },
+    {
+      "active": true,
+      "bounds": [
+        0,
+        38,
+        1440,
+        881
+      ],
+      "ref": "w69c78646",
+      "title": "Edit track information — Strawberry Music Player"
+    }
+  ]
+}

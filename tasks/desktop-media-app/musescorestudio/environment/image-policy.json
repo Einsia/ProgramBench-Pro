@@ -1,0 +1,384 @@
+{
+  "reference_paths": [
+    "/app/solution/runtime/bin/mscore4portable",
+    "/app/solution/runtime/AppRun"
+  ],
+  "shared_solution_files": [
+    {
+      "file": "LICENSE",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libgcrypt20.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-COPYING.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libbrotli1.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libxcb-icccm4.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libgssapi-krb5-2.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libnettle8.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libselinux1.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libcairo2.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libxau6.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libbsd0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libxcb-render0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libnettle8.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libbsd0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libxcb-glx0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libxcb-render-util0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libacl1.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libcups2.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libzstd1.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libxcb-xfixes0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libpangoft2-1.0-0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libxcb-shape0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libglib2.0-0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libmd0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libpcre2-8-0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libwayland-cursor0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libxrender1.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-liblzma5.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libxcb-keysyms1.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libpng16-16.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libkrb5-3.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libp11-kit0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libglib2.0-0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libgraphite2-3.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-COPYING3.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libicu67.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libmount1.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libavahi-client3.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libpango-1.0-0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libassuan0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libxcb-image0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libxcb-render0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libgpgme11.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-librsvg2-2.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libidn2-0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libhogweed6.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libpcre2-8-0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libk5crypto3.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-liblz4-1.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-COPYING.libstdc++.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libbrotli1.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libblkid1.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libzstd1.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libgnutls30.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libpangocairo-1.0-0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libdatrie1.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libxml2.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libffi8.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libxcb-randr0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libxcb-sync1.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libmount1.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libxdmcp6.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libxcb-shm0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/MS-Basic.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libthai0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libpixman-1-0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libxcb-xkb1.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libsystemd0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-COPYING.RUNTIME.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libunistring2.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libxkbcommon0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libtasn1-6.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libxau6.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libxkbcommon-x11-0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libxdmcp6.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libffi7.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libavahi-common3.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-COPYING.libgcc.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libgdk-pixbuf-2.0-0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/liblz4-1.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libxcb-cursor0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libbz2-1.0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libkrb5support0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libmd0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libblkid1.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/libxcb-util1.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libpng16-16.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libxcb-shm0.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libssl1.1.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libarchive13.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libcairo-gobject2.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libgcrypt20.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libxext6.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    },
+    {
+      "file": "LICENSES/appimageupdatetool-libpcre3.txt",
+      "reason": "Unmodified public license/copyright text also distributed with general system dependencies; no implementation is exempted."
+    }
+  ]
+}

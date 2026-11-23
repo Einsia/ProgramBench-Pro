@@ -1,0 +1,313 @@
+{
+  "base_style": [
+    "fg=blue"
+  ],
+  "cursor": {
+    "column": 119,
+    "hidden": true,
+    "row": 34
+  },
+  "process": "running",
+  "screen": [
+    "00|2024-06-01 12:00 +0000 Not Committed Yet o Staged changes",
+    "01|2024-01-06 12:00 +0000 Bea Meadow        o [main] Update trail heading",
+    "02|2024-01-05 12:00 +0000 Alex Example      M─┐ {origin/main} Merge eastern route",
+    "03|2024-01-04 12:00 +0000 Chen Grove        │ o [feature/east] Mark eastern viewpoint",
+    "04|2024-01-03 12:00 +0000 Ada Rivers        o │ Add safety checklist",
+    "05|2024-01-02 12:00 +0000 Bea Meadow        o─┘ [archive] Document river access",
+    "06|2024-01-01 12:00 +0000 Ada Rivers        I <v1.0> Start field notebook",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|",
+    "12|",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|",
+    "19|",
+    "20|",
+    "21|",
+    "22|",
+    "23|",
+    "24|",
+    "25|",
+    "26|",
+    "27|",
+    "28|",
+    "29|",
+    "30|",
+    "31|",
+    "32|",
+    "33|",
+    "34|[main] Staged changes                                                                                               100%",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        57
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=green"
+      ],
+      "text": "2024-06-01 12:00 +0000 Not Committed Yet o Staged changes"
+    },
+    {
+      "columns": [
+        23,
+        41
+      ],
+      "row": 1,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Bea Meadow        "
+    },
+    {
+      "columns": [
+        43,
+        49
+      ],
+      "row": 1,
+      "style": [
+        "bold",
+        "fg=cyan"
+      ],
+      "text": "[main]"
+    },
+    {
+      "columns": [
+        49,
+        120
+      ],
+      "row": 1,
+      "style": [
+        "default"
+      ],
+      "text": " Update trail heading                                                  "
+    },
+    {
+      "columns": [
+        23,
+        41
+      ],
+      "row": 2,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Alex Example      "
+    },
+    {
+      "columns": [
+        42,
+        44
+      ],
+      "row": 2,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "─┐"
+    },
+    {
+      "columns": [
+        45,
+        58
+      ],
+      "row": 2,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "{origin/main}"
+    },
+    {
+      "columns": [
+        58,
+        120
+      ],
+      "row": 2,
+      "style": [
+        "default"
+      ],
+      "text": " Merge eastern route                                          "
+    },
+    {
+      "columns": [
+        23,
+        41
+      ],
+      "row": 3,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Chen Grove        "
+    },
+    {
+      "columns": [
+        41,
+        42
+      ],
+      "row": 3,
+      "style": [
+        "fg=magenta"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        45,
+        59
+      ],
+      "row": 3,
+      "style": [
+        "fg=cyan"
+      ],
+      "text": "[feature/east]"
+    },
+    {
+      "columns": [
+        59,
+        120
+      ],
+      "row": 3,
+      "style": [
+        "default"
+      ],
+      "text": " Mark eastern viewpoint                                      "
+    },
+    {
+      "columns": [
+        23,
+        41
+      ],
+      "row": 4,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Ada Rivers        "
+    },
+    {
+      "columns": [
+        42,
+        44
+      ],
+      "row": 4,
+      "style": [
+        "fg=brown"
+      ],
+      "text": " │"
+    },
+    {
+      "columns": [
+        44,
+        120
+      ],
+      "row": 4,
+      "style": [
+        "default"
+      ],
+      "text": " Add safety checklist                                                       "
+    },
+    {
+      "columns": [
+        23,
+        41
+      ],
+      "row": 5,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Bea Meadow        "
+    },
+    {
+      "columns": [
+        42,
+        44
+      ],
+      "row": 5,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "─┘"
+    },
+    {
+      "columns": [
+        45,
+        54
+      ],
+      "row": 5,
+      "style": [
+        "fg=cyan"
+      ],
+      "text": "[archive]"
+    },
+    {
+      "columns": [
+        54,
+        120
+      ],
+      "row": 5,
+      "style": [
+        "default"
+      ],
+      "text": " Document river access                                            "
+    },
+    {
+      "columns": [
+        23,
+        41
+      ],
+      "row": 6,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Ada Rivers        "
+    },
+    {
+      "columns": [
+        43,
+        49
+      ],
+      "row": 6,
+      "style": [
+        "fg=magenta"
+      ],
+      "text": "<v1.0>"
+    },
+    {
+      "columns": [
+        49,
+        120
+      ],
+      "row": 6,
+      "style": [
+        "default"
+      ],
+      "text": " Start field notebook                                                  "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "[main] Staged changes                                                                                               100%"
+    }
+  ]
+}

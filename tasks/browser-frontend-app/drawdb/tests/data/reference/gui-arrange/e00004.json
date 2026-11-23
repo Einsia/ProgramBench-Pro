@@ -1,0 +1,720 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        376,
+        77,
+        904,
+        823
+      ],
+      "ref": "canvas0",
+      "tag": "svg"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        0,
+        9,
+        82,
+        53
+      ],
+      "ref": "e75fe0e2a",
+      "tag": "a"
+    },
+    {
+      "bounds": [
+        1140,
+        16,
+        112,
+        36
+      ],
+      "ref": "eed4bab7b",
+      "tag": "button",
+      "text": "Share"
+    },
+    {
+      "bounds": [
+        0,
+        88,
+        32,
+        32
+      ],
+      "disabled": true,
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        36,
+        85,
+        90,
+        37
+      ],
+      "ref": "e600fea61",
+      "role": "tab",
+      "selected": true,
+      "tag": "div",
+      "text": "Tables (8)"
+    },
+    {
+      "bounds": [
+        134,
+        85,
+        84,
+        37
+      ],
+      "ref": "ed8ae1a6e",
+      "role": "tab",
+      "selected": false,
+      "tag": "div",
+      "text": "Views (0)"
+    },
+    {
+      "bounds": [
+        226,
+        85,
+        112,
+        37
+      ],
+      "ref": "ea3347fc6",
+      "role": "tab",
+      "selected": false,
+      "tag": "div",
+      "text": "Relationships (1)"
+    },
+    {
+      "bounds": [
+        342,
+        88,
+        32,
+        32
+      ],
+      "ref": "ea0fc21fdx2",
+      "tag": "button"
+    },
+    {
+      "aria": "TreeSelect",
+      "bounds": [
+        8,
+        135,
+        238,
+        32
+      ],
+      "expanded": false,
+      "ref": "e999b5ea4",
+      "role": "combobox",
+      "tag": "div",
+      "text": "Search...",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        254,
+        135,
+        112,
+        32
+      ],
+      "ref": "ede343483",
+      "tag": "button",
+      "text": "Add table"
+    },
+    {
+      "bounds": [
+        8,
+        171,
+        358,
+        48
+      ],
+      "ref": "e77b15262",
+      "role": "button",
+      "tag": "div",
+      "text": "users"
+    },
+    {
+      "bounds": [
+        16,
+        171,
+        342,
+        43
+      ],
+      "expanded": false,
+      "ref": "e77b15262x2",
+      "role": "button",
+      "tag": "div",
+      "text": "users"
+    },
+    {
+      "bounds": [
+        302,
+        181,
+        24,
+        24
+      ],
+      "ref": "ea0fc21fdx3",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        8,
+        223,
+        358,
+        48
+      ],
+      "ref": "e9210f36d",
+      "role": "button",
+      "tag": "div",
+      "text": "posts"
+    },
+    {
+      "bounds": [
+        16,
+        223,
+        342,
+        43
+      ],
+      "expanded": false,
+      "ref": "e9210f36dx2",
+      "role": "button",
+      "tag": "div",
+      "text": "posts"
+    },
+    {
+      "bounds": [
+        302,
+        233,
+        24,
+        24
+      ],
+      "ref": "ea0fc21fdx4",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        8,
+        275,
+        358,
+        48
+      ],
+      "ref": "ed24bb8ec",
+      "role": "button",
+      "tag": "div",
+      "text": "categories"
+    },
+    {
+      "bounds": [
+        16,
+        275,
+        342,
+        43
+      ],
+      "expanded": false,
+      "ref": "ed24bb8ecx2",
+      "role": "button",
+      "tag": "div",
+      "text": "categories"
+    },
+    {
+      "bounds": [
+        302,
+        285,
+        24,
+        24
+      ],
+      "ref": "ea0fc21fdx5",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        8,
+        327,
+        358,
+        48
+      ],
+      "ref": "e6ffa5737",
+      "role": "button",
+      "tag": "div",
+      "text": "boxes"
+    },
+    {
+      "bounds": [
+        16,
+        327,
+        342,
+        43
+      ],
+      "expanded": false,
+      "ref": "e6ffa5737x2",
+      "role": "button",
+      "tag": "div",
+      "text": "boxes"
+    },
+    {
+      "bounds": [
+        302,
+        337,
+        24,
+        24
+      ],
+      "ref": "ea0fc21fdx6",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        8,
+        379,
+        358,
+        48
+      ],
+      "ref": "ee55ef2b4",
+      "role": "button",
+      "tag": "div",
+      "text": "parcels"
+    },
+    {
+      "bounds": [
+        16,
+        379,
+        342,
+        43
+      ],
+      "expanded": false,
+      "ref": "ee55ef2b4x2",
+      "role": "button",
+      "tag": "div",
+      "text": "parcels"
+    },
+    {
+      "bounds": [
+        302,
+        389,
+        24,
+        24
+      ],
+      "ref": "ea0fc21fdx7",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        8,
+        431,
+        358,
+        48
+      ],
+      "ref": "e65617818",
+      "role": "button",
+      "tag": "div",
+      "text": "countries"
+    },
+    {
+      "bounds": [
+        16,
+        431,
+        342,
+        43
+      ],
+      "expanded": false,
+      "ref": "e65617818x2",
+      "role": "button",
+      "tag": "div",
+      "text": "countries"
+    },
+    {
+      "bounds": [
+        302,
+        441,
+        24,
+        24
+      ],
+      "ref": "ea0fc21fdx8",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        8,
+        483,
+        358,
+        48
+      ],
+      "ref": "eb2657dd7",
+      "role": "button",
+      "tag": "div",
+      "text": "cities"
+    },
+    {
+      "bounds": [
+        16,
+        483,
+        342,
+        43
+      ],
+      "expanded": false,
+      "ref": "eb2657dd7x2",
+      "role": "button",
+      "tag": "div",
+      "text": "cities"
+    },
+    {
+      "bounds": [
+        302,
+        493,
+        24,
+        24
+      ],
+      "ref": "ea0fc21fdx9",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        8,
+        535,
+        358,
+        48
+      ],
+      "ref": "e0ea61472",
+      "role": "button",
+      "tag": "div",
+      "text": "likes"
+    },
+    {
+      "bounds": [
+        16,
+        535,
+        342,
+        43
+      ],
+      "expanded": false,
+      "ref": "e0ea61472x2",
+      "role": "button",
+      "tag": "div",
+      "text": "likes"
+    },
+    {
+      "bounds": [
+        302,
+        545,
+        24,
+        24
+      ],
+      "ref": "ea0fc21fdx10",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        20,
+        825,
+        29,
+        16
+      ],
+      "ref": "e09a97cab",
+      "tag": "div",
+      "text": "8",
+      "title": "Tables"
+    },
+    {
+      "bounds": [
+        61,
+        824,
+        31,
+        18
+      ],
+      "ref": "e76f83114",
+      "tag": "div",
+      "text": "1",
+      "title": "Relationships"
+    },
+    {
+      "bounds": [
+        217,
+        823,
+        83,
+        20
+      ],
+      "ref": "e2152f4c5",
+      "tag": "button",
+      "text": "Structure"
+    },
+    {
+      "bounds": [
+        299,
+        823,
+        61,
+        20
+      ],
+      "ref": "e7cfe6d9f",
+      "tag": "button",
+      "text": "Code"
+    },
+    {
+      "bounds": [
+        8,
+        855,
+        358,
+        40
+      ],
+      "expanded": false,
+      "ref": "ef121d4d8",
+      "role": "button",
+      "tag": "div",
+      "text": "Problems 0"
+    },
+    {
+      "bounds": [
+        964,
+        509,
+        24,
+        24
+      ],
+      "ref": "ebc503145",
+      "tag": "button",
+      "title": "Lock table"
+    },
+    {
+      "aria": "Collapse unlinked columns",
+      "bounds": [
+        989,
+        509,
+        24,
+        24
+      ],
+      "ref": "e92f45717",
+      "tag": "button",
+      "title": "Collapse unlinked columns"
+    },
+    {
+      "bounds": [
+        1014,
+        509,
+        24,
+        24
+      ],
+      "expanded": false,
+      "ref": "ee1dad71c",
+      "tag": "button",
+      "title": "See more"
+    },
+    {
+      "bounds": [
+        838,
+        555,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx11",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        838,
+        592,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx12",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1014,
+        585,
+        24,
+        24
+      ],
+      "ref": "ea0fc21fdx13",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1138,
+        555,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx14",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1138,
+        592,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx15",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1138,
+        629,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx16",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        838,
+        855,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx17",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1138,
+        855,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx18",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1138,
+        892,
+        10,
+        9
+      ],
+      "ref": "ea0fc21fdx19",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        549,
+        842,
+        34,
+        36
+      ],
+      "ref": "ea0fc21fdx20",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        655,
+        842,
+        34,
+        36
+      ],
+      "ref": "ea0fc21fdx21",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        706,
+        846,
+        36,
+        28
+      ],
+      "disabled": true,
+      "ref": "ea0fc21fdx22",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        742,
+        846,
+        36,
+        28
+      ],
+      "disabled": true,
+      "ref": "ea0fc21fdx23",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        795,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx24",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        837,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx25",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        879,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx26",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        921,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx27",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        980,
+        841,
+        39,
+        36
+      ],
+      "ref": "ea0fc21fdx28",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1036,
+        844,
+        40,
+        32
+      ],
+      "ref": "ea0fc21fdx29",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1093,
+        841,
+        34,
+        36
+      ],
+      "ref": "ea0fc21fdx30",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1144,
+        841,
+        36,
+        36
+      ],
+      "ref": "ea0fc21fdx31",
+      "tag": "button"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "text": "Diagrams\n/\nAutolink\nFile\nEdit\nView\nSettings\nHelp\nLast saved 11/1/2026, 10:21:30 AM\nfk_likes_user_existing\n1\nusers\nid\nINT\nname\nposts\nid\nuser_id\ncategory_id\nboxes\nid\nINT\nparcels\nid\nboxid\n100\n%\nname\nVARCHAR(40)\nDefault\n:\nNot set\nComment\n:\nNot set",
+  "text_truncated": false,
+  "title": "Editor | drawDB",
+  "url": "/editor/diagrams/276d6b48-1226-4fab-8e62-513fd6e4c45e",
+  "viewport": [
+    1280,
+    900
+  ]
+}

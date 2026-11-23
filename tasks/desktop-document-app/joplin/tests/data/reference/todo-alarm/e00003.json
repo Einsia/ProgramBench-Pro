@@ -1,0 +1,494 @@
+{
+  "focused": "e97003d4b",
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        881
+      ],
+      "name": "Joplin",
+      "ref": "ee844dfcc",
+      "role": "frame",
+      "states": [
+        "active"
+      ],
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        881
+      ],
+      "name": "",
+      "ref": "ed36aabc0",
+      "role": "panel",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        881
+      ],
+      "name": "",
+      "ref": "ee61ec49c",
+      "role": "panel",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        881
+      ],
+      "name": "",
+      "ref": "ec5cc28fb",
+      "role": "panel",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        881
+      ],
+      "name": "",
+      "ref": "e326eb073",
+      "role": "panel",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        27
+      ],
+      "name": "",
+      "ref": "e1f635c87",
+      "role": "menu bar",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        35,
+        27
+      ],
+      "name": "File",
+      "ref": "e896e6451",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        35,
+        19,
+        37,
+        27
+      ],
+      "name": "Edit",
+      "ref": "e66e987c5",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        72,
+        19,
+        44,
+        27
+      ],
+      "name": "View",
+      "ref": "e4de3b43f",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        116,
+        19,
+        30,
+        27
+      ],
+      "name": "Go",
+      "ref": "ea04f4215",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        146,
+        19,
+        75,
+        27
+      ],
+      "name": "Notebook",
+      "ref": "e1d20c405",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        221,
+        19,
+        43,
+        27
+      ],
+      "name": "Note",
+      "ref": "e53b0fe41",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        264,
+        19,
+        45,
+        27
+      ],
+      "name": "Tools",
+      "ref": "e0223e344",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        309,
+        19,
+        42,
+        27
+      ],
+      "name": "Help",
+      "ref": "e4dc6490c",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        46,
+        1280,
+        854
+      ],
+      "name": "",
+      "ref": "eca306d71",
+      "role": "panel",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        0,
+        46,
+        1280,
+        854
+      ],
+      "name": "",
+      "ref": "ea7e6029c",
+      "role": "panel",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        0,
+        46,
+        1280,
+        854
+      ],
+      "name": "Joplin",
+      "ref": "e6b127db1",
+      "role": "document web",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        0,
+        46,
+        1288,
+        862
+      ],
+      "name": "",
+      "ref": "e8f0fb9ba",
+      "role": "dialog",
+      "states": [
+        "modal"
+      ],
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        413,
+        85,
+        54,
+        15
+      ],
+      "name": "",
+      "ref": "e66c3ddce",
+      "role": "label",
+      "text": "Set alarm:"
+    },
+    {
+      "bounds": [
+        413,
+        85,
+        54,
+        15
+      ],
+      "name": "Set alarm:",
+      "ref": "ea2face99",
+      "role": "static"
+    },
+    {
+      "bounds": [
+        471,
+        82,
+        404,
+        20
+      ],
+      "name": "",
+      "ref": "e09bc2f1d",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        471,
+        82,
+        404,
+        20
+      ],
+      "name": "",
+      "ref": "ed1bb0362",
+      "role": "date editor",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        473,
+        83,
+        384,
+        18
+      ],
+      "name": "",
+      "ref": "e557a04f9",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        473,
+        83,
+        174,
+        18
+      ],
+      "name": "",
+      "ref": "e89f74564",
+      "role": "section",
+      "text": "￼/￼/￼, ￼:￼ ￼"
+    },
+    {
+      "bounds": [
+        473,
+        83,
+        19,
+        18
+      ],
+      "name": "Month",
+      "ref": "e97003d4b",
+      "role": "spin button",
+      "states": [
+        "focused"
+      ],
+      "value": 1.0
+    },
+    {
+      "bounds": [
+        491,
+        84,
+        10,
+        16
+      ],
+      "name": "/",
+      "ref": "ee10f0699",
+      "role": "static"
+    },
+    {
+      "bounds": [
+        500,
+        83,
+        19,
+        18
+      ],
+      "name": "Day",
+      "ref": "e0bb2ad26",
+      "role": "spin button",
+      "value": 15.0
+    },
+    {
+      "bounds": [
+        518,
+        84,
+        9,
+        16
+      ],
+      "name": "/",
+      "ref": "e93ac9a4a",
+      "role": "static"
+    },
+    {
+      "bounds": [
+        526,
+        83,
+        35,
+        18
+      ],
+      "name": "Year",
+      "ref": "e0817bb98",
+      "role": "spin button",
+      "value": 2026.0
+    },
+    {
+      "bounds": [
+        560,
+        84,
+        17,
+        16
+      ],
+      "name": ",",
+      "ref": "efc0b3480",
+      "role": "static"
+    },
+    {
+      "bounds": [
+        576,
+        83,
+        19,
+        18
+      ],
+      "name": "Hours",
+      "ref": "e49fe2f4f",
+      "role": "spin button",
+      "value": 2.0
+    },
+    {
+      "bounds": [
+        594,
+        84,
+        9,
+        16
+      ],
+      "name": ":",
+      "ref": "efd8f0e1b",
+      "role": "static"
+    },
+    {
+      "bounds": [
+        602,
+        83,
+        19,
+        18
+      ],
+      "name": "Minutes",
+      "ref": "ece719837",
+      "role": "spin button",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        620,
+        84,
+        9,
+        16
+      ],
+      "name": "",
+      "ref": "e84b7f265",
+      "role": "static"
+    },
+    {
+      "bounds": [
+        628,
+        83,
+        19,
+        18
+      ],
+      "name": "AM/PM",
+      "ref": "ec53f5d1b",
+      "role": "spin button",
+      "value": 2.0
+    },
+    {
+      "bounds": [
+        856,
+        83,
+        18,
+        18
+      ],
+      "name": "Show local date and time picker",
+      "ref": "e7bc198ae",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        413,
+        111,
+        462,
+        31
+      ],
+      "name": "",
+      "ref": "e18ea891f",
+      "role": "section",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        710,
+        111,
+        51,
+        31
+      ],
+      "name": "OK",
+      "ref": "e8b6b3965",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        765,
+        111,
+        55,
+        31
+      ],
+      "name": "Cancel",
+      "ref": "ec13b8c00",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        824,
+        111,
+        51,
+        31
+      ],
+      "name": "Clear",
+      "ref": "ea2b7cad2",
+      "role": "push button"
+    }
+  ],
+  "screen": [
+    1280,
+    900
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": true,
+      "bounds": [
+        0,
+        38,
+        1280,
+        881
+      ],
+      "ref": "w9644e090",
+      "title": "Joplin"
+    }
+  ]
+}

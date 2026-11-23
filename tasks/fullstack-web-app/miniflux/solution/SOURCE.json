@@ -1,0 +1,29 @@
+{
+  "task": "miniflux",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "Miniflux",
+    "version": "2.3.4",
+    "homepage": "https://miniflux.app/",
+    "repository": "https://github.com/miniflux/v2",
+    "license": "Apache-2.0"
+  },
+  "downloads": [
+    {
+      "file": "miniflux",
+      "url": "https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-linux-amd64",
+      "sha256": "33f43a73f0b2b0dfa1f6cb30dd37c9c4b04a8c61785239f9ead578683ea0c175"
+    }
+  ],
+  "bundled": [],
+  "modifications": "none; the official executable is unchanged. Local launch scripts only configure and initialize the instance.",
+  "configuration": "launch.py: private PostgreSQL 16 cluster in DATA_DIR (Unix socket only, with a private TMPDIR socket directory when the data path is too long); RUN_MIGRATIONS, BASE_URL http://127.0.0.1:PORT, POLLING_FREQUENCY 1440, fixed MEDIA_PROXY_PRIVATE_KEY, INTEGRATION_ALLOW_PRIVATE_NETWORKS; outbound HTTP through the runtime's HTTP_PROXY; three baseline users (alice administrator, bob, carol) created on first start",
+  "notes": {
+    "release_url": "https://github.com/miniflux/v2/releases/tag/2.3.4",
+    "source_url": "https://github.com/miniflux/v2/archive/refs/tags/2.3.4.tar.gz",
+    "source_sha256": "52bae2d0433d87cde9591c96905460046d2ee38e7a7e7ac536bd4e5f1ac66a57",
+    "checksum_url": "https://github.com/miniflux/v2/releases/download/2.3.4/miniflux-linux-amd64.sha256",
+    "license_url": "https://raw.githubusercontent.com/miniflux/v2/2.3.4/LICENSE",
+    "runtime_dependency": "PostgreSQL 16 server from the task base image (Ubuntu 24.04 package postgresql-16)"
+  }
+}

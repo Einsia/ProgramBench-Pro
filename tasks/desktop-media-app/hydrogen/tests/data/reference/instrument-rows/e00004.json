@@ -1,0 +1,1705 @@
+{
+  "focused": null,
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        19,
+        1440,
+        881
+      ],
+      "name": "Hydrogen 1.2.7 - Groove [check-0001.h2song]",
+      "ref": "e2d69804a",
+      "role": "frame",
+      "states": [
+        "active"
+      ]
+    },
+    {
+      "bounds": [
+        1,
+        42,
+        1424,
+        50
+      ],
+      "name": "",
+      "ref": "ebfb99fda",
+      "role": "image"
+    },
+    {
+      "bounds": [
+        14,
+        52,
+        146,
+        22
+      ],
+      "name": "",
+      "ref": "ec000d798",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ],
+      "text": "00:00:00.000"
+    },
+    {
+      "bounds": [
+        23,
+        75,
+        33,
+        9
+      ],
+      "name": "Hrs",
+      "ref": "eb9dec1d6",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        54,
+        75,
+        33,
+        9
+      ],
+      "name": "Min",
+      "ref": "e065a0153",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        84,
+        75,
+        33,
+        9
+      ],
+      "name": "Sec",
+      "ref": "e1f33784a",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        75,
+        34,
+        9
+      ],
+      "name": "1/1000",
+      "ref": "ece6e80f1",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        167,
+        60,
+        25,
+        19
+      ],
+      "description": "Rewind\nMIDI: <<_PREVIOUS_BAR not bound",
+      "name": "",
+      "ref": "e09dcb771",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        194,
+        60,
+        25,
+        19
+      ],
+      "description": "Record\nMIDI: RECORD_READY not bound",
+      "name": "",
+      "ref": "ea6866380",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        221,
+        60,
+        30,
+        21
+      ],
+      "description": "Play/ Pause\nMIDI: PLAY/PAUSE_TOGGLE not bound",
+      "name": "",
+      "ref": "ea8f96f89",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        253,
+        60,
+        25,
+        19
+      ],
+      "description": "Stop\nMIDI: STOP not bound",
+      "name": "",
+      "ref": "e465c91d8",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        280,
+        60,
+        25,
+        19
+      ],
+      "description": "Fast Forward\nMIDI: >>_NEXT_BAR not bound",
+      "name": "",
+      "ref": "e3f0ebd54",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        309,
+        60,
+        25,
+        19
+      ],
+      "description": "Loop song",
+      "name": "",
+      "ref": "e9efc0e65",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        191,
+        48,
+        59,
+        11
+      ],
+      "description": "Pattern Mode",
+      "name": "Pattern",
+      "ref": "e3cb58535",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        264,
+        48,
+        59,
+        11
+      ],
+      "description": "Song Mode",
+      "name": "Song",
+      "ref": "ec9e7f0cb",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        345,
+        45,
+        13,
+        42
+      ],
+      "description": "Toggle the BeatCounter Panel",
+      "name": "B\nC",
+      "ref": "ea98a3fb1",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        396,
+        76,
+        26,
+        10
+      ],
+      "name": "BPM",
+      "ref": "edc824a11",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        396,
+        46,
+        95,
+        30
+      ],
+      "description": "Alter the Playback Speed",
+      "name": "",
+      "ref": "eeed682c6",
+      "role": "spin button",
+      "text": "120",
+      "value": 120.0
+    },
+    {
+      "bounds": [
+        366,
+        47,
+        24,
+        28
+      ],
+      "description": "Switch metronome on/off\nMIDI: TOGGLE_METRONOME not bound",
+      "name": "",
+      "ref": "e143376b6",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        527,
+        59,
+        45,
+        9
+      ],
+      "name": "MIDI-In",
+      "ref": "e9127895b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        576,
+        59,
+        30,
+        9
+      ],
+      "name": "CPU",
+      "ref": "e7f252fac",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        629,
+        45,
+        88,
+        23
+      ],
+      "description": "Show mixer",
+      "name": "Mixer",
+      "ref": "e58d749a0",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        717,
+        45,
+        168,
+        23
+      ],
+      "description": "Show Instrument Rack",
+      "name": "Instrument Rack",
+      "ref": "ef3d87454",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        629,
+        69,
+        255,
+        18
+      ],
+      "name": "",
+      "ref": "e0ddb2871",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": " saved as: /app/candidate-state/s"
+    },
+    {
+      "bounds": [
+        1,
+        96,
+        1424,
+        873
+      ],
+      "name": "",
+      "ref": "ec8bb2bc0",
+      "role": "split pane"
+    },
+    {
+      "bounds": [
+        1,
+        391,
+        170,
+        20
+      ],
+      "description": "Loaded Soundlibrary",
+      "name": "",
+      "ref": "eff520aa4",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        184,
+        392,
+        33,
+        17
+      ],
+      "name": "Size",
+      "ref": "ead6756d2",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        219,
+        391,
+        62,
+        20
+      ],
+      "name": "",
+      "ref": "e51770504",
+      "role": "spin button",
+      "text": "4",
+      "value": 4.0
+    },
+    {
+      "bounds": [
+        283,
+        394,
+        4,
+        13
+      ],
+      "description": "You can use the '/' inside the pattern size spin boxes to switch back and forth.",
+      "name": "/",
+      "ref": "e941eddaa",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        289,
+        391,
+        48,
+        20
+      ],
+      "name": "",
+      "ref": "eb6493475",
+      "role": "spin button",
+      "text": "4",
+      "value": 4.0
+    },
+    {
+      "bounds": [
+        345,
+        392,
+        29,
+        17
+      ],
+      "name": "Res",
+      "ref": "e0bf9b72b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        376,
+        392,
+        223,
+        18
+      ],
+      "name": "1/8 - eighth",
+      "ref": "ee704d8fc",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        0,
+        0,
+        756,
+        25
+      ],
+      "name": "1/4 - quarter",
+      "ref": "e247a33d9",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        25,
+        756,
+        25
+      ],
+      "name": "1/8 - eighth",
+      "ref": "ee663e4be",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        50,
+        756,
+        25
+      ],
+      "name": "1/16 - sixteenth",
+      "ref": "e38be73d7",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        75,
+        756,
+        25
+      ],
+      "name": "1/32 - thirty-second",
+      "ref": "eaf1168e5",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        100,
+        756,
+        25
+      ],
+      "name": "1/64 - sixty-fourth",
+      "ref": "e9cb1eed7",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        125,
+        640,
+        2
+      ],
+      "description": "separator",
+      "name": "",
+      "ref": "e487bee31",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        127,
+        756,
+        25
+      ],
+      "name": "1/4T - quarter triplet",
+      "ref": "e1cbc23a5",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        152,
+        756,
+        25
+      ],
+      "name": "1/8T - eighth triplet",
+      "ref": "e4272fca3",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        177,
+        756,
+        25
+      ],
+      "name": "1/16T - sixteenth triplet",
+      "ref": "e14c4927f",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        202,
+        756,
+        25
+      ],
+      "name": "1/32T - thirty-second triplet",
+      "ref": "e9a17cda9",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        227,
+        640,
+        2
+      ],
+      "description": "separator",
+      "name": "",
+      "ref": "e44b1d06d",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        229,
+        756,
+        25
+      ],
+      "name": "off",
+      "ref": "ed5315138",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        605,
+        392,
+        38,
+        17
+      ],
+      "name": "Hear",
+      "ref": "e3a8bae26",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        645,
+        392,
+        21,
+        18
+      ],
+      "description": "Hear new notes",
+      "name": "",
+      "ref": "ea812c1bc",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        674,
+        392,
+        48,
+        17
+      ],
+      "name": "Quant",
+      "ref": "effe00851",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        724,
+        392,
+        21,
+        18
+      ],
+      "description": "Quantize keyboard/midi events to grid",
+      "name": "",
+      "ref": "e6b0e3eb5",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        753,
+        392,
+        42,
+        17
+      ],
+      "name": "Input",
+      "ref": "e81c6fd31",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        797,
+        392,
+        25,
+        18
+      ],
+      "description": "Show piano roll editor",
+      "name": "",
+      "ref": "ebe4c01a2",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1,
+        413,
+        181,
+        25
+      ],
+      "name": "Verse",
+      "ref": "e824aead8",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        11,
+        440,
+        145,
+        21
+      ],
+      "name": "Kick",
+      "ref": "edb71bab1",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        146,
+        439,
+        18,
+        20
+      ],
+      "description": "Mute instrument",
+      "name": "M",
+      "ref": "eb7efaa87",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        164,
+        439,
+        18,
+        20
+      ],
+      "description": "Solo",
+      "name": "S",
+      "ref": "e0ae98e34",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        11,
+        461,
+        145,
+        21
+      ],
+      "name": "Snare",
+      "ref": "e2fa85142",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        146,
+        460,
+        18,
+        20
+      ],
+      "description": "Mute instrument",
+      "name": "M",
+      "ref": "e860e6e7d",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        164,
+        460,
+        18,
+        20
+      ],
+      "description": "Solo",
+      "name": "S",
+      "ref": "eab7ca9f4",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        11,
+        482,
+        145,
+        21
+      ],
+      "name": "Hat",
+      "ref": "ed2407b0c",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        146,
+        481,
+        18,
+        20
+      ],
+      "description": "Mute instrument",
+      "name": "M",
+      "ref": "eb229161e",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        164,
+        481,
+        18,
+        20
+      ],
+      "description": "Solo",
+      "name": "S",
+      "ref": "e8b355ffc",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        11,
+        503,
+        145,
+        21
+      ],
+      "name": "Clap",
+      "ref": "ec41ebf63",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        146,
+        502,
+        18,
+        20
+      ],
+      "description": "Mute instrument",
+      "name": "M",
+      "ref": "ea4333517",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        164,
+        502,
+        18,
+        20
+      ],
+      "description": "Solo",
+      "name": "S",
+      "ref": "ec2bdb242",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        1116,
+        438,
+        14,
+        416
+      ],
+      "name": "",
+      "ref": "e496bc897",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        1,
+        895,
+        181,
+        18
+      ],
+      "description": "Select note properties",
+      "name": "Velocity",
+      "ref": "eb1b625fc",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        0,
+        0,
+        756,
+        25
+      ],
+      "name": "Velocity",
+      "ref": "e5c6092d6",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        25,
+        756,
+        25
+      ],
+      "name": "Pan",
+      "ref": "ec65036a8",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        50,
+        756,
+        25
+      ],
+      "name": "Lead and Lag",
+      "ref": "eec5866ab",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        75,
+        756,
+        25
+      ],
+      "name": "NoteKey",
+      "ref": "eeccf5242",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        100,
+        756,
+        25
+      ],
+      "name": "Probability",
+      "ref": "ea24482b9",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        1135,
+        389,
+        145,
+        24
+      ],
+      "description": "Show Instrument editor",
+      "name": "Instrument",
+      "ref": "e06e4fa79",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        1280,
+        389,
+        145,
+        24
+      ],
+      "description": "Show sound library",
+      "name": "Sound Library",
+      "ref": "edfd7c458",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        1139,
+        417,
+        141,
+        22
+      ],
+      "description": "Show instrument properties",
+      "name": "General",
+      "ref": "e4ccd6bac",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        1280,
+        417,
+        140,
+        22
+      ],
+      "description": "Show layers properties",
+      "name": "Layers",
+      "ref": "e2e0e45be",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        1140,
+        448,
+        279,
+        27
+      ],
+      "name": "Hat",
+      "ref": "e7662b748",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1157,
+        725,
+        61,
+        10
+      ],
+      "name": "MIDI Output",
+      "ref": "ec2e62712",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1233,
+        701,
+        59,
+        24
+      ],
+      "description": "Midi out channel",
+      "name": "",
+      "ref": "eb862c896",
+      "role": "spin button",
+      "text": "off",
+      "value": -1.0
+    },
+    {
+      "bounds": [
+        1231,
+        725,
+        61,
+        10
+      ],
+      "name": "Channel",
+      "ref": "ee5a82975",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1296,
+        701,
+        59,
+        24
+      ],
+      "description": "Midi out note",
+      "name": "",
+      "ref": "e3ef4384d",
+      "role": "spin button",
+      "text": "36",
+      "value": 36.0
+    },
+    {
+      "bounds": [
+        1294,
+        725,
+        61,
+        10
+      ],
+      "name": "Note",
+      "ref": "e4d2fc678",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1159,
+        657,
+        56,
+        20
+      ],
+      "name": "",
+      "ref": "e0fdb98af",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ],
+      "text": "0.00"
+    },
+    {
+      "bounds": [
+        1160,
+        679,
+        54,
+        10
+      ],
+      "name": "Pitch",
+      "ref": "e181501f4",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1219,
+        654,
+        44,
+        26
+      ],
+      "description": "Pitch offset (Coarse): 0.00\n\nRange: [-24.00, 24.00]",
+      "name": "",
+      "ref": "ebaac9da0",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1217,
+        679,
+        48,
+        10
+      ],
+      "name": "Coarse",
+      "ref": "e4ee4da8d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1273,
+        654,
+        44,
+        26
+      ],
+      "description": "Pitch offset (Fine): 0.00\n\nRange: [-0.50, 0.50]",
+      "name": "",
+      "ref": "ef2cf1717",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1271,
+        679,
+        48,
+        10
+      ],
+      "name": "Fine",
+      "ref": "e06191f3c",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1329,
+        654,
+        44,
+        26
+      ],
+      "description": "Random pitch factor: 0.00\n\nRange: [0.00, 1.00]",
+      "name": "",
+      "ref": "ec98c7e94",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1327,
+        679,
+        48,
+        10
+      ],
+      "name": "Random",
+      "ref": "ef68a08da",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1202,
+        613,
+        36,
+        15
+      ],
+      "name": "BYP",
+      "ref": "e14297af5",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        1244,
+        608,
+        44,
+        26
+      ],
+      "description": "Filter Cutoff: 1.00\n\nRange: [0.00, 1.00]",
+      "name": "",
+      "ref": "e6acb6ccc",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1242,
+        633,
+        48,
+        10
+      ],
+      "name": "Cutoff",
+      "ref": "ea02c696c",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1298,
+        608,
+        44,
+        26
+      ],
+      "description": "Filter resonance: 0.00\n\nRange: [0.00, 1.00]",
+      "name": "",
+      "ref": "e50eed420",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1292,
+        633,
+        56,
+        10
+      ],
+      "name": "Resonance",
+      "ref": "ebcb09815",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1180,
+        496,
+        44,
+        26
+      ],
+      "description": "Length of Attack phase.\n\nValue: 0.00\n\nRange: [0.00, 1.00]",
+      "name": "",
+      "ref": "e2c26a11a",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1232,
+        496,
+        44,
+        26
+      ],
+      "description": "Length of Decay phase.\n\nValue: 0.00\n\nRange: [0.00, 1.00]",
+      "name": "",
+      "ref": "ee310dde7",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1284,
+        496,
+        44,
+        26
+      ],
+      "description": "Sample volume in Sustain phase.\n\nValue: 1.00\n\nRange: [0.00, 1.00]",
+      "name": "",
+      "ref": "ebbf6be1c",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1336,
+        496,
+        44,
+        26
+      ],
+      "description": "Length of Release phase.\n\nValue: 0.09\n\nRange: [0.00, 1.00]",
+      "name": "",
+      "ref": "e06123ede",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1178,
+        522,
+        48,
+        10
+      ],
+      "name": "Attack",
+      "ref": "e56cd6d5e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1230,
+        522,
+        48,
+        10
+      ],
+      "name": "Decay",
+      "ref": "e8cc57460",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1282,
+        522,
+        48,
+        10
+      ],
+      "name": "Sustain",
+      "ref": "e63e40ad3",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1334,
+        522,
+        48,
+        10
+      ],
+      "name": "Release",
+      "ref": "e7712a088",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1197,
+        547,
+        43,
+        20
+      ],
+      "name": "",
+      "ref": "eff54a131",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ],
+      "text": "1.00"
+    },
+    {
+      "bounds": [
+        1244,
+        544,
+        44,
+        26
+      ],
+      "description": "Instrument gain: 1.00\n\nRange: [0.00, 5.00]",
+      "name": "",
+      "ref": "e13c4e046",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1242,
+        569,
+        48,
+        10
+      ],
+      "name": "Gain",
+      "ref": "ea149f9cd",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1295,
+        545,
+        59,
+        24
+      ],
+      "name": "",
+      "ref": "e74af2324",
+      "role": "spin button",
+      "text": "off",
+      "value": -1.0
+    },
+    {
+      "bounds": [
+        1294,
+        569,
+        61,
+        10
+      ],
+      "name": "Mute Group",
+      "ref": "ed8261782",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1177,
+        583,
+        14,
+        14
+      ],
+      "description": "Stop the current playing instrument-note before triggering the next note sample",
+      "name": "",
+      "ref": "e3078dcdd",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        1194,
+        588,
+        87,
+        10
+      ],
+      "name": "Auto-Stop Note",
+      "ref": "e5cfddb2c",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1288,
+        583,
+        14,
+        14
+      ],
+      "description": "Don't change the layers' gain based on velocity",
+      "name": "",
+      "ref": "e01e0e2f7",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        1305,
+        588,
+        87,
+        10
+      ],
+      "name": "Apply Velocity",
+      "ref": "ec0469afc",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1163,
+        747,
+        59,
+        24
+      ],
+      "name": "",
+      "ref": "e13dba6da",
+      "role": "spin button",
+      "text": "off",
+      "value": -1.0
+    },
+    {
+      "bounds": [
+        1157,
+        771,
+        69,
+        10
+      ],
+      "name": "HH Press. Grp",
+      "ref": "ead44c2fa",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1273,
+        747,
+        59,
+        24
+      ],
+      "name": "",
+      "ref": "e4678def7",
+      "role": "spin button",
+      "text": "0",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        1271,
+        771,
+        61,
+        10
+      ],
+      "name": "Min Range",
+      "ref": "e7e6b5a95",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1338,
+        747,
+        59,
+        24
+      ],
+      "name": "",
+      "ref": "ea17f342b",
+      "role": "spin button",
+      "text": "127",
+      "value": 127.0
+    },
+    {
+      "bounds": [
+        1336,
+        771,
+        61,
+        10
+      ],
+      "name": "Max Range",
+      "ref": "e77252802",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        95,
+        100,
+        98,
+        17
+      ],
+      "description": "Enable the Timeline for custom tempo changes",
+      "name": "Timeline",
+      "ref": "eec532022",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        3,
+        121,
+        61,
+        21
+      ],
+      "description": "Clear pattern sequence",
+      "name": "Clear",
+      "ref": "edbac9db7",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        65,
+        121,
+        25,
+        21
+      ],
+      "description": "Create new pattern",
+      "name": "",
+      "ref": "e1af2880c",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        91,
+        132,
+        25,
+        10
+      ],
+      "description": "Move the selected pattern down",
+      "name": "",
+      "ref": "e84ad29e7",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        91,
+        121,
+        25,
+        10
+      ],
+      "description": "Move the selected pattern up",
+      "name": "",
+      "ref": "e6f7b690c",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        117,
+        121,
+        25,
+        21
+      ],
+      "description": "Select mode",
+      "name": "",
+      "ref": "e9a3c3c45",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        143,
+        121,
+        25,
+        21
+      ],
+      "description": "Lock the Pattern Editor to only show and follow the pattern recorded notes will be inserted into while in Song Mode.",
+      "name": "",
+      "ref": "ec6af53e6",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        169,
+        121,
+        25,
+        21
+      ],
+      "description": "selected pattern mode",
+      "name": "",
+      "ref": "e4d2f239a",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        201,
+        96,
+        1210,
+        50
+      ],
+      "name": "",
+      "ref": "eb390b4f4",
+      "role": "layered pane"
+    },
+    {
+      "bounds": [
+        1411,
+        146,
+        14,
+        224
+      ],
+      "name": "",
+      "ref": "e7616d7ca",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        201,
+        370,
+        19,
+        15
+      ],
+      "description": "View playback track",
+      "name": "P",
+      "ref": "ea969700e",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        220,
+        370,
+        19,
+        15
+      ],
+      "description": "View timeline",
+      "name": "T",
+      "ref": "e583bdd4c",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        239,
+        370,
+        1134,
+        14
+      ],
+      "name": "",
+      "ref": "e800cf3ae",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        1373,
+        370,
+        19,
+        15
+      ],
+      "name": "",
+      "ref": "efc303223",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1392,
+        370,
+        19,
+        15
+      ],
+      "name": "",
+      "ref": "e33bdd3af",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1425,
+        42,
+        14,
+        857
+      ],
+      "name": "",
+      "ref": "e4b43ad68",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1440,
+        22
+      ],
+      "name": "",
+      "ref": "e917d87bf",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        6,
+        19,
+        57,
+        22
+      ],
+      "name": "Project",
+      "ref": "eaa76d1eb",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        69,
+        19,
+        45,
+        22
+      ],
+      "name": "Undo",
+      "ref": "e891dc96b",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        120,
+        19,
+        72,
+        22
+      ],
+      "name": "Drumkits",
+      "ref": "ec2d1660c",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        198,
+        19,
+        93,
+        22
+      ],
+      "name": "Instruments",
+      "ref": "e74729c43",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        297,
+        19,
+        42,
+        22
+      ],
+      "name": "View",
+      "ref": "e3f47c2dd",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        345,
+        19,
+        62,
+        22
+      ],
+      "name": "Options",
+      "ref": "e9214f542",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        413,
+        19,
+        54,
+        22
+      ],
+      "name": "Debug",
+      "ref": "eeedb0229",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        473,
+        19,
+        35,
+        22
+      ],
+      "name": "Info",
+      "ref": "e1a83c4ba",
+      "role": "menu item"
+    }
+  ],
+  "screen": [
+    1440,
+    900
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": true,
+      "bounds": [
+        0,
+        38,
+        1440,
+        881
+      ],
+      "ref": "w37c22510",
+      "title": "Hydrogen 1.2.7 - Groove [check-0001.h2song]"
+    }
+  ]
+}

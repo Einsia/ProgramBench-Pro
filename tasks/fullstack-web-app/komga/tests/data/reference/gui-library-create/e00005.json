@@ -1,0 +1,475 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        260,
+        8,
+        48,
+        48
+      ],
+      "ref": "e3565697427",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        308,
+        8,
+        956,
+        48
+      ],
+      "expanded": false,
+      "ref": "e3932625320",
+      "role": "combobox",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "bounds": [
+        348,
+        16,
+        900,
+        32
+      ],
+      "placeholder": "Search",
+      "ref": "e3492990951",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        8,
+        73,
+        240,
+        40
+      ],
+      "href": "/dashboard",
+      "ref": "e4053023811",
+      "role": null,
+      "tag": "a",
+      "text": "Home"
+    },
+    {
+      "bounds": [
+        8,
+        117,
+        240,
+        40
+      ],
+      "href": "/libraries/all",
+      "ref": "e2922887771",
+      "role": null,
+      "tag": "a",
+      "text": "Libraries"
+    },
+    {
+      "bounds": [
+        168,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3616030284",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        204,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3666363141",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        161,
+        240,
+        40
+      ],
+      "href": "/libraries/0S3GHQBCD2PYP",
+      "ref": "e1917455306",
+      "role": null,
+      "tag": "a",
+      "text": "New Shelf"
+    },
+    {
+      "bounds": [
+        204,
+        163,
+        36,
+        36
+      ],
+      "ref": "e3699918379",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        205,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e1184854462",
+      "role": "button",
+      "tag": "div",
+      "text": "Import"
+    },
+    {
+      "bounds": [
+        8,
+        245,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e2070932497",
+      "role": "button",
+      "tag": "div",
+      "text": "Media"
+    },
+    {
+      "bounds": [
+        8,
+        285,
+        240,
+        40
+      ],
+      "href": "/history",
+      "ref": "e3700334507",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        8,
+        329,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e3104230938",
+      "role": "button",
+      "tag": "div",
+      "text": "Server"
+    },
+    {
+      "bounds": [
+        8,
+        369,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e1456337507",
+      "role": "button",
+      "tag": "div",
+      "text": "My Account"
+    },
+    {
+      "bounds": [
+        8,
+        453,
+        240,
+        40
+      ],
+      "href": "/next",
+      "ref": "e108006909",
+      "role": null,
+      "tag": "a",
+      "text": "Try the new UI"
+    },
+    {
+      "bounds": [
+        72,
+        530,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e3679130362",
+      "role": "button",
+      "tag": "div",
+      "text": "Theme\nSystem"
+    },
+    {
+      "bounds": [
+        129,
+        530,
+        83,
+        26
+      ],
+      "label": "Theme",
+      "ref": "e2293683443",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        72,
+        594,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e918547495",
+      "role": "button",
+      "tag": "div",
+      "text": "Translation\nEnglish"
+    },
+    {
+      "bounds": [
+        128,
+        594,
+        84,
+        26
+      ],
+      "label": "Translation",
+      "ref": "e965999643",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        272,
+        72,
+        48,
+        48
+      ],
+      "ref": "e946897339",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        530,
+        78,
+        151,
+        36
+      ],
+      "href": "/libraries/0S3GHQBCD2PYP/recommended",
+      "ref": "e2417938780",
+      "role": null,
+      "tag": "a",
+      "text": "RECOMMENDED"
+    },
+    {
+      "bounds": [
+        689,
+        78,
+        86,
+        36
+      ],
+      "href": "/libraries/0S3GHQBCD2PYP/series",
+      "ref": "e284979237",
+      "role": null,
+      "tag": "a",
+      "text": "SERIES"
+    },
+    {
+      "bounds": [
+        783,
+        78,
+        86,
+        36
+      ],
+      "href": "/libraries/0S3GHQBCD2PYP/books",
+      "ref": "e147661666",
+      "role": null,
+      "tag": "a",
+      "text": "BOOKS"
+    },
+    {
+      "bounds": [
+        876,
+        78,
+        140,
+        36
+      ],
+      "href": "/libraries/0S3GHQBCD2PYP/collections",
+      "ref": "e1739288105",
+      "role": null,
+      "tag": "a",
+      "text": "COLLECTIONS"
+    },
+    {
+      "bounds": [
+        1024,
+        78,
+        121,
+        36
+      ],
+      "href": "/libraries/0S3GHQBCD2PYP/readlists",
+      "ref": "e353554382",
+      "role": null,
+      "tag": "a",
+      "text": "READ LISTS"
+    },
+    {
+      "bounds": [
+        1196,
+        140,
+        36,
+        36
+      ],
+      "disabled": true,
+      "ref": "e1148670052",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1232,
+        140,
+        36,
+        36
+      ],
+      "disabled": true,
+      "ref": "e1199002909",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        284,
+        404,
+        134,
+        22
+      ],
+      "href": "/series/0S3GHQBGN2SXF",
+      "ref": "e2893169161",
+      "role": null,
+      "tag": "a",
+      "text": "Atlas",
+      "title": "Atlas"
+    },
+    {
+      "bounds": [
+        284,
+        426,
+        134,
+        22
+      ],
+      "href": "/book/0S3GHQBGS2R6T",
+      "ref": "e1027981318",
+      "role": null,
+      "tag": "a",
+      "text": "1 - Atlas chapter 1",
+      "title": "1 - Atlas chapter 1"
+    },
+    {
+      "bounds": [
+        1196,
+        514,
+        36,
+        36
+      ],
+      "disabled": true,
+      "ref": "e947338624",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1232,
+        514,
+        36,
+        36
+      ],
+      "disabled": true,
+      "ref": "e997524386",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        276,
+        770,
+        150,
+        56
+      ],
+      "href": "/series/0S3GHQBGN2SXF",
+      "ref": "e2993981970",
+      "role": null,
+      "tag": "a",
+      "text": "Atlas"
+    },
+    {
+      "bounds": [
+        1208,
+        828,
+        56,
+        56
+      ],
+      "ref": "e963969148",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        900
+      ],
+      "ref": "e762533974",
+      "role": "dialog",
+      "tag": "div",
+      "text": ""
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Komga\nHome\nLibraries\nNew Shelf\nImport\nMedia\nHistory\nServer\nMy Account\nLog Out\nTry the new UI\nTheme\nSystem\nTranslation\nEnglish\nNew Shelf\nRECOMMENDED\nSERIES\nBOOKS\nCOLLECTIONS\nREAD LISTS\nRecently Added Books\nAtlas\n1 - Atlas chapter 1\n4 pages\nRecently Added Series\n1\nAtlas\n1 book",
+  "text_truncated": false,
+  "title": "Komga - New Shelf",
+  "url": "/libraries/0S3GHQBCD2PYP/recommended",
+  "viewport": [
+    1280,
+    900
+  ]
+}

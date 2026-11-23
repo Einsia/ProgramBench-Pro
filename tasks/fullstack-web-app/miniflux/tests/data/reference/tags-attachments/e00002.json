@@ -1,0 +1,430 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        559,
+        -44,
+        162,
+        36
+      ],
+      "href": "/unread/entry/3#main",
+      "offscreen": true,
+      "ref": "e280",
+      "role": null,
+      "tag": "a",
+      "text": "Skip to content"
+    },
+    {
+      "aria": "Home page",
+      "bounds": [
+        193,
+        10,
+        77,
+        19
+      ],
+      "href": "/unread",
+      "ref": "e281",
+      "role": null,
+      "tag": "a",
+      "text": "Mini\nflux"
+    },
+    {
+      "aria": "Unread, 2 unread entries",
+      "bounds": [
+        278,
+        12,
+        102,
+        16
+      ],
+      "href": "/unread",
+      "ref": "e282",
+      "role": null,
+      "tag": "a",
+      "text": "Unread (2)"
+    },
+    {
+      "bounds": [
+        395,
+        12,
+        78,
+        16
+      ],
+      "href": "/starred",
+      "ref": "e283",
+      "role": null,
+      "tag": "a",
+      "text": "Starred"
+    },
+    {
+      "bounds": [
+        488,
+        12,
+        78,
+        16
+      ],
+      "href": "/history",
+      "ref": "e284",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        581,
+        12,
+        70,
+        16
+      ],
+      "href": "/feeds",
+      "ref": "e285",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "aria": "Add feed",
+      "bounds": [
+        650,
+        12,
+        26,
+        16
+      ],
+      "href": "/subscribe",
+      "ref": "e286",
+      "role": null,
+      "tag": "a",
+      "text": "(+)",
+      "title": "Keyboard Shortcut: +"
+    },
+    {
+      "bounds": [
+        691,
+        12,
+        104,
+        16
+      ],
+      "href": "/categories",
+      "ref": "e287",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        810,
+        12,
+        70,
+        16
+      ],
+      "href": "/search",
+      "ref": "e288",
+      "role": null,
+      "tag": "a",
+      "text": "Search"
+    },
+    {
+      "bounds": [
+        894,
+        12,
+        87,
+        16
+      ],
+      "href": "/settings",
+      "ref": "e289",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        996,
+        10,
+        70,
+        18
+      ],
+      "ref": "e290",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "title": "Logged in as alice"
+    },
+    {
+      "bounds": [
+        195,
+        50,
+        288,
+        37
+      ],
+      "href": "[external]",
+      "ref": "e291",
+      "role": null,
+      "tag": "a",
+      "text": "Podcast episode"
+    },
+    {
+      "bounds": [
+        195,
+        122,
+        131,
+        19
+      ],
+      "ref": "e292",
+      "role": null,
+      "tag": "button",
+      "text": "Mark as unread",
+      "title": "Change entry status"
+    },
+    {
+      "bounds": [
+        351,
+        122,
+        49,
+        19
+      ],
+      "ref": "e293",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        425,
+        122,
+        63,
+        19
+      ],
+      "ref": "e294",
+      "role": null,
+      "tag": "button",
+      "text": "Share"
+    },
+    {
+      "bounds": [
+        512,
+        122,
+        91,
+        19
+      ],
+      "ref": "e295",
+      "role": null,
+      "tag": "button",
+      "text": "Download",
+      "title": "Fetch original content"
+    },
+    {
+      "bounds": [
+        195,
+        166,
+        128,
+        18
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e296",
+      "role": null,
+      "tag": "a",
+      "text": "Science Weekly"
+    },
+    {
+      "bounds": [
+        340,
+        170,
+        21,
+        12
+      ],
+      "href": "/category/1/entries",
+      "ref": "e297",
+      "role": null,
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        253,
+        204,
+        67,
+        18
+      ],
+      "href": "/tags/science/entries/all",
+      "ref": "e298",
+      "role": null,
+      "tag": "a",
+      "text": "science"
+    },
+    {
+      "bounds": [
+        195,
+        242,
+        154,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e299",
+      "role": null,
+      "tag": "a",
+      "text": "http://weekly.test/1"
+    },
+    {
+      "bounds": [
+        341,
+        362,
+        45,
+        19
+      ],
+      "ref": "e300",
+      "role": null,
+      "tag": "button",
+      "text": "-30s",
+      "title": "Seek -30 seconds"
+    },
+    {
+      "bounds": [
+        387,
+        362,
+        45,
+        19
+      ],
+      "ref": "e301",
+      "role": null,
+      "tag": "button",
+      "text": "-10s",
+      "title": "Seek -10 seconds"
+    },
+    {
+      "bounds": [
+        432,
+        362,
+        49,
+        19
+      ],
+      "ref": "e302",
+      "role": null,
+      "tag": "button",
+      "text": "+10s",
+      "title": "Seek +10 seconds"
+    },
+    {
+      "bounds": [
+        481,
+        362,
+        49,
+        19
+      ],
+      "ref": "e303",
+      "role": null,
+      "tag": "button",
+      "text": "+30s",
+      "title": "Seek +30 seconds"
+    },
+    {
+      "bounds": [
+        827,
+        362,
+        63,
+        19
+      ],
+      "ref": "e304",
+      "role": null,
+      "tag": "button",
+      "text": "Slower",
+      "title": "Slower by 0.25x"
+    },
+    {
+      "bounds": [
+        890,
+        362,
+        56,
+        19
+      ],
+      "ref": "e305",
+      "role": null,
+      "tag": "button",
+      "text": "Reset",
+      "title": "Reset speed to 1x"
+    },
+    {
+      "bounds": [
+        946,
+        362,
+        59,
+        19
+      ],
+      "ref": "e306",
+      "role": null,
+      "tag": "button",
+      "text": "Faster",
+      "title": "Faster by 0.25x"
+    },
+    {
+      "bounds": [
+        193,
+        433,
+        894,
+        22
+      ],
+      "focused": true,
+      "ref": "e307",
+      "role": null,
+      "tag": "summary",
+      "text": "Attachments (1)"
+    },
+    {
+      "bounds": [
+        199,
+        471,
+        294,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e308",
+      "role": null,
+      "tag": "a",
+      "text": "http://media.weekly.test/episode.mp3",
+      "title": "Download - 4.0 KiB"
+    },
+    {
+      "bounds": [
+        594,
+        551,
+        134,
+        20
+      ],
+      "href": "/unread/entry/3",
+      "ref": "e309",
+      "role": null,
+      "tag": "a",
+      "text": "Back to top"
+    },
+    {
+      "bounds": [
+        1024,
+        551,
+        42,
+        20
+      ],
+      "href": "/unread/entry/2",
+      "ref": "e310",
+      "role": null,
+      "tag": "a",
+      "text": "Next",
+      "title": "Lab news"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Skip to content\nMini\nflux\nUnread (2) Starred History Feeds (+) Categories Search Settings Logout\nPodcast episode\nMark as unread Star \nShare\n Download\nScience Weekly All\nTags: science\nhttp://weekly.test/1\n1 year ago · 1 minute read\nSeek:\n-30s\n-10s\n+10s\n+30s\nSpeed: (1.00x)\nSlower\nReset\nFaster\nListen now.\nAttachments (1)\nhttp://media.weekly.test/episode.mp3 - 4.0 KiB\nPrevious\nBack to top\nNext ",
+  "text_truncated": false,
+  "title": "Podcast episode - Miniflux",
+  "url": "/unread/entry/3",
+  "viewport": [
+    1280,
+    900
+  ]
+}

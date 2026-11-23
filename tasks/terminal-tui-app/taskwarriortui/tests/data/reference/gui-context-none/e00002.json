@@ -1,0 +1,210 @@
+{
+  "cursor": {
+    "column": 23,
+    "hidden": true,
+    "row": 33
+  },
+  "process": "running",
+  "screen": [
+    "00| Tasks   Projects   Timesheet   Calendar                                                                     next [work]",
+    "01|  ID Active Age P Project   Tag    Due Description                                                               Urg",
+    "02|",
+    "03|•  4 1h     1d  M Work.Code code   8h  Review PR                                                                 18.35",
+    "04|  12        5d    Work      social 2h  Team lunch                                                                10.59",
+    "05|   2        3w    Work                 Write report                                                              1.13",
+    "06|",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|",
+    "12|",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────",
+    "19|",
+    "20|Name          Value",
+    "21|------------- ------------------------------------------------------------------------------------------------------",
+    "22|ID            4",
+    "23|Description   Review PR",
+    "24|Status        Pending",
+    "25|Project       Work.Code",
+    "26|Entered       2026-05-12 08:00:00 (1d)",
+    "27|Start         2026-05-13 09:00:00",
+    "28|Due           2026-05-13 18:00:00",
+    "29|Last modified 2026-05-13 10:00:00 ()",
+    "30|Tags          code",
+    "31|Virtual tags  ACTIVE DUE DUETODAY MONTH PENDING PRIORITY PROJECT QUARTER READY TAGGED TODAY UDA UNBLOCKED WEEK YEAR",
+    "32|UUID          00000004-0000-4000-8000-000000000004",
+    "33|Urgency       18.35",
+    "34|Filter Tasks",
+    "35|status:pending -WAITING limit:page"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        1,
+        6
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "reverse"
+      ],
+      "text": "Tasks"
+    },
+    {
+      "columns": [
+        6,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "reverse"
+      ],
+      "text": "   Projects   Timesheet   Calendar                                                                     next [work]"
+    },
+    {
+      "columns": [
+        0,
+        4
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "  ID"
+    },
+    {
+      "columns": [
+        5,
+        11
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Active"
+    },
+    {
+      "columns": [
+        12,
+        15
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Age"
+    },
+    {
+      "columns": [
+        16,
+        17
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "P"
+    },
+    {
+      "columns": [
+        18,
+        27
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Project  "
+    },
+    {
+      "columns": [
+        28,
+        34
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Tag   "
+    },
+    {
+      "columns": [
+        35,
+        38
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Due"
+    },
+    {
+      "columns": [
+        39,
+        112
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Description                                                              "
+    },
+    {
+      "columns": [
+        113,
+        118
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Urg  "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 3,
+      "style": [
+        "bold",
+        "fg=ffffff",
+        "bg=d75f00"
+      ],
+      "text": "•  4 1h     1d  M Work.Code code   8h  Review PR                                                                 18.35"
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 4,
+      "style": [
+        "fg=d70000",
+        "bg=1c1c1c"
+      ],
+      "text": "  12        5d    Work      social 2h  Team lunch                                                                10.59"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "reverse"
+      ],
+      "text": "Filter Tasks                                                                                                            "
+    }
+  ]
+}

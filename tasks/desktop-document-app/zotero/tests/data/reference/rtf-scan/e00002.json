@@ -1,0 +1,2561 @@
+{
+  "focused": "e54e589c2",
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        881
+      ],
+      "name": "My Library - Zotero",
+      "ref": "ead4bdb1d",
+      "role": "frame",
+      "text": "￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼"
+    },
+    {
+      "bounds": [
+        8,
+        19,
+        1154,
+        36
+      ],
+      "name": "",
+      "ref": "eeb2247d8",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        19,
+        210,
+        36
+      ],
+      "name": "Application",
+      "ref": "e5c0c6bd6",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        8,
+        19,
+        36,
+        36
+      ],
+      "name": "File",
+      "ref": "eae5e7196",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        44,
+        19,
+        39,
+        36
+      ],
+      "name": "Edit",
+      "ref": "e9280c15b",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        83,
+        19,
+        45,
+        36
+      ],
+      "name": "View",
+      "ref": "e2cb9b4a8",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        128,
+        19,
+        46,
+        36
+      ],
+      "name": "Tools",
+      "ref": "ec5a466a3",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        133,
+        60,
+        205,
+        25
+      ],
+      "name": "RTF Scan",
+      "ref": "e0eb3fe74",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        133,
+        94,
+        205,
+        25
+      ],
+      "name": "Install Browser Connector…",
+      "ref": "ed54eb4c5",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        133,
+        119,
+        205,
+        25
+      ],
+      "name": "Plugins",
+      "ref": "e27482050",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        133,
+        144,
+        205,
+        25
+      ],
+      "name": "Developer",
+      "ref": "edb77fe16",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        133,
+        178,
+        205,
+        25
+      ],
+      "name": "Manage Attachments",
+      "ref": "e98e2128f",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        174,
+        19,
+        44,
+        36
+      ],
+      "name": "Help",
+      "ref": "ef594ac36",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        0,
+        55,
+        1207,
+        36
+      ],
+      "name": "",
+      "ref": "ef0a88b3f",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        55,
+        1199,
+        36
+      ],
+      "name": "",
+      "ref": "e5435fdac",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        9,
+        59,
+        200,
+        28
+      ],
+      "name": "",
+      "ref": "e6f6dda1a",
+      "role": "section",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        35,
+        64,
+        168,
+        18
+      ],
+      "name": "My Library",
+      "ref": "e14c014a2",
+      "role": "section"
+    },
+    {
+      "bounds": [
+        1211,
+        59,
+        28,
+        28
+      ],
+      "name": "List all tabs",
+      "ref": "e82983a32",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1248,
+        59,
+        28,
+        28
+      ],
+      "name": "Sync with zotero.org",
+      "ref": "ebd38ba1b",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        92,
+        200,
+        41
+      ],
+      "name": "",
+      "ref": "e30e37922",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        8,
+        98,
+        28,
+        28
+      ],
+      "name": "New Collection…",
+      "ref": "eaf37dda1",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        156,
+        98,
+        28,
+        28
+      ],
+      "name": "Filter Collections",
+      "ref": "e7bbd7881",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        133,
+        200,
+        567
+      ],
+      "name": "",
+      "ref": "e6cae55ac",
+      "role": "section",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        0,
+        133,
+        200,
+        567
+      ],
+      "name": "Collections",
+      "ref": "e3fc109d8",
+      "role": "tree",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        0,
+        133,
+        200,
+        567
+      ],
+      "name": "",
+      "ref": "eb7fe2a2b",
+      "role": "section",
+      "text": "￼￼￼￼￼￼￼￼￼￼￼￼￼"
+    },
+    {
+      "bounds": [
+        8,
+        133,
+        184,
+        28
+      ],
+      "name": "My Library",
+      "ref": "e19545fd2",
+      "role": "tree item",
+      "states": [
+        "selected",
+        "expanded",
+        "active"
+      ],
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        133,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e5b982c1c",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        44,
+        138,
+        144,
+        18
+      ],
+      "name": "",
+      "ref": "e949e16e3",
+      "role": "section",
+      "text": "My Library"
+    },
+    {
+      "bounds": [
+        8,
+        161,
+        184,
+        28
+      ],
+      "name": "Recently Read",
+      "ref": "e97dca4d1",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        161,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e4b31b13a",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        166,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "e6527c2eb",
+      "role": "section",
+      "text": "Recently Read"
+    },
+    {
+      "bounds": [
+        8,
+        189,
+        184,
+        28
+      ],
+      "name": "Biology",
+      "ref": "ee33245cd",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        189,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e60ce88f8",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        194,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "e1cd9ec22",
+      "role": "section",
+      "text": "Biology"
+    },
+    {
+      "bounds": [
+        8,
+        217,
+        184,
+        28
+      ],
+      "name": "Computer Science",
+      "ref": "ed4716ca2",
+      "role": "tree item",
+      "states": [
+        "expanded"
+      ],
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        217,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e1a9174ab",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        222,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "e9a440bd6",
+      "role": "section",
+      "text": "Computer Science"
+    },
+    {
+      "bounds": [
+        8,
+        245,
+        184,
+        28
+      ],
+      "name": "Algorithms",
+      "ref": "eb4e71ff0",
+      "role": "tree item",
+      "states": [
+        "expanded"
+      ],
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        245,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "ed3a9131c",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        76,
+        250,
+        112,
+        18
+      ],
+      "name": "",
+      "ref": "e6881de92",
+      "role": "section",
+      "text": "Algorithms"
+    },
+    {
+      "bounds": [
+        8,
+        273,
+        184,
+        28
+      ],
+      "name": "Graph Algorithms",
+      "ref": "e068bd2dc",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        273,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "eedbb7f7a",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        92,
+        278,
+        96,
+        18
+      ],
+      "name": "",
+      "ref": "ea2ad079a",
+      "role": "section",
+      "text": "Graph Algorithms"
+    },
+    {
+      "bounds": [
+        8,
+        301,
+        184,
+        28
+      ],
+      "name": "Theory of Computation",
+      "ref": "ed98278f4",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        301,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e87127b28",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        76,
+        306,
+        112,
+        18
+      ],
+      "name": "",
+      "ref": "ee08d777a",
+      "role": "section",
+      "text": "Theory of Computation"
+    },
+    {
+      "bounds": [
+        8,
+        329,
+        184,
+        28
+      ],
+      "name": "Empty Collection",
+      "ref": "e7e7a9122",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        329,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "effa6c9fa",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        334,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "eb03e3682",
+      "role": "section",
+      "text": "Empty Collection"
+    },
+    {
+      "bounds": [
+        8,
+        357,
+        184,
+        28
+      ],
+      "name": "Reading List",
+      "ref": "ee8dc2ac7",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        357,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e939650ab",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        362,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "eeaeecbb9",
+      "role": "section",
+      "text": "Reading List"
+    },
+    {
+      "bounds": [
+        8,
+        385,
+        184,
+        28
+      ],
+      "name": "My Publications",
+      "ref": "e64a7bce3",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        385,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e278051a2",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        390,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "e94923e95",
+      "role": "section",
+      "text": "My Publications"
+    },
+    {
+      "bounds": [
+        8,
+        413,
+        184,
+        28
+      ],
+      "name": "Duplicate Items",
+      "ref": "eebefc881",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        413,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e012e198e",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        418,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "eb4d94192",
+      "role": "section",
+      "text": "Duplicate Items"
+    },
+    {
+      "bounds": [
+        8,
+        441,
+        184,
+        28
+      ],
+      "name": "Unfiled Items",
+      "ref": "e11e235e7",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        441,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e0a0046b0",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        446,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "e99b25a40",
+      "role": "section",
+      "text": "Unfiled Items"
+    },
+    {
+      "bounds": [
+        8,
+        469,
+        184,
+        28
+      ],
+      "name": "Trash",
+      "ref": "e59ca2905",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        469,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e07fded15",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        474,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "e2f63b2f1",
+      "role": "section",
+      "text": "Trash"
+    },
+    {
+      "bounds": [
+        0,
+        700,
+        200,
+        200
+      ],
+      "name": "",
+      "ref": "e57aa693b",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        0,
+        700,
+        200,
+        200
+      ],
+      "name": "",
+      "ref": "e8e529781",
+      "role": "section",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        0,
+        700,
+        200,
+        163
+      ],
+      "name": "",
+      "ref": "e7ef021d1",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        0,
+        700,
+        200,
+        163
+      ],
+      "name": "Tag Selector",
+      "ref": "e3d2a1972",
+      "role": "panel",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        0,
+        700,
+        189,
+        330
+      ],
+      "name": "",
+      "ref": "e33a92712",
+      "role": "section",
+      "text": "￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼"
+    },
+    {
+      "bounds": [
+        8,
+        709,
+        76,
+        19
+      ],
+      "name": "abstraction",
+      "ref": "ed590dade",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        86,
+        709,
+        72,
+        19
+      ],
+      "name": "algorithms",
+      "ref": "e58958497",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        8,
+        730,
+        130,
+        19
+      ],
+      "name": "artificial intelligence",
+      "ref": "eed59a24e",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        8,
+        751,
+        69,
+        19
+      ],
+      "name": "biography",
+      "ref": "e4af4df0d",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        79,
+        751,
+        37,
+        19
+      ],
+      "name": "birds",
+      "ref": "e3cbcfdfa",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        118,
+        751,
+        42,
+        19
+      ],
+      "name": "chess",
+      "ref": "ef23353e4",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        8,
+        772,
+        48,
+        19
+      ],
+      "name": "classic",
+      "ref": "e7a2685a6",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        58,
+        772,
+        52,
+        19
+      ],
+      "name": "climate",
+      "ref": "eed0f1298",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        8,
+        793,
+        86,
+        19
+      ],
+      "name": "collaboration",
+      "ref": "e2c46d8bd",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        96,
+        793,
+        91,
+        19
+      ],
+      "name": "computability",
+      "ref": "e4caccec5",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        8,
+        814,
+        115,
+        19
+      ],
+      "name": "conference report",
+      "ref": "e877ed807",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        125,
+        814,
+        35,
+        19
+      ],
+      "name": "DNA",
+      "ref": "e5e91756d",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        8,
+        835,
+        64,
+        19
+      ],
+      "name": "evolution",
+      "ref": "e121470ea",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        74,
+        835,
+        45,
+        19
+      ],
+      "name": "fiction",
+      "ref": "ecdd8fdd8",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        121,
+        835,
+        59,
+        19
+      ],
+      "name": "genetics",
+      "ref": "ea81c5863",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        8,
+        870,
+        144,
+        24
+      ],
+      "name": "Filter Tags",
+      "ref": "e59a38a2f",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        156,
+        870,
+        36,
+        24
+      ],
+      "name": "Actions",
+      "ref": "ec1ed66a8",
+      "role": "push button",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        200,
+        92,
+        723,
+        41
+      ],
+      "name": "",
+      "ref": "e32ed8ff3",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        208,
+        98,
+        40,
+        28
+      ],
+      "name": "New Item",
+      "ref": "ed2f311e2",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        256,
+        98,
+        28,
+        28
+      ],
+      "name": "Add Item(s) by Identifier",
+      "ref": "ea6d01f8f",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        292,
+        98,
+        40,
+        28
+      ],
+      "name": "Add Attachment",
+      "ref": "ef952ec7e",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        340,
+        98,
+        40,
+        28
+      ],
+      "name": "New Note",
+      "ref": "e553c0457",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        615,
+        98,
+        36,
+        28
+      ],
+      "name": "Quick Search mode",
+      "ref": "ef94081cc",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        655,
+        99,
+        227,
+        26
+      ],
+      "description": "All Fields & Tags",
+      "name": "Quick Search",
+      "ref": "e8b8992fe",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        885,
+        98,
+        28,
+        28
+      ],
+      "name": "Advanced Search",
+      "ref": "e9d5a1225",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        200,
+        133,
+        723,
+        767
+      ],
+      "name": "",
+      "ref": "e33b3cb16",
+      "role": "section",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        200,
+        133,
+        723,
+        767
+      ],
+      "name": "Items",
+      "ref": "e86693c48",
+      "role": "tree",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        200,
+        133,
+        723,
+        30
+      ],
+      "name": "",
+      "ref": "ed5511ba1",
+      "role": "section",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        139,
+        525,
+        17
+      ],
+      "name": "",
+      "ref": "e694c5b64",
+      "role": "section",
+      "text": "Title"
+    },
+    {
+      "bounds": [
+        749,
+        139,
+        126,
+        17
+      ],
+      "name": "",
+      "ref": "e8ed6218b",
+      "role": "section",
+      "text": "Creator"
+    },
+    {
+      "bounds": [
+        883,
+        140,
+        32,
+        16
+      ],
+      "name": "Attachments",
+      "ref": "efdc5d7d7",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        200,
+        167,
+        723,
+        733
+      ],
+      "name": "",
+      "ref": "e340087f0",
+      "role": "section",
+      "text": "￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        167,
+        707,
+        28
+      ],
+      "name": "A Note on Two Problems in Connexion with Graphs. Journal Article. Dijkstra",
+      "ref": "e39e7fc25",
+      "role": "tree item",
+      "states": [
+        "active"
+      ],
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        173,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "e63c25d20",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        173,
+        489,
+        17
+      ],
+      "name": "A Note on Two Problems in Connexion with Graphs. Journal Article.",
+      "ref": "e047312fe",
+      "role": "section",
+      "text": "A Note on Two Problems in Connexion with Graphs"
+    },
+    {
+      "bounds": [
+        741,
+        173,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "e0a3db963",
+      "role": "section",
+      "text": "Dijkstra"
+    },
+    {
+      "bounds": [
+        208,
+        195,
+        707,
+        28
+      ],
+      "name": "A Very Large Collaboration Paper. Journal Article. Alpha et al.",
+      "ref": "e62d9681e",
+      "role": "tree item",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        201,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "e041ad9e5",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        201,
+        489,
+        17
+      ],
+      "name": "A Very Large Collaboration Paper. Journal Article.",
+      "ref": "ed2a914db",
+      "role": "section",
+      "text": "A Very Large Collaboration Paper"
+    },
+    {
+      "bounds": [
+        741,
+        201,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "ecc56affd",
+      "role": "section",
+      "text": "Alpha et al."
+    },
+    {
+      "bounds": [
+        208,
+        223,
+        707,
+        28
+      ],
+      "name": "Algorithms. Book. Sedgewick and Wayne",
+      "ref": "edbb34778",
+      "role": "tree item",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        229,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "eac1d9f0e",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        229,
+        489,
+        17
+      ],
+      "name": "Algorithms. Book.",
+      "ref": "ebeb172bd",
+      "role": "section",
+      "text": "Algorithms"
+    },
+    {
+      "bounds": [
+        741,
+        229,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "ee6aeda6d",
+      "role": "section",
+      "text": "Sedgewick and Wayne"
+    },
+    {
+      "bounds": [
+        208,
+        251,
+        707,
+        28
+      ],
+      "name": "As We May Think. Magazine Article. Bush",
+      "ref": "e9589ce9e",
+      "role": "tree item",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        257,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "ed87ce318",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        257,
+        489,
+        17
+      ],
+      "name": "As We May Think. Magazine Article.",
+      "ref": "e22e37baa",
+      "role": "section",
+      "text": "As We May Think"
+    },
+    {
+      "bounds": [
+        741,
+        257,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "e2be91cca",
+      "role": "section",
+      "text": "Bush"
+    },
+    {
+      "bounds": [
+        208,
+        279,
+        707,
+        28
+      ],
+      "name": "Attention Is Not All You Need, Probably. Preprint. Lovelace and Hopper",
+      "ref": "ed54f4ed8",
+      "role": "tree item",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        285,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "efd9140d1",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        285,
+        489,
+        17
+      ],
+      "name": "Attention Is Not All You Need, Probably. Preprint.",
+      "ref": "ea945e3da",
+      "role": "section",
+      "text": "Attention Is Not All You Need, Probably"
+    },
+    {
+      "bounds": [
+        741,
+        285,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "ecef76897",
+      "role": "section",
+      "text": "Lovelace and Hopper"
+    },
+    {
+      "bounds": [
+        208,
+        307,
+        707,
+        28
+      ],
+      "name": "Computer Beats Champion in Chess Rematch. Newspaper Article. Weber",
+      "ref": "e51810a30",
+      "role": "tree item",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        313,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "e2a71b023",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        313,
+        489,
+        17
+      ],
+      "name": "Computer Beats Champion in Chess Rematch. Newspaper Article.",
+      "ref": "ec9da9096",
+      "role": "section",
+      "text": "Computer Beats Champion in Chess Rematch"
+    },
+    {
+      "bounds": [
+        741,
+        313,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "e2870d24a",
+      "role": "section",
+      "text": "Weber"
+    },
+    {
+      "bounds": [
+        208,
+        335,
+        707,
+        28
+      ],
+      "name": "Evolutionary Dynamics of Small Populations. Thesis. Franklin",
+      "ref": "ee8705f6b",
+      "role": "tree item",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        341,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "e059e7bcb",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        341,
+        489,
+        17
+      ],
+      "name": "Evolutionary Dynamics of Small Populations. Thesis.",
+      "ref": "ea7b3cd2e",
+      "role": "section",
+      "text": "Evolutionary Dynamics of Small Populations"
+    },
+    {
+      "bounds": [
+        741,
+        341,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "e0a0b27c3",
+      "role": "section",
+      "text": "Franklin"
+    },
+    {
+      "bounds": [
+        208,
+        363,
+        707,
+        28
+      ],
+      "name": "Example Corp. v. Sample Inc. (U.S.). Case.",
+      "ref": "ea0a39657",
+      "role": "tree item",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        369,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "e90d90e76",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        369,
+        489,
+        17
+      ],
+      "name": "Example Corp. v. Sample Inc. (U.S.). Case.",
+      "ref": "e95137b8b",
+      "role": "section",
+      "text": "Example Corp. v. Sample Inc. (U.S.)"
+    },
+    {
+      "bounds": [
+        208,
+        391,
+        707,
+        28
+      ],
+      "name": "Example Data Protection Act. Statute.",
+      "ref": "e0526c291",
+      "role": "tree item",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        397,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "e5536ebee",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        397,
+        489,
+        17
+      ],
+      "name": "Example Data Protection Act. Statute.",
+      "ref": "e19df318c",
+      "role": "section",
+      "text": "Example Data Protection Act"
+    },
+    {
+      "bounds": [
+        208,
+        419,
+        707,
+        28
+      ],
+      "name": "Example Sorter. Software. Hamilton",
+      "ref": "ea26b5c21",
+      "role": "tree item",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        425,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "ea113c50d",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        425,
+        489,
+        17
+      ],
+      "name": "Example Sorter. Software.",
+      "ref": "e25887ccc",
+      "role": "section",
+      "text": "Example Sorter"
+    },
+    {
+      "bounds": [
+        741,
+        425,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "e23025041",
+      "role": "section",
+      "text": "Hamilton"
+    },
+    {
+      "bounds": [
+        208,
+        447,
+        707,
+        28
+      ],
+      "name": "Garbage Collection Handbook Companion Site. Web Page. Jones",
+      "ref": "eaf916676",
+      "role": "tree item",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        453,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "eb0d5ca9a",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        453,
+        489,
+        17
+      ],
+      "name": "Garbage Collection Handbook Companion Site. Web Page.",
+      "ref": "ee8deaf7d",
+      "role": "section",
+      "text": "Garbage Collection Handbook Companion Site"
+    },
+    {
+      "bounds": [
+        741,
+        453,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "e707f617f",
+      "role": "section",
+      "text": "Jones"
+    },
+    {
+      "bounds": [
+        208,
+        475,
+        707,
+        28
+      ],
+      "name": "Global Health Statistics. Report. World Health Organization",
+      "ref": "e0a97edf3",
+      "role": "tree item",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        481,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "e11e8f8f6",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        481,
+        489,
+        17
+      ],
+      "name": "Global Health Statistics. Report.",
+      "ref": "e3a1dfabd",
+      "role": "section",
+      "text": "Global Health Statistics"
+    },
+    {
+      "bounds": [
+        741,
+        481,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "e07c8c44d",
+      "role": "section",
+      "text": "World Health Organization"
+    },
+    {
+      "bounds": [
+        208,
+        503,
+        707,
+        28
+      ],
+      "name": "Global Temperature Anomalies 1880-2020. Dataset. Lab",
+      "ref": "e3fb880f9",
+      "role": "tree item",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        509,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "eaf69c2e2",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        509,
+        489,
+        17
+      ],
+      "name": "Global Temperature Anomalies 1880-2020. Dataset.",
+      "ref": "e29bf83e9",
+      "role": "section",
+      "text": "Global Temperature Anomalies 1880-2020"
+    },
+    {
+      "bounds": [
+        741,
+        509,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "e5326d0df",
+      "role": "section",
+      "text": "Lab"
+    },
+    {
+      "bounds": [
+        208,
+        531,
+        707,
+        28
+      ],
+      "name": "Letter to the Editor on Goto Statements. Letter. Dijkstra",
+      "ref": "ea475cce6",
+      "role": "tree item",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        537,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "e6f7e63f4",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        537,
+        489,
+        17
+      ],
+      "name": "Letter to the Editor on Goto Statements. Letter.",
+      "ref": "e67cfd642",
+      "role": "section",
+      "text": "Letter to the Editor on Goto Statements"
+    },
+    {
+      "bounds": [
+        741,
+        537,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "e97b80a56",
+      "role": "section",
+      "text": "Dijkstra"
+    },
+    {
+      "bounds": [
+        208,
+        559,
+        707,
+        28
+      ],
+      "name": "Method for Sorting Records Quickly. Patent. Hoare",
+      "ref": "eb9c0bdae",
+      "role": "tree item",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        565,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "ee531a1f2",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        565,
+        489,
+        17
+      ],
+      "name": "Method for Sorting Records Quickly. Patent.",
+      "ref": "ec0986a04",
+      "role": "section",
+      "text": "Method for Sorting Records Quickly"
+    },
+    {
+      "bounds": [
+        741,
+        565,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "e46f79723",
+      "role": "section",
+      "text": "Hoare"
+    },
+    {
+      "bounds": [
+        208,
+        587,
+        707,
+        28
+      ],
+      "name": "Molecular Structure of Nucleic Acids. Journal Article. Watson and Crick",
+      "ref": "e6032135b",
+      "role": "tree item",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        593,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "e8aa47583",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        593,
+        489,
+        17
+      ],
+      "name": "Molecular Structure of Nucleic Acids. Journal Article.",
+      "ref": "e59513d63",
+      "role": "section",
+      "text": "Molecular Structure of Nucleic Acids"
+    },
+    {
+      "bounds": [
+        741,
+        593,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "ee73ae766",
+      "role": "section",
+      "text": "Watson and Crick"
+    },
+    {
+      "bounds": [
+        208,
+        615,
+        707,
+        28
+      ],
+      "name": "Notes on Structured Programming. Book Section. Dijkstra",
+      "ref": "e1dc35b3e",
+      "role": "tree item",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        621,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "eb8b83adf",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        621,
+        489,
+        17
+      ],
+      "name": "Notes on Structured Programming. Book Section.",
+      "ref": "e4269e99a",
+      "role": "section",
+      "text": "Notes on Structured Programming"
+    },
+    {
+      "bounds": [
+        741,
+        621,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "e0aa0659e",
+      "role": "section",
+      "text": "Dijkstra"
+    },
+    {
+      "bounds": [
+        208,
+        643,
+        707,
+        28
+      ],
+      "name": "On Computable Numbers, with an Application to the Entscheidungsproblem. Journal Article. Turing",
+      "ref": "e49fe4db1",
+      "role": "tree item",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        649,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "e233a97ab",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        649,
+        489,
+        17
+      ],
+      "name": "On Computable Numbers, with an Application to the Entscheidungsproblem. Journal Article.",
+      "ref": "ef9cf3d92",
+      "role": "section",
+      "text": "On Computable Numbers, with an Application to the Entscheidungsproblem"
+    },
+    {
+      "bounds": [
+        741,
+        649,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "e1f532d8e",
+      "role": "section",
+      "text": "Turing"
+    },
+    {
+      "bounds": [
+        208,
+        671,
+        707,
+        28
+      ],
+      "name": "Programming with Abstract Data Types. Conference Paper. Liskov and Zilles",
+      "ref": "e417309f2",
+      "role": "tree item",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        677,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "e2297bfc0",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        677,
+        489,
+        17
+      ],
+      "name": "Programming with Abstract Data Types. Conference Paper.",
+      "ref": "ecce3fbdc",
+      "role": "section",
+      "text": "Programming with Abstract Data Types"
+    },
+    {
+      "bounds": [
+        741,
+        677,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "ef5705fb4",
+      "role": "section",
+      "text": "Liskov and Zilles"
+    },
+    {
+      "bounds": [
+        208,
+        699,
+        707,
+        28
+      ],
+      "name": "Quicksort. Encyclopedia Article. Hoare",
+      "ref": "eb0875f85",
+      "role": "tree item",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        705,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "eed1a2ec7",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        705,
+        489,
+        17
+      ],
+      "name": "Quicksort. Encyclopedia Article.",
+      "ref": "effb8f363",
+      "role": "section",
+      "text": "Quicksort"
+    },
+    {
+      "bounds": [
+        741,
+        705,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "e26f128d3",
+      "role": "section",
+      "text": "Hoare"
+    },
+    {
+      "bounds": [
+        208,
+        727,
+        707,
+        28
+      ],
+      "name": "Software Engineering: Report of a Conference. Report. Naur and Randell",
+      "ref": "eda7a5fef",
+      "role": "tree item",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        733,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "e7d41a0cb",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        733,
+        489,
+        17
+      ],
+      "name": "Software Engineering: Report of a Conference. Report.",
+      "ref": "ec183cffd",
+      "role": "section",
+      "text": "Software Engineering: Report of a Conference"
+    },
+    {
+      "bounds": [
+        741,
+        733,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "ecdbc59e3",
+      "role": "section",
+      "text": "Naur and Randell"
+    },
+    {
+      "bounds": [
+        208,
+        755,
+        707,
+        28
+      ],
+      "name": "Standalone note about sorting networks. Note.",
+      "ref": "e301019d6",
+      "role": "tree item",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        761,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "e621a74dd",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        761,
+        489,
+        17
+      ],
+      "name": "Standalone note about sorting networks. Note.",
+      "ref": "ed6bb2751",
+      "role": "section",
+      "text": "Standalone note about sorting networks."
+    },
+    {
+      "bounds": [
+        208,
+        783,
+        707,
+        28
+      ],
+      "name": "The Art of Computer Programming. Book. Knuth",
+      "ref": "e31986bcb",
+      "role": "tree item",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        789,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "ea94e3d75",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        789,
+        489,
+        17
+      ],
+      "name": "The Art of Computer Programming. Book.",
+      "ref": "ed9d733d2",
+      "role": "section",
+      "text": "The Art of Computer Programming"
+    },
+    {
+      "bounds": [
+        741,
+        789,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "ecde4377c",
+      "role": "section",
+      "text": "Knuth"
+    },
+    {
+      "bounds": [
+        208,
+        811,
+        707,
+        28
+      ],
+      "name": "The Imitation Game. Film. Tyldum",
+      "ref": "e0b92da48",
+      "role": "tree item",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        817,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "e4c3b2c8c",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        817,
+        489,
+        17
+      ],
+      "name": "The Imitation Game. Film.",
+      "ref": "ec68ac240",
+      "role": "section",
+      "text": "The Imitation Game"
+    },
+    {
+      "bounds": [
+        741,
+        817,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "e1e650bb4",
+      "role": "section",
+      "text": "Tyldum"
+    },
+    {
+      "bounds": [
+        208,
+        839,
+        707,
+        28
+      ],
+      "name": "The Origin of Species. Book. Darwin",
+      "ref": "e9d02fb2d",
+      "role": "tree item",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        845,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "ed760c240",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        845,
+        489,
+        17
+      ],
+      "name": "The Origin of Species. Book.",
+      "ref": "efe831a3f",
+      "role": "section",
+      "text": "The Origin of Species"
+    },
+    {
+      "bounds": [
+        741,
+        845,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "e66810b55",
+      "role": "section",
+      "text": "Darwin"
+    },
+    {
+      "bounds": [
+        208,
+        867,
+        707,
+        28
+      ],
+      "name": "Untitled Draft about Garden Birds. Document. Carson",
+      "ref": "e769be729",
+      "role": "tree item",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        873,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "e2de7cda5",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        873,
+        489,
+        17
+      ],
+      "name": "Untitled Draft about Garden Birds. Document.",
+      "ref": "ed66e414f",
+      "role": "section",
+      "text": "Untitled Draft about Garden Birds"
+    },
+    {
+      "bounds": [
+        741,
+        873,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "e95c5536b",
+      "role": "section",
+      "text": "Carson"
+    },
+    {
+      "bounds": [
+        1016,
+        486,
+        135,
+        17
+      ],
+      "name": "27 items in this view",
+      "ref": "e531fb581",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1243,
+        92,
+        37,
+        808
+      ],
+      "name": "",
+      "ref": "eddcc295f",
+      "role": "page tab list"
+    },
+    {
+      "bounds": [
+        1248,
+        98,
+        28,
+        28
+      ],
+      "name": "Toggle Item Pane",
+      "ref": "ed3eda971",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1248,
+        139,
+        28,
+        232
+      ],
+      "name": "Item Details",
+      "ref": "e5458cda9",
+      "role": "page tab",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        1248,
+        384,
+        28,
+        28
+      ],
+      "name": "Locate",
+      "ref": "e04b90509",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        290,
+        181,
+        700,
+        553
+      ],
+      "name": "RTF Scan",
+      "ref": "efec8c50e",
+      "role": "frame",
+      "states": [
+        "active"
+      ],
+      "text": "￼￼Your document has now been scanned and processed. Please ensure that it is formatted correctly.￼￼￼"
+    },
+    {
+      "bounds": [
+        310,
+        206,
+        660,
+        21
+      ],
+      "name": "RTF Scan Complete",
+      "ref": "e6b98e26b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        689,
+        679,
+        82,
+        23
+      ],
+      "name": "Cancel",
+      "ref": "e54e589c2",
+      "role": "push button",
+      "states": [
+        "focused"
+      ]
+    },
+    {
+      "bounds": [
+        781,
+        679,
+        82,
+        23
+      ],
+      "name": "Back",
+      "ref": "eeb47c162",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        873,
+        679,
+        82,
+        23
+      ],
+      "name": "Finish",
+      "ref": "e685849a6",
+      "role": "push button"
+    }
+  ],
+  "screen": [
+    1280,
+    900
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": false,
+      "bounds": [
+        0,
+        38,
+        1280,
+        881
+      ],
+      "ref": "wdde7c1e4",
+      "title": "My Library - Zotero"
+    },
+    {
+      "active": true,
+      "bounds": [
+        291,
+        201,
+        700,
+        553
+      ],
+      "ref": "w5e3c882e",
+      "title": "RTF Scan"
+    }
+  ]
+}

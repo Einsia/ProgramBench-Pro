@@ -1,0 +1,40 @@
+services:
+  main:
+    image: program-bench-komga-agent:1.0.0
+    pull_policy: never
+    cap_drop: [ALL]
+    cap_add: [CHOWN, FOWNER, DAC_OVERRIDE, SETUID, SETGID, KILL]
+    security_opt: [no-new-privileges:true]
+    environment:
+      PYTHONDONTWRITEBYTECODE: "1"
+      TMPDIR: /tmp
+    volumes:
+      - ${KOMGA_RPC_STORAGE:-blackbox-rpc}:/blackbox:ro
+      - ${KOMGA_AGENT_TMP:-agent-tmp}:/tmp
+      - ${KOMGA_AGENT_EXCHANGE:-agent-exchange}:/exchange
+  blackbox:
+    image: program-bench-komga-reference:1.0.0
+    pull_policy: never
+    network_mode: none
+    cap_drop: [ALL]
+    cap_add: [CHOWN, FOWNER, DAC_OVERRIDE, SETUID, SETGID, KILL]
+    security_opt: [no-new-privileges:true]
+    cpus: 2
+    mem_limit: 8g
+    pids_limit: 2048
+    shm_size: 1g
+    environment:
+      HOME: /reference/home
+      XDG_CACHE_HOME: /reference/cache
+    volumes:
+      - ${KOMGA_REFERENCE_STORAGE:-reference-state}:/reference
+      - ${KOMGA_REFERENCE_TMP:-reference-tmp}:/tmp
+      - ${KOMGA_RPC_STORAGE:-blackbox-rpc}:/blackbox
+      - ${KOMGA_REFERENCE_EXCHANGE:-reference-exchange}:/exchange
+volumes:
+  blackbox-rpc:
+  agent-tmp:
+  reference-state:
+  reference-tmp:
+  agent-exchange:
+  reference-exchange:

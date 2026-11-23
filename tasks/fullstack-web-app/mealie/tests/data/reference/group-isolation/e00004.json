@@ -1,0 +1,153 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        4,
+        0,
+        48,
+        48
+      ],
+      "ref": "e11102633781375530811",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        52,
+        0,
+        48,
+        48
+      ],
+      "href": "/g/home",
+      "ref": "e6999663049315888676",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        52,
+        0,
+        48,
+        48
+      ],
+      "ref": "e11102632681863902600",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        964,
+        4,
+        214,
+        40
+      ],
+      "placeholder": "Press '/'",
+      "ref": "e8266481313866675366",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1178,
+        6,
+        98,
+        36
+      ],
+      "ref": "e18428108610740647529",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        0,
+        48,
+        255,
+        64
+      ],
+      "href": "/user/profile",
+      "ref": "e2152258355337920459",
+      "role": null,
+      "tag": "a",
+      "text": "Cabin Cook"
+    },
+    {
+      "bounds": [
+        8,
+        121,
+        239,
+        44
+      ],
+      "href": "/g/home",
+      "ref": "e18093976238526241986",
+      "role": "link",
+      "tag": "a",
+      "text": "Recipes"
+    },
+    {
+      "bounds": [
+        8,
+        165,
+        239,
+        44
+      ],
+      "href": "/g/home/recipes/finder",
+      "ref": "e7707295927814897631",
+      "role": "link",
+      "tag": "a",
+      "text": "Recipe Finder"
+    },
+    {
+      "bounds": [
+        8,
+        800,
+        239,
+        44
+      ],
+      "ref": "e7515112489125091175",
+      "role": "listitem",
+      "tag": "div",
+      "text": "1\nAnnouncements"
+    },
+    {
+      "bounds": [
+        8,
+        848,
+        239,
+        44
+      ],
+      "expanded": false,
+      "ref": "e9453406036293201081",
+      "role": "listitem",
+      "tag": "div",
+      "text": "Settings"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Mealie\nLogout\nCabin Cook\nRecipes\nRecipe Finder\n1\nAnnouncements\nSettings",
+  "text_truncated": false,
+  "title": "Mealie",
+  "url": "/g/home/r/home-secret",
+  "viewport": [
+    1280,
+    900
+  ]
+}

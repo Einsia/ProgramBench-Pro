@@ -1,0 +1,823 @@
+{
+  "controls": [
+    {
+      "aria": "Skip to content",
+      "bounds": [
+        16,
+        -80,
+        145,
+        39
+      ],
+      "offscreen": true,
+      "ref": "e798",
+      "role": null,
+      "tag": "button",
+      "text": "SKIP TO CONTENT",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        5,
+        0,
+        48,
+        48
+      ],
+      "ref": "e799",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Close menu",
+      "type": "button"
+    },
+    {
+      "aria": "Refresh",
+      "bounds": [
+        1072,
+        0,
+        48,
+        48
+      ],
+      "ref": "e800",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Refresh",
+      "type": "button"
+    },
+    {
+      "aria": "Now Playing",
+      "bounds": [
+        1120,
+        2,
+        44,
+        44
+      ],
+      "ref": "e801",
+      "role": null,
+      "tag": "button",
+      "text": "0",
+      "title": "Now Playing",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1164,
+        2,
+        44,
+        44
+      ],
+      "ref": "e802",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Activity",
+      "type": "button"
+    },
+    {
+      "aria": "Settings",
+      "bounds": [
+        1208,
+        0,
+        48,
+        48
+      ],
+      "ref": "e803",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Settings",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        0,
+        56,
+        240,
+        36
+      ],
+      "ref": "e804",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "Albums"
+    },
+    {
+      "bounds": [
+        0,
+        92,
+        240,
+        36
+      ],
+      "href": "/app/#/album/all",
+      "ref": "e805",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        0,
+        128,
+        240,
+        36
+      ],
+      "href": "/app/#/album/random",
+      "ref": "e806",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Random"
+    },
+    {
+      "bounds": [
+        0,
+        164,
+        240,
+        36
+      ],
+      "href": "/app/#/album/starred",
+      "ref": "e807",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Favourites"
+    },
+    {
+      "bounds": [
+        0,
+        200,
+        240,
+        36
+      ],
+      "href": "/app/#/album/topRated",
+      "ref": "e808",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Top Rated"
+    },
+    {
+      "bounds": [
+        0,
+        236,
+        240,
+        36
+      ],
+      "href": "/app/#/album/recentlyAdded",
+      "ref": "e809",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Recently Added"
+    },
+    {
+      "bounds": [
+        0,
+        272,
+        240,
+        36
+      ],
+      "href": "/app/#/album/recentlyPlayed",
+      "ref": "e810",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Recently Played"
+    },
+    {
+      "bounds": [
+        0,
+        308,
+        240,
+        36
+      ],
+      "href": "/app/#/album/mostPlayed",
+      "ref": "e811",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Most Played"
+    },
+    {
+      "bounds": [
+        0,
+        344,
+        240,
+        36
+      ],
+      "href": "/app/#/artist",
+      "ref": "e812",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Artists"
+    },
+    {
+      "bounds": [
+        0,
+        380,
+        240,
+        36
+      ],
+      "href": "/app/#/song",
+      "ref": "e813",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Songs"
+    },
+    {
+      "bounds": [
+        0,
+        416,
+        240,
+        36
+      ],
+      "href": "/app/#/radio",
+      "ref": "e814",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Radios"
+    },
+    {
+      "bounds": [
+        0,
+        452,
+        240,
+        36
+      ],
+      "href": "/app/#/share",
+      "ref": "e815",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Shares"
+    },
+    {
+      "bounds": [
+        0,
+        489,
+        240,
+        38
+      ],
+      "ref": "e816",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "Playlists"
+    },
+    {
+      "bounds": [
+        0,
+        527,
+        240,
+        36
+      ],
+      "href": "/app/#/playlist/5UuBRtFduZo3iBxempwIkx/show",
+      "ref": "e817",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Favourites"
+    },
+    {
+      "aria": "love",
+      "bounds": [
+        676,
+        89,
+        30,
+        30
+      ],
+      "ref": "e818",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        517,
+        124,
+        76,
+        17
+      ],
+      "href": "/app/#/artist/2w8Ikt7VvPP85g6C77CheR/show",
+      "ref": "e819",
+      "role": null,
+      "tag": "a",
+      "text": "Beta Band"
+    },
+    {
+      "bounds": [
+        516,
+        188,
+        1,
+        1
+      ],
+      "checked": false,
+      "label": "1 Star",
+      "name": "0wtvziuSsVW0my60n6PD9D",
+      "ref": "e820",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        516,
+        188,
+        1,
+        1
+      ],
+      "checked": false,
+      "label": "2 Stars",
+      "name": "0wtvziuSsVW0my60n6PD9D",
+      "ref": "e821",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "2"
+    },
+    {
+      "bounds": [
+        516,
+        188,
+        1,
+        1
+      ],
+      "checked": false,
+      "label": "3 Stars",
+      "name": "0wtvziuSsVW0my60n6PD9D",
+      "ref": "e822",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "3"
+    },
+    {
+      "bounds": [
+        516,
+        188,
+        1,
+        1
+      ],
+      "checked": false,
+      "label": "4 Stars",
+      "name": "0wtvziuSsVW0my60n6PD9D",
+      "ref": "e823",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "4"
+    },
+    {
+      "bounds": [
+        516,
+        188,
+        1,
+        1
+      ],
+      "checked": false,
+      "label": "5 Stars",
+      "name": "0wtvziuSsVW0my60n6PD9D",
+      "ref": "e824",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "5"
+    },
+    {
+      "bounds": [
+        516,
+        188,
+        1,
+        1
+      ],
+      "checked": true,
+      "label": "Empty",
+      "name": "0wtvziuSsVW0my60n6PD9D",
+      "ref": "e825",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": ""
+    },
+    {
+      "bounds": [
+        517,
+        201,
+        89,
+        40
+      ],
+      "href": "/app/#/album?filter={%22genre_id%22:[%227bLYq0Np81m1Wgy5N31nuG%22]}&order=ASC&sort=name&perPage=18",
+      "ref": "e826",
+      "role": null,
+      "tag": "a",
+      "text": "Electronic"
+    },
+    {
+      "bounds": [
+        521,
+        205,
+        81,
+        32
+      ],
+      "ref": "e827",
+      "role": "button",
+      "tag": "div",
+      "text": "Electronic"
+    },
+    {
+      "aria": "Play",
+      "bounds": [
+        245,
+        352,
+        70,
+        31
+      ],
+      "focused": true,
+      "ref": "e828",
+      "role": null,
+      "tag": "button",
+      "text": "PLAY",
+      "type": "button"
+    },
+    {
+      "aria": "Shuffle",
+      "bounds": [
+        315,
+        352,
+        98,
+        31
+      ],
+      "ref": "e829",
+      "role": null,
+      "tag": "button",
+      "text": "SHUFFLE",
+      "type": "button"
+    },
+    {
+      "aria": "Play Next",
+      "bounds": [
+        414,
+        352,
+        110,
+        31
+      ],
+      "ref": "e830",
+      "role": null,
+      "tag": "button",
+      "text": "PLAY NEXT",
+      "type": "button"
+    },
+    {
+      "aria": "Play Later",
+      "bounds": [
+        524,
+        352,
+        117,
+        31
+      ],
+      "ref": "e831",
+      "role": null,
+      "tag": "button",
+      "text": "PLAY LATER",
+      "type": "button"
+    },
+    {
+      "aria": "Add to Playlist",
+      "bounds": [
+        641,
+        352,
+        154,
+        31
+      ],
+      "ref": "e832",
+      "role": null,
+      "tag": "button",
+      "text": "ADD TO PLAYLIST",
+      "type": "button"
+    },
+    {
+      "aria": "Share",
+      "bounds": [
+        795,
+        352,
+        83,
+        31
+      ],
+      "ref": "e833",
+      "role": null,
+      "tag": "button",
+      "text": "SHARE",
+      "type": "button"
+    },
+    {
+      "aria": "Download (62.76 KB)",
+      "bounds": [
+        878,
+        352,
+        186,
+        31
+      ],
+      "ref": "e834",
+      "role": null,
+      "tag": "button",
+      "text": "DOWNLOAD (62.76 KB)",
+      "type": "button"
+    },
+    {
+      "aria": "Refresh Metadata",
+      "bounds": [
+        1064,
+        353,
+        30,
+        28
+      ],
+      "ref": "e835",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "aria": "more",
+      "bounds": [
+        1208,
+        344,
+        48,
+        48
+      ],
+      "ref": "e836",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "aria": "Unselect",
+      "bounds": [
+        260,
+        394,
+        26,
+        28
+      ],
+      "ref": "e837",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Unselect",
+      "type": "button"
+    },
+    {
+      "aria": "Play Now",
+      "bounds": [
+        661,
+        392,
+        107,
+        31
+      ],
+      "ref": "e838",
+      "role": null,
+      "tag": "button",
+      "text": "PLAY NOW",
+      "type": "button"
+    },
+    {
+      "aria": "Play Next",
+      "bounds": [
+        768,
+        392,
+        110,
+        31
+      ],
+      "ref": "e839",
+      "role": null,
+      "tag": "button",
+      "text": "PLAY NEXT",
+      "type": "button"
+    },
+    {
+      "aria": "Play Later",
+      "bounds": [
+        878,
+        392,
+        117,
+        31
+      ],
+      "ref": "e840",
+      "role": null,
+      "tag": "button",
+      "text": "PLAY LATER",
+      "type": "button"
+    },
+    {
+      "aria": "Share",
+      "bounds": [
+        995,
+        392,
+        83,
+        31
+      ],
+      "ref": "e841",
+      "role": null,
+      "tag": "button",
+      "text": "SHARE",
+      "type": "button"
+    },
+    {
+      "aria": "Add to Playlist",
+      "bounds": [
+        1078,
+        392,
+        154,
+        31
+      ],
+      "ref": "e842",
+      "role": null,
+      "tag": "button",
+      "text": "ADD TO PLAYLIST",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        261,
+        424,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e843",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        261,
+        531,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e844",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        523,
+        535,
+        67,
+        16
+      ],
+      "href": "/app/#/artist/2w8Ikt7VvPP85g6C77CheR/show",
+      "ref": "e845",
+      "role": null,
+      "tag": "a",
+      "text": "Beta Band"
+    },
+    {
+      "bounds": [
+        261,
+        570,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e846",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        523,
+        574,
+        67,
+        16
+      ],
+      "href": "/app/#/artist/2w8Ikt7VvPP85g6C77CheR/show",
+      "ref": "e847",
+      "role": null,
+      "tag": "a",
+      "text": "Beta Band"
+    },
+    {
+      "bounds": [
+        261,
+        670,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e848",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        523,
+        674,
+        67,
+        16
+      ],
+      "href": "/app/#/artist/2w8Ikt7VvPP85g6C77CheR/show",
+      "ref": "e849",
+      "role": null,
+      "tag": "a",
+      "text": "Beta Band"
+    },
+    {
+      "bounds": [
+        100,
+        829,
+        453,
+        40
+      ],
+      "href": "/app/#/album/0wtvziuSsVW0my60n6PD9D/show",
+      "ref": "e850",
+      "role": null,
+      "tag": "a",
+      "text": "Reprise\nFLAC\nBeta Band - Second Album - 2010"
+    },
+    {
+      "bounds": [
+        496,
+        877,
+        14,
+        14
+      ],
+      "ref": "e851",
+      "role": "slider",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "bounds": [
+        787,
+        840,
+        40,
+        40
+      ],
+      "ref": "e852",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        835,
+        840,
+        40,
+        40
+      ],
+      "disabled": true,
+      "ref": "e853",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1019,
+        853,
+        14,
+        14
+      ],
+      "ref": "e854",
+      "role": "slider",
+      "tag": "div",
+      "text": ""
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    980
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "SKIP TO CONTENT\nNavidrome - Second Album\n0\nAlbums\nAll\nRandom\nFavourites\nTop Rated\nRecently Added\nRecently Played\nMost Played\nArtists\nSongs\nRadios\nShares\nPlaylists\nFavourites\nSecond Album\nBeta Band\n2010 · 3 Songs · 00:04 · 62.76 KB\n1 Star\n2 Stars\n3 Stars\n4 Stars\n5 Stars\nEmpty\nElectronic\nPLAY\nSHUFFLE\nPLAY NEXT\nPLAY LATER\nADD TO PLAYLIST\nSHARE\nDOWNLOAD (62.76 KB)\n0 items selected\nPLAY NOW\nPLAY NEXT\nPLAY LATER\nSHARE\nADD TO PLAYLIST\n\t#\tTitle\tArtist\tTime\tQuality\tRating\t\n\nDisc 1\n\t\n\n\t1\tIntro\t\nBeta Band\n\t00:01\t\nFLAC\n\t\t\n\n\t2\tDrift\t\nBeta Band\n\t00:02\t\nFLAC\n\t\t\n\nDisc 2\n\t\n\n\t1\tReprise\t\nBeta Band\n\t00:01\t\nFLAC\n\t\t\nReprise\nFLAC\nBeta Band - Second Album - 2010\n00:01\n00:01\n3\nPlay Queue /\n3\nIntro\nBeta Band\nDrift\nBeta Band\nReprise\nBeta Band",
+  "text_truncated": false,
+  "title": "Navidrome",
+  "url": "/app/#/album/0wtvziuSsVW0my60n6PD9D/show",
+  "viewport": [
+    1280,
+    900
+  ]
+}

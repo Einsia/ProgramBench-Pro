@@ -1,0 +1,1456 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        218,
+        45,
+        795,
+        850
+      ],
+      "ref": "canvas0",
+      "tag": "canvas"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        1247,
+        7,
+        26,
+        26
+      ],
+      "context": "+ arrow",
+      "ref": "ee3b4c694",
+      "tag": "a",
+      "text": "+",
+      "title": "Create a new sprite"
+    },
+    {
+      "bounds": [
+        5,
+        207,
+        20,
+        20
+      ],
+      "context": "Pen size from 1 to 4 pixels",
+      "ref": "ed68283c8",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        27,
+        207,
+        20,
+        20
+      ],
+      "context": "Pen size from 1 to 4 pixels",
+      "ref": "ed68283c8x2",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        49,
+        207,
+        20,
+        20
+      ],
+      "context": "Pen size from 1 to 4 pixels",
+      "ref": "ed68283c8x3",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        71,
+        207,
+        20,
+        20
+      ],
+      "context": "Pen size from 1 to 4 pixels",
+      "ref": "ed68283c8x4",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        1,
+        233,
+        46,
+        46
+      ],
+      "ref": "efdd84e9f",
+      "tag": "li",
+      "title": "Pen tool (P)"
+    },
+    {
+      "bounds": [
+        49,
+        233,
+        46,
+        46
+      ],
+      "ref": "ecd960a1e",
+      "tag": "li",
+      "title": "Vertical Mirror pen (V) CTRL Use horizontal axis SHIFT Use horizontal and vertical axis"
+    },
+    {
+      "bounds": [
+        1,
+        281,
+        46,
+        46
+      ],
+      "ref": "eacf15eda",
+      "tag": "li",
+      "title": "Paint bucket tool (B)"
+    },
+    {
+      "bounds": [
+        49,
+        281,
+        46,
+        46
+      ],
+      "ref": "e7d8f376b",
+      "tag": "li",
+      "title": "Paint all pixels of the same color (A) CTRL Apply to all layers SHIFT Apply to all frames"
+    },
+    {
+      "bounds": [
+        1,
+        329,
+        46,
+        46
+      ],
+      "ref": "ef66d1151",
+      "tag": "li",
+      "title": "Eraser tool (E)"
+    },
+    {
+      "bounds": [
+        49,
+        329,
+        46,
+        46
+      ],
+      "ref": "e51d99cc5",
+      "tag": "li",
+      "title": "Stroke tool (L) SHIFT Hold shift to draw straight lines"
+    },
+    {
+      "bounds": [
+        1,
+        377,
+        46,
+        46
+      ],
+      "ref": "eea0e011a",
+      "tag": "li",
+      "title": "Rectangle tool (R) SHIFT Keep 1 to 1 ratio"
+    },
+    {
+      "bounds": [
+        49,
+        377,
+        46,
+        46
+      ],
+      "ref": "e6e4335ca",
+      "tag": "li",
+      "title": "Circle tool (C) SHIFT Keep 1 to 1 ratio"
+    },
+    {
+      "bounds": [
+        1,
+        425,
+        46,
+        46
+      ],
+      "ref": "e3d3c859b",
+      "tag": "li",
+      "title": "Move tool (M) CTRL Apply to all layers SHIFT Apply to all frames ALT Wrap canvas borders"
+    },
+    {
+      "bounds": [
+        49,
+        425,
+        46,
+        46
+      ],
+      "ref": "e5c69c72e",
+      "tag": "li",
+      "title": "Shape selection (Z) Drag the selection to move it. You may switch to other layers and frames. CTRL+C Copy the selected area CTRL+V Paste the copied area SHIFT Hold to move the content"
+    },
+    {
+      "bounds": [
+        1,
+        473,
+        46,
+        46
+      ],
+      "ref": "ef1b332fd",
+      "tag": "li",
+      "title": "Rectangle selection (S) Drag the selection to move it. You may switch to other layers and frames. CTRL+C Copy the selected area CTRL+V Paste the copied area SHIFT Hold to move the content"
+    },
+    {
+      "bounds": [
+        49,
+        473,
+        46,
+        46
+      ],
+      "ref": "ef8a426dd",
+      "tag": "li",
+      "title": "Lasso selection (H) Drag the selection to move it. You may switch to other layers and frames. CTRL+C Copy the selected area CTRL+V Paste the copied area SHIFT Hold to move the content"
+    },
+    {
+      "bounds": [
+        1,
+        521,
+        46,
+        46
+      ],
+      "ref": "e97a17ab6",
+      "tag": "li",
+      "title": "Lighten (U) CTRL Darken SHIFT Apply only once per pixel"
+    },
+    {
+      "bounds": [
+        49,
+        521,
+        46,
+        46
+      ],
+      "ref": "e00581728",
+      "tag": "li",
+      "title": "Dithering tool (T)"
+    },
+    {
+      "bounds": [
+        1,
+        569,
+        46,
+        46
+      ],
+      "ref": "e322085a6",
+      "tag": "li",
+      "title": "Color picker (O)"
+    },
+    {
+      "bounds": [
+        11,
+        627,
+        46,
+        46
+      ],
+      "ref": "e6f774dff",
+      "tag": "div",
+      "title": "Primary - left mouse button #000000"
+    },
+    {
+      "bounds": [
+        38,
+        651,
+        46,
+        46
+      ],
+      "ref": "efacdd56a",
+      "tag": "div",
+      "title": "Secondary - right mouse button rgba(0, 0, 0, 0)"
+    },
+    {
+      "bounds": [
+        16,
+        676,
+        18,
+        18
+      ],
+      "ref": "ea648bef7",
+      "tag": "div",
+      "title": "Swap colors (X)"
+    },
+    {
+      "bounds": [
+        103,
+        48,
+        30,
+        30
+      ],
+      "context": "1 Add new frame",
+      "ref": "eaa038e75",
+      "tag": "button",
+      "text": "1",
+      "title": "Toggle for preview"
+    },
+    {
+      "bounds": [
+        100,
+        155,
+        102,
+        50
+      ],
+      "context": "1 Add new frame",
+      "ref": "eb3c80823",
+      "tag": "div",
+      "text": "Add new frame"
+    },
+    {
+      "bounds": [
+        1023,
+        245,
+        36,
+        26
+      ],
+      "context": "12 FPS | 1x 25x | 1x 25x 12 FPS | 1x 25x 12 FPS Layers | 1 Add new frame 1x 25x",
+      "ref": "eff30abad",
+      "tag": "div",
+      "title": "Toggle onion skin (alt+O)"
+    },
+    {
+      "bounds": [
+        1119,
+        245,
+        100,
+        26
+      ],
+      "context": "12 FPS | 1x 25x | 1x 25x 12 FPS | 1x 25x 12 FPS Layers | 1 Add new frame 1x 25x",
+      "editable": false,
+      "label": "12 FPS",
+      "ref": "e7cc5f084",
+      "tag": "input",
+      "type": "range",
+      "value": "12"
+    },
+    {
+      "bounds": [
+        1191,
+        284,
+        20,
+        20
+      ],
+      "context": "Layers | Layers Layer 1 α | 1x 25x 12 FPS Layers | 1 Add new frame 1x 25x",
+      "ref": "e887c54fb",
+      "tag": "div",
+      "title": "Preview all layers (alt+L) Opacity defined in PREFERENCES"
+    },
+    {
+      "bounds": [
+        1025,
+        311,
+        33,
+        24
+      ],
+      "context": "Layers | Layers Layer 1 α | 1x 25x 12 FPS Layers | 1 Add new frame 1x 25x",
+      "ref": "e596d36ba",
+      "tag": "button",
+      "title": "Create a layer SHIFT Clone current layer"
+    },
+    {
+      "bounds": [
+        1058,
+        311,
+        33,
+        24
+      ],
+      "context": "Layers | Layers Layer 1 α | 1x 25x 12 FPS Layers | 1 Add new frame 1x 25x",
+      "disabled": true,
+      "ref": "eaf2b9576",
+      "tag": "button",
+      "title": "Move layer up SHIFT Move to the top"
+    },
+    {
+      "bounds": [
+        1090,
+        311,
+        33,
+        24
+      ],
+      "context": "Layers | Layers Layer 1 α | 1x 25x 12 FPS Layers | 1 Add new frame 1x 25x",
+      "disabled": true,
+      "ref": "e85f653f1",
+      "tag": "button",
+      "title": "Move layer down SHIFT Move to the bottom"
+    },
+    {
+      "bounds": [
+        1123,
+        311,
+        33,
+        24
+      ],
+      "context": "Layers | Layers Layer 1 α | 1x 25x 12 FPS Layers | 1 Add new frame 1x 25x",
+      "ref": "e60aba5cd",
+      "tag": "button",
+      "title": "Edit layer name"
+    },
+    {
+      "bounds": [
+        1156,
+        311,
+        33,
+        24
+      ],
+      "context": "Layers | Layers Layer 1 α | 1x 25x 12 FPS Layers | 1 Add new frame 1x 25x",
+      "disabled": true,
+      "ref": "ef9e8fbcd",
+      "tag": "button",
+      "title": "Merge with layer below"
+    },
+    {
+      "bounds": [
+        1188,
+        311,
+        33,
+        24
+      ],
+      "context": "Layers | Layers Layer 1 α | 1x 25x 12 FPS Layers | 1 Add new frame 1x 25x",
+      "disabled": true,
+      "ref": "e00bf0e00",
+      "tag": "button",
+      "title": "Delete selected layer"
+    },
+    {
+      "bounds": [
+        1025,
+        336,
+        196,
+        25
+      ],
+      "context": "Layers Layer 1 α | 1x 25x 12 FPS Layers | 1 Add new frame 1x 25x",
+      "ref": "ec865a257",
+      "tag": "li",
+      "text": "Layer 1 α"
+    },
+    {
+      "bounds": [
+        1198,
+        337,
+        23,
+        24
+      ],
+      "context": "Layer 1 α | Layers Layer 1 α | 1x 25x 12 FPS Layers",
+      "ref": "e8360725f",
+      "tag": "span",
+      "text": "α",
+      "title": "Layer opacity (1)"
+    },
+    {
+      "bounds": [
+        1198,
+        380,
+        15,
+        15
+      ],
+      "context": "Transform | 1x 25x 12 FPS Layers | 1 Add new frame 1x 25x",
+      "ref": "e1e87edc5",
+      "tag": "span",
+      "title": "View more tools"
+    },
+    {
+      "bounds": [
+        1025,
+        404,
+        46,
+        46
+      ],
+      "context": "Transform | 1x 25x 12 FPS Layers | 1 Add new frame 1x 25x",
+      "ref": "e140f1b13",
+      "tag": "li",
+      "title": "Flip vertically ALT Flip horizontally CTRL Apply to all layers SHIFT Apply to all frames"
+    },
+    {
+      "bounds": [
+        1075,
+        404,
+        46,
+        46
+      ],
+      "context": "Transform | 1x 25x 12 FPS Layers | 1 Add new frame 1x 25x",
+      "ref": "e98f349f0",
+      "tag": "li",
+      "title": "Counter-clockwise rotation ALT Clockwise rotation CTRL Apply to all layers SHIFT Apply to all frames"
+    },
+    {
+      "bounds": [
+        1125,
+        404,
+        46,
+        46
+      ],
+      "context": "Transform | 1x 25x 12 FPS Layers | 1 Add new frame 1x 25x",
+      "ref": "e25ba032e",
+      "tag": "li",
+      "title": "Clone current layer to all frames"
+    },
+    {
+      "bounds": [
+        1175,
+        404,
+        46,
+        46
+      ],
+      "context": "Transform | 1x 25x 12 FPS Layers | 1 Add new frame 1x 25x",
+      "ref": "e0de22649",
+      "tag": "li",
+      "title": "Align image to the center CTRL Apply to all layers SHIFT Apply to all frames"
+    },
+    {
+      "bounds": [
+        1025,
+        492,
+        33,
+        24
+      ],
+      "context": "Palettes | Transform | 1x 25x 12 FPS Layers | 1 Add new frame 1x 25x",
+      "ref": "ed4a7f1ba",
+      "tag": "button",
+      "title": "Create a new palette"
+    },
+    {
+      "bounds": [
+        1058,
+        492,
+        131,
+        24
+      ],
+      "context": "Palettes | Transform | 1x 25x 12 FPS Layers | 1 Add new frame 1x 25x",
+      "editable": false,
+      "group": "Palettes",
+      "options": [
+        {
+          "label": "Current colors",
+          "selected": true,
+          "value": "__current-colors"
+        }
+      ],
+      "ref": "ed6b5b995",
+      "tag": "select",
+      "value": "__current-colors"
+    },
+    {
+      "bounds": [
+        1188,
+        492,
+        33,
+        24
+      ],
+      "context": "Palettes | Transform | 1x 25x 12 FPS Layers | 1 Add new frame 1x 25x",
+      "ref": "e32c339ea",
+      "tag": "button",
+      "title": "Manage this palette"
+    },
+    {
+      "bounds": [
+        1030,
+        522,
+        33,
+        32
+      ],
+      "context": "Palettes | Transform | 1x 25x 12 FPS Layers | 1 Add new frame 1x 25x",
+      "ref": "e8ce4ff66",
+      "tag": "div",
+      "title": "#FF0000"
+    },
+    {
+      "bounds": [
+        1068,
+        522,
+        33,
+        32
+      ],
+      "context": "Palettes | Transform | 1x 25x 12 FPS Layers | 1 Add new frame 1x 25x",
+      "ref": "ecdd31546",
+      "tag": "div",
+      "title": "#00FF00"
+    },
+    {
+      "bounds": [
+        1106,
+        522,
+        33,
+        32
+      ],
+      "context": "Palettes | Transform | 1x 25x 12 FPS Layers | 1 Add new frame 1x 25x",
+      "ref": "edaa96226",
+      "tag": "div",
+      "title": "#0000FF"
+    },
+    {
+      "bounds": [
+        1234,
+        331,
+        46,
+        46
+      ],
+      "context": "+ arrow",
+      "ref": "eafdd19fe",
+      "tag": "div",
+      "title": "PREFERENCES"
+    },
+    {
+      "bounds": [
+        1234,
+        379,
+        46,
+        46
+      ],
+      "context": "+ arrow",
+      "ref": "e7a8c4910",
+      "tag": "div",
+      "title": "RESIZE Resize the drawing area"
+    },
+    {
+      "bounds": [
+        1234,
+        427,
+        46,
+        46
+      ],
+      "context": "+ arrow",
+      "ref": "ed5f5133b",
+      "tag": "div",
+      "title": "SAVE Save to your gallery, save locally or export as a file"
+    },
+    {
+      "bounds": [
+        1234,
+        475,
+        46,
+        46
+      ],
+      "context": "+ arrow",
+      "ref": "e00fe2d91",
+      "tag": "div",
+      "title": "EXPORT Export as Image, as Spritesheet or as Animated GIF"
+    },
+    {
+      "bounds": [
+        1234,
+        523,
+        46,
+        46
+      ],
+      "context": "+ arrow",
+      "ref": "eb518cc17",
+      "tag": "div",
+      "title": "IMPORT Import an existing image, an animated GIF or a .piskel file"
+    },
+    {
+      "bounds": [
+        1100,
+        53,
+        17,
+        45
+      ],
+      "context": "Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "ebda09613",
+      "tag": "span",
+      "text": "X"
+    },
+    {
+      "bounds": [
+        202,
+        168,
+        260,
+        30
+      ],
+      "context": "P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "e40a02368",
+      "tag": "li",
+      "text": "P Pen tool"
+    },
+    {
+      "bounds": [
+        242,
+        168,
+        35,
+        30
+      ],
+      "context": "P Pen tool | P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "ec937e08d",
+      "tag": "span",
+      "text": "P",
+      "title": "Click to edit the key"
+    },
+    {
+      "bounds": [
+        202,
+        208,
+        260,
+        30
+      ],
+      "context": "P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "e47af220f",
+      "tag": "li",
+      "text": "V Vertical mirror pen tool"
+    },
+    {
+      "bounds": [
+        242,
+        208,
+        35,
+        30
+      ],
+      "context": "V Vertical mirror pen tool | P Pen tool | P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "e60ce3791",
+      "tag": "span",
+      "text": "V",
+      "title": "Click to edit the key"
+    },
+    {
+      "bounds": [
+        202,
+        248,
+        260,
+        30
+      ],
+      "context": "P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "e8319740f",
+      "tag": "li",
+      "text": "B Paint bucket tool"
+    },
+    {
+      "bounds": [
+        242,
+        248,
+        35,
+        30
+      ],
+      "context": "B Paint bucket tool | V Vertical mirror pen tool | P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "ebe706f40",
+      "tag": "span",
+      "text": "B",
+      "title": "Click to edit the key"
+    },
+    {
+      "bounds": [
+        202,
+        288,
+        260,
+        30
+      ],
+      "context": "P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "e9c17604d",
+      "tag": "li",
+      "text": "A Magic bucket tool"
+    },
+    {
+      "bounds": [
+        242,
+        288,
+        35,
+        30
+      ],
+      "context": "A Magic bucket tool | B Paint bucket tool | P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "efc9762b3",
+      "tag": "span",
+      "text": "A",
+      "title": "Click to edit the key"
+    },
+    {
+      "bounds": [
+        202,
+        328,
+        260,
+        30
+      ],
+      "context": "P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "ea675027d",
+      "tag": "li",
+      "text": "E Eraser pen tool"
+    },
+    {
+      "bounds": [
+        242,
+        328,
+        35,
+        30
+      ],
+      "context": "E Eraser pen tool | A Magic bucket tool | P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "ec53df0f1",
+      "tag": "span",
+      "text": "E",
+      "title": "Click to edit the key"
+    },
+    {
+      "bounds": [
+        202,
+        368,
+        260,
+        30
+      ],
+      "context": "P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "ebdf02517",
+      "tag": "li",
+      "text": "L Stroke tool"
+    },
+    {
+      "bounds": [
+        242,
+        368,
+        35,
+        30
+      ],
+      "context": "L Stroke tool | E Eraser pen tool | P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "e0f74470c",
+      "tag": "span",
+      "text": "L",
+      "title": "Click to edit the key"
+    },
+    {
+      "bounds": [
+        202,
+        408,
+        260,
+        30
+      ],
+      "context": "P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "ed5864f38",
+      "tag": "li",
+      "text": "R Rectangle tool"
+    },
+    {
+      "bounds": [
+        242,
+        408,
+        35,
+        30
+      ],
+      "context": "R Rectangle tool | L Stroke tool | P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "ecac02fd9",
+      "tag": "span",
+      "text": "R",
+      "title": "Click to edit the key"
+    },
+    {
+      "bounds": [
+        202,
+        448,
+        260,
+        30
+      ],
+      "context": "P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "eafeee370",
+      "tag": "li",
+      "text": "C Circle tool"
+    },
+    {
+      "bounds": [
+        242,
+        448,
+        35,
+        30
+      ],
+      "context": "C Circle tool | R Rectangle tool | P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "e9180c15b",
+      "tag": "span",
+      "text": "C",
+      "title": "Click to edit the key"
+    },
+    {
+      "bounds": [
+        202,
+        488,
+        260,
+        30
+      ],
+      "context": "P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "e12369c5b",
+      "tag": "li",
+      "text": "M Move tool"
+    },
+    {
+      "bounds": [
+        242,
+        488,
+        35,
+        30
+      ],
+      "context": "M Move tool | C Circle tool | P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "e64f3b1f0",
+      "tag": "span",
+      "text": "M",
+      "title": "Click to edit the key"
+    },
+    {
+      "bounds": [
+        202,
+        528,
+        260,
+        30
+      ],
+      "context": "P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "e9dbd18da",
+      "tag": "li",
+      "text": "Z Shape selection"
+    },
+    {
+      "bounds": [
+        242,
+        528,
+        35,
+        30
+      ],
+      "context": "Z Shape selection | M Move tool | P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "eb623b5b3",
+      "tag": "span",
+      "text": "Z",
+      "title": "Click to edit the key"
+    },
+    {
+      "bounds": [
+        202,
+        568,
+        260,
+        30
+      ],
+      "context": "P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "e3a0a7b7f",
+      "tag": "li",
+      "text": "S Rectangle selection"
+    },
+    {
+      "bounds": [
+        242,
+        568,
+        35,
+        30
+      ],
+      "context": "S Rectangle selection | Z Shape selection | P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "e77a1756c",
+      "tag": "span",
+      "text": "S",
+      "title": "Click to edit the key"
+    },
+    {
+      "bounds": [
+        202,
+        608,
+        260,
+        30
+      ],
+      "context": "P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "e4a6debb5",
+      "tag": "li",
+      "text": "H Lasso selection"
+    },
+    {
+      "bounds": [
+        242,
+        608,
+        35,
+        30
+      ],
+      "context": "H Lasso selection | S Rectangle selection | P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "ebac31f50",
+      "tag": "span",
+      "text": "H",
+      "title": "Click to edit the key"
+    },
+    {
+      "bounds": [
+        202,
+        648,
+        260,
+        30
+      ],
+      "context": "P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "efd573ddb",
+      "tag": "li",
+      "text": "U Lighten tool"
+    },
+    {
+      "bounds": [
+        242,
+        648,
+        35,
+        30
+      ],
+      "context": "U Lighten tool | H Lasso selection | P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "e6a7421a1",
+      "tag": "span",
+      "text": "U",
+      "title": "Click to edit the key"
+    },
+    {
+      "bounds": [
+        202,
+        688,
+        260,
+        30
+      ],
+      "context": "P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "e933e8ccb",
+      "tag": "li",
+      "text": "T Dithering tool"
+    },
+    {
+      "bounds": [
+        242,
+        688,
+        35,
+        30
+      ],
+      "context": "T Dithering tool | U Lighten tool | P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "e29d66926",
+      "tag": "span",
+      "text": "T",
+      "title": "Click to edit the key"
+    },
+    {
+      "bounds": [
+        202,
+        728,
+        260,
+        30
+      ],
+      "context": "P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "ebb0aa7e9",
+      "tag": "li",
+      "text": "O Color picker"
+    },
+    {
+      "bounds": [
+        242,
+        728,
+        35,
+        30
+      ],
+      "context": "O Color picker | T Dithering tool | P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E Eraser pen tool | Tool shortcuts | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool E | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "e0633f669",
+      "tag": "span",
+      "text": "O",
+      "title": "Click to edit the key"
+    },
+    {
+      "bounds": [
+        502,
+        168,
+        395,
+        30
+      ],
+      "context": "0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "ecf49c571",
+      "tag": "li",
+      "text": "0 Reset zoom level"
+    },
+    {
+      "bounds": [
+        502,
+        168,
+        35,
+        30
+      ],
+      "context": "0 Reset zoom level | 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "e3921aa1c",
+      "tag": "span",
+      "text": "0",
+      "title": "Click to edit the key"
+    },
+    {
+      "bounds": [
+        502,
+        208,
+        395,
+        30
+      ],
+      "context": "0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "e8339c675",
+      "tag": "li",
+      "text": "+ Increase zoom level"
+    },
+    {
+      "bounds": [
+        502,
+        208,
+        35,
+        30
+      ],
+      "context": "+ Increase zoom level | 0 Reset zoom level | 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "ea9f6b70d",
+      "tag": "span",
+      "text": "+",
+      "title": "Click to edit the key"
+    },
+    {
+      "bounds": [
+        502,
+        248,
+        395,
+        30
+      ],
+      "context": "0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "e104b98e3",
+      "tag": "li",
+      "text": "- Decrease zoom level"
+    },
+    {
+      "bounds": [
+        502,
+        248,
+        35,
+        30
+      ],
+      "context": "- Decrease zoom level | + Increase zoom level | 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "e9f8a8b1f",
+      "tag": "span",
+      "text": "-",
+      "title": "Click to edit the key"
+    },
+    {
+      "bounds": [
+        502,
+        288,
+        395,
+        30
+      ],
+      "context": "0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "e194629e2",
+      "tag": "li",
+      "text": "] Increase pen size"
+    },
+    {
+      "bounds": [
+        502,
+        288,
+        35,
+        30
+      ],
+      "context": "] Increase pen size | - Decrease zoom level | 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "e90079e3e",
+      "tag": "span",
+      "text": "]",
+      "title": "Click to edit the key"
+    },
+    {
+      "bounds": [
+        502,
+        328,
+        395,
+        30
+      ],
+      "context": "0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "e7e2bf674",
+      "tag": "li",
+      "text": "[ Decrease pen size"
+    },
+    {
+      "bounds": [
+        502,
+        328,
+        35,
+        30
+      ],
+      "context": "[ Decrease pen size | ] Increase pen size | 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "eddd6f0b9",
+      "tag": "span",
+      "text": "[",
+      "title": "Click to edit the key"
+    },
+    {
+      "bounds": [
+        502,
+        368,
+        395,
+        30
+      ],
+      "context": "0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "e68f2b489",
+      "tag": "li",
+      "text": "ctrl + Z Undo"
+    },
+    {
+      "bounds": [
+        502,
+        368,
+        110,
+        30
+      ],
+      "context": "ctrl + Z Undo | [ Decrease pen size | 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "e985eabf7",
+      "tag": "span",
+      "text": "ctrl + Z",
+      "title": "Click to edit the key"
+    },
+    {
+      "bounds": [
+        502,
+        408,
+        110,
+        30
+      ],
+      "context": "ctrl + Y Redo | ctrl + Z Undo | 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "ed5272b41",
+      "tag": "span",
+      "text": "ctrl + Y",
+      "title": "Shortcut cannot be remapped"
+    },
+    {
+      "bounds": [
+        502,
+        448,
+        395,
+        30
+      ],
+      "context": "0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "e2f204c1a",
+      "tag": "li",
+      "text": "↑ Select previous frame"
+    },
+    {
+      "bounds": [
+        502,
+        448,
+        35,
+        30
+      ],
+      "context": "↑ Select previous frame | ctrl + Y Redo | 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "ec02ff30f",
+      "tag": "span",
+      "text": "↑",
+      "title": "Click to edit the key"
+    },
+    {
+      "bounds": [
+        502,
+        488,
+        395,
+        30
+      ],
+      "context": "0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "ed9b3c854",
+      "tag": "li",
+      "text": "↓ Select next frame"
+    },
+    {
+      "bounds": [
+        502,
+        488,
+        35,
+        30
+      ],
+      "context": "↓ Select next frame | ↑ Select previous frame | 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "e06b3d419",
+      "tag": "span",
+      "text": "↓",
+      "title": "Click to edit the key"
+    },
+    {
+      "bounds": [
+        502,
+        528,
+        395,
+        30
+      ],
+      "context": "0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "eba787611",
+      "tag": "li",
+      "text": "N Create new empty frame"
+    },
+    {
+      "bounds": [
+        502,
+        528,
+        35,
+        30
+      ],
+      "context": "N Create new empty frame | ↓ Select next frame | 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "ece07dd6d",
+      "tag": "span",
+      "text": "N",
+      "title": "Click to edit the key"
+    },
+    {
+      "bounds": [
+        502,
+        568,
+        395,
+        30
+      ],
+      "context": "0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "e23ef7333",
+      "tag": "li",
+      "text": "shift + N Duplicate selected frame"
+    },
+    {
+      "bounds": [
+        502,
+        568,
+        121,
+        30
+      ],
+      "context": "shift + N Duplicate selected frame | N Create new empty frame | 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "e0be09c8b",
+      "tag": "span",
+      "text": "shift + N",
+      "title": "Click to edit the key"
+    },
+    {
+      "bounds": [
+        502,
+        608,
+        35,
+        30
+      ],
+      "context": "? Open the keyboard shortcut cheatsheet | shift + N Duplicate selected frame | 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "e6df41329",
+      "tag": "span",
+      "text": "?",
+      "title": "Shortcut cannot be remapped"
+    },
+    {
+      "bounds": [
+        502,
+        648,
+        395,
+        30
+      ],
+      "context": "0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "e277bb206",
+      "tag": "li",
+      "text": "alt + 1 Select original size preview"
+    },
+    {
+      "bounds": [
+        502,
+        648,
+        100,
+        30
+      ],
+      "context": "alt + 1 Select original size preview | ? Open the keyboard shortcut cheatsheet | 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "ee5f4c88f",
+      "tag": "span",
+      "text": "alt + 1",
+      "title": "Click to edit the key"
+    },
+    {
+      "bounds": [
+        502,
+        688,
+        395,
+        30
+      ],
+      "context": "0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "ea03fbf5a",
+      "tag": "li",
+      "text": "alt + 2 Select best size preview"
+    },
+    {
+      "bounds": [
+        502,
+        688,
+        100,
+        30
+      ],
+      "context": "alt + 2 Select best size preview | alt + 1 Select original size preview | 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "ef42e52ea",
+      "tag": "span",
+      "text": "alt + 2",
+      "title": "Click to edit the key"
+    },
+    {
+      "bounds": [
+        502,
+        728,
+        395,
+        30
+      ],
+      "context": "0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "edfa3c626",
+      "tag": "li",
+      "text": "alt + 3 Select full size preview"
+    },
+    {
+      "bounds": [
+        502,
+        728,
+        100,
+        30
+      ],
+      "context": "alt + 3 Select full size preview | alt + 2 Select best size preview | 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "ecb328eef",
+      "tag": "span",
+      "text": "alt + 3",
+      "title": "Click to edit the key"
+    },
+    {
+      "bounds": [
+        502,
+        768,
+        395,
+        30
+      ],
+      "context": "0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "e057676f8",
+      "tag": "li",
+      "text": "alt + O Toggle onion skin"
+    },
+    {
+      "bounds": [
+        502,
+        768,
+        100,
+        30
+      ],
+      "context": "alt + O Toggle onion skin | alt + 3 Select full size preview | 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size [ Decrease pen size | Misc shortcuts | Misc shortcuts 0 Reset zoom level + Increase zoom level - Decrease zoom level ] Increase pen size | Tool shortcuts P Pen tool V Vertical mirror pen tool | Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool A Magic bucket tool | Keyboard shortcuts X",
+      "ref": "e3e6213fb",
+      "tag": "span",
+      "text": "alt + O",
+      "title": "Click to edit the key"
+    },
+    {
+      "bounds": [
+        163,
+        816,
+        151,
+        16
+      ],
+      "context": "Customize shortcuts ? Restore default shortcuts | Tool shortcuts P Pen tool V | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "e349205e6",
+      "tag": "span",
+      "text": "Customize shortcuts ?",
+      "title": "Click on a shortcut to change the key. When the shortcut blinks, press the key on your keyboard to assign it. White shortcuts can not be edited. Click on 'Restore default shortcuts' to erase all custo"
+    },
+    {
+      "bounds": [
+        972,
+        813,
+        145,
+        24
+      ],
+      "context": "Customize shortcuts ? Restore default shortcuts | Tool shortcuts P Pen tool V | Keyboard shortcuts X Tool shortcuts P Pen tool V Vertical mirror pen tool B Paint bucket tool",
+      "ref": "e5f57b512",
+      "tag": "button",
+      "text": "Restore default shortcuts"
+    },
+    {
+      "bounds": [
+        10,
+        869,
+        36,
+        21
+      ],
+      "ref": "ecf5208b2",
+      "tag": "span",
+      "title": "Keyboard shortcuts"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "sprite": {
+    "origin": [
+      337.25,
+      191.75
+    ],
+    "pixel": [
+      79.5,
+      79.5
+    ]
+  },
+  "text": "arrow\n1x\n25x\n12 FPS\nLayers\nTransform\nPalettes\n[8x8]\nx79.50\n1/1\nKeyboard shortcuts\nTool shortcuts\nMisc shortcuts\nRedo\nOpen the keyboard shortcut cheatsheet\nalt + G\nShow/Hide grid\nalt + L\nToggle layer preview\nctrl + shift + M\nOpen merge animation popup",
+  "text_truncated": false,
+  "title": "Piskel",
+  "url": "/",
+  "viewport": [
+    1280,
+    900
+  ]
+}

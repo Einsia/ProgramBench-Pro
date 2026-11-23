@@ -1,0 +1,281 @@
+{
+  "counts": {
+    "assertions": 1399,
+    "backend": 1174,
+    "checkpoints": 386,
+    "features": 37,
+    "frontend": 225,
+    "gui_episodes": 43,
+    "program_episodes": 36,
+    "episodes": 79
+  },
+  "features": {
+    "areas": {
+      "assertions": 12,
+      "episodes": [
+        "gui-areas"
+      ]
+    },
+    "clipboard": {
+      "assertions": 24,
+      "episodes": [
+        "gui-clipboard",
+        "gui-clipboard-2"
+      ]
+    },
+    "colors": {
+      "assertions": 8,
+      "episodes": [
+        "gui-colors"
+      ]
+    },
+    "columns": {
+      "assertions": 44,
+      "episodes": [
+        "gui-fields-1",
+        "gui-fields-2",
+        "gui-fields-3",
+        "gui-fields-4",
+        "gui-postgresql"
+      ]
+    },
+    "dbml": {
+      "assertions": 9,
+      "episodes": [
+        "gui-dbml"
+      ]
+    },
+    "dbml-export": {
+      "assertions": 26,
+      "episodes": [
+        "dbml-export"
+      ]
+    },
+    "dbml-import": {
+      "assertions": 9,
+      "episodes": [
+        "dbml-import"
+      ]
+    },
+    "diagrams": {
+      "assertions": 28,
+      "episodes": [
+        "gui-diagrams",
+        "gui-saved-tools"
+      ]
+    },
+    "display": {
+      "assertions": 9,
+      "episodes": [
+        "gui-display-1",
+        "gui-display-2"
+      ]
+    },
+    "editing": {
+      "assertions": 28,
+      "episodes": [
+        "edit-actions",
+        "auto-connect"
+      ]
+    },
+    "enums": {
+      "assertions": 11,
+      "episodes": [
+        "gui-enums"
+      ]
+    },
+    "exports": {
+      "assertions": 11,
+      "episodes": [
+        "gui-export"
+      ]
+    },
+    "formats": {
+      "assertions": 5,
+      "episodes": [
+        "text-boundaries"
+      ]
+    },
+    "history": {
+      "assertions": 10,
+      "episodes": [
+        "gui-history"
+      ]
+    },
+    "images": {
+      "assertions": 13,
+      "episodes": [
+        "images",
+        "gui-images"
+      ]
+    },
+    "import": {
+      "assertions": 30,
+      "episodes": [
+        "gui-import"
+      ]
+    },
+    "indices": {
+      "assertions": 20,
+      "episodes": [
+        "gui-indexes",
+        "gui-indexes-2"
+      ]
+    },
+    "json": {
+      "assertions": 33,
+      "episodes": [
+        "json-roundtrip",
+        "json-properties",
+        "json-import-checks"
+      ]
+    },
+    "json-import": {
+      "assertions": 9,
+      "episodes": [
+        "ddb-import"
+      ]
+    },
+    "layout": {
+      "assertions": 18,
+      "episodes": [
+        "gui-arrange",
+        "gui-panels"
+      ]
+    },
+    "markdown-export": {
+      "assertions": 48,
+      "episodes": [
+        "markdown-export"
+      ]
+    },
+    "mermaid-export": {
+      "assertions": 8,
+      "episodes": [
+        "mermaid-export"
+      ]
+    },
+    "navigation": {
+      "assertions": 14,
+      "episodes": [
+        "gui-zoom"
+      ]
+    },
+    "notes": {
+      "assertions": 12,
+      "episodes": [
+        "gui-notes"
+      ]
+    },
+    "pages": {
+      "assertions": 9,
+      "episodes": [
+        "gui-pages"
+      ]
+    },
+    "persistence": {
+      "assertions": 19,
+      "episodes": [
+        "persistence"
+      ]
+    },
+    "problems": {
+      "assertions": 48,
+      "episodes": [
+        "problems",
+        "gui-problems"
+      ]
+    },
+    "relationships": {
+      "assertions": 28,
+      "episodes": [
+        "gui-relationships-1",
+        "gui-relationships-2",
+        "gui-relationships-3"
+      ]
+    },
+    "settings": {
+      "assertions": 17,
+      "episodes": [
+        "gui-settings",
+        "gui-custom-types"
+      ]
+    },
+    "sql-convert": {
+      "assertions": 310,
+      "episodes": [
+        "sql-convert-mysql",
+        "sql-convert-postgresql",
+        "sql-convert-sqlite",
+        "sql-convert-mariadb",
+        "sql-convert-mssql",
+        "sql-convert-oracle"
+      ]
+    },
+    "sql-export": {
+      "assertions": 323,
+      "episodes": [
+        "sql-export-mysql",
+        "sql-export-mariadb",
+        "sql-export-postgresql",
+        "sql-export-sqlite",
+        "sql-export-mssql",
+        "sql-export-oracle",
+        "gui-export-sql",
+        "gui-sql-tools"
+      ]
+    },
+    "sql-import": {
+      "assertions": 63,
+      "episodes": [
+        "sql-import-mysql",
+        "sql-import-postgresql",
+        "sql-import-sqlite",
+        "sql-import-mssql",
+        "sql-import-oracle",
+        "sql-import-mariadb",
+        "sql-import-options"
+      ]
+    },
+    "tables": {
+      "assertions": 36,
+      "episodes": [
+        "gui-tables",
+        "gui-tables-2",
+        "gui-tables-3"
+      ]
+    },
+    "templates": {
+      "assertions": 34,
+      "episodes": [
+        "templates",
+        "gui-templates"
+      ]
+    },
+    "types": {
+      "assertions": 20,
+      "episodes": [
+        "gui-types",
+        "gui-types-2"
+      ]
+    },
+    "view": {
+      "assertions": 18,
+      "episodes": [
+        "display",
+        "view-transform"
+      ]
+    },
+    "views": {
+      "assertions": 35,
+      "episodes": [
+        "gui-views",
+        "gui-views-2",
+        "gui-views-3"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

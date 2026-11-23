@@ -1,0 +1,605 @@
+{
+  "controls": [
+    {
+      "aria": "Dashboard",
+      "bounds": [
+        10,
+        7,
+        56,
+        36
+      ],
+      "href": "/",
+      "ref": "e598",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        71,
+        7,
+        76,
+        36
+      ],
+      "href": "/issues",
+      "ref": "e599",
+      "role": null,
+      "tag": "a",
+      "text": "Issues"
+    },
+    {
+      "bounds": [
+        152,
+        7,
+        135,
+        36
+      ],
+      "href": "/pulls",
+      "ref": "e600",
+      "role": null,
+      "tag": "a",
+      "text": "Pull Requests"
+    },
+    {
+      "bounds": [
+        293,
+        7,
+        110,
+        36
+      ],
+      "href": "/milestones",
+      "ref": "e601",
+      "role": null,
+      "tag": "a",
+      "text": "Milestones"
+    },
+    {
+      "bounds": [
+        408,
+        7,
+        85,
+        36
+      ],
+      "href": "/explore/repos",
+      "ref": "e602",
+      "role": null,
+      "tag": "a",
+      "text": "Explore"
+    },
+    {
+      "aria": "Notifications",
+      "bounds": [
+        1094,
+        7,
+        42,
+        36
+      ],
+      "href": "/notifications",
+      "ref": "e603",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Notifications"
+    },
+    {
+      "aria": "Create…",
+      "bounds": [
+        1141,
+        7,
+        60,
+        36
+      ],
+      "expanded": false,
+      "ref": "e604",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Create…"
+    },
+    {
+      "aria": "Profile and Settings…",
+      "bounds": [
+        1207,
+        7,
+        64,
+        36
+      ],
+      "expanded": false,
+      "ref": "e605",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Profile and Settings…"
+    },
+    {
+      "bounds": [
+        64,
+        69,
+        54,
+        20
+      ],
+      "href": "/alice",
+      "ref": "e606",
+      "role": null,
+      "tag": "a",
+      "text": "alice"
+    },
+    {
+      "bounds": [
+        136,
+        69,
+        97,
+        20
+      ],
+      "href": "/alice/workbench",
+      "ref": "e607",
+      "role": null,
+      "tag": "a",
+      "text": "workbench"
+    },
+    {
+      "aria": "RSS Feed",
+      "bounds": [
+        815,
+        62,
+        47,
+        33
+      ],
+      "href": "/alice/workbench.rss",
+      "ref": "e608",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "RSS Feed"
+    },
+    {
+      "aria": "Unwatch",
+      "bounds": [
+        869,
+        62,
+        105,
+        33
+      ],
+      "ref": "e609",
+      "role": null,
+      "tag": "button",
+      "text": "Unwatch"
+    },
+    {
+      "bounds": [
+        973,
+        62,
+        32,
+        33
+      ],
+      "href": "/alice/workbench/watchers",
+      "ref": "e610",
+      "role": null,
+      "tag": "a",
+      "text": "1"
+    },
+    {
+      "aria": "Star",
+      "bounds": [
+        1012,
+        62,
+        82,
+        33
+      ],
+      "ref": "e611",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        1093,
+        62,
+        32,
+        33
+      ],
+      "href": "/alice/workbench/stars",
+      "ref": "e612",
+      "role": null,
+      "tag": "a",
+      "text": "0"
+    },
+    {
+      "bounds": [
+        1132,
+        62,
+        82,
+        33
+      ],
+      "ref": "e613",
+      "role": null,
+      "tag": "a",
+      "text": "Fork"
+    },
+    {
+      "bounds": [
+        1213,
+        62,
+        32,
+        33
+      ],
+      "href": "/alice/workbench/forks",
+      "ref": "e614",
+      "role": null,
+      "tag": "a",
+      "text": "0"
+    },
+    {
+      "bounds": [
+        32,
+        99,
+        79,
+        41
+      ],
+      "href": "/alice/workbench",
+      "ref": "e615",
+      "role": null,
+      "tag": "a",
+      "text": "Code"
+    },
+    {
+      "bounds": [
+        111,
+        99,
+        95,
+        41
+      ],
+      "href": "/alice/workbench/issues",
+      "ref": "e616",
+      "role": null,
+      "tag": "a",
+      "text": "Issues"
+    },
+    {
+      "bounds": [
+        206,
+        99,
+        185,
+        41
+      ],
+      "href": "/alice/workbench/pulls",
+      "ref": "e617",
+      "role": null,
+      "tag": "a",
+      "text": "Pull Requests\n1"
+    },
+    {
+      "bounds": [
+        391,
+        99,
+        104,
+        41
+      ],
+      "href": "/alice/workbench/actions",
+      "ref": "e618",
+      "role": null,
+      "tag": "a",
+      "text": "Actions"
+    },
+    {
+      "bounds": [
+        495,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/workbench/packages",
+      "ref": "e619",
+      "role": null,
+      "tag": "a",
+      "text": "Packages"
+    },
+    {
+      "bounds": [
+        607,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/workbench/projects",
+      "ref": "e620",
+      "role": null,
+      "tag": "a",
+      "text": "Projects"
+    },
+    {
+      "bounds": [
+        719,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/workbench/releases",
+      "ref": "e621",
+      "role": null,
+      "tag": "a",
+      "text": "Releases"
+    },
+    {
+      "bounds": [
+        831,
+        99,
+        79,
+        41
+      ],
+      "href": "/alice/workbench/wiki",
+      "ref": "e622",
+      "role": null,
+      "tag": "a",
+      "text": "Wiki"
+    },
+    {
+      "bounds": [
+        909,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/workbench/activity",
+      "ref": "e623",
+      "role": null,
+      "tag": "a",
+      "text": "Activity"
+    },
+    {
+      "bounds": [
+        1136,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/workbench/settings",
+      "ref": "e624",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        1176,
+        158,
+        72,
+        35
+      ],
+      "ref": "e625",
+      "role": null,
+      "tag": "button",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        116,
+        210,
+        25,
+        16
+      ],
+      "href": "/bob",
+      "ref": "e626",
+      "role": null,
+      "tag": "a",
+      "text": "bob"
+    },
+    {
+      "bounds": [
+        402,
+        211,
+        56,
+        15
+      ],
+      "href": "/alice/workbench/src/branch/feature",
+      "ref": "e627",
+      "role": null,
+      "tag": "a",
+      "text": "feature"
+    },
+    {
+      "aria": "Copy branch name",
+      "bounds": [
+        466,
+        211,
+        14,
+        14
+      ],
+      "ref": "e628",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Copy branch name"
+    },
+    {
+      "bounds": [
+        530,
+        211,
+        32,
+        15
+      ],
+      "href": "/alice/workbench/src/branch/main",
+      "ref": "e629",
+      "role": null,
+      "tag": "a",
+      "text": "main"
+    },
+    {
+      "bounds": [
+        32,
+        251,
+        183,
+        43
+      ],
+      "href": "/alice/workbench/pulls/1",
+      "ref": "e630",
+      "role": null,
+      "tag": "a",
+      "text": "Conversation\n0"
+    },
+    {
+      "bounds": [
+        215,
+        251,
+        141,
+        44
+      ],
+      "href": "/alice/workbench/pulls/1/commits",
+      "ref": "e631",
+      "role": null,
+      "tag": "a",
+      "text": "Commits\n1"
+    },
+    {
+      "bounds": [
+        355,
+        251,
+        191,
+        43
+      ],
+      "href": "/alice/workbench/pulls/1/files",
+      "ref": "e632",
+      "role": null,
+      "tag": "a",
+      "text": "Files Changed\n1"
+    },
+    {
+      "bounds": [
+        77,
+        392,
+        109,
+        20
+      ],
+      "href": "/alice",
+      "ref": "e633",
+      "role": null,
+      "tag": "a",
+      "text": "Alice Example"
+    },
+    {
+      "bounds": [
+        265,
+        390,
+        100,
+        25
+      ],
+      "href": "/alice/workbench/pulls/1/commits/2f10c34e2fc8311729d073989c8ebd90cc18455e",
+      "ref": "e634",
+      "role": null,
+      "tag": "a",
+      "text": "2f10c34e2f"
+    },
+    {
+      "bounds": [
+        410,
+        395,
+        126,
+        16
+      ],
+      "href": "/alice/workbench/commit/2f10c34e2fc8311729d073989c8ebd90cc18455e",
+      "ref": "e635",
+      "role": null,
+      "tag": "a",
+      "text": "Proposed change"
+    },
+    {
+      "aria": "Copy hash",
+      "bounds": [
+        1170,
+        387,
+        30,
+        30
+      ],
+      "ref": "e636",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Copy hash"
+    },
+    {
+      "aria": "View at this point in history",
+      "bounds": [
+        1208,
+        387,
+        30,
+        30
+      ],
+      "href": "/alice/workbench/src/commit/2f10c34e2fc8311729d073989c8ebd90cc18455e",
+      "ref": "e637",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "View at this point in history"
+    },
+    {
+      "bounds": [
+        20,
+        872,
+        134,
+        20
+      ],
+      "href": "[external]",
+      "ref": "e638",
+      "role": null,
+      "tag": "a",
+      "text": "Powered by Gitea"
+    },
+    {
+      "bounds": [
+        1063,
+        874,
+        76,
+        16
+      ],
+      "expanded": false,
+      "ref": "e639",
+      "role": "menu",
+      "tag": "div",
+      "text": "English"
+    },
+    {
+      "bounds": [
+        1145,
+        872,
+        76,
+        20
+      ],
+      "href": "/assets/licenses.txt",
+      "ref": "e640",
+      "role": null,
+      "tag": "a",
+      "text": "Licenses"
+    },
+    {
+      "bounds": [
+        1226,
+        872,
+        34,
+        20
+      ],
+      "href": "/api/swagger",
+      "ref": "e641",
+      "role": null,
+      "tag": "a",
+      "text": "API"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Issues\nPull Requests\nMilestones\nExplore\n \nalice\n/\nworkbench\nUnwatch\n1\nStar\n0\nFork\n0\nCode\nIssues\nPull Requests\n1\nActions\nPackages\nProjects\nReleases\nWiki\nActivity\nSettings\nReview this change #1\nEdit\nOpen\nbob wants to merge 1 commits from feature \n into main\nConversation\n0\nCommits\n1\nFiles Changed\n1\n+1 -1\n1 Commits\nAuthor\tSHA1\tMessage\tDate\t\n\nAlice Example\n\t\n2f10c34e2f\n\tProposed change\t\t\n \nPowered by Gitea\nPage:\n48ms\nTemplate:\n4ms\nEnglish\nLicenses\nAPI",
+  "text_truncated": false,
+  "title": "#1 - Review this change - workbench - Gitea",
+  "url": "/alice/workbench/pulls/1/commits",
+  "viewport": [
+    1280,
+    900
+  ]
+}

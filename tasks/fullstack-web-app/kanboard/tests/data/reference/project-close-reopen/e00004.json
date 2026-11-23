@@ -1,0 +1,171 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e321",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e322",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/projects",
+      "ref": "e323",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/projects",
+      "ref": "e324",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "bounds": [
+        10,
+        49,
+        108,
+        17
+      ],
+      "href": "/project/create",
+      "ref": "e325",
+      "role": null,
+      "tag": "a",
+      "text": "New project"
+    },
+    {
+      "bounds": [
+        138,
+        49,
+        174,
+        17
+      ],
+      "href": "/project/create/personal",
+      "ref": "e326",
+      "role": null,
+      "tag": "a",
+      "text": "New personal project"
+    },
+    {
+      "bounds": [
+        331,
+        49,
+        133,
+        17
+      ],
+      "href": "/projects/managers",
+      "ref": "e327",
+      "role": null,
+      "tag": "a",
+      "text": "Users overview"
+    },
+    {
+      "aria": "Search",
+      "bounds": [
+        10,
+        87,
+        308,
+        28
+      ],
+      "name": "search",
+      "placeholder": "Search",
+      "ref": "e328",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1214,
+        136,
+        42,
+        28
+      ],
+      "href": "/projects",
+      "ref": "e329",
+      "role": null,
+      "tag": "a",
+      "text": "Sort"
+    },
+    {
+      "bounds": [
+        14,
+        169,
+        30,
+        15
+      ],
+      "href": "/projects",
+      "ref": "e330",
+      "role": null,
+      "tag": "a",
+      "text": "#1"
+    },
+    {
+      "bounds": [
+        48,
+        169,
+        122,
+        15
+      ],
+      "href": "/board/1",
+      "ref": "e331",
+      "role": null,
+      "tag": "a",
+      "text": "Seasonal Campaign"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Projects (1)\n \n \nA\nNew project New personal project Users overview\n1 project\nSort \n#1 \n Seasonal Campaign\nadmin\n   Closed",
+  "text_truncated": false,
+  "title": "Projects (1)",
+  "url": "/projects",
+  "viewport": [
+    1280,
+    900
+  ]
+}

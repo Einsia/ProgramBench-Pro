@@ -1,0 +1,4 @@
+# The runtime's only third-party Python dependencies (terminal emulation). Transitive pins in constraints.txt.
+# The reference is built separately from the pinned upstream source archive.
+pyte==0.8.2
+wcwidth==0.9.3

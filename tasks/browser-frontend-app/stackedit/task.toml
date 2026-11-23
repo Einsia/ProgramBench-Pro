@@ -1,0 +1,45 @@
+schema_version = "1.4"
+artifacts = [{ source = "/app/solution" }]
+
+[task]
+name = "program-bench/stackedit"
+version = "1.0.0"
+description = "Reconstruct StackEdit 5.15.4, a browser Markdown editor with a local document workspace and live preview, from black-box observation."
+keywords = ["markdown", "browser", "vue", "document-editor", "html"]
+
+[metadata]
+category = "browser-frontend-app"
+upstream = "benweet/stackedit 5.15.4"
+license = "Apache-2.0 AND MIT AND BSD-2-Clause AND BSD-3-Clause AND ISC AND OFL-1.1"
+interface = "browser GUI; embedding messages; clipboard text and rich HTML paste; file upload/drop and downloads"
+network_boundary = "agent: no network except hosts allowed with --allow-agent-host (Harbor egress sidecar); reference and verifier: Compose network_mode:none; restricted Unix socket RPC to the black-box runtime"
+
+[agent]
+timeout_sec = 28800
+user = "agent"
+
+[environment]
+docker_image = "program-bench-stackedit-agent:1.0.0"
+build_timeout_sec = 600
+cpus = 4
+memory_mb = 16384
+storage_mb = 20480
+network_mode = "no-network"
+
+[environment.healthcheck]
+command = "blackbox-health"
+interval_sec = 1
+timeout_sec = 5
+retries = 60
+
+[verifier]
+timeout_sec = 215400
+environment_mode = "separate"
+
+[verifier.environment]
+docker_image = "program-bench-stackedit-verifier:1.0.0"
+cpus = 4
+memory_mb = 8192
+storage_mb = 20480
+network_mode = "no-network"
+build_timeout_sec = 600

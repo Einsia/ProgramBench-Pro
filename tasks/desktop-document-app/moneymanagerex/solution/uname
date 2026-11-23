@@ -1,0 +1,17 @@
+#!/bin/sh
+# Normalize host details while preserving the operating-system queries used by wxWidgets.
+result=
+for option in "${@:-s}"; do
+  case "$option" in
+    -s|s) value=Linux ;;
+    -r) value=6.8.0 ;;
+    -m|-p|-i) value=x86_64 ;;
+    -n) value=desktop ;;
+    -o) value=GNU/Linux ;;
+    -v) value='#1' ;;
+    -a) value='Linux desktop 6.8.0 #1 x86_64 GNU/Linux' ;;
+    *) value=Linux ;;
+  esac
+  result="${result:+$result }$value"
+done
+printf '%s\n' "$result"

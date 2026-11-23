@@ -1,0 +1,23 @@
+FROM program-bench-gnumeric-base:1.0.0
+COPY solution /solution
+# The shared application runtime.
+COPY environment/runtime/ /opt/blackbox/runtime/
+# GOffice discovers native plugins by listing the two versioned plugin roots.
+# Gnumeric lists templates and autoformat categories when presenting document templates.
+# Only these resource directories need listing; no installed file is writable.
+RUN bash /solution/solve.sh && chmod -R u=rwX,go=rX /opt/blackbox/runtime && \
+    mkdir -p /reference /blackbox && chown -R root:root /reference /blackbox && \
+    chown -R root:root /app/solution && \
+    find /app/solution -type d -exec chmod 0711 {} + && \
+    find /app/solution -type f -perm /111 -exec chmod 0555 {} + && \
+    find /app/solution -type f ! -perm /111 -exec chmod 0444 {} + && \
+    chmod 0755 /app/solution/upstream/lib/gnumeric/1.12.62/plugins \
+               /app/solution/upstream/lib/goffice/0.10.62/plugins && \
+    find /app/solution/upstream/share/gnumeric/1.12.62/templates \
+         /app/solution/upstream/share/gnumeric/1.12.62/autoformat-templates \
+         -type d -exec chmod 0755 {} + && \
+    rm -rf /solution
+ENV PYTHONDONTWRITEBYTECODE=1 LANG=C.UTF-8 LC_ALL=C.UTF-8 TZ=UTC TMPDIR=/tmp
+USER root
+ENTRYPOINT ["/usr/bin/tini", "--", "python3", "-I", "-B", "/opt/blackbox/runtime/reference_entrypoint.py"]
+CMD ["python3", "-I", "-B", "/opt/blackbox/runtime/broker.py", "--user", "agent", "--socket-mode", "0600", "--log-dir", "/reference/logs"]

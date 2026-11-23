@@ -1,0 +1,492 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        240,
+        109,
+        784,
+        763
+      ],
+      "ref": "canvas0",
+      "tag": "svg"
+    },
+    {
+      "bounds": [
+        240,
+        109,
+        784,
+        763
+      ],
+      "ref": "canvas1",
+      "tag": "svg"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        12,
+        105,
+        215,
+        30
+      ],
+      "label": "Nodes",
+      "placeholder": "Search nodes...",
+      "ref": "e350337ff",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        8,
+        156,
+        223,
+        16
+      ],
+      "ref": "e44a0b4bc",
+      "tag": "button",
+      "text": "Input"
+    },
+    {
+      "bounds": [
+        8,
+        178,
+        223,
+        28
+      ],
+      "ref": "e4c3717ea",
+      "tag": "button",
+      "text": "PDF Input"
+    },
+    {
+      "bounds": [
+        8,
+        206,
+        223,
+        28
+      ],
+      "ref": "e07802b89",
+      "tag": "button",
+      "text": "Image Input"
+    },
+    {
+      "bounds": [
+        8,
+        234,
+        223,
+        28
+      ],
+      "ref": "ed9a5e6a7",
+      "tag": "button",
+      "text": "Word to PDF"
+    },
+    {
+      "bounds": [
+        8,
+        262,
+        223,
+        28
+      ],
+      "ref": "e011251ec",
+      "tag": "button",
+      "text": "Excel to PDF"
+    },
+    {
+      "bounds": [
+        8,
+        290,
+        223,
+        28
+      ],
+      "ref": "e2a04e9f4",
+      "tag": "button",
+      "text": "PowerPoint to PDF"
+    },
+    {
+      "bounds": [
+        8,
+        318,
+        223,
+        28
+      ],
+      "ref": "e4782b8da",
+      "tag": "button",
+      "text": "Text to PDF"
+    },
+    {
+      "bounds": [
+        8,
+        346,
+        223,
+        28
+      ],
+      "ref": "eff8ff68b",
+      "tag": "button",
+      "text": "SVG to PDF"
+    },
+    {
+      "bounds": [
+        8,
+        374,
+        223,
+        28
+      ],
+      "ref": "e73532f69",
+      "tag": "button",
+      "text": "EPUB to PDF"
+    },
+    {
+      "bounds": [
+        8,
+        402,
+        223,
+        28
+      ],
+      "ref": "e23345029",
+      "tag": "button",
+      "text": "Email to PDF"
+    },
+    {
+      "bounds": [
+        8,
+        430,
+        223,
+        28
+      ],
+      "ref": "e1b6deb0e",
+      "tag": "button",
+      "text": "XPS to PDF"
+    },
+    {
+      "bounds": [
+        8,
+        458,
+        223,
+        28
+      ],
+      "ref": "e84f7acd0",
+      "tag": "button",
+      "text": "MOBI to PDF"
+    },
+    {
+      "bounds": [
+        8,
+        486,
+        223,
+        28
+      ],
+      "ref": "e68287263",
+      "tag": "button",
+      "text": "FB2 to PDF"
+    },
+    {
+      "bounds": [
+        8,
+        514,
+        223,
+        28
+      ],
+      "ref": "e0953504a",
+      "tag": "button",
+      "text": "CBZ to PDF"
+    },
+    {
+      "bounds": [
+        8,
+        542,
+        223,
+        28
+      ],
+      "ref": "e81606d68",
+      "tag": "button",
+      "text": "Markdown to PDF"
+    },
+    {
+      "bounds": [
+        8,
+        570,
+        223,
+        28
+      ],
+      "ref": "e20fda4b5",
+      "tag": "button",
+      "text": "JSON to PDF"
+    },
+    {
+      "bounds": [
+        8,
+        598,
+        223,
+        28
+      ],
+      "ref": "ebf6d5492",
+      "tag": "button",
+      "text": "XML to PDF"
+    },
+    {
+      "bounds": [
+        8,
+        626,
+        223,
+        28
+      ],
+      "ref": "ecc49958e",
+      "tag": "button",
+      "text": "WPD to PDF"
+    },
+    {
+      "bounds": [
+        8,
+        654,
+        223,
+        28
+      ],
+      "ref": "e8ae01805",
+      "tag": "button",
+      "text": "WPS to PDF"
+    },
+    {
+      "bounds": [
+        8,
+        682,
+        223,
+        28
+      ],
+      "ref": "e203b21e1",
+      "tag": "button",
+      "text": "Pages to PDF"
+    },
+    {
+      "bounds": [
+        8,
+        710,
+        223,
+        28
+      ],
+      "ref": "e5325345d",
+      "tag": "button",
+      "text": "ODG to PDF"
+    },
+    {
+      "bounds": [
+        8,
+        738,
+        223,
+        28
+      ],
+      "ref": "e6f3964a0",
+      "tag": "button",
+      "text": "PUB to PDF"
+    },
+    {
+      "bounds": [
+        8,
+        766,
+        223,
+        28
+      ],
+      "ref": "e89e9fbba",
+      "tag": "button",
+      "text": "VSD to PDF"
+    },
+    {
+      "bounds": [
+        8,
+        802,
+        223,
+        16
+      ],
+      "ref": "efa9e0276",
+      "tag": "button",
+      "text": "Edit & Annotate"
+    },
+    {
+      "bounds": [
+        8,
+        824,
+        223,
+        28
+      ],
+      "ref": "e2419bd90",
+      "tag": "button",
+      "text": "Crop"
+    },
+    {
+      "bounds": [
+        8,
+        852,
+        223,
+        28
+      ],
+      "ref": "e4c4d46cf",
+      "tag": "button",
+      "text": "Greyscale"
+    },
+    {
+      "bounds": [
+        8,
+        880,
+        223,
+        20
+      ],
+      "ref": "e8db51f94",
+      "tag": "button",
+      "text": "Invert Colors"
+    },
+    {
+      "bounds": [
+        256,
+        71,
+        79,
+        32
+      ],
+      "ref": "ed7b65cc1",
+      "tag": "button",
+      "text": "Run"
+    },
+    {
+      "bounds": [
+        343,
+        71,
+        58,
+        32
+      ],
+      "ref": "e8372cfc9",
+      "tag": "button",
+      "text": "Clear"
+    },
+    {
+      "bounds": [
+        668,
+        71,
+        74,
+        32
+      ],
+      "ref": "e0299f1ab",
+      "tag": "button",
+      "text": "Save"
+    },
+    {
+      "bounds": [
+        750,
+        71,
+        74,
+        32
+      ],
+      "ref": "ef21060ee",
+      "tag": "button",
+      "text": "Load"
+    },
+    {
+      "bounds": [
+        832,
+        71,
+        84,
+        32
+      ],
+      "ref": "e17c4fc54",
+      "tag": "button",
+      "text": "Export"
+    },
+    {
+      "bounds": [
+        924,
+        71,
+        84,
+        32
+      ],
+      "ref": "ed0210e7f",
+      "tag": "button",
+      "text": "Import"
+    },
+    {
+      "bounds": [
+        827,
+        166,
+        18,
+        18
+      ],
+      "ref": "e329d1b61",
+      "tag": "span"
+    },
+    {
+      "bounds": [
+        527,
+        159,
+        18,
+        18
+      ],
+      "ref": "e329d1b61x2",
+      "tag": "span"
+    },
+    {
+      "bounds": [
+        1252,
+        77,
+        16,
+        24
+      ],
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1246,
+        155,
+        10,
+        18
+      ],
+      "ref": "e25d7f775",
+      "tag": "button",
+      "text": "×"
+    },
+    {
+      "bounds": [
+        1037,
+        190,
+        231,
+        32
+      ],
+      "ref": "e4b856335",
+      "tag": "button",
+      "text": "Add More Files"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "workflow-output.pdf",
+      "ref": "d3eef3f2b4ea6",
+      "size": 2597
+    }
+  ],
+  "inputs": [
+    "mixed.pdf",
+    "report.pdf",
+    "workflow-blank.json",
+    "workflow-delete.json",
+    "workflow-extract.json",
+    "workflow-metadata.json",
+    "workflow-reverse.json",
+    "workflow-rotate.json"
+  ],
+  "text": "BentoPDF\nPDF Workflow Builder Free Online - Chain PDF Tools Into One Run\nNodes\nINPUT\nPDF Input\nImage Input\nWord to PDF\nExcel to PDF\nPowerPoint to PDF\nText to PDF\nSVG to PDF\nEPUB to PDF\nEmail to PDF\nXPS to PDF\nMOBI to PDF\nFB2 to PDF\nCBZ to PDF\nMarkdown to PDF\nJSON to PDF\nXML to PDF\nWPD to PDF\nWPS to PDF\nPages to PDF\nODG to PDF\nPUB to PDF\nVSD to PDF\nEDIT & ANNOTATE\nCrop\nGreyscale\nInvert Colors\nScanner Effect\nAdjust Colors\nBackground Color\nWatermark\nPage Numbers\nHeader & Footer\nRemove Blank Pages\nRemove Annotations\nORGANIZE & MANAGE\nMerge PDFs\nAlternate Merge\nSplit PDF\nExtract Pages\nRotate\nDelete Pages\nReverse Pages\nAdd Blank Page\nDivide Pages\nN-Up\nFix Page Size\nCombine to Single Page\nBooklet\nOverlay\nPosterize\nEdit Metadata\nTable of Contents\nOCR\nOPTIMIZE & REPAIR\nCompress\nRasterize\nLinearize\nDeskew\nPDF to PDF/A\nFont to Outline\nRepair\nSECURE PDF\nEncrypt\nDecrypt\nSanitize\nFlatten\nDigital Sign\nTimestamp\nRedact\nOUTPUT\nDownload\nPDF to Images\nPDF to Text\nPDF to DOCX\nPDF to XLSX\nPDF to CSV\nPDF to SVG\nPDF to Markdown\nExtract Images\nRun\nClear\nSave\nLoad\nExport\nImport\nComplete\nReverse Pages\nFlip the order of all pages in your document.\nComplete\nDownload\nDownload as PDF or ZIP automatically\nComplete\nPDF Input\nUpload one or more PDF files\nWorkflow completed\n3 nodes\nPDF Input\nPDF Files\nmixed.pdf\n×\nAdd More Files",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/pdf-workflow.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

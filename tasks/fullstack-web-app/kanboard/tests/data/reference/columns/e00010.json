@@ -1,0 +1,773 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e2396",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e2397",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/project/1/columns",
+      "ref": "e2398",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/project/1/columns",
+      "ref": "e2399",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "aria": "Configure this project",
+      "bounds": [
+        10,
+        48,
+        29,
+        17
+      ],
+      "href": "/project/1/columns",
+      "ref": "e2400",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Configure this project"
+    },
+    {
+      "bounds": [
+        53,
+        49,
+        81,
+        16
+      ],
+      "href": "/project/1/overview/status%3Aopen",
+      "ref": "e2401",
+      "role": null,
+      "tag": "a",
+      "text": "Overview",
+      "title": "Keyboard shortcut: \"v o\""
+    },
+    {
+      "bounds": [
+        155,
+        49,
+        60,
+        16
+      ],
+      "href": "/board/1/search/status%3Aopen",
+      "ref": "e2402",
+      "role": null,
+      "tag": "a",
+      "text": "Board",
+      "title": "Keyboard shortcut: \"v b\""
+    },
+    {
+      "bounds": [
+        236,
+        49,
+        44,
+        16
+      ],
+      "href": "/list/1/search/status%3Aopen",
+      "ref": "e2403",
+      "role": null,
+      "tag": "a",
+      "text": "List",
+      "title": "Keyboard shortcut: \"v l\""
+    },
+    {
+      "aria": "Filter",
+      "bounds": [
+        299,
+        44,
+        850,
+        28
+      ],
+      "name": "search",
+      "placeholder": "Filter",
+      "ref": "e2404",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "status:open"
+    },
+    {
+      "aria": "Default filters",
+      "bounds": [
+        1161,
+        49,
+        36,
+        16
+      ],
+      "href": "/project/1/columns",
+      "ref": "e2405",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Default filters"
+    },
+    {
+      "aria": "Custom filters",
+      "bounds": [
+        1221,
+        49,
+        36,
+        16
+      ],
+      "href": "/project/1/columns",
+      "ref": "e2406",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "User filters"
+    },
+    {
+      "bounds": [
+        23,
+        89,
+        68,
+        17
+      ],
+      "href": "/project/1",
+      "ref": "e2407",
+      "role": null,
+      "tag": "a",
+      "text": "Summary"
+    },
+    {
+      "bounds": [
+        23,
+        125,
+        98,
+        17
+      ],
+      "href": "/project/1/customer-filters",
+      "ref": "e2408",
+      "role": null,
+      "tag": "a",
+      "text": "Custom filters"
+    },
+    {
+      "bounds": [
+        23,
+        161,
+        80,
+        17
+      ],
+      "href": "/project/1/edit",
+      "ref": "e2409",
+      "role": null,
+      "tag": "a",
+      "text": "Edit project"
+    },
+    {
+      "bounds": [
+        23,
+        197,
+        142,
+        17
+      ],
+      "href": "/project/1/predefined-contents",
+      "ref": "e2410",
+      "role": null,
+      "tag": "a",
+      "text": "Predefined contents"
+    },
+    {
+      "bounds": [
+        23,
+        233,
+        98,
+        17
+      ],
+      "href": "/project/1/share",
+      "ref": "e2411",
+      "role": null,
+      "tag": "a",
+      "text": "Public access"
+    },
+    {
+      "bounds": [
+        23,
+        269,
+        87,
+        17
+      ],
+      "href": "/project/1/notifications",
+      "ref": "e2412",
+      "role": null,
+      "tag": "a",
+      "text": "Notifications"
+    },
+    {
+      "bounds": [
+        23,
+        305,
+        84,
+        17
+      ],
+      "href": "/project/1/integrations",
+      "ref": "e2413",
+      "role": null,
+      "tag": "a",
+      "text": "Integrations"
+    },
+    {
+      "bounds": [
+        23,
+        341,
+        63,
+        17
+      ],
+      "href": "/project/1/columns",
+      "ref": "e2414",
+      "role": null,
+      "tag": "a",
+      "text": "Columns"
+    },
+    {
+      "bounds": [
+        23,
+        377,
+        77,
+        17
+      ],
+      "href": "/project/1/swimlanes",
+      "ref": "e2415",
+      "role": null,
+      "tag": "a",
+      "text": "Swimlanes"
+    },
+    {
+      "bounds": [
+        23,
+        413,
+        77,
+        17
+      ],
+      "href": "/project/1/categories",
+      "ref": "e2416",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        23,
+        449,
+        34,
+        17
+      ],
+      "href": "/project/1/tags",
+      "ref": "e2417",
+      "role": null,
+      "tag": "a",
+      "text": "Tags"
+    },
+    {
+      "bounds": [
+        23,
+        485,
+        87,
+        17
+      ],
+      "href": "/project/1/permissions",
+      "ref": "e2418",
+      "role": null,
+      "tag": "a",
+      "text": "Permissions"
+    },
+    {
+      "bounds": [
+        23,
+        521,
+        94,
+        17
+      ],
+      "href": "/project/1/custom-roles",
+      "ref": "e2419",
+      "role": null,
+      "tag": "a",
+      "text": "Custom roles"
+    },
+    {
+      "bounds": [
+        23,
+        557,
+        126,
+        17
+      ],
+      "href": "/project/1/actions",
+      "ref": "e2420",
+      "role": null,
+      "tag": "a",
+      "text": "Automatic actions"
+    },
+    {
+      "bounds": [
+        23,
+        593,
+        67,
+        17
+      ],
+      "href": "/project/1/duplicate",
+      "ref": "e2421",
+      "role": null,
+      "tag": "a",
+      "text": "Duplicate"
+    },
+    {
+      "bounds": [
+        23,
+        629,
+        182,
+        52
+      ],
+      "href": "/project/1/import/tasks",
+      "ref": "e2422",
+      "role": null,
+      "tag": "a",
+      "text": "Import tasks from another project"
+    },
+    {
+      "bounds": [
+        23,
+        700,
+        123,
+        17
+      ],
+      "href": "/project/1/disable",
+      "ref": "e2423",
+      "role": null,
+      "tag": "a",
+      "text": "Close this project"
+    },
+    {
+      "bounds": [
+        23,
+        736,
+        60,
+        17
+      ],
+      "href": "/project/1/remove",
+      "ref": "e2424",
+      "role": null,
+      "tag": "a",
+      "text": "Remove"
+    },
+    {
+      "bounds": [
+        250,
+        112,
+        155,
+        17
+      ],
+      "href": "/?controller=ColumnController&action=create&project_id=1",
+      "ref": "e2425",
+      "role": null,
+      "tag": "a",
+      "text": "Add a new column"
+    },
+    {
+      "aria": "Change column position",
+      "bounds": [
+        254,
+        212,
+        14,
+        16
+      ],
+      "ref": "e2426",
+      "role": "button",
+      "tag": "i",
+      "text": "",
+      "title": "Change column position"
+    },
+    {
+      "bounds": [
+        277,
+        212,
+        29,
+        16
+      ],
+      "href": "/project/1/columns",
+      "ref": "e2427",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "aria": "Change column position",
+      "bounds": [
+        254,
+        247,
+        14,
+        16
+      ],
+      "ref": "e2428",
+      "role": "button",
+      "tag": "i",
+      "text": "",
+      "title": "Change column position"
+    },
+    {
+      "bounds": [
+        277,
+        247,
+        29,
+        16
+      ],
+      "href": "/project/1/columns",
+      "ref": "e2429",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "aria": "Change column position",
+      "bounds": [
+        254,
+        282,
+        14,
+        16
+      ],
+      "ref": "e2430",
+      "role": "button",
+      "tag": "i",
+      "text": "",
+      "title": "Change column position"
+    },
+    {
+      "bounds": [
+        277,
+        282,
+        29,
+        16
+      ],
+      "href": "/project/1/columns",
+      "ref": "e2431",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "aria": "Change column position",
+      "bounds": [
+        254,
+        317,
+        14,
+        16
+      ],
+      "ref": "e2432",
+      "role": "button",
+      "tag": "i",
+      "text": "",
+      "title": "Change column position"
+    },
+    {
+      "bounds": [
+        277,
+        317,
+        29,
+        16
+      ],
+      "href": "/project/1/columns",
+      "ref": "e2433",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "aria": "Change column position",
+      "bounds": [
+        254,
+        352,
+        14,
+        16
+      ],
+      "ref": "e2434",
+      "role": "button",
+      "tag": "i",
+      "text": "",
+      "title": "Change column position"
+    },
+    {
+      "bounds": [
+        277,
+        352,
+        29,
+        16
+      ],
+      "href": "/project/1/columns",
+      "ref": "e2435",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1131,
+        18,
+        16,
+        17
+      ],
+      "href": "/project/1/columns",
+      "ref": "e2436",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        133,
+        101,
+        308,
+        28
+      ],
+      "focused": true,
+      "label": "Title",
+      "maxlength": "191",
+      "name": "title",
+      "ref": "e2437",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "Done"
+    },
+    {
+      "bounds": [
+        133,
+        157,
+        78,
+        28
+      ],
+      "label": "Task limit",
+      "min": "0",
+      "name": "task_limit",
+      "ref": "e2438",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "0"
+    },
+    {
+      "bounds": [
+        137,
+        198,
+        13,
+        13
+      ],
+      "checked": true,
+      "label": "Hide tasks in this column in the dashboard",
+      "name": "hide_in_dashboard",
+      "ref": "e2439",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        133,
+        253,
+        85,
+        17
+      ],
+      "href": "/project/1/columns",
+      "ref": "e2440",
+      "role": null,
+      "tag": "a",
+      "text": "Preview"
+    },
+    {
+      "bounds": [
+        228,
+        253,
+        24,
+        17
+      ],
+      "href": "/project/1/columns",
+      "ref": "e2441",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        261,
+        253,
+        24,
+        17
+      ],
+      "href": "/project/1/columns",
+      "ref": "e2442",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        295,
+        253,
+        24,
+        17
+      ],
+      "href": "/project/1/columns",
+      "ref": "e2443",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        329,
+        253,
+        24,
+        17
+      ],
+      "href": "/project/1/columns",
+      "ref": "e2444",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        362,
+        253,
+        24,
+        17
+      ],
+      "href": "/project/1/columns",
+      "ref": "e2445",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        396,
+        253,
+        24,
+        17
+      ],
+      "href": "/project/1/columns",
+      "ref": "e2446",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        429,
+        253,
+        24,
+        17
+      ],
+      "href": "/project/1/columns",
+      "ref": "e2447",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        133,
+        271,
+        710,
+        260
+      ],
+      "name": "description",
+      "placeholder": "Write your text in Markdown",
+      "ref": "e2448",
+      "role": null,
+      "tag": "textarea",
+      "text": "",
+      "type": "textarea",
+      "value": ""
+    },
+    {
+      "bounds": [
+        133,
+        555,
+        66,
+        30
+      ],
+      "ref": "e2449",
+      "role": null,
+      "tag": "button",
+      "text": "Save"
+    },
+    {
+      "bounds": [
+        222,
+        562,
+        46,
+        17
+      ],
+      "href": "/project/1/columns",
+      "ref": "e2450",
+      "role": null,
+      "tag": "a",
+      "text": "cancel"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Website > Edit columns\n \n \nA\nOverview Board List\nSummary\nCustom filters\nEdit project\nPredefined contents\nPublic access\nNotifications\nIntegrations\nColumns\nSwimlanes\nCategories\nTags\nPermissions\nCustom roles\nAutomatic actions\nDuplicate\nImport tasks from another project\nClose this project\nRemove\nEdit the board for \"Website\"\nAdd a new column\nColumn\tTask limit\tVisible on dashboard\tOpen tasks\tClosed tasks\n  \n Backlog\t∞\tYes\t1\t0\n  \n Selected\t∞\tYes\t0\t0\n  \n Work in progress\t∞\tYes\t0\t0\n  \n Done\t∞\tNo\t0\t0\n  \n QA \t2\tYes\t0\t0\nEdit column \"Done\"\nTitle\n*\nTask limit\n Hide tasks in this column in the dashboard\nDescription\n Preview\nSave or cancel",
+  "text_truncated": false,
+  "title": "Website > Edit columns",
+  "url": "/project/1/columns",
+  "viewport": [
+    1280,
+    900
+  ]
+}

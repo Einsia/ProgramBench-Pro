@@ -1,0 +1,27 @@
+MusicBrainz Picard 3.0.3
+
+The unchanged upstream source distribution is obtained from:
+https://github.com/metabrainz/picard/releases/download/release-3.0.3/picard-3.0.3.tar.gz
+SOURCE.json identifies the release and its SHA-256. This archive is the complete
+corresponding Picard source for release-3.0.3; the installed source tree remains
+available in picard-3.0.3/. The repository is https://github.com/metabrainz/picard .
+
+LICENSE contains the upstream GPL version 2 text. Picard is licensed under
+GPL-2.0-or-later; individual files retain their authors' notices. The separate
+start.sh, picard-cli, picard_start.py and solve.sh scripts initialize the profile,
+select the public entry point and omit source text from tracebacks. They do not
+modify the upstream source. Plugins and update checks are disabled at startup.
+
+The runtime's separately installed Python dependencies are identified in
+SOURCE.json and environment/base-requirements.txt. They retain their own
+licenses: PyQt6 (GPL-3.0), Qt 6 (LGPL-3.0), PyQt6-sip (BSD-2-Clause), mutagen
+(GPL-2.0-or-later), PyYAML (MIT), Markdown (BSD-3-Clause), PyJWT (MIT),
+charset-normalizer (MIT), tomlkit (MIT), tomli (MIT), and typing-extensions
+(PSF-2.0). Corresponding source distributions are available at https://pypi.org/ ;
+Qt source is available at https://download.qt.io/ .
+
+This distribution is not affiliated with or endorsed by the MetaBrainz Foundation.
+
+process_guard.c is a separate runtime boundary, compiled at installation. It
+uses Linux Landlock to confine writes and child-process execution. It does not
+modify upstream application files.

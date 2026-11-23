@@ -1,0 +1,313 @@
+{
+  "counts": {
+    "assertions": 1344,
+    "backend": 1227,
+    "checkpoints": 865,
+    "features": 27,
+    "frontend": 117,
+    "gui_episodes": 27,
+    "program_episodes": 134,
+    "episodes": 161
+  },
+  "features": {
+    "appearance": {
+      "assertions": 9,
+      "episodes": [
+        "colors-highlights-1",
+        "colors-highlights-2",
+        "display-hidden",
+        "display-hints-hidden",
+        "display-swapped"
+      ]
+    },
+    "cache-updates": {
+      "assertions": 42,
+      "episodes": [
+        "cache-feed-updates",
+        "cache-retention-1",
+        "cache-unsubscribe",
+        "reset-unread-disabled",
+        "reset-unread-selected",
+        "reset-unread-other-feed",
+        "reset-unread-multiple",
+        "retention-flags-1"
+      ]
+    },
+    "cli": {
+      "assertions": 9,
+      "episodes": [
+        "cli-options"
+      ]
+    },
+    "configuration": {
+      "assertions": 266,
+      "episodes": [
+        "config-defaults",
+        "config-live-1",
+        "config-live-2",
+        "config-live-3",
+        "config-live-4",
+        "config-live-5",
+        "config-invalid-values",
+        "config-value-syntax",
+        "config-source",
+        "config-startup-errors",
+        "configuration-roundtrip"
+      ]
+    },
+    "deletion": {
+      "assertions": 10,
+      "episodes": [
+        "gui-deletion-1"
+      ]
+    },
+    "dialogs": {
+      "assertions": 17,
+      "episodes": [
+        "gui-dialogs-1",
+        "dialog-management"
+      ]
+    },
+    "exports": {
+      "assertions": 21,
+      "episodes": [
+        "gui-exports-1",
+        "save-all-files",
+        "save-all-conflicts-1"
+      ]
+    },
+    "feed-parsing": {
+      "assertions": 151,
+      "episodes": [
+        "parse-rss",
+        "parse-atom",
+        "parse-feed-metadata",
+        "description-precedence-yes",
+        "description-precedence-no",
+        "parser-binary-inputs"
+      ]
+    },
+    "filters": {
+      "assertions": 180,
+      "episodes": [
+        "filter-articles",
+        "filter-feeds",
+        "filter-invalid",
+        "gui-filters-1",
+        "gui-filters-2"
+      ]
+    },
+    "flags": {
+      "assertions": 10,
+      "episodes": [
+        "gui-flags-1"
+      ]
+    },
+    "formatting": {
+      "assertions": 89,
+      "episodes": [
+        "format-feed",
+        "format-article",
+        "format-tag",
+        "format-title-feeds",
+        "format-title-articles",
+        "format-title-search",
+        "format-title-reading",
+        "format-syntax",
+        "format-dates",
+        "gui-format-1",
+        "gui-format-2",
+        "gui-format-3",
+        "query-origin-format",
+        "right-alignment",
+        "file-dialog-format-single",
+        "file-dialog-format-batch"
+      ]
+    },
+    "history": {
+      "assertions": 7,
+      "episodes": [
+        "command-history",
+        "search-history",
+        "history-limit",
+        "history-alternate-files"
+      ]
+    },
+    "html-rendering": {
+      "assertions": 46,
+      "episodes": [
+        "render-html",
+        "gui-html-1",
+        "render-width"
+      ]
+    },
+    "http-feeds": {
+      "assertions": 36,
+      "episodes": [
+        "http-status-200",
+        "http-status-301",
+        "http-status-302",
+        "http-status-307",
+        "http-status-308",
+        "http-conditional-etag",
+        "http-conditional-modified",
+        "http-conditional-both",
+        "http-error-404",
+        "http-error-500",
+        "http-content-update",
+        "http-retry-1",
+        "http-retry-2",
+        "http-custom-agent",
+        "http-cookie-cache"
+      ]
+    },
+    "keybindings": {
+      "assertions": 14,
+      "episodes": [
+        "config-bindings-macros",
+        "binding-contexts"
+      ]
+    },
+    "killfiles": {
+      "assertions": 48,
+      "episodes": [
+        "ignore-download-global",
+        "ignore-download-feed",
+        "ignore-download-regex",
+        "ignore-download-regex-case",
+        "ignore-download-podcast",
+        "ignore-download-no-match",
+        "ignore-display-global",
+        "ignore-display-feed",
+        "ignore-display-regex",
+        "ignore-display-regex-case",
+        "ignore-display-podcast",
+        "ignore-display-no-match"
+      ]
+    },
+    "navigation": {
+      "assertions": 76,
+      "episodes": [
+        "gui-navigation-1",
+        "gui-navigation-2",
+        "gui-navigation-3",
+        "gui-navigation-4",
+        "gui-paging-1",
+        "gui-paging-2",
+        "half-page-navigation",
+        "unread-boundaries-articles",
+        "unread-boundaries-feeds",
+        "scrolloff-0",
+        "scrolloff-4"
+      ]
+    },
+    "opml": {
+      "assertions": 68,
+      "episodes": [
+        "opml-import-1",
+        "opml-import-2",
+        "opml-import-3",
+        "opml-import-4",
+        "opml-input-boundaries-1",
+        "opml-export-1",
+        "opml-export-2"
+      ]
+    },
+    "persistence": {
+      "assertions": 24,
+      "episodes": [
+        "read-state-interchange",
+        "cache-state-persistence"
+      ]
+    },
+    "podcasts": {
+      "assertions": 20,
+      "episodes": [
+        "podcast-filenames-1",
+        "podcast-filenames-2",
+        "podcast-auto",
+        "podcast-duplicate",
+        "podcast-query"
+      ]
+    },
+    "query-feeds": {
+      "assertions": 19,
+      "episodes": [
+        "query-unread",
+        "query-read",
+        "query-kernel",
+        "query-tagged",
+        "query-podcast",
+        "query-flags",
+        "query-author",
+        "query-combined",
+        "query-length",
+        "query-no-matches",
+        "query-feed-count",
+        "query-feed-url",
+        "query-read-through",
+        "query-startup-lazy",
+        "query-startup-prepopulated"
+      ]
+    },
+    "reading": {
+      "assertions": 26,
+      "episodes": [
+        "gui-reading-1",
+        "gui-reading-2",
+        "gui-reading-3"
+      ]
+    },
+    "search": {
+      "assertions": 26,
+      "episodes": [
+        "search-global",
+        "gui-search-1",
+        "gui-search-2",
+        "search-history-stack"
+      ]
+    },
+    "settings": {
+      "assertions": 54,
+      "episodes": [
+        "setting-effects-1",
+        "setting-effects-2",
+        "setting-effects-3",
+        "setting-effects-4",
+        "startup-refresh",
+        "startup-manual",
+        "startup-operations",
+        "reload-visible-yes",
+        "reload-visible-no"
+      ]
+    },
+    "sorting": {
+      "assertions": 40,
+      "episodes": [
+        "gui-sorting-1",
+        "gui-sorting-2",
+        "gui-sorting-3",
+        "gui-sorting-4"
+      ]
+    },
+    "subscriptions": {
+      "assertions": 18,
+      "episodes": [
+        "subscriptions-1",
+        "subscriptions-2",
+        "live-subscriptions"
+      ]
+    },
+    "tags": {
+      "assertions": 18,
+      "episodes": [
+        "tags-command",
+        "gui-tags-1",
+        "gui-tags-2"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

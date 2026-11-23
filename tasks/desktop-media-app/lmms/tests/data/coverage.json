@@ -1,0 +1,193 @@
+{
+  "counts": {
+    "assertions": 1303,
+    "backend": 1219,
+    "checkpoints": 1171,
+    "features": 24,
+    "frontend": 84,
+    "gui_episodes": 31,
+    "program_episodes": 25,
+    "episodes": 56
+  },
+  "features": {
+    "automation": {
+      "assertions": 43,
+      "episodes": [
+        "program-automation-01",
+        "program-automation-02"
+      ]
+    },
+    "beat-editor": {
+      "assertions": 22,
+      "episodes": [
+        "beat-step-toggle",
+        "beat-steps",
+        "beat-steps-offbeat"
+      ]
+    },
+    "beat-patterns": {
+      "assertions": 54,
+      "episodes": [
+        "program-beat-patterns-01",
+        "program-beat-patterns-02"
+      ]
+    },
+    "cli-errors": {
+      "assertions": 14,
+      "episodes": [
+        "program-cli-errors-01"
+      ]
+    },
+    "effects": {
+      "assertions": 218,
+      "episodes": [
+        "program-effects-01",
+        "program-effects-02",
+        "program-effects-03",
+        "program-effects-04",
+        "program-effects-05"
+      ]
+    },
+    "export": {
+      "assertions": 28,
+      "episodes": [
+        "export-sample-clip",
+        "export-notes",
+        "export-beat",
+        "sample-export",
+        "gui-export-tracks"
+      ]
+    },
+    "hydrogen": {
+      "assertions": 5,
+      "episodes": [
+        "hydrogen-import"
+      ]
+    },
+    "instrument-window": {
+      "assertions": 9,
+      "episodes": [
+        "audio-file-processor"
+      ]
+    },
+    "instruments": {
+      "assertions": 419,
+      "episodes": [
+        "program-instruments-01",
+        "program-instruments-02",
+        "program-instruments-03",
+        "program-instruments-04",
+        "program-instruments-05",
+        "program-instruments-06"
+      ]
+    },
+    "midi": {
+      "assertions": 6,
+      "episodes": [
+        "midi-import-export"
+      ]
+    },
+    "mixer": {
+      "assertions": 19,
+      "episodes": [
+        "program-mixer-01"
+      ]
+    },
+    "piano-roll": {
+      "assertions": 9,
+      "episodes": [
+        "piano-roll-notes"
+      ]
+    },
+    "project": {
+      "assertions": 35,
+      "episodes": [
+        "project-tempo-save-reopen",
+        "project-tempo-values",
+        "tempo-more",
+        "project-versions-template",
+        "new-from-template"
+      ]
+    },
+    "project-files": {
+      "assertions": 8,
+      "episodes": [
+        "program-project-files-01"
+      ]
+    },
+    "project-notes": {
+      "assertions": 4,
+      "episodes": [
+        "project-notes"
+      ]
+    },
+    "render-options": {
+      "assertions": 48,
+      "episodes": [
+        "program-render-options-01"
+      ]
+    },
+    "rendertracks": {
+      "assertions": 10,
+      "episodes": [
+        "program-rendertracks-01"
+      ]
+    },
+    "sample-clips": {
+      "assertions": 107,
+      "episodes": [
+        "program-sample-clips-01",
+        "program-sample-clips-02"
+      ]
+    },
+    "settings": {
+      "assertions": 6,
+      "episodes": [
+        "setup-switches"
+      ]
+    },
+    "sidebar": {
+      "assertions": 21,
+      "episodes": [
+        "sidebar-instruments",
+        "instrument-replace",
+        "plugin-tracks"
+      ]
+    },
+    "song-editor": {
+      "assertions": 44,
+      "episodes": [
+        "tracks-add-and-save",
+        "song-clips",
+        "track-switches",
+        "track-rename",
+        "clip-placement",
+        "track-rename-more"
+      ]
+    },
+    "sound-shaping": {
+      "assertions": 135,
+      "episodes": [
+        "program-sound-shaping-01",
+        "program-sound-shaping-02"
+      ]
+    },
+    "toolbar": {
+      "assertions": 27,
+      "episodes": [
+        "toolbar-master-sliders",
+        "toolbar-sliders-down",
+        "toolbar-limits"
+      ]
+    },
+    "upgrade": {
+      "assertions": 12,
+      "episodes": [
+        "program-upgrade-01"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

@@ -1,0 +1,3182 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        559,
+        -44,
+        162,
+        36
+      ],
+      "href": "/integrations#main",
+      "offscreen": true,
+      "ref": "e17081",
+      "role": null,
+      "tag": "a",
+      "text": "Skip to content"
+    },
+    {
+      "aria": "Home page",
+      "bounds": [
+        193,
+        10,
+        77,
+        19
+      ],
+      "href": "/unread",
+      "ref": "e17082",
+      "role": null,
+      "tag": "a",
+      "text": "Mini\nflux"
+    },
+    {
+      "aria": "Unread, 6 unread entries",
+      "bounds": [
+        278,
+        12,
+        102,
+        16
+      ],
+      "href": "/unread",
+      "ref": "e17083",
+      "role": null,
+      "tag": "a",
+      "text": "Unread (6)"
+    },
+    {
+      "bounds": [
+        395,
+        12,
+        78,
+        16
+      ],
+      "href": "/starred",
+      "ref": "e17084",
+      "role": null,
+      "tag": "a",
+      "text": "Starred"
+    },
+    {
+      "bounds": [
+        488,
+        12,
+        78,
+        16
+      ],
+      "href": "/history",
+      "ref": "e17085",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        581,
+        12,
+        70,
+        16
+      ],
+      "href": "/feeds",
+      "ref": "e17086",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "aria": "Add feed",
+      "bounds": [
+        650,
+        12,
+        26,
+        16
+      ],
+      "href": "/subscribe",
+      "ref": "e17087",
+      "role": null,
+      "tag": "a",
+      "text": "(+)",
+      "title": "Keyboard Shortcut: +"
+    },
+    {
+      "bounds": [
+        691,
+        12,
+        104,
+        16
+      ],
+      "href": "/categories",
+      "ref": "e17088",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        810,
+        12,
+        70,
+        16
+      ],
+      "href": "/search",
+      "ref": "e17089",
+      "role": null,
+      "tag": "a",
+      "text": "Search"
+    },
+    {
+      "bounds": [
+        894,
+        12,
+        87,
+        16
+      ],
+      "href": "/settings",
+      "ref": "e17090",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        996,
+        10,
+        70,
+        18
+      ],
+      "ref": "e17091",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "title": "Logged in as alice"
+    },
+    {
+      "bounds": [
+        193,
+        82,
+        95,
+        18
+      ],
+      "href": "/settings",
+      "ref": "e17092",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        312,
+        82,
+        133,
+        18
+      ],
+      "href": "/integrations",
+      "ref": "e17093",
+      "role": null,
+      "tag": "a",
+      "text": "Integrations"
+    },
+    {
+      "bounds": [
+        470,
+        82,
+        95,
+        18
+      ],
+      "href": "/keys",
+      "ref": "e17094",
+      "role": null,
+      "tag": "a",
+      "text": "API Keys"
+    },
+    {
+      "bounds": [
+        590,
+        82,
+        95,
+        18
+      ],
+      "href": "/sessions",
+      "ref": "e17095",
+      "role": null,
+      "tag": "a",
+      "text": "Sessions"
+    },
+    {
+      "bounds": [
+        709,
+        82,
+        66,
+        18
+      ],
+      "href": "/users",
+      "ref": "e17096",
+      "role": null,
+      "tag": "a",
+      "text": "Users"
+    },
+    {
+      "bounds": [
+        800,
+        82,
+        66,
+        18
+      ],
+      "href": "/about",
+      "ref": "e17097",
+      "role": null,
+      "tag": "a",
+      "text": "About"
+    },
+    {
+      "bounds": [
+        193,
+        116,
+        894,
+        18
+      ],
+      "ref": "e17098",
+      "role": null,
+      "tag": "summary",
+      "text": "Archive.org"
+    },
+    {
+      "bounds": [
+        225,
+        159,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "archiveorg_enabled",
+      "ref": "e17099",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        192,
+        79,
+        29
+      ],
+      "ref": "e17100",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        193,
+        149,
+        894,
+        18
+      ],
+      "ref": "e17101",
+      "role": null,
+      "tag": "summary",
+      "text": "Apprise"
+    },
+    {
+      "bounds": [
+        225,
+        192,
+        13,
+        13
+      ],
+      "checked": true,
+      "label": "Push entries to Apprise",
+      "name": "apprise_enabled",
+      "ref": "e17102",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        238,
+        250,
+        28
+      ],
+      "label": "Apprise API URL",
+      "name": "apprise_url",
+      "placeholder": "http://apprise:8080",
+      "ref": "e17103",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": "http://apprise.test"
+    },
+    {
+      "aria": "Documentation: Comma separated list of Apprise service URLs",
+      "bounds": [
+        657,
+        276,
+        18,
+        18
+      ],
+      "href": "[external]",
+      "ref": "e17104",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        225,
+        299,
+        250,
+        28
+      ],
+      "label": "Comma separated list of Apprise service URLs",
+      "name": "apprise_services_url",
+      "placeholder": "tgram://<token>/<chat_id>/,matrix://",
+      "ref": "e17105",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "json://notify.test/inbox"
+    },
+    {
+      "bounds": [
+        225,
+        347,
+        79,
+        29
+      ],
+      "ref": "e17106",
+      "role": null,
+      "tag": "button",
+      "text": "Update"
+    },
+    {
+      "bounds": [
+        193,
+        396,
+        894,
+        18
+      ],
+      "ref": "e17107",
+      "role": null,
+      "tag": "summary",
+      "text": "Betula"
+    },
+    {
+      "bounds": [
+        225,
+        439,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "betula_enabled",
+      "ref": "e17108",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        485,
+        250,
+        28
+      ],
+      "name": "betula_url",
+      "placeholder": "http://links.bouncepaw.com",
+      "ref": "e17109",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        546,
+        250,
+        28
+      ],
+      "name": "betula_token",
+      "ref": "e17110",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        594,
+        79,
+        29
+      ],
+      "ref": "e17111",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        193,
+        429,
+        894,
+        18
+      ],
+      "ref": "e17112",
+      "role": null,
+      "tag": "summary",
+      "text": "Cubox"
+    },
+    {
+      "bounds": [
+        225,
+        472,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "cubox_enabled",
+      "ref": "e17113",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        518,
+        250,
+        28
+      ],
+      "name": "cubox_api_link",
+      "placeholder": "https://cubox.pro/c/api/save/xxx",
+      "ref": "e17114",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        566,
+        79,
+        29
+      ],
+      "ref": "e17115",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        193,
+        462,
+        894,
+        18
+      ],
+      "ref": "e17116",
+      "role": null,
+      "tag": "summary",
+      "text": "Discord"
+    },
+    {
+      "bounds": [
+        225,
+        505,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "discord_enabled",
+      "ref": "e17117",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        551,
+        250,
+        28
+      ],
+      "name": "discord_webhook_link",
+      "placeholder": "https://discord.com/api/webhooks/xxx/xxx",
+      "ref": "e17118",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        599,
+        79,
+        29
+      ],
+      "ref": "e17119",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        193,
+        495,
+        894,
+        18
+      ],
+      "ref": "e17120",
+      "role": null,
+      "tag": "summary",
+      "text": "Espial"
+    },
+    {
+      "bounds": [
+        225,
+        538,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "espial_enabled",
+      "ref": "e17121",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        584,
+        250,
+        28
+      ],
+      "name": "espial_url",
+      "placeholder": "https://esp.ae8.org",
+      "ref": "e17122",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        645,
+        250,
+        28
+      ],
+      "name": "espial_api_key",
+      "ref": "e17123",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        706,
+        250,
+        28
+      ],
+      "name": "espial_tags",
+      "ref": "e17124",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "miniflux"
+    },
+    {
+      "bounds": [
+        225,
+        754,
+        79,
+        29
+      ],
+      "ref": "e17125",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        193,
+        528,
+        894,
+        18
+      ],
+      "ref": "e17126",
+      "role": null,
+      "tag": "summary",
+      "text": "Fever"
+    },
+    {
+      "bounds": [
+        225,
+        571,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "fever_enabled",
+      "ref": "e17127",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        617,
+        250,
+        28
+      ],
+      "name": "fever_username",
+      "ref": "e17128",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        678,
+        250,
+        28
+      ],
+      "name": "fever_password",
+      "ref": "e17129",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        744,
+        79,
+        29
+      ],
+      "ref": "e17130",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        193,
+        561,
+        894,
+        18
+      ],
+      "ref": "e17131",
+      "role": null,
+      "tag": "summary",
+      "text": "Google Reader"
+    },
+    {
+      "bounds": [
+        225,
+        604,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "googlereader_enabled",
+      "ref": "e17132",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        650,
+        250,
+        28
+      ],
+      "name": "googlereader_username",
+      "ref": "e17133",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        711,
+        250,
+        28
+      ],
+      "name": "googlereader_password",
+      "ref": "e17134",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        777,
+        79,
+        29
+      ],
+      "ref": "e17135",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        193,
+        594,
+        894,
+        18
+      ],
+      "ref": "e17136",
+      "role": null,
+      "tag": "summary",
+      "text": "Gotify"
+    },
+    {
+      "bounds": [
+        225,
+        637,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "gotify_enabled",
+      "ref": "e17137",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        683,
+        250,
+        28
+      ],
+      "name": "gotify_url",
+      "placeholder": "https://gotify.example.com",
+      "ref": "e17138",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        744,
+        250,
+        28
+      ],
+      "name": "gotify_token",
+      "ref": "e17139",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        805,
+        250,
+        28
+      ],
+      "max": "10",
+      "min": "0",
+      "name": "gotify_priority",
+      "ref": "e17140",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "0"
+    },
+    {
+      "bounds": [
+        225,
+        853,
+        79,
+        29
+      ],
+      "ref": "e17141",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        193,
+        627,
+        894,
+        18
+      ],
+      "ref": "e17142",
+      "role": null,
+      "tag": "summary",
+      "text": "Instapaper"
+    },
+    {
+      "bounds": [
+        225,
+        670,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "instapaper_enabled",
+      "ref": "e17143",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        716,
+        250,
+        28
+      ],
+      "name": "instapaper_username",
+      "ref": "e17144",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        777,
+        250,
+        28
+      ],
+      "name": "instapaper_password",
+      "ref": "e17145",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        825,
+        79,
+        29
+      ],
+      "ref": "e17146",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        193,
+        660,
+        894,
+        18
+      ],
+      "ref": "e17147",
+      "role": null,
+      "tag": "summary",
+      "text": "LinkAce"
+    },
+    {
+      "bounds": [
+        225,
+        703,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "linkace_enabled",
+      "ref": "e17148",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        749,
+        250,
+        28
+      ],
+      "name": "linkace_url",
+      "placeholder": "http://linkace-url:port",
+      "ref": "e17149",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        810,
+        250,
+        28
+      ],
+      "name": "linkace_api_key",
+      "ref": "e17150",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        871,
+        250,
+        28
+      ],
+      "name": "linkace_tags",
+      "ref": "e17151",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        919,
+        13,
+        13
+      ],
+      "checked": true,
+      "name": "linkace_is_private",
+      "offscreen": true,
+      "ref": "e17152",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        952,
+        13,
+        13
+      ],
+      "checked": true,
+      "name": "linkace_check_disabled",
+      "offscreen": true,
+      "ref": "e17153",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        985,
+        79,
+        29
+      ],
+      "offscreen": true,
+      "ref": "e17154",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        193,
+        693,
+        894,
+        18
+      ],
+      "ref": "e17155",
+      "role": null,
+      "tag": "summary",
+      "text": "Linkding"
+    },
+    {
+      "bounds": [
+        225,
+        736,
+        13,
+        13
+      ],
+      "checked": true,
+      "label": "Save entries to Linkding",
+      "name": "linkding_enabled",
+      "ref": "e17156",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        782,
+        250,
+        28
+      ],
+      "label": "Linkding API Endpoint",
+      "name": "linkding_url",
+      "placeholder": "https://linkding.com",
+      "ref": "e17157",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": "http://links.test"
+    },
+    {
+      "bounds": [
+        225,
+        843,
+        250,
+        28
+      ],
+      "label": "Linkding API key",
+      "name": "linkding_api_key",
+      "ref": "e17158",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "ld-key-2026"
+    },
+    {
+      "bounds": [
+        225,
+        904,
+        250,
+        28
+      ],
+      "label": "Linkding Tags",
+      "name": "linkding_tags",
+      "offscreen": true,
+      "ref": "e17159",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "miniflux, news"
+    },
+    {
+      "bounds": [
+        225,
+        952,
+        13,
+        13
+      ],
+      "checked": true,
+      "label": "Mark bookmark as unread",
+      "name": "linkding_mark_as_unread",
+      "offscreen": true,
+      "ref": "e17160",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        985,
+        79,
+        29
+      ],
+      "offscreen": true,
+      "ref": "e17161",
+      "role": null,
+      "tag": "button",
+      "text": "Update"
+    },
+    {
+      "bounds": [
+        193,
+        1034,
+        894,
+        18
+      ],
+      "offscreen": true,
+      "ref": "e17162",
+      "role": null,
+      "tag": "summary",
+      "text": "LinkTaco"
+    },
+    {
+      "bounds": [
+        225,
+        1077,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "linktaco_enabled",
+      "offscreen": true,
+      "ref": "e17163",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        1123,
+        250,
+        28
+      ],
+      "name": "linktaco_api_token",
+      "offscreen": true,
+      "ref": "e17164",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": ""
+    },
+    {
+      "bounds": [
+        551,
+        1161,
+        346,
+        18
+      ],
+      "href": "[external]",
+      "offscreen": true,
+      "ref": "e17165",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        225,
+        1202,
+        250,
+        28
+      ],
+      "name": "linktaco_org_slug",
+      "offscreen": true,
+      "placeholder": "my-organization",
+      "ref": "e17166",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1263,
+        250,
+        28
+      ],
+      "name": "linktaco_tags",
+      "offscreen": true,
+      "placeholder": "miniflux, bookmarks",
+      "ref": "e17167",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1337,
+        64,
+        19
+      ],
+      "name": "linktaco_visibility",
+      "offscreen": true,
+      "options": [
+        {
+          "disabled": false,
+          "label": "Public",
+          "selected": true,
+          "value": "PUBLIC"
+        },
+        {
+          "disabled": false,
+          "label": "Private",
+          "selected": false,
+          "value": "PRIVATE"
+        }
+      ],
+      "ref": "e17168",
+      "role": null,
+      "tag": "select",
+      "text": "",
+      "value": "PUBLIC"
+    },
+    {
+      "bounds": [
+        225,
+        1399,
+        79,
+        29
+      ],
+      "offscreen": true,
+      "ref": "e17169",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        193,
+        1067,
+        894,
+        18
+      ],
+      "offscreen": true,
+      "ref": "e17170",
+      "role": null,
+      "tag": "summary",
+      "text": "Linkwarden"
+    },
+    {
+      "bounds": [
+        225,
+        1110,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "linkwarden_enabled",
+      "offscreen": true,
+      "ref": "e17171",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        1156,
+        250,
+        28
+      ],
+      "name": "linkwarden_url",
+      "offscreen": true,
+      "placeholder": "https://linkwarden.app",
+      "ref": "e17172",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1217,
+        250,
+        28
+      ],
+      "name": "linkwarden_api_key",
+      "offscreen": true,
+      "ref": "e17173",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1278,
+        250,
+        28
+      ],
+      "name": "linkwarden_collection_id",
+      "offscreen": true,
+      "ref": "e17174",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1326,
+        79,
+        29
+      ],
+      "offscreen": true,
+      "ref": "e17175",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        193,
+        1100,
+        894,
+        18
+      ],
+      "offscreen": true,
+      "ref": "e17176",
+      "role": null,
+      "tag": "summary",
+      "text": "Matrix Bot"
+    },
+    {
+      "bounds": [
+        225,
+        1143,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "matrix_bot_enabled",
+      "offscreen": true,
+      "ref": "e17177",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        1189,
+        250,
+        28
+      ],
+      "name": "matrix_bot_user",
+      "offscreen": true,
+      "ref": "e17178",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1250,
+        250,
+        28
+      ],
+      "name": "matrix_bot_password",
+      "offscreen": true,
+      "ref": "e17179",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1311,
+        250,
+        28
+      ],
+      "name": "matrix_bot_url",
+      "offscreen": true,
+      "ref": "e17180",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1372,
+        250,
+        28
+      ],
+      "name": "matrix_bot_chat_id",
+      "offscreen": true,
+      "ref": "e17181",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1420,
+        79,
+        29
+      ],
+      "offscreen": true,
+      "ref": "e17182",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        193,
+        1133,
+        894,
+        18
+      ],
+      "offscreen": true,
+      "ref": "e17183",
+      "role": null,
+      "tag": "summary",
+      "text": "Notion"
+    },
+    {
+      "bounds": [
+        225,
+        1176,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "notion_enabled",
+      "offscreen": true,
+      "ref": "e17184",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        1222,
+        250,
+        28
+      ],
+      "name": "notion_token",
+      "offscreen": true,
+      "ref": "e17185",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1283,
+        250,
+        28
+      ],
+      "name": "notion_page_id",
+      "offscreen": true,
+      "ref": "e17186",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1331,
+        79,
+        29
+      ],
+      "offscreen": true,
+      "ref": "e17187",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        193,
+        1166,
+        894,
+        18
+      ],
+      "offscreen": true,
+      "ref": "e17188",
+      "role": null,
+      "tag": "summary",
+      "text": "Ntfy"
+    },
+    {
+      "bounds": [
+        225,
+        1209,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "ntfy_enabled",
+      "offscreen": true,
+      "ref": "e17189",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        1255,
+        250,
+        28
+      ],
+      "name": "ntfy_topic",
+      "offscreen": true,
+      "ref": "e17190",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1316,
+        250,
+        28
+      ],
+      "name": "ntfy_url",
+      "offscreen": true,
+      "placeholder": "https://ntfy.sh",
+      "ref": "e17191",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1377,
+        250,
+        28
+      ],
+      "name": "ntfy_api_token",
+      "offscreen": true,
+      "ref": "e17192",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1438,
+        250,
+        28
+      ],
+      "name": "ntfy_username",
+      "offscreen": true,
+      "ref": "e17193",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1499,
+        250,
+        28
+      ],
+      "name": "ntfy_password",
+      "offscreen": true,
+      "ref": "e17194",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1560,
+        250,
+        28
+      ],
+      "name": "ntfy_icon_url",
+      "offscreen": true,
+      "ref": "e17195",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1608,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "ntfy_internal_links",
+      "offscreen": true,
+      "ref": "e17196",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        1641,
+        79,
+        29
+      ],
+      "offscreen": true,
+      "ref": "e17197",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        193,
+        1199,
+        894,
+        18
+      ],
+      "offscreen": true,
+      "ref": "e17198",
+      "role": null,
+      "tag": "summary",
+      "text": "Nunux Keeper"
+    },
+    {
+      "bounds": [
+        225,
+        1242,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "nunux_keeper_enabled",
+      "offscreen": true,
+      "ref": "e17199",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        1288,
+        250,
+        28
+      ],
+      "name": "nunux_keeper_url",
+      "offscreen": true,
+      "placeholder": "https://api.nunux.org/keeper",
+      "ref": "e17200",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1349,
+        250,
+        28
+      ],
+      "name": "nunux_keeper_api_key",
+      "offscreen": true,
+      "ref": "e17201",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1397,
+        79,
+        29
+      ],
+      "offscreen": true,
+      "ref": "e17202",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        193,
+        1232,
+        894,
+        18
+      ],
+      "offscreen": true,
+      "ref": "e17203",
+      "role": null,
+      "tag": "summary",
+      "text": "Omnivore"
+    },
+    {
+      "bounds": [
+        225,
+        1275,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "omnivore_enabled",
+      "offscreen": true,
+      "ref": "e17204",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        1321,
+        250,
+        28
+      ],
+      "name": "omnivore_api_key",
+      "offscreen": true,
+      "ref": "e17205",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1382,
+        250,
+        28
+      ],
+      "name": "omnivore_url",
+      "offscreen": true,
+      "placeholder": "https://api-prod.omnivore.app/api/graphql",
+      "ref": "e17206",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1430,
+        79,
+        29
+      ],
+      "offscreen": true,
+      "ref": "e17207",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        193,
+        1265,
+        894,
+        18
+      ],
+      "offscreen": true,
+      "ref": "e17208",
+      "role": null,
+      "tag": "summary",
+      "text": "Karakeep"
+    },
+    {
+      "bounds": [
+        225,
+        1308,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "karakeep_enabled",
+      "offscreen": true,
+      "ref": "e17209",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        1354,
+        250,
+        28
+      ],
+      "name": "karakeep_api_key",
+      "offscreen": true,
+      "ref": "e17210",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1415,
+        250,
+        28
+      ],
+      "name": "karakeep_url",
+      "offscreen": true,
+      "placeholder": "https://try.karakeep.app/api/v1/bookmarks",
+      "ref": "e17211",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1476,
+        250,
+        28
+      ],
+      "name": "karakeep_tags",
+      "offscreen": true,
+      "placeholder": "miniflux, new",
+      "ref": "e17212",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1524,
+        79,
+        29
+      ],
+      "offscreen": true,
+      "ref": "e17213",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        193,
+        1298,
+        894,
+        18
+      ],
+      "offscreen": true,
+      "ref": "e17214",
+      "role": null,
+      "tag": "summary",
+      "text": "Pinboard"
+    },
+    {
+      "bounds": [
+        225,
+        1341,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "pinboard_enabled",
+      "offscreen": true,
+      "ref": "e17215",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        1387,
+        250,
+        28
+      ],
+      "name": "pinboard_token",
+      "offscreen": true,
+      "ref": "e17216",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1448,
+        250,
+        28
+      ],
+      "name": "pinboard_tags",
+      "offscreen": true,
+      "ref": "e17217",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "miniflux"
+    },
+    {
+      "bounds": [
+        225,
+        1496,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "pinboard_mark_as_unread",
+      "offscreen": true,
+      "ref": "e17218",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        1529,
+        79,
+        29
+      ],
+      "offscreen": true,
+      "ref": "e17219",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        193,
+        1331,
+        894,
+        18
+      ],
+      "offscreen": true,
+      "ref": "e17220",
+      "role": null,
+      "tag": "summary",
+      "text": "Pushover"
+    },
+    {
+      "bounds": [
+        225,
+        1374,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "pushover_enabled",
+      "offscreen": true,
+      "ref": "e17221",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        1420,
+        250,
+        28
+      ],
+      "name": "pushover_token",
+      "offscreen": true,
+      "ref": "e17222",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1481,
+        250,
+        28
+      ],
+      "name": "pushover_user",
+      "offscreen": true,
+      "ref": "e17223",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1542,
+        250,
+        28
+      ],
+      "name": "pushover_device",
+      "offscreen": true,
+      "ref": "e17224",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1603,
+        250,
+        28
+      ],
+      "name": "pushover_prefix",
+      "offscreen": true,
+      "placeholder": "https://api.pushover.net",
+      "ref": "e17225",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1651,
+        79,
+        29
+      ],
+      "offscreen": true,
+      "ref": "e17226",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        193,
+        1364,
+        894,
+        18
+      ],
+      "offscreen": true,
+      "ref": "e17227",
+      "role": null,
+      "tag": "summary",
+      "text": "Raindrop"
+    },
+    {
+      "bounds": [
+        225,
+        1407,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "raindrop_enabled",
+      "offscreen": true,
+      "ref": "e17228",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        1453,
+        250,
+        28
+      ],
+      "name": "raindrop_token",
+      "offscreen": true,
+      "ref": "e17229",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1514,
+        250,
+        28
+      ],
+      "name": "raindrop_collection_id",
+      "offscreen": true,
+      "ref": "e17230",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1575,
+        250,
+        28
+      ],
+      "name": "raindrop_tags",
+      "offscreen": true,
+      "ref": "e17231",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1623,
+        79,
+        29
+      ],
+      "offscreen": true,
+      "ref": "e17232",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        193,
+        1397,
+        894,
+        18
+      ],
+      "offscreen": true,
+      "ref": "e17233",
+      "role": null,
+      "tag": "summary",
+      "text": "Readeck"
+    },
+    {
+      "bounds": [
+        225,
+        1440,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "readeck_enabled",
+      "offscreen": true,
+      "ref": "e17234",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        1473,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "readeck_push_enabled",
+      "offscreen": true,
+      "ref": "e17235",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        1506,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "readeck_only_url",
+      "offscreen": true,
+      "ref": "e17236",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        1552,
+        250,
+        28
+      ],
+      "name": "readeck_url",
+      "offscreen": true,
+      "placeholder": "https://readeck.com",
+      "ref": "e17237",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1613,
+        250,
+        28
+      ],
+      "name": "readeck_api_key",
+      "offscreen": true,
+      "ref": "e17238",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1674,
+        250,
+        28
+      ],
+      "name": "readeck_labels",
+      "offscreen": true,
+      "ref": "e17239",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1722,
+        79,
+        29
+      ],
+      "offscreen": true,
+      "ref": "e17240",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        193,
+        1430,
+        894,
+        18
+      ],
+      "offscreen": true,
+      "ref": "e17241",
+      "role": null,
+      "tag": "summary",
+      "text": "Readwise Reader"
+    },
+    {
+      "bounds": [
+        225,
+        1473,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "readwise_enabled",
+      "offscreen": true,
+      "ref": "e17242",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        1519,
+        250,
+        28
+      ],
+      "name": "readwise_api_key",
+      "offscreen": true,
+      "ref": "e17243",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1557,
+        288,
+        18
+      ],
+      "href": "[external]",
+      "offscreen": true,
+      "ref": "e17244",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        225,
+        1585,
+        79,
+        29
+      ],
+      "offscreen": true,
+      "ref": "e17245",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        193,
+        1463,
+        894,
+        18
+      ],
+      "offscreen": true,
+      "ref": "e17246",
+      "role": null,
+      "tag": "summary",
+      "text": "RSS-Bridge"
+    },
+    {
+      "bounds": [
+        225,
+        1506,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "rssbridge_enabled",
+      "offscreen": true,
+      "ref": "e17247",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        1552,
+        250,
+        28
+      ],
+      "name": "rssbridge_url",
+      "offscreen": true,
+      "ref": "e17248",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1613,
+        250,
+        28
+      ],
+      "name": "rssbridge_token",
+      "offscreen": true,
+      "ref": "e17249",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1661,
+        79,
+        29
+      ],
+      "offscreen": true,
+      "ref": "e17250",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        193,
+        1496,
+        894,
+        18
+      ],
+      "offscreen": true,
+      "ref": "e17251",
+      "role": null,
+      "tag": "summary",
+      "text": "Shaarli"
+    },
+    {
+      "bounds": [
+        225,
+        1539,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "shaarli_enabled",
+      "offscreen": true,
+      "ref": "e17252",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        1585,
+        250,
+        28
+      ],
+      "name": "shaarli_url",
+      "offscreen": true,
+      "placeholder": "https://shaarli.example.org",
+      "ref": "e17253",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1646,
+        250,
+        28
+      ],
+      "name": "shaarli_api_secret",
+      "offscreen": true,
+      "ref": "e17254",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1694,
+        79,
+        29
+      ],
+      "offscreen": true,
+      "ref": "e17255",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        193,
+        1529,
+        894,
+        18
+      ],
+      "offscreen": true,
+      "ref": "e17256",
+      "role": null,
+      "tag": "summary",
+      "text": "Shiori"
+    },
+    {
+      "bounds": [
+        225,
+        1572,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "shiori_enabled",
+      "offscreen": true,
+      "ref": "e17257",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        1618,
+        250,
+        28
+      ],
+      "name": "shiori_url",
+      "offscreen": true,
+      "placeholder": "https://shiori.example.org",
+      "ref": "e17258",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1679,
+        250,
+        28
+      ],
+      "name": "shiori_username",
+      "offscreen": true,
+      "ref": "e17259",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1740,
+        250,
+        28
+      ],
+      "name": "shiori_password",
+      "offscreen": true,
+      "ref": "e17260",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1788,
+        79,
+        29
+      ],
+      "offscreen": true,
+      "ref": "e17261",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        193,
+        1562,
+        894,
+        18
+      ],
+      "offscreen": true,
+      "ref": "e17262",
+      "role": null,
+      "tag": "summary",
+      "text": "Slack"
+    },
+    {
+      "bounds": [
+        225,
+        1605,
+        13,
+        13
+      ],
+      "checked": true,
+      "label": "Push entries to Slack",
+      "name": "slack_enabled",
+      "offscreen": true,
+      "ref": "e17263",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        1651,
+        250,
+        28
+      ],
+      "label": "Slack Webhook link",
+      "name": "slack_webhook_link",
+      "offscreen": true,
+      "placeholder": "https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX",
+      "ref": "e17264",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": "http://slack.test/services/hook"
+    },
+    {
+      "bounds": [
+        225,
+        1699,
+        79,
+        29
+      ],
+      "offscreen": true,
+      "ref": "e17265",
+      "role": null,
+      "tag": "button",
+      "text": "Update"
+    },
+    {
+      "bounds": [
+        193,
+        1748,
+        894,
+        18
+      ],
+      "offscreen": true,
+      "ref": "e17266",
+      "role": null,
+      "tag": "summary",
+      "text": "Telegram Bot"
+    },
+    {
+      "bounds": [
+        225,
+        1791,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "telegram_bot_enabled",
+      "offscreen": true,
+      "ref": "e17267",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        1837,
+        250,
+        28
+      ],
+      "name": "telegram_bot_token",
+      "offscreen": true,
+      "placeholder": "bot123456:Abcdefg",
+      "ref": "e17268",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1898,
+        250,
+        28
+      ],
+      "name": "telegram_bot_chat_id",
+      "offscreen": true,
+      "ref": "e17269",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        1959,
+        250,
+        28
+      ],
+      "name": "telegram_bot_topic_id",
+      "offscreen": true,
+      "ref": "e17270",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": ""
+    },
+    {
+      "bounds": [
+        225,
+        2007,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "telegram_bot_disable_web_page_preview",
+      "offscreen": true,
+      "ref": "e17271",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        2040,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "telegram_bot_disable_notification",
+      "offscreen": true,
+      "ref": "e17272",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        2073,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "telegram_bot_disable_buttons",
+      "offscreen": true,
+      "ref": "e17273",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        2106,
+        79,
+        29
+      ],
+      "offscreen": true,
+      "ref": "e17274",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        193,
+        1781,
+        894,
+        18
+      ],
+      "offscreen": true,
+      "ref": "e17275",
+      "role": null,
+      "tag": "summary",
+      "text": "Wallabag"
+    },
+    {
+      "bounds": [
+        225,
+        1824,
+        13,
+        13
+      ],
+      "checked": true,
+      "label": "Save entries to Wallabag",
+      "name": "wallabag_enabled",
+      "offscreen": true,
+      "ref": "e17276",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        1857,
+        13,
+        13
+      ],
+      "checked": false,
+      "label": "Send only URL (instead of full content)",
+      "name": "wallabag_only_url",
+      "offscreen": true,
+      "ref": "e17277",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        1903,
+        250,
+        28
+      ],
+      "label": "Wallabag Base URL",
+      "name": "wallabag_url",
+      "offscreen": true,
+      "ref": "e17278",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": "http://wallabag.test"
+    },
+    {
+      "bounds": [
+        225,
+        1964,
+        250,
+        28
+      ],
+      "label": "Wallabag Client ID",
+      "name": "wallabag_client_id",
+      "offscreen": true,
+      "ref": "e17279",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "wb-client"
+    },
+    {
+      "bounds": [
+        225,
+        2025,
+        250,
+        28
+      ],
+      "label": "Wallabag Client Secret",
+      "name": "wallabag_client_secret",
+      "offscreen": true,
+      "ref": "e17280",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": "[password]"
+    },
+    {
+      "bounds": [
+        225,
+        2086,
+        250,
+        28
+      ],
+      "label": "Wallabag Username",
+      "name": "wallabag_username",
+      "offscreen": true,
+      "ref": "e17281",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "wb-user"
+    },
+    {
+      "bounds": [
+        225,
+        2147,
+        250,
+        28
+      ],
+      "label": "Wallabag Password",
+      "name": "wallabag_password",
+      "offscreen": true,
+      "ref": "e17282",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": "[password]"
+    },
+    {
+      "bounds": [
+        225,
+        2208,
+        250,
+        28
+      ],
+      "label": "Wallabag Tags",
+      "name": "wallabag_tags",
+      "offscreen": true,
+      "ref": "e17283",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "reading"
+    },
+    {
+      "bounds": [
+        225,
+        2256,
+        79,
+        29
+      ],
+      "offscreen": true,
+      "ref": "e17284",
+      "role": null,
+      "tag": "button",
+      "text": "Update"
+    },
+    {
+      "bounds": [
+        193,
+        2305,
+        894,
+        18
+      ],
+      "offscreen": true,
+      "ref": "e17285",
+      "role": null,
+      "tag": "summary",
+      "text": "Webhook"
+    },
+    {
+      "bounds": [
+        225,
+        2348,
+        13,
+        13
+      ],
+      "checked": true,
+      "label": "Enable Webhooks",
+      "name": "webhook_enabled",
+      "offscreen": true,
+      "ref": "e17286",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        225,
+        2394,
+        250,
+        28
+      ],
+      "label": "Default Webhook URL",
+      "name": "webhook_url",
+      "offscreen": true,
+      "placeholder": "https://username:password@example.org",
+      "ref": "e17287",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": "http://hooks.test/receive"
+    },
+    {
+      "bounds": [
+        225,
+        2455,
+        250,
+        28
+      ],
+      "label": "Webhooks Secret",
+      "name": "webhook_secret",
+      "offscreen": true,
+      "ref": "e17288",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "7d3646c85b98e664818e8d4c57b0a330c29d8e076b64e041b3a510b572f264ec"
+    },
+    {
+      "bounds": [
+        225,
+        2503,
+        79,
+        29
+      ],
+      "offscreen": true,
+      "ref": "e17289",
+      "role": null,
+      "tag": "button",
+      "text": "Update"
+    },
+    {
+      "bounds": [
+        554,
+        2662,
+        173,
+        22
+      ],
+      "href": "[external]",
+      "offscreen": true,
+      "ref": "e17290",
+      "role": null,
+      "tag": "a",
+      "text": "Add to Miniflux"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    2774
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Skip to content\nMini\nflux\nUnread (6) Starred History Feeds (+) Categories Search Settings Logout\nIntegrations\nSettings Integrations API Keys Sessions Users About\nArchive.org\nApprise\n Push entries to Apprise\nApprise API URL\nComma separated list of Apprise service URLs \nUpdate\nBetula\nCubox\nDiscord\nEspial\nFever\nGoogle Reader\nGotify\nInstapaper\nLinkAce\nLinkding\n Save entries to Linkding\nLinkding API Endpoint\nLinkding API key\nLinkding Tags\n Mark bookmark as unread\nUpdate\nLinkTaco\nLinkwarden\nMatrix Bot\nNotion\nNtfy\nNunux Keeper\nOmnivore\nKarakeep\nPinboard\nPushover\nRaindrop\nReadeck\nReadwise Reader\nRSS-Bridge\nShaarli\nShiori\nSlack\n Push entries to Slack\nSlack Webhook link\nUpdate\nTelegram Bot\nWallabag\n Save entries to Wallabag\n Send only URL (instead of full content)\nWallabag Base URL\nWallabag Client ID\nWallabag Client Secret\nWallabag Username\nWallabag Password\nWallabag Tags\nUpdate\nWebhook\n Enable Webhooks\nDefault Webhook URL\nWebhooks Secret\nUpdate\nBookmarklet\n\nThis special link allows you to subscribe to a website directly by using a bookmark in your web browser.\n\nAdd to Miniflux\n\nDrag and drop this link to your bookmarks.",
+  "text_truncated": false,
+  "title": "Integrations - Miniflux",
+  "url": "/integrations",
+  "viewport": [
+    1280,
+    900
+  ]
+}

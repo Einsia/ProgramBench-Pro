@@ -1,0 +1,231 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        0,
+        1182,
+        101
+      ],
+      "ref": "e899963c5",
+      "tag": "div",
+      "text": "Click to select a file or drag and drop A single PDF file Your files never leave your device."
+    },
+    {
+      "bounds": [
+        1203,
+        141,
+        16,
+        16
+      ],
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        49,
+        355,
+        583,
+        45
+      ],
+      "label": "Pages per Sheet",
+      "options": [
+        {
+          "label": "2-up (1x2)",
+          "selected": false,
+          "value": "2"
+        },
+        {
+          "label": "4-up (2x2)",
+          "selected": true,
+          "value": "4"
+        },
+        {
+          "label": "9-up (3x3)",
+          "selected": false,
+          "value": "9"
+        },
+        {
+          "label": "16-up (4x4)",
+          "selected": false,
+          "value": "16"
+        }
+      ],
+      "ref": "e617808e4",
+      "tag": "select",
+      "value": "4"
+    },
+    {
+      "bounds": [
+        648,
+        355,
+        583,
+        45
+      ],
+      "label": "Output Page Size",
+      "options": [
+        {
+          "label": "Letter (8.5\" x 11\")",
+          "selected": true,
+          "value": "Letter"
+        },
+        {
+          "label": "A4",
+          "selected": false,
+          "value": "A4"
+        },
+        {
+          "label": "Legal",
+          "selected": false,
+          "value": "Legal"
+        },
+        {
+          "label": "A3",
+          "selected": false,
+          "value": "A3"
+        }
+      ],
+      "ref": "efc00fc77",
+      "tag": "select",
+      "value": "Letter"
+    },
+    {
+      "bounds": [
+        49,
+        444,
+        583,
+        45
+      ],
+      "label": "Orientation",
+      "options": [
+        {
+          "label": "Auto",
+          "selected": true,
+          "value": "auto"
+        },
+        {
+          "label": "Portrait",
+          "selected": false,
+          "value": "portrait"
+        },
+        {
+          "label": "Landscape",
+          "selected": false,
+          "value": "landscape"
+        }
+      ],
+      "ref": "e1f0c018a",
+      "tag": "select",
+      "value": "auto"
+    },
+    {
+      "bounds": [
+        648,
+        469,
+        106,
+        20
+      ],
+      "checked": false,
+      "label": "Add Margins",
+      "ref": "e1e07af2f",
+      "tag": "label",
+      "text": "Add Margins",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        49,
+        505,
+        583,
+        73
+      ],
+      "checked": true,
+      "label": "Add Border",
+      "ref": "e54fc00f9",
+      "tag": "label",
+      "text": "Add Border",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        648,
+        533,
+        40,
+        40
+      ],
+      "label": "Border Color",
+      "ref": "e73557a27",
+      "tag": "input",
+      "type": "color",
+      "value": "#000000"
+    },
+    {
+      "bounds": [
+        49,
+        610,
+        1182,
+        48
+      ],
+      "ref": "e743bfcaa",
+      "tag": "button",
+      "text": "Create N-Up PDF"
+    },
+    {
+      "bounds": [
+        473,
+        472,
+        334,
+        40
+      ],
+      "ref": "e2a50e308",
+      "tag": "button",
+      "text": "OK"
+    },
+    {
+      "bounds": [
+        1170,
+        862,
+        94,
+        34
+      ],
+      "expanded": false,
+      "ref": "ebda396fc",
+      "tag": "button",
+      "text": "English"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "report.pdf",
+      "ref": "d6466e450a16b",
+      "size": 4683
+    }
+  ],
+  "inputs": [
+    "mixed.pdf",
+    "report.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›N-Up PDF\nN-Up PDF\n\nArrange multiple pages onto a single sheet.\n\nClick to select a file or drag and drop\n\nA single PDF file\n\nYour files never leave your device.\n\nreport.pdf\n3.7 KB • 4 pages\n\nHow it works:\n\nChoose how many pages to fit on each sheet (2, 4, 9, or 16).\nSelect output page size and orientation.\nOptionally add margins and borders around each page.\nPages per Sheet\n2-up (1x2)\n4-up (2x2)\n9-up (3x3)\n16-up (4x4)\nOutput Page Size\nLetter (8.5\" x 11\")\nA4\nLegal\nA3\nOrientation\nAuto\nPortrait\nLandscape\nAdd Margins\nAdd Border\nBorder Color\nCreate N-Up PDF\nSuccess\n\nN-Up PDF created successfully!\n\nOK\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/n-up-pdf.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

@@ -1,0 +1,17 @@
+FROM program-bench-gitea-base:1.0.0 AS installation
+COPY solution/gitea solution/seed.py solution/start.sh solution/solve.sh solution/SOURCE.json solution/LICENSE solution/NOTICE /solution/
+RUN bash /solution/solve.sh
+
+FROM program-bench-gitea-base:1.0.0
+COPY --from=installation /app/solution/ /app/solution/
+COPY environment/runtime/ /opt/blackbox/runtime/
+RUN chmod -R u=rwX,go=rX /opt/blackbox/runtime && \
+    mkdir -p /reference /blackbox && chown -R root:root /reference /blackbox && \
+    chown root:root /app && chown -hR root:root /app/solution && \
+    find /app/solution -type f -perm /111 -exec chmod 0555 {} + && \
+    find /app/solution -type f ! -perm /111 -exec chmod 0444 {} + && \
+    find /app/solution -type d -exec chmod 0711 {} +
+ENV PYTHONDONTWRITEBYTECODE=1 LANG=C.UTF-8 LC_ALL=C.UTF-8 TZ=UTC TMPDIR=/tmp
+USER root
+ENTRYPOINT ["/usr/bin/tini", "--", "python3", "-I", "-B", "/opt/blackbox/runtime/reference_entrypoint.py"]
+CMD ["python3", "-I", "-B", "/opt/blackbox/runtime/broker.py", "--user", "agent", "--socket-mode", "0600", "--log-dir", "/reference/logs"]

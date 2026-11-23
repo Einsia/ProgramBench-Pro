@@ -1,0 +1,372 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        13,
+        191,
+        26,
+        26
+      ],
+      "ref": "ee02b9e8c",
+      "tag": "button",
+      "title": "Expand all fields"
+    },
+    {
+      "bounds": [
+        43,
+        191,
+        26,
+        26
+      ],
+      "ref": "e85e63fcb",
+      "tag": "button",
+      "title": "Collapse all fields"
+    },
+    {
+      "bounds": [
+        73,
+        191,
+        26,
+        26
+      ],
+      "ref": "ea12a318a",
+      "tag": "button",
+      "title": "Sort contents"
+    },
+    {
+      "bounds": [
+        103,
+        191,
+        26,
+        26
+      ],
+      "ref": "e35050c81",
+      "tag": "button",
+      "title": "Filter, sort, or transform contents"
+    },
+    {
+      "bounds": [
+        141,
+        191,
+        26,
+        26
+      ],
+      "ref": "ebbb5bcf1",
+      "tag": "button",
+      "title": "Undo last action (Ctrl+Z)"
+    },
+    {
+      "bounds": [
+        171,
+        191,
+        26,
+        26
+      ],
+      "disabled": true,
+      "ref": "e0a2b66da",
+      "tag": "button",
+      "title": "Redo (Ctrl+Shift+Z)"
+    },
+    {
+      "bounds": [
+        420,
+        192,
+        18,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e1d35618c",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        439,
+        193,
+        126,
+        18
+      ],
+      "context": "Search fields and values",
+      "ref": "e3b24d854",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        566,
+        192,
+        16,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e44fcfed4",
+      "tag": "button",
+      "title": "Next result (Enter)"
+    },
+    {
+      "bounds": [
+        582,
+        192,
+        16,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e0ed8f5b1",
+      "tag": "button",
+      "title": "Previous result (Shift + Enter)"
+    },
+    {
+      "bounds": [
+        33,
+        248,
+        24,
+        24
+      ],
+      "ref": "ebb03648e",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        57,
+        248,
+        24,
+        24
+      ],
+      "ref": "e8f71e697",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        140,
+        249,
+        31,
+        22
+      ],
+      "ref": "e4b214abd",
+      "tag": "div",
+      "text": "{4}",
+      "title": "object containing 4 items"
+    },
+    {
+      "bounds": [
+        9,
+        272,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3a",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        272,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex2",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        81,
+        272,
+        24,
+        24
+      ],
+      "ref": "e8f71e697x2",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        106,
+        273,
+        124,
+        22
+      ],
+      "ref": "e6234eb7f",
+      "tag": "div",
+      "text": "user_countries",
+      "value": "user_countries"
+    },
+    {
+      "bounds": [
+        232,
+        273,
+        31,
+        22
+      ],
+      "ref": "e0f67b9d3",
+      "tag": "div",
+      "text": "[2]",
+      "title": "array containing 2 items"
+    },
+    {
+      "bounds": [
+        9,
+        296,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax2",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        296,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex3",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        106,
+        297,
+        124,
+        22
+      ],
+      "ref": "e25b50976",
+      "tag": "div",
+      "text": "origin_country",
+      "value": "origin_country"
+    },
+    {
+      "bounds": [
+        240,
+        297,
+        38,
+        22
+      ],
+      "ref": "efb0988ed",
+      "tag": "div",
+      "text": "FR",
+      "value": "FR"
+    },
+    {
+      "bounds": [
+        9,
+        320,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax3",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        320,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex4",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        81,
+        320,
+        24,
+        24
+      ],
+      "ref": "e8f71e697x3",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        106,
+        321,
+        157,
+        22
+      ],
+      "ref": "eec8dc0d6",
+      "tag": "div",
+      "text": "shipping_countries",
+      "value": "shipping_countries"
+    },
+    {
+      "bounds": [
+        265,
+        321,
+        31,
+        22
+      ],
+      "ref": "e3bbf3c2b",
+      "tag": "div",
+      "text": "[3]",
+      "title": "array containing 3 items"
+    },
+    {
+      "bounds": [
+        9,
+        344,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax4",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        344,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex5",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        106,
+        345,
+        76,
+        38
+      ],
+      "ref": "e915436c3",
+      "tag": "div",
+      "text": "description",
+      "value": "description"
+    },
+    {
+      "bounds": [
+        192,
+        345,
+        414,
+        38
+      ],
+      "ref": "eed8d2a5e",
+      "tag": "div",
+      "text": "Search by country name, capital, or code - value stored is the country code",
+      "value": "Search by country name, capital, or code - value stored is the country code"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "drawing": [],
+  "drawing_truncated": false,
+  "text": "Auto Complete with Multiple Searchable Fields\nThis example demonstrates advanced autocomplete functionality with custom filtering that searches across multiple fields within each option. Countries with multiple searchable fields - you can search by country name, capital city, or country code. Try typing \"United States\", \"Washington\", \"US\", \"Ger\nobject\n►\norigin_country\nobject\n:",
+  "text_truncated": false,
+  "title": "JSONEditor | Auto Complete with Multiple Searchable Fields",
+  "url": "/examples/29_autocomplete_multiple_fields.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

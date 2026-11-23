@@ -1,0 +1,25 @@
+{
+  "task": "tig",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "Tig",
+    "version": "2.6.1",
+    "homepage": "https://jonas.github.io/tig/",
+    "repository": "https://github.com/jonas/tig",
+    "license": "GPL-2.0-or-later"
+  },
+  "downloads": [
+    {
+      "file": "tig-2.6.1.tar.gz",
+      "url": "https://github.com/jonas/tig/releases/download/tig-2.6.1/tig-2.6.1.tar.gz",
+      "sha256": "5adeabdcd93aa0423d618da8b878b53482bef6e0e9e1fe224acc0f18031fe91e"
+    }
+  ],
+  "bundled": [],
+  "modifications": "No upstream source changes. Separate launch.py and confine.c configure the instance and apply Landlock restrictions.",
+  "configuration": "The runtime creates a local Git repository at DATA_DIR/repository and writes validated user configuration under HOME. Native prompt and grep input use dedicated bindings. Git hooks, filesystem monitors, signing, remote protocols and external editors are disabled. Exports stay under DATA_DIR/outbox. Landlock restricts writes to instance directories and execution to Git and its loader.",
+  "notes": {
+    "build": "solve.sh configures the upstream source with --prefix=/usr/local and CFLAGS=-O2 -g0, runs make -j4, and installs src/tig; confine.c is compiled as a separate shared library.",
+    "corresponding_source": "The unmodified tig-2.6.1.tar.gz input is retained with the installed program; LICENSE contains GPL version 2."
+  }
+}

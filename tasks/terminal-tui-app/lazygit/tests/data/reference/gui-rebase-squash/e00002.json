@@ -1,0 +1,615 @@
+{
+  "cursor": {
+    "column": 119,
+    "hidden": true,
+    "row": 35
+  },
+  "process": "running",
+  "screen": [
+    "00|╭─[1]─Status───────────────────────────╮╭─[0]─Patch────────────────────────────────────────────────────────────────────╮",
+    "01|│workspace → feature                   ││commit fb4c4310a11582b61d7af668c7b8651f7d81bd26                               ▐",
+    "02|╰──────────────────────────────────────╯│Author: Ada Lovelace <ada@example.com>                                        ▐",
+    "03|╭─[2]─Files - Worktrees - Submodules───╮│Date:   Mon Jan 1 12:07:00 2024 +0000                                         ▐",
+    "04|│                                      ││                                                                              ▐",
+    "05|│                                      ││    f-one                                                                     ▐",
+    "06|│                                      ││                                                                              ▐",
+    "07|│                                      ││    f-two                                                                     ▐",
+    "08|│                                      ││---                                                                           ▐",
+    "09|│                                      ││ f1.txt | 1 +                                                                 ▐",
+    "10|│                                      ││ f2.txt | 1 +                                                                 ▐",
+    "11|│                                      ││ 2 files changed, 2 insertions(+)                                             ▐",
+    "12|╰───────────────────────────────0 of 0─╯│                                                                              ▐",
+    "13|╭─[3]─Local branches - Remotes - Tags──╮│diff --git a/f1.txt b/f1.txt                                                  ▐",
+    "14|│  * feature                           ││new file mode 100644                                                          ▐",
+    "15|│~~  main                              ││index 0000000..5626abf                                                        ▐",
+    "16|│                                      ││--- /dev/null                                                                 ▐",
+    "17|│                                      ││+++ b/f1.txt                                                                  ▐",
+    "18|│                                      ││@@ -0,0 +1 @@                                                                 │",
+    "19|│                                      ││+one                                                                          │",
+    "20|│                                      ││diff --git a/f2.txt b/f2.txt                                                  │",
+    "21|│                                      ││new file mode 100644                                                          │",
+    "22|╰───────────────────────────────1 of 2─╯│index 0000000..f719efd                                                        │",
+    "23|╭─[4]─Commits - Reflog─────────────────╮│--- /dev/null                                                                 │",
+    "24|│7644ddb2 AL ○ f-three                 ││+++ b/f2.txt                                                                  │",
+    "25|│fb4c4310 AL ○ f-one                   ││@@ -0,0 +1 @@                                                                 │",
+    "26|│9b8f2564 AL ○ base                    ││+two                                                                          │",
+    "27|│                                      ││                                                                              │",
+    "28|│                                      ││                                                                              │",
+    "29|│                                      ││                                                                              │",
+    "30|│                                      ││                                                                              │",
+    "31|╰───────────────────────────────2 of 3─╯╰──────────────────────────────────────────────────────────────────────────────╯",
+    "32|╭─[5]─Stash────────────────────────────╮╭─Command log──────────────────────────────────────────────────────────────────╮",
+    "33|│                                      ││  git rebase --continue                                                       │",
+    "34|╰───────────────────────────────0 of 0─╯╰──────────────────────────────────────────────────────────────────────────────╯",
+    "35|Squash: s | Fixup: f | Reword: r | Drop: d | Amend: A | Checkout: <space> | Reset: g | Copy (cherry-pick): C      0.66.2"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        41,
+        88
+      ],
+      "row": 1,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "commit fb4c4310a11582b61d7af668c7b8651f7d81bd26"
+    },
+    {
+      "columns": [
+        6,
+        12
+      ],
+      "row": 3,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Files "
+    },
+    {
+      "columns": [
+        53,
+        54
+      ],
+      "row": 9,
+      "style": [
+        "fg=green"
+      ],
+      "text": "+"
+    },
+    {
+      "columns": [
+        53,
+        54
+      ],
+      "row": 10,
+      "style": [
+        "fg=green"
+      ],
+      "text": "+"
+    },
+    {
+      "columns": [
+        6,
+        21
+      ],
+      "row": 13,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Local branches "
+    },
+    {
+      "columns": [
+        41,
+        69
+      ],
+      "row": 13,
+      "style": [
+        "bold"
+      ],
+      "text": "diff --git a/f1.txt b/f1.txt"
+    },
+    {
+      "columns": [
+        1,
+        4
+      ],
+      "row": 14,
+      "style": [
+        "fg=green"
+      ],
+      "text": "  *"
+    },
+    {
+      "columns": [
+        41,
+        61
+      ],
+      "row": 14,
+      "style": [
+        "bold"
+      ],
+      "text": "new file mode 100644"
+    },
+    {
+      "columns": [
+        1,
+        3
+      ],
+      "row": 15,
+      "style": [
+        "fg=cyan"
+      ],
+      "text": "2y"
+    },
+    {
+      "columns": [
+        41,
+        63
+      ],
+      "row": 15,
+      "style": [
+        "bold"
+      ],
+      "text": "index 0000000..5626abf"
+    },
+    {
+      "columns": [
+        41,
+        54
+      ],
+      "row": 16,
+      "style": [
+        "bold"
+      ],
+      "text": "--- /dev/null"
+    },
+    {
+      "columns": [
+        41,
+        53
+      ],
+      "row": 17,
+      "style": [
+        "bold"
+      ],
+      "text": "+++ b/f1.txt"
+    },
+    {
+      "columns": [
+        41,
+        54
+      ],
+      "row": 18,
+      "style": [
+        "fg=cyan"
+      ],
+      "text": "@@ -0,0 +1 @@"
+    },
+    {
+      "columns": [
+        41,
+        45
+      ],
+      "row": 19,
+      "style": [
+        "fg=green"
+      ],
+      "text": "+one"
+    },
+    {
+      "columns": [
+        41,
+        69
+      ],
+      "row": 20,
+      "style": [
+        "bold"
+      ],
+      "text": "diff --git a/f2.txt b/f2.txt"
+    },
+    {
+      "columns": [
+        41,
+        61
+      ],
+      "row": 21,
+      "style": [
+        "bold"
+      ],
+      "text": "new file mode 100644"
+    },
+    {
+      "columns": [
+        41,
+        63
+      ],
+      "row": 22,
+      "style": [
+        "bold"
+      ],
+      "text": "index 0000000..f719efd"
+    },
+    {
+      "columns": [
+        0,
+        14
+      ],
+      "row": 23,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "╭─[4]─Commits "
+    },
+    {
+      "columns": [
+        22,
+        40
+      ],
+      "row": 23,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "─────────────────╮"
+    },
+    {
+      "columns": [
+        41,
+        54
+      ],
+      "row": 23,
+      "style": [
+        "bold"
+      ],
+      "text": "--- /dev/null"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 24,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        1,
+        9
+      ],
+      "row": 24,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "7644ddb2"
+    },
+    {
+      "columns": [
+        10,
+        12
+      ],
+      "row": 24,
+      "style": [
+        "fg=ff8787"
+      ],
+      "text": "AL"
+    },
+    {
+      "columns": [
+        13,
+        14
+      ],
+      "row": 24,
+      "style": [
+        "fg=ff8787"
+      ],
+      "text": "○"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 24,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        41,
+        53
+      ],
+      "row": 24,
+      "style": [
+        "bold"
+      ],
+      "text": "+++ b/f2.txt"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 25,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        1,
+        9
+      ],
+      "row": 25,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": "fb4c4310"
+    },
+    {
+      "columns": [
+        10,
+        12
+      ],
+      "row": 25,
+      "style": [
+        "bold",
+        "fg=ff8787",
+        "bg=blue"
+      ],
+      "text": "AL"
+    },
+    {
+      "columns": [
+        13,
+        14
+      ],
+      "row": 25,
+      "style": [
+        "bold",
+        "fg=ffffff",
+        "bg=blue"
+      ],
+      "text": "○"
+    },
+    {
+      "columns": [
+        14,
+        39
+      ],
+      "row": 25,
+      "style": [
+        "bold",
+        "bg=blue"
+      ],
+      "text": " f-one                   "
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 25,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        41,
+        54
+      ],
+      "row": 25,
+      "style": [
+        "fg=cyan"
+      ],
+      "text": "@@ -0,0 +1 @@"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 26,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        1,
+        9
+      ],
+      "row": 26,
+      "style": [
+        "fg=green"
+      ],
+      "text": "9b8f2564"
+    },
+    {
+      "columns": [
+        10,
+        12
+      ],
+      "row": 26,
+      "style": [
+        "fg=ff8787"
+      ],
+      "text": "AL"
+    },
+    {
+      "columns": [
+        13,
+        14
+      ],
+      "row": 26,
+      "style": [
+        "fg=ff8787"
+      ],
+      "text": "○"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 26,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        41,
+        45
+      ],
+      "row": 26,
+      "style": [
+        "fg=green"
+      ],
+      "text": "+two"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 27,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 27,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 28,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 28,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 29,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 29,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 30,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 30,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        0,
+        40
+      ],
+      "row": 31,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "╰───────────────────────────────2 of 3─╯"
+    },
+    {
+      "columns": [
+        0,
+        108
+      ],
+      "row": 35,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "Squash: s | Fixup: f | Reword: r | Drop: d | Amend: A | Checkout: <space> | Reset: g | Copy (cherry-pick): C"
+    }
+  ]
+}

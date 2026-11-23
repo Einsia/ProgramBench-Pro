@@ -1,0 +1,409 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        110,
+        175,
+        154,
+        154
+      ],
+      "ref": "canvas0",
+      "tag": "svg"
+    },
+    {
+      "bounds": [
+        376,
+        77,
+        904,
+        823
+      ],
+      "ref": "canvas1",
+      "tag": "svg"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        0,
+        9,
+        82,
+        53
+      ],
+      "ref": "e75fe0e2a",
+      "tag": "a"
+    },
+    {
+      "bounds": [
+        1140,
+        16,
+        112,
+        36
+      ],
+      "ref": "eed4bab7b",
+      "tag": "button",
+      "text": "Share"
+    },
+    {
+      "bounds": [
+        0,
+        88,
+        32,
+        32
+      ],
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        36,
+        85,
+        63,
+        37
+      ],
+      "ref": "e0aa301ad",
+      "role": "tab",
+      "selected": false,
+      "tag": "div",
+      "text": "Tables (4)"
+    },
+    {
+      "bounds": [
+        107,
+        85,
+        84,
+        37
+      ],
+      "ref": "ed8ae1a6e",
+      "role": "tab",
+      "selected": false,
+      "tag": "div",
+      "text": "Views (0)"
+    },
+    {
+      "bounds": [
+        200,
+        85,
+        138,
+        37
+      ],
+      "ref": "ed0640baf",
+      "role": "tab",
+      "selected": true,
+      "tag": "div",
+      "text": "Relationships (0)"
+    },
+    {
+      "bounds": [
+        342,
+        88,
+        32,
+        32
+      ],
+      "ref": "ea0fc21fdx2",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        41,
+        136,
+        324,
+        30
+      ],
+      "placeholder": "Search...",
+      "ref": "e5392364d",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        20,
+        825,
+        29,
+        16
+      ],
+      "ref": "ec66cb417",
+      "tag": "div",
+      "text": "4",
+      "title": "Tables"
+    },
+    {
+      "bounds": [
+        61,
+        824,
+        31,
+        18
+      ],
+      "ref": "e69afc339",
+      "tag": "div",
+      "text": "0",
+      "title": "Relationships"
+    },
+    {
+      "bounds": [
+        217,
+        823,
+        83,
+        20
+      ],
+      "ref": "e2152f4c5",
+      "tag": "button",
+      "text": "Structure"
+    },
+    {
+      "bounds": [
+        299,
+        823,
+        61,
+        20
+      ],
+      "ref": "e7cfe6d9f",
+      "tag": "button",
+      "text": "Code"
+    },
+    {
+      "bounds": [
+        8,
+        855,
+        358,
+        40
+      ],
+      "expanded": false,
+      "ref": "ef121d4d8",
+      "role": "button",
+      "tag": "div",
+      "text": "Problems 0"
+    },
+    {
+      "bounds": [
+        418,
+        195,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx3",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        418,
+        232,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx4",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        708,
+        195,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx5",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        708,
+        232,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx6",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        708,
+        269,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx7",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        708,
+        306,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx8",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        998,
+        195,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx9",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        998,
+        232,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx10",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        708,
+        495,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx11",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        708,
+        532,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx12",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        549,
+        842,
+        34,
+        36
+      ],
+      "ref": "ea0fc21fdx13",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        655,
+        842,
+        34,
+        36
+      ],
+      "ref": "ea0fc21fdx14",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        706,
+        846,
+        36,
+        28
+      ],
+      "ref": "ea0fc21fdx15",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        742,
+        846,
+        36,
+        28
+      ],
+      "disabled": true,
+      "ref": "ea0fc21fdx16",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        795,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx17",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        837,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx18",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        879,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx19",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        921,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx20",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        980,
+        841,
+        39,
+        36
+      ],
+      "ref": "ea0fc21fdx21",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1036,
+        844,
+        40,
+        32
+      ],
+      "ref": "ea0fc21fdx22",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1093,
+        841,
+        34,
+        36
+      ],
+      "ref": "ea0fc21fdx23",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1144,
+        841,
+        36,
+        36
+      ],
+      "ref": "ea0fc21fdx24",
+      "tag": "button"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "text": "Diagrams\n/\nBlog\nFile\nEdit\nView\nSettings\nHelp\nLast saved 11/1/2026, 10:04:17 AM\nNo relationships\nDrag to connect columns and form relationships!\nusers\nid\nINT\nname\nVARCHAR(60)\nposts\nid\nINT\nuser_id\nINT\ntitle\n?\nVARCHAR(120)\nbody\n?\nTEXT(2000)\ntags\nid\nINT\nlabel\n?\nVARCHAR(30)\npost_tags\npost_id\nINT\ntag_id\nINT\n100\n%",
+  "text_truncated": false,
+  "title": "Editor | drawDB",
+  "url": "/editor/diagrams/5c1593f3-acb6-46e3-bcdd-291b0b37a27c",
+  "viewport": [
+    1280,
+    900
+  ]
+}

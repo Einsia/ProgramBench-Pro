@@ -1,0 +1,261 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e140",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "aria": "Display another project",
+      "bounds": [
+        836,
+        7,
+        273,
+        24
+      ],
+      "placeholder": "Display another project",
+      "ref": "e141",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/2/notifications/web",
+      "ref": "e142",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/dashboard/2/tasks",
+      "ref": "e143",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/dashboard/2/tasks",
+      "ref": "e144",
+      "role": null,
+      "tag": "a",
+      "text": "BB"
+    },
+    {
+      "bounds": [
+        10,
+        49,
+        174,
+        17
+      ],
+      "href": "/project/create/personal",
+      "ref": "e145",
+      "role": null,
+      "tag": "a",
+      "text": "New personal project"
+    },
+    {
+      "bounds": [
+        203,
+        49,
+        171,
+        17
+      ],
+      "href": "/projects",
+      "ref": "e146",
+      "role": null,
+      "tag": "a",
+      "text": "Project management"
+    },
+    {
+      "bounds": [
+        394,
+        49,
+        152,
+        17
+      ],
+      "href": "/my-activity",
+      "ref": "e147",
+      "role": null,
+      "tag": "a",
+      "text": "My activity stream"
+    },
+    {
+      "bounds": [
+        23,
+        96,
+        67,
+        17
+      ],
+      "href": "/dashboard/2",
+      "ref": "e148",
+      "role": null,
+      "tag": "a",
+      "text": "Overview"
+    },
+    {
+      "bounds": [
+        23,
+        132,
+        82,
+        17
+      ],
+      "href": "/dashboard/2/projects",
+      "ref": "e149",
+      "role": null,
+      "tag": "a",
+      "text": "My projects"
+    },
+    {
+      "bounds": [
+        23,
+        168,
+        63,
+        17
+      ],
+      "href": "/dashboard/2/tasks",
+      "ref": "e150",
+      "role": null,
+      "tag": "a",
+      "text": "My tasks"
+    },
+    {
+      "bounds": [
+        23,
+        204,
+        89,
+        17
+      ],
+      "href": "/dashboard/2/subtasks",
+      "ref": "e151",
+      "role": null,
+      "tag": "a",
+      "text": "My subtasks"
+    },
+    {
+      "bounds": [
+        250,
+        87,
+        95,
+        25
+      ],
+      "href": "/dashboard/2/tasks",
+      "ref": "e152",
+      "role": null,
+      "tag": "a",
+      "text": "My tasks"
+    },
+    {
+      "bounds": [
+        1214,
+        135,
+        42,
+        28
+      ],
+      "href": "/dashboard/2/tasks",
+      "ref": "e153",
+      "role": null,
+      "tag": "a",
+      "text": "Sort"
+    },
+    {
+      "bounds": [
+        258,
+        168,
+        30,
+        15
+      ],
+      "href": "/dashboard/2/tasks",
+      "ref": "e154",
+      "role": null,
+      "tag": "a",
+      "text": "#1"
+    },
+    {
+      "bounds": [
+        292,
+        168,
+        103,
+        15
+      ],
+      "href": "/task/1",
+      "ref": "e155",
+      "role": null,
+      "tag": "a",
+      "text": "Alpha homepage"
+    },
+    {
+      "bounds": [
+        258,
+        234,
+        30,
+        15
+      ],
+      "href": "/dashboard/2/tasks",
+      "ref": "e156",
+      "role": null,
+      "tag": "a",
+      "text": "#3"
+    },
+    {
+      "bounds": [
+        292,
+        234,
+        114,
+        15
+      ],
+      "href": "/task/3",
+      "ref": "e157",
+      "role": null,
+      "tag": "a",
+      "text": "Gamma newsletter"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Tasks overview for Bob Builder\n \n \nBB\nNew personal project Project management My activity stream\nOverview\nMy projects\nMy tasks\nMy subtasks\nMy tasks (2)\n2 tasks\nSort \n#1 \n Alpha homepage\nWebsite > Default swimlane > Backlog\nBB\nBob Builder\n(\nPosition\n1) \nTask age in days\n<15m \nDays in this column\n<15m \nTask priority\nP0\n#3 \n Gamma newsletter\nWebsite > Default swimlane > Work in progress\nBB\nBob Builder\n(\nPosition\n1) \nTask age in days\n<15m \nDays in this column\n<15m \nTask priority\nP0",
+  "text_truncated": false,
+  "title": "Tasks overview for Bob Builder",
+  "url": "/dashboard/2/tasks",
+  "viewport": [
+    1280,
+    900
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        0,
+        1182,
+        24
+      ],
+      "ref": "e3acd2861",
+      "tag": "div",
+      "text": "Click to select a file or drag and drop One or more PDF files Your files never leave your device."
+    },
+    {
+      "bounds": [
+        1203,
+        64,
+        16,
+        16
+      ],
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        49,
+        156,
+        1182,
+        45
+      ],
+      "label": "Compression Algorithm",
+      "options": [
+        {
+          "label": "Condense (Recommended)",
+          "selected": true,
+          "value": "condense"
+        },
+        {
+          "label": "Photon (For Photo-Heavy PDFs)",
+          "selected": false,
+          "value": "photon"
+        }
+      ],
+      "ref": "ec7bd8d91",
+      "tag": "select",
+      "value": "condense"
+    },
+    {
+      "bounds": [
+        49,
+        277,
+        1182,
+        45
+      ],
+      "label": "Compression Level",
+      "options": [
+        {
+          "label": "Light (Preserve Quality)",
+          "selected": false,
+          "value": "light"
+        },
+        {
+          "label": "Balanced (Recommended)",
+          "selected": true,
+          "value": "balanced"
+        },
+        {
+          "label": "Aggressive (Smaller Files)",
+          "selected": false,
+          "value": "aggressive"
+        },
+        {
+          "label": "Extreme (Maximum Compression)",
+          "selected": false,
+          "value": "extreme"
+        }
+      ],
+      "ref": "ec78006b8",
+      "tag": "select",
+      "value": "balanced"
+    },
+    {
+      "bounds": [
+        62,
+        370,
+        20,
+        20
+      ],
+      "checked": false,
+      "label": "Convert to Grayscale",
+      "ref": "ea9935c7f",
+      "tag": "input",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        94,
+        362,
+        141,
+        18
+      ],
+      "ref": "e69418143",
+      "tag": "label",
+      "text": "Convert to Grayscale"
+    },
+    {
+      "bounds": [
+        49,
+        438,
+        159,
+        20
+      ],
+      "ref": "e1e564e18",
+      "tag": "button",
+      "text": "Custom Settings"
+    },
+    {
+      "bounds": [
+        66,
+        539,
+        372,
+        38
+      ],
+      "label": "Output Quality",
+      "ref": "ecb892d0a",
+      "tag": "input",
+      "type": "number",
+      "value": "40"
+    },
+    {
+      "bounds": [
+        454,
+        539,
+        372,
+        38
+      ],
+      "label": "Resize Images To",
+      "ref": "e3c60bd1f",
+      "tag": "input",
+      "type": "number",
+      "value": "100"
+    },
+    {
+      "bounds": [
+        842,
+        539,
+        372,
+        38
+      ],
+      "label": "Only Process Above",
+      "ref": "ec79ffe70",
+      "tag": "input",
+      "type": "number",
+      "value": "120"
+    },
+    {
+      "bounds": [
+        66,
+        613,
+        1148,
+        20
+      ],
+      "checked": true,
+      "label": "Remove metadata",
+      "ref": "ee089832f",
+      "tag": "label",
+      "text": "Remove metadata",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        66,
+        641,
+        1148,
+        20
+      ],
+      "checked": true,
+      "label": "Subset fonts (remove unused glyphs)",
+      "ref": "e5fe99eaf",
+      "tag": "label",
+      "text": "Subset fonts (remove unused glyphs)",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        66,
+        669,
+        1148,
+        20
+      ],
+      "checked": true,
+      "label": "Remove embedded thumbnails",
+      "ref": "ef3c0dd15",
+      "tag": "label",
+      "text": "Remove embedded thumbnails",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        49,
+        746,
+        1182,
+        48
+      ],
+      "ref": "ec7692c28",
+      "tag": "button",
+      "text": "Compress PDF"
+    },
+    {
+      "bounds": [
+        473,
+        484,
+        334,
+        40
+      ],
+      "ref": "e2a50e308",
+      "tag": "button",
+      "text": "OK"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "photo.pdf",
+      "ref": "dd47000515e3a",
+      "size": 27863
+    }
+  ],
+  "inputs": [
+    "photo.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›Compress PDF\nCompress PDF\n\nReduce the file size of your PDF.\n\nClick to select a file or drag and drop\n\nOne or more PDF files\n\nYour files never leave your device.\n\nphoto.pdf\n2 MB\nCompression Algorithm\nCondense (Recommended)\nPhoton (For Photo-Heavy PDFs)\n\nCondense uses advanced compression: removes dead-weight, optimizes images, subsets fonts. Best for most PDFs.\n\nCompression Level\nLight (Preserve Quality)\nBalanced (Recommended)\nAggressive (Smaller Files)\nExtreme (Maximum Compression)\nConvert to Grayscale\n\nReduces file size by removing color information\n\nCustom Settings\nFine-tune compression parameters:\nOutput Quality\n\n1-100%\n\nResize Images To\n\nDPI\n\nOnly Process Above\n\nDPI\n\nRemove metadata\nSubset fonts (remove unused glyphs)\nRemove embedded thumbnails\nCompress PDF\nCompression Complete\n\nMethod: Condense. File size reduced from 2 MB to 27.2 KB (Saved 98.7%).\n\nOK\nCompress to a Specific Size\nCompress PDF to 100KB\n\nGet your PDF under 100KB for portals with strict upload limits.\n\nCompress PDF to 200KB\n\nReduce your PDF below 200KB without losing readability.\n\nCompress PDF to 500KB\n\nBring your PDF under 500KB while keeping images sharp.\n\nCompress PDF to 1MB\n\nReduce large PDFs below the most common 1MB upload limit.\n\nCompress PDF to 2MB\n\nMeet 2MB portal limits while keeping high image quality.\n\nCompress PDF for Email\n\nShrink PDFs to fit any email attachment limit.\n\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/compress-pdf.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

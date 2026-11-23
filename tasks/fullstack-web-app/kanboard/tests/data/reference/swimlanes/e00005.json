@@ -1,0 +1,502 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e1198",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e1199",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/board/1",
+      "ref": "e1200",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/board/1",
+      "ref": "e1201",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "aria": "Configure this project",
+      "bounds": [
+        10,
+        48,
+        29,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e1202",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Configure this project"
+    },
+    {
+      "bounds": [
+        53,
+        49,
+        81,
+        16
+      ],
+      "href": "/project/1/overview/status%3Aopen",
+      "ref": "e1203",
+      "role": null,
+      "tag": "a",
+      "text": "Overview",
+      "title": "Keyboard shortcut: \"v o\""
+    },
+    {
+      "bounds": [
+        155,
+        49,
+        63,
+        16
+      ],
+      "href": "/board/1/search/status%3Aopen",
+      "ref": "e1204",
+      "role": null,
+      "tag": "a",
+      "text": "Board",
+      "title": "Keyboard shortcut: \"v b\""
+    },
+    {
+      "bounds": [
+        240,
+        49,
+        44,
+        16
+      ],
+      "href": "/list/1/search/status%3Aopen",
+      "ref": "e1205",
+      "role": null,
+      "tag": "a",
+      "text": "List",
+      "title": "Keyboard shortcut: \"v l\""
+    },
+    {
+      "aria": "Filter",
+      "bounds": [
+        302,
+        44,
+        846,
+        28
+      ],
+      "name": "search",
+      "placeholder": "Filter",
+      "ref": "e1206",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "status:open"
+    },
+    {
+      "aria": "Default filters",
+      "bounds": [
+        1161,
+        49,
+        36,
+        16
+      ],
+      "href": "/board/1",
+      "ref": "e1207",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Default filters"
+    },
+    {
+      "aria": "Custom filters",
+      "bounds": [
+        1221,
+        49,
+        36,
+        16
+      ],
+      "href": "/board/1",
+      "ref": "e1208",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "User filters"
+    },
+    {
+      "bounds": [
+        14,
+        90,
+        21,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e1209",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "aria": "Collapse swimlane",
+      "bounds": [
+        14,
+        90,
+        17,
+        16
+      ],
+      "ref": "e1210",
+      "role": "button",
+      "tag": "i",
+      "text": "",
+      "title": "Collapse swimlane"
+    },
+    {
+      "bounds": [
+        19,
+        130,
+        32,
+        17
+      ],
+      "href": "/board/1/task/create/swimlane/1/column/1",
+      "ref": "e1211",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Add a new task"
+    },
+    {
+      "bounds": [
+        56,
+        128,
+        79,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e1212",
+      "role": null,
+      "tag": "a",
+      "text": "Backlog"
+    },
+    {
+      "bounds": [
+        334,
+        130,
+        32,
+        17
+      ],
+      "href": "/board/1/task/create/swimlane/1/column/2",
+      "ref": "e1213",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Add a new task"
+    },
+    {
+      "bounds": [
+        371,
+        128,
+        64,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e1214",
+      "role": null,
+      "tag": "a",
+      "text": "Ready"
+    },
+    {
+      "bounds": [
+        649,
+        130,
+        32,
+        17
+      ],
+      "href": "/board/1/task/create/swimlane/1/column/3",
+      "ref": "e1215",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Add a new task"
+    },
+    {
+      "bounds": [
+        685,
+        128,
+        148,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e1216",
+      "role": null,
+      "tag": "a",
+      "text": "Work in progress"
+    },
+    {
+      "bounds": [
+        963,
+        130,
+        32,
+        17
+      ],
+      "href": "/board/1/task/create/swimlane/1/column/4",
+      "ref": "e1217",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Add a new task"
+    },
+    {
+      "bounds": [
+        1000,
+        128,
+        56,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e1218",
+      "role": null,
+      "tag": "a",
+      "text": "Done"
+    },
+    {
+      "bounds": [
+        14,
+        242,
+        21,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e1219",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "aria": "Collapse swimlane",
+      "bounds": [
+        14,
+        242,
+        17,
+        16
+      ],
+      "ref": "e1220",
+      "role": "button",
+      "tag": "i",
+      "text": "",
+      "title": "Collapse swimlane"
+    },
+    {
+      "bounds": [
+        19,
+        282,
+        32,
+        17
+      ],
+      "href": "/board/1/task/create/swimlane/2/column/1",
+      "ref": "e1221",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Add a new task"
+    },
+    {
+      "bounds": [
+        56,
+        280,
+        79,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e1222",
+      "role": null,
+      "tag": "a",
+      "text": "Backlog"
+    },
+    {
+      "bounds": [
+        139,
+        280,
+        12,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e1223",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        334,
+        282,
+        32,
+        17
+      ],
+      "href": "/board/1/task/create/swimlane/2/column/2",
+      "ref": "e1224",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Add a new task"
+    },
+    {
+      "bounds": [
+        371,
+        280,
+        64,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e1225",
+      "role": null,
+      "tag": "a",
+      "text": "Ready"
+    },
+    {
+      "bounds": [
+        649,
+        282,
+        32,
+        17
+      ],
+      "href": "/board/1/task/create/swimlane/2/column/3",
+      "ref": "e1226",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Add a new task"
+    },
+    {
+      "bounds": [
+        685,
+        280,
+        148,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e1227",
+      "role": null,
+      "tag": "a",
+      "text": "Work in progress"
+    },
+    {
+      "bounds": [
+        963,
+        282,
+        32,
+        17
+      ],
+      "href": "/board/1/task/create/swimlane/2/column/4",
+      "ref": "e1228",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Add a new task"
+    },
+    {
+      "bounds": [
+        1000,
+        280,
+        56,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e1229",
+      "role": null,
+      "tag": "a",
+      "text": "Done"
+    },
+    {
+      "bounds": [
+        18,
+        321,
+        31,
+        16
+      ],
+      "href": "/board/1",
+      "ref": "e1230",
+      "role": null,
+      "tag": "a",
+      "text": "#1"
+    },
+    {
+      "bounds": [
+        53,
+        321,
+        22,
+        16
+      ],
+      "href": "/task/1/edit",
+      "ref": "e1231",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        18,
+        342,
+        62,
+        16
+      ],
+      "href": "/task/1",
+      "ref": "e1232",
+      "role": null,
+      "tag": "a",
+      "text": "Urgent fix"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Website \n \n \nA\nOverview Board List\n Default swimlane (\nNumber of tasks in this swimlane\n0)\n\nBacklog \n(\nTotal number of tasks in this column across all swimlanes\n1)\n\t\nReady \n\t\nWork in progress \n\t\nDone \n\n\n\t\n\t\n\t\n\n Expedite  (\nNumber of tasks in this swimlane\n1)\n\nBacklog  \nTask count\n1  (\nTotal number of tasks in this column across all swimlanes\n1)\n\t\nReady \n\t\nWork in progress \n\t\nDone \n\n\n#1 \n \nUrgent fix\nTask age in days\n<15m \nDays in this column\n<15m \nTask priority\nP0\n\t\n\t\n\t",
+  "text_truncated": false,
+  "title": "Website",
+  "url": "/board/1",
+  "viewport": [
+    1280,
+    900
+  ]
+}

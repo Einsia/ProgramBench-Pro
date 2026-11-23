@@ -1,0 +1,551 @@
+{
+  "controls": [
+    {
+      "aria": "Dashboard",
+      "bounds": [
+        10,
+        7,
+        56,
+        36
+      ],
+      "href": "/",
+      "ref": "e892",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        71,
+        7,
+        76,
+        36
+      ],
+      "href": "/issues",
+      "ref": "e893",
+      "role": null,
+      "tag": "a",
+      "text": "Issues"
+    },
+    {
+      "bounds": [
+        152,
+        7,
+        135,
+        36
+      ],
+      "href": "/pulls",
+      "ref": "e894",
+      "role": null,
+      "tag": "a",
+      "text": "Pull Requests"
+    },
+    {
+      "bounds": [
+        293,
+        7,
+        110,
+        36
+      ],
+      "href": "/milestones",
+      "ref": "e895",
+      "role": null,
+      "tag": "a",
+      "text": "Milestones"
+    },
+    {
+      "bounds": [
+        408,
+        7,
+        85,
+        36
+      ],
+      "href": "/explore/repos",
+      "ref": "e896",
+      "role": null,
+      "tag": "a",
+      "text": "Explore"
+    },
+    {
+      "aria": "Notifications",
+      "bounds": [
+        1094,
+        7,
+        42,
+        36
+      ],
+      "href": "/notifications",
+      "ref": "e897",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Notifications"
+    },
+    {
+      "aria": "Create…",
+      "bounds": [
+        1141,
+        7,
+        60,
+        36
+      ],
+      "expanded": false,
+      "ref": "e898",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Create…"
+    },
+    {
+      "aria": "Profile and Settings…",
+      "bounds": [
+        1207,
+        7,
+        64,
+        36
+      ],
+      "expanded": false,
+      "ref": "e899",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Profile and Settings…"
+    },
+    {
+      "bounds": [
+        64,
+        69,
+        54,
+        20
+      ],
+      "href": "/alice",
+      "ref": "e900",
+      "role": null,
+      "tag": "a",
+      "text": "alice"
+    },
+    {
+      "bounds": [
+        136,
+        69,
+        97,
+        20
+      ],
+      "href": "/alice/workbench",
+      "ref": "e901",
+      "role": null,
+      "tag": "a",
+      "text": "workbench"
+    },
+    {
+      "aria": "RSS Feed",
+      "bounds": [
+        815,
+        62,
+        47,
+        33
+      ],
+      "href": "/alice/workbench.rss",
+      "ref": "e902",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "RSS Feed"
+    },
+    {
+      "aria": "Unwatch",
+      "bounds": [
+        869,
+        62,
+        105,
+        33
+      ],
+      "ref": "e903",
+      "role": null,
+      "tag": "button",
+      "text": "Unwatch"
+    },
+    {
+      "bounds": [
+        973,
+        62,
+        32,
+        33
+      ],
+      "href": "/alice/workbench/watchers",
+      "ref": "e904",
+      "role": null,
+      "tag": "a",
+      "text": "1"
+    },
+    {
+      "aria": "Star",
+      "bounds": [
+        1012,
+        62,
+        82,
+        33
+      ],
+      "ref": "e905",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        1093,
+        62,
+        32,
+        33
+      ],
+      "href": "/alice/workbench/stars",
+      "ref": "e906",
+      "role": null,
+      "tag": "a",
+      "text": "0"
+    },
+    {
+      "bounds": [
+        1132,
+        62,
+        82,
+        33
+      ],
+      "ref": "e907",
+      "role": null,
+      "tag": "a",
+      "text": "Fork"
+    },
+    {
+      "bounds": [
+        1213,
+        62,
+        32,
+        33
+      ],
+      "href": "/alice/workbench/forks",
+      "ref": "e908",
+      "role": null,
+      "tag": "a",
+      "text": "0"
+    },
+    {
+      "bounds": [
+        32,
+        99,
+        79,
+        41
+      ],
+      "href": "/alice/workbench",
+      "ref": "e909",
+      "role": null,
+      "tag": "a",
+      "text": "Code"
+    },
+    {
+      "bounds": [
+        111,
+        99,
+        95,
+        41
+      ],
+      "href": "/alice/workbench/issues",
+      "ref": "e910",
+      "role": null,
+      "tag": "a",
+      "text": "Issues"
+    },
+    {
+      "bounds": [
+        206,
+        99,
+        154,
+        41
+      ],
+      "href": "/alice/workbench/pulls",
+      "ref": "e911",
+      "role": null,
+      "tag": "a",
+      "text": "Pull Requests"
+    },
+    {
+      "bounds": [
+        360,
+        99,
+        104,
+        41
+      ],
+      "href": "/alice/workbench/actions",
+      "ref": "e912",
+      "role": null,
+      "tag": "a",
+      "text": "Actions"
+    },
+    {
+      "bounds": [
+        464,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/workbench/packages",
+      "ref": "e913",
+      "role": null,
+      "tag": "a",
+      "text": "Packages"
+    },
+    {
+      "bounds": [
+        576,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/workbench/projects",
+      "ref": "e914",
+      "role": null,
+      "tag": "a",
+      "text": "Projects"
+    },
+    {
+      "bounds": [
+        688,
+        99,
+        143,
+        41
+      ],
+      "href": "/alice/workbench/releases",
+      "ref": "e915",
+      "role": null,
+      "tag": "a",
+      "text": "Releases\n1"
+    },
+    {
+      "bounds": [
+        831,
+        99,
+        79,
+        41
+      ],
+      "href": "/alice/workbench/wiki",
+      "ref": "e916",
+      "role": null,
+      "tag": "a",
+      "text": "Wiki"
+    },
+    {
+      "bounds": [
+        909,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/workbench/activity",
+      "ref": "e917",
+      "role": null,
+      "tag": "a",
+      "text": "Activity"
+    },
+    {
+      "bounds": [
+        1136,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/workbench/settings",
+      "ref": "e918",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        33,
+        156,
+        100,
+        33
+      ],
+      "href": "/alice/workbench/releases",
+      "ref": "e919",
+      "role": null,
+      "tag": "a",
+      "text": "1 Release"
+    },
+    {
+      "bounds": [
+        133,
+        156,
+        77,
+        33
+      ],
+      "href": "/alice/workbench/tags",
+      "ref": "e920",
+      "role": null,
+      "tag": "a",
+      "text": "0 Tags"
+    },
+    {
+      "bounds": [
+        992,
+        155,
+        123,
+        35
+      ],
+      "href": "/alice/workbench/releases.rss",
+      "ref": "e921",
+      "role": null,
+      "tag": "a",
+      "text": "RSS Feed"
+    },
+    {
+      "bounds": [
+        1118,
+        155,
+        127,
+        35
+      ],
+      "href": "/alice/workbench/releases/new",
+      "ref": "e922",
+      "role": null,
+      "tag": "a",
+      "text": "New Release"
+    },
+    {
+      "bounds": [
+        32,
+        216,
+        150,
+        20
+      ],
+      "href": "/alice/workbench/releases",
+      "ref": "e923",
+      "role": null,
+      "tag": "a",
+      "text": "v-web-draft"
+    },
+    {
+      "bounds": [
+        213,
+        231,
+        286,
+        36
+      ],
+      "href": "/alice/workbench/releases/tag/v-web-draft",
+      "ref": "e924",
+      "role": null,
+      "tag": "a",
+      "text": "Web release draft"
+    },
+    {
+      "aria": "edit",
+      "bounds": [
+        1217,
+        241,
+        16,
+        16
+      ],
+      "href": "/alice/workbench/releases/edit/v-web-draft",
+      "ref": "e925",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "edit"
+    },
+    {
+      "bounds": [
+        245,
+        277,
+        42,
+        16
+      ],
+      "href": "/alice",
+      "ref": "e926",
+      "role": null,
+      "tag": "a",
+      "text": "alice"
+    },
+    {
+      "bounds": [
+        213,
+        354,
+        1020,
+        20
+      ],
+      "ref": "e927",
+      "role": null,
+      "tag": "summary",
+      "text": "Downloads"
+    },
+    {
+      "bounds": [
+        20,
+        872,
+        134,
+        20
+      ],
+      "href": "[external]",
+      "ref": "e928",
+      "role": null,
+      "tag": "a",
+      "text": "Powered by Gitea"
+    },
+    {
+      "bounds": [
+        1063,
+        874,
+        76,
+        16
+      ],
+      "expanded": false,
+      "ref": "e929",
+      "role": "menu",
+      "tag": "div",
+      "text": "English"
+    },
+    {
+      "bounds": [
+        1145,
+        872,
+        76,
+        20
+      ],
+      "href": "/assets/licenses.txt",
+      "ref": "e930",
+      "role": null,
+      "tag": "a",
+      "text": "Licenses"
+    },
+    {
+      "bounds": [
+        1226,
+        872,
+        34,
+        20
+      ],
+      "href": "/api/swagger",
+      "ref": "e931",
+      "role": null,
+      "tag": "a",
+      "text": "API"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Issues\nPull Requests\nMilestones\nExplore\n \nalice\n/\nworkbench\nUnwatch\n1\nStar\n0\nFork\n0\nCode\nIssues\nPull Requests\nActions\nPackages\nProjects\nReleases\n1\nWiki\nActivity\nSettings\n1 Release\n0 Tags\nRSS Feed\nNew Release\nv-web-draft\nWeb release draft\nDraft\n\n alice released this \n\nRelease notes\n\nDownloads\nPowered by Gitea\nPage:\n16ms\nTemplate:\n1ms\nEnglish\nLicenses\nAPI",
+  "text_truncated": false,
+  "title": "Releases - workbench - Gitea",
+  "url": "/alice/workbench/releases",
+  "viewport": [
+    1280,
+    900
+  ]
+}

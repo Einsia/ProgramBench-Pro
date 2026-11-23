@@ -1,0 +1,235 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        13,
+        125,
+        26,
+        26
+      ],
+      "ref": "e546c927e",
+      "tag": "button",
+      "title": "Format JSON data, with proper indentation and line feeds (Ctrl+I)"
+    },
+    {
+      "bounds": [
+        43,
+        125,
+        26,
+        26
+      ],
+      "ref": "e9b780019",
+      "tag": "button",
+      "title": "Compact JSON data, remove all whitespaces (Ctrl+Shift+I)"
+    },
+    {
+      "bounds": [
+        73,
+        125,
+        26,
+        26
+      ],
+      "ref": "ea12a318a",
+      "tag": "button",
+      "title": "Sort contents"
+    },
+    {
+      "bounds": [
+        103,
+        125,
+        26,
+        26
+      ],
+      "ref": "e35050c81",
+      "tag": "button",
+      "title": "Filter, sort, or transform contents"
+    },
+    {
+      "bounds": [
+        133,
+        125,
+        26,
+        26
+      ],
+      "ref": "e877cc316",
+      "tag": "button",
+      "title": "Repair JSON: fix quotes and escape characters, remove comments and JSONP notation, turn JavaScript objects into JSON."
+    },
+    {
+      "bounds": [
+        171,
+        125,
+        26,
+        26
+      ],
+      "disabled": true,
+      "ref": "ebbb5bcf1",
+      "tag": "button",
+      "title": "Undo last action (Ctrl+Z)"
+    },
+    {
+      "bounds": [
+        201,
+        125,
+        26,
+        26
+      ],
+      "disabled": true,
+      "ref": "e0a2b66da",
+      "tag": "button",
+      "title": "Redo (Ctrl+Shift+Z)"
+    },
+    {
+      "bounds": [
+        239,
+        125,
+        62,
+        26
+      ],
+      "ref": "e23f38dbc",
+      "tag": "button",
+      "text": "Code ▾",
+      "title": "Switch Editor Mode"
+    },
+    {
+      "bounds": [
+        512,
+        121,
+        95,
+        35
+      ],
+      "ref": "e5a4fce2f",
+      "tag": "a",
+      "text": "powered by ace"
+    },
+    {
+      "aria": "Toggle code folding, rows 1 through 15",
+      "bounds": [
+        47,
+        156,
+        11,
+        18
+      ],
+      "expanded": true,
+      "ref": "e6efc62af",
+      "role": "button",
+      "tag": "span",
+      "title": "Fold code"
+    },
+    {
+      "aria": "Toggle code folding, rows 2 through 14",
+      "bounds": [
+        47,
+        174,
+        11,
+        18
+      ],
+      "expanded": true,
+      "ref": "ede6b9edb",
+      "role": "button",
+      "tag": "span",
+      "title": "Fold code"
+    },
+    {
+      "aria": "Warning, read annotations row 2",
+      "bounds": [
+        9,
+        174,
+        18,
+        18
+      ],
+      "ref": "e0891fdd7",
+      "role": "button",
+      "tag": "span"
+    },
+    {
+      "aria": "Toggle code folding, rows 3 through 6",
+      "bounds": [
+        47,
+        192,
+        11,
+        18
+      ],
+      "expanded": true,
+      "ref": "ec1d2becd",
+      "role": "button",
+      "tag": "span",
+      "title": "Fold code"
+    },
+    {
+      "aria": "Toggle code folding, rows 7 through 10",
+      "bounds": [
+        47,
+        264,
+        11,
+        18
+      ],
+      "expanded": true,
+      "ref": "e3cc4897e",
+      "role": "button",
+      "tag": "span",
+      "title": "Fold code"
+    },
+    {
+      "aria": "Toggle code folding, rows 11 through 13",
+      "bounds": [
+        47,
+        336,
+        11,
+        18
+      ],
+      "expanded": true,
+      "ref": "eec69a1ee",
+      "role": "button",
+      "tag": "span",
+      "title": "Fold code"
+    },
+    {
+      "aria": "Warning, read annotations row 11",
+      "bounds": [
+        9,
+        336,
+        18,
+        18
+      ],
+      "ref": "ef19920a7",
+      "role": "button",
+      "tag": "span"
+    },
+    {
+      "bounds": [
+        595,
+        594,
+        8,
+        26
+      ],
+      "ref": "e80ccbc05",
+      "tag": "span",
+      "text": "3"
+    },
+    {
+      "bounds": [
+        571,
+        595,
+        24,
+        24
+      ],
+      "ref": "e04c0daed",
+      "tag": "span",
+      "title": "3 schema validation error(s) found"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "drawing": [],
+  "drawing_truncated": false,
+  "text": "Custom validation\nThis example demonstrates how to run custom validation on a JSON object. The validation is available in all modes.\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n{\n\"team\"\n:\n[\n{\n\"name\"\n:\n\"Joe\"\n,\n\"age\"\n:\n17\n}\n,\n{\n\"name\"\n:\n\"Sarah\"\n,\n\"age\"\n:\n13\n}\n,\n{\n\"name\"\n:\n\"Jack\"\n}\n]\n}\nLn:\n1\nCol:\n1",
+  "text_truncated": false,
+  "title": "JSONEditor | Custom validation",
+  "url": "/examples/18_custom_validation.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

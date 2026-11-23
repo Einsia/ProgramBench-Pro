@@ -1,0 +1,16 @@
+{
+  "reference_paths": [
+    "/app/solution/calcurse/bin/calcurse",
+    "/app/solution/calcurse/lib/pbsandbox.so"
+  ],
+  "shared_solution_files": [
+    {
+      "file": "LICENSE",
+      "reason": "Public upstream license text; also permitted with system dependencies or the public user documentation."
+    },
+    {
+      "file": "LICENSES/libfaketime.txt",
+      "reason": "Public third-party license and notices for libfaketime; runtime or command-line tooling may include the same license text."
+    }
+  ]
+}

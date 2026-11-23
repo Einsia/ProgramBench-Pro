@@ -1,0 +1,2026 @@
+{
+  "focused": "e43ccb9d5",
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        19,
+        1440,
+        881
+      ],
+      "name": "MusicBrainz Picard",
+      "ref": "e6a9823be",
+      "role": "frame",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        878,
+        1440,
+        22
+      ],
+      "name": "",
+      "ref": "e83a5e4ff",
+      "role": "status bar",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1026,
+        881,
+        40,
+        17
+      ],
+      "description": "Files",
+      "name": "4",
+      "ref": "e81885afc",
+      "role": "label",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1068,
+        881,
+        16,
+        17
+      ],
+      "description": "Files",
+      "name": "",
+      "ref": "e812269e9",
+      "role": "image",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1086,
+        881,
+        40,
+        17
+      ],
+      "description": "Albums",
+      "name": "0",
+      "ref": "ecfdb1ec8",
+      "role": "label",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1128,
+        881,
+        16,
+        17
+      ],
+      "description": "Albums",
+      "name": "",
+      "ref": "e1fdbc77e",
+      "role": "image",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1146,
+        881,
+        40,
+        17
+      ],
+      "description": "Pending files",
+      "name": "0",
+      "ref": "e65e4ae1b",
+      "role": "label",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1188,
+        881,
+        16,
+        17
+      ],
+      "description": "Pending files",
+      "name": "",
+      "ref": "e70ed6631",
+      "role": "image",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1206,
+        881,
+        40,
+        17
+      ],
+      "description": "Pending requests",
+      "name": "0",
+      "ref": "ea9f90825",
+      "role": "label",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1248,
+        881,
+        16,
+        17
+      ],
+      "description": "Pending requests",
+      "name": "",
+      "ref": "ed5fe1b11",
+      "role": "image",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1266,
+        881,
+        16,
+        16
+      ],
+      "description": "Stop all pending network requests",
+      "name": "",
+      "ref": "e0dd5a1f6",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1288,
+        881,
+        151,
+        17
+      ],
+      "description": "<qt/>Picard listens on this port to integrate with your browser. When you \"Search\" or \"Open in Browser\" from Picard, clicking the \"Tagger\" button on the web page loads the release into Picard.",
+      "name": "Listening on port 8000",
+      "ref": "e7365409f",
+      "role": "label",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        868,
+        38,
+        572,
+        57
+      ],
+      "name": "Search",
+      "ref": "ef5bf7335",
+      "role": "tool bar",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        890,
+        55,
+        68,
+        22
+      ],
+      "name": "Album",
+      "ref": "ea22fb109",
+      "role": "combo box",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        964,
+        55,
+        427,
+        22
+      ],
+      "name": "",
+      "ref": "ebbde115f",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1397,
+        52,
+        30,
+        29
+      ],
+      "name": "Search",
+      "ref": "ed405a9a3",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        38,
+        868,
+        57
+      ],
+      "name": "Actions",
+      "ref": "ef963e335",
+      "role": "tool bar",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        13,
+        42,
+        81,
+        49
+      ],
+      "name": "Add Folder",
+      "ref": "e1e37dda4",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        95,
+        42,
+        70,
+        49
+      ],
+      "name": "Add Files",
+      "ref": "ed0620207",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        173,
+        42,
+        59,
+        49
+      ],
+      "name": "Cluster",
+      "ref": "ecc0529c0",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        240,
+        42,
+        59,
+        49
+      ],
+      "description": "Lookup selected items in MusicBrainz",
+      "name": "Lookup",
+      "ref": "e0ea4562b",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        300,
+        42,
+        46,
+        49
+      ],
+      "description": "Identify the file using its AcoustID audio fingerprint",
+      "name": "Scan",
+      "ref": "e5926981d",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        347,
+        42,
+        126,
+        49
+      ],
+      "name": "Lookup in Browser",
+      "ref": "e1861d69a",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        481,
+        42,
+        46,
+        49
+      ],
+      "name": "Save",
+      "ref": "e47e8f1c1",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        528,
+        42,
+        39,
+        49
+      ],
+      "name": "Info",
+      "ref": "ea5d2fc2a",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        568,
+        42,
+        65,
+        49
+      ],
+      "name": "Remove",
+      "ref": "e6de37ef0",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        641,
+        42,
+        93,
+        49
+      ],
+      "name": "Lookup CD",
+      "ref": "e79b531f9",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        742,
+        42,
+        122,
+        49
+      ],
+      "name": "Submit AcoustIDs",
+      "ref": "e0615c02c",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1440,
+        19
+      ],
+      "name": "",
+      "ref": "ecbd86de2",
+      "role": "menu bar",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        6,
+        19,
+        29,
+        19
+      ],
+      "name": "File",
+      "ref": "ed747fc52",
+      "role": "menu item",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        41,
+        19,
+        32,
+        19
+      ],
+      "name": "Edit",
+      "ref": "e03966ba8",
+      "role": "menu item",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        79,
+        19,
+        37,
+        19
+      ],
+      "name": "View",
+      "ref": "ec0f2425e",
+      "role": "menu item",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        122,
+        19,
+        55,
+        19
+      ],
+      "name": "Options",
+      "ref": "e49fa5ef3",
+      "role": "menu item",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        183,
+        19,
+        38,
+        19
+      ],
+      "name": "Tools",
+      "ref": "e3512da74",
+      "role": "menu item",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        227,
+        19,
+        36,
+        19
+      ],
+      "name": "Help",
+      "ref": "e6ec9a1eb",
+      "role": "menu item",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        95,
+        1440,
+        783
+      ],
+      "name": "",
+      "ref": "e2b952707",
+      "role": "split pane",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        608,
+        1294,
+        270
+      ],
+      "description": "Displays original and new tags for the selected files",
+      "name": "metadata view",
+      "ref": "ee2dae8b8",
+      "role": "table",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        608,
+        212,
+        18
+      ],
+      "name": "Tag",
+      "ref": "ee84e3114",
+      "role": "table column header",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        212,
+        608,
+        211,
+        18
+      ],
+      "name": "Original Value",
+      "ref": "ecb3f4ad7",
+      "role": "table column header",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        423,
+        608,
+        871,
+        18
+      ],
+      "name": "New Value",
+      "ref": "e0cf8eff6",
+      "role": "table column header",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        626,
+        211,
+        17
+      ],
+      "name": "Title",
+      "ref": "e82c2c820",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        212,
+        626,
+        210,
+        17
+      ],
+      "name": "Mülti",
+      "ref": "e4a971aee",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        423,
+        626,
+        870,
+        17
+      ],
+      "name": "Mülti",
+      "ref": "eb984cd98",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        0,
+        644,
+        211,
+        17
+      ],
+      "name": "Artist",
+      "ref": "ec98c09d7",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        212,
+        644,
+        210,
+        17
+      ],
+      "name": "Art One; Art Two",
+      "ref": "e3c943c15",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        423,
+        644,
+        870,
+        17
+      ],
+      "name": "Art One; Art Two",
+      "ref": "e9a58f8db",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        0,
+        662,
+        211,
+        17
+      ],
+      "name": "Length",
+      "ref": "e08901160",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        212,
+        662,
+        210,
+        17
+      ],
+      "name": "0:01",
+      "ref": "e7e95cb38",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        423,
+        662,
+        870,
+        17
+      ],
+      "name": "0:01",
+      "ref": "eaf95b93e",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        0,
+        680,
+        211,
+        17
+      ],
+      "name": "Date",
+      "ref": "e0c42be3a",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        212,
+        680,
+        210,
+        17
+      ],
+      "name": "2004-05-06",
+      "ref": "e58706474",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        423,
+        680,
+        870,
+        17
+      ],
+      "name": "2004-05-06",
+      "ref": "e50ebf758",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        0,
+        698,
+        211,
+        17
+      ],
+      "name": "Composer",
+      "ref": "ef379f41e",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        212,
+        698,
+        210,
+        17
+      ],
+      "name": "Comp A; Comp B",
+      "ref": "e1f790dbb",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        423,
+        698,
+        870,
+        17
+      ],
+      "name": "Comp A; Comp B",
+      "ref": "e314d77e2",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        0,
+        716,
+        211,
+        17
+      ],
+      "name": "Encoded By",
+      "ref": "ef9cd9c46",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        212,
+        716,
+        210,
+        17
+      ],
+      "name": "Stamped",
+      "ref": "e1a75d77c",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        423,
+        716,
+        870,
+        17
+      ],
+      "name": "Stamped",
+      "ref": "e96893204",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        0,
+        734,
+        211,
+        17
+      ],
+      "name": "File Path",
+      "ref": "e716caeb0",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        212,
+        734,
+        210,
+        17
+      ],
+      "name": "/app/candidate-state/session/instance/files/inputs/fo2/multi.mp3",
+      "ref": "ec4a38984",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        423,
+        734,
+        870,
+        17
+      ],
+      "name": "/app/candidate-state/session/instance/files/inputs/fo2/multi.mp3",
+      "ref": "e5ecaf886",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        0,
+        752,
+        211,
+        17
+      ],
+      "name": "Genre",
+      "ref": "e886ae870",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        212,
+        752,
+        210,
+        17
+      ],
+      "name": "Rock; Pop",
+      "ref": "e4de8e716",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        423,
+        752,
+        870,
+        17
+      ],
+      "name": "Rock; Pop",
+      "ref": "e05e2f96a",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        0,
+        770,
+        211,
+        17
+      ],
+      "name": "Original Release Date",
+      "ref": "edb30dedf",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        212,
+        770,
+        210,
+        17
+      ],
+      "name": "1999",
+      "ref": "e08ef57ce",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        423,
+        770,
+        870,
+        17
+      ],
+      "name": "1999",
+      "ref": "e31214eab",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        1303,
+        637,
+        128,
+        128
+      ],
+      "name": "",
+      "ref": "e96391d6f",
+      "role": "image",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1303,
+        791,
+        128,
+        22
+      ],
+      "name": "Show more details",
+      "ref": "efc69cd9a",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1303,
+        617,
+        128,
+        14
+      ],
+      "name": "",
+      "ref": "e6d79bdbd",
+      "role": "label",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1303,
+        771,
+        128,
+        14
+      ],
+      "name": "",
+      "ref": "e1e2db81e",
+      "role": "label",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        95,
+        1440,
+        509
+      ],
+      "name": "",
+      "ref": "e8ad9c7ad",
+      "role": "split pane",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        722,
+        95,
+        718,
+        509
+      ],
+      "description": "Contains albums and matched files",
+      "name": "Album view",
+      "ref": "e04f65cee",
+      "role": "tree",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        723,
+        96,
+        250,
+        18
+      ],
+      "name": "Title",
+      "ref": "eebed8d29",
+      "role": "table column header",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        973,
+        96,
+        50,
+        18
+      ],
+      "name": "Length",
+      "ref": "eb1063d3c",
+      "role": "table column header",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1023,
+        96,
+        200,
+        18
+      ],
+      "name": "Artist",
+      "ref": "e032cb652",
+      "role": "table column header",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1223,
+        96,
+        216,
+        18
+      ],
+      "name": "Match",
+      "ref": "e8d60abf3",
+      "role": "table column header",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        95,
+        718,
+        509
+      ],
+      "description": "Contains unmatched files and clusters",
+      "name": "File view",
+      "ref": "e82b2b8cb",
+      "role": "tree",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1,
+        96,
+        250,
+        18
+      ],
+      "name": "Title",
+      "ref": "e1a68a83b",
+      "role": "table column header",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        251,
+        96,
+        50,
+        18
+      ],
+      "name": "Length",
+      "ref": "e34a3e0f3",
+      "role": "table column header",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        301,
+        96,
+        416,
+        18
+      ],
+      "name": "Artist",
+      "ref": "e18b2be6d",
+      "role": "table column header",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        21,
+        114,
+        230,
+        18
+      ],
+      "name": "Unclustered Files (4)",
+      "ref": "e60e30729",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        251,
+        114,
+        50,
+        18
+      ],
+      "name": "",
+      "ref": "ea6ed60bc",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        301,
+        114,
+        416,
+        18
+      ],
+      "name": "",
+      "ref": "e80ecc968",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        41,
+        132,
+        210,
+        18
+      ],
+      "name": "Mülti",
+      "ref": "e43ccb9d5",
+      "role": "table cell",
+      "states": [
+        "focused",
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        251,
+        132,
+        50,
+        18
+      ],
+      "name": "0:01",
+      "ref": "ec5782ae2",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        301,
+        132,
+        416,
+        18
+      ],
+      "name": "Art One; Art Two",
+      "ref": "e7590deaf",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        41,
+        150,
+        210,
+        18
+      ],
+      "name": "AC3 two",
+      "ref": "e7badc690",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        251,
+        150,
+        50,
+        18
+      ],
+      "name": "0:01",
+      "ref": "ed68251d2",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        301,
+        150,
+        416,
+        18
+      ],
+      "name": "AC3 artist",
+      "ref": "ea73ac309",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        41,
+        168,
+        210,
+        18
+      ],
+      "name": "Wave Two",
+      "ref": "e71d897f4",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        251,
+        168,
+        50,
+        18
+      ],
+      "name": "0:01",
+      "ref": "ed4ef2ae3",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        301,
+        168,
+        416,
+        18
+      ],
+      "name": "Info Artist Kept",
+      "ref": "e200ce1f0",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        41,
+        186,
+        210,
+        18
+      ],
+      "name": "AAC two",
+      "ref": "eb2d94e92",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        251,
+        186,
+        50,
+        18
+      ],
+      "name": "0:01",
+      "ref": "e165b625c",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        301,
+        186,
+        416,
+        18
+      ],
+      "name": "AAC artist",
+      "ref": "e59e91ca2",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        21,
+        204,
+        230,
+        18
+      ],
+      "name": "Clusters (0)",
+      "ref": "e38f34658",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        251,
+        204,
+        50,
+        18
+      ],
+      "name": "",
+      "ref": "e5b335cdc",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        301,
+        204,
+        416,
+        18
+      ],
+      "name": "",
+      "ref": "e1a5ac0d4",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        280,
+        59,
+        860,
+        720
+      ],
+      "name": "Options",
+      "ref": "e39e196ce",
+      "role": "dialog",
+      "states": [
+        "active"
+      ]
+    },
+    {
+      "bounds": [
+        289,
+        68,
+        842,
+        672
+      ],
+      "name": "",
+      "ref": "e5430a3c5",
+      "role": "split pane"
+    },
+    {
+      "bounds": [
+        482,
+        77,
+        640,
+        606
+      ],
+      "name": "",
+      "ref": "e016fa801",
+      "role": "layered pane"
+    },
+    {
+      "bounds": [
+        491,
+        86,
+        622,
+        192
+      ],
+      "name": "AC3 files",
+      "ref": "ecca7195c",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        503,
+        115,
+        598,
+        56
+      ],
+      "name": "Picard can save APEv2 tags to pure AC3 files, which by default do not support tagging. APEv2 tags in AC3 are supported by some players, but players not supporting AC3 files with APEv2 tags can have is",
+      "ref": "e48f08651",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        503,
+        197,
+        123,
+        19
+      ],
+      "description": "This option is overridden by profile: Options fo2",
+      "name": "Save APEv2 tags",
+      "ref": "e075a5a4e",
+      "role": "radio button"
+    },
+    {
+      "bounds": [
+        503,
+        222,
+        124,
+        19
+      ],
+      "description": "This option is overridden by profile: Options fo2",
+      "name": "Do not save tags",
+      "ref": "e996d74ff",
+      "role": "radio button",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        503,
+        247,
+        230,
+        19
+      ],
+      "description": "This option is overridden by profile: Options fo2",
+      "name": "Remove APEv2 tags from AC3 files",
+      "ref": "e0000f520",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        491,
+        699,
+        20,
+        23
+      ],
+      "name": "",
+      "ref": "efdab2348",
+      "role": "image"
+    },
+    {
+      "bounds": [
+        517,
+        699,
+        566,
+        23
+      ],
+      "name": "The highlighted settings on this page are overridden by \"Options fo2\"",
+      "ref": "e3c4498c3",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1089,
+        699,
+        24,
+        23
+      ],
+      "description": "Display help regarding option profiles",
+      "name": "",
+      "ref": "ec4d3e803",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        289,
+        68,
+        180,
+        672
+      ],
+      "name": "",
+      "ref": "ece025516",
+      "role": "tree",
+      "states": [
+        "focused"
+      ]
+    },
+    {
+      "bounds": [
+        310,
+        69,
+        158,
+        14
+      ],
+      "name": "General",
+      "ref": "eb67dd9fd",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        330,
+        83,
+        138,
+        14
+      ],
+      "name": "Startup",
+      "ref": "e2b864b7b",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        330,
+        97,
+        138,
+        14
+      ],
+      "name": "Network",
+      "ref": "eb4314dbd",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        330,
+        111,
+        138,
+        14
+      ],
+      "name": "Audio Player",
+      "ref": "e8f349578",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        310,
+        125,
+        158,
+        14
+      ],
+      "name": "Metadata",
+      "ref": "e63d2b147",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        330,
+        139,
+        138,
+        14
+      ],
+      "name": "Preferred Releases",
+      "ref": "e08ea0cf3",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        330,
+        153,
+        138,
+        14
+      ],
+      "name": "Genres",
+      "ref": "eacb6b54a",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        330,
+        167,
+        138,
+        14
+      ],
+      "name": "Ratings",
+      "ref": "ebda189e5",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        310,
+        181,
+        158,
+        14
+      ],
+      "name": "Lookup",
+      "ref": "e9bcf3d19",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        330,
+        195,
+        138,
+        14
+      ],
+      "name": "CD Lookup",
+      "ref": "e9534b66c",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        330,
+        209,
+        138,
+        14
+      ],
+      "name": "Fingerprinting",
+      "ref": "ee72d9404",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        310,
+        223,
+        158,
+        14
+      ],
+      "name": "Tags",
+      "ref": "efd945465",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        330,
+        237,
+        138,
+        14
+      ],
+      "name": "ID3",
+      "ref": "e853e5476",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        330,
+        251,
+        138,
+        14
+      ],
+      "name": "AAC",
+      "ref": "e3ea49645",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        330,
+        265,
+        138,
+        14
+      ],
+      "name": "AC3",
+      "ref": "e360edfad",
+      "role": "table cell",
+      "states": [
+        "focused",
+        "selected",
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        330,
+        279,
+        138,
+        14
+      ],
+      "name": "WAVE",
+      "ref": "e06f3a831",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        310,
+        293,
+        158,
+        14
+      ],
+      "name": "Cover Art",
+      "ref": "e81c2d28e",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        330,
+        307,
+        138,
+        14
+      ],
+      "name": "Processing",
+      "ref": "ec023c20a",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        330,
+        321,
+        138,
+        14
+      ],
+      "name": "Cover Art Archive",
+      "ref": "e963cdea5",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        330,
+        335,
+        138,
+        14
+      ],
+      "name": "Local Files",
+      "ref": "e52005705",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        310,
+        349,
+        158,
+        14
+      ],
+      "name": "File Naming",
+      "ref": "eae2dcbbf",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        330,
+        363,
+        138,
+        14
+      ],
+      "name": "Compatibility",
+      "ref": "e58f3d6ca",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        310,
+        377,
+        158,
+        14
+      ],
+      "name": "Plugins",
+      "ref": "e370efa23",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        310,
+        391,
+        158,
+        14
+      ],
+      "name": "Scripting",
+      "ref": "e019517f4",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        310,
+        405,
+        158,
+        14
+      ],
+      "name": "User Interface",
+      "ref": "ebba55d97",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        330,
+        419,
+        138,
+        14
+      ],
+      "name": "Colors",
+      "ref": "e8613ac0e",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        330,
+        433,
+        138,
+        14
+      ],
+      "name": "Top Tags",
+      "ref": "ecda16011",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        330,
+        447,
+        138,
+        14
+      ],
+      "name": "Quick Settings Menu",
+      "ref": "e152eba7b",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        330,
+        461,
+        138,
+        14
+      ],
+      "name": "Cover Art Box",
+      "ref": "ea3fcabac",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        330,
+        475,
+        138,
+        14
+      ],
+      "name": "Action Toolbar",
+      "ref": "e53fc34c9",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        310,
+        489,
+        158,
+        14
+      ],
+      "name": "Advanced",
+      "ref": "ee25008a8",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        330,
+        503,
+        138,
+        14
+      ],
+      "name": "Matching",
+      "ref": "ed75c3a26",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        330,
+        517,
+        138,
+        14
+      ],
+      "name": "Sessions",
+      "ref": "e02684ab9",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        330,
+        531,
+        138,
+        14
+      ],
+      "name": "Maintenance",
+      "ref": "eaf222a93",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        310,
+        545,
+        158,
+        14
+      ],
+      "name": "Option Profiles",
+      "ref": "edd984db7",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        417,
+        746,
+        102,
+        24
+      ],
+      "name": "Make It So!",
+      "ref": "eb9c8e668",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        965,
+        746,
+        80,
+        24
+      ],
+      "name": "Cancel",
+      "ref": "e8ce8e004",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1051,
+        746,
+        80,
+        24
+      ],
+      "name": "Help",
+      "ref": "e19a79c6c",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        525,
+        746,
+        152,
+        24
+      ],
+      "description": "Reset all of Picard's settings",
+      "name": "Restore all Defaults",
+      "ref": "ef6afb255",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        683,
+        746,
+        134,
+        24
+      ],
+      "description": "Reset all settings for current option page",
+      "name": "Restore Defaults",
+      "ref": "e386c80b4",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        823,
+        746,
+        136,
+        24
+      ],
+      "description": "Show which profiles are attached to the options on this page",
+      "name": "Attached Profiles",
+      "ref": "ec13fa025",
+      "role": "push button"
+    }
+  ],
+  "screen": [
+    1440,
+    900
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": false,
+      "bounds": [
+        0,
+        38,
+        1440,
+        881
+      ],
+      "ref": "wb4132fcb",
+      "title": "MusicBrainz Picard"
+    },
+    {
+      "active": true,
+      "bounds": [
+        281,
+        79,
+        860,
+        720
+      ],
+      "ref": "we2d48d8a",
+      "title": "Options"
+    }
+  ]
+}

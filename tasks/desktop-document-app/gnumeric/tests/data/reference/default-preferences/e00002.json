@@ -1,0 +1,2467 @@
+{
+  "focused": null,
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        900
+      ],
+      "name": "Book1.gnumeric - Gnumeric",
+      "ref": "ed5687e74",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        25
+      ],
+      "name": "",
+      "ref": "ef7ec14cb",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        39,
+        25
+      ],
+      "name": "File",
+      "ref": "eb0ac7493",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        39,
+        19,
+        41,
+        25
+      ],
+      "name": "Edit",
+      "ref": "e67274945",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        80,
+        19,
+        48,
+        25
+      ],
+      "name": "View",
+      "ref": "e9f1eb27c",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        128,
+        19,
+        53,
+        25
+      ],
+      "name": "Insert",
+      "ref": "eacad5844",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        181,
+        19,
+        62,
+        25
+      ],
+      "name": "Format",
+      "ref": "e332dd930",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        243,
+        19,
+        49,
+        25
+      ],
+      "name": "Tools",
+      "ref": "efb65dcd4",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        292,
+        19,
+        76,
+        25
+      ],
+      "name": "Statistics",
+      "ref": "e83d84199",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        368,
+        19,
+        47,
+        25
+      ],
+      "name": "Data",
+      "ref": "e14066393",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        415,
+        19,
+        46,
+        25
+      ],
+      "name": "Help",
+      "ref": "e91ce9ccb",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        0,
+        44,
+        1280,
+        36
+      ],
+      "name": "",
+      "ref": "e46fd678b",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        4,
+        45,
+        37,
+        35
+      ],
+      "description": "Create a new workbook",
+      "name": "New",
+      "ref": "e25bdf90f",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        41,
+        45,
+        37,
+        35
+      ],
+      "description": "Open a file",
+      "name": "Open",
+      "ref": "e9e4b5cf1",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        78,
+        45,
+        37,
+        35
+      ],
+      "description": "Save the current workbook",
+      "name": "Save",
+      "ref": "e092f64c2",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        129,
+        45,
+        37,
+        35
+      ],
+      "description": "Print the current file",
+      "name": "Print",
+      "ref": "e9dfabd96",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        166,
+        45,
+        37,
+        35
+      ],
+      "description": "Print preview",
+      "name": "Print Preview",
+      "ref": "e3f3e6815",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        217,
+        45,
+        37,
+        35
+      ],
+      "description": "Cut the selection",
+      "name": "Cut",
+      "ref": "e3b1048a0",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        254,
+        45,
+        37,
+        35
+      ],
+      "description": "Copy the selection",
+      "name": "Copy",
+      "ref": "e686d6bcd",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        291,
+        45,
+        37,
+        35
+      ],
+      "description": "Paste the clipboard",
+      "name": "Paste",
+      "ref": "e69e5d97b",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        342,
+        45,
+        56,
+        35
+      ],
+      "description": "Undo the last action",
+      "name": "",
+      "ref": "ef203441b",
+      "role": "combo box",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        398,
+        45,
+        56,
+        35
+      ],
+      "description": "Redo the undone action",
+      "name": "",
+      "ref": "e0b411bbf",
+      "role": "combo box",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        468,
+        45,
+        37,
+        35
+      ],
+      "description": "Insert a Hyperlink",
+      "name": "Hyperlink...",
+      "ref": "ed9d9e918",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        505,
+        45,
+        37,
+        35
+      ],
+      "description": "Sum into the current cell",
+      "name": "Sum",
+      "ref": "e7fe43651",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        542,
+        45,
+        37,
+        35
+      ],
+      "description": "Edit a function in the current cell",
+      "name": "Function...",
+      "ref": "e4bdad586",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        579,
+        45,
+        37,
+        35
+      ],
+      "description": "Sort the selected region in ascending order based on the first column selected",
+      "name": "Sort Ascending",
+      "ref": "e3c24882e",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        616,
+        45,
+        37,
+        35
+      ],
+      "description": "Sort the selected region in descending order based on the first column selected",
+      "name": "Sort Descending",
+      "ref": "e514a8aa8",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        667,
+        45,
+        37,
+        35
+      ],
+      "description": "Insert a Chart",
+      "name": "Chart...",
+      "ref": "e520fd8e7",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        704,
+        45,
+        86,
+        35
+      ],
+      "description": "Zoom",
+      "name": "",
+      "ref": "e50b10209",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        704,
+        45,
+        65,
+        34
+      ],
+      "name": "",
+      "ref": "ee10cf169",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "100%"
+    },
+    {
+      "bounds": [
+        0,
+        80,
+        1280,
+        36
+      ],
+      "name": "",
+      "ref": "e5a37216a",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        4,
+        81,
+        102,
+        35
+      ],
+      "description": "Change font",
+      "name": "Sans",
+      "ref": "e0349a040",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        106,
+        81,
+        37,
+        35
+      ],
+      "name": "Bold",
+      "ref": "e41eb904c",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        143,
+        81,
+        37,
+        35
+      ],
+      "name": "Italic",
+      "ref": "e82f91dec",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        180,
+        81,
+        37,
+        35
+      ],
+      "name": "Underline",
+      "ref": "ecd29f55c",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        231,
+        81,
+        37,
+        35
+      ],
+      "description": "Align left",
+      "name": "Left Align",
+      "ref": "e44567f56",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        268,
+        81,
+        37,
+        35
+      ],
+      "description": "Center horizontally",
+      "name": "Center",
+      "ref": "e2efe07cb",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        305,
+        81,
+        37,
+        35
+      ],
+      "description": "Align right",
+      "name": "Right Align",
+      "ref": "e9c6ffe7c",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        342,
+        81,
+        37,
+        35
+      ],
+      "description": "Center horizontally across the selection",
+      "name": "Center Across Selection",
+      "ref": "ea09d6a8f",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        379,
+        81,
+        37,
+        35
+      ],
+      "description": "Merge a range of cells",
+      "name": "Merge",
+      "ref": "eb89974fd",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        416,
+        81,
+        37,
+        35
+      ],
+      "description": "Split merged ranges of cells",
+      "name": "Unmerge",
+      "ref": "ea85aa7f6",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        453,
+        81,
+        42,
+        35
+      ],
+      "description": "Vertical Alignment",
+      "name": "",
+      "ref": "e7b96666b",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        456,
+        81,
+        18,
+        35
+      ],
+      "name": "",
+      "ref": "ebdc4d5c4",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        474,
+        81,
+        18,
+        35
+      ],
+      "name": "",
+      "ref": "ee366d288",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        509,
+        81,
+        37,
+        35
+      ],
+      "description": "Format the selection as accounting",
+      "name": "Accounting",
+      "ref": "eace30c96",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        546,
+        81,
+        37,
+        35
+      ],
+      "description": "Format the selection as percentage",
+      "name": "Percentage",
+      "ref": "e0bf4285f",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        583,
+        81,
+        37,
+        35
+      ],
+      "description": "Set the format of the selected cells to include a thousands separator",
+      "name": "Thousands Separator",
+      "ref": "e7604057b",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        620,
+        81,
+        37,
+        35
+      ],
+      "description": "Increase the number of decimals displayed",
+      "name": "Increase Precision",
+      "ref": "e7134ecd1",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        657,
+        81,
+        37,
+        35
+      ],
+      "description": "Decrease the number of decimals displayed",
+      "name": "Decrease Precision",
+      "ref": "ec2cc7890",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        708,
+        81,
+        37,
+        35
+      ],
+      "description": "Decrease the indent, and align the contents to the left",
+      "name": "Decrease Indentation",
+      "ref": "e3aa8056c",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        745,
+        81,
+        37,
+        35
+      ],
+      "description": "Increase the indent, and align the contents to the left",
+      "name": "Increase Indentation",
+      "ref": "e175509a3",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        796,
+        81,
+        37,
+        35
+      ],
+      "name": "Superscript",
+      "ref": "ed47f8da4",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        833,
+        81,
+        37,
+        35
+      ],
+      "name": "Subscript",
+      "ref": "eb3441bc1",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        884,
+        81,
+        42,
+        35
+      ],
+      "description": "Borders",
+      "name": "",
+      "ref": "e15d12f33",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        887,
+        81,
+        18,
+        35
+      ],
+      "name": "",
+      "ref": "eda415876",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        905,
+        81,
+        18,
+        35
+      ],
+      "name": "",
+      "ref": "ec5420332",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        926,
+        81,
+        50,
+        35
+      ],
+      "description": "Background",
+      "name": "",
+      "ref": "e43d2dc8c",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        929,
+        81,
+        26,
+        35
+      ],
+      "name": "",
+      "ref": "efaaa3355",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        955,
+        81,
+        18,
+        35
+      ],
+      "name": "",
+      "ref": "ed846da49",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        976,
+        81,
+        50,
+        35
+      ],
+      "description": "Foreground",
+      "name": "",
+      "ref": "e20373aa1",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        979,
+        81,
+        26,
+        35
+      ],
+      "name": "",
+      "ref": "e2f5d36db",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1005,
+        81,
+        18,
+        35
+      ],
+      "name": "",
+      "ref": "ebdd892c6",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        0,
+        116,
+        1280,
+        37
+      ],
+      "name": "",
+      "ref": "e6c2af2b4",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        4,
+        117,
+        37,
+        35
+      ],
+      "description": "Create a rectangle object",
+      "name": "Rectangle",
+      "ref": "e1cb18449",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        41,
+        117,
+        37,
+        35
+      ],
+      "description": "Create an ellipse object",
+      "name": "Ellipse",
+      "ref": "efd7ac701",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        78,
+        117,
+        37,
+        35
+      ],
+      "description": "Create a frame",
+      "name": "Frame",
+      "ref": "e5f698ec0",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        115,
+        117,
+        37,
+        35
+      ],
+      "description": "Create a line object",
+      "name": "Line",
+      "ref": "e5a36853b",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        152,
+        117,
+        37,
+        35
+      ],
+      "description": "Create an arrow object",
+      "name": "Arrow",
+      "ref": "ee8665937",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        189,
+        117,
+        37,
+        35
+      ],
+      "description": "Create a checkbox",
+      "name": "Checkbox",
+      "ref": "ef7e1702e",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        226,
+        117,
+        37,
+        35
+      ],
+      "description": "Create a radio button",
+      "name": "RadioButton",
+      "ref": "eac9ea636",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        263,
+        117,
+        37,
+        35
+      ],
+      "description": "Create a button",
+      "name": "Button",
+      "ref": "ef22605d0",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        300,
+        117,
+        37,
+        35
+      ],
+      "description": "Create a scrollbar",
+      "name": "Scrollbar",
+      "ref": "ec18178a8",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        337,
+        117,
+        37,
+        35
+      ],
+      "description": "Create a spin button",
+      "name": "SpinButton",
+      "ref": "edfd459a6",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        374,
+        117,
+        37,
+        35
+      ],
+      "description": "Create a slider",
+      "name": "Slider",
+      "ref": "e4d424280",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        411,
+        117,
+        37,
+        35
+      ],
+      "description": "Create a list",
+      "name": "List",
+      "ref": "ed1ee4c7d",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        448,
+        117,
+        37,
+        35
+      ],
+      "description": "Create a combo box",
+      "name": "Combo Box",
+      "ref": "e11e3e7cb",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        153,
+        1280,
+        36
+      ],
+      "name": "",
+      "ref": "e2eadc2d0",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        4,
+        154,
+        169,
+        35
+      ],
+      "name": "",
+      "ref": "ea1c3d0ff",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "A1"
+    },
+    {
+      "bounds": [
+        147,
+        163,
+        16,
+        16
+      ],
+      "name": "go-jump",
+      "ref": "ee41b6cf3",
+      "role": "icon"
+    },
+    {
+      "bounds": [
+        173,
+        154,
+        37,
+        35
+      ],
+      "description": "Cancel change",
+      "name": "",
+      "ref": "eb7658496",
+      "role": "panel",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        173,
+        154,
+        37,
+        35
+      ],
+      "name": "",
+      "ref": "e1278bd85",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        210,
+        154,
+        73,
+        35
+      ],
+      "description": "Accept change",
+      "name": "",
+      "ref": "ee2611d9e",
+      "role": "panel",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        210,
+        154,
+        36,
+        34
+      ],
+      "name": "",
+      "ref": "e1489b4d2",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        246,
+        154,
+        36,
+        34
+      ],
+      "description": "Accept change in multiple cells",
+      "name": "Menu",
+      "ref": "e94cb9944",
+      "role": "toggle button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        283,
+        154,
+        37,
+        35
+      ],
+      "description": "Enter formula...",
+      "name": "",
+      "ref": "eb4da7711",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        283,
+        154,
+        37,
+        35
+      ],
+      "name": "",
+      "ref": "e887db297",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        320,
+        154,
+        956,
+        34
+      ],
+      "name": "",
+      "ref": "e37fa2f50",
+      "role": "text",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        189,
+        1280,
+        673
+      ],
+      "name": "",
+      "ref": "e07cb54fe",
+      "role": "page tab list"
+    },
+    {
+      "bounds": [
+        0,
+        845,
+        1266,
+        17
+      ],
+      "name": "",
+      "ref": "e6efff807",
+      "role": "split pane",
+      "value": 53.0
+    },
+    {
+      "bounds": [
+        0,
+        845,
+        53,
+        17
+      ],
+      "name": "",
+      "ref": "e63b372a2",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        54,
+        845,
+        1212,
+        17
+      ],
+      "name": "",
+      "ref": "e77c275d5",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        1266,
+        189,
+        14,
+        656
+      ],
+      "name": "",
+      "ref": "e935f5947",
+      "role": "split pane",
+      "value": 19.0
+    },
+    {
+      "bounds": [
+        1266,
+        189,
+        14,
+        19
+      ],
+      "name": "",
+      "ref": "e399bb1ff",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1266,
+        209,
+        14,
+        636
+      ],
+      "name": "",
+      "ref": "ebb0c13e1",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        0,
+        189,
+        55,
+        21
+      ],
+      "name": "",
+      "ref": "e06046370",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        0,
+        862,
+        979,
+        38
+      ],
+      "name": "",
+      "ref": "ea0b6ac21",
+      "role": "split pane",
+      "value": 374.0
+    },
+    {
+      "bounds": [
+        0,
+        861,
+        374,
+        38
+      ],
+      "name": "",
+      "ref": "ea87af5e6",
+      "role": "page tab list"
+    },
+    {
+      "bounds": [
+        21,
+        866,
+        52,
+        30
+      ],
+      "name": "Sheet1",
+      "ref": "e63162ddb",
+      "role": "page tab",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        375,
+        870,
+        604,
+        21
+      ],
+      "name": "",
+      "ref": "e1889a1b7",
+      "role": "progress bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        982,
+        863,
+        210,
+        36
+      ],
+      "name": "Sum = 0",
+      "ref": "ee361b512",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1205,
+        868,
+        65,
+        26
+      ],
+      "name": "",
+      "ref": "e45f5b01f",
+      "role": "status bar"
+    },
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        900
+      ],
+      "name": "Book2.gnumeric - Gnumeric",
+      "ref": "e9ffc8b9b",
+      "role": "frame",
+      "states": [
+        "active"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        25
+      ],
+      "name": "",
+      "ref": "eeabb195b",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        39,
+        25
+      ],
+      "name": "File",
+      "ref": "e24448371",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        39,
+        19,
+        41,
+        25
+      ],
+      "name": "Edit",
+      "ref": "e31a65377",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        80,
+        19,
+        48,
+        25
+      ],
+      "name": "View",
+      "ref": "e0a68dd76",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        128,
+        19,
+        53,
+        25
+      ],
+      "name": "Insert",
+      "ref": "e4505f54d",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        181,
+        19,
+        62,
+        25
+      ],
+      "name": "Format",
+      "ref": "ef08a65e1",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        243,
+        19,
+        49,
+        25
+      ],
+      "name": "Tools",
+      "ref": "e94583572",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        292,
+        19,
+        76,
+        25
+      ],
+      "name": "Statistics",
+      "ref": "e575d9c40",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        368,
+        19,
+        47,
+        25
+      ],
+      "name": "Data",
+      "ref": "e1ade79ac",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        415,
+        19,
+        46,
+        25
+      ],
+      "name": "Help",
+      "ref": "e74633846",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        0,
+        44,
+        1280,
+        36
+      ],
+      "name": "",
+      "ref": "e078dd555",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        4,
+        45,
+        37,
+        35
+      ],
+      "description": "Create a new workbook",
+      "name": "New",
+      "ref": "e686ae018",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        41,
+        45,
+        37,
+        35
+      ],
+      "description": "Open a file",
+      "name": "Open",
+      "ref": "ed03f6aa9",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        78,
+        45,
+        37,
+        35
+      ],
+      "description": "Save the current workbook",
+      "name": "Save",
+      "ref": "e27d97cf5",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        129,
+        45,
+        37,
+        35
+      ],
+      "description": "Print the current file",
+      "name": "Print",
+      "ref": "e1439017f",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        166,
+        45,
+        37,
+        35
+      ],
+      "description": "Print preview",
+      "name": "Print Preview",
+      "ref": "e9b1a5901",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        217,
+        45,
+        37,
+        35
+      ],
+      "description": "Cut the selection",
+      "name": "Cut",
+      "ref": "e2c7e8011",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        254,
+        45,
+        37,
+        35
+      ],
+      "description": "Copy the selection",
+      "name": "Copy",
+      "ref": "eb132f561",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        291,
+        45,
+        37,
+        35
+      ],
+      "description": "Paste the clipboard",
+      "name": "Paste",
+      "ref": "e449b2662",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        342,
+        45,
+        56,
+        35
+      ],
+      "description": "Undo the last action",
+      "name": "",
+      "ref": "e03623b8b",
+      "role": "combo box",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        398,
+        45,
+        56,
+        35
+      ],
+      "description": "Redo the undone action",
+      "name": "",
+      "ref": "e6cbdd624",
+      "role": "combo box",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        468,
+        45,
+        37,
+        35
+      ],
+      "description": "Insert a Hyperlink",
+      "name": "Hyperlink...",
+      "ref": "e5fd9a3bc",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        505,
+        45,
+        37,
+        35
+      ],
+      "description": "Sum into the current cell",
+      "name": "Sum",
+      "ref": "ef50d4aa4",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        542,
+        45,
+        37,
+        35
+      ],
+      "description": "Edit a function in the current cell",
+      "name": "Function...",
+      "ref": "e1da28bfa",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        579,
+        45,
+        37,
+        35
+      ],
+      "description": "Sort the selected region in ascending order based on the first column selected",
+      "name": "Sort Ascending",
+      "ref": "e38956e88",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        616,
+        45,
+        37,
+        35
+      ],
+      "description": "Sort the selected region in descending order based on the first column selected",
+      "name": "Sort Descending",
+      "ref": "e33b16338",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        667,
+        45,
+        37,
+        35
+      ],
+      "description": "Insert a Chart",
+      "name": "Chart...",
+      "ref": "e9f5821ac",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        704,
+        45,
+        86,
+        35
+      ],
+      "description": "Zoom",
+      "name": "",
+      "ref": "e808c20c7",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        704,
+        45,
+        65,
+        34
+      ],
+      "name": "",
+      "ref": "e97715d42",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "125%"
+    },
+    {
+      "bounds": [
+        0,
+        80,
+        1280,
+        36
+      ],
+      "name": "",
+      "ref": "e49b3fc8c",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        4,
+        81,
+        102,
+        35
+      ],
+      "description": "Change font",
+      "name": "Sans",
+      "ref": "e8583e12b",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        106,
+        81,
+        37,
+        35
+      ],
+      "name": "Bold",
+      "ref": "ea59f7e4e",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        143,
+        81,
+        37,
+        35
+      ],
+      "name": "Italic",
+      "ref": "e289ce442",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        180,
+        81,
+        37,
+        35
+      ],
+      "name": "Underline",
+      "ref": "ed8a1990d",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        231,
+        81,
+        37,
+        35
+      ],
+      "description": "Align left",
+      "name": "Left Align",
+      "ref": "eed4b41c2",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        268,
+        81,
+        37,
+        35
+      ],
+      "description": "Center horizontally",
+      "name": "Center",
+      "ref": "e97ce78a1",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        305,
+        81,
+        37,
+        35
+      ],
+      "description": "Align right",
+      "name": "Right Align",
+      "ref": "e1071ea0a",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        342,
+        81,
+        37,
+        35
+      ],
+      "description": "Center horizontally across the selection",
+      "name": "Center Across Selection",
+      "ref": "e08904cd9",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        379,
+        81,
+        37,
+        35
+      ],
+      "description": "Merge a range of cells",
+      "name": "Merge",
+      "ref": "e1aced263",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        416,
+        81,
+        37,
+        35
+      ],
+      "description": "Split merged ranges of cells",
+      "name": "Unmerge",
+      "ref": "e100b23cf",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        453,
+        81,
+        42,
+        35
+      ],
+      "description": "Vertical Alignment",
+      "name": "",
+      "ref": "e69d46c19",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        456,
+        81,
+        18,
+        35
+      ],
+      "name": "",
+      "ref": "eb0465d62",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        474,
+        81,
+        18,
+        35
+      ],
+      "name": "",
+      "ref": "e62f0a370",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        509,
+        81,
+        37,
+        35
+      ],
+      "description": "Format the selection as accounting",
+      "name": "Accounting",
+      "ref": "efab1cd8d",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        546,
+        81,
+        37,
+        35
+      ],
+      "description": "Format the selection as percentage",
+      "name": "Percentage",
+      "ref": "ebbbb3fdb",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        583,
+        81,
+        37,
+        35
+      ],
+      "description": "Set the format of the selected cells to include a thousands separator",
+      "name": "Thousands Separator",
+      "ref": "e074d75e5",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        620,
+        81,
+        37,
+        35
+      ],
+      "description": "Increase the number of decimals displayed",
+      "name": "Increase Precision",
+      "ref": "e41c5de47",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        657,
+        81,
+        37,
+        35
+      ],
+      "description": "Decrease the number of decimals displayed",
+      "name": "Decrease Precision",
+      "ref": "e26b4a97b",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        708,
+        81,
+        37,
+        35
+      ],
+      "description": "Decrease the indent, and align the contents to the left",
+      "name": "Decrease Indentation",
+      "ref": "e7ef99aa3",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        745,
+        81,
+        37,
+        35
+      ],
+      "description": "Increase the indent, and align the contents to the left",
+      "name": "Increase Indentation",
+      "ref": "e29d9d0f1",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        796,
+        81,
+        37,
+        35
+      ],
+      "name": "Superscript",
+      "ref": "eeadb597d",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        833,
+        81,
+        37,
+        35
+      ],
+      "name": "Subscript",
+      "ref": "e1858db46",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        884,
+        81,
+        42,
+        35
+      ],
+      "description": "Borders",
+      "name": "",
+      "ref": "e44a1c8f1",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        887,
+        81,
+        18,
+        35
+      ],
+      "name": "",
+      "ref": "e0282062c",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        905,
+        81,
+        18,
+        35
+      ],
+      "name": "",
+      "ref": "effe0bba5",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        926,
+        81,
+        50,
+        35
+      ],
+      "description": "Background",
+      "name": "",
+      "ref": "ec179e5e7",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        929,
+        81,
+        26,
+        35
+      ],
+      "name": "",
+      "ref": "efa7ca4f2",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        955,
+        81,
+        18,
+        35
+      ],
+      "name": "",
+      "ref": "e108aa2a2",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        976,
+        81,
+        50,
+        35
+      ],
+      "description": "Foreground",
+      "name": "",
+      "ref": "e14b4a5f8",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        979,
+        81,
+        26,
+        35
+      ],
+      "name": "",
+      "ref": "edb53038f",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1005,
+        81,
+        18,
+        35
+      ],
+      "name": "",
+      "ref": "e5300a5fc",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        0,
+        116,
+        1280,
+        37
+      ],
+      "name": "",
+      "ref": "e95f8f784",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        4,
+        117,
+        37,
+        35
+      ],
+      "description": "Create a rectangle object",
+      "name": "Rectangle",
+      "ref": "ebd09482f",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        41,
+        117,
+        37,
+        35
+      ],
+      "description": "Create an ellipse object",
+      "name": "Ellipse",
+      "ref": "e64fc17d7",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        78,
+        117,
+        37,
+        35
+      ],
+      "description": "Create a frame",
+      "name": "Frame",
+      "ref": "eb9793104",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        115,
+        117,
+        37,
+        35
+      ],
+      "description": "Create a line object",
+      "name": "Line",
+      "ref": "e3abdc462",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        152,
+        117,
+        37,
+        35
+      ],
+      "description": "Create an arrow object",
+      "name": "Arrow",
+      "ref": "e26f44b58",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        189,
+        117,
+        37,
+        35
+      ],
+      "description": "Create a checkbox",
+      "name": "Checkbox",
+      "ref": "e675f83b5",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        226,
+        117,
+        37,
+        35
+      ],
+      "description": "Create a radio button",
+      "name": "RadioButton",
+      "ref": "e6c9a4fb1",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        263,
+        117,
+        37,
+        35
+      ],
+      "description": "Create a button",
+      "name": "Button",
+      "ref": "e418a83d4",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        300,
+        117,
+        37,
+        35
+      ],
+      "description": "Create a scrollbar",
+      "name": "Scrollbar",
+      "ref": "ed31e31c3",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        337,
+        117,
+        37,
+        35
+      ],
+      "description": "Create a spin button",
+      "name": "SpinButton",
+      "ref": "eb7abe53e",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        374,
+        117,
+        37,
+        35
+      ],
+      "description": "Create a slider",
+      "name": "Slider",
+      "ref": "e822108ea",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        411,
+        117,
+        37,
+        35
+      ],
+      "description": "Create a list",
+      "name": "List",
+      "ref": "e16606e19",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        448,
+        117,
+        37,
+        35
+      ],
+      "description": "Create a combo box",
+      "name": "Combo Box",
+      "ref": "e8ae1409a",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        153,
+        1280,
+        36
+      ],
+      "name": "",
+      "ref": "e543f2987",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        4,
+        154,
+        169,
+        35
+      ],
+      "name": "",
+      "ref": "e4ea80a4c",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "A1"
+    },
+    {
+      "bounds": [
+        147,
+        163,
+        16,
+        16
+      ],
+      "name": "go-jump",
+      "ref": "e6c084432",
+      "role": "icon"
+    },
+    {
+      "bounds": [
+        173,
+        154,
+        37,
+        35
+      ],
+      "description": "Cancel change",
+      "name": "",
+      "ref": "e63181e4d",
+      "role": "panel",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        173,
+        154,
+        37,
+        35
+      ],
+      "name": "",
+      "ref": "e0c63aa43",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        210,
+        154,
+        73,
+        35
+      ],
+      "description": "Accept change",
+      "name": "",
+      "ref": "e7f1fb879",
+      "role": "panel",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        210,
+        154,
+        36,
+        34
+      ],
+      "name": "",
+      "ref": "eb51bac3e",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        246,
+        154,
+        36,
+        34
+      ],
+      "description": "Accept change in multiple cells",
+      "name": "Menu",
+      "ref": "ece35a87d",
+      "role": "toggle button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        283,
+        154,
+        37,
+        35
+      ],
+      "description": "Enter formula...",
+      "name": "",
+      "ref": "e019a3bc6",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        283,
+        154,
+        37,
+        35
+      ],
+      "name": "",
+      "ref": "ed367680f",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        320,
+        154,
+        956,
+        34
+      ],
+      "name": "",
+      "ref": "eba0c9ecc",
+      "role": "text",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        189,
+        1280,
+        673
+      ],
+      "name": "",
+      "ref": "ed6baa63a",
+      "role": "page tab list"
+    },
+    {
+      "bounds": [
+        0,
+        845,
+        1266,
+        17
+      ],
+      "name": "",
+      "ref": "e7b6c98ce",
+      "role": "split pane",
+      "value": 68.0
+    },
+    {
+      "bounds": [
+        0,
+        845,
+        68,
+        17
+      ],
+      "name": "",
+      "ref": "edfdcabe0",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        69,
+        845,
+        1197,
+        17
+      ],
+      "name": "",
+      "ref": "ec27d0793",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        1266,
+        189,
+        14,
+        656
+      ],
+      "name": "",
+      "ref": "eb36b8926",
+      "role": "split pane",
+      "value": 22.0
+    },
+    {
+      "bounds": [
+        1266,
+        189,
+        14,
+        22
+      ],
+      "name": "",
+      "ref": "e5a48d00b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1266,
+        212,
+        14,
+        633
+      ],
+      "name": "",
+      "ref": "e67a412dd",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        0,
+        189,
+        70,
+        24
+      ],
+      "name": "",
+      "ref": "e4ebb595e",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        0,
+        862,
+        979,
+        38
+      ],
+      "name": "",
+      "ref": "e0b8dca34",
+      "role": "split pane",
+      "value": 443.0
+    },
+    {
+      "bounds": [
+        0,
+        861,
+        443,
+        38
+      ],
+      "name": "",
+      "ref": "ef4324233",
+      "role": "page tab list"
+    },
+    {
+      "bounds": [
+        21,
+        866,
+        52,
+        30
+      ],
+      "name": "Sheet1",
+      "ref": "e2d11548d",
+      "role": "page tab",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        107,
+        866,
+        52,
+        30
+      ],
+      "name": "Sheet2",
+      "ref": "e7e4358e4",
+      "role": "page tab"
+    },
+    {
+      "bounds": [
+        193,
+        866,
+        52,
+        30
+      ],
+      "name": "Sheet3",
+      "ref": "e9a0c2536",
+      "role": "page tab"
+    },
+    {
+      "bounds": [
+        444,
+        870,
+        535,
+        21
+      ],
+      "name": "",
+      "ref": "e47e25369",
+      "role": "progress bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        982,
+        863,
+        210,
+        36
+      ],
+      "name": "Sum = 0",
+      "ref": "eb645a36f",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1205,
+        868,
+        65,
+        26
+      ],
+      "name": "",
+      "ref": "ebfaea2c0",
+      "role": "status bar"
+    }
+  ],
+  "screen": [
+    1280,
+    900
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": false,
+      "bounds": [
+        0,
+        38,
+        1280,
+        881
+      ],
+      "ref": "wf1da0bfc",
+      "title": "Book1.gnumeric - Gnumeric"
+    },
+    {
+      "active": true,
+      "bounds": [
+        0,
+        38,
+        1280,
+        881
+      ],
+      "ref": "wd7ca65d6",
+      "title": "Book2.gnumeric - Gnumeric"
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e120",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e121",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/project/1/overview",
+      "ref": "e122",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/project/1/overview",
+      "ref": "e123",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "aria": "Configure this project",
+      "bounds": [
+        10,
+        48,
+        29,
+        17
+      ],
+      "href": "/project/1/overview",
+      "ref": "e124",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Configure this project"
+    },
+    {
+      "bounds": [
+        53,
+        49,
+        86,
+        16
+      ],
+      "href": "/project/1/overview/status%3Aopen",
+      "ref": "e125",
+      "role": null,
+      "tag": "a",
+      "text": "Overview",
+      "title": "Keyboard shortcut: \"v o\""
+    },
+    {
+      "bounds": [
+        160,
+        49,
+        60,
+        16
+      ],
+      "href": "/board/1/search/status%3Aopen",
+      "ref": "e126",
+      "role": null,
+      "tag": "a",
+      "text": "Board",
+      "title": "Keyboard shortcut: \"v b\""
+    },
+    {
+      "bounds": [
+        240,
+        49,
+        44,
+        16
+      ],
+      "href": "/list/1/search/status%3Aopen",
+      "ref": "e127",
+      "role": null,
+      "tag": "a",
+      "text": "List",
+      "title": "Keyboard shortcut: \"v l\""
+    },
+    {
+      "aria": "Filter",
+      "bounds": [
+        303,
+        44,
+        846,
+        28
+      ],
+      "name": "search",
+      "placeholder": "Filter",
+      "ref": "e128",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "status:open"
+    },
+    {
+      "aria": "Default filters",
+      "bounds": [
+        1161,
+        49,
+        36,
+        16
+      ],
+      "href": "/project/1/overview",
+      "ref": "e129",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Default filters"
+    },
+    {
+      "aria": "Custom filters",
+      "bounds": [
+        1221,
+        49,
+        36,
+        16
+      ],
+      "href": "/project/1/overview",
+      "ref": "e130",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "User filters"
+    },
+    {
+      "bounds": [
+        10,
+        165,
+        1260,
+        22
+      ],
+      "ref": "e131",
+      "role": null,
+      "tag": "summary",
+      "text": "Description"
+    },
+    {
+      "bounds": [
+        10,
+        202,
+        150,
+        26
+      ],
+      "href": "/project/1/edit",
+      "ref": "e132",
+      "role": null,
+      "tag": "a",
+      "text": "Edit description"
+    },
+    {
+      "bounds": [
+        10,
+        290,
+        1260,
+        22
+      ],
+      "ref": "e133",
+      "role": null,
+      "tag": "summary",
+      "text": "Attachments"
+    },
+    {
+      "bounds": [
+        10,
+        327,
+        130,
+        26
+      ],
+      "href": "/?controller=ProjectFileController&action=create&project_id=1",
+      "ref": "e134",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        10,
+        322,
+        1260,
+        22
+      ],
+      "ref": "e135",
+      "role": null,
+      "tag": "summary",
+      "text": "Information"
+    },
+    {
+      "bounds": [
+        10,
+        467,
+        1260,
+        22
+      ],
+      "ref": "e136",
+      "role": null,
+      "tag": "summary",
+      "text": "Last activity"
+    },
+    {
+      "bounds": [
+        250,
+        514,
+        18,
+        17
+      ],
+      "href": "/task/4",
+      "ref": "e137",
+      "role": null,
+      "tag": "a",
+      "text": "#4"
+    },
+    {
+      "bounds": [
+        256,
+        596,
+        18,
+        17
+      ],
+      "href": "/task/4",
+      "ref": "e138",
+      "role": null,
+      "tag": "a",
+      "text": "#4"
+    },
+    {
+      "bounds": [
+        256,
+        678,
+        18,
+        17
+      ],
+      "href": "/task/3",
+      "ref": "e139",
+      "role": null,
+      "tag": "a",
+      "text": "#3"
+    },
+    {
+      "bounds": [
+        256,
+        760,
+        18,
+        17
+      ],
+      "href": "/task/2",
+      "ref": "e140",
+      "role": null,
+      "tag": "a",
+      "text": "#2"
+    },
+    {
+      "bounds": [
+        256,
+        842,
+        18,
+        17
+      ],
+      "href": "/task/1",
+      "ref": "e141",
+      "role": null,
+      "tag": "a",
+      "text": "#1"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    934
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Website \n \n \nA\nOverview Board List\nTask count\n2\nBacklog\nTask count\n0\nReady\nTask count\n1\nWork in progress\nTask count\n0\nDone\nDescription\nEdit description\n\nCompany website project\n\nAttachments\nInformation\nProject owner: admin\nProject Manager: admin\nProject Member: Bob Builder\nLast activity\nA\n\nadmin closed the task #4 04/14/2026 08:00\n\nDelta archive\n\nA\n\nadmin created the task #4 04/14/2026 08:00\n\nDelta archive\n\nA\n\nadmin created the task #3 04/14/2026 08:00\n\nGamma newsletter\n\nA\n\nadmin created the task #2 04/14/2026 08:00\n\nBeta checkout\n\nA\n\nadmin created the task #1 04/14/2026 08:00\n\nAlpha homepage",
+  "text_truncated": false,
+  "title": "Website",
+  "url": "/project/1/overview",
+  "viewport": [
+    1280,
+    900
+  ]
+}

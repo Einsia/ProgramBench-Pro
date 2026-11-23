@@ -1,0 +1,196 @@
+{
+  "cursor": {
+    "column": 20,
+    "hidden": true,
+    "row": 34
+  },
+  "process": "running",
+  "screen": [
+    "00| Tasks   Projects   Timesheet   Calendar                                                                     next [none]",
+    "01|  ID Age Project S  Description                                                                                  Urg",
+    "02|",
+    "03|•  8 10w            Read book                                                                                    1.20",
+    "04|   2 3w  Work       Write report                                                                                 1.13",
+    "05|   6 11d Travel  6d Plan trip                                                                                    1.06",
+    "06|   9 7d             Fix bike                                                                                     -4.96",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|",
+    "12|",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────",
+    "19|",
+    "20|Name          Value",
+    "21|------------- ------------------------------------",
+    "22|ID            8",
+    "23|Description   Read book",
+    "24|                2026-03-02 08:00:00 Chapter 3",
+    "25|Status        Pending",
+    "26|Entered       2026-03-01 08:00:00 (10w)",
+    "27|Last modified 2026-05-13 10:00:00 ()",
+    "28|Virtual tags  ANNOTATED PENDING READY UNBLOCKED",
+    "29|UUID          00000008-0000-4000-8000-000000000008",
+    "30|Urgency       1.2",
+    "31|",
+    "32|--------------- ------ - ---- - ------",
+    "33|    annotations    0.8 *    1 =    0.8",
+    "34|Filter Tasks",
+    "35|status:pending -TAGGED"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        1,
+        6
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "reverse"
+      ],
+      "text": "Tasks"
+    },
+    {
+      "columns": [
+        6,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "reverse"
+      ],
+      "text": "   Projects   Timesheet   Calendar                                                                     next [none]"
+    },
+    {
+      "columns": [
+        0,
+        4
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "  ID"
+    },
+    {
+      "columns": [
+        5,
+        8
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Age"
+    },
+    {
+      "columns": [
+        9,
+        16
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Project"
+    },
+    {
+      "columns": [
+        17,
+        19
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "S "
+    },
+    {
+      "columns": [
+        20,
+        112
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Description                                                                                 "
+    },
+    {
+      "columns": [
+        113,
+        118
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Urg  "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 3,
+      "style": [
+        "bold"
+      ],
+      "text": "•  8 10w            Read book                                                                                    1.20 "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 4,
+      "style": [
+        "bg=1c1c1c"
+      ],
+      "text": "   2 3w  Work       Write report                                                                                 1.13 "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 5,
+      "style": [
+        "bg=00005f"
+      ],
+      "text": "   6 11d Travel  6d Plan trip                                                                                    1.06 "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 6,
+      "style": [
+        "bg=1c1c1c"
+      ],
+      "text": "   9 7d             Fix bike                                                                                     -4.96"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "reverse"
+      ],
+      "text": "Filter Tasks                                                                                                            "
+    }
+  ]
+}

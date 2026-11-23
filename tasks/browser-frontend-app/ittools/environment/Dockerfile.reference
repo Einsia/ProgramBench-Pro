@@ -1,0 +1,17 @@
+FROM program-bench-ittools-base:1.0.0 AS reference-install
+COPY solution/ /solution/
+RUN bash /solution/solve.sh && rm -rf /solution
+
+FROM program-bench-ittools-base:1.0.0
+COPY --from=reference-install /app/solution/ /app/solution/
+COPY environment/runtime/ /opt/blackbox/runtime/
+RUN chown root:root /app && chown -R root:root /app/solution && \
+    find /app/solution -type d -exec chmod 0711 {} + && \
+    find /app/solution -type f -exec chmod 0444 {} + && \
+    chmod 0555 /app/solution/start.sh && \
+    chmod -R u=rwX,go=rX /opt/blackbox/runtime && \
+    mkdir -p /reference /blackbox && chown -R root:root /reference /blackbox
+ENV PYTHONDONTWRITEBYTECODE=1 LANG=C.UTF-8 LC_ALL=C.UTF-8 TZ=UTC TMPDIR=/tmp
+USER root
+ENTRYPOINT ["/usr/bin/tini", "--", "python3", "-I", "-B", "/opt/blackbox/runtime/reference_entrypoint.py"]
+CMD ["python3", "-B", "-I", "/opt/blackbox/runtime/broker.py", "--user", "agent", "--socket-mode", "0600", "--log-dir", "/reference/logs"]

@@ -1,0 +1,304 @@
+{
+  "counts": {
+    "assertions": 1947,
+    "backend": 1817,
+    "checkpoints": 1844,
+    "features": 47,
+    "frontend": 130,
+    "gui_episodes": 42,
+    "program_episodes": 10,
+    "episodes": 52
+  },
+  "features": {
+    "API key management": {
+      "assertions": 3,
+      "episodes": [
+        "gui-api-keys"
+      ]
+    },
+    "advanced": {
+      "assertions": 50,
+      "episodes": [
+        "protocol-advanced"
+      ]
+    },
+    "battery": {
+      "assertions": 6,
+      "episodes": [
+        "gui-master-batteries"
+      ]
+    },
+    "battery tracking": {
+      "assertions": 7,
+      "episodes": [
+        "gui-battery-tracking"
+      ]
+    },
+    "chore": {
+      "assertions": 6,
+      "episodes": [
+        "gui-master-chores"
+      ]
+    },
+    "chore tracking": {
+      "assertions": 8,
+      "episodes": [
+        "gui-chore-tracking"
+      ]
+    },
+    "coverage": {
+      "assertions": 63,
+      "episodes": [
+        "protocol-coverage"
+      ]
+    },
+    "credentials": {
+      "assertions": 22,
+      "episodes": [
+        "protocol-credentials"
+      ]
+    },
+    "custom entity": {
+      "assertions": 6,
+      "episodes": [
+        "gui-master-userentities"
+      ]
+    },
+    "custom field definition and value": {
+      "assertions": 6,
+      "episodes": [
+        "gui-userfields"
+      ]
+    },
+    "date input keyboard-days": {
+      "assertions": 8,
+      "episodes": [
+        "gui-dates-keyboard-days"
+      ]
+    },
+    "date input keyboard-months": {
+      "assertions": 8,
+      "episodes": [
+        "gui-dates-keyboard-months"
+      ]
+    },
+    "date input relative": {
+      "assertions": 8,
+      "episodes": [
+        "gui-dates-relative"
+      ]
+    },
+    "date input short-form": {
+      "assertions": 10,
+      "episodes": [
+        "gui-dates-short-form"
+      ]
+    },
+    "digital product code and plural display": {
+      "assertions": 4,
+      "episodes": [
+        "gui-product-identifiers"
+      ]
+    },
+    "entities": {
+      "assertions": 659,
+      "episodes": [
+        "protocol-entities"
+      ]
+    },
+    "equipment item": {
+      "assertions": 6,
+      "episodes": [
+        "gui-master-equipment"
+      ]
+    },
+    "equipment manual attachment": {
+      "assertions": 3,
+      "episodes": [
+        "gui-equipment-file"
+      ]
+    },
+    "extensions": {
+      "assertions": 189,
+      "episodes": [
+        "protocol-extensions"
+      ]
+    },
+    "household": {
+      "assertions": 182,
+      "episodes": [
+        "protocol-household"
+      ]
+    },
+    "inventory filters and reports": {
+      "assertions": 5,
+      "episodes": [
+        "gui-stock-views"
+      ]
+    },
+    "location": {
+      "assertions": 6,
+      "episodes": [
+        "gui-master-locations"
+      ]
+    },
+    "meal plan section": {
+      "assertions": 6,
+      "episodes": [
+        "gui-master-meal_plan_sections"
+      ]
+    },
+    "meal planning": {
+      "assertions": 3,
+      "episodes": [
+        "gui-mealplan"
+      ]
+    },
+    "persistence": {
+      "assertions": 12,
+      "episodes": [
+        "protocol-persistence"
+      ]
+    },
+    "personal settings": {
+      "assertions": 12,
+      "episodes": [
+        "gui-settings-stock-due",
+        "gui-settings-purchase-default",
+        "gui-settings-consume-default",
+        "gui-settings-chore-due",
+        "gui-settings-battery-due",
+        "gui-settings-task-due"
+      ]
+    },
+    "preferences affect ordinary forms": {
+      "assertions": 4,
+      "episodes": [
+        "gui-preference-effects"
+      ]
+    },
+    "product group": {
+      "assertions": 6,
+      "episodes": [
+        "gui-master-product_groups"
+      ]
+    },
+    "product master data": {
+      "assertions": 5,
+      "episodes": [
+        "gui-product"
+      ]
+    },
+    "quantity unit": {
+      "assertions": 6,
+      "episodes": [
+        "gui-master-quantity_units"
+      ]
+    },
+    "recipe authoring": {
+      "assertions": 6,
+      "episodes": [
+        "gui-recipe-authoring"
+      ]
+    },
+    "recipe fulfillment and consumption": {
+      "assertions": 5,
+      "episodes": [
+        "gui-recipe-cooking"
+      ]
+    },
+    "recipe shortages and shopping list": {
+      "assertions": 5,
+      "episodes": [
+        "gui-recipe-shopping"
+      ]
+    },
+    "recipes": {
+      "assertions": 141,
+      "episodes": [
+        "protocol-recipes"
+      ]
+    },
+    "report grouping and journal totals": {
+      "assertions": 7,
+      "episodes": [
+        "gui-report-grouping"
+      ]
+    },
+    "saved inventory after restart": {
+      "assertions": 4,
+      "episodes": [
+        "gui-persistence"
+      ]
+    },
+    "shopping list": {
+      "assertions": 10,
+      "episodes": [
+        "gui-shopping"
+      ]
+    },
+    "stock": {
+      "assertions": 198,
+      "episodes": [
+        "protocol-stock"
+      ]
+    },
+    "stock consumption and opening": {
+      "assertions": 8,
+      "episodes": [
+        "gui-stock-consume"
+      ]
+    },
+    "stock inventory correction": {
+      "assertions": 6,
+      "episodes": [
+        "gui-stock-inventory"
+      ]
+    },
+    "stock purchase": {
+      "assertions": 7,
+      "episodes": [
+        "gui-stock-purchase"
+      ]
+    },
+    "stock transfer": {
+      "assertions": 5,
+      "episodes": [
+        "gui-stock-transfer"
+      ]
+    },
+    "store": {
+      "assertions": 6,
+      "episodes": [
+        "gui-master-shopping_locations"
+      ]
+    },
+    "task category": {
+      "assertions": 6,
+      "episodes": [
+        "gui-master-task_categories"
+      ]
+    },
+    "task completion and organization": {
+      "assertions": 10,
+      "episodes": [
+        "gui-tasks"
+      ]
+    },
+    "user account management": {
+      "assertions": 6,
+      "episodes": [
+        "gui-users"
+      ]
+    },
+    "users": {
+      "assertions": 198,
+      "episodes": [
+        "protocol-users"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

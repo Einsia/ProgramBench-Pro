@@ -1,0 +1,69 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        490,
+        147,
+        250,
+        28
+      ],
+      "focused": true,
+      "label": "Username",
+      "name": "username",
+      "ref": "e30",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "bob"
+    },
+    {
+      "bounds": [
+        490,
+        208,
+        250,
+        28
+      ],
+      "label": "Password",
+      "name": "password",
+      "ref": "e31",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": "[password]"
+    },
+    {
+      "bounds": [
+        490,
+        256,
+        65,
+        29
+      ],
+      "ref": "e32",
+      "role": null,
+      "tag": "button",
+      "text": "Login"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Invalid username or password.\nUsername\nPassword\nLogin",
+  "text_truncated": false,
+  "title": "Sign In - Miniflux",
+  "url": "/login",
+  "viewport": [
+    1280,
+    900
+  ]
+}

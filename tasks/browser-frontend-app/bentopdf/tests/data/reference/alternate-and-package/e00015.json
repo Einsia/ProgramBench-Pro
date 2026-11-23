@@ -1,0 +1,53 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        146,
+        135,
+        24
+      ],
+      "ref": "e3005f4e3",
+      "tag": "button",
+      "text": "Back to Tools"
+    },
+    {
+      "bounds": [
+        49,
+        282,
+        1182,
+        256
+      ],
+      "ref": "e3f8c1479",
+      "tag": "div",
+      "text": "Click to select a file or drag and drop Multiple PDF files Your files never leave your device."
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "inputs": [
+    "chapter-a.pdf",
+    "chapter-b.pdf",
+    "labels.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nPDFs to ZIP\n\nPackage multiple PDF files into a ZIP archive.\n\nClick to select a file or drag and drop\n\nMultiple PDF files\n\nYour files never leave your device.\n\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/pdf-to-zip.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

@@ -1,0 +1,23 @@
+FROM program-bench-musescorestudio-base:1.0.0
+# Install the application package and the shared desktop runtime.
+COPY solution /tmp/application-package
+COPY environment/runtime/ /opt/blackbox/runtime/
+# Installation files are immutable; application state uses the supplied private directories.
+RUN SOLUTION_DIR=/app/solution bash /tmp/application-package/solve.sh && rm -rf /tmp/application-package && \
+    chown -R root:root /app/solution && \
+    find /app/solution -type f ! -perm /111 -exec chmod 0444 {} + && \
+    find /app/solution -type f -perm /111 -exec chmod 0555 {} + && \
+    find /app/solution -type d -exec chmod 0711 {} + && \
+    chmod -R u=rwX,go=rX /opt/blackbox/runtime && \
+    mkdir -p /reference /blackbox && chown -R root:root /reference /blackbox
+# AppRun enumerates fallback library directories before choosing compatible libraries.
+RUN chmod 0755 /app/solution/runtime/fallback
+# Qt enumerates its platform/image plugins and QML modules in these directories.
+RUN find /app/solution/runtime/plugins /app/solution/runtime/qml -type d -exec chmod 0755 {} +
+# MuseScore enumerates translations, score templates, palettes, soundfonts and other
+# notation resources below its resource directory; these directories remain root-owned.
+RUN find /app/solution/runtime/translations /app/solution/runtime/share/mscore4portable-4.7 -type d -exec chmod 0755 {} +
+ENV PYTHONDONTWRITEBYTECODE=1 LANG=C.UTF-8 LC_ALL=C.UTF-8 TZ=UTC TMPDIR=/tmp
+USER root
+ENTRYPOINT ["/usr/bin/tini", "--", "python3", "-I", "-B", "/opt/blackbox/runtime/reference_entrypoint.py"]
+CMD ["python3", "-B", "-I", "/opt/blackbox/runtime/broker.py", "--user", "agent", "--socket-mode", "0600", "--log-dir", "/reference/logs"]

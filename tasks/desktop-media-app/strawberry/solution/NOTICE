@@ -1,0 +1,27 @@
+Strawberry 1.2.31
+
+The official Ubuntu Noble amd64 package is obtained unchanged from:
+https://github.com/strawberrymusicplayer/strawberry/releases/download/1.2.31/strawberry_1.2.31-noble_amd64.deb
+SOURCE.json identifies the release files and their SHA-256 values. The executable
+and package resources are unmodified. LICENSE contains the GPL version 3 text;
+Strawberry is licensed under GPL-3.0-or-later. LICENSES/strawberry-package.txt
+contains the original package component notices, which also remain in
+runtime/usr/share/doc/strawberry/copyright after installation.
+
+Complete corresponding source is retained as strawberry-1.2.31.tar.xz and is
+available from:
+https://github.com/strawberrymusicplayer/strawberry/releases/download/1.2.31/strawberry-1.2.31.tar.xz
+https://github.com/strawberrymusicplayer/strawberry/tree/1.2.31
+Build instructions are in that source release's README.md, CMakeLists.txt and
+debian/ directory. schema.sql is an unchanged copy of data/schema/schema.sql.
+
+The separate strawberry_start.py launcher initializes the normal configuration
+and database with one empty playlist and the supplied music collection folder,
+and disables the first-run sponsorship message. No upstream code is patched.
+
+Copyright Strawberry developers and the contributors named in the upstream
+source. This distribution is not affiliated with or endorsed by the project.
+
+process_guard.c is a separate runtime boundary, compiled at installation. It
+uses Linux Landlock to confine writes and child-process execution. It does not
+modify upstream application files.

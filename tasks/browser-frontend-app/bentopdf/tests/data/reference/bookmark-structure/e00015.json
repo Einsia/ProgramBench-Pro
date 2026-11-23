@@ -1,0 +1,87 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        119,
+        135,
+        24
+      ],
+      "ref": "e3005f4e3",
+      "tag": "button",
+      "text": "Back to Tools"
+    },
+    {
+      "bounds": [
+        49,
+        255,
+        1182,
+        192
+      ],
+      "ref": "e899963c5",
+      "tag": "div",
+      "text": "Click to select a file or drag and drop A single PDF file Your files never leave your device."
+    },
+    {
+      "bounds": [
+        49,
+        465,
+        16,
+        16
+      ],
+      "checked": false,
+      "label": "Auto-extract existing bookmarks",
+      "ref": "e3e6d79e1",
+      "tag": "input",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        49,
+        608,
+        1182,
+        128
+      ],
+      "ref": "e0e17aeaa",
+      "tag": "div",
+      "text": "Click to upload CSV or drag here"
+    },
+    {
+      "bounds": [
+        49,
+        784,
+        1182,
+        116
+      ],
+      "ref": "ec06229b8",
+      "tag": "div",
+      "text": "Click to upload JSON or drag here"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "inputs": [
+    "bookmarks.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nEdit Bookmarks\n\nAdd, edit, import, delete and extract PDF bookmarks.\n\nClick to select a file or drag and drop\n\nA single PDF file\n\nYour files never leave your device.\n\nAuto-extract existing bookmarks\nOr Import Bookmarks\nCSV format: title,page,level\n\nClick to upload CSV or drag here\n\nJSON format\n\nClick to upload JSON or drag here\n\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/bookmark.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

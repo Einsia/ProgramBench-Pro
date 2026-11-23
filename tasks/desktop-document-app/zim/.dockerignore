@@ -1,0 +1,17 @@
+**
+!solution/
+!solution/solve.sh
+!solution/start.sh
+!solution/SOURCE.json
+!solution/zim-0.77.2.tar.gz
+!environment/
+!environment/Dockerfile.reference
+!environment/runtime/
+!environment/runtime/*.py
+
+!solution/LICENSE
+!solution/NOTICE
+!solution/LICENSES/
+!solution/LICENSES/*.txt
+!solution/launch.py
+!solution/exec_guard.c

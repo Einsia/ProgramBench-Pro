@@ -1,0 +1,13 @@
+FROM program-bench-tig-base:1.0.0
+COPY solution /solution
+COPY environment/runtime/ /opt/blackbox/runtime/
+RUN bash /solution/solve.sh && rm -rf /solution && \
+    chmod -R u=rwX,go=rX /opt/blackbox/runtime && \
+    mkdir -p /reference /blackbox && chown -R root:root /reference /blackbox && \
+    chown -R root:root /app/solution && \
+    find /app/solution -type d -exec chmod 0711 {} + && \
+    find /app/solution -type f -exec chmod 0444 {} + && \
+    chmod 0555 /app/solution/start.sh /app/solution/tig
+USER root
+ENTRYPOINT ["/usr/bin/tini", "--", "python3", "-I", "-B", "/opt/blackbox/runtime/reference_entrypoint.py"]
+CMD ["python3", "-B", "-I", "/opt/blackbox/runtime/broker.py", "--user", "agent", "--socket-mode", "0600", "--log-dir", "/reference/logs"]

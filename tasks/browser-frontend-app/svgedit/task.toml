@@ -1,0 +1,45 @@
+schema_version = "1.4"
+artifacts = [{ source = "/app/solution" }]
+
+[task]
+name = "program-bench/svgedit"
+version = "1.0.0"
+description = "Reconstruct SVG-edit 7.4.2, a browser editor for creating and editing SVG drawings, from black-box observation."
+keywords = ["svg", "vector-graphics", "drawing", "browser", "javascript"]
+
+[metadata]
+category = "browser-frontend-app"
+upstream = "SVG-Edit/svgedit 7.4.2"
+license = "MIT AND Apache-2.0 AND ISC AND LGPL-3.0-or-later AND X11"
+interface = "browser GUI; SVG editor JavaScript API; file upload, drop and download; lifecycle controls"
+network_boundary = "agent: no network except hosts allowed with --allow-agent-host (Harbor egress sidecar); reference and verifier: Compose network_mode:none; restricted Unix socket RPC to the black-box runtime"
+
+[agent]
+timeout_sec = 28800
+user = "agent"
+
+[environment]
+docker_image = "program-bench-svgedit-agent:1.0.0"
+build_timeout_sec = 600
+cpus = 4
+memory_mb = 16384
+storage_mb = 20480
+network_mode = "no-network"
+
+[environment.healthcheck]
+command = "blackbox-health"
+interval_sec = 1
+timeout_sec = 5
+retries = 60
+
+[verifier]
+timeout_sec = 120000
+environment_mode = "separate"
+
+[verifier.environment]
+docker_image = "program-bench-svgedit-verifier:1.0.0"
+cpus = 4
+memory_mb = 8192
+storage_mb = 20480
+network_mode = "no-network"
+build_timeout_sec = 600

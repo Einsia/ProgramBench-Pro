@@ -1,0 +1,111 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        66,
+        228,
+        1150,
+        672
+      ],
+      "ref": "canvas0",
+      "tag": "canvas"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        669,
+        0,
+        545,
+        6
+      ],
+      "checked": true,
+      "label": "Auto (best for layout)",
+      "name": "orientation",
+      "ref": "ea7536860",
+      "tag": "label",
+      "text": "Auto (best for layout)",
+      "type": "radio",
+      "value": "auto"
+    },
+    {
+      "bounds": [
+        669,
+        14,
+        545,
+        20
+      ],
+      "checked": false,
+      "label": "Portrait",
+      "name": "orientation",
+      "ref": "e91b52178",
+      "tag": "label",
+      "text": "Portrait",
+      "type": "radio",
+      "value": "portrait"
+    },
+    {
+      "bounds": [
+        669,
+        42,
+        545,
+        20
+      ],
+      "checked": false,
+      "label": "Landscape",
+      "name": "orientation",
+      "ref": "efd8fc83a",
+      "tag": "label",
+      "text": "Landscape",
+      "type": "radio",
+      "value": "landscape"
+    },
+    {
+      "bounds": [
+        49,
+        103,
+        567,
+        48
+      ],
+      "ref": "eead4fd01",
+      "tag": "button",
+      "text": "Generate Preview"
+    },
+    {
+      "bounds": [
+        632,
+        103,
+        599,
+        48
+      ],
+      "ref": "e0f35178c",
+      "tag": "button",
+      "text": "Create Booklet"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "inputs": [
+    "bookmarks.pdf",
+    "report.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›PDF Booklet\nPDF Booklet\n\nRearrange pages for double-sided booklet printing. Fold and staple to create a booklet.\n\nClick to select a file or drag and drop\n\nA single PDF file\n\nYour files never leave your device.\n\nreport.pdf\n3.7 KB • 4 pages\n\nHow it works:\n\nUpload a PDF file.\nPages will be rearranged in booklet order.\nPrint double-sided, flip on short edge, fold and staple.\nSource Rotation\nNo rotation\nRotate clockwise (90°)\nRotate counter-clockwise (90°)\nAlternate (odd→CW, even→CCW)\nPaper Size\nLetter (8.5\" × 11\")\nLegal (8.5\" × 14\")\nTabloid (11\" × 17\")\nLedger (17\" × 11\")\nExecutive (7.25\" × 10.5\")\nFolio (8.5\" × 13\")\n4A0 (1682 × 2378 mm)\n2A0 (1189 × 1682 mm)\nA0 (841 × 1189 mm)\nA1 (594 × 841 mm)\nA2 (420 × 594 mm)\nA3 (297 × 420 mm)\nA4 (210 × 297 mm)\nA5 (148 × 210 mm)\nA6 (105 × 148 mm)\nB0 (1000 × 1414 mm)\nB1 (707 × 1000 mm)\nB2 (500 × 707 mm)\nB3 (353 × 500 mm)\nB4 (250 × 353 mm)\nB5 (176 × 250 mm)\nC0 (917 × 1297 mm)\nC1 (648 × 917 mm)\nC2 (458 × 648 mm)\nC3 (324 × 458 mm)\nC4 (229 × 324 mm)\nC5 (162 × 229 mm)\nC6 (114 × 162 mm)\nC7 (81 × 114 mm)\nGrid Mode\n1×2 (Booklet)\n2×2\n2×4\n4×4\nOrientation\nAuto (best for layout)\nPortrait\nLandscape\n Generate Preview\nCreate Booklet\n\n4 pages → 2 output sheets\n\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/pdf-booklet.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "reference_paths": [
+    "/app/solution/svgedit-7.4.2.tgz",
+    "/app/solution/server.py"
+  ],
+  "shared_solution_files": [
+    {
+      "file": "LICENSES/jgraduate-LICENSE-Apache2.0.txt",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /usr/share/common-licenses/Apache-2.0. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/dompurify@3.4.17/LICENSE-MPL",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /usr/share/common-licenses/MPL-2.0. No implementation is shared."
+    },
+    {
+      "file": "LICENSES/third-party/dompurify@3.4.17/LICENSE",
+      "reason": "Verbatim license text also supplied by a shared development dependency at /usr/share/common-licenses/Apache-2.0. No implementation is shared."
+    }
+  ]
+}

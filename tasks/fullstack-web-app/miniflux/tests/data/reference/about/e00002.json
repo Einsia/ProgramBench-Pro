@@ -1,0 +1,299 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        559,
+        -44,
+        162,
+        36
+      ],
+      "href": "/about#main",
+      "offscreen": true,
+      "ref": "e88",
+      "role": null,
+      "tag": "a",
+      "text": "Skip to content"
+    },
+    {
+      "aria": "Home page",
+      "bounds": [
+        193,
+        10,
+        77,
+        19
+      ],
+      "href": "/unread",
+      "ref": "e89",
+      "role": null,
+      "tag": "a",
+      "text": "Mini\nflux"
+    },
+    {
+      "bounds": [
+        278,
+        12,
+        70,
+        16
+      ],
+      "href": "/unread",
+      "ref": "e90",
+      "role": null,
+      "tag": "a",
+      "text": "Unread"
+    },
+    {
+      "bounds": [
+        363,
+        12,
+        78,
+        16
+      ],
+      "href": "/starred",
+      "ref": "e91",
+      "role": null,
+      "tag": "a",
+      "text": "Starred"
+    },
+    {
+      "bounds": [
+        456,
+        12,
+        78,
+        16
+      ],
+      "href": "/history",
+      "ref": "e92",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        549,
+        12,
+        70,
+        16
+      ],
+      "href": "/feeds",
+      "ref": "e93",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "aria": "Add feed",
+      "bounds": [
+        618,
+        12,
+        26,
+        16
+      ],
+      "href": "/subscribe",
+      "ref": "e94",
+      "role": null,
+      "tag": "a",
+      "text": "(+)",
+      "title": "Keyboard Shortcut: +"
+    },
+    {
+      "bounds": [
+        659,
+        12,
+        104,
+        16
+      ],
+      "href": "/categories",
+      "ref": "e95",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        778,
+        12,
+        70,
+        16
+      ],
+      "href": "/search",
+      "ref": "e96",
+      "role": null,
+      "tag": "a",
+      "text": "Search"
+    },
+    {
+      "bounds": [
+        862,
+        12,
+        87,
+        16
+      ],
+      "href": "/settings",
+      "ref": "e97",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        964,
+        10,
+        70,
+        18
+      ],
+      "ref": "e98",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "title": "Logged in as alice"
+    },
+    {
+      "bounds": [
+        193,
+        82,
+        95,
+        18
+      ],
+      "href": "/settings",
+      "ref": "e99",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        312,
+        82,
+        133,
+        18
+      ],
+      "href": "/integrations",
+      "ref": "e100",
+      "role": null,
+      "tag": "a",
+      "text": "Integrations"
+    },
+    {
+      "bounds": [
+        470,
+        82,
+        95,
+        18
+      ],
+      "href": "/keys",
+      "ref": "e101",
+      "role": null,
+      "tag": "a",
+      "text": "API Keys"
+    },
+    {
+      "bounds": [
+        590,
+        82,
+        95,
+        18
+      ],
+      "href": "/sessions",
+      "ref": "e102",
+      "role": null,
+      "tag": "a",
+      "text": "Sessions"
+    },
+    {
+      "bounds": [
+        709,
+        82,
+        66,
+        18
+      ],
+      "href": "/users",
+      "ref": "e103",
+      "role": null,
+      "tag": "a",
+      "text": "Users"
+    },
+    {
+      "bounds": [
+        800,
+        82,
+        66,
+        18
+      ],
+      "href": "/about",
+      "ref": "e104",
+      "role": null,
+      "tag": "a",
+      "text": "About"
+    },
+    {
+      "bounds": [
+        320,
+        169,
+        48,
+        18
+      ],
+      "href": "[external]",
+      "ref": "e105",
+      "role": null,
+      "tag": "a",
+      "text": "2.3.4"
+    },
+    {
+      "bounds": [
+        349,
+        187,
+        77,
+        18
+      ],
+      "href": "[external]",
+      "ref": "e106",
+      "role": null,
+      "tag": "a",
+      "text": "238c5614"
+    },
+    {
+      "bounds": [
+        320,
+        356,
+        317,
+        18
+      ],
+      "href": "[external]",
+      "ref": "e107",
+      "role": null,
+      "tag": "a",
+      "text": "Frédéric Guillot and contributors"
+    },
+    {
+      "bounds": [
+        320,
+        374,
+        96,
+        18
+      ],
+      "href": "[external]",
+      "ref": "e108",
+      "role": null,
+      "tag": "a",
+      "text": "Apache 2.0"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    2096
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Skip to content\nMini\nflux\nUnread Starred History Feeds (+) Categories Search Settings Logout\nAbout\nSettings Integrations API Keys Sessions Users About\nMiniflux\nVersion: 2.3.4\nGit Commit: 238c5614\nBuild Date: 2026-10-19T20:54:31Z\nGo version: go1.27.2\nPostgres version: 16.15 (Ubuntu 16.15-0ubuntu0.24.04.1)\nDatabase size: 8679 kB\nCredits\nAuthors: Frédéric Guillot and contributors\nLicense: Apache 2.0\nGlobal configuration options\nADMIN_PASSWORD=\nADMIN_PASSWORD_FILE=\nADMIN_USERNAME=\nADMIN_USERNAME_FILE=\nAUTH_PROXY_HEADER=\nAUTH_PROXY_USER_CREATION=0\nBASE_URL=http://127.0.0.1:3000\nBATCH_SIZE=100\nCERT_DOMAIN=\nCERT_FILE=\nCLEANUP_ARCHIVE_BATCH_SIZE=10000\nCLEANUP_ARCHIVE_READ_DAYS=60\nCLEANUP_ARCHIVE_UNREAD_DAYS=180\nCLEANUP_FREQUENCY_HOURS=24\nCLEANUP_REMOVE_SESSIONS_DAYS=30\nCREATE_ADMIN=0\nDATABASE_CONNECTION_LIFETIME=5\nDATABASE_MAX_CONNS=20\nDATABASE_MIN_CONNS=1\nDATABASE_URL=<redacted>\nDATABASE_URL_FILE=\nDISABLE_API=0\nDISABLE_HSTS=0\nDISABLE_HTTP_SERVICE=0\nDISABLE_LOCAL_AUTH=0\nDISABLE_SCHEDULER_SERVICE=0\nFETCHER_ALLOW_PRIVATE_FEED_PROXY=0\nFETCHER_ALLOW_PRIVATE_NETWORKS=0\nFETCH_BILIBILI_WATCH_TIME=0\nFETCH_NEBULA_WATCH_TIME=0\nFETCH_ODYSEE_WATCH_TIME=0\nFETCH_YOUTUBE_WATCH_TIME=0\nFORCE_REFRESH_INTERVAL=30\nHTTPS=0\nHTTP_CLIENT_MAX_BODY_SIZE=15\nHTTP_CLIENT_PROXIES=\nHTTP_CLIENT_PROXY=\nHTTP_CLIENT_TIMEOUT=20\nHTTP_CLIENT_USER_AGENT=\nHTTP_SERVER_TIMEOUT=300\nINTEGRATION_ALLOW_PRIVATE_NETWORKS=1\nINVIDIOUS_INSTANCE=yewtu.be\nKEY_FILE=\nLISTEN_ADDR=127.0.0.1:3000\nLOG_DATE_TIME=0\nLOG_FILE=stderr\nLOG_FORMAT=text\nLOG_LEVEL=info\nMAINTENANCE_MESSAGE=Miniflux is currently under maintenance\nMAINTENANCE_MODE=0\nMEDIA_PROXY_CUSTOM_URL=\nMEDIA_PROXY_HTTP_CLIENT_TIMEOUT=120\nMEDIA_PROXY_MODE=http-only\nMEDIA_PROXY_PRIVATE_KEY=<redacted>\nMEDIA_PROXY_RESOURCE_TYPES=image\nMETRICS_ALLOWED_NETWORKS=127.0.0.1/8\nMETRICS_COLLECTOR=0\nMETRICS_PASSWORD=\nMETRICS_PASSWORD_FILE=\nMETRICS_REFRESH_INTERVAL=60\nMETRICS_USERNAME=\nMETRICS_USERNAME_FILE=\nOAUTH2_CLIENT_ID=\nOAUTH2_CLIENT_ID_FILE=\nOAUTH2_CLIENT_SECRET=\nOAUTH2_CLIENT_SECRET_FILE=\nOAUTH2_OIDC_DISCOVERY_ENDPOINT=\nOAUTH2_OIDC_PROVIDER_NAME=OpenID Connect\nOAUTH2_PROVIDER=\nOAUTH2_REDIRECT_URL=\nOAUTH2_USER_CREATION=0\nPOLLING_FREQUENCY=1440\nPOLLING_LIMIT_PER_HOST=0\nPOLLING_PARSING_ERROR_LIMIT=3\nPOLLING_SCHEDULER=round_robin\nPORT=\nRUN_MIGRATIONS=1\nSCHEDULER_ENTRY_FREQUENCY_FACTOR=1\nSCHEDULER_ENTRY_FREQUENCY_MAX_INTERVAL=1440\nSCHEDULER_ENTRY_FREQUENCY_MIN_INTERVAL=5\nSCHEDULER_ROUND_ROBIN_MAX_INTERVAL=1440\nSCHEDULER_ROUND_ROBIN_MIN_INTERVAL=60\nTRUSTED_REVERSE_PROXY_NETWORKS=\nWATCHDOG=1\nWEBAUTHN=0\nWORKER_POOL_SIZE=16\nYOUTUBE_API_KEY=\nYOUTUBE_EMBED_URL_OVERRIDE=https://www.youtube-nocookie.com/embed/",
+  "text_truncated": false,
+  "title": "About - Miniflux",
+  "url": "/about",
+  "viewport": [
+    1280,
+    900
+  ]
+}

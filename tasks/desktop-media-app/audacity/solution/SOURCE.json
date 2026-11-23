@@ -1,0 +1,49 @@
+{
+  "task": "audacity",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "Audacity",
+    "version": "2.4.2",
+    "homepage": "https://www.audacityteam.org/",
+    "repository": "https://github.com/audacity/audacity",
+    "license": "GPL-2.0-or-later"
+  },
+  "downloads": [],
+  "bundled": [
+    {
+      "file": "audacity-runtime-2.4.2.tar.gz",
+      "built_from": "Ubuntu Jammy audacity and audacity-data 2.4.2~dfsg0-5 packages, repacked into bin/, lib/audacity/ and share/. Includes the Audacity executable, scripting module, Nyquist runtime and bundled plugins; upstream file bytes are unchanged in this archive."
+    }
+  ],
+  "modifications": "solve.sh rewrites only the scripting module FIFO path template from /tmp/audacity_script_pipe.%s.%d to audacity_script_pipe.%s.%d, with NUL padding, so the endpoint follows PBP_AUDIO_PIPE_DIR. launch.py supplies private configuration and audio defaults. isolation.py confines reference filesystem access and external program execution without changing the upstream binary.",
+  "configuration": "launch.py writes the Audacity 2.4.2 mod-script-pipe configuration under DATA_DIR/HOME, disables splash, selects Pulse/ALSA and starts the product in PBP_AUDIO_PIPE_DIR (default /tmp) Landlock is required; filesystem rights are limited to those supported by the kernel ABI; the product can write only its instance/exchange directories and execute only its own main executable and dynamic loader. The runtime exposes an explicit reviewed command catalog, only audio-data Export2 formats, and the complete libsndfile header/encoding preference family. Screenshot, diagnostics, benchmarks, macro/code-loading and external-program export channels are unavailable.",
+  "notes": {
+    "corresponding_source": {
+      "name": "audacity",
+      "version": "2.4.2~dfsg0-5",
+      "dsc": "audacity_2.4.2~dfsg0-5.dsc",
+      "orig": {
+        "file": "audacity_2.4.2~dfsg0.orig.tar.xz",
+        "size": 42194528,
+        "sha256": "a2325aa94b5f05150e280601ae3a467c63e043b26f08b209df8a756030a9ed14"
+      },
+      "debian": {
+        "file": "audacity_2.4.2~dfsg0-5.debian.tar.xz",
+        "size": 37328,
+        "sha256": "56c179822da5dc64884422bc6df7c5e213d955f1ed18d116226b1836bdc420a3"
+      },
+      "location": "http://archive.ubuntu.com/ubuntu/pool/universe/a/audacity/"
+    },
+    "binary_packages": [
+      "audacity 2.4.2~dfsg0-5 (amd64)",
+      "audacity-data 2.4.2~dfsg0-5 (all)"
+    ],
+    "scripting_pipe_patch": {
+      "file": "runtime/lib/audacity/modules/mod-script-pipe.so",
+      "stock_sha256": "833148e999b25823fa9c710d7bc3bdb6f127a5079b597cabb267b9b1d94e1f82",
+      "patched_sha256": "628d1bb7bb2b62bf7bb88a61c809ffd9ca38f2dd4503d3c9eae9e27f7371cede",
+      "change": "FIFO path template \"/tmp/audacity_script_pipe.%s.%d\" -> \"audacity_script_pipe.%s.%d\" (NUL padded); the launcher creates them from PBP_AUDIO_PIPE_DIR so simultaneous sessions of one user stay isolated",
+      "applied_by": "solve.sh"
+    }
+  }
+}

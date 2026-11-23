@@ -1,0 +1,225 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        559,
+        -44,
+        162,
+        36
+      ],
+      "href": "/category/save#main",
+      "offscreen": true,
+      "ref": "e326",
+      "role": null,
+      "tag": "a",
+      "text": "Skip to content"
+    },
+    {
+      "aria": "Home page",
+      "bounds": [
+        193,
+        10,
+        77,
+        19
+      ],
+      "href": "/unread",
+      "ref": "e327",
+      "role": null,
+      "tag": "a",
+      "text": "Mini\nflux"
+    },
+    {
+      "bounds": [
+        278,
+        12,
+        70,
+        16
+      ],
+      "href": "/unread",
+      "ref": "e328",
+      "role": null,
+      "tag": "a",
+      "text": "Unread"
+    },
+    {
+      "bounds": [
+        363,
+        12,
+        78,
+        16
+      ],
+      "href": "/starred",
+      "ref": "e329",
+      "role": null,
+      "tag": "a",
+      "text": "Starred"
+    },
+    {
+      "bounds": [
+        456,
+        12,
+        78,
+        16
+      ],
+      "href": "/history",
+      "ref": "e330",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        549,
+        12,
+        70,
+        16
+      ],
+      "href": "/feeds",
+      "ref": "e331",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "aria": "Add feed",
+      "bounds": [
+        618,
+        12,
+        26,
+        16
+      ],
+      "href": "/subscribe",
+      "ref": "e332",
+      "role": null,
+      "tag": "a",
+      "text": "(+)",
+      "title": "Keyboard Shortcut: +"
+    },
+    {
+      "bounds": [
+        659,
+        12,
+        104,
+        16
+      ],
+      "href": "/categories",
+      "ref": "e333",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        778,
+        12,
+        70,
+        16
+      ],
+      "href": "/search",
+      "ref": "e334",
+      "role": null,
+      "tag": "a",
+      "text": "Search"
+    },
+    {
+      "bounds": [
+        862,
+        12,
+        87,
+        16
+      ],
+      "href": "/settings",
+      "ref": "e335",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        964,
+        10,
+        70,
+        18
+      ],
+      "ref": "e336",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "title": "Logged in as alice"
+    },
+    {
+      "bounds": [
+        193,
+        82,
+        114,
+        18
+      ],
+      "href": "/categories",
+      "ref": "e337",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        193,
+        195,
+        250,
+        28
+      ],
+      "focused": true,
+      "label": "Title",
+      "name": "title",
+      "ref": "e338",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "Science"
+    },
+    {
+      "bounds": [
+        193,
+        243,
+        62,
+        29
+      ],
+      "ref": "e339",
+      "role": null,
+      "tag": "button",
+      "text": "Save"
+    },
+    {
+      "bounds": [
+        294,
+        250,
+        58,
+        18
+      ],
+      "href": "/categories",
+      "ref": "e340",
+      "role": null,
+      "tag": "a",
+      "text": "cancel"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Skip to content\nMini\nflux\nUnread Starred History Feeds (+) Categories Search Settings Logout\nNew Category\nCategories\nThis category already exists.\nTitle\nSave or cancel",
+  "text_truncated": false,
+  "title": "New Category - Miniflux",
+  "url": "/category/save",
+  "viewport": [
+    1280,
+    900
+  ]
+}

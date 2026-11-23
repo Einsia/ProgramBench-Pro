@@ -1,0 +1,93 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        500,
+        281,
+        279,
+        32
+      ],
+      "focused": true,
+      "name": "username",
+      "ref": "e5",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        500,
+        345,
+        279,
+        32
+      ],
+      "name": "password",
+      "ref": "e6",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": ""
+    },
+    {
+      "bounds": [
+        500,
+        409,
+        279,
+        32
+      ],
+      "name": "confirmPassword",
+      "ref": "e7",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": ""
+    },
+    {
+      "bounds": [
+        500,
+        457,
+        279,
+        37
+      ],
+      "ref": "e8",
+      "role": null,
+      "tag": "button",
+      "text": "CREATE ADMIN"
+    },
+    {
+      "bounds": [
+        696,
+        539,
+        28,
+        16
+      ],
+      "href": "[external]",
+      "ref": "e9",
+      "role": null,
+      "tag": "a",
+      "text": "here"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Thanks for installing Navidrome!\nTo start, create an admin user\nUsername\nPassword\nConfirm Password\nCREATE ADMIN\nNavidrome collects anonymous usage data to\nhelp improve the project. Click here to learn\nmore and to opt-out if you want",
+  "text_truncated": false,
+  "title": "Navidrome",
+  "url": "/app/#/login",
+  "viewport": [
+    1280,
+    900
+  ]
+}

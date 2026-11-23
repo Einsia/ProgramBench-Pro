@@ -1,0 +1,279 @@
+{
+  "base_style": [
+    "bold",
+    "fg=white",
+    "bg=blue"
+  ],
+  "cursor": {
+    "column": 119,
+    "hidden": true,
+    "row": 34
+  },
+  "process": "running",
+  "screen": [
+    "00|2024-01-06 12:00 +0000 Bea Meadow   o [main] Update trail heading",
+    "01|2024-01-05 12:00 +0000 Alex Example o {origin/main} Merge eastern route",
+    "02|2024-01-03 12:00 +0000 Ada Rivers   o Add safety checklist",
+    "03|2024-01-02 12:00 +0000 Bea Meadow   o [archive] Document river access",
+    "04|2024-01-01 12:00 +0000 Ada Rivers   I <v1.0> Start field notebook",
+    "05|",
+    "06|",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|",
+    "12|",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|",
+    "19|",
+    "20|",
+    "21|",
+    "22|",
+    "23|",
+    "24|",
+    "25|",
+    "26|",
+    "27|",
+    "28|",
+    "29|",
+    "30|",
+    "31|",
+    "32|",
+    "33|",
+    "34|[main] cd925f48f7d4e81b937c4796963726ec199bd01f - commit 1 of 5                                                     100%",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        65
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=green"
+      ],
+      "text": "2024-01-06 12:00 +0000 Bea Meadow   o [main] Update trail heading"
+    },
+    {
+      "columns": [
+        0,
+        23
+      ],
+      "row": 1,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "2024-01-05 12:00 +0000 "
+    },
+    {
+      "columns": [
+        23,
+        36
+      ],
+      "row": 1,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Alex Example "
+    },
+    {
+      "columns": [
+        36,
+        37
+      ],
+      "row": 1,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "o"
+    },
+    {
+      "columns": [
+        38,
+        51
+      ],
+      "row": 1,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "{origin/main}"
+    },
+    {
+      "columns": [
+        51,
+        120
+      ],
+      "row": 1,
+      "style": [
+        "default"
+      ],
+      "text": " Merge eastern route                                                 "
+    },
+    {
+      "columns": [
+        0,
+        23
+      ],
+      "row": 2,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "2024-01-03 12:00 +0000 "
+    },
+    {
+      "columns": [
+        23,
+        36
+      ],
+      "row": 2,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Ada Rivers   "
+    },
+    {
+      "columns": [
+        36,
+        37
+      ],
+      "row": 2,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "o"
+    },
+    {
+      "columns": [
+        37,
+        120
+      ],
+      "row": 2,
+      "style": [
+        "default"
+      ],
+      "text": " Add safety checklist                                                              "
+    },
+    {
+      "columns": [
+        0,
+        23
+      ],
+      "row": 3,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "2024-01-02 12:00 +0000 "
+    },
+    {
+      "columns": [
+        23,
+        36
+      ],
+      "row": 3,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Bea Meadow   "
+    },
+    {
+      "columns": [
+        36,
+        37
+      ],
+      "row": 3,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "o"
+    },
+    {
+      "columns": [
+        38,
+        47
+      ],
+      "row": 3,
+      "style": [
+        "fg=cyan"
+      ],
+      "text": "[archive]"
+    },
+    {
+      "columns": [
+        47,
+        120
+      ],
+      "row": 3,
+      "style": [
+        "default"
+      ],
+      "text": " Document river access                                                   "
+    },
+    {
+      "columns": [
+        0,
+        23
+      ],
+      "row": 4,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "2024-01-01 12:00 +0000 "
+    },
+    {
+      "columns": [
+        23,
+        36
+      ],
+      "row": 4,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Ada Rivers   "
+    },
+    {
+      "columns": [
+        36,
+        37
+      ],
+      "row": 4,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "I"
+    },
+    {
+      "columns": [
+        38,
+        44
+      ],
+      "row": 4,
+      "style": [
+        "fg=magenta"
+      ],
+      "text": "<v1.0>"
+    },
+    {
+      "columns": [
+        44,
+        120
+      ],
+      "row": 4,
+      "style": [
+        "default"
+      ],
+      "text": " Start field notebook                                                       "
+    }
+  ]
+}

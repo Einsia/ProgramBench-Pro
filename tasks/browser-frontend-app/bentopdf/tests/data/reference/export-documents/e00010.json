@@ -1,0 +1,114 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        0,
+        1182,
+        198
+      ],
+      "ref": "e3acd2861",
+      "tag": "div",
+      "text": "Click to select a file or drag and drop One or more PDF files Your files never leave your device."
+    },
+    {
+      "bounds": [
+        49,
+        214,
+        176,
+        40
+      ],
+      "ref": "e4b856335",
+      "tag": "button",
+      "text": "Add More Files"
+    },
+    {
+      "bounds": [
+        237,
+        214,
+        127,
+        40
+      ],
+      "ref": "edd833bd2",
+      "tag": "button",
+      "text": "Clear All"
+    },
+    {
+      "bounds": [
+        1203,
+        294,
+        16,
+        16
+      ],
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        49,
+        557,
+        1182,
+        48
+      ],
+      "ref": "e7629a0f2",
+      "tag": "button",
+      "text": "Extract for AI"
+    },
+    {
+      "bounds": [
+        473,
+        472,
+        334,
+        40
+      ],
+      "ref": "e2a50e308",
+      "tag": "button",
+      "text": "OK"
+    },
+    {
+      "bounds": [
+        1170,
+        809,
+        94,
+        34
+      ],
+      "expanded": false,
+      "ref": "ebda396fc",
+      "tag": "button",
+      "text": "English"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "report_llm.json",
+      "ref": "d80f214b98d23",
+      "size": 2536
+    }
+  ],
+  "inputs": [
+    "report.pdf",
+    "single.pdf",
+    "table.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›Prepare PDF for AI\nPrepare PDF for AI\n\nExtract PDF content as LlamaIndex JSON for RAG/LLM pipelines.\n\nClick to select a file or drag and drop\n\nOne or more PDF files\n\nYour files never leave your device.\n\nAdd More Files\nClear All\nreport.pdf\n3.7 KB • 4 pages\n\nOutput Format:\n\nEach PDF will be extracted as a JSON file containing an array of LlamaIndex Document objects with:\n\ntext - Extracted text content per page\nmetadata - Page number, headings, and document info\nextra_info - Additional context for RAG systems\nExtract for AI\nExtraction Complete\n\nSuccessfully extracted PDF for AI/LLM use.\n\nOK\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/prepare-pdf-for-ai.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

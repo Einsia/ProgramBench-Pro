@@ -1,0 +1,42 @@
+[
+  {
+    "file": "vendor/filereader.js",
+    "url": "https://bgrins.github.io/filereader.js/filereader.js",
+    "sha256": "679d7ab42527bf8853987d0cf1fa4da1364a23af6d56ea5b711d133b6276fa52"
+  },
+  {
+    "file": "vendor/FileSaver.min.js",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2014-11-29/FileSaver.min.js",
+    "sha256": "b86afaf3a54daa0827f10b2ed269e6837f5c61c290dad145547539b853633b75"
+  },
+  {
+    "file": "vendor/lodash.min.js",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.21/lodash.min.js",
+    "sha256": "a9705dfc47c0763380d851ab1801be6f76019f6b67e40e9b873f8b4a0603f7a9"
+  },
+  {
+    "file": "vendor/ace/ace.js",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.6/ace.js",
+    "sha256": "c6baf81c7e5e498f9c173e121fb8dafcb6808bda9c11d8cca5e30fe3dfe238bb"
+  },
+  {
+    "file": "vendor/ace/mode-json.js",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.6/mode-json.js",
+    "sha256": "c3abc32215aa140f426e206e37965fe0facd1be1996c25d91226be2fd42ddf92"
+  },
+  {
+    "file": "vendor/ace/worker-json.js",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.6/worker-json.js",
+    "sha256": "12421ba3c74280b22b2b869fb122953b8f3bec398807cac0a5ad98393f1b6616"
+  },
+  {
+    "file": "vendor/ace/ext-searchbox.js",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.6/ext-searchbox.js",
+    "sha256": "5b9e6fac588967fc2200112b4e5ec8e7a92003586aa7ce992d3f144c1188d544"
+  },
+  {
+    "file": "vendor/ace/ext-language_tools.js",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.6/ext-language_tools.js",
+    "sha256": "557cbee57d25ea17261cb8c58d1da4da3cabc5277b020d040549fb2d4228f44b"
+  }
+]

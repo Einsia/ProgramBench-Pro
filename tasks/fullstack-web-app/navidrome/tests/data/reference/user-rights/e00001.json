@@ -1,0 +1,78 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        601,
+        165,
+        77,
+        18
+      ],
+      "href": "[external]",
+      "ref": "e4",
+      "role": null,
+      "tag": "a",
+      "text": "Navidrome"
+    },
+    {
+      "bounds": [
+        506,
+        215,
+        268,
+        32
+      ],
+      "focused": true,
+      "name": "username",
+      "ref": "e5",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        506,
+        279,
+        268,
+        32
+      ],
+      "name": "password",
+      "ref": "e6",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": ""
+    },
+    {
+      "bounds": [
+        506,
+        327,
+        268,
+        37
+      ],
+      "ref": "e7",
+      "role": null,
+      "tag": "button",
+      "text": "SIGN IN"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Navidrome\nUsername\nPassword\nSIGN IN",
+  "text_truncated": false,
+  "title": "Navidrome",
+  "url": "/app/#/login",
+  "viewport": [
+    1280,
+    900
+  ]
+}

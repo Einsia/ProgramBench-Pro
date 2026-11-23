@@ -1,0 +1,355 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e817",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e818",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/?controller=BoardViewController&action=show&plugin=&project_id=1&search=color%3Ared",
+      "ref": "e819",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/?controller=BoardViewController&action=show&plugin=&project_id=1&search=color%3Ared",
+      "ref": "e820",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "aria": "Configure this project",
+      "bounds": [
+        10,
+        48,
+        29,
+        17
+      ],
+      "href": "/?controller=BoardViewController&action=show&plugin=&project_id=1&search=color%3Ared",
+      "ref": "e821",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Configure this project"
+    },
+    {
+      "bounds": [
+        53,
+        49,
+        81,
+        16
+      ],
+      "href": "/project/1/overview/color%3Ared",
+      "ref": "e822",
+      "role": null,
+      "tag": "a",
+      "text": "Overview",
+      "title": "Keyboard shortcut: \"v o\""
+    },
+    {
+      "bounds": [
+        155,
+        49,
+        63,
+        16
+      ],
+      "href": "/board/1/search/color%3Ared",
+      "ref": "e823",
+      "role": null,
+      "tag": "a",
+      "text": "Board",
+      "title": "Keyboard shortcut: \"v b\""
+    },
+    {
+      "bounds": [
+        240,
+        49,
+        44,
+        16
+      ],
+      "href": "/list/1/search/color%3Ared",
+      "ref": "e824",
+      "role": null,
+      "tag": "a",
+      "text": "List",
+      "title": "Keyboard shortcut: \"v l\""
+    },
+    {
+      "aria": "Filter",
+      "bounds": [
+        302,
+        44,
+        786,
+        28
+      ],
+      "name": "search",
+      "placeholder": "Filter",
+      "ref": "e825",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "color:red"
+    },
+    {
+      "aria": "Default filters",
+      "bounds": [
+        1100,
+        49,
+        36,
+        16
+      ],
+      "href": "/?controller=BoardViewController&action=show&plugin=&project_id=1&search=color%3Ared",
+      "ref": "e826",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Default filters"
+    },
+    {
+      "aria": "Custom filters",
+      "bounds": [
+        1161,
+        49,
+        36,
+        16
+      ],
+      "href": "/?controller=BoardViewController&action=show&plugin=&project_id=1&search=color%3Ared",
+      "ref": "e827",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Custom filters"
+    },
+    {
+      "aria": "Custom filters",
+      "bounds": [
+        1221,
+        49,
+        36,
+        16
+      ],
+      "href": "/?controller=BoardViewController&action=show&plugin=&project_id=1&search=color%3Ared",
+      "ref": "e828",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "User filters"
+    },
+    {
+      "bounds": [
+        19,
+        94,
+        32,
+        17
+      ],
+      "href": "/board/1/task/create/swimlane/1/column/1",
+      "ref": "e829",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Add a new task"
+    },
+    {
+      "bounds": [
+        56,
+        92,
+        79,
+        17
+      ],
+      "href": "/?controller=BoardViewController&action=show&plugin=&project_id=1&search=color%3Ared",
+      "ref": "e830",
+      "role": null,
+      "tag": "a",
+      "text": "Backlog"
+    },
+    {
+      "bounds": [
+        139,
+        92,
+        12,
+        17
+      ],
+      "href": "/?controller=BoardViewController&action=show&plugin=&project_id=1&search=color%3Ared",
+      "ref": "e831",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        334,
+        94,
+        32,
+        17
+      ],
+      "href": "/board/1/task/create/swimlane/1/column/2",
+      "ref": "e832",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Add a new task"
+    },
+    {
+      "bounds": [
+        371,
+        92,
+        64,
+        17
+      ],
+      "href": "/?controller=BoardViewController&action=show&plugin=&project_id=1&search=color%3Ared",
+      "ref": "e833",
+      "role": null,
+      "tag": "a",
+      "text": "Ready"
+    },
+    {
+      "bounds": [
+        649,
+        94,
+        32,
+        17
+      ],
+      "href": "/board/1/task/create/swimlane/1/column/3",
+      "ref": "e834",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Add a new task"
+    },
+    {
+      "bounds": [
+        685,
+        92,
+        148,
+        17
+      ],
+      "href": "/?controller=BoardViewController&action=show&plugin=&project_id=1&search=color%3Ared",
+      "ref": "e835",
+      "role": null,
+      "tag": "a",
+      "text": "Work in progress"
+    },
+    {
+      "bounds": [
+        963,
+        94,
+        32,
+        17
+      ],
+      "href": "/board/1/task/create/swimlane/1/column/4",
+      "ref": "e836",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Add a new task"
+    },
+    {
+      "bounds": [
+        1000,
+        92,
+        56,
+        17
+      ],
+      "href": "/?controller=BoardViewController&action=show&plugin=&project_id=1&search=color%3Ared",
+      "ref": "e837",
+      "role": null,
+      "tag": "a",
+      "text": "Done"
+    },
+    {
+      "bounds": [
+        18,
+        133,
+        31,
+        16
+      ],
+      "href": "/?controller=BoardViewController&action=show&plugin=&project_id=1&search=color%3Ared",
+      "ref": "e838",
+      "role": null,
+      "tag": "a",
+      "text": "#2"
+    },
+    {
+      "bounds": [
+        53,
+        133,
+        22,
+        16
+      ],
+      "href": "/task/2/edit",
+      "ref": "e839",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        18,
+        154,
+        91,
+        16
+      ],
+      "href": "/task/2",
+      "ref": "e840",
+      "role": null,
+      "tag": "a",
+      "text": "Beta checkout"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Website \n \n \nA\nOverview Board List\nBacklog  \nTask count\n1  (\nTotal number of tasks in this column across all swimlanes\n2)\n\t\nReady \n\t\nWork in progress \n(\nTotal number of tasks in this column across all swimlanes\n1)\n\t\nDone \n\n\n#2 \n \nBeta checkout\n 04/10/2026 12:00\nTask age in days\n<15m \nDays in this column\n<15m \nTask priority\nP0\n\t\n\t\n\t",
+  "text_truncated": false,
+  "title": "Website",
+  "url": "/?controller=BoardViewController&action=show&plugin=&project_id=1&search=color%3Ared",
+  "viewport": [
+    1280,
+    900
+  ]
+}

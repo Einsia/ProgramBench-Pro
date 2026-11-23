@@ -1,0 +1,383 @@
+{
+  "counts": {
+    "assertions": 1467,
+    "backend": 1352,
+    "checkpoints": 1367,
+    "features": 61,
+    "frontend": 115,
+    "gui_episodes": 43,
+    "program_episodes": 18,
+    "episodes": 61
+  },
+  "features": {
+    "access": {
+      "assertions": 269,
+      "episodes": [
+        "protocol-access"
+      ]
+    },
+    "account-profile": {
+      "assertions": 6,
+      "episodes": [
+        "account-profile"
+      ]
+    },
+    "account-tokens": {
+      "assertions": 4,
+      "episodes": [
+        "account-tokens"
+      ]
+    },
+    "accounts": {
+      "assertions": 92,
+      "episodes": [
+        "protocol-accounts"
+      ]
+    },
+    "admin-groups": {
+      "assertions": 4,
+      "episodes": [
+        "admin-groups"
+      ]
+    },
+    "admin-households": {
+      "assertions": 4,
+      "episodes": [
+        "admin-households"
+      ]
+    },
+    "admin-users": {
+      "assertions": 6,
+      "episodes": [
+        "admin-users"
+      ]
+    },
+    "configuration": {
+      "assertions": 45,
+      "episodes": [
+        "protocol-configuration"
+      ]
+    },
+    "cookbook": {
+      "assertions": 7,
+      "episodes": [
+        "cookbook"
+      ]
+    },
+    "cookbooks": {
+      "assertions": 36,
+      "episodes": [
+        "protocol-cookbooks"
+      ]
+    },
+    "discovery": {
+      "assertions": 30,
+      "episodes": [
+        "protocol-discovery"
+      ]
+    },
+    "download-foods": {
+      "assertions": 2,
+      "episodes": [
+        "download-foods"
+      ]
+    },
+    "download-recipe": {
+      "assertions": 2,
+      "episodes": [
+        "download-recipe"
+      ]
+    },
+    "download-units": {
+      "assertions": 2,
+      "episodes": [
+        "download-units"
+      ]
+    },
+    "extras": {
+      "assertions": 78,
+      "episodes": [
+        "protocol-extras"
+      ]
+    },
+    "files": {
+      "assertions": 83,
+      "episodes": [
+        "protocol-files"
+      ]
+    },
+    "group-isolation": {
+      "assertions": 3,
+      "episodes": [
+        "group-isolation"
+      ]
+    },
+    "group-preferences": {
+      "assertions": 4,
+      "episodes": [
+        "group-preferences"
+      ]
+    },
+    "household-notifiers": {
+      "assertions": 6,
+      "episodes": [
+        "household-notifiers"
+      ]
+    },
+    "household-preferences": {
+      "assertions": 8,
+      "episodes": [
+        "household-preferences"
+      ]
+    },
+    "household-webhooks": {
+      "assertions": 6,
+      "episodes": [
+        "household-webhooks"
+      ]
+    },
+    "identity": {
+      "assertions": 16,
+      "episodes": [
+        "protocol-identity"
+      ]
+    },
+    "ingredients": {
+      "assertions": 86,
+      "episodes": [
+        "protocol-ingredients"
+      ]
+    },
+    "interchange": {
+      "assertions": 36,
+      "episodes": [
+        "protocol-interchange"
+      ]
+    },
+    "inventory-finder": {
+      "assertions": 5,
+      "episodes": [
+        "inventory-finder"
+      ]
+    },
+    "manage-categories": {
+      "assertions": 7,
+      "episodes": [
+        "data-categories"
+      ]
+    },
+    "manage-foods": {
+      "assertions": 7,
+      "episodes": [
+        "data-foods"
+      ]
+    },
+    "manage-labels": {
+      "assertions": 7,
+      "episodes": [
+        "data-labels"
+      ]
+    },
+    "manage-tags": {
+      "assertions": 7,
+      "episodes": [
+        "data-tags"
+      ]
+    },
+    "manage-tools": {
+      "assertions": 7,
+      "episodes": [
+        "data-tools"
+      ]
+    },
+    "manage-units": {
+      "assertions": 7,
+      "episodes": [
+        "data-units"
+      ]
+    },
+    "meal-calendar": {
+      "assertions": 4,
+      "episodes": [
+        "meal-calendar"
+      ]
+    },
+    "meal-rules": {
+      "assertions": 4,
+      "episodes": [
+        "meal-rules"
+      ]
+    },
+    "mealplans": {
+      "assertions": 61,
+      "episodes": [
+        "protocol-mealplans"
+      ]
+    },
+    "merge-category": {
+      "assertions": 4,
+      "episodes": [
+        "merge-category"
+      ]
+    },
+    "organizers": {
+      "assertions": 118,
+      "episodes": [
+        "protocol-organizers"
+      ]
+    },
+    "password-reset": {
+      "assertions": 4,
+      "episodes": [
+        "password-reset"
+      ]
+    },
+    "persistence": {
+      "assertions": 27,
+      "episodes": [
+        "protocol-persistence"
+      ]
+    },
+    "recipe-content": {
+      "assertions": 10,
+      "episodes": [
+        "recipe-content"
+      ]
+    },
+    "recipe-cooking": {
+      "assertions": 2,
+      "episodes": [
+        "recipe-cooking"
+      ]
+    },
+    "recipe-discovery": {
+      "assertions": 4,
+      "episodes": [
+        "recipe-discovery"
+      ]
+    },
+    "recipe-image": {
+      "assertions": 2,
+      "episodes": [
+        "recipe-image"
+      ]
+    },
+    "recipe-import": {
+      "assertions": 2,
+      "episodes": [
+        "recipe-import"
+      ]
+    },
+    "recipe-lifecycle": {
+      "assertions": 8,
+      "episodes": [
+        "recipe-lifecycle"
+      ]
+    },
+    "recipe-nutrition": {
+      "assertions": 2,
+      "episodes": [
+        "recipe-nutrition"
+      ]
+    },
+    "recipe-organizers": {
+      "assertions": 6,
+      "episodes": [
+        "recipe-organizers"
+      ]
+    },
+    "recipe-persistence": {
+      "assertions": 4,
+      "episodes": [
+        "recipe-persistence"
+      ]
+    },
+    "recipe-publicity": {
+      "assertions": 5,
+      "episodes": [
+        "recipe-publicity"
+      ]
+    },
+    "recipe-sharing": {
+      "assertions": 7,
+      "episodes": [
+        "recipe-sharing"
+      ]
+    },
+    "recipe-social": {
+      "assertions": 8,
+      "episodes": [
+        "recipe-social"
+      ]
+    },
+    "recipes": {
+      "assertions": 60,
+      "episodes": [
+        "protocol-recipes"
+      ]
+    },
+    "roundtrip": {
+      "assertions": 14,
+      "episodes": [
+        "protocol-roundtrip"
+      ]
+    },
+    "scaled-plan-shopping": {
+      "assertions": 7,
+      "episodes": [
+        "scaled-plan-shopping"
+      ]
+    },
+    "scope": {
+      "assertions": 47,
+      "episodes": [
+        "protocol-scope"
+      ]
+    },
+    "session": {
+      "assertions": 3,
+      "episodes": [
+        "session"
+      ]
+    },
+    "shopping": {
+      "assertions": 63,
+      "episodes": [
+        "protocol-shopping"
+      ]
+    },
+    "shopping-cleanup": {
+      "assertions": 2,
+      "episodes": [
+        "shopping-cleanup"
+      ]
+    },
+    "shopping-from-recipe": {
+      "assertions": 2,
+      "episodes": [
+        "shopping-from-recipe"
+      ]
+    },
+    "shopping-list": {
+      "assertions": 10,
+      "episodes": [
+        "shopping-list"
+      ]
+    },
+    "site-backups": {
+      "assertions": 4,
+      "episodes": [
+        "site-backups"
+      ]
+    },
+    "social": {
+      "assertions": 91,
+      "episodes": [
+        "protocol-social"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

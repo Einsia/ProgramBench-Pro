@@ -1,0 +1,450 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "aria": "New file",
+      "bounds": [
+        4,
+        4,
+        38,
+        36
+      ],
+      "ref": "efd5d4d0f",
+      "tag": "button",
+      "title": "New file"
+    },
+    {
+      "aria": "New folder",
+      "bounds": [
+        42,
+        4,
+        38,
+        36
+      ],
+      "ref": "e5c7a31eb",
+      "tag": "button",
+      "title": "New folder"
+    },
+    {
+      "aria": "Delete",
+      "bounds": [
+        80,
+        4,
+        38,
+        36
+      ],
+      "ref": "eef9e44b9",
+      "tag": "button",
+      "title": "Delete"
+    },
+    {
+      "aria": "Rename",
+      "bounds": [
+        118,
+        4,
+        38,
+        36
+      ],
+      "ref": "e7563cf1f",
+      "tag": "button",
+      "title": "Rename"
+    },
+    {
+      "aria": "Close explorer",
+      "bounds": [
+        218,
+        4,
+        38,
+        36
+      ],
+      "ref": "eb7614965",
+      "tag": "button",
+      "title": "Close explorer"
+    },
+    {
+      "bounds": [
+        0,
+        44,
+        260,
+        23
+      ],
+      "ref": "e56d9da7f",
+      "tag": "div",
+      "text": "Trash"
+    },
+    {
+      "bounds": [
+        0,
+        67,
+        260,
+        23
+      ],
+      "ref": "ef97969d7",
+      "tag": "div",
+      "text": "Temp"
+    },
+    {
+      "bounds": [
+        0,
+        91,
+        260,
+        23
+      ],
+      "ref": "e749c03c0",
+      "tag": "div",
+      "text": "Temp north"
+    },
+    {
+      "bounds": [
+        0,
+        114,
+        260,
+        23
+      ],
+      "ref": "e5b556732",
+      "tag": "div",
+      "text": "Temp south"
+    },
+    {
+      "bounds": [
+        0,
+        138,
+        260,
+        23
+      ],
+      "ref": "e955e0f4b",
+      "tag": "div",
+      "text": "Welcome file"
+    },
+    {
+      "aria": "Toggle explorer",
+      "bounds": [
+        264,
+        4,
+        38,
+        36
+      ],
+      "ref": "ec7f51653",
+      "tag": "button",
+      "title": "Toggle explorer"
+    },
+    {
+      "aria": "Toggle side bar",
+      "bounds": [
+        1238,
+        4,
+        38,
+        36
+      ],
+      "ref": "ea06d0b6b",
+      "tag": "button",
+      "title": "Toggle side bar"
+    },
+    {
+      "bounds": [
+        1010,
+        4,
+        132,
+        36
+      ],
+      "label": "Temp north",
+      "ref": "e6ad3fce7",
+      "tag": "input",
+      "type": "text",
+      "value": "Temp north"
+    },
+    {
+      "aria": "Synchronize now",
+      "bounds": [
+        1151,
+        4,
+        34,
+        36
+      ],
+      "disabled": true,
+      "ref": "e480c8073",
+      "tag": "button",
+      "title": "Synchronize now"
+    },
+    {
+      "aria": "Publish now",
+      "bounds": [
+        1195,
+        4,
+        34,
+        36
+      ],
+      "disabled": true,
+      "ref": "e2878dba3",
+      "tag": "button",
+      "title": "Publish now"
+    },
+    {
+      "aria": "Undo",
+      "bounds": [
+        314,
+        4,
+        34,
+        36
+      ],
+      "ref": "ed972f7af",
+      "tag": "button",
+      "title": "Undo"
+    },
+    {
+      "aria": "Redo",
+      "bounds": [
+        348,
+        4,
+        34,
+        36
+      ],
+      "disabled": true,
+      "ref": "ed30b390f",
+      "tag": "button",
+      "title": "Redo"
+    },
+    {
+      "aria": "Bold – Ctrl+Shift+B",
+      "bounds": [
+        390,
+        4,
+        34,
+        36
+      ],
+      "ref": "ea31dff83",
+      "tag": "button",
+      "title": "Bold – Ctrl+Shift+B"
+    },
+    {
+      "aria": "Italic – Ctrl+Shift+I",
+      "bounds": [
+        424,
+        4,
+        34,
+        36
+      ],
+      "ref": "ece8e9a2b",
+      "tag": "button",
+      "title": "Italic – Ctrl+Shift+I"
+    },
+    {
+      "aria": "Heading – Ctrl+Shift+H",
+      "bounds": [
+        458,
+        4,
+        34,
+        36
+      ],
+      "ref": "ee31adf97",
+      "tag": "button",
+      "title": "Heading – Ctrl+Shift+H"
+    },
+    {
+      "aria": "Strikethrough – Ctrl+Shift+S",
+      "bounds": [
+        492,
+        4,
+        34,
+        36
+      ],
+      "ref": "e504de92f",
+      "tag": "button",
+      "title": "Strikethrough – Ctrl+Shift+S"
+    },
+    {
+      "aria": "Unordered list – Ctrl+Shift+U",
+      "bounds": [
+        534,
+        4,
+        34,
+        36
+      ],
+      "ref": "e085fcfef",
+      "tag": "button",
+      "title": "Unordered list – Ctrl+Shift+U"
+    },
+    {
+      "aria": "Ordered list – Ctrl+Shift+O",
+      "bounds": [
+        568,
+        4,
+        34,
+        36
+      ],
+      "ref": "ef710c88b",
+      "tag": "button",
+      "title": "Ordered list – Ctrl+Shift+O"
+    },
+    {
+      "aria": "Check list – Ctrl+Shift+C",
+      "bounds": [
+        602,
+        4,
+        34,
+        36
+      ],
+      "ref": "e6821dd9b",
+      "tag": "button",
+      "title": "Check list – Ctrl+Shift+C"
+    },
+    {
+      "aria": "Blockquote – Ctrl+Shift+Q",
+      "bounds": [
+        644,
+        4,
+        34,
+        36
+      ],
+      "ref": "ee12273bf",
+      "tag": "button",
+      "title": "Blockquote – Ctrl+Shift+Q"
+    },
+    {
+      "aria": "Code – Ctrl+Shift+K",
+      "bounds": [
+        678,
+        4,
+        34,
+        36
+      ],
+      "ref": "e369da927",
+      "tag": "button",
+      "title": "Code – Ctrl+Shift+K"
+    },
+    {
+      "aria": "Table – Ctrl+Shift+T",
+      "bounds": [
+        712,
+        4,
+        34,
+        36
+      ],
+      "ref": "efe77f797",
+      "tag": "button",
+      "title": "Table – Ctrl+Shift+T"
+    },
+    {
+      "aria": "Link – Ctrl+Shift+L",
+      "bounds": [
+        746,
+        4,
+        34,
+        36
+      ],
+      "ref": "ea7c140a7",
+      "tag": "button",
+      "title": "Link – Ctrl+Shift+L"
+    },
+    {
+      "aria": "Image – Ctrl+Shift+G",
+      "bounds": [
+        780,
+        4,
+        34,
+        36
+      ],
+      "ref": "eedcb6ccf",
+      "tag": "button",
+      "title": "Image – Ctrl+Shift+G"
+    },
+    {
+      "bounds": [
+        260,
+        44,
+        497,
+        456
+      ],
+      "editable": true,
+      "ref": "e17e30fb5",
+      "tag": "pre",
+      "text": "Temporary north note. Still editable.",
+      "value": "Temporary north note. Still editable.\n",
+      "value_truncated": false
+    },
+    {
+      "aria": "Toggle navigation bar",
+      "bounds": [
+        757,
+        47,
+        26,
+        26
+      ],
+      "ref": "e98fccd07",
+      "tag": "button",
+      "title": "Toggle navigation bar"
+    },
+    {
+      "aria": "Toggle side preview",
+      "bounds": [
+        757,
+        76,
+        26,
+        26
+      ],
+      "ref": "e594daaff",
+      "tag": "button",
+      "title": "Toggle side preview"
+    },
+    {
+      "aria": "Reader mode",
+      "bounds": [
+        757,
+        105,
+        26,
+        26
+      ],
+      "ref": "e2b927937",
+      "tag": "button",
+      "title": "Reader mode"
+    },
+    {
+      "aria": "Toggle focus mode",
+      "bounds": [
+        757,
+        793,
+        26,
+        26
+      ],
+      "ref": "eedaa47cb",
+      "tag": "button",
+      "title": "Toggle focus mode"
+    },
+    {
+      "aria": "Toggle scroll sync",
+      "bounds": [
+        757,
+        822,
+        26,
+        26
+      ],
+      "ref": "ed740000f",
+      "tag": "button",
+      "title": "Toggle scroll sync"
+    },
+    {
+      "aria": "Toggle status bar",
+      "bounds": [
+        757,
+        851,
+        26,
+        26
+      ],
+      "ref": "eac7847f7",
+      "tag": "button",
+      "title": "Toggle status bar"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "drawing": [],
+  "drawing_truncated": false,
+  "text": "Temporary north note. Still editable.\nMarkdown\n38\nbytes\n5\nwords\n1\nlines\nLn 1, Col 37\nHTML\n33\ncharacters\n5\nwords\n1\nparagraphs\nYou've earned 1 badge: \"Explorer toggler\".",
+  "text_truncated": false,
+  "title": "StackEdit",
+  "url": "/",
+  "viewport": [
+    1280,
+    900
+  ]
+}

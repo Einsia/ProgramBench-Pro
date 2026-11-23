@@ -1,0 +1,337 @@
+{
+  "focused": null,
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        1024
+      ],
+      "name": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),",
+      "ref": "e93ed40b7",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        25
+      ],
+      "name": "",
+      "ref": "e37b0c28a",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        39,
+        25
+      ],
+      "name": "File",
+      "ref": "eae5e7196",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        39,
+        19,
+        75,
+        25
+      ],
+      "name": "Accounts",
+      "ref": "ecb5893cc",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        114,
+        19,
+        49,
+        25
+      ],
+      "name": "Tools",
+      "ref": "ec5eeafb2",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        163,
+        19,
+        48,
+        25
+      ],
+      "name": "View",
+      "ref": "eb0ba3d40",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        211,
+        19,
+        46,
+        25
+      ],
+      "name": "Help",
+      "ref": "ef594ac36",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        1,
+        995,
+        200,
+        6
+      ],
+      "name": "",
+      "ref": "ef36204a0",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        390,
+        334,
+        500,
+        356
+      ],
+      "name": "Import OFX file",
+      "ref": "eb2f9708f",
+      "role": "frame",
+      "states": [
+        "modal"
+      ]
+    },
+    {
+      "bounds": [
+        396,
+        359,
+        59,
+        17
+      ],
+      "name": "OFX File:",
+      "ref": "e5d35f6a8",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        396,
+        386,
+        383,
+        34
+      ],
+      "name": "",
+      "ref": "e02244853",
+      "role": "text",
+      "text": "/app/candidate-state/session/files/inbox/bank.ofx"
+    },
+    {
+      "bounds": [
+        789,
+        386,
+        95,
+        34
+      ],
+      "name": "Browse…",
+      "ref": "eda579cfd",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        396,
+        430,
+        57,
+        17
+      ],
+      "name": "Account:",
+      "ref": "eecdab480",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        396,
+        457,
+        488,
+        34
+      ],
+      "name": "Everyday Checking",
+      "ref": "e2531d5a2",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        396,
+        501,
+        415,
+        21
+      ],
+      "name": "Use existing regex patterns to automatically match payees",
+      "ref": "ec416a0ff",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        396,
+        532,
+        488,
+        21
+      ],
+      "name": "Use fuzzy payee matching if exact match and regex matching are unsuccessful",
+      "ref": "eebacf0a3",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        396,
+        563,
+        267,
+        17
+      ],
+      "name": "Minimum Fuzzy Match Confidence Level:",
+      "ref": "e5805aafb",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        396,
+        590,
+        488,
+        34
+      ],
+      "name": "85%",
+      "ref": "ef55d1953",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        396,
+        634,
+        488,
+        21
+      ],
+      "name": "Mark transactions automatically imported with Fuzzy Match as “Follow Up”",
+      "ref": "e97f2b2cd",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        396,
+        665,
+        264,
+        19
+      ],
+      "name": "Prompt to confirm each fuzzy match",
+      "ref": "e93532eb0",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        275,
+        256,
+        731,
+        512
+      ],
+      "name": "OFX Import Summary",
+      "ref": "e706f1005",
+      "role": "frame",
+      "states": [
+        "active",
+        "modal"
+      ]
+    },
+    {
+      "bounds": [
+        286,
+        286,
+        709,
+        102
+      ],
+      "name": "Import Statistics:\n- Total Transactions: 2\n- Automatically Imported: 0\n- New Payees Created: 0\n- Manually Allocated to Payees: 2\n- Time Taken: 11 seconds",
+      "ref": "eeb371a98",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        281,
+        708,
+        719,
+        6
+      ],
+      "name": "",
+      "ref": "ea3a72b7d",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        994,
+        403,
+        6,
+        311
+      ],
+      "name": "",
+      "ref": "e0d9cd86f",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        598,
+        724,
+        85,
+        34
+      ],
+      "name": "OK",
+      "ref": "e8350248f",
+      "role": "push button"
+    }
+  ],
+  "screen": [
+    1280,
+    1024
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": false,
+      "bounds": [
+        0,
+        38,
+        1280,
+        1005
+      ],
+      "ref": "w5b3c0310",
+      "title": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),"
+    },
+    {
+      "active": false,
+      "bounds": [
+        392,
+        374,
+        498,
+        335
+      ],
+      "ref": "wc7616bfb",
+      "title": "Import OFX file"
+    },
+    {
+      "active": true,
+      "bounds": [
+        277,
+        296,
+        729,
+        487
+      ],
+      "ref": "w9ac5853c",
+      "title": "OFX Import Summary"
+    }
+  ]
+}

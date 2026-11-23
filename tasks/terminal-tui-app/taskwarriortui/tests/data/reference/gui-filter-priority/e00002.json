@@ -1,0 +1,187 @@
+{
+  "cursor": {
+    "column": 20,
+    "hidden": true,
+    "row": 34
+  },
+  "process": "running",
+  "screen": [
+    "00| Tasks   Projects   Timesheet   Calendar                                                                     next [none]",
+    "01|  ID Age P Tag         Due Description                                                                           Urg",
+    "02|",
+    "03|•  5 2d  L errand,shop 14h Buy groceries                                                                         19.24",
+    "04|  10 2w  L garden      6d  Water plants                                                                          8.49",
+    "05|",
+    "06|",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|",
+    "12|",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────",
+    "19|",
+    "20|Name                  Value",
+    "21|--------------------- ------------------------------------------------------------------------------------------",
+    "22|ID                    5",
+    "23|Description           Buy groceries",
+    "24|Status                Pending",
+    "25|This task is blocking 9 Fix bike",
+    "26|Entered               2026-05-11 08:00:00 (2d)",
+    "27|Due                   2026-05-14 00:00:00",
+    "28|Last modified         2026-05-13 10:00:00 ()",
+    "29|Tags                  errand shop",
+    "30|Virtual tags          BLOCKING DUE MONTH PENDING PRIORITY QUARTER READY TAGGED TOMORROW UDA UNBLOCKED WEEK YEAR",
+    "31|UUID                  00000005-0000-4000-8000-000000000005",
+    "32|Urgency               19.24",
+    "33|Priority              L",
+    "34|Filter Tasks",
+    "35|priority:L"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        1,
+        6
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "reverse"
+      ],
+      "text": "Tasks"
+    },
+    {
+      "columns": [
+        6,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "reverse"
+      ],
+      "text": "   Projects   Timesheet   Calendar                                                                     next [none]"
+    },
+    {
+      "columns": [
+        0,
+        4
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "  ID"
+    },
+    {
+      "columns": [
+        5,
+        8
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Age"
+    },
+    {
+      "columns": [
+        9,
+        10
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "P"
+    },
+    {
+      "columns": [
+        11,
+        22
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Tag        "
+    },
+    {
+      "columns": [
+        23,
+        26
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Due"
+    },
+    {
+      "columns": [
+        27,
+        112
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Description                                                                          "
+    },
+    {
+      "columns": [
+        113,
+        118
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Urg  "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 3,
+      "style": [
+        "bold",
+        "fg=cd0000"
+      ],
+      "text": "•  5 2d  L errand,shop 14h Buy groceries                                                                         19.24"
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 4,
+      "style": [
+        "fg=cd0000",
+        "bg=1c1c1c"
+      ],
+      "text": "  10 2w  L garden      6d  Water plants                                                                          8.49 "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "reverse"
+      ],
+      "text": "Filter Tasks                                                                                                            "
+    }
+  ]
+}

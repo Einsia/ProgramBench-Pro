@@ -1,0 +1,520 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        559,
+        -44,
+        162,
+        36
+      ],
+      "href": "/feed/1/entries#main",
+      "offscreen": true,
+      "ref": "e714",
+      "role": null,
+      "tag": "a",
+      "text": "Skip to content"
+    },
+    {
+      "aria": "Home page",
+      "bounds": [
+        193,
+        10,
+        77,
+        19
+      ],
+      "href": "/unread",
+      "ref": "e715",
+      "role": null,
+      "tag": "a",
+      "text": "Mini\nflux"
+    },
+    {
+      "aria": "Unread, 3 unread entries",
+      "bounds": [
+        278,
+        12,
+        102,
+        16
+      ],
+      "href": "/unread",
+      "ref": "e716",
+      "role": null,
+      "tag": "a",
+      "text": "Unread (3)"
+    },
+    {
+      "bounds": [
+        395,
+        12,
+        78,
+        16
+      ],
+      "href": "/starred",
+      "ref": "e717",
+      "role": null,
+      "tag": "a",
+      "text": "Starred"
+    },
+    {
+      "bounds": [
+        488,
+        12,
+        78,
+        16
+      ],
+      "href": "/history",
+      "ref": "e718",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        581,
+        12,
+        70,
+        16
+      ],
+      "href": "/feeds",
+      "ref": "e719",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "aria": "Add feed",
+      "bounds": [
+        650,
+        12,
+        26,
+        16
+      ],
+      "href": "/subscribe",
+      "ref": "e720",
+      "role": null,
+      "tag": "a",
+      "text": "(+)",
+      "title": "Keyboard Shortcut: +"
+    },
+    {
+      "bounds": [
+        691,
+        12,
+        104,
+        16
+      ],
+      "href": "/categories",
+      "ref": "e721",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        810,
+        12,
+        70,
+        16
+      ],
+      "href": "/search",
+      "ref": "e722",
+      "role": null,
+      "tag": "a",
+      "text": "Search"
+    },
+    {
+      "bounds": [
+        894,
+        12,
+        87,
+        16
+      ],
+      "href": "/settings",
+      "ref": "e723",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        996,
+        10,
+        70,
+        18
+      ],
+      "ref": "e724",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "title": "Logged in as alice"
+    },
+    {
+      "bounds": [
+        193,
+        49,
+        216,
+        27
+      ],
+      "href": "[external]",
+      "ref": "e725",
+      "role": null,
+      "tag": "a",
+      "text": "Morning Gazette",
+      "title": "http://gazette.test/"
+    },
+    {
+      "bounds": [
+        193,
+        81,
+        181,
+        18
+      ],
+      "ref": "e726",
+      "role": null,
+      "tag": "button",
+      "text": "Mark this page as read"
+    },
+    {
+      "bounds": [
+        398,
+        81,
+        132,
+        18
+      ],
+      "ref": "e727",
+      "role": null,
+      "tag": "button",
+      "text": "Mark all as read"
+    },
+    {
+      "bounds": [
+        555,
+        82,
+        172,
+        18
+      ],
+      "href": "/feed/1/entries/all",
+      "ref": "e728",
+      "role": null,
+      "tag": "a",
+      "text": "Show all entries"
+    },
+    {
+      "bounds": [
+        751,
+        81,
+        74,
+        18
+      ],
+      "ref": "e729",
+      "role": null,
+      "tag": "button",
+      "text": "Refresh"
+    },
+    {
+      "bounds": [
+        850,
+        82,
+        56,
+        18
+      ],
+      "href": "/feed/1/edit",
+      "ref": "e730",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        193,
+        110,
+        143,
+        18
+      ],
+      "ref": "e731",
+      "role": null,
+      "tag": "button",
+      "text": "Remove this feed"
+    },
+    {
+      "bounds": [
+        199,
+        179,
+        96,
+        18
+      ],
+      "href": "/unread/feed/1/entry/3",
+      "ref": "e732",
+      "role": null,
+      "tag": "a",
+      "text": "Gazette 1"
+    },
+    {
+      "aria": "Category: All",
+      "bounds": [
+        304,
+        182,
+        22,
+        14
+      ],
+      "href": "/category/1/entries",
+      "ref": "e733",
+      "role": null,
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        199,
+        203,
+        98,
+        12
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e734",
+      "role": null,
+      "tag": "a",
+      "text": "Morning Gazette",
+      "title": "http://gazette.test/"
+    },
+    {
+      "bounds": [
+        199,
+        224,
+        95,
+        16
+      ],
+      "ref": "e735",
+      "role": null,
+      "tag": "button",
+      "text": "Mark as read",
+      "title": "Change entry status"
+    },
+    {
+      "bounds": [
+        309,
+        224,
+        43,
+        16
+      ],
+      "ref": "e736",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        369,
+        226,
+        120,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e737",
+      "role": null,
+      "tag": "a",
+      "text": "External link"
+    },
+    {
+      "bounds": [
+        199,
+        273,
+        96,
+        18
+      ],
+      "href": "/unread/feed/1/entry/2",
+      "ref": "e738",
+      "role": null,
+      "tag": "a",
+      "text": "Gazette 2"
+    },
+    {
+      "aria": "Category: All",
+      "bounds": [
+        304,
+        276,
+        22,
+        14
+      ],
+      "href": "/category/1/entries",
+      "ref": "e739",
+      "role": null,
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        199,
+        297,
+        98,
+        12
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e740",
+      "role": null,
+      "tag": "a",
+      "text": "Morning Gazette",
+      "title": "http://gazette.test/"
+    },
+    {
+      "bounds": [
+        199,
+        318,
+        95,
+        16
+      ],
+      "ref": "e741",
+      "role": null,
+      "tag": "button",
+      "text": "Mark as read",
+      "title": "Change entry status"
+    },
+    {
+      "bounds": [
+        309,
+        318,
+        43,
+        16
+      ],
+      "ref": "e742",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        369,
+        320,
+        120,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e743",
+      "role": null,
+      "tag": "a",
+      "text": "External link"
+    },
+    {
+      "bounds": [
+        199,
+        367,
+        96,
+        18
+      ],
+      "href": "/unread/feed/1/entry/1",
+      "ref": "e744",
+      "role": null,
+      "tag": "a",
+      "text": "Gazette 3"
+    },
+    {
+      "aria": "Category: All",
+      "bounds": [
+        304,
+        370,
+        22,
+        14
+      ],
+      "href": "/category/1/entries",
+      "ref": "e745",
+      "role": null,
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        199,
+        391,
+        98,
+        12
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e746",
+      "role": null,
+      "tag": "a",
+      "text": "Morning Gazette",
+      "title": "http://gazette.test/"
+    },
+    {
+      "bounds": [
+        199,
+        412,
+        95,
+        16
+      ],
+      "ref": "e747",
+      "role": null,
+      "tag": "button",
+      "text": "Mark as read",
+      "title": "Change entry status"
+    },
+    {
+      "bounds": [
+        309,
+        412,
+        43,
+        16
+      ],
+      "ref": "e748",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        369,
+        414,
+        120,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e749",
+      "role": null,
+      "tag": "a",
+      "text": "External link"
+    },
+    {
+      "bounds": [
+        193,
+        459,
+        181,
+        18
+      ],
+      "ref": "e750",
+      "role": null,
+      "tag": "button",
+      "text": "Mark this page as read"
+    },
+    {
+      "bounds": [
+        599,
+        501,
+        134,
+        20
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e751",
+      "role": null,
+      "tag": "a",
+      "text": "Back to top"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Skip to content\nMini\nflux\nUnread (3) Starred History Feeds (+) Categories Search Settings Logout\nMorning Gazette (3)\n3 unread entries\nMark this page as read Mark all as read Show all entries Refresh Edit Remove this feed\nFirst\nPrevious\nNext \nLast \nGazette 1 All\nMorning Gazette  1 year ago  1 minute read\nMark as read Star External link\nGazette 2 All\nMorning Gazette  1 year ago  1 minute read\nMark as read Star External link\nGazette 3 All\nMorning Gazette  1 year ago  1 minute read\nMark as read Star External link\nMark this page as read\nFirst\nPrevious\nBack to top\nNext \nLast ",
+  "text_truncated": false,
+  "title": "Morning Gazette (3) - Miniflux",
+  "url": "/feed/1/entries",
+  "viewport": [
+    1280,
+    900
+  ]
+}

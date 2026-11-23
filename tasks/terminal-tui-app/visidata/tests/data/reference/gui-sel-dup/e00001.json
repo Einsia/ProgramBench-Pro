@@ -1,0 +1,856 @@
+{
+  "base_style": [
+    "fg=black",
+    "bg=5f87d7"
+  ],
+  "cursor": {
+    "column": 0,
+    "hidden": true,
+    "row": 0
+  },
+  "process": "running",
+  "screen": [
+    "00|  File  Edit  View  Column  Row  Data  Plot  System  Help     | VisiData 3.4 | Support VisiData: https://github.com/spon",
+    "01| directory │↟filename   ║ ext │ size#│↓modtime   @║~│…│…│…│…│…│",
+    "02| .         │ grid.csv   ║ csv │  243 │ 2024-01-01 ║",
+    "03| .         │ mix.csv    ║ csv │  443 │ 2024-01-01 ║",
+    "04| .         │ pets.csv   ║ csv │   36 │ 2024-01-01 ║",
+    "05| .         │ sample.csv ║ csv │  163 │ 2024-01-01 ║",
+    "06|",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|",
+    "12|",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|",
+    "19|",
+    "20|",
+    "21|",
+    "22|",
+    "23|",
+    "24|",
+    "25|",
+    "26|",
+    "27|",
+    "28|",
+    "29|",
+    "30|",
+    "31|                                                               ▗▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ statuses ▄▖",
+    "32|                                                               ▐ saul.pw/VisiData v3.4                                ▌",
+    "33|                                                               ▐ Support VisiData: https://github.com/sponsors/saulpw ▌",
+    "34|                                                               ▐██████████████████████████████████████████████████████▌",
+    "35|1📂workspace|                                                                                               4 files [1]"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        2,
+        3
+      ],
+      "row": 0,
+      "style": [
+        "underline",
+        "fg=black",
+        "bg=5f87d7"
+      ],
+      "text": "F"
+    },
+    {
+      "columns": [
+        8,
+        9
+      ],
+      "row": 0,
+      "style": [
+        "underline",
+        "fg=black",
+        "bg=5f87d7"
+      ],
+      "text": "E"
+    },
+    {
+      "columns": [
+        14,
+        15
+      ],
+      "row": 0,
+      "style": [
+        "underline",
+        "fg=black",
+        "bg=5f87d7"
+      ],
+      "text": "V"
+    },
+    {
+      "columns": [
+        20,
+        21
+      ],
+      "row": 0,
+      "style": [
+        "underline",
+        "fg=black",
+        "bg=5f87d7"
+      ],
+      "text": "C"
+    },
+    {
+      "columns": [
+        28,
+        29
+      ],
+      "row": 0,
+      "style": [
+        "underline",
+        "fg=black",
+        "bg=5f87d7"
+      ],
+      "text": "R"
+    },
+    {
+      "columns": [
+        33,
+        34
+      ],
+      "row": 0,
+      "style": [
+        "underline",
+        "fg=black",
+        "bg=5f87d7"
+      ],
+      "text": "D"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 0,
+      "style": [
+        "underline",
+        "fg=black",
+        "bg=5f87d7"
+      ],
+      "text": "P"
+    },
+    {
+      "columns": [
+        45,
+        46
+      ],
+      "row": 0,
+      "style": [
+        "underline",
+        "fg=black",
+        "bg=5f87d7"
+      ],
+      "text": "S"
+    },
+    {
+      "columns": [
+        53,
+        54
+      ],
+      "row": 0,
+      "style": [
+        "underline",
+        "fg=black",
+        "bg=5f87d7"
+      ],
+      "text": "H"
+    },
+    {
+      "columns": [
+        0,
+        11
+      ],
+      "row": 1,
+      "style": [
+        "bold",
+        "underline",
+        "reverse",
+        "fg=white",
+        "bg=black"
+      ],
+      "text": " directory "
+    },
+    {
+      "columns": [
+        11,
+        12
+      ],
+      "row": 1,
+      "style": [
+        "fg=white",
+        "bg=black"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        12,
+        24
+      ],
+      "row": 1,
+      "style": [
+        "underline",
+        "fg=white",
+        "bg=black"
+      ],
+      "text": "↟filename   "
+    },
+    {
+      "columns": [
+        24,
+        25
+      ],
+      "row": 1,
+      "style": [
+        "fg=white",
+        "bg=black"
+      ],
+      "text": "║"
+    },
+    {
+      "columns": [
+        25,
+        30
+      ],
+      "row": 1,
+      "style": [
+        "underline",
+        "fg=white",
+        "bg=5f0000"
+      ],
+      "text": " ext "
+    },
+    {
+      "columns": [
+        30,
+        31
+      ],
+      "row": 1,
+      "style": [
+        "fg=white",
+        "bg=black"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        31,
+        37
+      ],
+      "row": 1,
+      "style": [
+        "underline",
+        "fg=white",
+        "bg=black"
+      ],
+      "text": " size#"
+    },
+    {
+      "columns": [
+        37,
+        38
+      ],
+      "row": 1,
+      "style": [
+        "fg=white",
+        "bg=black"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        38,
+        50
+      ],
+      "row": 1,
+      "style": [
+        "underline",
+        "fg=white",
+        "bg=black"
+      ],
+      "text": "↓modtime   @"
+    },
+    {
+      "columns": [
+        50,
+        51
+      ],
+      "row": 1,
+      "style": [
+        "fg=white",
+        "bg=black"
+      ],
+      "text": "║"
+    },
+    {
+      "columns": [
+        51,
+        52
+      ],
+      "row": 1,
+      "style": [
+        "underline",
+        "fg=white",
+        "bg=black"
+      ],
+      "text": "~"
+    },
+    {
+      "columns": [
+        52,
+        53
+      ],
+      "row": 1,
+      "style": [
+        "fg=white",
+        "bg=black"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        53,
+        54
+      ],
+      "row": 1,
+      "style": [
+        "underline",
+        "fg=white",
+        "bg=black"
+      ],
+      "text": "…"
+    },
+    {
+      "columns": [
+        54,
+        55
+      ],
+      "row": 1,
+      "style": [
+        "fg=white",
+        "bg=black"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        55,
+        56
+      ],
+      "row": 1,
+      "style": [
+        "underline",
+        "fg=white",
+        "bg=black"
+      ],
+      "text": "…"
+    },
+    {
+      "columns": [
+        56,
+        57
+      ],
+      "row": 1,
+      "style": [
+        "fg=white",
+        "bg=black"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        57,
+        58
+      ],
+      "row": 1,
+      "style": [
+        "underline",
+        "fg=white",
+        "bg=black"
+      ],
+      "text": "…"
+    },
+    {
+      "columns": [
+        58,
+        59
+      ],
+      "row": 1,
+      "style": [
+        "fg=white",
+        "bg=black"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        59,
+        60
+      ],
+      "row": 1,
+      "style": [
+        "underline",
+        "fg=brightblack",
+        "bg=5f0000"
+      ],
+      "text": "…"
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 1,
+      "style": [
+        "fg=white",
+        "bg=black"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        61,
+        62
+      ],
+      "row": 1,
+      "style": [
+        "underline",
+        "fg=brightblack",
+        "bg=5f0000"
+      ],
+      "text": "…"
+    },
+    {
+      "columns": [
+        62,
+        120
+      ],
+      "row": 1,
+      "style": [
+        "fg=white",
+        "bg=black"
+      ],
+      "text": "│                                                         "
+    },
+    {
+      "columns": [
+        0,
+        11
+      ],
+      "row": 2,
+      "style": [
+        "bold",
+        "reverse",
+        "fg=5fd7ff",
+        "bg=080808"
+      ],
+      "text": " .         "
+    },
+    {
+      "columns": [
+        11,
+        12
+      ],
+      "row": 2,
+      "style": [
+        "reverse"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        12,
+        24
+      ],
+      "row": 2,
+      "style": [
+        "reverse",
+        "fg=5fd7ff",
+        "bg=black"
+      ],
+      "text": " grid.csv   "
+    },
+    {
+      "columns": [
+        24,
+        25
+      ],
+      "row": 2,
+      "style": [
+        "reverse"
+      ],
+      "text": "║"
+    },
+    {
+      "columns": [
+        25,
+        30
+      ],
+      "row": 2,
+      "style": [
+        "reverse",
+        "fg=white",
+        "bg=black"
+      ],
+      "text": " csv "
+    },
+    {
+      "columns": [
+        30,
+        31
+      ],
+      "row": 2,
+      "style": [
+        "reverse"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        31,
+        37
+      ],
+      "row": 2,
+      "style": [
+        "reverse",
+        "fg=white",
+        "bg=black"
+      ],
+      "text": "  243 "
+    },
+    {
+      "columns": [
+        37,
+        38
+      ],
+      "row": 2,
+      "style": [
+        "reverse"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        38,
+        50
+      ],
+      "row": 2,
+      "style": [
+        "reverse",
+        "fg=white",
+        "bg=black"
+      ],
+      "text": " 2024-01-01 "
+    },
+    {
+      "columns": [
+        50,
+        51
+      ],
+      "row": 2,
+      "style": [
+        "reverse"
+      ],
+      "text": "║"
+    },
+    {
+      "columns": [
+        0,
+        11
+      ],
+      "row": 3,
+      "style": [
+        "bold",
+        "fg=5fd7ff",
+        "bg=080808"
+      ],
+      "text": " .         "
+    },
+    {
+      "columns": [
+        11,
+        12
+      ],
+      "row": 3,
+      "style": [
+        "fg=white",
+        "bg=black"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        12,
+        24
+      ],
+      "row": 3,
+      "style": [
+        "fg=5fd7ff",
+        "bg=black"
+      ],
+      "text": " mix.csv    "
+    },
+    {
+      "columns": [
+        24,
+        120
+      ],
+      "row": 3,
+      "style": [
+        "fg=white",
+        "bg=black"
+      ],
+      "text": "║ csv │  443 │ 2024-01-01 ║                                                                     "
+    },
+    {
+      "columns": [
+        0,
+        11
+      ],
+      "row": 4,
+      "style": [
+        "bold",
+        "fg=5fd7ff",
+        "bg=080808"
+      ],
+      "text": " .         "
+    },
+    {
+      "columns": [
+        11,
+        12
+      ],
+      "row": 4,
+      "style": [
+        "fg=white",
+        "bg=black"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        12,
+        24
+      ],
+      "row": 4,
+      "style": [
+        "fg=5fd7ff",
+        "bg=black"
+      ],
+      "text": " pets.csv   "
+    },
+    {
+      "columns": [
+        24,
+        120
+      ],
+      "row": 4,
+      "style": [
+        "fg=white",
+        "bg=black"
+      ],
+      "text": "║ csv │   36 │ 2024-01-01 ║                                                                     "
+    },
+    {
+      "columns": [
+        0,
+        11
+      ],
+      "row": 5,
+      "style": [
+        "bold",
+        "fg=5fd7ff",
+        "bg=080808"
+      ],
+      "text": " .         "
+    },
+    {
+      "columns": [
+        11,
+        12
+      ],
+      "row": 5,
+      "style": [
+        "fg=white",
+        "bg=black"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        12,
+        24
+      ],
+      "row": 5,
+      "style": [
+        "fg=5fd7ff",
+        "bg=black"
+      ],
+      "text": " sample.csv "
+    },
+    {
+      "columns": [
+        24,
+        120
+      ],
+      "row": 5,
+      "style": [
+        "fg=white",
+        "bg=black"
+      ],
+      "text": "║ csv │  163 │ 2024-01-01 ║                                                                     "
+    },
+    {
+      "columns": [
+        63,
+        107
+      ],
+      "row": 31,
+      "style": [
+        "fg=87d787"
+      ],
+      "text": "▗▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄"
+    },
+    {
+      "columns": [
+        107,
+        117
+      ],
+      "row": 31,
+      "style": [
+        "fg=black",
+        "bg=brown"
+      ],
+      "text": " statuses "
+    },
+    {
+      "columns": [
+        117,
+        119
+      ],
+      "row": 31,
+      "style": [
+        "fg=87d787"
+      ],
+      "text": "▄▖"
+    },
+    {
+      "columns": [
+        63,
+        64
+      ],
+      "row": 32,
+      "style": [
+        "fg=87d787"
+      ],
+      "text": "▐"
+    },
+    {
+      "columns": [
+        64,
+        118
+      ],
+      "row": 32,
+      "style": [
+        "fg=black",
+        "bg=87d787"
+      ],
+      "text": " saul.pw/VisiData v3.4                                "
+    },
+    {
+      "columns": [
+        118,
+        119
+      ],
+      "row": 32,
+      "style": [
+        "fg=87d787"
+      ],
+      "text": "▌"
+    },
+    {
+      "columns": [
+        63,
+        64
+      ],
+      "row": 33,
+      "style": [
+        "fg=87d787"
+      ],
+      "text": "▐"
+    },
+    {
+      "columns": [
+        64,
+        118
+      ],
+      "row": 33,
+      "style": [
+        "fg=black",
+        "bg=87d787"
+      ],
+      "text": " Support VisiData: https://github.com/sponsors/saulpw "
+    },
+    {
+      "columns": [
+        118,
+        119
+      ],
+      "row": 33,
+      "style": [
+        "fg=87d787"
+      ],
+      "text": "▌"
+    },
+    {
+      "columns": [
+        63,
+        119
+      ],
+      "row": 34,
+      "style": [
+        "fg=87d787"
+      ],
+      "text": "▐██████████████████████████████████████████████████████▌"
+    },
+    {
+      "columns": [
+        0,
+        12
+      ],
+      "row": 35,
+      "style": [
+        "fg=ffd7af",
+        "bg=black"
+      ],
+      "text": "1📂workspace"
+    },
+    {
+      "columns": [
+        116,
+        119
+      ],
+      "row": 35,
+      "style": [
+        "bold",
+        "fg=black",
+        "bg=87d787"
+      ],
+      "text": "[1]"
+    }
+  ]
+}

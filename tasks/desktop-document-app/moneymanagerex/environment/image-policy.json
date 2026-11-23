@@ -1,0 +1,26 @@
+{
+  "reference_paths": [
+    "/app/solution/mmex",
+    "/app/solution/mmex_guard.so",
+    "/app/solution/lib/liblua5.3.so.0",
+    "/app/solution/lib/libpcre2-32.so.0"
+  ],
+  "shared_solution_files": [
+    {
+      "file": "LICENSE",
+      "reason": "The unmodified GPL/AGPL license text is also shipped with general development dependencies."
+    },
+    {
+      "file": "LICENSES/Lua.txt",
+      "reason": "Upstream copyright and license notice text; the same notice may accompany a shared development dependency. This file contains no application implementation."
+    },
+    {
+      "file": "LICENSES/PCRE2.txt",
+      "reason": "Upstream copyright and license notice text; the same notice may accompany a shared development dependency. This file contains no application implementation."
+    },
+    {
+      "file": "LICENSES/Upstream-notices.txt",
+      "reason": "Upstream copyright and license notice text; the same notice may accompany a shared development dependency. This file contains no application implementation."
+    }
+  ]
+}

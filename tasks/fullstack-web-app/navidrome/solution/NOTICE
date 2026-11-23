@@ -1,0 +1,9 @@
+Navidrome 0.64.2 (https://github.com/navidrome/navidrome) is free software released under the GNU General Public License, version 3 only. The license text is in LICENSE.
+
+The unmodified Navidrome executable is extracted by solve.sh from the official
+release archive navidrome_0.64.2_linux_amd64.tar.gz, downloaded at build time from
+https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_linux_amd64.tar.gz.
+
+Corresponding source code: https://github.com/navidrome/navidrome/archive/refs/tags/v0.64.2.tar.gz (sha256 6d6de86c7509620dd445be9c22f2441225c9d86f009317c9b92923ad3a83ddb5). The same source is available from the upstream repository at the tag v0.64.2.
+
+start.sh only sets configuration through ND_ environment variables and starts the executable; it contains no part of Navidrome.

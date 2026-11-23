@@ -1,0 +1,377 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        78,
+        716,
+        387,
+        184
+      ],
+      "ref": "canvas0",
+      "tag": "canvas"
+    },
+    {
+      "bounds": [
+        509,
+        716,
+        385,
+        184
+      ],
+      "ref": "canvas1",
+      "tag": "canvas"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        146,
+        135,
+        24
+      ],
+      "ref": "e3005f4e3",
+      "tag": "button",
+      "text": "Back to Tools"
+    },
+    {
+      "bounds": [
+        49,
+        195,
+        62,
+        18
+      ],
+      "ref": "e307a47db",
+      "tag": "a",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        318,
+        583,
+        256
+      ],
+      "ref": "e7828b91e",
+      "tag": "div",
+      "text": "chapter-a.pdf"
+    },
+    {
+      "bounds": [
+        648,
+        318,
+        583,
+        256
+      ],
+      "ref": "e9c7ab557",
+      "tag": "div",
+      "text": "chapter-b.pdf"
+    },
+    {
+      "bounds": [
+        58,
+        607,
+        28,
+        28
+      ],
+      "disabled": true,
+      "ref": "e6b7a0a40",
+      "tag": "button",
+      "title": "Previous page"
+    },
+    {
+      "bounds": [
+        173,
+        607,
+        28,
+        28
+      ],
+      "ref": "ee37732e0",
+      "tag": "button",
+      "title": "Next page"
+    },
+    {
+      "bounds": [
+        236,
+        609,
+        65,
+        24
+      ],
+      "ref": "e77306d44",
+      "tag": "button",
+      "text": "Overlay"
+    },
+    {
+      "bounds": [
+        303,
+        609,
+        98,
+        24
+      ],
+      "ref": "e056f4f1f",
+      "tag": "button",
+      "text": "Side-by-Side"
+    },
+    {
+      "bounds": [
+        436,
+        610,
+        34,
+        22
+      ],
+      "ref": "e46a56169",
+      "tag": "button",
+      "title": "Previous change"
+    },
+    {
+      "bounds": [
+        482,
+        610,
+        34,
+        22
+      ],
+      "ref": "e7989e889",
+      "tag": "button",
+      "title": "Next change"
+    },
+    {
+      "bounds": [
+        549,
+        608,
+        26,
+        26
+      ],
+      "ref": "e49aadc59",
+      "tag": "button",
+      "title": "Zoom out"
+    },
+    {
+      "bounds": [
+        647,
+        608,
+        26,
+        26
+      ],
+      "ref": "ebb274ece",
+      "tag": "button",
+      "title": "Zoom in"
+    },
+    {
+      "bounds": [
+        685,
+        609,
+        35,
+        24
+      ],
+      "ref": "e8d16c1e2",
+      "tag": "button",
+      "text": "Fit",
+      "title": "Reset zoom to fit"
+    },
+    {
+      "bounds": [
+        975,
+        613,
+        81,
+        16
+      ],
+      "checked": true,
+      "label": "Sync scroll",
+      "ref": "ed002d5fb",
+      "tag": "label",
+      "text": "Sync scroll",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        1064,
+        613,
+        45,
+        16
+      ],
+      "checked": true,
+      "label": "OCR",
+      "ref": "e709fbd43",
+      "tag": "label",
+      "text": "OCR",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        1121,
+        607,
+        101,
+        28
+      ],
+      "ref": "e17c4fc54",
+      "tag": "button",
+      "text": "Export"
+    },
+    {
+      "bounds": [
+        924,
+        665,
+        294,
+        38
+      ],
+      "placeholder": "Search changes...",
+      "ref": "e5392364d",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        924,
+        736,
+        75,
+        21
+      ],
+      "ref": "e16c66909",
+      "tag": "button",
+      "text": "0 Deleted"
+    },
+    {
+      "bounds": [
+        1003,
+        736,
+        68,
+        21
+      ],
+      "ref": "ef360aeda",
+      "tag": "button",
+      "text": "0 Added"
+    },
+    {
+      "bounds": [
+        1075,
+        736,
+        75,
+        21
+      ],
+      "ref": "e3c2ee284",
+      "tag": "button",
+      "text": "1 Modified"
+    },
+    {
+      "bounds": [
+        924,
+        761,
+        70,
+        21
+      ],
+      "ref": "ef79be76b",
+      "tag": "button",
+      "text": "0 Moved"
+    },
+    {
+      "bounds": [
+        998,
+        761,
+        62,
+        21
+      ],
+      "ref": "e4d90cbcd",
+      "tag": "button",
+      "text": "0 Style"
+    },
+    {
+      "bounds": [
+        924,
+        812,
+        48,
+        21
+      ],
+      "ref": "e9ac08d25",
+      "tag": "button",
+      "text": "0 Text"
+    },
+    {
+      "bounds": [
+        976,
+        812,
+        63,
+        21
+      ],
+      "ref": "e8bac9c04",
+      "tag": "button",
+      "text": "0 Images"
+    },
+    {
+      "bounds": [
+        1043,
+        812,
+        64,
+        21
+      ],
+      "ref": "ec3d8b8d5",
+      "tag": "button",
+      "text": "1 Headers"
+    },
+    {
+      "bounds": [
+        1111,
+        812,
+        87,
+        21
+      ],
+      "ref": "e8744599e",
+      "tag": "button",
+      "text": "0 Annotations"
+    },
+    {
+      "bounds": [
+        924,
+        837,
+        82,
+        21
+      ],
+      "ref": "e744ae595",
+      "tag": "button",
+      "text": "0 Formatting"
+    },
+    {
+      "bounds": [
+        1010,
+        837,
+        91,
+        21
+      ],
+      "ref": "e6e5154c9",
+      "tag": "button",
+      "text": "0 Backgrounds"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "bentopdf-compare-export.pdf",
+      "ref": "d7c3d662f9c31",
+      "size": 3543
+    }
+  ],
+  "inputs": [
+    "chapter-a.pdf",
+    "chapter-b.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›Compare PDFs\nCompare PDFs\n\nCompare two PDFs side by side.\n\nchapter-a.pdf\n\nchapter-b.pdf\n\nPage 1 / 3\nOverlay\nSide-by-Side\n100%\nFit\nSync scroll\nOCR\nExport\nCHAPTER-A.PDF\nCHAPTER-B.PDF\nCHANGE TYPE\n0\nDeleted\n0\nAdded\n1\nModified\n0\nMoved\n0\nStyle\nCONTENT\n0\nText\n0\nImages\n1\nHeaders\n0\nAnnotations\n0\nFormatting\n0\nBackgrounds\nMODIFIED\n1\nReplaced \"Alpha Cove\" with \"Delta Island\"\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/compare-pdfs.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

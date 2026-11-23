@@ -1,0 +1,294 @@
+{
+  "focused": "ea2e70c54",
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        1024
+      ],
+      "name": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),",
+      "ref": "e93ed40b7",
+      "role": "frame",
+      "states": [
+        "active"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        25
+      ],
+      "name": "",
+      "ref": "e37b0c28a",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        39,
+        25
+      ],
+      "name": "File",
+      "ref": "eae5e7196",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        39,
+        19,
+        75,
+        25
+      ],
+      "name": "Accounts",
+      "ref": "ecb5893cc",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        114,
+        19,
+        49,
+        25
+      ],
+      "name": "Tools",
+      "ref": "ec5eeafb2",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        163,
+        19,
+        48,
+        25
+      ],
+      "name": "View",
+      "ref": "eb0ba3d40",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        211,
+        19,
+        46,
+        25
+      ],
+      "name": "Help",
+      "ref": "ef594ac36",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        1,
+        995,
+        200,
+        6
+      ],
+      "name": "",
+      "ref": "ef36204a0",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        213,
+        93,
+        274,
+        19
+      ],
+      "name": "Budget Planner for Year: 2026",
+      "ref": "ed5a4731a",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        214,
+        115,
+        300,
+        34
+      ],
+      "name": "View Planned Budget Categories",
+      "ref": "ea2e70c54",
+      "role": "push button",
+      "states": [
+        "focused"
+      ]
+    },
+    {
+      "bounds": [
+        378,
+        151,
+        120,
+        17
+      ],
+      "name": "$36600.00",
+      "ref": "e57c7d218",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        568,
+        151,
+        120,
+        17
+      ],
+      "name": "$18300.00",
+      "ref": "e72b1e744",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        784,
+        151,
+        74,
+        17
+      ],
+      "name": "$-18300.00",
+      "ref": "eae31e849",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        378,
+        173,
+        120,
+        17
+      ],
+      "name": "$18740.00",
+      "ref": "e937d85ba",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        568,
+        173,
+        120,
+        17
+      ],
+      "name": "$9416.00",
+      "ref": "ec0e88a4b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        784,
+        173,
+        61,
+        17
+      ],
+      "name": "$9324.00",
+      "ref": "e3f1e5d8c",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        212,
+        151,
+        57,
+        17
+      ],
+      "name": "Income:",
+      "ref": "eaa3b1045",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        293,
+        151,
+        75,
+        17
+      ],
+      "name": "Estimated:",
+      "ref": "e8af9ec2a",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        508,
+        151,
+        50,
+        17
+      ],
+      "name": "Actual:",
+      "ref": "e101f8884",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        698,
+        151,
+        76,
+        17
+      ],
+      "name": "Difference:",
+      "ref": "ea214c33f",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        212,
+        173,
+        71,
+        17
+      ],
+      "name": "Expenses:",
+      "ref": "eaba6b9e4",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        293,
+        173,
+        75,
+        17
+      ],
+      "name": "Estimated:",
+      "ref": "eae93da14",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        508,
+        173,
+        50,
+        17
+      ],
+      "name": "Actual:",
+      "ref": "ec22a893e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        698,
+        173,
+        76,
+        17
+      ],
+      "name": "Difference:",
+      "ref": "e1430fa90",
+      "role": "label"
+    }
+  ],
+  "screen": [
+    1280,
+    1024
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": true,
+      "bounds": [
+        0,
+        38,
+        1280,
+        1005
+      ],
+      "ref": "w5b3c0310",
+      "title": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),"
+    }
+  ]
+}

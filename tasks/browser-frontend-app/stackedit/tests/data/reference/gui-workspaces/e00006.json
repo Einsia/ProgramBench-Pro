@@ -1,0 +1,496 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "aria": "Toggle explorer",
+      "bounds": [
+        4,
+        4,
+        38,
+        36
+      ],
+      "ref": "ec7f51653",
+      "tag": "button",
+      "title": "Toggle explorer"
+    },
+    {
+      "aria": "Toggle side bar",
+      "bounds": [
+        958,
+        4,
+        38,
+        36
+      ],
+      "ref": "ea06d0b6b",
+      "tag": "button",
+      "title": "Toggle side bar"
+    },
+    {
+      "bounds": [
+        716,
+        4,
+        146,
+        36
+      ],
+      "label": "Welcome file",
+      "ref": "ea114dae2",
+      "tag": "input",
+      "type": "text",
+      "value": "Welcome file"
+    },
+    {
+      "aria": "Synchronize now",
+      "bounds": [
+        871,
+        4,
+        34,
+        36
+      ],
+      "disabled": true,
+      "ref": "e480c8073",
+      "tag": "button",
+      "title": "Synchronize now"
+    },
+    {
+      "aria": "Publish now",
+      "bounds": [
+        915,
+        4,
+        34,
+        36
+      ],
+      "disabled": true,
+      "ref": "e2878dba3",
+      "tag": "button",
+      "title": "Publish now"
+    },
+    {
+      "aria": "Undo",
+      "bounds": [
+        54,
+        4,
+        34,
+        36
+      ],
+      "ref": "ed972f7af",
+      "tag": "button",
+      "title": "Undo"
+    },
+    {
+      "aria": "Redo",
+      "bounds": [
+        88,
+        4,
+        34,
+        36
+      ],
+      "disabled": true,
+      "ref": "ed30b390f",
+      "tag": "button",
+      "title": "Redo"
+    },
+    {
+      "aria": "Bold – Ctrl+Shift+B",
+      "bounds": [
+        130,
+        4,
+        34,
+        36
+      ],
+      "ref": "ea31dff83",
+      "tag": "button",
+      "title": "Bold – Ctrl+Shift+B"
+    },
+    {
+      "aria": "Italic – Ctrl+Shift+I",
+      "bounds": [
+        164,
+        4,
+        34,
+        36
+      ],
+      "ref": "ece8e9a2b",
+      "tag": "button",
+      "title": "Italic – Ctrl+Shift+I"
+    },
+    {
+      "aria": "Heading – Ctrl+Shift+H",
+      "bounds": [
+        198,
+        4,
+        34,
+        36
+      ],
+      "ref": "ee31adf97",
+      "tag": "button",
+      "title": "Heading – Ctrl+Shift+H"
+    },
+    {
+      "aria": "Strikethrough – Ctrl+Shift+S",
+      "bounds": [
+        232,
+        4,
+        34,
+        36
+      ],
+      "ref": "e504de92f",
+      "tag": "button",
+      "title": "Strikethrough – Ctrl+Shift+S"
+    },
+    {
+      "aria": "Unordered list – Ctrl+Shift+U",
+      "bounds": [
+        274,
+        4,
+        34,
+        36
+      ],
+      "ref": "e085fcfef",
+      "tag": "button",
+      "title": "Unordered list – Ctrl+Shift+U"
+    },
+    {
+      "aria": "Ordered list – Ctrl+Shift+O",
+      "bounds": [
+        308,
+        4,
+        34,
+        36
+      ],
+      "ref": "ef710c88b",
+      "tag": "button",
+      "title": "Ordered list – Ctrl+Shift+O"
+    },
+    {
+      "aria": "Check list – Ctrl+Shift+C",
+      "bounds": [
+        342,
+        4,
+        34,
+        36
+      ],
+      "ref": "e6821dd9b",
+      "tag": "button",
+      "title": "Check list – Ctrl+Shift+C"
+    },
+    {
+      "aria": "Blockquote – Ctrl+Shift+Q",
+      "bounds": [
+        384,
+        4,
+        34,
+        36
+      ],
+      "ref": "ee12273bf",
+      "tag": "button",
+      "title": "Blockquote – Ctrl+Shift+Q"
+    },
+    {
+      "aria": "Code – Ctrl+Shift+K",
+      "bounds": [
+        418,
+        4,
+        34,
+        36
+      ],
+      "ref": "e369da927",
+      "tag": "button",
+      "title": "Code – Ctrl+Shift+K"
+    },
+    {
+      "aria": "Table – Ctrl+Shift+T",
+      "bounds": [
+        452,
+        4,
+        34,
+        36
+      ],
+      "ref": "efe77f797",
+      "tag": "button",
+      "title": "Table – Ctrl+Shift+T"
+    },
+    {
+      "aria": "Link – Ctrl+Shift+L",
+      "bounds": [
+        486,
+        4,
+        34,
+        36
+      ],
+      "ref": "ea7c140a7",
+      "tag": "button",
+      "title": "Link – Ctrl+Shift+L"
+    },
+    {
+      "aria": "Image – Ctrl+Shift+G",
+      "bounds": [
+        520,
+        4,
+        34,
+        36
+      ],
+      "ref": "eedcb6ccf",
+      "tag": "button",
+      "title": "Image – Ctrl+Shift+G"
+    },
+    {
+      "bounds": [
+        0,
+        44,
+        487,
+        456
+      ],
+      "editable": true,
+      "ref": "efb0be92b",
+      "tag": "pre",
+      "text": "Still editable.",
+      "value": "Still editable.\n",
+      "value_truncated": false
+    },
+    {
+      "aria": "Toggle navigation bar",
+      "bounds": [
+        487,
+        47,
+        26,
+        26
+      ],
+      "ref": "e98fccd07",
+      "tag": "button",
+      "title": "Toggle navigation bar"
+    },
+    {
+      "aria": "Toggle side preview",
+      "bounds": [
+        487,
+        76,
+        26,
+        26
+      ],
+      "ref": "e594daaff",
+      "tag": "button",
+      "title": "Toggle side preview"
+    },
+    {
+      "aria": "Reader mode",
+      "bounds": [
+        487,
+        105,
+        26,
+        26
+      ],
+      "ref": "e2b927937",
+      "tag": "button",
+      "title": "Reader mode"
+    },
+    {
+      "aria": "Toggle focus mode",
+      "bounds": [
+        487,
+        793,
+        26,
+        26
+      ],
+      "ref": "eedaa47cb",
+      "tag": "button",
+      "title": "Toggle focus mode"
+    },
+    {
+      "aria": "Toggle scroll sync",
+      "bounds": [
+        487,
+        822,
+        26,
+        26
+      ],
+      "ref": "ed740000f",
+      "tag": "button",
+      "title": "Toggle scroll sync"
+    },
+    {
+      "aria": "Toggle status bar",
+      "bounds": [
+        487,
+        851,
+        26,
+        26
+      ],
+      "ref": "eac7847f7",
+      "tag": "button",
+      "title": "Toggle status bar"
+    },
+    {
+      "aria": "Main menu",
+      "bounds": [
+        1004,
+        4,
+        38,
+        36
+      ],
+      "ref": "ecddeaecf",
+      "tag": "button",
+      "title": "Main menu"
+    },
+    {
+      "aria": "Close side bar",
+      "bounds": [
+        1238,
+        4,
+        38,
+        36
+      ],
+      "ref": "ee7c9cd2f",
+      "tag": "button",
+      "title": "Close side bar"
+    },
+    {
+      "bounds": [
+        1010,
+        54,
+        260,
+        59
+      ],
+      "ref": "ef4593e35",
+      "tag": "a",
+      "text": "1 Manage workspaces List, rename, remove workspaces"
+    },
+    {
+      "bounds": [
+        1010,
+        134,
+        260,
+        44
+      ],
+      "ref": "e989c01f2",
+      "tag": "a",
+      "text": "current Protected harbor"
+    },
+    {
+      "bounds": [
+        1010,
+        200,
+        260,
+        40
+      ],
+      "ref": "e2962610c",
+      "tag": "a",
+      "text": "Add a CouchDB workspace"
+    },
+    {
+      "bounds": [
+        1010,
+        240,
+        260,
+        40
+      ],
+      "ref": "e8700f247",
+      "tag": "a",
+      "text": "Add a GitHub workspace"
+    },
+    {
+      "bounds": [
+        1010,
+        280,
+        260,
+        40
+      ],
+      "ref": "e7c735507",
+      "tag": "a",
+      "text": "Add a GitLab workspace"
+    },
+    {
+      "bounds": [
+        1010,
+        320,
+        260,
+        40
+      ],
+      "ref": "e898071ef",
+      "tag": "a",
+      "text": "Add a Google Drive workspace"
+    },
+    {
+      "aria": "Close modal",
+      "bounds": [
+        830,
+        48,
+        32,
+        32
+      ],
+      "ref": "e6ad5941f",
+      "tag": "button",
+      "title": "Close modal"
+    },
+    {
+      "aria": "Edit name",
+      "bounds": [
+        760,
+        188,
+        30,
+        30
+      ],
+      "ref": "e68eab5b7",
+      "tag": "button",
+      "title": "Edit name"
+    },
+    {
+      "aria": "Remove",
+      "bounds": [
+        790,
+        188,
+        30,
+        30
+      ],
+      "ref": "ee4a8acff",
+      "tag": "button",
+      "title": "Remove"
+    },
+    {
+      "aria": "Copy URL",
+      "bounds": [
+        776,
+        219,
+        22,
+        22
+      ],
+      "ref": "e8d7fb2df",
+      "tag": "button",
+      "title": "Copy URL"
+    },
+    {
+      "aria": "Open workspace",
+      "bounds": [
+        798,
+        219,
+        22,
+        22
+      ],
+      "ref": "e9f1fe696",
+      "tag": "a",
+      "title": "Open workspace"
+    },
+    {
+      "bounds": [
+        726,
+        296,
+        94,
+        45
+      ],
+      "ref": "e0967ec34",
+      "tag": "button",
+      "text": "Close"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "drawing": [],
+  "drawing_truncated": false,
+  "text": "Still editable.\nMarkdown\n16\nbytes\n2\nwords\n1\nlines\nLn 1, Col 15\nHTML\n14\ncharacters\n2\nwords\n1\nparagraphs\nWorkspaces\nThe following workspaces are accessible:\nProtected harbor\nhttp://127.0.0.1:3000/app\navailable offline",
+  "text_truncated": false,
+  "title": "StackEdit",
+  "url": "/",
+  "viewport": [
+    1280,
+    900
+  ]
+}

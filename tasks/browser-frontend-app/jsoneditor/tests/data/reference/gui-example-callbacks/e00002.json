@@ -1,0 +1,477 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        13,
+        55,
+        26,
+        26
+      ],
+      "ref": "e27c3673b",
+      "tag": "button",
+      "title": "Expandir todos campos"
+    },
+    {
+      "bounds": [
+        43,
+        55,
+        26,
+        26
+      ],
+      "ref": "e6acdf459",
+      "tag": "button",
+      "title": "Fechar todos campos"
+    },
+    {
+      "bounds": [
+        73,
+        55,
+        26,
+        26
+      ],
+      "ref": "ef0ac90b4",
+      "tag": "button",
+      "title": "Organizar os filhos"
+    },
+    {
+      "bounds": [
+        103,
+        55,
+        26,
+        26
+      ],
+      "ref": "eee565535",
+      "tag": "button",
+      "title": "Filtrar, ordenar ou transformar conteúdos"
+    },
+    {
+      "bounds": [
+        141,
+        55,
+        26,
+        26
+      ],
+      "ref": "e0e64fcda",
+      "tag": "button",
+      "title": "Desfazer último ação (Ctrl+Z)"
+    },
+    {
+      "bounds": [
+        171,
+        55,
+        26,
+        26
+      ],
+      "disabled": true,
+      "ref": "e173539f7",
+      "tag": "button",
+      "title": "Refazer (Ctrl+Shift+Z)"
+    },
+    {
+      "bounds": [
+        320,
+        56,
+        18,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e1d35618c",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        339,
+        57,
+        126,
+        20
+      ],
+      "context": "Search fields and values",
+      "ref": "e3b24d854",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        466,
+        56,
+        16,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e44fcfed4",
+      "tag": "button",
+      "title": "Next result (Enter)"
+    },
+    {
+      "bounds": [
+        482,
+        56,
+        16,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e0ed8f5b1",
+      "tag": "button",
+      "title": "Previous result (Shift + Enter)"
+    },
+    {
+      "bounds": [
+        33,
+        112,
+        24,
+        24
+      ],
+      "ref": "ea4577ef3",
+      "tag": "button",
+      "title": "Clique para abrir o menu de ações (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        57,
+        112,
+        24,
+        24
+      ],
+      "ref": "eb0143c15",
+      "tag": "button",
+      "title": "Clique para expandir/encolher este campo (Ctrl+E). Ctrl+Click para expandir/encolher incluindo todos os filhos."
+    },
+    {
+      "bounds": [
+        140,
+        113,
+        31,
+        22
+      ],
+      "ref": "e245c4b61",
+      "tag": "div",
+      "text": "{6}",
+      "title": "object containing 6 items"
+    },
+    {
+      "bounds": [
+        9,
+        136,
+        24,
+        24
+      ],
+      "ref": "edd965066",
+      "tag": "button",
+      "title": "Arraste para mover este campo (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        136,
+        24,
+        24
+      ],
+      "ref": "ea4577ef3x2",
+      "tag": "button",
+      "title": "Clique para abrir o menu de ações (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        81,
+        136,
+        24,
+        24
+      ],
+      "ref": "eb0143c15x2",
+      "tag": "button",
+      "title": "Clique para expandir/encolher este campo (Ctrl+E). Ctrl+Click para expandir/encolher incluindo todos os filhos."
+    },
+    {
+      "bounds": [
+        106,
+        137,
+        48,
+        22
+      ],
+      "ref": "ef1f3e010",
+      "tag": "div",
+      "text": "array",
+      "value": "array"
+    },
+    {
+      "bounds": [
+        156,
+        137,
+        31,
+        22
+      ],
+      "ref": "e3bbf3c2b",
+      "tag": "div",
+      "text": "[3]",
+      "title": "array containing 3 items"
+    },
+    {
+      "bounds": [
+        9,
+        160,
+        24,
+        24
+      ],
+      "ref": "edd965066x2",
+      "tag": "button",
+      "title": "Arraste para mover este campo (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        160,
+        24,
+        24
+      ],
+      "ref": "ea4577ef3x3",
+      "tag": "button",
+      "title": "Clique para abrir o menu de ações (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        106,
+        161,
+        65,
+        22
+      ],
+      "ref": "eba495175",
+      "tag": "div",
+      "text": "boolean",
+      "value": "boolean"
+    },
+    {
+      "bounds": [
+        184,
+        163,
+        13,
+        13
+      ],
+      "checked": true,
+      "ref": "ecd10f8cf",
+      "tag": "input",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        201,
+        161,
+        40,
+        22
+      ],
+      "ref": "e39ebbf99",
+      "tag": "div",
+      "text": "true",
+      "value": "true"
+    },
+    {
+      "bounds": [
+        9,
+        184,
+        24,
+        24
+      ],
+      "ref": "edd965066x3",
+      "tag": "button",
+      "title": "Arraste para mover este campo (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        184,
+        24,
+        24
+      ],
+      "ref": "ea4577ef3x4",
+      "tag": "button",
+      "title": "Clique para abrir o menu de ações (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        106,
+        185,
+        40,
+        22
+      ],
+      "ref": "e83401d28",
+      "tag": "div",
+      "text": "null",
+      "value": "null"
+    },
+    {
+      "bounds": [
+        156,
+        185,
+        40,
+        22
+      ],
+      "ref": "e83401d28x2",
+      "tag": "div",
+      "text": "null",
+      "value": "null"
+    },
+    {
+      "bounds": [
+        9,
+        208,
+        24,
+        24
+      ],
+      "ref": "edd965066x4",
+      "tag": "button",
+      "title": "Arraste para mover este campo (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        208,
+        24,
+        24
+      ],
+      "ref": "ea4577ef3x5",
+      "tag": "button",
+      "title": "Clique para abrir o menu de ações (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        106,
+        209,
+        56,
+        22
+      ],
+      "ref": "e3af7925c",
+      "tag": "div",
+      "text": "number",
+      "value": "number"
+    },
+    {
+      "bounds": [
+        173,
+        209,
+        38,
+        22
+      ],
+      "ref": "e4a8e9882",
+      "tag": "div",
+      "text": "456",
+      "value": "456"
+    },
+    {
+      "bounds": [
+        9,
+        232,
+        24,
+        24
+      ],
+      "ref": "edd965066x5",
+      "tag": "button",
+      "title": "Arraste para mover este campo (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        232,
+        24,
+        24
+      ],
+      "ref": "ea4577ef3x6",
+      "tag": "button",
+      "title": "Clique para abrir o menu de ações (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        81,
+        232,
+        24,
+        24
+      ],
+      "ref": "eb0143c15x3",
+      "tag": "button",
+      "title": "Clique para expandir/encolher este campo (Ctrl+E). Ctrl+Click para expandir/encolher incluindo todos os filhos."
+    },
+    {
+      "bounds": [
+        106,
+        233,
+        56,
+        22
+      ],
+      "ref": "ed9e18e3a",
+      "tag": "div",
+      "text": "object",
+      "value": "object"
+    },
+    {
+      "bounds": [
+        164,
+        233,
+        31,
+        22
+      ],
+      "ref": "e18b741d1",
+      "tag": "div",
+      "text": "{2}",
+      "title": "object containing 2 items"
+    },
+    {
+      "bounds": [
+        9,
+        256,
+        24,
+        24
+      ],
+      "ref": "edd965066x6",
+      "tag": "button",
+      "title": "Arraste para mover este campo (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        256,
+        24,
+        24
+      ],
+      "ref": "ea4577ef3x7",
+      "tag": "button",
+      "title": "Clique para abrir o menu de ações (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        106,
+        257,
+        56,
+        22
+      ],
+      "ref": "e58f9dee8",
+      "tag": "div",
+      "text": "string",
+      "value": "string"
+    },
+    {
+      "bounds": [
+        173,
+        257,
+        98,
+        22
+      ],
+      "ref": "e7926c225",
+      "tag": "div",
+      "text": "Hello World",
+      "value": "Hello World"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "drawing": [],
+  "drawing_truncated": false,
+  "text": "JSONEditor has support for multiple languages (i18n), in this case uses\npt-BR\n.\nobject\n►\nnumber\nobject\n:",
+  "text_truncated": false,
+  "title": "JSONEditor | Translate",
+  "url": "/examples/14_translate.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

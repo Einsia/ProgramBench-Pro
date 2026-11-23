@@ -1,0 +1,232 @@
+{
+  "counts": {
+    "assertions": 1124,
+    "backend": 1039,
+    "checkpoints": 1087,
+    "features": 31,
+    "frontend": 85,
+    "gui_episodes": 41,
+    "program_episodes": 19,
+    "episodes": 60
+  },
+  "features": {
+    "administration": {
+      "assertions": 5,
+      "episodes": [
+        "admin-pages",
+        "players-page"
+      ]
+    },
+    "annotations": {
+      "assertions": 23,
+      "episodes": [
+        "favourites",
+        "album-rating",
+        "album-favourite",
+        "play-history",
+        "artist-rating"
+      ]
+    },
+    "artwork": {
+      "assertions": 15,
+      "episodes": [
+        "protocol-artwork"
+      ]
+    },
+    "authentication": {
+      "assertions": 3,
+      "episodes": [
+        "sign-in"
+      ]
+    },
+    "browse": {
+      "assertions": 287,
+      "episodes": [
+        "protocol-browse"
+      ]
+    },
+    "browsing": {
+      "assertions": 15,
+      "episodes": [
+        "browse-albums",
+        "library-views",
+        "artist-pages",
+        "song-sorting",
+        "album-details",
+        "album-pages",
+        "artist-albums"
+      ]
+    },
+    "first-run": {
+      "assertions": 2,
+      "episodes": [
+        "first-run-admin"
+      ]
+    },
+    "format": {
+      "assertions": 52,
+      "episodes": [
+        "protocol-format"
+      ]
+    },
+    "libraries": {
+      "assertions": 53,
+      "episodes": [
+        "protocol-libraries",
+        "library-scan",
+        "missing-files",
+        "library-create"
+      ]
+    },
+    "library": {
+      "assertions": 24,
+      "episodes": [
+        "protocol-library"
+      ]
+    },
+    "lyrics": {
+      "assertions": 11,
+      "episodes": [
+        "protocol-lyrics"
+      ]
+    },
+    "media": {
+      "assertions": 23,
+      "episodes": [
+        "protocol-media"
+      ]
+    },
+    "more": {
+      "assertions": 38,
+      "episodes": [
+        "protocol-more"
+      ]
+    },
+    "native": {
+      "assertions": 28,
+      "episodes": [
+        "protocol-native"
+      ]
+    },
+    "permissions": {
+      "assertions": 9,
+      "episodes": [
+        "own-account",
+        "ordinary-account-scope"
+      ]
+    },
+    "perms": {
+      "assertions": 6,
+      "episodes": [
+        "protocol-perms"
+      ]
+    },
+    "persist": {
+      "assertions": 20,
+      "episodes": [
+        "protocol-persist"
+      ]
+    },
+    "persistence": {
+      "assertions": 2,
+      "episodes": [
+        "restart-persistence"
+      ]
+    },
+    "playback": {
+      "assertions": 3,
+      "episodes": [
+        "web-player"
+      ]
+    },
+    "playlists": {
+      "assertions": 82,
+      "episodes": [
+        "protocol-playlists",
+        "playlist-lifecycle",
+        "playlist-public",
+        "album-to-playlist",
+        "imported-playlist-page",
+        "playlist-tracks",
+        "smart-playlist"
+      ]
+    },
+    "preferences": {
+      "assertions": 1,
+      "episodes": [
+        "personal-language"
+      ]
+    },
+    "radios": {
+      "assertions": 8,
+      "episodes": [
+        "radio-stations",
+        "radio-list"
+      ]
+    },
+    "scan": {
+      "assertions": 21,
+      "episodes": [
+        "protocol-scan"
+      ]
+    },
+    "search": {
+      "assertions": 5,
+      "episodes": [
+        "song-search",
+        "song-filters"
+      ]
+    },
+    "shares": {
+      "assertions": 19,
+      "episodes": [
+        "protocol-shares"
+      ]
+    },
+    "sharing": {
+      "assertions": 7,
+      "episodes": [
+        "album-share",
+        "share-pages",
+        "share-delete"
+      ]
+    },
+    "smart": {
+      "assertions": 21,
+      "episodes": [
+        "protocol-smart"
+      ]
+    },
+    "social": {
+      "assertions": 115,
+      "episodes": [
+        "protocol-social"
+      ]
+    },
+    "sorts": {
+      "assertions": 55,
+      "episodes": [
+        "protocol-sorts"
+      ]
+    },
+    "tags": {
+      "assertions": 73,
+      "episodes": [
+        "protocol-tags"
+      ]
+    },
+    "users": {
+      "assertions": 98,
+      "episodes": [
+        "protocol-users",
+        "user-accounts",
+        "user-rights",
+        "user-edit-page",
+        "change-password"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

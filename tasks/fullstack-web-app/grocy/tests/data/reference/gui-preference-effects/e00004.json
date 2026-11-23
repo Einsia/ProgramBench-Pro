@@ -1,0 +1,590 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        12,
+        10,
+        250,
+        30
+      ],
+      "href": "/",
+      "ref": "e1323279754",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        0,
+        48,
+        250,
+        41
+      ],
+      "href": "/stockoverview",
+      "ref": "e1053475070",
+      "role": null,
+      "tag": "a",
+      "text": "Stock overview"
+    },
+    {
+      "bounds": [
+        0,
+        89,
+        250,
+        41
+      ],
+      "href": "/shoppinglist",
+      "ref": "e3484720244",
+      "role": null,
+      "tag": "a",
+      "text": "Shopping list"
+    },
+    {
+      "bounds": [
+        0,
+        132,
+        250,
+        41
+      ],
+      "href": "/recipes",
+      "ref": "e3605665942",
+      "role": null,
+      "tag": "a",
+      "text": "Recipes"
+    },
+    {
+      "bounds": [
+        0,
+        173,
+        250,
+        41
+      ],
+      "href": "/mealplan",
+      "ref": "e2044783333",
+      "role": null,
+      "tag": "a",
+      "text": "Meal plan"
+    },
+    {
+      "bounds": [
+        0,
+        216,
+        250,
+        41
+      ],
+      "href": "/choresoverview",
+      "ref": "e3381809840",
+      "role": null,
+      "tag": "a",
+      "text": "Chores overview"
+    },
+    {
+      "bounds": [
+        0,
+        257,
+        250,
+        41
+      ],
+      "href": "/tasks",
+      "ref": "e3412285266",
+      "role": null,
+      "tag": "a",
+      "text": "Tasks"
+    },
+    {
+      "bounds": [
+        0,
+        298,
+        250,
+        41
+      ],
+      "href": "/batteriesoverview",
+      "ref": "e1339919142",
+      "role": null,
+      "tag": "a",
+      "text": "Batteries overview"
+    },
+    {
+      "bounds": [
+        0,
+        339,
+        250,
+        41
+      ],
+      "href": "/equipment",
+      "ref": "e3517608074",
+      "role": null,
+      "tag": "a",
+      "text": "Equipment"
+    },
+    {
+      "bounds": [
+        0,
+        382,
+        250,
+        41
+      ],
+      "href": "/calendar",
+      "ref": "e2087124146",
+      "role": null,
+      "tag": "a",
+      "text": "Calendar"
+    },
+    {
+      "bounds": [
+        0,
+        425,
+        250,
+        41
+      ],
+      "href": "/purchase",
+      "ref": "e337229804",
+      "role": null,
+      "tag": "a",
+      "text": "Purchase"
+    },
+    {
+      "bounds": [
+        0,
+        466,
+        250,
+        41
+      ],
+      "href": "/consume",
+      "ref": "e2179824942",
+      "role": null,
+      "tag": "a",
+      "text": "Consume"
+    },
+    {
+      "bounds": [
+        0,
+        507,
+        250,
+        41
+      ],
+      "href": "/transfer",
+      "ref": "e3647083400",
+      "role": null,
+      "tag": "a",
+      "text": "Transfer"
+    },
+    {
+      "bounds": [
+        0,
+        548,
+        250,
+        41
+      ],
+      "href": "/inventory",
+      "ref": "e2792827466",
+      "role": null,
+      "tag": "a",
+      "text": "Inventory"
+    },
+    {
+      "bounds": [
+        0,
+        589,
+        250,
+        41
+      ],
+      "href": "/choretracking",
+      "ref": "e2922941790",
+      "role": null,
+      "tag": "a",
+      "text": "Chore tracking"
+    },
+    {
+      "bounds": [
+        0,
+        630,
+        250,
+        41
+      ],
+      "href": "/batterytracking",
+      "ref": "e1450042086",
+      "role": null,
+      "tag": "a",
+      "text": "Battery tracking"
+    },
+    {
+      "bounds": [
+        0,
+        673,
+        250,
+        41
+      ],
+      "href": "/purchase#sub-nav-manage-master-data",
+      "ref": "e761715877",
+      "role": null,
+      "tag": "a",
+      "text": "Manage master data"
+    },
+    {
+      "bounds": [
+        0,
+        852,
+        250,
+        49
+      ],
+      "ref": "e1866405181",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1039,
+        8,
+        113,
+        33
+      ],
+      "href": "/purchase",
+      "ref": "e977631619",
+      "role": null,
+      "tag": "a",
+      "text": "admin"
+    },
+    {
+      "bounds": [
+        1152,
+        8,
+        64,
+        33
+      ],
+      "href": "/purchase",
+      "ref": "e270618320",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1216,
+        8,
+        64,
+        33
+      ],
+      "href": "/purchase",
+      "ref": "e287395939",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        459,
+        56,
+        116,
+        35
+      ],
+      "ref": "e2538484127",
+      "role": null,
+      "tag": "button",
+      "text": "Scan mode off",
+      "title": "When enabled, after changing/scanning a product and if all fields could be automatically populated (by product and/or barcode defaults), the transaction is automatically submitted"
+    },
+    {
+      "bounds": [
+        455,
+        56,
+        124,
+        35
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e320448425",
+      "role": null,
+      "tag": "input",
+      "text": "Scan mode off",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        261,
+        138,
+        283,
+        38
+      ],
+      "ref": "e3936847315",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "Rice"
+    },
+    {
+      "bounds": [
+        509,
+        142,
+        32,
+        31
+      ],
+      "ref": "e2808760440",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        261,
+        220,
+        78,
+        38
+      ],
+      "focused": true,
+      "label": "Amount",
+      "min": "0.0001",
+      "name": "display_amount",
+      "ref": "e3235278682",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "2.5"
+    },
+    {
+      "bounds": [
+        406,
+        220,
+        173,
+        38
+      ],
+      "disabled": true,
+      "label": "Quantity unit",
+      "name": "qu_id",
+      "options": [
+        {
+          "disabled": false,
+          "label": "Item",
+          "selected": true,
+          "value": "4"
+        }
+      ],
+      "ref": "e2893625519",
+      "required": true,
+      "role": null,
+      "tag": "select",
+      "text": "Item",
+      "value": "4"
+    },
+    {
+      "bounds": [
+        261,
+        333,
+        279,
+        38
+      ],
+      "ref": "e1460821316",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "2026-04-09"
+    },
+    {
+      "bounds": [
+        285,
+        363,
+        99,
+        33
+      ],
+      "checked": false,
+      "label": "Never overdue",
+      "name": "datetimepicker-shortcut",
+      "proxy": true,
+      "ref": "e3334703318",
+      "role": null,
+      "tag": "input",
+      "text": "Never overdue",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        261,
+        441,
+        244,
+        38
+      ],
+      "label": "Price",
+      "min": "0.00",
+      "name": "price",
+      "ref": "e2538283290",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "2.00"
+    },
+    {
+      "bounds": [
+        285,
+        475,
+        71,
+        33
+      ],
+      "checked": true,
+      "label": "Item price",
+      "name": "price-type",
+      "proxy": true,
+      "ref": "e4069211409",
+      "role": null,
+      "tag": "input",
+      "text": "Item price",
+      "type": "radio",
+      "value": "unit-price"
+    },
+    {
+      "bounds": [
+        399,
+        475,
+        74,
+        33
+      ],
+      "checked": false,
+      "label": "Total price",
+      "name": "price-type",
+      "proxy": true,
+      "ref": "e217541890",
+      "role": null,
+      "tag": "input",
+      "text": "Total price",
+      "type": "radio",
+      "value": "total-price"
+    },
+    {
+      "bounds": [
+        261,
+        553,
+        283,
+        38
+      ],
+      "ref": "e1487471496",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        261,
+        635,
+        283,
+        38
+      ],
+      "ref": "e2509444035",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "Pantry"
+    },
+    {
+      "bounds": [
+        261,
+        717,
+        318,
+        38
+      ],
+      "label": "Note",
+      "name": "note",
+      "ref": "e3402785068",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        261,
+        771,
+        47,
+        38
+      ],
+      "ref": "e787436912",
+      "role": null,
+      "tag": "button",
+      "text": "OK"
+    },
+    {
+      "bounds": [
+        875,
+        67,
+        32,
+        23
+      ],
+      "href": "/product/1?returnto=%2Fpurchase",
+      "ref": "e198620232",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Edit product"
+    },
+    {
+      "bounds": [
+        835,
+        67,
+        36,
+        23
+      ],
+      "href": "/shoppinglistitem/new?embedded&updateexistingproduct&list=1&product=1",
+      "ref": "e3605221913",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Add to shopping list"
+    },
+    {
+      "bounds": [
+        732,
+        87,
+        99,
+        23
+      ],
+      "href": "/stockjournal?embedded&product=1",
+      "ref": "e313689305",
+      "role": null,
+      "tag": "a",
+      "text": "Stock journal"
+    },
+    {
+      "bounds": [
+        805,
+        110,
+        98,
+        23
+      ],
+      "href": "/stockentries?embedded&product=1",
+      "ref": "e1127393418",
+      "role": null,
+      "tag": "a",
+      "text": "Stock entries"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": " Stock overview\n Shopping list\n Recipes\n Meal plan\n Chores overview\n Tasks\n Batteries overview\n Equipment\n Calendar\n Purchase\n Consume\n Transfer\n Inventory\n Chore tracking\n Battery tracking\n Manage master data\n admin\nPurchase\nScan mode off\nProduct \nAmount\nQuantity unit \nItem\nDue date in a month\nNever overdue\nPrice\nItem price\n \nTotal price\nStore\nLocation\nNote\nOK\nProduct overview\nStock journal\nStock entries\nRice\nStock amount: 8 Items\nStock value: $16.00\nDefault location: Pantry\nLast purchased: 2026-03-10 Today\nLast used: Never\nLast price: $2.00 per Item\nAverage price: $2.00 per Item\nAverage shelf life: a month\nSpoil rate: 0%\n\nPrice history",
+  "text_truncated": false,
+  "title": "Purchase | Grocy",
+  "url": "/purchase",
+  "viewport": [
+    1280,
+    900
+  ]
+}

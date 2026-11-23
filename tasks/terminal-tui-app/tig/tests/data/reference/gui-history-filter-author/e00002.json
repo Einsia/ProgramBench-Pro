@@ -1,0 +1,114 @@
+{
+  "base_style": [
+    "bold",
+    "fg=white",
+    "bg=blue"
+  ],
+  "cursor": {
+    "column": 119,
+    "hidden": true,
+    "row": 34
+  },
+  "process": "running",
+  "screen": [
+    "00|2024-01-06 12:00 +0000 Bea Meadow [main] Update trail heading",
+    "01|2024-01-02 12:00 +0000 Bea Meadow [archive] Document river access",
+    "02|",
+    "03|",
+    "04|",
+    "05|",
+    "06|",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|",
+    "12|",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|",
+    "19|",
+    "20|",
+    "21|",
+    "22|",
+    "23|",
+    "24|",
+    "25|",
+    "26|",
+    "27|",
+    "28|",
+    "29|",
+    "30|",
+    "31|",
+    "32|",
+    "33|",
+    "34|[main] cd925f48f7d4e81b937c4796963726ec199bd01f - commit 1 of 2                                                     100%",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        61
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=green"
+      ],
+      "text": "2024-01-06 12:00 +0000 Bea Meadow [main] Update trail heading"
+    },
+    {
+      "columns": [
+        0,
+        23
+      ],
+      "row": 1,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "2024-01-02 12:00 +0000 "
+    },
+    {
+      "columns": [
+        23,
+        34
+      ],
+      "row": 1,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Bea Meadow "
+    },
+    {
+      "columns": [
+        34,
+        43
+      ],
+      "row": 1,
+      "style": [
+        "fg=cyan"
+      ],
+      "text": "[archive]"
+    },
+    {
+      "columns": [
+        43,
+        120
+      ],
+      "row": 1,
+      "style": [
+        "default"
+      ],
+      "text": " Document river access                                                       "
+    }
+  ]
+}

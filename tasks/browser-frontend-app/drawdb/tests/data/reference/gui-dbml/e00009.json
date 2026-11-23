@@ -1,0 +1,351 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        376,
+        77,
+        904,
+        823
+      ],
+      "ref": "canvas0",
+      "tag": "svg"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        0,
+        9,
+        82,
+        53
+      ],
+      "ref": "e75fe0e2a",
+      "tag": "a"
+    },
+    {
+      "bounds": [
+        1140,
+        16,
+        112,
+        36
+      ],
+      "ref": "eed4bab7b",
+      "tag": "button",
+      "text": "Share"
+    },
+    {
+      "aria": "Editor content",
+      "bounds": [
+        169,
+        305,
+        1,
+        1
+      ],
+      "label": "Table users [ headercolor: # 175 e7a ] { id int [ pk , increment ,",
+      "ref": "ee9de1417",
+      "role": "textbox",
+      "tag": "textarea",
+      "value": "}\n\nTable labels [headercolor: #175e7a] {\n\tid int [ pk, increment, not null, unique ]\n\tlabel varchar(30) [ unique ]\n}\n\nTable post_tags [headercolor: #175e7a] {\n\tpost_id int [ pk, not null ]\n\ttag_id int [ pk, not null ]\n"
+    },
+    {
+      "bounds": [
+        318,
+        776,
+        32,
+        32
+      ],
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        20,
+        825,
+        29,
+        16
+      ],
+      "ref": "ec66cb417",
+      "tag": "div",
+      "text": "4",
+      "title": "Tables"
+    },
+    {
+      "bounds": [
+        61,
+        824,
+        31,
+        18
+      ],
+      "ref": "e76f83114",
+      "tag": "div",
+      "text": "1",
+      "title": "Relationships"
+    },
+    {
+      "bounds": [
+        217,
+        823,
+        83,
+        20
+      ],
+      "ref": "e2152f4c5",
+      "tag": "button",
+      "text": "Structure"
+    },
+    {
+      "bounds": [
+        299,
+        823,
+        61,
+        20
+      ],
+      "ref": "e7cfe6d9f",
+      "tag": "button",
+      "text": "Code"
+    },
+    {
+      "bounds": [
+        8,
+        855,
+        358,
+        40
+      ],
+      "expanded": false,
+      "ref": "ef121d4d8",
+      "role": "button",
+      "tag": "div",
+      "text": "Problems 0"
+    },
+    {
+      "bounds": [
+        418,
+        195,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx2",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        418,
+        232,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx3",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        708,
+        195,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx4",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        708,
+        232,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx5",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        708,
+        269,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx6",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        708,
+        306,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx7",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        998,
+        195,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx8",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        998,
+        232,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx9",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        708,
+        495,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx10",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        708,
+        532,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx11",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        549,
+        842,
+        34,
+        36
+      ],
+      "ref": "ea0fc21fdx12",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        655,
+        842,
+        34,
+        36
+      ],
+      "ref": "ea0fc21fdx13",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        706,
+        846,
+        36,
+        28
+      ],
+      "ref": "ea0fc21fdx14",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        742,
+        846,
+        36,
+        28
+      ],
+      "disabled": true,
+      "ref": "ea0fc21fdx15",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        795,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx16",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        837,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx17",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        879,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx18",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        921,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx19",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        980,
+        841,
+        39,
+        36
+      ],
+      "ref": "ea0fc21fdx20",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1036,
+        844,
+        40,
+        32
+      ],
+      "ref": "ea0fc21fdx21",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1093,
+        841,
+        34,
+        36
+      ],
+      "ref": "ea0fc21fdx22",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1144,
+        841,
+        36,
+        36
+      ],
+      "ref": "ea0fc21fdx23",
+      "tag": "button"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "text": "Diagrams\n/\nBlog\nFile\nEdit\nView\nSettings\nHelp\nLast saved 11/1/2026, 10:28:05 AM\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\nTable\nusers\n[\nheadercolor: #\n175\ne7a\n]\n{\nid\nint\n[\npk\n,\nincrement\n,\nnot\nnull\n,\nname\nvarchar\n(\n60\n)\n[\nnot\nnull\n]\n}\nTable\nposts\n[\nheadercolor: #\n175\ne7a\n]\n{\nid\nint\n[\npk\n,\nincrement\n,\nnot\nnull\n,\nuser_id\nint\n[\nnot\nnull\n]\ntitle\nvarchar\n(\n120\n)\nbody\ntext\n(\n2000\n)\n}\nTable\nlabels\n[\nheadercolor: #\n175\ne7a\n]\n{\nid\nint\n[\npk\n,\nincrement\n,\nnot\nnull\n,\nlabel\nvarchar\n(\n30\n)\n[\nunique\n]\n}\nTable\npost_tags\n[\nheadercolor: #\n175\ne7a\npost_id\nint\n[\npk\n,\nnot\nnull\n]\ntag_id\nint\n[\npk\n,\nnot\nnull\n]\n}\nRef\nfk_posts_user_id_users\n{\nposts.user_id > users.id\n[\ndelete\n}\nfk_posts_user_id_users\nn\n1\nusers\nid\nINT\nname\nVARCHAR(60)\nposts\nid\nINT\nuser_id\nINT\ntitle\n?\nVARCHAR(120)\nbody\n?\nTEXT(2000)\nlabels\nid\nINT\nlabel\n?\nVARCHAR(30)\npost_tags\npost_id\nINT\ntag_id\nINT\n100\n%",
+  "text_truncated": false,
+  "title": "Editor | drawDB",
+  "url": "/editor/diagrams/8f9b0035-e701-45f6-8703-79c9b945a710",
+  "viewport": [
+    1280,
+    900
+  ]
+}

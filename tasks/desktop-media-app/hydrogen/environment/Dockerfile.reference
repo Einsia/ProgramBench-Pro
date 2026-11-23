@@ -1,0 +1,23 @@
+FROM program-bench-hydrogen-base:1.0.0
+# Install the reference product and the shared runtime.
+COPY solution /tmp/standard-solution
+COPY environment/runtime/ /opt/blackbox/runtime/
+# The reference installation is read-only to the product user.
+RUN SOLUTION_DIR=/app/solution bash /tmp/standard-solution/solve.sh && rm -rf /tmp/standard-solution && \
+    chown -R root:root /app/solution && \
+    find /app/solution -type d -exec chmod 0711 {} + && \
+    find /app/solution -type f -perm /111 -exec chmod 0555 {} + && \
+    find /app/solution -type f ! -perm /111 -exec chmod 0444 {} + && \
+    chmod -R u=rwX,go=rX /opt/blackbox/runtime && \
+    mkdir -p /reference /blackbox && chown -R root:root /reference /blackbox
+# Qt's factory loaders enumerate the installed platform, image and input plugin directories.
+RUN find /app/solution/runtime/usr/plugins -type d -exec chmod 0755 {} +
+# Hydrogen discovers factory drumkits and enumerates their samples when exporting a kit.
+RUN find /app/solution/runtime/usr/share/hydrogen/data/drumkits -type d -exec chmod 0755 {} +
+# Language, theme and demo-song menus enumerate these installed data directories.
+RUN chmod 0755 /app/solution/runtime/usr/share/hydrogen/data/i18n \
+      /app/solution/runtime/usr/share/hydrogen/data/themes /app/solution/runtime/usr/share/hydrogen/data/demo_songs
+ENV PYTHONDONTWRITEBYTECODE=1 LANG=C.UTF-8 LC_ALL=C.UTF-8 TZ=UTC TMPDIR=/tmp
+USER root
+ENTRYPOINT ["/usr/bin/tini", "--", "python3", "-I", "-B", "/opt/blackbox/runtime/reference_entrypoint.py"]
+CMD ["python3", "-B", "-I", "/opt/blackbox/runtime/broker.py", "--user", "agent", "--socket-mode", "0600", "--log-dir", "/reference/logs"]

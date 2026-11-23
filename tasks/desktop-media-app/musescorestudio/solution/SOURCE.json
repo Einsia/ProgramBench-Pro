@@ -1,0 +1,37 @@
+{
+  "task": "musescorestudio",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "MuseScore Studio",
+    "version": "4.7.6",
+    "homepage": "https://musescore.org/",
+    "repository": "https://github.com/musescore/MuseScore",
+    "license": "GPL-3.0-only"
+  },
+  "downloads": [
+    {
+      "file": "MuseScore-Studio-4.7.6.261022093-x86_64.AppImage",
+      "url": "https://github.com/musescore/MuseScore/releases/download/v4.7.6/MuseScore-Studio-4.7.6.261022093-x86_64.AppImage",
+      "sha256": "5fcbd1f292270eca5c3867d56b767c31a173a155216a415f5caee22553f8e7a6"
+    }
+  ],
+  "bundled": [],
+  "modifications": "Upstream executable, launcher and libraries are unchanged. Installation replaces the bundled example plugin, extension and automation-script directories with empty directories. A separate launcher initializes the profile and retries one early desktop startup crash. A separate process guard confines writes to profile/document directories and restricts child executables; upstream files remain unchanged.",
+  "configuration": "First-launch setup completed; welcome and update dialogs, developer mode, autosave and backup disabled; local saving selected. Conversion commands use a separate profile and desktop session.",
+  "notes": {
+    "entrypoint": "start.sh",
+    "installer": "solve.sh",
+    "corresponding_source": {
+      "repository": "https://github.com/musescore/MuseScore",
+      "tag": "v4.7.6",
+      "commit": "96480d58445e3b24b230a3fe7d4725d639aa2eb3",
+      "archive": "https://github.com/musescore/MuseScore/archive/refs/tags/v4.7.6.tar.gz"
+    },
+    "startup_retry": {
+      "maximum_retries": 1,
+      "startup_seconds": 20
+    },
+    "component_notices": "LICENSES and the installed runtime share/doc copyright files",
+    "process_isolation": "process_guard.c is compiled at installation; requires Linux Landlock. Native helper execution is limited to the installed runtime; Python applications cannot launch external executables."
+  }
+}

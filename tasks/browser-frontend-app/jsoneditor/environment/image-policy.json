@@ -1,0 +1,12 @@
+{
+  "reference_paths": [
+    "/app/solution/jsoneditor-10.4.3.tgz",
+    "/app/solution/vendor"
+  ],
+  "shared_solution_files": [
+    {
+      "file": "LICENSES/lodash/4.17.21/LICENSE",
+      "reason": "The identical Lodash license text is included by the system lodash-cli at /usr/share/nodejs/lodash-cli/template/license.jst; no implementation is shared."
+    }
+  ]
+}

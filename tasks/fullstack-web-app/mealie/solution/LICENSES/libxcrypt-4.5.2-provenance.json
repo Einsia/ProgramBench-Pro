@@ -1,0 +1,273 @@
+{
+  "component": "libxcrypt",
+  "version": "4.5.2",
+  "license": "LGPL-2.1-or-later",
+  "source": {
+    "file": "libxcrypt-4.5.2.tar.xz",
+    "url": "https://github.com/besser82/libxcrypt/releases/download/v4.5.2/libxcrypt-4.5.2.tar.xz",
+    "size_bytes": 669820,
+    "sha256": "71513a31c01a428bccd5367a32fd95f115d6dac50fb5b60c779d5c7942aec071"
+  },
+  "distribution": {
+    "runtime_path": "mealie/python/lib/python3.14/site-packages/psycopg2_binary.libs/libcrypt-bc2db45e.so.1",
+    "runtime_sha256": "e2a6f6ff300e287a60dfc0c6fdb76ee01e333068df7c60b4e87453d942ccda65",
+    "wheel": {
+      "file": "psycopg2_binary-2.9.13-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+      "url": "https://files.pythonhosted.org/packages/91/ad/7f52f92cc65c23778daff7eec4ee2099236694a0a4723a5f180d0708b607/psycopg2_binary-2.9.13-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+      "sha256": "190c18b97d9ef72f2e88c451b6588af90d6bd7bf54cb94b963280dc86a2c7076",
+      "library_is_byte_identical": true
+    }
+  },
+  "build": {
+    "build_image": "quay.io/pypa/manylinux2014_x86_64@sha256:c163a278006f45883c117b4166b93cdc7b574b62e58292ed9e52879579841d77",
+    "build_image_tag": "2026.08.04-1",
+    "build_image_config_sha256": "0d004dfd19c1765341c5d464e44bf6d4703bd93cf9f204a7de01da8f5e01334d",
+    "library_layer_sha256": "0ed130695b570a3871c0dc35e45a7f4307541729e71c9796279b66eefa34c6db",
+    "original_library_path": "usr/local/lib/libcrypt.so.1",
+    "original_library_sha256": "bc2db45ec146e845246bd2610dd4d8bf8c9176adda585ba15f51dd30dbf36459"
+  },
+  "build_history": {
+    "created": "2026-07-18T12:43:22.678041282Z",
+    "created_by": "RUN |5 POLICY=manylinux2014 PLATFORM=x86_64 DEVTOOLSET_ROOTPATH=/opt/rh/devtoolset-10/root LD_LIBRARY_PATH_ARG=/opt/rh/devtoolset-10/root/usr/lib64:/opt/rh/devtoolset-10/root/usr/lib:/opt/rh/devtoolset-10/root/usr/lib64/dyninst:/opt/rh/devtoolset-10/root/usr/lib/dyninst:/usr/local/lib64 PREPEND_PATH=/opt/rh/devtoolset-10/root/usr/bin: /bin/sh -c export LIBXCRYPT_VERSION=4.5.2 &&     export LIBXCRYPT_HASH=71513a31c01a428bccd5367a32fd95f115d6dac50fb5b60c779d5c7942aec071 &&     export LIBXCRYPT_DOWNLOAD_URL=https://github.com/besser82/libxcrypt/releases/download &&     /tmp/cross-compiler/entrypoint /opt/_internal/build_scripts/install-libxcrypt.sh # buildkit",
+    "comment": "buildkit.dockerfile.v0"
+  },
+  "upstream_build_references": [
+    "https://github.com/psycopg/psycopg2/blob/f650e7afed0c94f596594e8328a0c7fa65a9d0e5/.github/workflows/packages.yml",
+    "https://github.com/pypa/cibuildwheel/blob/v4.2.0/cibuildwheel/resources/pinned_docker_images.cfg"
+  ],
+  "elf_section_comparison": {
+    "original": {
+      "": {
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      ".gnu.hash": {
+        "bytes": 68,
+        "sha256": "06e1664d097eec2ab0ef251204f6deea80fb666fb6efa504bf50d703d713cd59"
+      },
+      ".dynsym": {
+        "bytes": 816,
+        "sha256": "7f021cea0eb30c2d079408cbcfc1d88036ec490d2ee508b3bf3c1b2b7d27a67d"
+      },
+      ".dynstr": {
+        "bytes": 374,
+        "sha256": "80b583ba743e7c4596e7e63fb4fefe4caa67264ac4f89e04693daa3316d9ed03"
+      },
+      ".gnu.version": {
+        "bytes": 68,
+        "sha256": "3cb864fadf002f36af2bd6bdf7ed176dc8f595312b2ce099bbf7c57803a7651a"
+      },
+      ".gnu.version_d": {
+        "bytes": 56,
+        "sha256": "86d73f36a7f47bc9120aa066587923d9f95cd7d1b818f4c64b1adee1306770d6"
+      },
+      ".gnu.version_r": {
+        "bytes": 80,
+        "sha256": "241a087a0b3c4fea72a92acd1c70d9efabb9526b24c03732cae57e18f98ca53c"
+      },
+      ".rela.dyn": {
+        "bytes": 1944,
+        "sha256": "906dffc5517d12f89900412c0f99e2aa50bcf0b6ef20c147b8bfda17bf4815c5"
+      },
+      ".rela.plt": {
+        "bytes": 72,
+        "sha256": "40f686e95d26c311570f515e4f320325cb8342d90fbc9560679b4881c59f4f86"
+      },
+      ".init": {
+        "bytes": 26,
+        "sha256": "68aab7e522cc82f1bd1347cdb4b1406d6814a2fd7be3c5dc2d180db5b2d38962"
+      },
+      ".plt": {
+        "bytes": 64,
+        "sha256": "397cb76cab866cdb896eb9d8753e94940303749053180fbe120a71a58508341d"
+      },
+      ".text": {
+        "bytes": 99564,
+        "sha256": "90724d27cc1b44dfb17c7757119881eb4a9f2c6308e0859de219c0f018b3584a"
+      },
+      ".fini": {
+        "bytes": 9,
+        "sha256": "66e6f54550612182b4ad78f30b140dd08318b968db3878de2db65fef87dc04d7"
+      },
+      ".rodata": {
+        "bytes": 96176,
+        "sha256": "643948bf27595874e7859171aea7f3a0f8c9d40897865e3c26322fe76cee0fbf"
+      },
+      ".eh_frame_hdr": {
+        "bytes": 1124,
+        "sha256": "730ca66032ff58c491aeb4aad6c95fac5339ae36e7944efb5219efc05e4123da"
+      },
+      ".eh_frame": {
+        "bytes": 7908,
+        "sha256": "ecd442a1f93938dc60873084f3a17571a4fdb578b77fc6814fa812e8963d4610"
+      },
+      ".init_array": {
+        "bytes": 8,
+        "sha256": "6ec0f1032522ad00595cc34a92037af62d006b04dccf4c7de4cd1798bf9af605"
+      },
+      ".fini_array": {
+        "bytes": 8,
+        "sha256": "5f292dedfaa2dbc093c96add370d8c084e4dd6b4681d58ff4af556edabd93fde"
+      },
+      ".data.rel.ro": {
+        "bytes": 776,
+        "sha256": "24f3fca9329ba4e54ec622efcdba015cf2657e9f5c46bf0c823e2884aef34e6a"
+      },
+      ".dynamic": {
+        "bytes": 528,
+        "sha256": "e8f903dd1864fd275553a0f8cb692fad2017158f18d581a0023b806531e79e70"
+      },
+      ".got": {
+        "bytes": 240,
+        "sha256": "66778dc545ffd819ce03dbf3cf56b962f61e3f8a6834c5bf1d1e5dbba774d220"
+      },
+      ".comment": {
+        "bytes": 68,
+        "sha256": "e4f921522d968c23d811ea10cdafa2168c411fe73877774088833c677763dec6"
+      },
+      ".shstrtab": {
+        "bytes": 215,
+        "sha256": "a1a27e12a04141113131aa0f8e320d8a12e3f006d02a9756b0187ebf0cf1d225"
+      }
+    },
+    "wheel": {
+      "": {
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      ".dynsym": {
+        "bytes": 816,
+        "sha256": "223dfa1607b89153b8ab255a62cf170b56bfe5ba5effd91ca71418a02b0e6778"
+      },
+      ".gnu.version": {
+        "bytes": 68,
+        "sha256": "3cb864fadf002f36af2bd6bdf7ed176dc8f595312b2ce099bbf7c57803a7651a"
+      },
+      ".gnu.version_d": {
+        "bytes": 56,
+        "sha256": "86d73f36a7f47bc9120aa066587923d9f95cd7d1b818f4c64b1adee1306770d6"
+      },
+      ".gnu.version_r": {
+        "bytes": 80,
+        "sha256": "241a087a0b3c4fea72a92acd1c70d9efabb9526b24c03732cae57e18f98ca53c"
+      },
+      ".rela.dyn": {
+        "bytes": 1944,
+        "sha256": "906dffc5517d12f89900412c0f99e2aa50bcf0b6ef20c147b8bfda17bf4815c5"
+      },
+      ".rela.plt": {
+        "bytes": 72,
+        "sha256": "40f686e95d26c311570f515e4f320325cb8342d90fbc9560679b4881c59f4f86"
+      },
+      ".init": {
+        "bytes": 26,
+        "sha256": "68aab7e522cc82f1bd1347cdb4b1406d6814a2fd7be3c5dc2d180db5b2d38962"
+      },
+      ".plt": {
+        "bytes": 64,
+        "sha256": "397cb76cab866cdb896eb9d8753e94940303749053180fbe120a71a58508341d"
+      },
+      ".text": {
+        "bytes": 99564,
+        "sha256": "90724d27cc1b44dfb17c7757119881eb4a9f2c6308e0859de219c0f018b3584a"
+      },
+      ".fini": {
+        "bytes": 9,
+        "sha256": "66e6f54550612182b4ad78f30b140dd08318b968db3878de2db65fef87dc04d7"
+      },
+      ".rodata": {
+        "bytes": 96176,
+        "sha256": "643948bf27595874e7859171aea7f3a0f8c9d40897865e3c26322fe76cee0fbf"
+      },
+      ".eh_frame_hdr": {
+        "bytes": 1124,
+        "sha256": "730ca66032ff58c491aeb4aad6c95fac5339ae36e7944efb5219efc05e4123da"
+      },
+      ".eh_frame": {
+        "bytes": 7908,
+        "sha256": "ecd442a1f93938dc60873084f3a17571a4fdb578b77fc6814fa812e8963d4610"
+      },
+      ".init_array": {
+        "bytes": 8,
+        "sha256": "6ec0f1032522ad00595cc34a92037af62d006b04dccf4c7de4cd1798bf9af605"
+      },
+      ".fini_array": {
+        "bytes": 8,
+        "sha256": "5f292dedfaa2dbc093c96add370d8c084e4dd6b4681d58ff4af556edabd93fde"
+      },
+      ".data.rel.ro": {
+        "bytes": 776,
+        "sha256": "24f3fca9329ba4e54ec622efcdba015cf2657e9f5c46bf0c823e2884aef34e6a"
+      },
+      ".dynamic": {
+        "bytes": 528,
+        "sha256": "0fa8c766b29ae5aa3d5ba1c6541cba77c33e20b1fb56a7b3e09bf8ccea808d81"
+      },
+      ".got": {
+        "bytes": 240,
+        "sha256": "66778dc545ffd819ce03dbf3cf56b962f61e3f8a6834c5bf1d1e5dbba774d220"
+      },
+      ".comment": {
+        "bytes": 68,
+        "sha256": "e4f921522d968c23d811ea10cdafa2168c411fe73877774088833c677763dec6"
+      },
+      ".shstrtab": {
+        "bytes": 215,
+        "sha256": "a1a27e12a04141113131aa0f8e320d8a12e3f006d02a9756b0187ebf0cf1d225"
+      },
+      ".gnu.hash": {
+        "bytes": 68,
+        "sha256": "06e1664d097eec2ab0ef251204f6deea80fb666fb6efa504bf50d703d713cd59"
+      },
+      ".dynstr": {
+        "bytes": 397,
+        "sha256": "0910c33cebfcb90164ed09285ef7b6fe4b9583a42a3993b11ec1fb6419ac4a46"
+      }
+    },
+    "matching_sections": [
+      "",
+      ".gnu.hash",
+      ".gnu.version",
+      ".gnu.version_d",
+      ".gnu.version_r",
+      ".rela.dyn",
+      ".rela.plt",
+      ".init",
+      ".plt",
+      ".text",
+      ".fini",
+      ".rodata",
+      ".eh_frame_hdr",
+      ".eh_frame",
+      ".init_array",
+      ".fini_array",
+      ".data.rel.ro",
+      ".got",
+      ".comment",
+      ".shstrtab"
+    ]
+  },
+  "source_license_files": {
+    "LICENSING": {
+      "sha256": "9144e66d8140feb84f0e4e344906ac425378896320032e0248567ef195cf0135"
+    },
+    "COPYING.LIB": {
+      "sha256": "dc626520dcd53a22f727af3ee42c770e56c97a64fe3adb063799d8ab032fe551"
+    }
+  },
+  "verification": "Runtime library bytes equal the PyPI wheel member. The wheel library and the named manylinux layer library have equal .text, .rodata, .init, .fini, .eh_frame, .data.rel.ro, .rela.dyn and .rela.plt sections; wheel filename contains the original library SHA-256 prefix. The pinned image config names libxcrypt 4.5.2 and the verified source archive hash.",
+  "build_recipe_files": {
+    "install-libxcrypt.sh": {
+      "sha256": "2a1e4846c84b32c02e6ebf93b3b8dc0837f67ed5a0b89be1c9200ae5d2f8dde8",
+      "image_layer_sha256": "c674de7c7ee655b7dc85c8bcdc59d78a0298771562cdef1c9871c92c90a8053b"
+    },
+    "build_utils.sh": {
+      "sha256": "8d1a9b3bad070ac388e28063ec777b479d5fbaaeb08a0a8de812013471f5082b",
+      "image_layer_sha256": "cda9814c596bda791b5c6f8a0690c10595ab8d026a84ed0416844334713703ff"
+    },
+    "LICENSE": {
+      "sha256": "ccfa95da478e5e0a9f9a09a29974ccac13997d864699eee22175db1eace1a73d",
+      "url": "https://raw.githubusercontent.com/pypa/manylinux/56f2155efd8e4d20239acc8d31b6ad0249125403/LICENSE"
+    }
+  }
+}

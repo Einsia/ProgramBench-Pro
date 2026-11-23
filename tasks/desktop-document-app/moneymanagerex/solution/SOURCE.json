@@ -1,0 +1,43 @@
+{
+  "task": "moneymanagerex",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "Money Manager Ex",
+    "version": "1.9.4",
+    "homepage": "https://moneymanagerex.org/",
+    "repository": "https://github.com/moneymanagerex/moneymanagerex",
+    "license": "GPL-2.0-or-later"
+  },
+  "downloads": [
+    {
+      "file": "mmex_1.9.4-Ubuntu.24.04.noble_amd64.deb",
+      "url": "https://github.com/moneymanagerex/moneymanagerex/releases/download/v1.9.4/mmex_1.9.4-Ubuntu.24.04.noble_amd64.deb",
+      "sha256": "f410d50eeecb0a4b61578b048a2b3d501fcc69bac3eddd6a0a4b391f13332a34"
+    }
+  ],
+  "bundled": [
+    {
+      "file": "lib/liblua5.3.so.0",
+      "built_from": "Unmodified shared library extracted from the Ubuntu 24.04 amd64 package liblua5.3-0 5.3.6-2build2; notices in LICENSES/."
+    },
+    {
+      "file": "lib/libpcre2-32.so.0",
+      "built_from": "Unmodified shared library extracted from the Ubuntu 24.04 amd64 package libpcre2-32-0 10.42-4ubuntu2.1; notices in LICENSES/."
+    }
+  ],
+  "modifications": "Pinned upstream package; the executable and its resources are unmodified; the installer leaves out the development files of a statically linked library; the launcher adds first-run settings, a fixed uname text and a preloaded guard",
+  "configuration": "seed.py answers the first-run questions in the product settings file under DATA_DIR (no usage statistics, no update or news check, no random money tips); start.sh keeps all product state under DATA_DIR, starts in the inbox folder, opens PBP_DATABASE when set and passes the product option --silent The preloaded guard permits only exact installed WebKit helper paths and fixed uname/lsb_release information options; no arbitrary command suffix is accepted.",
+  "notes": {
+    "corresponding_source": {
+      "repository": "https://github.com/moneymanagerex/moneymanagerex",
+      "tag": "v1.9.4",
+      "commit": "377d1f5bed96da377dce8f79a39939e86c300584",
+      "archive": "https://github.com/moneymanagerex/moneymanagerex/archive/refs/tags/v1.9.4.tar.gz",
+      "archive_note": "GitHub generates the archive on request; the commit is the stable identifier; submodules are recorded at that commit"
+    },
+    "standard_dependencies": {
+      "liblua5.3-0": "5.3.6-2build2",
+      "libpcre2-32-0": "10.42-4ubuntu2.1"
+    }
+  }
+}

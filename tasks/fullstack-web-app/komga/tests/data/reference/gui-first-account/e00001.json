@@ -1,0 +1,152 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        377,
+        552,
+        526,
+        32
+      ],
+      "focused": true,
+      "label": "Email",
+      "ref": "e1472995307",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        377,
+        646,
+        526,
+        32
+      ],
+      "label": "Password",
+      "ref": "e2124056865",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": ""
+    },
+    {
+      "bounds": [
+        409,
+        730,
+        494,
+        20
+      ],
+      "checked": false,
+      "label": "Remember me",
+      "proxy": true,
+      "ref": "e835076371",
+      "role": "checkbox",
+      "tag": "input",
+      "text": "Remember me",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        377,
+        776,
+        91,
+        36
+      ],
+      "disabled": true,
+      "ref": "e1755582596",
+      "role": null,
+      "tag": "button",
+      "text": "SIGN IN"
+    },
+    {
+      "bounds": [
+        492,
+        776,
+        213,
+        36
+      ],
+      "ref": "e340349337",
+      "role": null,
+      "tag": "button",
+      "text": "CREATE USER ACCOUNT",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        410,
+        853,
+        218,
+        32
+      ],
+      "expanded": false,
+      "ref": "e397562206",
+      "role": "button",
+      "tag": "div",
+      "text": "Translation\nEnglish"
+    },
+    {
+      "bounds": [
+        466,
+        853,
+        134,
+        32
+      ],
+      "label": "Translation",
+      "ref": "e1678037492",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        685,
+        853,
+        218,
+        32
+      ],
+      "expanded": false,
+      "ref": "e265744093",
+      "role": "button",
+      "tag": "div",
+      "text": "Theme\nSystem"
+    },
+    {
+      "bounds": [
+        742,
+        853,
+        133,
+        32
+      ],
+      "label": "Theme",
+      "ref": "e1633119468",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    931
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "This Komga server is not yet active, you need to create a user account to be able to access it.\n\nChoose an email and password and click on Create user account.\nEmail\nPassword\nRemember me\nSIGN IN\nCREATE USER ACCOUNT\nTranslation\nEnglish\nTheme\nSystem",
+  "text_truncated": false,
+  "title": "Komga",
+  "url": "/login?redirect=%2Fdashboard",
+  "viewport": [
+    1280,
+    900
+  ]
+}

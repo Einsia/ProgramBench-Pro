@@ -1,0 +1,336 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e168",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e169",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/user/show/1/last-logins",
+      "ref": "e170",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/user/show/1/last-logins",
+      "ref": "e171",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "bounds": [
+        10,
+        49,
+        85,
+        17
+      ],
+      "href": "/users",
+      "ref": "e172",
+      "role": null,
+      "tag": "a",
+      "text": "All users"
+    },
+    {
+      "bounds": [
+        114,
+        49,
+        91,
+        17
+      ],
+      "href": "/?controller=UserCreationController&action=show",
+      "ref": "e173",
+      "role": null,
+      "tag": "a",
+      "text": "New user"
+    },
+    {
+      "bounds": [
+        225,
+        49,
+        69,
+        17
+      ],
+      "href": "/?controller=UserImportController&action=show",
+      "ref": "e174",
+      "role": null,
+      "tag": "a",
+      "text": "Import"
+    },
+    {
+      "bounds": [
+        313,
+        49,
+        132,
+        17
+      ],
+      "href": "/groups",
+      "ref": "e175",
+      "role": null,
+      "tag": "a",
+      "text": "View all groups"
+    },
+    {
+      "bounds": [
+        23,
+        132,
+        68,
+        17
+      ],
+      "href": "/user/show/1",
+      "ref": "e176",
+      "role": null,
+      "tag": "a",
+      "text": "Summary"
+    },
+    {
+      "bounds": [
+        23,
+        168,
+        114,
+        17
+      ],
+      "href": "/dashboard/1",
+      "ref": "e177",
+      "role": null,
+      "tag": "a",
+      "text": "User dashboard"
+    },
+    {
+      "bounds": [
+        23,
+        204,
+        95,
+        17
+      ],
+      "href": "/user/show/1/timesheet",
+      "ref": "e178",
+      "role": null,
+      "tag": "a",
+      "text": "Time tracking"
+    },
+    {
+      "bounds": [
+        23,
+        240,
+        77,
+        17
+      ],
+      "href": "/user/show/1/last-logins",
+      "ref": "e179",
+      "role": null,
+      "tag": "a",
+      "text": "Last logins"
+    },
+    {
+      "bounds": [
+        23,
+        276,
+        161,
+        17
+      ],
+      "href": "/user/show/1/sessions",
+      "ref": "e180",
+      "role": null,
+      "tag": "a",
+      "text": "Persistent connections"
+    },
+    {
+      "bounds": [
+        23,
+        312,
+        162,
+        17
+      ],
+      "href": "/?controller=UserViewController&action=passwordReset&user_id=1",
+      "ref": "e181",
+      "role": null,
+      "tag": "a",
+      "text": "Password reset history"
+    },
+    {
+      "bounds": [
+        23,
+        399,
+        76,
+        17
+      ],
+      "href": "/user/1/edit",
+      "ref": "e182",
+      "role": null,
+      "tag": "a",
+      "text": "Edit profile"
+    },
+    {
+      "bounds": [
+        23,
+        435,
+        46,
+        17
+      ],
+      "href": "/user/1/avatar",
+      "ref": "e183",
+      "role": null,
+      "tag": "a",
+      "text": "Avatar"
+    },
+    {
+      "bounds": [
+        23,
+        471,
+        129,
+        17
+      ],
+      "href": "/user/1/password",
+      "ref": "e184",
+      "role": null,
+      "tag": "a",
+      "text": "Change password"
+    },
+    {
+      "bounds": [
+        23,
+        507,
+        178,
+        17
+      ],
+      "href": "/user/1/2fa",
+      "ref": "e185",
+      "role": null,
+      "tag": "a",
+      "text": "Two factor authentication"
+    },
+    {
+      "bounds": [
+        23,
+        543,
+        98,
+        17
+      ],
+      "href": "/user/1/share",
+      "ref": "e186",
+      "role": null,
+      "tag": "a",
+      "text": "Public access"
+    },
+    {
+      "bounds": [
+        23,
+        579,
+        87,
+        17
+      ],
+      "href": "/user/1/notifications",
+      "ref": "e187",
+      "role": null,
+      "tag": "a",
+      "text": "Notifications"
+    },
+    {
+      "bounds": [
+        23,
+        615,
+        127,
+        17
+      ],
+      "href": "/user/1/accounts",
+      "ref": "e188",
+      "role": null,
+      "tag": "a",
+      "text": "External accounts"
+    },
+    {
+      "bounds": [
+        23,
+        651,
+        84,
+        17
+      ],
+      "href": "/user/1/integrations",
+      "ref": "e189",
+      "role": null,
+      "tag": "a",
+      "text": "Integrations"
+    },
+    {
+      "bounds": [
+        23,
+        687,
+        26,
+        17
+      ],
+      "href": "/user/1/api",
+      "ref": "e190",
+      "role": null,
+      "tag": "a",
+      "text": "API"
+    },
+    {
+      "bounds": [
+        23,
+        723,
+        133,
+        17
+      ],
+      "href": "/user/1/authentication",
+      "ref": "e191",
+      "role": null,
+      "tag": "a",
+      "text": "Edit Authentication"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB #1 admin\n \n \nA\nAll users New user Import View all groups\nInformation\nSummary\nUser dashboard\nTime tracking\nLast logins\nPersistent connections\nPassword reset history\nActions\nEdit profile\nAvatar\nChange password\nTwo factor authentication\nPublic access\nNotifications\nExternal accounts\nIntegrations\nAPI\nEdit Authentication\nLast logins\nLogin date\tAuthentication method\tIP address\tUser agent\n04/14/2026 08:00\tDatabase\t127.0.0.1\tMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+  "text_truncated": false,
+  "title": "#1 admin",
+  "url": "/user/show/1/last-logins",
+  "viewport": [
+    1280,
+    900
+  ]
+}

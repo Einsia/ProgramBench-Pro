@@ -1,0 +1,23 @@
+micro 2.0.15 — licences and sources
+
+micro-2.0.15-linux64-static.tar.gz is the unmodified upstream static release:
+https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-linux64-static.tar.gz
+solve.sh installs its micro executable without modification. SOURCE.json pins
+the release checksum. The corresponding source for micro 2.0.15 is:
+https://github.com/micro-editor/micro/archive/refs/tags/v2.0.15.tar.gz
+Dependencies are identified by the release's go.mod and go.sum.
+
+The main MIT licence is LICENSE. Bundled Go module licence texts are in
+LICENSES/dependencies.txt (MIT, Apache-2.0, BSD-2-Clause, BSD-3-Clause and MPL-2.0).
+The MPL component layeh.com/gopher-luar 1.0.11 has source at:
+https://github.com/layeh/gopher-luar/tree/v1.0.11
+
+start.sh, launch.py and solve.sh are separate launcher and packaging files.
+They apply Landlock and seccomp restrictions and disable user Lua locations;
+the editor source and binary are unchanged. This distribution is not
+affiliated with or endorsed by the micro project.
+
+Installed executables have mode 0555. The launcher creates execute-only copies
+inside the private TMPDIR before applying Landlock; the running program can
+execute those copies but cannot read them or the installed implementation as
+data. These temporary copies contain unchanged upstream executable bytes.

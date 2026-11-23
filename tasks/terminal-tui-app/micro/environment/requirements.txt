@@ -1,0 +1,4 @@
+# The runtime's only third-party Python dependencies (terminal emulation). Transitive pins in constraints.txt.
+# micro itself is a static binary installed unmodified from the pinned archive by solution/solve.sh.
+pyte==0.8.2
+wcwidth==0.9.3

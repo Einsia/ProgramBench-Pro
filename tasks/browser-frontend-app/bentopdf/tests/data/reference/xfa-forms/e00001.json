@@ -1,0 +1,51 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        146,
+        135,
+        24
+      ],
+      "ref": "e3005f4e3",
+      "tag": "button",
+      "text": "Back to Tools"
+    },
+    {
+      "bounds": [
+        49,
+        364,
+        1182,
+        256
+      ],
+      "ref": "e4a99de3d",
+      "tag": "div",
+      "text": "Click to select a file or drag and drop PDF file with form fields Your files never leave your device."
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "inputs": [
+    "harbor-xfa.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nPDF Form Filler\n\nUpload a PDF with form fields. Fill them directly in the viewer below, then click the button to save and download the filled form. Also supports XFA forms.\n\nNote on XFA Forms: XFA (XML Forms Architecture) is a legacy format that's only supported by certain PDF viewers like BentoPDF and Firefox. If you open an XFA PDF in other software and see blank pages or no form fields, it means that viewer doesn't support XFA. To view and fill XFA forms properly, use Firefox or BentoPDF's Form Filler.\n\nClick to select a file or drag and drop\n\nPDF file with form fields\n\nYour files never leave your device.\n\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/form-filler.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

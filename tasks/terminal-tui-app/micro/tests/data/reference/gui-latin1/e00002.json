@@ -1,0 +1,104 @@
+{
+  "base_style": [
+    "fg=brightwhite",
+    "bg=262626"
+  ],
+  "cursor": {
+    "column": 2,
+    "hidden": false,
+    "row": 0
+  },
+  "process": "running",
+  "screen": [
+    "00|1 café",
+    "01|2",
+    "02|",
+    "03|",
+    "04|",
+    "05|",
+    "06|",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|",
+    "12|",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|",
+    "19|",
+    "20|",
+    "21|",
+    "22|",
+    "23|",
+    "24|",
+    "25|",
+    "26|",
+    "27|",
+    "28|",
+    "29|",
+    "30|",
+    "31|",
+    "32|",
+    "33|",
+    "34|cafe.txt (1,1) | ft:unknown | unix | iso-8859-1                                            Alt-g: bindings, Ctrl-g: help",
+    "35|Saved cafe.txt"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 0,
+      "style": [
+        "fg=a8a8a8",
+        "bg=262626"
+      ],
+      "text": "1 "
+    },
+    {
+      "columns": [
+        2,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "fg=brightwhite",
+        "bg=303030"
+      ],
+      "text": "café                                                                                                                  "
+    },
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 1,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "2 "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "fg=262626",
+        "bg=brightwhite"
+      ],
+      "text": "cafe.txt (1,1) | ft:unknown | unix | iso-8859-1                                            Alt-g: bindings, Ctrl-g: help"
+    }
+  ]
+}

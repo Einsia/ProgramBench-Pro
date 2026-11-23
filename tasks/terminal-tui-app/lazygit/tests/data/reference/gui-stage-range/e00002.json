@@ -1,0 +1,706 @@
+{
+  "cursor": {
+    "column": 119,
+    "hidden": true,
+    "row": 35
+  },
+  "process": "running",
+  "screen": [
+    "00|╭─[1]─Status───────────────────────────╮╭─[0]─Unstaged changes─────────────────────────────────────────────────────────╮",
+    "01|│workspace → main                      ││diff --git a/big.txt b/big.txt                                                ▐",
+    "02|╰──────────────────────────────────────╯│index 5fdc4fc..4264de3 100644                                                 ▐",
+    "03|╭─[2]─Files - Worktrees - Submodules───╮│--- a/big.txt                                                                 ▐",
+    "04|│MM big.txt                            ││+++ b/big.txt                                                                 ▐",
+    "05|│                                      ││@@ -15,6 +15,6 @@ line 14                                                     ▐",
+    "06|│                                      ││ line 15                                                                      ▐",
+    "07|│                                      ││ line 16                                                                      ▐",
+    "08|│                                      ││ line 17                                                                      ▐",
+    "09|│                                      ││-line 18                                                                      │",
+    "10|│                                      ││+LINE 18                                                                      │",
+    "11|│                                      ││ line 19                                                                      │",
+    "12|╰───────────────────────────────1 of 1─╯│ line 20                                                                      │",
+    "13|╭─[3]─Local branches - Remotes - Tags──╮│                                                                              │",
+    "14|│  * main                              ││                                                                              │",
+    "15|│                                      │╰──────────────────────────────────────────────────────────────────────────────╯",
+    "16|│                                      │╭─Staged changes───────────────────────────────────────────────────────────────╮",
+    "17|│                                      ││diff --git a/big.txt b/big.txt                                                ▐",
+    "18|│                                      ││index 036b411..5fdc4fc 100644                                                 ▐",
+    "19|│                                      ││--- a/big.txt                                                                 ▐",
+    "20|│                                      ││+++ b/big.txt                                                                 ▐",
+    "21|│                                      ││@@ -1,5 +1,5 @@                                                               ▐",
+    "22|╰───────────────────────────────1 of 1─╯│ line 01                                                                      ▐",
+    "23|╭─[4]─Commits - Reflog─────────────────╮│-line 02                                                                      ▐",
+    "24|│ba34a614 AL ○ base                    ││+LINE 02                                                                      ▐",
+    "25|│                                      ││ line 03                                                                      │",
+    "26|│                                      ││ line 04                                                                      │",
+    "27|│                                      ││ line 05                                                                      │",
+    "28|│                                      ││                                                                              │",
+    "29|│                                      ││                                                                              │",
+    "30|│                                      ││                                                                              │",
+    "31|╰───────────────────────────────1 of 1─╯╰──────────────────────────────────────────────────────────────────────────────╯",
+    "32|╭─[5]─Stash────────────────────────────╮╭─Command log──────────────────────────────────────────────────────────────────╮",
+    "33|│                                      ││[temporary patch]                                                             │",
+    "34|╰───────────────────────────────0 of 0─╯╰──────────────────────────────────────────────────────────────────────────────╯",
+    "35|Switch diff pane: <tab> | Select hunks: a | Stage: <space> | Discard: d | Jump to file: <ctrl+g> | …              0.66.2"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        40,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "╭─[0]─Unstaged changes─────────────────────────────────────────────────────────╮"
+    },
+    {
+      "columns": [
+        40,
+        41
+      ],
+      "row": 1,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        41,
+        71
+      ],
+      "row": 1,
+      "style": [
+        "bold"
+      ],
+      "text": "diff --git a/big.txt b/big.txt"
+    },
+    {
+      "columns": [
+        119,
+        120
+      ],
+      "row": 1,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "▐"
+    },
+    {
+      "columns": [
+        40,
+        41
+      ],
+      "row": 2,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        41,
+        70
+      ],
+      "row": 2,
+      "style": [
+        "bold"
+      ],
+      "text": "index 5fdc4fc..4264de3 100644"
+    },
+    {
+      "columns": [
+        119,
+        120
+      ],
+      "row": 2,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "▐"
+    },
+    {
+      "columns": [
+        6,
+        12
+      ],
+      "row": 3,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Files "
+    },
+    {
+      "columns": [
+        40,
+        41
+      ],
+      "row": 3,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        41,
+        54
+      ],
+      "row": 3,
+      "style": [
+        "bold"
+      ],
+      "text": "--- a/big.txt"
+    },
+    {
+      "columns": [
+        119,
+        120
+      ],
+      "row": 3,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "▐"
+    },
+    {
+      "columns": [
+        1,
+        2
+      ],
+      "row": 4,
+      "style": [
+        "bold",
+        "fg=green",
+        "bg=4e4e4e"
+      ],
+      "text": "M"
+    },
+    {
+      "columns": [
+        2,
+        3
+      ],
+      "row": 4,
+      "style": [
+        "bold",
+        "fg=red",
+        "bg=4e4e4e"
+      ],
+      "text": "M"
+    },
+    {
+      "columns": [
+        3,
+        11
+      ],
+      "row": 4,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=4e4e4e"
+      ],
+      "text": " big.txt"
+    },
+    {
+      "columns": [
+        40,
+        41
+      ],
+      "row": 4,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        41,
+        54
+      ],
+      "row": 4,
+      "style": [
+        "bold"
+      ],
+      "text": "+++ b/big.txt"
+    },
+    {
+      "columns": [
+        119,
+        120
+      ],
+      "row": 4,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "▐"
+    },
+    {
+      "columns": [
+        40,
+        41
+      ],
+      "row": 5,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        41,
+        58
+      ],
+      "row": 5,
+      "style": [
+        "fg=cyan"
+      ],
+      "text": "@@ -15,6 +15,6 @@"
+    },
+    {
+      "columns": [
+        119,
+        120
+      ],
+      "row": 5,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "▐"
+    },
+    {
+      "columns": [
+        40,
+        41
+      ],
+      "row": 6,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        119,
+        120
+      ],
+      "row": 6,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "▐"
+    },
+    {
+      "columns": [
+        40,
+        41
+      ],
+      "row": 7,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        119,
+        120
+      ],
+      "row": 7,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "▐"
+    },
+    {
+      "columns": [
+        40,
+        41
+      ],
+      "row": 8,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        119,
+        120
+      ],
+      "row": 8,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "▐"
+    },
+    {
+      "columns": [
+        40,
+        41
+      ],
+      "row": 9,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        41,
+        43
+      ],
+      "row": 9,
+      "style": [
+        "bold",
+        "fg=red",
+        "bg=blue"
+      ],
+      "text": "-l"
+    },
+    {
+      "columns": [
+        43,
+        49
+      ],
+      "row": 9,
+      "style": [
+        "fg=red"
+      ],
+      "text": "ine 18"
+    },
+    {
+      "columns": [
+        119,
+        120
+      ],
+      "row": 9,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        40,
+        41
+      ],
+      "row": 10,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        41,
+        49
+      ],
+      "row": 10,
+      "style": [
+        "fg=green"
+      ],
+      "text": "+LINE 18"
+    },
+    {
+      "columns": [
+        119,
+        120
+      ],
+      "row": 10,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        40,
+        41
+      ],
+      "row": 11,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        119,
+        120
+      ],
+      "row": 11,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        40,
+        41
+      ],
+      "row": 12,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        119,
+        120
+      ],
+      "row": 12,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        6,
+        21
+      ],
+      "row": 13,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Local branches "
+    },
+    {
+      "columns": [
+        40,
+        41
+      ],
+      "row": 13,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        119,
+        120
+      ],
+      "row": 13,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        1,
+        4
+      ],
+      "row": 14,
+      "style": [
+        "fg=green"
+      ],
+      "text": "  *"
+    },
+    {
+      "columns": [
+        40,
+        41
+      ],
+      "row": 14,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        119,
+        120
+      ],
+      "row": 14,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        40,
+        120
+      ],
+      "row": 15,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "╰──────────────────────────────────────────────────────────────────────────────╯"
+    },
+    {
+      "columns": [
+        41,
+        71
+      ],
+      "row": 17,
+      "style": [
+        "bold"
+      ],
+      "text": "diff --git a/big.txt b/big.txt"
+    },
+    {
+      "columns": [
+        41,
+        70
+      ],
+      "row": 18,
+      "style": [
+        "bold"
+      ],
+      "text": "index 036b411..5fdc4fc 100644"
+    },
+    {
+      "columns": [
+        41,
+        54
+      ],
+      "row": 19,
+      "style": [
+        "bold"
+      ],
+      "text": "--- a/big.txt"
+    },
+    {
+      "columns": [
+        41,
+        54
+      ],
+      "row": 20,
+      "style": [
+        "bold"
+      ],
+      "text": "+++ b/big.txt"
+    },
+    {
+      "columns": [
+        41,
+        56
+      ],
+      "row": 21,
+      "style": [
+        "fg=cyan"
+      ],
+      "text": "@@ -1,5 +1,5 @@"
+    },
+    {
+      "columns": [
+        6,
+        14
+      ],
+      "row": 23,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Commits "
+    },
+    {
+      "columns": [
+        41,
+        49
+      ],
+      "row": 23,
+      "style": [
+        "fg=red"
+      ],
+      "text": "-line 02"
+    },
+    {
+      "columns": [
+        1,
+        9
+      ],
+      "row": 24,
+      "style": [
+        "fg=green"
+      ],
+      "text": "ba34a614"
+    },
+    {
+      "columns": [
+        10,
+        12
+      ],
+      "row": 24,
+      "style": [
+        "fg=ff8787"
+      ],
+      "text": "AL"
+    },
+    {
+      "columns": [
+        13,
+        14
+      ],
+      "row": 24,
+      "style": [
+        "fg=ff8787"
+      ],
+      "text": "○"
+    },
+    {
+      "columns": [
+        41,
+        49
+      ],
+      "row": 24,
+      "style": [
+        "fg=green"
+      ],
+      "text": "+LINE 02"
+    },
+    {
+      "columns": [
+        0,
+        100
+      ],
+      "row": 35,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "Switch diff pane: <tab> | Select hunks: a | Stage: <space> | Discard: d | Jump to file: <ctrl+g> | …"
+    }
+  ]
+}

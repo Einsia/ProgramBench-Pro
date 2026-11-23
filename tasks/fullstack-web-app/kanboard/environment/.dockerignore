@@ -1,0 +1,12 @@
+**
+!Dockerfile
+!requirements.txt
+!constraints.txt
+!package.json
+!package-lock.json
+!runtime/
+!runtime/*.py
+!runtime/docs/
+!runtime/docs/**
+!agent_runtime/
+!agent_runtime/*.py

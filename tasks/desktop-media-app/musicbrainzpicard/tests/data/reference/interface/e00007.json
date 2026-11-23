@@ -1,0 +1,1218 @@
+{
+  "focused": "e646564cc",
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        19,
+        1440,
+        881
+      ],
+      "name": "MusicBrainz Picard",
+      "ref": "e6a9823be",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        0,
+        878,
+        1440,
+        22
+      ],
+      "name": "",
+      "ref": "e83a5e4ff",
+      "role": "status bar"
+    },
+    {
+      "bounds": [
+        1026,
+        881,
+        40,
+        17
+      ],
+      "description": "Files",
+      "name": "1",
+      "ref": "e5fd328b4",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1068,
+        881,
+        16,
+        17
+      ],
+      "description": "Files",
+      "name": "",
+      "ref": "e812269e9",
+      "role": "image"
+    },
+    {
+      "bounds": [
+        1086,
+        881,
+        40,
+        17
+      ],
+      "description": "Albums",
+      "name": "0",
+      "ref": "ecfdb1ec8",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1128,
+        881,
+        16,
+        17
+      ],
+      "description": "Albums",
+      "name": "",
+      "ref": "e1fdbc77e",
+      "role": "image"
+    },
+    {
+      "bounds": [
+        1146,
+        881,
+        40,
+        17
+      ],
+      "description": "Pending files",
+      "name": "0",
+      "ref": "e65e4ae1b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1188,
+        881,
+        16,
+        17
+      ],
+      "description": "Pending files",
+      "name": "",
+      "ref": "e70ed6631",
+      "role": "image"
+    },
+    {
+      "bounds": [
+        1206,
+        881,
+        40,
+        17
+      ],
+      "description": "Pending requests",
+      "name": "0",
+      "ref": "ea9f90825",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1248,
+        881,
+        16,
+        17
+      ],
+      "description": "Pending requests",
+      "name": "",
+      "ref": "ed5fe1b11",
+      "role": "image"
+    },
+    {
+      "bounds": [
+        1266,
+        881,
+        16,
+        16
+      ],
+      "description": "Stop all pending network requests",
+      "name": "",
+      "ref": "e0dd5a1f6",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1288,
+        881,
+        151,
+        17
+      ],
+      "description": "<qt/>Picard listens on this port to integrate with your browser. When you \"Search\" or \"Open in Browser\" from Picard, clicking the \"Tagger\" button on the web page loads the release into Picard.",
+      "name": "Listening on port 8000",
+      "ref": "e7365409f",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        426,
+        38,
+        1014,
+        55
+      ],
+      "name": "Search",
+      "ref": "ef5bf7335",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        448,
+        54,
+        68,
+        22
+      ],
+      "name": "Album",
+      "ref": "ea22fb109",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        522,
+        54,
+        869,
+        22
+      ],
+      "name": "",
+      "ref": "ebbde115f",
+      "role": "text",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        1397,
+        51,
+        30,
+        29
+      ],
+      "name": "Search",
+      "ref": "ed405a9a3",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        38,
+        426,
+        55
+      ],
+      "name": "Actions",
+      "ref": "ef963e335",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        13,
+        50,
+        32,
+        31
+      ],
+      "name": "Add Folder",
+      "ref": "e1e37dda4",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        46,
+        50,
+        32,
+        31
+      ],
+      "name": "Add Files",
+      "ref": "ed0620207",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        86,
+        50,
+        32,
+        31
+      ],
+      "name": "Cluster",
+      "ref": "ecc0529c0",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        126,
+        50,
+        32,
+        31
+      ],
+      "description": "Lookup selected items in MusicBrainz",
+      "name": "Lookup",
+      "ref": "e0ea4562b",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        159,
+        50,
+        32,
+        31
+      ],
+      "description": "Identify the file using its AcoustID audio fingerprint",
+      "name": "Scan",
+      "ref": "e5926981d",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        192,
+        50,
+        32,
+        31
+      ],
+      "name": "Lookup in Browser",
+      "ref": "e1861d69a",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        232,
+        50,
+        32,
+        31
+      ],
+      "name": "Save",
+      "ref": "e47e8f1c1",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        265,
+        50,
+        32,
+        31
+      ],
+      "name": "Info",
+      "ref": "ea5d2fc2a",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        298,
+        50,
+        32,
+        31
+      ],
+      "name": "Remove",
+      "ref": "e6de37ef0",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        338,
+        50,
+        44,
+        31
+      ],
+      "name": "Lookup CD",
+      "ref": "e79b531f9",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        390,
+        50,
+        32,
+        31
+      ],
+      "name": "Submit AcoustIDs",
+      "ref": "e0615c02c",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1440,
+        19
+      ],
+      "name": "",
+      "ref": "ecbd86de2",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        6,
+        19,
+        29,
+        19
+      ],
+      "name": "File",
+      "ref": "ed747fc52",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        41,
+        19,
+        32,
+        19
+      ],
+      "name": "Edit",
+      "ref": "e03966ba8",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        79,
+        19,
+        37,
+        19
+      ],
+      "name": "View",
+      "ref": "ec0f2425e",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        122,
+        19,
+        55,
+        19
+      ],
+      "name": "Options",
+      "ref": "e49fa5ef3",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        183,
+        19,
+        38,
+        19
+      ],
+      "name": "Tools",
+      "ref": "e3512da74",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        227,
+        19,
+        36,
+        19
+      ],
+      "name": "Help",
+      "ref": "e6ec9a1eb",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        0,
+        93,
+        1440,
+        785
+      ],
+      "name": "",
+      "ref": "e2b952707",
+      "role": "split pane"
+    },
+    {
+      "bounds": [
+        0,
+        607,
+        1294,
+        271
+      ],
+      "description": "Displays original and new tags for the selected files",
+      "name": "metadata view",
+      "ref": "ee2dae8b8",
+      "role": "table"
+    },
+    {
+      "bounds": [
+        0,
+        607,
+        212,
+        18
+      ],
+      "name": "Tag",
+      "ref": "ee84e3114",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        212,
+        607,
+        211,
+        18
+      ],
+      "name": "Original Value",
+      "ref": "ecb3f4ad7",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        423,
+        607,
+        871,
+        18
+      ],
+      "name": "New Value",
+      "ref": "e0cf8eff6",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        0,
+        625,
+        211,
+        17
+      ],
+      "name": "Title",
+      "ref": "e82c2c820",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        212,
+        625,
+        210,
+        17
+      ],
+      "name": "Interface Song",
+      "ref": "e646564cc",
+      "role": "table cell",
+      "states": [
+        "focused",
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        423,
+        625,
+        870,
+        17
+      ],
+      "name": "Interface Song",
+      "ref": "e9a7092fe",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        0,
+        643,
+        211,
+        17
+      ],
+      "name": "Artist",
+      "ref": "ec98c09d7",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        212,
+        643,
+        210,
+        17
+      ],
+      "name": "UI",
+      "ref": "ec8d16837",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        423,
+        643,
+        870,
+        17
+      ],
+      "name": "UI",
+      "ref": "ee07d5e8b",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        0,
+        661,
+        211,
+        17
+      ],
+      "name": "Album",
+      "ref": "e00d52e95",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        212,
+        661,
+        210,
+        17
+      ],
+      "name": "UI Album",
+      "ref": "e362c7c9a",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        423,
+        661,
+        870,
+        17
+      ],
+      "name": "UI Album",
+      "ref": "e7b8cbf22",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        0,
+        679,
+        211,
+        17
+      ],
+      "name": "Track Number",
+      "ref": "e7db45b42",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        212,
+        679,
+        210,
+        17
+      ],
+      "name": "1",
+      "ref": "eabc83de8",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        423,
+        679,
+        870,
+        17
+      ],
+      "name": "1",
+      "ref": "e50adadf4",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        0,
+        697,
+        211,
+        17
+      ],
+      "name": "Length",
+      "ref": "e6b79e1c8",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        212,
+        697,
+        210,
+        17
+      ],
+      "name": "0:01",
+      "ref": "e211356fc",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        423,
+        697,
+        870,
+        17
+      ],
+      "name": "0:01",
+      "ref": "e9ca3a5e6",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        0,
+        715,
+        211,
+        17
+      ],
+      "name": "Album Artist",
+      "ref": "e1e6c140a",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        212,
+        715,
+        210,
+        17
+      ],
+      "name": "UI",
+      "ref": "e1bc916aa",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        423,
+        715,
+        870,
+        17
+      ],
+      "name": "UI",
+      "ref": "e767e61e9",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        0,
+        733,
+        211,
+        17
+      ],
+      "name": "File Path",
+      "ref": "e716caeb0",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        212,
+        733,
+        210,
+        17
+      ],
+      "name": "/app/candidate-state/session/instance/files/inputs/ui/01 Interface Song.flac",
+      "ref": "e77bb72df",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        423,
+        733,
+        870,
+        17
+      ],
+      "name": "/app/candidate-state/session/instance/files/inputs/ui/01 Interface Song.flac",
+      "ref": "e750ce770",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        1303,
+        636,
+        128,
+        128
+      ],
+      "name": "",
+      "ref": "e96391d6f",
+      "role": "image"
+    },
+    {
+      "bounds": [
+        1303,
+        790,
+        128,
+        22
+      ],
+      "name": "Show more details",
+      "ref": "efc69cd9a",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1303,
+        616,
+        128,
+        14
+      ],
+      "name": "",
+      "ref": "e6d79bdbd",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1303,
+        770,
+        128,
+        14
+      ],
+      "name": "",
+      "ref": "e1e2db81e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        0,
+        93,
+        1440,
+        510
+      ],
+      "name": "",
+      "ref": "e8ad9c7ad",
+      "role": "split pane"
+    },
+    {
+      "bounds": [
+        722,
+        93,
+        718,
+        510
+      ],
+      "description": "Contains albums and matched files",
+      "name": "Album view",
+      "ref": "e04f65cee",
+      "role": "tree"
+    },
+    {
+      "bounds": [
+        723,
+        94,
+        250,
+        18
+      ],
+      "name": "Title",
+      "ref": "eebed8d29",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        973,
+        94,
+        50,
+        18
+      ],
+      "name": "Length",
+      "ref": "eb1063d3c",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        1023,
+        94,
+        200,
+        18
+      ],
+      "name": "Artist",
+      "ref": "e032cb652",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        1223,
+        94,
+        216,
+        18
+      ],
+      "name": "Match",
+      "ref": "e8d60abf3",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        0,
+        93,
+        718,
+        510
+      ],
+      "description": "Contains unmatched files and clusters",
+      "name": "File view",
+      "ref": "e82b2b8cb",
+      "role": "tree"
+    },
+    {
+      "bounds": [
+        1,
+        94,
+        250,
+        18
+      ],
+      "name": "Title",
+      "ref": "e1a68a83b",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        251,
+        94,
+        50,
+        18
+      ],
+      "name": "Length",
+      "ref": "e34a3e0f3",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        301,
+        94,
+        416,
+        18
+      ],
+      "name": "Artist",
+      "ref": "e18b2be6d",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        21,
+        112,
+        230,
+        18
+      ],
+      "name": "Unclustered Files (1)",
+      "ref": "e1d54e9ec",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        251,
+        112,
+        50,
+        18
+      ],
+      "name": "",
+      "ref": "ea6ed60bc",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        301,
+        112,
+        416,
+        18
+      ],
+      "name": "",
+      "ref": "e80ecc968",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        41,
+        130,
+        210,
+        18
+      ],
+      "name": "Interface Song",
+      "ref": "e850dfa2d",
+      "role": "table cell",
+      "states": [
+        "focused",
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        251,
+        130,
+        50,
+        18
+      ],
+      "name": "0:01",
+      "ref": "ec5782ae2",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        301,
+        130,
+        416,
+        18
+      ],
+      "name": "UI",
+      "ref": "e70539db2",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        21,
+        148,
+        230,
+        18
+      ],
+      "name": "Clusters (0)",
+      "ref": "e34cd2e12",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        251,
+        148,
+        50,
+        18
+      ],
+      "name": "",
+      "ref": "e8253651e",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        301,
+        148,
+        416,
+        18
+      ],
+      "name": "",
+      "ref": "ea1ddab0a",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1440,
+        881
+      ],
+      "name": "Log View — MusicBrainz Picard",
+      "ref": "eb0af1590",
+      "role": "dialog",
+      "states": [
+        "active"
+      ]
+    },
+    {
+      "bounds": [
+        11,
+        30,
+        1418,
+        831
+      ],
+      "name": "",
+      "ref": "ec392f300",
+      "role": "list"
+    },
+    {
+      "bounds": [
+        12,
+        31,
+        3504,
+        14
+      ],
+      "name": "I: 07:36:48,587 util/readthedocs._call_api:126: Documentation updates disabled in user settings.",
+      "ref": "e875a35e0",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        12,
+        45,
+        3504,
+        14
+      ],
+      "name": "W: 07:36:48,587 tagger._init_plugins:453: Plugin3 system not available (git backend not available)",
+      "ref": "e003679c0",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        12,
+        59,
+        3504,
+        14
+      ],
+      "name": "W: 07:36:48,637 ui/mainwindow._init_cd_lookup_menu:936: CDROM: discid library not found - Lookup CD functionality disabled",
+      "ref": "e4e5a4ac3",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        12,
+        73,
+        3504,
+        14
+      ],
+      "name": "I: 07:36:48,678 browser/server.start:126: Browser Integration: Starting, listening on address 127.0.0.1 and port 8000",
+      "ref": "ee2417c3c",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        12,
+        87,
+        3504,
+        14
+      ],
+      "name": "I: 07:36:49,935 tagger.run_commands:554: Executing command: LOAD '/app/candidate-state/session/instance/files/inputs/ui'",
+      "ref": "e43cddea1",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        12,
+        101,
+        3504,
+        14
+      ],
+      "name": "I: 07:36:50,046 tagger.run_commands:592: Completed command: LOAD '/app/candidate-state/session/instance/files/inputs/ui'",
+      "ref": "e9b6e9145",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        12,
+        115,
+        3504,
+        14
+      ],
+      "name": "I: 07:36:50,785 tagger.run_commands:554: Executing command: WRITE_LOGS '/app/candidate-state/session/instance/files/outputs/.setup-1.log'",
+      "ref": "e1aac39eb",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        12,
+        129,
+        3504,
+        14
+      ],
+      "name": "I: 07:36:50,896 tagger.run_commands:592: Completed command: WRITE_LOGS '/app/candidate-state/session/instance/files/outputs/.setup-1.log'",
+      "ref": "edb32eb92",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        12,
+        143,
+        3504,
+        14
+      ],
+      "name": "I: 07:36:58,624 ui/mainwindow._check_for_plugin_updates:2228: Skipping plugin update checks based on user settings",
+      "ref": "e78842ea2",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        11,
+        867,
+        80,
+        22
+      ],
+      "name": "Help",
+      "ref": "e19ce9d62",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        97,
+        867,
+        80,
+        22
+      ],
+      "description": "Changes the logging verbosity level for the current session. The default level configured in Options will be restored on next startup.",
+      "name": "Verbosity",
+      "ref": "e11442b10",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        183,
+        867,
+        116,
+        22
+      ],
+      "name": "Debug Options",
+      "ref": "eb66ad58b",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        305,
+        867,
+        486,
+        22
+      ],
+      "description": "Filter",
+      "name": "",
+      "ref": "ed764879b",
+      "role": "text",
+      "states": [
+        "focused",
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        797,
+        867,
+        46,
+        21
+      ],
+      "name": "Filter",
+      "ref": "e9b41c7ca",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        849,
+        867,
+        80,
+        22
+      ],
+      "name": "Save As…",
+      "ref": "e1f311cea",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1421,
+        867,
+        8,
+        22
+      ],
+      "name": "9",
+      "ref": "ed0b5d8d3",
+      "role": "label"
+    }
+  ],
+  "screen": [
+    1440,
+    900
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": false,
+      "bounds": [
+        0,
+        38,
+        1440,
+        881
+      ],
+      "ref": "wb4132fcb",
+      "title": "MusicBrainz Picard"
+    },
+    {
+      "active": true,
+      "bounds": [
+        0,
+        38,
+        1440,
+        881
+      ],
+      "ref": "w45bdfff4",
+      "title": "Log View — MusicBrainz Picard"
+    }
+  ]
+}

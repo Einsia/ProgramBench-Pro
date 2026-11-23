@@ -1,0 +1,38 @@
+{
+  "task": "piskel",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "Piskel",
+    "version": "0.15.0",
+    "homepage": "https://github.com/piskelapp/piskel",
+    "repository": "https://github.com/piskelapp/piskel",
+    "license": "Apache-2.0 AND MIT AND CC-BY-3.0"
+  },
+  "downloads": [
+    {
+      "file": "piskel-0.15.0.tar.gz",
+      "url": "https://github.com/piskelapp/piskel/archive/refs/tags/v0.15.0.tar.gz",
+      "sha256": "8d9f45190bc39c82f8f41b1647bc817b8f21fd7522dc81801dec092294c582d9"
+    }
+  ],
+  "bundled": [
+    {
+      "file": "piskel-0.15.0-prod.tar.gz",
+      "built_from": "node:10.24.1-buster-slim (sha256:6ff486f039c4574a6b2d2e20056228f3d4a36cf451c3291509a6afd42c7849ba); npm install --ignore-scripts; grunt build (Gruntfile.js of the release, unchanged); archive of dest/prod as prod/; product files are unchanged."
+    }
+  ],
+  "modifications": "none; the local static host serves an allowlist of the original production assets without altering product code.",
+  "configuration": "The editor opens at / or /index.html without query parameters. The static host applies a Content Security Policy for the original scripts and blob workers. The browser runtime provides file exchange and captures exported images opened in a new window.",
+  "notes": {
+    "entrypoint": "start.sh",
+    "installer": "solve.sh",
+    "release": "https://github.com/piskelapp/piskel/releases/tag/v0.15.0",
+    "build_recipe": "node:10.24.1-buster-slim (sha256:6ff486f039c4574a6b2d2e20056228f3d4a36cf451c3291509a6afd42c7849ba); npm install --ignore-scripts; grunt build (Gruntfile.js of the release, unchanged); archive of dest/prod as prod/",
+    "source_availability": "The original piskel-0.15.0.tar.gz source archive is supplied through downloads; it includes the editor and bundled component sources.",
+    "license_files": [
+      "LICENSE",
+      "LICENSES/",
+      "NOTICE"
+    ]
+  }
+}

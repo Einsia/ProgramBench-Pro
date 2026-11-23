@@ -1,0 +1,51 @@
+{
+  "task": "joplin",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "Joplin",
+    "version": "3.7.21",
+    "homepage": "https://joplinapp.org/",
+    "repository": "https://github.com/laurent22/joplin",
+    "license": "AGPL-3.0-or-later"
+  },
+  "downloads": [
+    {
+      "file": "Joplin-3.7.21.deb",
+      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21.deb",
+      "sha256": "14de2d5524e45341de5f0b68a1e78191b796a6c9817949c49b80afe5cd6ab965"
+    },
+    {
+      "file": "joplin-3.7.21-src.tar.gz",
+      "url": "https://codeload.github.com/laurent22/joplin/tar.gz/refs/tags/v3.7.21",
+      "sha256": "d868a2f9a48937c514b6b39486e88f473b4477085035f75d22542800c1fdd083"
+    }
+  ],
+  "bundled": [
+    {
+      "file": "LICENSES/chromium.txt",
+      "built_from": "Complete textual content of opt/Joplin/LICENSES.chromium.html in the unmodified Joplin-3.7.21.deb release asset; HTML presentation and style/script markup removed, component license and attribution text retained."
+    }
+  ],
+  "modifications": "The two bundled default plugins are omitted during installation. The executable, app.asar and runtime libraries remain unchanged; launch.py configures and supervises the product.",
+  "configuration": "launch.py stores the profile under DATA_DIR/profile, enables the local Data API at PORT with PBP_API_TOKEN, disables first-run updates and OCR, and runs the unmodified desktop binary with --no-sandbox --force-renderer-accessibility --no-welcome --profile. The foreground supervisor forwards signals and retries one immediate clean exit only before any product window was created. A fail-closed Landlock wrapper restricts product writes to private instance/exchange data and execution to the product plus explicitly required helper programs. The GUI starts with the outbox as its working directory so native file dialogs do not try to enumerate the protected installation. Chromium worker /proc directory enumeration and inotify limit files are explicitly readable; this does not grant general /proc file-content access.",
+  "notes": {
+    "corresponding_source": {
+      "version": "3.7.21",
+      "tag": "v3.7.21",
+      "commit": "e41516e669efb693b009bedb21f3eb1fcbea4fc9",
+      "archive": "joplin-3.7.21-src.tar.gz"
+    },
+    "components": [
+      {
+        "name": "libfaketime",
+        "version": "0.9.13",
+        "license": "GPL-2.0-only",
+        "repository": "https://github.com/wolfcw/libfaketime",
+        "source": "environment/libfaketime-0.9.13.tar.gz",
+        "url": "https://codeload.github.com/wolfcw/libfaketime/tar.gz/refs/tags/v0.9.13",
+        "sha256": "8e56deeb805682b025107e095f1d94a6ea677472f05824cd475f5c5e6e1a5ddf"
+      }
+    ],
+    "installation": "dpkg-deb unpacks the official package; package maintainer scripts are not run. Third-party notices remain in the downloaded package and extracted runtime."
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        0,
+        1182,
+        7
+      ],
+      "label": "Keywords (comma-separated)",
+      "ref": "eeee43e08",
+      "tag": "input",
+      "type": "text",
+      "value": "harbor, survey, charts"
+    },
+    {
+      "bounds": [
+        49,
+        51,
+        1182,
+        42
+      ],
+      "label": "Creator",
+      "ref": "e0239f308",
+      "tag": "input",
+      "type": "text",
+      "value": "Fixture Studio"
+    },
+    {
+      "bounds": [
+        49,
+        137,
+        1182,
+        42
+      ],
+      "label": "Producer",
+      "ref": "e60fe12ca",
+      "tag": "input",
+      "type": "text",
+      "value": "Archive Pipeline"
+    },
+    {
+      "bounds": [
+        49,
+        223,
+        583,
+        42
+      ],
+      "label": "Creation Date",
+      "ref": "e11cfca7d",
+      "tag": "input",
+      "type": "datetime-local",
+      "value": "2000-01-01T00:00"
+    },
+    {
+      "bounds": [
+        648,
+        223,
+        583,
+        42
+      ],
+      "label": "Modification Date",
+      "ref": "ea7dae058",
+      "tag": "input",
+      "type": "datetime-local",
+      "value": "2026-01-15T12:00"
+    },
+    {
+      "bounds": [
+        49,
+        349,
+        1182,
+        42
+      ],
+      "placeholder": "Key (e.g., Department)",
+      "ref": "e5392364d",
+      "tag": "input",
+      "type": "text",
+      "value": "Trapped"
+    },
+    {
+      "bounds": [
+        49,
+        399,
+        1182,
+        42
+      ],
+      "placeholder": "Value (e.g., Marketing)",
+      "ref": "e5392364dx2",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        622,
+        449,
+        36,
+        36
+      ],
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        49,
+        497,
+        171,
+        36
+      ],
+      "ref": "e5aef0d40",
+      "tag": "button",
+      "text": "Add Custom Field"
+    },
+    {
+      "bounds": [
+        49,
+        557,
+        1182,
+        48
+      ],
+      "ref": "ef6ffd22a",
+      "tag": "button",
+      "text": "Save Metadata"
+    },
+    {
+      "bounds": [
+        473,
+        472,
+        334,
+        40
+      ],
+      "ref": "e2a50e308",
+      "tag": "button",
+      "text": "OK"
+    },
+    {
+      "bounds": [
+        1170,
+        809,
+        94,
+        34
+      ],
+      "expanded": false,
+      "ref": "ebda396fc",
+      "tag": "button",
+      "text": "English"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "report.pdf",
+      "ref": "d6466e450a16b",
+      "size": 2136
+    }
+  ],
+  "inputs": [
+    "report.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›Edit Metadata\nEdit Metadata\n\nChange the author, title, and other properties.\n\nClick to select a file or drag and drop\n\nA single PDF file\n\nYour files never leave your device.\n\nreport.pdf\n3.7 KB • 4 pages\nEdit Metadata\nTitle\nAuthor\nSubject\nKeywords (comma-separated)\nCreator\nProducer\nCreation Date\nModification Date\nCustom Fields\n\nNote: Custom fields are not supported by all PDF readers.\n\nAdd Custom Field\nSave Metadata\nSuccess\n\nMetadata updated successfully!\n\nOK\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/edit-metadata.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

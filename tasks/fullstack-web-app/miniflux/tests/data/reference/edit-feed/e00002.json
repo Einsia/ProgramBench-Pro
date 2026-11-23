@@ -1,0 +1,362 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        559,
+        -44,
+        162,
+        36
+      ],
+      "href": "/feed/1/entries#main",
+      "offscreen": true,
+      "ref": "e528",
+      "role": null,
+      "tag": "a",
+      "text": "Skip to content"
+    },
+    {
+      "aria": "Home page",
+      "bounds": [
+        193,
+        10,
+        77,
+        19
+      ],
+      "href": "/unread",
+      "ref": "e529",
+      "role": null,
+      "tag": "a",
+      "text": "Mini\nflux"
+    },
+    {
+      "aria": "Unread, 1 unread entry",
+      "bounds": [
+        278,
+        12,
+        102,
+        16
+      ],
+      "href": "/unread",
+      "ref": "e530",
+      "role": null,
+      "tag": "a",
+      "text": "Unread (1)"
+    },
+    {
+      "bounds": [
+        395,
+        12,
+        78,
+        16
+      ],
+      "href": "/starred",
+      "ref": "e531",
+      "role": null,
+      "tag": "a",
+      "text": "Starred"
+    },
+    {
+      "bounds": [
+        488,
+        12,
+        78,
+        16
+      ],
+      "href": "/history",
+      "ref": "e532",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        581,
+        12,
+        70,
+        16
+      ],
+      "href": "/feeds",
+      "ref": "e533",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "aria": "Add feed",
+      "bounds": [
+        650,
+        12,
+        26,
+        16
+      ],
+      "href": "/subscribe",
+      "ref": "e534",
+      "role": null,
+      "tag": "a",
+      "text": "(+)",
+      "title": "Keyboard Shortcut: +"
+    },
+    {
+      "bounds": [
+        691,
+        12,
+        104,
+        16
+      ],
+      "href": "/categories",
+      "ref": "e535",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        810,
+        12,
+        70,
+        16
+      ],
+      "href": "/search",
+      "ref": "e536",
+      "role": null,
+      "tag": "a",
+      "text": "Search"
+    },
+    {
+      "bounds": [
+        894,
+        12,
+        87,
+        16
+      ],
+      "href": "/settings",
+      "ref": "e537",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        996,
+        10,
+        70,
+        18
+      ],
+      "ref": "e538",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "title": "Logged in as alice"
+    },
+    {
+      "bounds": [
+        193,
+        49,
+        173,
+        27
+      ],
+      "href": "[external]",
+      "ref": "e539",
+      "role": null,
+      "tag": "a",
+      "text": "Renamed Feed",
+      "title": "http://editable.test/"
+    },
+    {
+      "bounds": [
+        193,
+        81,
+        181,
+        18
+      ],
+      "ref": "e540",
+      "role": null,
+      "tag": "button",
+      "text": "Mark this page as read"
+    },
+    {
+      "bounds": [
+        398,
+        81,
+        132,
+        18
+      ],
+      "ref": "e541",
+      "role": null,
+      "tag": "button",
+      "text": "Mark all as read"
+    },
+    {
+      "bounds": [
+        555,
+        82,
+        172,
+        18
+      ],
+      "href": "/feed/1/entries/all",
+      "ref": "e542",
+      "role": null,
+      "tag": "a",
+      "text": "Show all entries"
+    },
+    {
+      "bounds": [
+        751,
+        81,
+        74,
+        18
+      ],
+      "ref": "e543",
+      "role": null,
+      "tag": "button",
+      "text": "Refresh"
+    },
+    {
+      "bounds": [
+        850,
+        82,
+        56,
+        18
+      ],
+      "href": "/feed/1/edit",
+      "ref": "e544",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        193,
+        110,
+        143,
+        18
+      ],
+      "ref": "e545",
+      "role": null,
+      "tag": "button",
+      "text": "Remove this feed"
+    },
+    {
+      "bounds": [
+        199,
+        179,
+        125,
+        18
+      ],
+      "href": "/unread/feed/1/entry/1",
+      "ref": "e546",
+      "role": null,
+      "tag": "a",
+      "text": "Editable one"
+    },
+    {
+      "aria": "Category: Archive",
+      "bounds": [
+        333,
+        182,
+        50,
+        14
+      ],
+      "href": "/category/4/entries",
+      "ref": "e547",
+      "role": null,
+      "tag": "a",
+      "text": "Archive"
+    },
+    {
+      "bounds": [
+        199,
+        203,
+        78,
+        12
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e548",
+      "role": null,
+      "tag": "a",
+      "text": "Renamed Feed",
+      "title": "http://editable.test/"
+    },
+    {
+      "bounds": [
+        199,
+        224,
+        95,
+        16
+      ],
+      "ref": "e549",
+      "role": null,
+      "tag": "button",
+      "text": "Mark as read",
+      "title": "Change entry status"
+    },
+    {
+      "bounds": [
+        309,
+        224,
+        43,
+        16
+      ],
+      "ref": "e550",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        369,
+        226,
+        120,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e551",
+      "role": null,
+      "tag": "a",
+      "text": "External link"
+    },
+    {
+      "bounds": [
+        193,
+        271,
+        181,
+        18
+      ],
+      "ref": "e552",
+      "role": null,
+      "tag": "button",
+      "text": "Mark this page as read"
+    },
+    {
+      "bounds": [
+        599,
+        313,
+        134,
+        20
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e553",
+      "role": null,
+      "tag": "a",
+      "text": "Back to top"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Skip to content\nMini\nflux\nUnread (1) Starred History Feeds (+) Categories Search Settings Logout\nRenamed Feed (1)\n1 unread entry\nMark this page as read Mark all as read Show all entries Refresh Edit Remove this feed\nFirst\nPrevious\nNext \nLast \nEditable one Archive\nRenamed Feed  1 year ago  1 minute read\nMark as read Star External link\nMark this page as read\nFirst\nPrevious\nBack to top\nNext \nLast ",
+  "text_truncated": false,
+  "title": "Renamed Feed (1) - Miniflux",
+  "url": "/feed/1/entries",
+  "viewport": [
+    1280,
+    900
+  ]
+}

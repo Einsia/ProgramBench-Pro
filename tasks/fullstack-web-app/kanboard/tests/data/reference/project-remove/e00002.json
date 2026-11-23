@@ -1,0 +1,187 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e287",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "aria": "Display another project",
+      "bounds": [
+        836,
+        7,
+        273,
+        24
+      ],
+      "placeholder": "Display another project",
+      "ref": "e288",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e289",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/projects",
+      "ref": "e290",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/projects",
+      "ref": "e291",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "bounds": [
+        10,
+        49,
+        108,
+        17
+      ],
+      "href": "/project/create",
+      "ref": "e292",
+      "role": null,
+      "tag": "a",
+      "text": "New project"
+    },
+    {
+      "bounds": [
+        138,
+        49,
+        174,
+        17
+      ],
+      "href": "/project/create/personal",
+      "ref": "e293",
+      "role": null,
+      "tag": "a",
+      "text": "New personal project"
+    },
+    {
+      "bounds": [
+        331,
+        49,
+        133,
+        17
+      ],
+      "href": "/projects/managers",
+      "ref": "e294",
+      "role": null,
+      "tag": "a",
+      "text": "Users overview"
+    },
+    {
+      "aria": "Search",
+      "bounds": [
+        10,
+        87,
+        308,
+        28
+      ],
+      "name": "search",
+      "placeholder": "Search",
+      "ref": "e295",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1214,
+        136,
+        42,
+        28
+      ],
+      "href": "/projects",
+      "ref": "e296",
+      "role": null,
+      "tag": "a",
+      "text": "Sort"
+    },
+    {
+      "bounds": [
+        14,
+        169,
+        30,
+        15
+      ],
+      "href": "/projects",
+      "ref": "e297",
+      "role": null,
+      "tag": "a",
+      "text": "#2"
+    },
+    {
+      "bounds": [
+        48,
+        169,
+        78,
+        15
+      ],
+      "href": "/board/2",
+      "ref": "e298",
+      "role": null,
+      "tag": "a",
+      "text": "Keep Project"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Projects (1)\n \n \nA\nNew project New personal project Users overview\n1 project\nSort \n#2 \n Keep Project\nadmin\n  ",
+  "text_truncated": false,
+  "title": "Projects (1)",
+  "url": "/projects",
+  "viewport": [
+    1280,
+    900
+  ]
+}

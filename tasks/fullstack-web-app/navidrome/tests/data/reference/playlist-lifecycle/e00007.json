@@ -1,0 +1,649 @@
+{
+  "controls": [
+    {
+      "aria": "Skip to content",
+      "bounds": [
+        16,
+        -80,
+        145,
+        39
+      ],
+      "offscreen": true,
+      "ref": "e2404",
+      "role": null,
+      "tag": "button",
+      "text": "SKIP TO CONTENT",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        5,
+        0,
+        48,
+        48
+      ],
+      "ref": "e2405",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Close menu",
+      "type": "button"
+    },
+    {
+      "aria": "Refresh",
+      "bounds": [
+        1072,
+        0,
+        48,
+        48
+      ],
+      "ref": "e2406",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Refresh",
+      "type": "button"
+    },
+    {
+      "aria": "Now Playing",
+      "bounds": [
+        1120,
+        2,
+        44,
+        44
+      ],
+      "ref": "e2407",
+      "role": null,
+      "tag": "button",
+      "text": "0",
+      "title": "Now Playing",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1164,
+        2,
+        44,
+        44
+      ],
+      "ref": "e2408",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Activity",
+      "type": "button"
+    },
+    {
+      "aria": "Settings",
+      "bounds": [
+        1208,
+        0,
+        48,
+        48
+      ],
+      "ref": "e2409",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Settings",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        0,
+        56,
+        240,
+        36
+      ],
+      "ref": "e2410",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "Albums"
+    },
+    {
+      "bounds": [
+        0,
+        92,
+        240,
+        36
+      ],
+      "href": "/app/#/album/all",
+      "ref": "e2411",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        0,
+        128,
+        240,
+        36
+      ],
+      "href": "/app/#/album/random",
+      "ref": "e2412",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Random"
+    },
+    {
+      "bounds": [
+        0,
+        164,
+        240,
+        36
+      ],
+      "href": "/app/#/album/starred",
+      "ref": "e2413",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Favourites"
+    },
+    {
+      "bounds": [
+        0,
+        200,
+        240,
+        36
+      ],
+      "href": "/app/#/album/topRated",
+      "ref": "e2414",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Top Rated"
+    },
+    {
+      "bounds": [
+        0,
+        236,
+        240,
+        36
+      ],
+      "href": "/app/#/album/recentlyAdded",
+      "ref": "e2415",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Recently Added"
+    },
+    {
+      "bounds": [
+        0,
+        272,
+        240,
+        36
+      ],
+      "href": "/app/#/album/recentlyPlayed",
+      "ref": "e2416",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Recently Played"
+    },
+    {
+      "bounds": [
+        0,
+        308,
+        240,
+        36
+      ],
+      "href": "/app/#/album/mostPlayed",
+      "ref": "e2417",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Most Played"
+    },
+    {
+      "bounds": [
+        0,
+        344,
+        240,
+        36
+      ],
+      "href": "/app/#/artist",
+      "ref": "e2418",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Artists"
+    },
+    {
+      "bounds": [
+        0,
+        380,
+        240,
+        36
+      ],
+      "href": "/app/#/song",
+      "ref": "e2419",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Songs"
+    },
+    {
+      "bounds": [
+        0,
+        416,
+        240,
+        36
+      ],
+      "href": "/app/#/radio",
+      "ref": "e2420",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Radios"
+    },
+    {
+      "bounds": [
+        0,
+        452,
+        240,
+        36
+      ],
+      "href": "/app/#/share",
+      "ref": "e2421",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Shares"
+    },
+    {
+      "bounds": [
+        0,
+        489,
+        240,
+        38
+      ],
+      "ref": "e2422",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "Playlists"
+    },
+    {
+      "bounds": [
+        0,
+        527,
+        240,
+        36
+      ],
+      "href": "/app/#/playlist/5KqsO7KtXz3G0OIy4Thssn/show",
+      "ref": "e2423",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Evening Mix"
+    },
+    {
+      "bounds": [
+        0,
+        563,
+        240,
+        36
+      ],
+      "href": "/app/#/playlist/5UfwNzKLQGrJfcKNkWj8Uo/show",
+      "ref": "e2424",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Favourites"
+    },
+    {
+      "bounds": [
+        472,
+        283,
+        27,
+        27
+      ],
+      "ref": "e2425",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Upload Cover",
+      "type": "button"
+    },
+    {
+      "aria": "love",
+      "bounds": [
+        652,
+        89,
+        30,
+        30
+      ],
+      "ref": "e2426",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "aria": "Play",
+      "bounds": [
+        245,
+        352,
+        70,
+        31
+      ],
+      "ref": "e2427",
+      "role": null,
+      "tag": "button",
+      "text": "PLAY",
+      "type": "button"
+    },
+    {
+      "aria": "Shuffle",
+      "bounds": [
+        315,
+        352,
+        98,
+        31
+      ],
+      "ref": "e2428",
+      "role": null,
+      "tag": "button",
+      "text": "SHUFFLE",
+      "type": "button"
+    },
+    {
+      "aria": "Play Next",
+      "bounds": [
+        414,
+        352,
+        110,
+        31
+      ],
+      "ref": "e2429",
+      "role": null,
+      "tag": "button",
+      "text": "PLAY NEXT",
+      "type": "button"
+    },
+    {
+      "aria": "Play Later",
+      "bounds": [
+        524,
+        352,
+        117,
+        31
+      ],
+      "ref": "e2430",
+      "role": null,
+      "tag": "button",
+      "text": "PLAY LATER",
+      "type": "button"
+    },
+    {
+      "aria": "Share",
+      "bounds": [
+        641,
+        352,
+        83,
+        31
+      ],
+      "ref": "e2431",
+      "role": null,
+      "tag": "button",
+      "text": "SHARE",
+      "type": "button"
+    },
+    {
+      "aria": "Download (26.68 KB)",
+      "bounds": [
+        724,
+        352,
+        186,
+        31
+      ],
+      "ref": "e2432",
+      "role": null,
+      "tag": "button",
+      "text": "DOWNLOAD (26.68 KB)",
+      "type": "button"
+    },
+    {
+      "aria": "Export",
+      "bounds": [
+        910,
+        352,
+        92,
+        31
+      ],
+      "ref": "e2433",
+      "role": null,
+      "tag": "button",
+      "text": "EXPORT",
+      "type": "button"
+    },
+    {
+      "aria": "more",
+      "bounds": [
+        1208,
+        344,
+        48,
+        48
+      ],
+      "ref": "e2434",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "aria": "Unselect",
+      "bounds": [
+        260,
+        394,
+        26,
+        28
+      ],
+      "ref": "e2435",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Unselect",
+      "type": "button"
+    },
+    {
+      "aria": "Remove",
+      "bounds": [
+        1137,
+        392,
+        95,
+        31
+      ],
+      "ref": "e2436",
+      "role": null,
+      "tag": "button",
+      "text": "REMOVE",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        261,
+        424,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e2437",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        312,
+        424,
+        34,
+        24
+      ],
+      "ref": "e2438",
+      "role": "button",
+      "tag": "span",
+      "text": "#",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        407,
+        424,
+        29,
+        24
+      ],
+      "ref": "e2439",
+      "role": "button",
+      "tag": "span",
+      "text": "Title",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        547,
+        424,
+        44,
+        24
+      ],
+      "ref": "e2440",
+      "role": "button",
+      "tag": "span",
+      "text": "Album",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        712,
+        424,
+        37,
+        24
+      ],
+      "ref": "e2441",
+      "role": "button",
+      "tag": "span",
+      "text": "Artist",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        880,
+        424,
+        33,
+        24
+      ],
+      "ref": "e2442",
+      "role": "button",
+      "tag": "span",
+      "text": "Time",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        261,
+        471,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e2443",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        548,
+        475,
+        72,
+        16
+      ],
+      "href": "/app/#/album/38j2OSPjPh46KHo7Hg3tH0/show",
+      "ref": "e2444",
+      "role": null,
+      "tag": "a",
+      "text": "First Album"
+    },
+    {
+      "bounds": [
+        713,
+        475,
+        73,
+        16
+      ],
+      "href": "/app/#/artist/47oq4zXQXZeNbxWV1qZScA/show",
+      "ref": "e2445",
+      "role": null,
+      "tag": "a",
+      "text": "Alpha Artist"
+    },
+    {
+      "bounds": [
+        261,
+        510,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e2446",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        548,
+        514,
+        72,
+        16
+      ],
+      "href": "/app/#/album/7Mjl18iJaUwlOluyIsmj9A/show",
+      "ref": "e2447",
+      "role": null,
+      "tag": "a",
+      "text": "First Album"
+    },
+    {
+      "bounds": [
+        713,
+        514,
+        64,
+        16
+      ],
+      "href": "/app/#/artist/1lj7eQ5rxStq8ASeeE39t7/show",
+      "ref": "e2448",
+      "role": null,
+      "tag": "a",
+      "text": "Delta Duo"
+    },
+    {
+      "bounds": [
+        1098,
+        553,
+        56,
+        30
+      ],
+      "ref": "e2449",
+      "role": "button",
+      "tag": "div",
+      "text": "100"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "SKIP TO CONTENT\nNavidrome - Evening Mix\n0\nAlbums\nAll\nRandom\nFavourites\nTop Rated\nRecently Added\nRecently Played\nMost Played\nArtists\nSongs\nRadios\nShares\nPlaylists\nEvening Mix\nFavourites\nEvening Mix\n\n2 Songs · 00:02 · 26.68 KB\n\nSongs for the evening\n\nPLAY\nSHUFFLE\nPLAY NEXT\nPLAY LATER\nSHARE\nDOWNLOAD (26.68 KB)\nEXPORT\n0 items selected\nREMOVE\n\t\n#\n\t\nTitle\n\t\nAlbum\n\t\nArtist\n\t\nTime\n\tQuality\t\n\n\t1\tOpening\tFirst Album\t\nAlpha Artist\n\t00:01\t\nMP3 40\n\t\n\n\t2\tEcho\tFirst Album\t\nDelta Duo\n\t00:01\t\nFLAC\n\t\n\nItems per page:\n\n100\n\n1-2 of 2\n\nAdded 1 song to playlist",
+  "text_truncated": false,
+  "title": "Navidrome",
+  "url": "/app/#/playlist/5KqsO7KtXz3G0OIy4Thssn/show",
+  "viewport": [
+    1280,
+    900
+  ]
+}

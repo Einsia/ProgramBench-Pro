@@ -1,0 +1,2347 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        555,
+        -44,
+        170,
+        36
+      ],
+      "href": "/settings#main",
+      "offscreen": true,
+      "ref": "e1828",
+      "role": null,
+      "tag": "a",
+      "text": "Skip to content"
+    },
+    {
+      "aria": "Home page",
+      "bounds": [
+        193,
+        10,
+        77,
+        19
+      ],
+      "href": "/unread",
+      "ref": "e1829",
+      "role": null,
+      "tag": "a",
+      "text": "Mini\nflux"
+    },
+    {
+      "bounds": [
+        278,
+        12,
+        73,
+        16
+      ],
+      "href": "/unread",
+      "ref": "e1830",
+      "role": null,
+      "tag": "a",
+      "text": "Unread"
+    },
+    {
+      "bounds": [
+        366,
+        12,
+        82,
+        16
+      ],
+      "href": "/starred",
+      "ref": "e1831",
+      "role": null,
+      "tag": "a",
+      "text": "Starred"
+    },
+    {
+      "bounds": [
+        463,
+        12,
+        82,
+        16
+      ],
+      "href": "/history",
+      "ref": "e1832",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        560,
+        12,
+        73,
+        16
+      ],
+      "href": "/feeds",
+      "ref": "e1833",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "aria": "Add feed",
+      "bounds": [
+        633,
+        12,
+        27,
+        16
+      ],
+      "href": "/subscribe",
+      "ref": "e1834",
+      "role": null,
+      "tag": "a",
+      "text": "(+)",
+      "title": "Keyboard Shortcut: +"
+    },
+    {
+      "bounds": [
+        676,
+        12,
+        109,
+        16
+      ],
+      "href": "/categories",
+      "ref": "e1835",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        800,
+        12,
+        73,
+        16
+      ],
+      "href": "/search",
+      "ref": "e1836",
+      "role": null,
+      "tag": "a",
+      "text": "Search"
+    },
+    {
+      "bounds": [
+        888,
+        12,
+        91,
+        16
+      ],
+      "href": "/settings",
+      "ref": "e1837",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        994,
+        10,
+        70,
+        18
+      ],
+      "ref": "e1838",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "title": "Logged in as alice"
+    },
+    {
+      "bounds": [
+        193,
+        82,
+        99,
+        18
+      ],
+      "href": "/settings",
+      "ref": "e1839",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        317,
+        82,
+        139,
+        18
+      ],
+      "href": "/integrations",
+      "ref": "e1840",
+      "role": null,
+      "tag": "a",
+      "text": "Integrations"
+    },
+    {
+      "bounds": [
+        481,
+        82,
+        99,
+        18
+      ],
+      "href": "/keys",
+      "ref": "e1841",
+      "role": null,
+      "tag": "a",
+      "text": "API Keys"
+    },
+    {
+      "bounds": [
+        605,
+        82,
+        99,
+        18
+      ],
+      "href": "/sessions",
+      "ref": "e1842",
+      "role": null,
+      "tag": "a",
+      "text": "Sessions"
+    },
+    {
+      "bounds": [
+        729,
+        82,
+        69,
+        18
+      ],
+      "href": "/users",
+      "ref": "e1843",
+      "role": null,
+      "tag": "a",
+      "text": "Users"
+    },
+    {
+      "bounds": [
+        823,
+        82,
+        69,
+        18
+      ],
+      "href": "/about",
+      "ref": "e1844",
+      "role": null,
+      "tag": "a",
+      "text": "About"
+    },
+    {
+      "bounds": [
+        202,
+        165,
+        250,
+        28
+      ],
+      "label": "Username",
+      "name": "username",
+      "ref": "e1845",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "alice"
+    },
+    {
+      "bounds": [
+        202,
+        226,
+        250,
+        28
+      ],
+      "label": "Password",
+      "name": "password",
+      "ref": "e1846",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": ""
+    },
+    {
+      "bounds": [
+        202,
+        287,
+        250,
+        28
+      ],
+      "label": "Password Confirmation",
+      "name": "confirmation",
+      "ref": "e1847",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": ""
+    },
+    {
+      "bounds": [
+        202,
+        335,
+        79,
+        29
+      ],
+      "ref": "e1848",
+      "role": null,
+      "tag": "button",
+      "text": "Update"
+    },
+    {
+      "bounds": [
+        202,
+        442,
+        250,
+        28
+      ],
+      "label": "Reading speed for Chinese, Korean and Japanese (characters per minute)",
+      "min": "1",
+      "name": "cjk_reading_speed",
+      "ref": "e1849",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "500"
+    },
+    {
+      "bounds": [
+        202,
+        503,
+        250,
+        28
+      ],
+      "label": "Reading speed for other languages (words per minute)",
+      "min": "1",
+      "name": "default_reading_speed",
+      "ref": "e1850",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "265"
+    },
+    {
+      "bounds": [
+        202,
+        564,
+        250,
+        28
+      ],
+      "label": "Playback speed of the audio/video",
+      "max": "4",
+      "min": "0.25",
+      "name": "media_playback_rate",
+      "ref": "e1851",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        202,
+        612,
+        13,
+        13
+      ],
+      "checked": true,
+      "label": "Show estimated reading time for entries",
+      "name": "show_reading_time",
+      "ref": "e1852",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        202,
+        635,
+        13,
+        13
+      ],
+      "checked": false,
+      "label": "Mark entries as read manually",
+      "name": "mark_read_behavior",
+      "ref": "e1853",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "no-auto"
+    },
+    {
+      "bounds": [
+        202,
+        653,
+        13,
+        13
+      ],
+      "checked": true,
+      "label": "Automatically mark entries as read when viewed",
+      "name": "mark_read_behavior",
+      "ref": "e1854",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "on-view"
+    },
+    {
+      "bounds": [
+        202,
+        671,
+        13,
+        13
+      ],
+      "checked": false,
+      "label": "Mark entries as read when viewed. For audio/video, mark as read at 90% completion",
+      "name": "mark_read_behavior",
+      "ref": "e1855",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "on-view-but-wait-for-player-completion"
+    },
+    {
+      "bounds": [
+        202,
+        689,
+        13,
+        13
+      ],
+      "checked": false,
+      "label": "Only mark as read when audio/video playback reaches 90% completion",
+      "name": "mark_read_behavior",
+      "ref": "e1856",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "on-player-completion"
+    },
+    {
+      "bounds": [
+        202,
+        717,
+        79,
+        29
+      ],
+      "ref": "e1857",
+      "role": null,
+      "tag": "button",
+      "text": "Update"
+    },
+    {
+      "bounds": [
+        202,
+        819,
+        143,
+        19
+      ],
+      "label": "Language",
+      "name": "language",
+      "options": [
+        {
+          "disabled": false,
+          "label": "العربية",
+          "selected": false,
+          "value": "ar_SA"
+        },
+        {
+          "disabled": false,
+          "label": "Deutsch",
+          "selected": false,
+          "value": "de_DE"
+        },
+        {
+          "disabled": false,
+          "label": "Ελληνικά",
+          "selected": false,
+          "value": "el_EL"
+        },
+        {
+          "disabled": false,
+          "label": "English",
+          "selected": true,
+          "value": "en_US"
+        },
+        {
+          "disabled": false,
+          "label": "Español",
+          "selected": false,
+          "value": "es_ES"
+        },
+        {
+          "disabled": false,
+          "label": "Suomi",
+          "selected": false,
+          "value": "fi_FI"
+        },
+        {
+          "disabled": false,
+          "label": "Français",
+          "selected": false,
+          "value": "fr_FR"
+        },
+        {
+          "disabled": false,
+          "label": "Galego",
+          "selected": false,
+          "value": "gl_ES"
+        },
+        {
+          "disabled": false,
+          "label": "हिन्दी",
+          "selected": false,
+          "value": "hi_IN"
+        },
+        {
+          "disabled": false,
+          "label": "Bahasa Indonesia",
+          "selected": false,
+          "value": "id_ID"
+        },
+        {
+          "disabled": false,
+          "label": "Italiano",
+          "selected": false,
+          "value": "it_IT"
+        },
+        {
+          "disabled": false,
+          "label": "日本語",
+          "selected": false,
+          "value": "ja_JP"
+        },
+        {
+          "disabled": false,
+          "label": "한국어",
+          "selected": false,
+          "value": "ko_KR"
+        },
+        {
+          "disabled": false,
+          "label": "Pe̍h-ōe-jī",
+          "selected": false,
+          "value": "nan_Latn_pehoeji"
+        },
+        {
+          "disabled": false,
+          "label": "Nederlands",
+          "selected": false,
+          "value": "nl_NL"
+        },
+        {
+          "disabled": false,
+          "label": "Polski",
+          "selected": false,
+          "value": "pl_PL"
+        },
+        {
+          "disabled": false,
+          "label": "Português Brasileiro",
+          "selected": false,
+          "value": "pt_BR"
+        },
+        {
+          "disabled": false,
+          "label": "Română",
+          "selected": false,
+          "value": "ro_RO"
+        },
+        {
+          "disabled": false,
+          "label": "Русский",
+          "selected": false,
+          "value": "ru_RU"
+        },
+        {
+          "disabled": false,
+          "label": "Türkçe",
+          "selected": false,
+          "value": "tr_TR"
+        },
+        {
+          "disabled": false,
+          "label": "Українська",
+          "selected": false,
+          "value": "uk_UA"
+        },
+        {
+          "disabled": false,
+          "label": "简体中文",
+          "selected": false,
+          "value": "zh_CN"
+        },
+        {
+          "disabled": false,
+          "label": "繁體中文",
+          "selected": false,
+          "value": "zh_TW"
+        }
+      ],
+      "ref": "e1858",
+      "role": null,
+      "tag": "select",
+      "text": "العربية\nDeutsch\nΕλληνικά\nEnglish\nEspañol\nSuomi\nFrançais\nGalego\nहिन्दी\nBahasa Indonesia\nItaliano\n日本語\n한국어\nPe̍h-ōe-jī\nNederlands\nPolski\nPortuguês Brasileiro\nRomână\nРусский\nTürkçe\nУкраїнська\n简体中文\n繁體中文",
+      "value": "en_US"
+    },
+    {
+      "bounds": [
+        202,
+        871,
+        233,
+        19
+      ],
+      "label": "Timezone",
+      "name": "timezone",
+      "options": [
+        {
+          "disabled": false,
+          "label": "Africa/Abidjan",
+          "selected": false,
+          "value": "Africa/Abidjan"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Accra",
+          "selected": false,
+          "value": "Africa/Accra"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Addis_Ababa",
+          "selected": false,
+          "value": "Africa/Addis_Ababa"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Algiers",
+          "selected": false,
+          "value": "Africa/Algiers"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Asmara",
+          "selected": false,
+          "value": "Africa/Asmara"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Bamako",
+          "selected": false,
+          "value": "Africa/Bamako"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Bangui",
+          "selected": false,
+          "value": "Africa/Bangui"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Banjul",
+          "selected": false,
+          "value": "Africa/Banjul"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Bissau",
+          "selected": false,
+          "value": "Africa/Bissau"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Blantyre",
+          "selected": false,
+          "value": "Africa/Blantyre"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Brazzaville",
+          "selected": false,
+          "value": "Africa/Brazzaville"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Bujumbura",
+          "selected": false,
+          "value": "Africa/Bujumbura"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Cairo",
+          "selected": false,
+          "value": "Africa/Cairo"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Casablanca",
+          "selected": false,
+          "value": "Africa/Casablanca"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Ceuta",
+          "selected": false,
+          "value": "Africa/Ceuta"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Conakry",
+          "selected": false,
+          "value": "Africa/Conakry"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Dakar",
+          "selected": false,
+          "value": "Africa/Dakar"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Dar_es_Salaam",
+          "selected": false,
+          "value": "Africa/Dar_es_Salaam"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Djibouti",
+          "selected": false,
+          "value": "Africa/Djibouti"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Douala",
+          "selected": false,
+          "value": "Africa/Douala"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/El_Aaiun",
+          "selected": false,
+          "value": "Africa/El_Aaiun"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Freetown",
+          "selected": false,
+          "value": "Africa/Freetown"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Gaborone",
+          "selected": false,
+          "value": "Africa/Gaborone"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Harare",
+          "selected": false,
+          "value": "Africa/Harare"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Johannesburg",
+          "selected": false,
+          "value": "Africa/Johannesburg"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Juba",
+          "selected": false,
+          "value": "Africa/Juba"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Kampala",
+          "selected": false,
+          "value": "Africa/Kampala"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Khartoum",
+          "selected": false,
+          "value": "Africa/Khartoum"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Kigali",
+          "selected": false,
+          "value": "Africa/Kigali"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Kinshasa",
+          "selected": false,
+          "value": "Africa/Kinshasa"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Lagos",
+          "selected": false,
+          "value": "Africa/Lagos"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Libreville",
+          "selected": false,
+          "value": "Africa/Libreville"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Lome",
+          "selected": false,
+          "value": "Africa/Lome"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Luanda",
+          "selected": false,
+          "value": "Africa/Luanda"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Lubumbashi",
+          "selected": false,
+          "value": "Africa/Lubumbashi"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Lusaka",
+          "selected": false,
+          "value": "Africa/Lusaka"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Malabo",
+          "selected": false,
+          "value": "Africa/Malabo"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Maputo",
+          "selected": false,
+          "value": "Africa/Maputo"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Maseru",
+          "selected": false,
+          "value": "Africa/Maseru"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Mbabane",
+          "selected": false,
+          "value": "Africa/Mbabane"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Mogadishu",
+          "selected": false,
+          "value": "Africa/Mogadishu"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Monrovia",
+          "selected": false,
+          "value": "Africa/Monrovia"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Nairobi",
+          "selected": false,
+          "value": "Africa/Nairobi"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Ndjamena",
+          "selected": false,
+          "value": "Africa/Ndjamena"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Niamey",
+          "selected": false,
+          "value": "Africa/Niamey"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Nouakchott",
+          "selected": false,
+          "value": "Africa/Nouakchott"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Ouagadougou",
+          "selected": false,
+          "value": "Africa/Ouagadougou"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Porto-Novo",
+          "selected": false,
+          "value": "Africa/Porto-Novo"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Sao_Tome",
+          "selected": false,
+          "value": "Africa/Sao_Tome"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Timbuktu",
+          "selected": false,
+          "value": "Africa/Timbuktu"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Tripoli",
+          "selected": false,
+          "value": "Africa/Tripoli"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Tunis",
+          "selected": false,
+          "value": "Africa/Tunis"
+        },
+        {
+          "disabled": false,
+          "label": "Africa/Windhoek",
+          "selected": false,
+          "value": "Africa/Windhoek"
+        },
+        {
+          "disabled": false,
+          "label": "America/Adak",
+          "selected": false,
+          "value": "America/Adak"
+        },
+        {
+          "disabled": false,
+          "label": "America/Anchorage",
+          "selected": false,
+          "value": "America/Anchorage"
+        },
+        {
+          "disabled": false,
+          "label": "America/Anguilla",
+          "selected": false,
+          "value": "America/Anguilla"
+        },
+        {
+          "disabled": false,
+          "label": "America/Antigua",
+          "selected": false,
+          "value": "America/Antigua"
+        },
+        {
+          "disabled": false,
+          "label": "America/Araguaina",
+          "selected": false,
+          "value": "America/Araguaina"
+        },
+        {
+          "disabled": false,
+          "label": "America/Argentina/Buenos_Aires",
+          "selected": false,
+          "value": "America/Argentina/Buenos_Aires"
+        },
+        {
+          "disabled": false,
+          "label": "America/Argentina/Catamarca",
+          "selected": false,
+          "value": "America/Argentina/Catamarca"
+        },
+        {
+          "disabled": false,
+          "label": "America/Argentina/Cordoba",
+          "selected": false,
+          "value": "America/Argentina/Cordoba"
+        },
+        {
+          "disabled": false,
+          "label": "America/Argentina/Jujuy",
+          "selected": false,
+          "value": "America/Argentina/Jujuy"
+        },
+        {
+          "disabled": false,
+          "label": "America/Argentina/La_Rioja",
+          "selected": false,
+          "value": "America/Argentina/La_Rioja"
+        },
+        {
+          "disabled": false,
+          "label": "America/Argentina/Mendoza",
+          "selected": false,
+          "value": "America/Argentina/Mendoza"
+        },
+        {
+          "disabled": false,
+          "label": "America/Argentina/Rio_Gallegos",
+          "selected": false,
+          "value": "America/Argentina/Rio_Gallegos"
+        },
+        {
+          "disabled": false,
+          "label": "America/Argentina/Salta",
+          "selected": false,
+          "value": "America/Argentina/Salta"
+        },
+        {
+          "disabled": false,
+          "label": "America/Argentina/San_Juan",
+          "selected": false,
+          "value": "America/Argentina/San_Juan"
+        },
+        {
+          "disabled": false,
+          "label": "America/Argentina/San_Luis",
+          "selected": false,
+          "value": "America/Argentina/San_Luis"
+        },
+        {
+          "disabled": false,
+          "label": "America/Argentina/Tucuman",
+          "selected": false,
+          "value": "America/Argentina/Tucuman"
+        },
+        {
+          "disabled": false,
+          "label": "America/Argentina/Ushuaia",
+          "selected": false,
+          "value": "America/Argentina/Ushuaia"
+        },
+        {
+          "disabled": false,
+          "label": "America/Aruba",
+          "selected": false,
+          "value": "America/Aruba"
+        },
+        {
+          "disabled": false,
+          "label": "America/Asuncion",
+          "selected": false,
+          "value": "America/Asuncion"
+        },
+        {
+          "disabled": false,
+          "label": "America/Atikokan",
+          "selected": false,
+          "value": "America/Atikokan"
+        },
+        {
+          "disabled": false,
+          "label": "America/Atka",
+          "selected": false,
+          "value": "America/Atka"
+        },
+        {
+          "disabled": false,
+          "label": "America/Bahia",
+          "selected": false,
+          "value": "America/Bahia"
+        },
+        {
+          "disabled": false,
+          "label": "America/Bahia_Banderas",
+          "selected": false,
+          "value": "America/Bahia_Banderas"
+        },
+        {
+          "disabled": false,
+          "label": "America/Barbados",
+          "selected": false,
+          "value": "America/Barbados"
+        },
+        {
+          "disabled": false,
+          "label": "America/Belem",
+          "selected": false,
+          "value": "America/Belem"
+        },
+        {
+          "disabled": false,
+          "label": "America/Belize",
+          "selected": false,
+          "value": "America/Belize"
+        },
+        {
+          "disabled": false,
+          "label": "America/Blanc-Sablon",
+          "selected": false,
+          "value": "America/Blanc-Sablon"
+        },
+        {
+          "disabled": false,
+          "label": "America/Boa_Vista",
+          "selected": false,
+          "value": "America/Boa_Vista"
+        },
+        {
+          "disabled": false,
+          "label": "America/Bogota",
+          "selected": false,
+          "value": "America/Bogota"
+        },
+        {
+          "disabled": false,
+          "label": "America/Boise",
+          "selected": false,
+          "value": "America/Boise"
+        },
+        {
+          "disabled": false,
+          "label": "America/Cambridge_Bay",
+          "selected": false,
+          "value": "America/Cambridge_Bay"
+        },
+        {
+          "disabled": false,
+          "label": "America/Campo_Grande",
+          "selected": false,
+          "value": "America/Campo_Grande"
+        },
+        {
+          "disabled": false,
+          "label": "America/Cancun",
+          "selected": false,
+          "value": "America/Cancun"
+        },
+        {
+          "disabled": false,
+          "label": "America/Caracas",
+          "selected": false,
+          "value": "America/Caracas"
+        },
+        {
+          "disabled": false,
+          "label": "America/Cayenne",
+          "selected": false,
+          "value": "America/Cayenne"
+        },
+        {
+          "disabled": false,
+          "label": "America/Cayman",
+          "selected": false,
+          "value": "America/Cayman"
+        },
+        {
+          "disabled": false,
+          "label": "America/Chicago",
+          "selected": false,
+          "value": "America/Chicago"
+        },
+        {
+          "disabled": false,
+          "label": "America/Chihuahua",
+          "selected": false,
+          "value": "America/Chihuahua"
+        },
+        {
+          "disabled": false,
+          "label": "America/Ciudad_Juarez",
+          "selected": false,
+          "value": "America/Ciudad_Juarez"
+        },
+        {
+          "disabled": false,
+          "label": "America/Coral_Harbour",
+          "selected": false,
+          "value": "America/Coral_Harbour"
+        },
+        {
+          "disabled": false,
+          "label": "America/Costa_Rica",
+          "selected": false,
+          "value": "America/Costa_Rica"
+        },
+        {
+          "disabled": false,
+          "label": "America/Coyhaique",
+          "selected": false,
+          "value": "America/Coyhaique"
+        },
+        {
+          "disabled": false,
+          "label": "America/Creston",
+          "selected": false,
+          "value": "America/Creston"
+        },
+        {
+          "disabled": false,
+          "label": "America/Cuiaba",
+          "selected": false,
+          "value": "America/Cuiaba"
+        },
+        {
+          "disabled": false,
+          "label": "America/Curacao",
+          "selected": false,
+          "value": "America/Curacao"
+        },
+        {
+          "disabled": false,
+          "label": "America/Danmarkshavn",
+          "selected": false,
+          "value": "America/Danmarkshavn"
+        },
+        {
+          "disabled": false,
+          "label": "America/Dawson",
+          "selected": false,
+          "value": "America/Dawson"
+        },
+        {
+          "disabled": false,
+          "label": "America/Dawson_Creek",
+          "selected": false,
+          "value": "America/Dawson_Creek"
+        },
+        {
+          "disabled": false,
+          "label": "America/Denver",
+          "selected": false,
+          "value": "America/Denver"
+        },
+        {
+          "disabled": false,
+          "label": "America/Detroit",
+          "selected": false,
+          "value": "America/Detroit"
+        },
+        {
+          "disabled": false,
+          "label": "America/Dominica",
+          "selected": false,
+          "value": "America/Dominica"
+        },
+        {
+          "disabled": false,
+          "label": "America/Edmonton",
+          "selected": false,
+          "value": "America/Edmonton"
+        },
+        {
+          "disabled": false,
+          "label": "America/Eirunepe",
+          "selected": false,
+          "value": "America/Eirunepe"
+        },
+        {
+          "disabled": false,
+          "label": "America/El_Salvador",
+          "selected": false,
+          "value": "America/El_Salvador"
+        },
+        {
+          "disabled": false,
+          "label": "America/Ensenada",
+          "selected": false,
+          "value": "America/Ensenada"
+        },
+        {
+          "disabled": false,
+          "label": "America/Fortaleza",
+          "selected": false,
+          "value": "America/Fortaleza"
+        },
+        {
+          "disabled": false,
+          "label": "America/Fort_Nelson",
+          "selected": false,
+          "value": "America/Fort_Nelson"
+        },
+        {
+          "disabled": false,
+          "label": "America/Glace_Bay",
+          "selected": false,
+          "value": "America/Glace_Bay"
+        },
+        {
+          "disabled": false,
+          "label": "America/Goose_Bay",
+          "selected": false,
+          "value": "America/Goose_Bay"
+        },
+        {
+          "disabled": false,
+          "label": "America/Grand_Turk",
+          "selected": false,
+          "value": "America/Grand_Turk"
+        },
+        {
+          "disabled": false,
+          "label": "America/Grenada",
+          "selected": false,
+          "value": "America/Grenada"
+        },
+        {
+          "disabled": false,
+          "label": "America/Guadeloupe",
+          "selected": false,
+          "value": "America/Guadeloupe"
+        },
+        {
+          "disabled": false,
+          "label": "America/Guatemala",
+          "selected": false,
+          "value": "America/Guatemala"
+        },
+        {
+          "disabled": false,
+          "label": "America/Guayaquil",
+          "selected": false,
+          "value": "America/Guayaquil"
+        },
+        {
+          "disabled": false,
+          "label": "America/Guyana",
+          "selected": false,
+          "value": "America/Guyana"
+        },
+        {
+          "disabled": false,
+          "label": "America/Halifax",
+          "selected": false,
+          "value": "America/Halifax"
+        },
+        {
+          "disabled": false,
+          "label": "America/Havana",
+          "selected": false,
+          "value": "America/Havana"
+        },
+        {
+          "disabled": false,
+          "label": "America/Hermosillo",
+          "selected": false,
+          "value": "America/Hermosillo"
+        },
+        {
+          "disabled": false,
+          "label": "America/Indiana/Indianapolis",
+          "selected": false,
+          "value": "America/Indiana/Indianapolis"
+        },
+        {
+          "disabled": false,
+          "label": "America/Indiana/Knox",
+          "selected": false,
+          "value": "America/Indiana/Knox"
+        },
+        {
+          "disabled": false,
+          "label": "America/Indiana/Marengo",
+          "selected": false,
+          "value": "America/Indiana/Marengo"
+        },
+        {
+          "disabled": false,
+          "label": "America/Indiana/Petersburg",
+          "selected": false,
+          "value": "America/Indiana/Petersburg"
+        },
+        {
+          "disabled": false,
+          "label": "America/Indiana/Tell_City",
+          "selected": false,
+          "value": "America/Indiana/Tell_City"
+        },
+        {
+          "disabled": false,
+          "label": "America/Indiana/Vevay",
+          "selected": false,
+          "value": "America/Indiana/Vevay"
+        },
+        {
+          "disabled": false,
+          "label": "America/Indiana/Vincennes",
+          "selected": false,
+          "value": "America/Indiana/Vincennes"
+        },
+        {
+          "disabled": false,
+          "label": "America/Indiana/Winamac",
+          "selected": false,
+          "value": "America/Indiana/Winamac"
+        },
+        {
+          "disabled": false,
+          "label": "America/Inuvik",
+          "selected": false,
+          "value": "America/Inuvik"
+        },
+        {
+          "disabled": false,
+          "label": "America/Iqaluit",
+          "selected": false,
+          "value": "America/Iqaluit"
+        },
+        {
+          "disabled": false,
+          "label": "America/Jamaica",
+          "selected": false,
+          "value": "America/Jamaica"
+        },
+        {
+          "disabled": false,
+          "label": "America/Juneau",
+          "selected": false,
+          "value": "America/Juneau"
+        },
+        {
+          "disabled": false,
+          "label": "America/Kentucky/Louisville",
+          "selected": false,
+          "value": "America/Kentucky/Louisville"
+        },
+        {
+          "disabled": false,
+          "label": "America/Kentucky/Monticello",
+          "selected": false,
+          "value": "America/Kentucky/Monticello"
+        },
+        {
+          "disabled": false,
+          "label": "America/Kralendijk",
+          "selected": false,
+          "value": "America/Kralendijk"
+        },
+        {
+          "disabled": false,
+          "label": "America/La_Paz",
+          "selected": false,
+          "value": "America/La_Paz"
+        },
+        {
+          "disabled": false,
+          "label": "America/Lima",
+          "selected": false,
+          "value": "America/Lima"
+        },
+        {
+          "disabled": false,
+          "label": "America/Los_Angeles",
+          "selected": false,
+          "value": "America/Los_Angeles"
+        },
+        {
+          "disabled": false,
+          "label": "America/Lower_Princes",
+          "selected": false,
+          "value": "America/Lower_Princes"
+        },
+        {
+          "disabled": false,
+          "label": "America/Maceio",
+          "selected": false,
+          "value": "America/Maceio"
+        },
+        {
+          "disabled": false,
+          "label": "America/Managua",
+          "selected": false,
+          "value": "America/Managua"
+        },
+        {
+          "disabled": false,
+          "label": "America/Manaus",
+          "selected": false,
+          "value": "America/Manaus"
+        },
+        {
+          "disabled": false,
+          "label": "America/Marigot",
+          "selected": false,
+          "value": "America/Marigot"
+        },
+        {
+          "disabled": false,
+          "label": "America/Martinique",
+          "selected": false,
+          "value": "America/Martinique"
+        },
+        {
+          "disabled": false,
+          "label": "America/Matamoros",
+          "selected": false,
+          "value": "America/Matamoros"
+        },
+        {
+          "disabled": false,
+          "label": "America/Mazatlan",
+          "selected": false,
+          "value": "America/Mazatlan"
+        },
+        {
+          "disabled": false,
+          "label": "America/Menominee",
+          "selected": false,
+          "value": "America/Menominee"
+        },
+        {
+          "disabled": false,
+          "label": "America/Merida",
+          "selected": false,
+          "value": "America/Merida"
+        },
+        {
+          "disabled": false,
+          "label": "America/Metlakatla",
+          "selected": false,
+          "value": "America/Metlakatla"
+        },
+        {
+          "disabled": false,
+          "label": "America/Mexico_City",
+          "selected": false,
+          "value": "America/Mexico_City"
+        },
+        {
+          "disabled": false,
+          "label": "America/Miquelon",
+          "selected": false,
+          "value": "America/Miquelon"
+        },
+        {
+          "disabled": false,
+          "label": "America/Moncton",
+          "selected": false,
+          "value": "America/Moncton"
+        },
+        {
+          "disabled": false,
+          "label": "America/Monterrey",
+          "selected": false,
+          "value": "America/Monterrey"
+        },
+        {
+          "disabled": false,
+          "label": "America/Montevideo",
+          "selected": false,
+          "value": "America/Montevideo"
+        },
+        {
+          "disabled": false,
+          "label": "America/Montreal",
+          "selected": false,
+          "value": "America/Montreal"
+        },
+        {
+          "disabled": false,
+          "label": "America/Montserrat",
+          "selected": false,
+          "value": "America/Montserrat"
+        },
+        {
+          "disabled": false,
+          "label": "America/Nassau",
+          "selected": false,
+          "value": "America/Nassau"
+        },
+        {
+          "disabled": false,
+          "label": "America/New_York",
+          "selected": false,
+          "value": "America/New_York"
+        },
+        {
+          "disabled": false,
+          "label": "America/Nipigon",
+          "selected": false,
+          "value": "America/Nipigon"
+        },
+        {
+          "disabled": false,
+          "label": "America/Nome",
+          "selected": false,
+          "value": "America/Nome"
+        },
+        {
+          "disabled": false,
+          "label": "America/Noronha",
+          "selected": false,
+          "value": "America/Noronha"
+        },
+        {
+          "disabled": false,
+          "label": "America/North_Dakota/Beulah",
+          "selected": false,
+          "value": "America/North_Dakota/Beulah"
+        },
+        {
+          "disabled": false,
+          "label": "America/North_Dakota/Center",
+          "selected": false,
+          "value": "America/North_Dakota/Center"
+        },
+        {
+          "disabled": false,
+          "label": "America/North_Dakota/New_Salem",
+          "selected": false,
+          "value": "America/North_Dakota/New_Salem"
+        },
+        {
+          "disabled": false,
+          "label": "America/Nuuk",
+          "selected": false,
+          "value": "America/Nuuk"
+        },
+        {
+          "disabled": false,
+          "label": "America/Ojinaga",
+          "selected": false,
+          "value": "America/Ojinaga"
+        },
+        {
+          "disabled": false,
+          "label": "America/Panama",
+          "selected": false,
+          "value": "America/Panama"
+        },
+        {
+          "disabled": false,
+          "label": "America/Pangnirtung",
+          "selected": false,
+          "value": "America/Pangnirtung"
+        },
+        {
+          "disabled": false,
+          "label": "America/Paramaribo",
+          "selected": false,
+          "value": "America/Paramaribo"
+        },
+        {
+          "disabled": false,
+          "label": "America/Phoenix",
+          "selected": false,
+          "value": "America/Phoenix"
+        },
+        {
+          "disabled": false,
+          "label": "America/Port-au-Prince",
+          "selected": false,
+          "value": "America/Port-au-Prince"
+        },
+        {
+          "disabled": false,
+          "label": "America/Porto_Acre",
+          "selected": false,
+          "value": "America/Porto_Acre"
+        },
+        {
+          "disabled": false,
+          "label": "America/Port_of_Spain",
+          "selected": false,
+          "value": "America/Port_of_Spain"
+        },
+        {
+          "disabled": false,
+          "label": "America/Porto_Velho",
+          "selected": false,
+          "value": "America/Porto_Velho"
+        },
+        {
+          "disabled": false,
+          "label": "America/Puerto_Rico",
+          "selected": false,
+          "value": "America/Puerto_Rico"
+        },
+        {
+          "disabled": false,
+          "label": "America/Punta_Arenas",
+          "selected": false,
+          "value": "America/Punta_Arenas"
+        },
+        {
+          "disabled": false,
+          "label": "America/Rainy_River",
+          "selected": false,
+          "value": "America/Rainy_River"
+        },
+        {
+          "disabled": false,
+          "label": "America/Rankin_Inlet",
+          "selected": false,
+          "value": "America/Rankin_Inlet"
+        },
+        {
+          "disabled": false,
+          "label": "America/Recife",
+          "selected": false,
+          "value": "America/Recife"
+        },
+        {
+          "disabled": false,
+          "label": "America/Regina",
+          "selected": false,
+          "value": "America/Regina"
+        },
+        {
+          "disabled": false,
+          "label": "America/Resolute",
+          "selected": false,
+          "value": "America/Resolute"
+        },
+        {
+          "disabled": false,
+          "label": "America/Rio_Branco",
+          "selected": false,
+          "value": "America/Rio_Branco"
+        },
+        {
+          "disabled": false,
+          "label": "America/Santa_Isabel",
+          "selected": false,
+          "value": "America/Santa_Isabel"
+        },
+        {
+          "disabled": false,
+          "label": "America/Santarem",
+          "selected": false,
+          "value": "America/Santarem"
+        },
+        {
+          "disabled": false,
+          "label": "America/Santiago",
+          "selected": false,
+          "value": "America/Santiago"
+        },
+        {
+          "disabled": false,
+          "label": "America/Santo_Domingo",
+          "selected": false,
+          "value": "America/Santo_Domingo"
+        },
+        {
+          "disabled": false,
+          "label": "America/Sao_Paulo",
+          "selected": false,
+          "value": "America/Sao_Paulo"
+        },
+        {
+          "disabled": false,
+          "label": "America/Scoresbysund",
+          "selected": false,
+          "value": "America/Scoresbysund"
+        },
+        {
+          "disabled": false,
+          "label": "America/Shiprock",
+          "selected": false,
+          "value": "America/Shiprock"
+        },
+        {
+          "disabled": false,
+          "label": "America/Sitka",
+          "selected": false,
+          "value": "America/Sitka"
+        },
+        {
+          "disabled": false,
+          "label": "America/St_Barthelemy",
+          "selected": false,
+          "value": "America/St_Barthelemy"
+        },
+        {
+          "disabled": false,
+          "label": "America/St_Johns",
+          "selected": false,
+          "value": "America/St_Johns"
+        },
+        {
+          "disabled": false,
+          "label": "America/St_Kitts",
+          "selected": false,
+          "value": "America/St_Kitts"
+        },
+        {
+          "disabled": false,
+          "label": "America/St_Lucia",
+          "selected": false,
+          "value": "America/St_Lucia"
+        },
+        {
+          "disabled": false,
+          "label": "America/St_Thomas",
+          "selected": false,
+          "value": "America/St_Thomas"
+        },
+        {
+          "disabled": false,
+          "label": "America/St_Vincent",
+          "selected": false,
+          "value": "America/St_Vincent"
+        },
+        {
+          "disabled": false,
+          "label": "America/Swift_Current",
+          "selected": false,
+          "value": "America/Swift_Current"
+        },
+        {
+          "disabled": false,
+          "label": "America/Tegucigalpa",
+          "selected": false,
+          "value": "America/Tegucigalpa"
+        },
+        {
+          "disabled": false,
+          "label": "America/Thule",
+          "selected": false,
+          "value": "America/Thule"
+        }
+      ],
+      "options_truncated": true,
+      "ref": "e1859",
+      "role": null,
+      "tag": "select",
+      "text": "Africa/Abidjan\nAfrica/Accra\nAfrica/Addis_Ababa\nAfrica/Algiers\nAfrica/Asmara\nAfrica/Bamako\nAfrica/Bangui\nAfrica/Banjul\nAfrica/Bissau\nAfrica/Blantyre\nAfrica/Brazzaville\nAfrica/Bujumbura\nAfrica/Cairo\nAfrica/Casablanca\nAfrica/Ceuta\nAfrica/Conakry\nAfrica/Dakar\nAfrica/Dar_es_Salaam\nAfrica/Djibouti\nAfrica/",
+      "value": "Europe/Paris"
+    },
+    {
+      "bounds": [
+        202,
+        923,
+        140,
+        19
+      ],
+      "label": "Theme",
+      "name": "theme",
+      "offscreen": true,
+      "options": [
+        {
+          "disabled": false,
+          "label": "Dark - Sans Serif",
+          "selected": true,
+          "value": "dark_sans_serif"
+        },
+        {
+          "disabled": false,
+          "label": "Dark - Serif",
+          "selected": false,
+          "value": "dark_serif"
+        },
+        {
+          "disabled": false,
+          "label": "Light - Sans Serif",
+          "selected": false,
+          "value": "light_sans_serif"
+        },
+        {
+          "disabled": false,
+          "label": "Light - Serif",
+          "selected": false,
+          "value": "light_serif"
+        },
+        {
+          "disabled": false,
+          "label": "System - Sans Serif",
+          "selected": false,
+          "value": "system_sans_serif"
+        },
+        {
+          "disabled": false,
+          "label": "System - Serif",
+          "selected": false,
+          "value": "system_serif"
+        }
+      ],
+      "ref": "e1860",
+      "role": null,
+      "tag": "select",
+      "text": "Dark - Sans Serif\nDark - Serif\nLight - Sans Serif\nLight - Serif\nSystem - Sans Serif\nSystem - Serif",
+      "value": "dark_sans_serif"
+    },
+    {
+      "aria": "Documentation: Progressive Web App (PWA) display mode",
+      "bounds": [
+        596,
+        957,
+        18,
+        18
+      ],
+      "href": "[external]",
+      "offscreen": true,
+      "ref": "e1861",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        202,
+        975,
+        90,
+        19
+      ],
+      "label": "Progressive Web App (PWA) display mode",
+      "name": "display_mode",
+      "offscreen": true,
+      "options": [
+        {
+          "disabled": false,
+          "label": "Fullscreen",
+          "selected": false,
+          "value": "fullscreen"
+        },
+        {
+          "disabled": false,
+          "label": "Standalone",
+          "selected": true,
+          "value": "standalone"
+        },
+        {
+          "disabled": false,
+          "label": "Minimal",
+          "selected": false,
+          "value": "minimal-ui"
+        },
+        {
+          "disabled": false,
+          "label": "Browser",
+          "selected": false,
+          "value": "browser"
+        }
+      ],
+      "ref": "e1862",
+      "role": null,
+      "tag": "select",
+      "text": "Fullscreen\nStandalone\nMinimal\nBrowser",
+      "value": "standalone"
+    },
+    {
+      "bounds": [
+        202,
+        1027,
+        87,
+        19
+      ],
+      "label": "Default home page",
+      "name": "default_home_page",
+      "offscreen": true,
+      "options": [
+        {
+          "disabled": false,
+          "label": "Categories",
+          "selected": false,
+          "value": "categories"
+        },
+        {
+          "disabled": false,
+          "label": "Feeds",
+          "selected": false,
+          "value": "feeds"
+        },
+        {
+          "disabled": false,
+          "label": "History",
+          "selected": false,
+          "value": "history"
+        },
+        {
+          "disabled": false,
+          "label": "Starred",
+          "selected": false,
+          "value": "starred"
+        },
+        {
+          "disabled": false,
+          "label": "Unread",
+          "selected": true,
+          "value": "unread"
+        }
+      ],
+      "ref": "e1863",
+      "role": null,
+      "tag": "select",
+      "text": "Categories\nFeeds\nHistory\nStarred\nUnread",
+      "value": "unread"
+    },
+    {
+      "bounds": [
+        202,
+        1079,
+        134,
+        19
+      ],
+      "label": "Entry sorting",
+      "name": "entry_direction",
+      "offscreen": true,
+      "options": [
+        {
+          "disabled": false,
+          "label": "Older entries first",
+          "selected": false,
+          "value": "asc"
+        },
+        {
+          "disabled": false,
+          "label": "Recent entries first",
+          "selected": true,
+          "value": "desc"
+        }
+      ],
+      "ref": "e1864",
+      "role": null,
+      "tag": "select",
+      "text": "Older entries first\nRecent entries first",
+      "value": "desc"
+    },
+    {
+      "bounds": [
+        202,
+        1131,
+        143,
+        19
+      ],
+      "label": "Entry sorting column",
+      "name": "entry_order",
+      "offscreen": true,
+      "options": [
+        {
+          "disabled": false,
+          "label": "Entry published time",
+          "selected": true,
+          "value": "published_at"
+        },
+        {
+          "disabled": false,
+          "label": "Entry created time",
+          "selected": false,
+          "value": "created_at"
+        }
+      ],
+      "ref": "e1865",
+      "role": null,
+      "tag": "select",
+      "text": "Entry published time\nEntry created time",
+      "value": "published_at"
+    },
+    {
+      "bounds": [
+        202,
+        1183,
+        103,
+        19
+      ],
+      "label": "Categories sorting",
+      "name": "categories_sorting_order",
+      "offscreen": true,
+      "options": [
+        {
+          "disabled": false,
+          "label": "Alphabetical",
+          "selected": false,
+          "value": "alphabetical"
+        },
+        {
+          "disabled": false,
+          "label": "Unread count",
+          "selected": true,
+          "value": "unread_count"
+        }
+      ],
+      "ref": "e1866",
+      "role": null,
+      "tag": "select",
+      "text": "Alphabetical\nUnread count",
+      "value": "unread_count"
+    },
+    {
+      "bounds": [
+        202,
+        1235,
+        87,
+        19
+      ],
+      "label": "Gesture to navigate between entries",
+      "name": "gesture_nav",
+      "offscreen": true,
+      "options": [
+        {
+          "disabled": false,
+          "label": "None",
+          "selected": false,
+          "value": "none"
+        },
+        {
+          "disabled": false,
+          "label": "Double tap",
+          "selected": true,
+          "value": "tap"
+        },
+        {
+          "disabled": false,
+          "label": "Swipe",
+          "selected": false,
+          "value": "swipe"
+        }
+      ],
+      "ref": "e1867",
+      "role": null,
+      "tag": "select",
+      "text": "None\nDouble tap\nSwipe",
+      "value": "tap"
+    },
+    {
+      "bounds": [
+        202,
+        1292,
+        80,
+        28
+      ],
+      "label": "Entries per page",
+      "max": "1000",
+      "min": "1",
+      "name": "entries_per_page",
+      "offscreen": true,
+      "ref": "e1868",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "10"
+    },
+    {
+      "bounds": [
+        202,
+        1340,
+        13,
+        13
+      ],
+      "checked": true,
+      "label": "Enable keyboard shortcuts",
+      "name": "keyboard_shortcuts",
+      "offscreen": true,
+      "ref": "e1869",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        202,
+        1373,
+        13,
+        13
+      ],
+      "checked": true,
+      "label": "Enable entry swipe on touch screens",
+      "name": "entry_swipe",
+      "offscreen": true,
+      "ref": "e1870",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        202,
+        1406,
+        13,
+        13
+      ],
+      "checked": false,
+      "label": "Read articles by opening external links",
+      "name": "always_open_external_links",
+      "offscreen": true,
+      "ref": "e1871",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        202,
+        1439,
+        13,
+        13
+      ],
+      "checked": true,
+      "label": "Open external links in a new tab (adds target=\"_blank\" to links)",
+      "name": "open_external_links_in_new_tab",
+      "offscreen": true,
+      "ref": "e1872",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        202,
+        1485,
+        350,
+        188
+      ],
+      "label": "Custom CSS",
+      "name": "custom_css",
+      "offscreen": true,
+      "ref": "e1873",
+      "role": null,
+      "tag": "textarea",
+      "text": "",
+      "type": "textarea",
+      "value": "body { letter-spacing: 0.5px; }"
+    },
+    {
+      "bounds": [
+        202,
+        1711,
+        350,
+        28
+      ],
+      "label": "External font hosts",
+      "name": "external_font_hosts",
+      "offscreen": true,
+      "ref": "e1874",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        202,
+        1819,
+        350,
+        188
+      ],
+      "label": "Custom JavaScript",
+      "name": "custom_js",
+      "offscreen": true,
+      "ref": "e1875",
+      "role": null,
+      "tag": "textarea",
+      "text": "",
+      "type": "textarea",
+      "value": ""
+    },
+    {
+      "bounds": [
+        202,
+        2032,
+        79,
+        29
+      ],
+      "offscreen": true,
+      "ref": "e1876",
+      "role": null,
+      "tag": "button",
+      "text": "Update"
+    },
+    {
+      "aria": "Documentation: Entry Blocking Rules",
+      "bounds": [
+        414,
+        2116,
+        18,
+        18
+      ],
+      "href": "[external]",
+      "offscreen": true,
+      "ref": "e1877",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        202,
+        2139,
+        350,
+        188
+      ],
+      "label": "Entry Blocking Rules",
+      "name": "block_filter_entry_rules",
+      "offscreen": true,
+      "ref": "e1878",
+      "role": null,
+      "tag": "textarea",
+      "text": "",
+      "type": "textarea",
+      "value": ""
+    },
+    {
+      "aria": "Documentation: Entry Allow Rules",
+      "bounds": [
+        384,
+        2342,
+        18,
+        18
+      ],
+      "href": "[external]",
+      "offscreen": true,
+      "ref": "e1879",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        202,
+        2365,
+        350,
+        188
+      ],
+      "label": "Entry Allow Rules",
+      "name": "keep_filter_entry_rules",
+      "offscreen": true,
+      "ref": "e1880",
+      "role": null,
+      "tag": "textarea",
+      "text": "",
+      "type": "textarea",
+      "value": ""
+    },
+    {
+      "bounds": [
+        202,
+        2578,
+        79,
+        29
+      ],
+      "offscreen": true,
+      "ref": "e1881",
+      "role": null,
+      "tag": "button",
+      "text": "Update"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    2646
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Skip to content\nMini\nflux\nUnread Starred History Feeds (+) Categories Search Settings Logout\nSettings\nSettings Integrations API Keys Sessions Users About\nPassword Authentication\nUsername\nPassword\nPassword Confirmation\nUpdate\nReader Settings\nReading speed for Chinese, Korean and Japanese (characters per minute)\nReading speed for other languages (words per minute)\nPlayback speed of the audio/video\n Show estimated reading time for entries\n Mark entries as read manually\n Automatically mark entries as read when viewed\n Mark entries as read when viewed. For audio/video, mark as read at 90% completion\n Only mark as read when audio/video playback reaches 90% completion\nUpdate\nApplication Settings\nLanguage\nالعربية\nDeutsch\nΕλληνικά\nEnglish\nEspañol\nSuomi\nFrançais\nGalego\nहिन्दी\nBahasa Indonesia\nItaliano\n日本語\n한국어\nPe̍h-ōe-jī\nNederlands\nPolski\nPortuguês Brasileiro\nRomână\nРусский\nTürkçe\nУкраїнська\n简体中文\n繁體中文\nTimezone\nAfrica/Abidjan\nAfrica/Accra\nAfrica/Addis_Ababa\nAfrica/Algiers\nAfrica/Asmara\nAfrica/Bamako\nAfrica/Bangui\nAfrica/Banjul\nAfrica/Bissau\nAfrica/Blantyre\nAfrica/Brazzaville\nAfrica/Bujumbura\nAfrica/Cairo\nAfrica/Casablanca\nAfrica/Ceuta\nAfrica/Conakry\nAfrica/Dakar\nAfrica/Dar_es_Salaam\nAfrica/Djibouti\nAfrica/Douala\nAfrica/El_Aaiun\nAfrica/Freetown\nAfrica/Gaborone\nAfrica/Harare\nAfrica/Johannesburg\nAfrica/Juba\nAfrica/Kampala\nAfrica/Khartoum\nAfrica/Kigali\nAfrica/Kinshasa\nAfrica/Lagos\nAfrica/Libreville\nAfrica/Lome\nAfrica/Luanda\nAfrica/Lubumbashi\nAfrica/Lusaka\nAfrica/Malabo\nAfrica/Maputo\nAfrica/Maseru\nAfrica/Mbabane\nAfrica/Mogadishu\nAfrica/Monrovia\nAfrica/Nairobi\nAfrica/Ndjamena\nAfrica/Niamey\nAfrica/Nouakchott\nAfrica/Ouagadougou\nAfrica/Porto-Novo\nAfrica/Sao_Tome\nAfrica/Timbuktu\nAfrica/Tripoli\nAfrica/Tunis\nAfrica/Windhoek\nAmerica/Adak\nAmerica/Anchorage\nAmerica/Anguilla\nAmerica/Antigua\nAmerica/Araguaina\nAmerica/Argentina/Buenos_Aires\nAmerica/Argentina/Catamarca\nAmerica/Argentina/Cordoba\nAmerica/Argentina/Jujuy\nAmerica/Argentina/La_Rioja\nAmerica/Argentina/Mendoza\nAmerica/Argentina/Rio_Gallegos\nAmerica/Argentina/Salta\nAmerica/Argentina/San_Juan\nAmerica/Argentina/San_Luis\nAmerica/Argentina/Tucuman\nAmerica/Argentina/Ushuaia\nAmerica/Aruba\nAmerica/Asuncion\nAmerica/Atikokan\nAmerica/Atka\nAmerica/Bahia\nAmerica/Bahia_Banderas\nAmerica/Barbados\nAmerica/Belem\nAmerica/Belize\nAmerica/Blanc-Sablon\nAmerica/Boa_Vista\nAmerica/Bogota\nAmerica/Boise\nAmerica/Cambridge_Bay\nAmerica/Campo_Grande\nAmerica/Cancun\nAmerica/Caracas\nAmerica/Cayenne\nAmerica/Cayman\nAmerica/Chicago\nAmerica/Chihuahua\nAmerica/Ciudad_Juarez\nAmerica/Coral_Harbour\nAmerica/Costa_Rica\nAmerica/Coyhaique\nAmerica/Creston\nAmerica/Cuiaba\nAmerica/Curacao\nAmerica/Danmarkshavn\nAmerica/Dawson\nAmerica/Dawson_Creek\nAmerica/Denver\nAmerica/Detroit\nAmerica/Dominica\nAmerica/Edmonton\nAmerica/Eirunepe\nAmerica/El_Salvador\nAmerica/Ensenada\nAmerica/Fortaleza\nAmerica/Fort_Nelson\nAmerica/Glace_Bay\nAmerica/Goose_Bay\nAmerica/Grand_Turk\nAmerica/Grenada\nAmerica/Guadeloupe\nAmerica/Guatemala\nAmerica/Guayaquil\nAmerica/Guyana\nAmerica/Halifax\nAmerica/Havana\nAmerica/Hermosillo\nAmerica/Indiana/Indianapolis\nAmerica/Indiana/Knox\nAmerica/Indiana/Marengo\nAmerica/Indiana/Petersburg\nAmerica/Indiana/Tell_City\nAmerica/Indiana/Vevay\nAmerica/Indiana/Vincennes\nAmerica/Indiana/Winamac\nAmerica/Inuvik\nAmerica/Iqaluit\nAmerica/Jamaica\nAmerica/Juneau\nAmerica/Kentucky/Louisville\nAmerica/Kentucky/Monticello\nAmerica/Kralendijk\nAmerica/La_Paz\nAmerica/Lima\nAmerica/Los_Angeles\nAmerica/Lower_Princes\nAmerica/Maceio\nAmerica/Managua\nAmerica/Manaus\nAmerica/Marigot\nAmerica/Martinique\nAmerica/Matamoros\nAmerica/Mazatlan\nAmerica/Menominee\nAmerica/Merida\nAmerica/Metlakatla\nAmerica/Mexico_City\nAmerica/Miquelon\nAmerica/Moncton\nAmerica/Monterrey\nAmerica/Montevideo\nAmerica/Montreal\nAmerica/Montserrat\nAmerica/Nassau\nAmerica/New_York\nAmerica/Nipigon\nAmerica/Nome\nAmerica/Noronha\nAmerica/North_Dakota/Beulah\nAmerica/North_Dakota/Center\nAmerica/North_Dakota/New_Salem\nAmerica/Nuuk\nAmerica/Ojinaga\nAmerica/Panama\nAmerica/Pangnirtung\nAmerica/Paramaribo\nAmerica/Phoenix\nAmerica/Port-au-Prince\nAmerica/Porto_Acre\nAmerica/Port_of_Spain\nAmerica/Porto_Velho\nAmerica/Puerto_Rico\nAmerica/Punta_Arenas\nAmerica/Rainy_River\nAmerica/Rankin_Inlet\nAmerica/Recife\nAmerica/Regina\nAmerica/Resolute\nAmerica/Rio_Branco\nAmerica/Santa_Isabel\nAmerica/Santarem\nAmerica/Santiago\nAmerica/Santo_Domingo\nAmerica/Sao_Paulo\nAmerica/Scoresbysund\nAmerica/Shiprock\nAmerica/Sitka\nAmerica/St_Barthelemy\nAmerica/St_Johns\nAmerica/St_Kitts\nAmerica/St_Lucia\nAmerica/St_Thomas\nAmerica/St_Vincent\nAmerica/Swift_Current\nAmerica/Tegucigalpa\nAmerica/Thule\nAmerica/Thunder_Bay\nAmerica/Tijuana\nAmerica/Toronto\nAmerica/Tortola\nAmerica/Vancouver\nAmerica/Virgin\nAmerica/Whitehorse\nAmerica/Winnipeg\nAmerica/Yakutat\nAmerica/Yellowknife\nAntarctica/Casey\nAntarctica/Davis\nAntarctica/DumontDUrville\nAntarctica/Macquarie\nAntarctica/Mawson\nAntarctica/McMurdo\nAntarctica/Palmer\nAntarctica/Rothera\nAntarctica/Syowa\nAntarctica/Troll\nAntarctica/Vostok\nArctic/Longyearbyen\nAsia/Aden\nAsia/Almaty\nAsia/Amman\nAsia/Anadyr\nAsia/Aqtau\nAsia/Aqtobe\nAsia/Ashgabat\nAsia/Atyrau\nAsia/Baghdad\nAsia/Bahrain\nAsia/Baku\nAsia/Bangkok\nAsia/Barnaul\nAsia/Beirut\nAsia/Bishkek\nAsia/Brunei\nAsia/Chita\nAsia/Chongqing\nAsia/Colombo\nAsia/Damascus\nAsia/Dhaka\nAsia/Dili\nAsia/Dubai\nAsia/Dushanbe\nAsia/Famagusta\nAsia/Gaza\nAsia/Harbin\nAsia/Hebron\nAsia/Ho_Chi_Minh\nAsia/Hong_Kong\nAsia/Hovd\nAsia/Irkutsk\nAsia/Istanbul\nAsia/Jakarta\nAsia/Jayapura\nAsia/Jerusalem\nAsia/Kabul\nAsia/Kamchatka\nAsia/Karachi\nAsia/Kashgar\nAsia/Kathmandu\nAsia/Khandyga\nAsia/Kolkata\nAsia/Krasnoyarsk\nAsia/Kuala_Lumpur\nAsia/Kuching\nAsia/Kuwait\nAsia/Macau\nAsia/Magadan\nAsia/Makassar\nAsia/Manila\nAsia/Muscat\nAsia/Nicosia\nAsia/Novokuznetsk\nAsia/Novosibirsk\nAsia/Omsk\nAsia/Oral\nAsia/Phnom_Penh\nAsia/Pontianak\nAsia/Pyongyang\nAsia/Qatar\nAsia/Qostanay\nAsia/Qyzylorda\nAsia/Riyadh\nAsia/Sakhalin\nAsia/Samarkand\nAsia/Seoul\nAsia/Shanghai\nAsia/Singapore\nAsia/Srednekolymsk\nAsia/Taipei\nAsia/Tashkent\nAsia/Tbilisi\nAsia/Tehran\nAsia/Tel_Aviv\nAsia/Thimphu\nAsia/Tokyo\nAsia/Tomsk\nAsia/Ulaanbaatar\nAsia/Urumqi\nAsia/Ust-Nera\nAsia/Vientiane\nAsia/Vladivostok\nAsia/Yakutsk\nAsia/Yangon\nAsia/Yekaterinburg\nAsia/Yerevan\nAtlantic/Azores\nAtlantic/Bermuda\nAtlantic/Canary\nAtlantic/Cape_Verde\nAtlantic/Faroe\nAtlantic/Jan_Mayen\nAtlantic/Madeira\nAtlantic/Reykjavik\nAtlantic/South_Georgia\nAtlantic/Stanley\nAtlantic/St_Helena\nAustralia/Adelaide\nAustralia/Brisbane\nAustralia/Broken_Hill\nAustralia/Canberra\nAustralia/Currie\nAustralia/Darwin\nAustralia/Eucla\nAustralia/Hobart\nAustralia/Lindeman\nAustralia/Lord_Howe\nAustralia/Melbourne\nAustralia/Perth\nAustralia/Sydney\nAustralia/Yancowinna\nEurope/Amsterdam\nEurope/Andorra\nEurope/Astrakhan\nEurope/Athens\nEurope/Belfast\nEurope/Belgrade\nEurope/Berlin\nEurope/Bratislava\nEurope/Brussels\nEurope/Bucharest\nEurope/Budapest\nEurope/Busingen\nEurope/Chisinau\nEurope/Copenhagen\nEurope/Dublin\nEurope/Gibraltar\nEurope/Guernsey\nEurope/Helsinki\nEurope/Isle_of_Man\nEurope/Istanbul\nEurope/Jersey\nEurope/Kaliningrad\nEurope/Kirov\nEurope/Kyiv\nEurope/Lisbon\nEurope/Ljubljana\nEurope/London\nEurope/Luxembourg\nEurope/Madrid\nEurope/Malta\nEurope/Mariehamn\nEurope/Minsk\nEurope/Monaco\nEurope/Moscow\nEurope/Nicosia\nEurope/Oslo\nEurope/Paris\nEurope/Podgorica\nEurope/Prague\nEurope/Riga\nEurope/Rome\nEurope/Samara\nEurope/San_Marino\nEurope/Sarajevo\nEurope/Saratov\nEurope/Simferopol\nEurope/Skopje\nEurope/Sofia\nEurope/Stockholm\nEurope/Tallinn\nEurope/Tirane\nEurope/Tiraspol\nEurope/Ulyanovsk\nEurope/Vaduz\nEurope/Vatican\nEurope/Vienna\nEurope/Vilnius\nEurope/Volgograd\nEurope/Warsaw\nEurope/Zagreb\nEurope/Zurich\nGMT\nIndian/Antananarivo\nIndian/Chagos\nIndian/Christmas\nIndian/Cocos\nIndian/Comoro\nIndian/Kerguelen\nIndian/Mahe\nIndian/Maldives\nIndian/Mauritius\nIndian/Mayotte\nIndian/Reunion\nPacific/Apia\nPacific/Auckland\nPacific/Bougainville\nPacific/Chatham\nPacific/Chuuk\nPacific/Easter\nPacific/Efate\nPacific/Fakaofo\nPacific/Fiji\nPacific/Funafuti\nPacific/Galapagos\nPacific/Gambier\nPacific/Guadalcanal\nPacific/Guam\nPacific/Honolulu\nPacific/Johnston\nPacific/Kanton\nPacific/Kiritimati\nPacific/Kosrae\nPacific/Kwajalein\nPacific/Majuro\nPacific/Marquesas\nPacific/Midway\nPacific/Nauru\nPacific/Niue\nPacific/Norfolk\nPacific/Noumea\nPacific/Pago_Pago\nPacific/Palau\nPacific/Pitcairn\nPacific/Pohnpei\nPacific/Port_Moresby\nPacific/Rarotonga\nPacific/Saipan\nPacific/Samoa\nPacific/Tahiti\nPacific/Tarawa\nPacific/Tongatapu\nPacific/Wake\nPacific/Wallis\nPacific/Yap\nUTC\nTheme\nDark - Sans Serif\nDark - Serif\nLight - Sans Serif\nLight - Serif\nSystem - Sans Serif\nSystem - Serif\nProgressive Web App (PWA) display mode\n \nFullscreen\nStandalone\nMinimal\nBrowser\nDefault home page\nCategories\nFeeds\nHistory\nStarred\nUnread\nEntry sorting\nOlder entries first\nRecent entries first\nEntry sorting column\nEntry published time\nEntry created time\nCategories sorting\nAlphabetical\nUnread count\nGesture to navigate between entries\nNone\nDouble tap\nSwipe\nEntries per page\n Enable keyboard shortcuts\n Enable entry swipe on touch screens\n Read articles by opening external links\n Open external links in a new tab (adds target=\"_blank\" to links)\nCustom CSS\nExternal font hosts\nSpace separated list of external font hosts to allow. For example: \"fonts.gstatic.com fonts.googleapis.com\".\nCustom JavaScript\nUpdate\nGlobal Feed Settings\nEntry Blocking Rules\n \nEntry Allow Rules\n \nUpdate",
+  "text_truncated": false,
+  "title": "Settings - Miniflux",
+  "url": "/settings",
+  "viewport": [
+    1280,
+    900
+  ]
+}

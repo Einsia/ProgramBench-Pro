@@ -1,0 +1,3748 @@
+{
+  "frontend": {
+    "gui-annotated-tag/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-annotated-tag/show/reference-after/e00002",
+        "observation": "reference/gui-annotated-tag/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-annotated-tag"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-annotated-tag/show/reference-before/e00001",
+        "observation": "reference/gui-annotated-tag/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-annotated-tag"
+      }
+    },
+    "gui-back-from-tree/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-back-from-tree/show/reference-after/e00002",
+        "observation": "reference/gui-back-from-tree/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-back-from-tree"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-back-from-tree/show/reference-before/e00001",
+        "observation": "reference/gui-back-from-tree/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-back-from-tree"
+      }
+    },
+    "gui-blame/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-blame/show/reference-after/e00002",
+        "observation": "reference/gui-blame/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-blame"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-blame/show/reference-before/e00001",
+        "observation": "reference/gui-blame/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-blame"
+      }
+    },
+    "gui-blob/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-blob/show/reference-after/e00002",
+        "observation": "reference/gui-blob/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-blob"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-blob/show/reference-before/e00001",
+        "observation": "reference/gui-blob/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-blob"
+      }
+    },
+    "gui-branch-checkout/checkout": {
+      "after": {
+        "checkpoint": "checkout",
+        "id": "gui-branch-checkout/checkout/reference-after/e00002",
+        "observation": "reference/gui-branch-checkout/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-branch-checkout"
+      },
+      "before": {
+        "checkpoint": "checkout",
+        "id": "gui-branch-checkout/checkout/reference-before/e00001",
+        "observation": "reference/gui-branch-checkout/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-branch-checkout"
+      }
+    },
+    "gui-branch-delete/delete": {
+      "after": {
+        "checkpoint": "delete",
+        "id": "gui-branch-delete/delete/reference-after/e00002",
+        "observation": "reference/gui-branch-delete/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-branch-delete"
+      },
+      "before": {
+        "checkpoint": "delete",
+        "id": "gui-branch-delete/delete/reference-before/e00001",
+        "observation": "reference/gui-branch-delete/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-branch-delete"
+      }
+    },
+    "gui-commit-notes/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-commit-notes/show/reference-after/e00002",
+        "observation": "reference/gui-commit-notes/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-commit-notes"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-commit-notes/show/reference-before/e00001",
+        "observation": "reference/gui-commit-notes/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-commit-notes"
+      }
+    },
+    "gui-console-message/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-console-message/show/reference-after/e00002",
+        "observation": "reference/gui-console-message/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-console-message"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-console-message/show/reference-before/e00001",
+        "observation": "reference/gui-console-message/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-console-message"
+      }
+    },
+    "gui-custom-binding/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-custom-binding/show/reference-after/e00002",
+        "observation": "reference/gui-custom-binding/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-custom-binding"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-custom-binding/show/reference-before/e00001",
+        "observation": "reference/gui-custom-binding/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-custom-binding"
+      }
+    },
+    "gui-detail-author-date/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-detail-author-date/show/reference-after/e00002",
+        "observation": "reference/gui-detail-author-date/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-detail-author-date"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-detail-author-date/show/reference-before/e00001",
+        "observation": "reference/gui-detail-author-date/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-detail-author-date"
+      }
+    },
+    "gui-detail-back-diff/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-detail-back-diff/show/reference-after/e00002",
+        "observation": "reference/gui-detail-back-diff/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-detail-back-diff"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-detail-back-diff/show/reference-before/e00001",
+        "observation": "reference/gui-detail-back-diff/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-detail-back-diff"
+      }
+    },
+    "gui-detail-blame-email/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-detail-blame-email/show/reference-after/e00002",
+        "observation": "reference/gui-detail-blame-email/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-detail-blame-email"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-detail-blame-email/show/reference-before/e00001",
+        "observation": "reference/gui-detail-blame-email/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-detail-blame-email"
+      }
+    },
+    "gui-detail-blame-parent/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-detail-blame-parent/show/reference-after/e00002",
+        "observation": "reference/gui-detail-blame-parent/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-detail-blame-parent"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-detail-blame-parent/show/reference-before/e00001",
+        "observation": "reference/gui-detail-blame-parent/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-detail-blame-parent"
+      }
+    },
+    "gui-detail-diff-next/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-detail-diff-next/show/reference-after/e00002",
+        "observation": "reference/gui-detail-diff-next/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-detail-diff-next"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-detail-diff-next/show/reference-before/e00001",
+        "observation": "reference/gui-detail-diff-next/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-detail-diff-next"
+      }
+    },
+    "gui-detail-diff-numbers/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-detail-diff-numbers/show/reference-after/e00002",
+        "observation": "reference/gui-detail-diff-numbers/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-detail-diff-numbers"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-detail-diff-numbers/show/reference-before/e00001",
+        "observation": "reference/gui-detail-diff-numbers/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-detail-diff-numbers"
+      }
+    },
+    "gui-detail-diff-word/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-detail-diff-word/show/reference-after/e00002",
+        "observation": "reference/gui-detail-diff-word/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-detail-diff-word"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-detail-diff-word/show/reference-before/e00001",
+        "observation": "reference/gui-detail-diff-word/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-detail-diff-word"
+      }
+    },
+    "gui-detail-grep-open/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-detail-grep-open/show/reference-after/e00002",
+        "observation": "reference/gui-detail-grep-open/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-detail-grep-open"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-detail-grep-open/show/reference-before/e00001",
+        "observation": "reference/gui-detail-grep-open/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-detail-grep-open"
+      }
+    },
+    "gui-detail-help-collapse/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-detail-help-collapse/show/reference-after/e00002",
+        "observation": "reference/gui-detail-help-collapse/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-detail-help-collapse"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-detail-help-collapse/show/reference-before/e00001",
+        "observation": "reference/gui-detail-help-collapse/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-detail-help-collapse"
+      }
+    },
+    "gui-detail-help-search/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-detail-help-search/show/reference-after/e00002",
+        "observation": "reference/gui-detail-help-search/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-detail-help-search"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-detail-help-search/show/reference-before/e00001",
+        "observation": "reference/gui-detail-help-search/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-detail-help-search"
+      }
+    },
+    "gui-detail-older-diff/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-detail-older-diff/show/reference-after/e00002",
+        "observation": "reference/gui-detail-older-diff/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-detail-older-diff"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-detail-older-diff/show/reference-before/e00001",
+        "observation": "reference/gui-detail-older-diff/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-detail-older-diff"
+      }
+    },
+    "gui-detail-refresh/refresh": {
+      "after": {
+        "checkpoint": "refresh",
+        "id": "gui-detail-refresh/refresh/reference-after/e00002",
+        "observation": "reference/gui-detail-refresh/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-detail-refresh"
+      },
+      "before": {
+        "checkpoint": "refresh",
+        "id": "gui-detail-refresh/refresh/reference-before/e00001",
+        "observation": "reference/gui-detail-refresh/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-detail-refresh"
+      }
+    },
+    "gui-detail-search-smart/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-detail-search-smart/show/reference-after/e00002",
+        "observation": "reference/gui-detail-search-smart/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-detail-search-smart"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-detail-search-smart/show/reference-before/e00001",
+        "observation": "reference/gui-detail-search-smart/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-detail-search-smart"
+      }
+    },
+    "gui-detail-tag-blob/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-detail-tag-blob/show/reference-after/e00002",
+        "observation": "reference/gui-detail-tag-blob/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-detail-tag-blob"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-detail-tag-blob/show/reference-before/e00001",
+        "observation": "reference/gui-detail-tag-blob/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-detail-tag-blob"
+      }
+    },
+    "gui-detail-tag-tree/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-detail-tag-tree/show/reference-after/e00002",
+        "observation": "reference/gui-detail-tag-tree/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-detail-tag-tree"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-detail-tag-tree/show/reference-before/e00001",
+        "observation": "reference/gui-detail-tag-tree/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-detail-tag-tree"
+      }
+    },
+    "gui-detail-tree-ids/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-detail-tree-ids/show/reference-after/e00002",
+        "observation": "reference/gui-detail-tree-ids/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-detail-tree-ids"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-detail-tree-ids/show/reference-before/e00001",
+        "observation": "reference/gui-detail-tree-ids/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-detail-tree-ids"
+      }
+    },
+    "gui-detail-tree-sort/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-detail-tree-sort/show/reference-after/e00002",
+        "observation": "reference/gui-detail-tree-sort/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-detail-tree-sort"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-detail-tree-sort/show/reference-before/e00001",
+        "observation": "reference/gui-detail-tree-sort/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-detail-tree-sort"
+      }
+    },
+    "gui-diff-context-wide/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-diff-context-wide/show/reference-after/e00002",
+        "observation": "reference/gui-diff-context-wide/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-diff-context-wide"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-diff-context-wide/show/reference-before/e00001",
+        "observation": "reference/gui-diff-context-wide/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-diff-context-wide"
+      }
+    },
+    "gui-diff-context-zero/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-diff-context-zero/show/reference-after/e00002",
+        "observation": "reference/gui-diff-context-zero/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-diff-context-zero"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-diff-context-zero/show/reference-before/e00001",
+        "observation": "reference/gui-diff-context-zero/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-diff-context-zero"
+      }
+    },
+    "gui-diff/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-diff/show/reference-after/e00002",
+        "observation": "reference/gui-diff/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-diff"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-diff/show/reference-before/e00001",
+        "observation": "reference/gui-diff/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-diff"
+      }
+    },
+    "gui-display-author-email/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-display-author-email/show/reference-after/e00002",
+        "observation": "reference/gui-display-author-email/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-display-author-email"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-display-author-email/show/reference-before/e00001",
+        "observation": "reference/gui-display-author-email/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-display-author-email"
+      }
+    },
+    "gui-display-committer/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-display-committer/show/reference-after/e00002",
+        "observation": "reference/gui-display-committer/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-display-committer"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-display-committer/show/reference-before/e00001",
+        "observation": "reference/gui-display-committer/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-display-committer"
+      }
+    },
+    "gui-display-date-custom/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-display-date-custom/show/reference-after/e00002",
+        "observation": "reference/gui-display-date-custom/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-display-date-custom"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-display-date-custom/show/reference-before/e00001",
+        "observation": "reference/gui-display-date-custom/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-display-date-custom"
+      }
+    },
+    "gui-display-graph-ascii/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-display-graph-ascii/show/reference-after/e00002",
+        "observation": "reference/gui-display-graph-ascii/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-display-graph-ascii"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-display-graph-ascii/show/reference-before/e00001",
+        "observation": "reference/gui-display-graph-ascii/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-display-graph-ascii"
+      }
+    },
+    "gui-display-ids/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-display-ids/show/reference-after/e00002",
+        "observation": "reference/gui-display-ids/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-display-ids"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-display-ids/show/reference-before/e00001",
+        "observation": "reference/gui-display-ids/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-display-ids"
+      }
+    },
+    "gui-display-numbers/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-display-numbers/show/reference-after/e00002",
+        "observation": "reference/gui-display-numbers/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-display-numbers"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-display-numbers/show/reference-before/e00001",
+        "observation": "reference/gui-display-numbers/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-display-numbers"
+      }
+    },
+    "gui-display-references/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-display-references/show/reference-after/e00002",
+        "observation": "reference/gui-display-references/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-display-references"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-display-references/show/reference-before/e00001",
+        "observation": "reference/gui-display-references/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-display-references"
+      }
+    },
+    "gui-display-resize/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-display-resize/show/reference-after/e00002",
+        "observation": "reference/gui-display-resize/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-display-resize"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-display-resize/show/reference-before/e00001",
+        "observation": "reference/gui-display-resize/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-display-resize"
+      }
+    },
+    "gui-display-reverse/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-display-reverse/show/reference-after/e00002",
+        "observation": "reference/gui-display-reverse/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-display-reverse"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-display-reverse/show/reference-before/e00001",
+        "observation": "reference/gui-display-reverse/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-display-reverse"
+      }
+    },
+    "gui-display-wrap/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-display-wrap/show/reference-after/e00002",
+        "observation": "reference/gui-display-wrap/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-display-wrap"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-display-wrap/show/reference-before/e00001",
+        "observation": "reference/gui-display-wrap/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-display-wrap"
+      }
+    },
+    "gui-goto-tag/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-goto-tag/show/reference-after/e00002",
+        "observation": "reference/gui-goto-tag/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-goto-tag"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-goto-tag/show/reference-before/e00001",
+        "observation": "reference/gui-goto-tag/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-goto-tag"
+      }
+    },
+    "gui-grep-case/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-grep-case/show/reference-after/e00002",
+        "observation": "reference/gui-grep-case/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-grep-case"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-grep-case/show/reference-before/e00001",
+        "observation": "reference/gui-grep-case/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-grep-case"
+      }
+    },
+    "gui-grep-path/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-grep-path/show/reference-after/e00002",
+        "observation": "reference/gui-grep-path/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-grep-path"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-grep-path/show/reference-before/e00001",
+        "observation": "reference/gui-grep-path/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-grep-path"
+      }
+    },
+    "gui-grep/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-grep/show/reference-after/e00002",
+        "observation": "reference/gui-grep/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-grep"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-grep/show/reference-before/e00001",
+        "observation": "reference/gui-grep/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-grep"
+      }
+    },
+    "gui-help/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-help/show/reference-after/e00002",
+        "observation": "reference/gui-help/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-help"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-help/show/reference-before/e00001",
+        "observation": "reference/gui-help/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-help"
+      }
+    },
+    "gui-history-filter-author/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-history-filter-author/show/reference-after/e00002",
+        "observation": "reference/gui-history-filter-author/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-history-filter-author"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-history-filter-author/show/reference-before/e00001",
+        "observation": "reference/gui-history-filter-author/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-history-filter-author"
+      }
+    },
+    "gui-history-filter-first-parent/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-history-filter-first-parent/show/reference-after/e00002",
+        "observation": "reference/gui-history-filter-first-parent/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-history-filter-first-parent"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-history-filter-first-parent/show/reference-before/e00001",
+        "observation": "reference/gui-history-filter-first-parent/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-history-filter-first-parent"
+      }
+    },
+    "gui-history-filter-path/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-history-filter-path/show/reference-after/e00002",
+        "observation": "reference/gui-history-filter-path/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-history-filter-path"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-history-filter-path/show/reference-before/e00001",
+        "observation": "reference/gui-history-filter-path/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-history-filter-path"
+      }
+    },
+    "gui-history-filter-range/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-history-filter-range/show/reference-after/e00002",
+        "observation": "reference/gui-history-filter-range/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-history-filter-range"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-history-filter-range/show/reference-before/e00001",
+        "observation": "reference/gui-history-filter-range/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-history-filter-range"
+      }
+    },
+    "gui-history-oldest/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-history-oldest/show/reference-after/e00002",
+        "observation": "reference/gui-history-oldest/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-history-oldest"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-history-oldest/show/reference-before/e00001",
+        "observation": "reference/gui-history-oldest/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-history-oldest"
+      }
+    },
+    "gui-history-search/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-history-search/show/reference-after/e00002",
+        "observation": "reference/gui-history-search/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-history-search"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-history-search/show/reference-before/e00001",
+        "observation": "reference/gui-history-search/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-history-search"
+      }
+    },
+    "gui-history/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-history/show/reference-after/e00002",
+        "observation": "reference/gui-history/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-history"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-history/show/reference-before/e00001",
+        "observation": "reference/gui-history/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-history"
+      }
+    },
+    "gui-log/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-log/show/reference-after/e00002",
+        "observation": "reference/gui-log/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-log"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-log/show/reference-before/e00001",
+        "observation": "reference/gui-log/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-log"
+      }
+    },
+    "gui-maximize/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-maximize/show/reference-after/e00002",
+        "observation": "reference/gui-maximize/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-maximize"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-maximize/show/reference-before/e00001",
+        "observation": "reference/gui-maximize/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-maximize"
+      }
+    },
+    "gui-mouse-selection/select": {
+      "after": {
+        "checkpoint": "select",
+        "id": "gui-mouse-selection/select/reference-after/e00002",
+        "observation": "reference/gui-mouse-selection/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-mouse-selection"
+      },
+      "before": {
+        "checkpoint": "select",
+        "id": "gui-mouse-selection/select/reference-before/e00001",
+        "observation": "reference/gui-mouse-selection/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-mouse-selection"
+      }
+    },
+    "gui-pager-end/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-pager-end/show/reference-after/e00002",
+        "observation": "reference/gui-pager-end/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-pager-end"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-pager-end/show/reference-before/e00001",
+        "observation": "reference/gui-pager-end/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-pager-end"
+      }
+    },
+    "gui-pager-number/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-pager-number/show/reference-after/e00002",
+        "observation": "reference/gui-pager-number/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-pager-number"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-pager-number/show/reference-before/e00001",
+        "observation": "reference/gui-pager-number/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-pager-number"
+      }
+    },
+    "gui-pager-search/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-pager-search/show/reference-after/e00002",
+        "observation": "reference/gui-pager-search/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-pager-search"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-pager-search/show/reference-before/e00001",
+        "observation": "reference/gui-pager-search/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-pager-search"
+      }
+    },
+    "gui-pager/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-pager/show/reference-after/e00002",
+        "observation": "reference/gui-pager/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-pager"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-pager/show/reference-before/e00001",
+        "observation": "reference/gui-pager/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-pager"
+      }
+    },
+    "gui-reflog/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-reflog/show/reference-after/e00002",
+        "observation": "reference/gui-reflog/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-reflog"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-reflog/show/reference-before/e00001",
+        "observation": "reference/gui-reflog/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-reflog"
+      }
+    },
+    "gui-refs/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-refs/show/reference-after/e00002",
+        "observation": "reference/gui-refs/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-refs"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-refs/show/reference-before/e00001",
+        "observation": "reference/gui-refs/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-refs"
+      }
+    },
+    "gui-revert-hunk/revert": {
+      "after": {
+        "checkpoint": "revert",
+        "id": "gui-revert-hunk/revert/reference-after/e00002",
+        "observation": "reference/gui-revert-hunk/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-revert-hunk"
+      },
+      "before": {
+        "checkpoint": "revert",
+        "id": "gui-revert-hunk/revert/reference-before/e00001",
+        "observation": "reference/gui-revert-hunk/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-revert-hunk"
+      }
+    },
+    "gui-revert-nested/revert": {
+      "after": {
+        "checkpoint": "revert",
+        "id": "gui-revert-nested/revert/reference-after/e00002",
+        "observation": "reference/gui-revert-nested/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-revert-nested"
+      },
+      "before": {
+        "checkpoint": "revert",
+        "id": "gui-revert-nested/revert/reference-before/e00001",
+        "observation": "reference/gui-revert-nested/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-revert-nested"
+      }
+    },
+    "gui-revert-regular/revert": {
+      "after": {
+        "checkpoint": "revert",
+        "id": "gui-revert-regular/revert/reference-after/e00002",
+        "observation": "reference/gui-revert-regular/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-revert-regular"
+      },
+      "before": {
+        "checkpoint": "revert",
+        "id": "gui-revert-regular/revert/reference-before/e00001",
+        "observation": "reference/gui-revert-regular/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-revert-regular"
+      }
+    },
+    "gui-revert-space/revert": {
+      "after": {
+        "checkpoint": "revert",
+        "id": "gui-revert-space/revert/reference-after/e00002",
+        "observation": "reference/gui-revert-space/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-revert-space"
+      },
+      "before": {
+        "checkpoint": "revert",
+        "id": "gui-revert-space/revert/reference-before/e00001",
+        "observation": "reference/gui-revert-space/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-revert-space"
+      }
+    },
+    "gui-revert-unicode/revert": {
+      "after": {
+        "checkpoint": "revert",
+        "id": "gui-revert-unicode/revert/reference-after/e00002",
+        "observation": "reference/gui-revert-unicode/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-revert-unicode"
+      },
+      "before": {
+        "checkpoint": "revert",
+        "id": "gui-revert-unicode/revert/reference-before/e00001",
+        "observation": "reference/gui-revert-unicode/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-revert-unicode"
+      }
+    },
+    "gui-split/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-split/show/reference-after/e00002",
+        "observation": "reference/gui-split/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-split"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-split/show/reference-before/e00001",
+        "observation": "reference/gui-split/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-split"
+      }
+    },
+    "gui-stage-hunk/stage": {
+      "after": {
+        "checkpoint": "stage",
+        "id": "gui-stage-hunk/stage/reference-after/e00002",
+        "observation": "reference/gui-stage-hunk/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-stage-hunk"
+      },
+      "before": {
+        "checkpoint": "stage",
+        "id": "gui-stage-hunk/stage/reference-before/e00001",
+        "observation": "reference/gui-stage-hunk/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-stage-hunk"
+      }
+    },
+    "gui-stage-kind-binary/stage": {
+      "after": {
+        "checkpoint": "stage",
+        "id": "gui-stage-kind-binary/stage/reference-after/e00002",
+        "observation": "reference/gui-stage-kind-binary/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-stage-kind-binary"
+      },
+      "before": {
+        "checkpoint": "stage",
+        "id": "gui-stage-kind-binary/stage/reference-before/e00001",
+        "observation": "reference/gui-stage-kind-binary/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-stage-kind-binary"
+      }
+    },
+    "gui-stage-kind-delete/stage": {
+      "after": {
+        "checkpoint": "stage",
+        "id": "gui-stage-kind-delete/stage/reference-after/e00002",
+        "observation": "reference/gui-stage-kind-delete/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-stage-kind-delete"
+      },
+      "before": {
+        "checkpoint": "stage",
+        "id": "gui-stage-kind-delete/stage/reference-before/e00001",
+        "observation": "reference/gui-stage-kind-delete/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-stage-kind-delete"
+      }
+    },
+    "gui-stage-kind-executable/stage": {
+      "after": {
+        "checkpoint": "stage",
+        "id": "gui-stage-kind-executable/stage/reference-after/e00002",
+        "observation": "reference/gui-stage-kind-executable/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-stage-kind-executable"
+      },
+      "before": {
+        "checkpoint": "stage",
+        "id": "gui-stage-kind-executable/stage/reference-before/e00001",
+        "observation": "reference/gui-stage-kind-executable/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-stage-kind-executable"
+      }
+    },
+    "gui-stage-kind-symlink/stage": {
+      "after": {
+        "checkpoint": "stage",
+        "id": "gui-stage-kind-symlink/stage/reference-after/e00002",
+        "observation": "reference/gui-stage-kind-symlink/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-stage-kind-symlink"
+      },
+      "before": {
+        "checkpoint": "stage",
+        "id": "gui-stage-kind-symlink/stage/reference-before/e00001",
+        "observation": "reference/gui-stage-kind-symlink/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-stage-kind-symlink"
+      }
+    },
+    "gui-stage-line/stage": {
+      "after": {
+        "checkpoint": "stage",
+        "id": "gui-stage-line/stage/reference-after/e00002",
+        "observation": "reference/gui-stage-line/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-stage-line"
+      },
+      "before": {
+        "checkpoint": "stage",
+        "id": "gui-stage-line/stage/reference-before/e00001",
+        "observation": "reference/gui-stage-line/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-stage-line"
+      }
+    },
+    "gui-stage-nested/stage": {
+      "after": {
+        "checkpoint": "stage",
+        "id": "gui-stage-nested/stage/reference-after/e00002",
+        "observation": "reference/gui-stage-nested/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-stage-nested"
+      },
+      "before": {
+        "checkpoint": "stage",
+        "id": "gui-stage-nested/stage/reference-before/e00001",
+        "observation": "reference/gui-stage-nested/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-stage-nested"
+      }
+    },
+    "gui-stage-new/stage": {
+      "after": {
+        "checkpoint": "stage",
+        "id": "gui-stage-new/stage/reference-after/e00002",
+        "observation": "reference/gui-stage-new/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-stage-new"
+      },
+      "before": {
+        "checkpoint": "stage",
+        "id": "gui-stage-new/stage/reference-before/e00001",
+        "observation": "reference/gui-stage-new/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-stage-new"
+      }
+    },
+    "gui-stage-part/stage": {
+      "after": {
+        "checkpoint": "stage",
+        "id": "gui-stage-part/stage/reference-after/e00002",
+        "observation": "reference/gui-stage-part/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-stage-part"
+      },
+      "before": {
+        "checkpoint": "stage",
+        "id": "gui-stage-part/stage/reference-before/e00001",
+        "observation": "reference/gui-stage-part/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-stage-part"
+      }
+    },
+    "gui-stage-regular/stage": {
+      "after": {
+        "checkpoint": "stage",
+        "id": "gui-stage-regular/stage/reference-after/e00002",
+        "observation": "reference/gui-stage-regular/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-stage-regular"
+      },
+      "before": {
+        "checkpoint": "stage",
+        "id": "gui-stage-regular/stage/reference-before/e00001",
+        "observation": "reference/gui-stage-regular/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-stage-regular"
+      }
+    },
+    "gui-stage-space/stage": {
+      "after": {
+        "checkpoint": "stage",
+        "id": "gui-stage-space/stage/reference-after/e00002",
+        "observation": "reference/gui-stage-space/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-stage-space"
+      },
+      "before": {
+        "checkpoint": "stage",
+        "id": "gui-stage-space/stage/reference-before/e00001",
+        "observation": "reference/gui-stage-space/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-stage-space"
+      }
+    },
+    "gui-stage-unicode/stage": {
+      "after": {
+        "checkpoint": "stage",
+        "id": "gui-stage-unicode/stage/reference-after/e00002",
+        "observation": "reference/gui-stage-unicode/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-stage-unicode"
+      },
+      "before": {
+        "checkpoint": "stage",
+        "id": "gui-stage-unicode/stage/reference-before/e00001",
+        "observation": "reference/gui-stage-unicode/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-stage-unicode"
+      }
+    },
+    "gui-stash-apply/apply": {
+      "after": {
+        "checkpoint": "apply",
+        "id": "gui-stash-apply/apply/reference-after/e00002",
+        "observation": "reference/gui-stash-apply/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-stash-apply"
+      },
+      "before": {
+        "checkpoint": "apply",
+        "id": "gui-stash-apply/apply/reference-before/e00001",
+        "observation": "reference/gui-stash-apply/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-stash-apply"
+      }
+    },
+    "gui-stash-apply/saved-list": {
+      "after": {
+        "checkpoint": "saved-list",
+        "id": "gui-stash-apply/saved-list/reference-after/e00005",
+        "observation": "reference/gui-stash-apply/e00005.json",
+        "role": "reference-after",
+        "episode": "gui-stash-apply"
+      },
+      "before": {
+        "checkpoint": "saved-list",
+        "id": "gui-stash-apply/saved-list/reference-before/e00004",
+        "observation": "reference/gui-stash-apply/e00004.json",
+        "role": "reference-before",
+        "episode": "gui-stash-apply"
+      }
+    },
+    "gui-stash-diff/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-stash-diff/show/reference-after/e00002",
+        "observation": "reference/gui-stash-diff/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-stash-diff"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-stash-diff/show/reference-before/e00001",
+        "observation": "reference/gui-stash-diff/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-stash-diff"
+      }
+    },
+    "gui-stash-drop/drop": {
+      "after": {
+        "checkpoint": "drop",
+        "id": "gui-stash-drop/drop/reference-after/e00002",
+        "observation": "reference/gui-stash-drop/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-stash-drop"
+      },
+      "before": {
+        "checkpoint": "drop",
+        "id": "gui-stash-drop/drop/reference-before/e00001",
+        "observation": "reference/gui-stash-drop/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-stash-drop"
+      }
+    },
+    "gui-stash-list/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-stash-list/show/reference-after/e00002",
+        "observation": "reference/gui-stash-list/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-stash-list"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-stash-list/show/reference-before/e00001",
+        "observation": "reference/gui-stash-list/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-stash-list"
+      }
+    },
+    "gui-stash-pop/pop": {
+      "after": {
+        "checkpoint": "pop",
+        "id": "gui-stash-pop/pop/reference-after/e00002",
+        "observation": "reference/gui-stash-pop/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-stash-pop"
+      },
+      "before": {
+        "checkpoint": "pop",
+        "id": "gui-stash-pop/pop/reference-before/e00001",
+        "observation": "reference/gui-stash-pop/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-stash-pop"
+      }
+    },
+    "gui-stash-pop/saved-list": {
+      "after": {
+        "checkpoint": "saved-list",
+        "id": "gui-stash-pop/saved-list/reference-after/e00005",
+        "observation": "reference/gui-stash-pop/e00005.json",
+        "role": "reference-after",
+        "episode": "gui-stash-pop"
+      },
+      "before": {
+        "checkpoint": "saved-list",
+        "id": "gui-stash-pop/saved-list/reference-before/e00004",
+        "observation": "reference/gui-stash-pop/e00004.json",
+        "role": "reference-before",
+        "episode": "gui-stash-pop"
+      }
+    },
+    "gui-tree-recursive/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-tree-recursive/show/reference-after/e00002",
+        "observation": "reference/gui-tree-recursive/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-tree-recursive"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-tree-recursive/show/reference-before/e00001",
+        "observation": "reference/gui-tree-recursive/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-tree-recursive"
+      }
+    },
+    "gui-tree-size-units/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-tree-size-units/show/reference-after/e00002",
+        "observation": "reference/gui-tree-size-units/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-tree-size-units"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-tree-size-units/show/reference-before/e00001",
+        "observation": "reference/gui-tree-size-units/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-tree-size-units"
+      }
+    },
+    "gui-tree-subdirectory/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-tree-subdirectory/show/reference-after/e00002",
+        "observation": "reference/gui-tree-subdirectory/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-tree-subdirectory"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-tree-subdirectory/show/reference-before/e00001",
+        "observation": "reference/gui-tree-subdirectory/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-tree-subdirectory"
+      }
+    },
+    "gui-tree/show": {
+      "after": {
+        "checkpoint": "show",
+        "id": "gui-tree/show/reference-after/e00002",
+        "observation": "reference/gui-tree/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-tree"
+      },
+      "before": {
+        "checkpoint": "show",
+        "id": "gui-tree/show/reference-before/e00001",
+        "observation": "reference/gui-tree/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-tree"
+      }
+    },
+    "gui-unstage-hunk/unstage": {
+      "after": {
+        "checkpoint": "unstage",
+        "id": "gui-unstage-hunk/unstage/reference-after/e00002",
+        "observation": "reference/gui-unstage-hunk/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-unstage-hunk"
+      },
+      "before": {
+        "checkpoint": "unstage",
+        "id": "gui-unstage-hunk/unstage/reference-before/e00001",
+        "observation": "reference/gui-unstage-hunk/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-unstage-hunk"
+      }
+    },
+    "gui-unstage-nested/unstage": {
+      "after": {
+        "checkpoint": "unstage",
+        "id": "gui-unstage-nested/unstage/reference-after/e00002",
+        "observation": "reference/gui-unstage-nested/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-unstage-nested"
+      },
+      "before": {
+        "checkpoint": "unstage",
+        "id": "gui-unstage-nested/unstage/reference-before/e00001",
+        "observation": "reference/gui-unstage-nested/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-unstage-nested"
+      }
+    },
+    "gui-unstage-new/unstage": {
+      "after": {
+        "checkpoint": "unstage",
+        "id": "gui-unstage-new/unstage/reference-after/e00002",
+        "observation": "reference/gui-unstage-new/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-unstage-new"
+      },
+      "before": {
+        "checkpoint": "unstage",
+        "id": "gui-unstage-new/unstage/reference-before/e00001",
+        "observation": "reference/gui-unstage-new/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-unstage-new"
+      }
+    },
+    "gui-unstage-regular/unstage": {
+      "after": {
+        "checkpoint": "unstage",
+        "id": "gui-unstage-regular/unstage/reference-after/e00002",
+        "observation": "reference/gui-unstage-regular/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-unstage-regular"
+      },
+      "before": {
+        "checkpoint": "unstage",
+        "id": "gui-unstage-regular/unstage/reference-before/e00001",
+        "observation": "reference/gui-unstage-regular/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-unstage-regular"
+      }
+    },
+    "gui-unstage-space/unstage": {
+      "after": {
+        "checkpoint": "unstage",
+        "id": "gui-unstage-space/unstage/reference-after/e00002",
+        "observation": "reference/gui-unstage-space/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-unstage-space"
+      },
+      "before": {
+        "checkpoint": "unstage",
+        "id": "gui-unstage-space/unstage/reference-before/e00001",
+        "observation": "reference/gui-unstage-space/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-unstage-space"
+      }
+    },
+    "gui-unstage-unicode/unstage": {
+      "after": {
+        "checkpoint": "unstage",
+        "id": "gui-unstage-unicode/unstage/reference-after/e00002",
+        "observation": "reference/gui-unstage-unicode/e00002.json",
+        "role": "reference-after",
+        "episode": "gui-unstage-unicode"
+      },
+      "before": {
+        "checkpoint": "unstage",
+        "id": "gui-unstage-unicode/unstage/reference-before/e00001",
+        "observation": "reference/gui-unstage-unicode/e00001.json",
+        "role": "reference-before",
+        "episode": "gui-unstage-unicode"
+      }
+    }
+  },
+  "program": {
+    "behavior-bind-case-alias/operate/selected": true,
+    "behavior-bind-control-key/operate/selected": true,
+    "behavior-bind-function-key/operate/selected": true,
+    "behavior-bind-generic/operate/selected": true,
+    "behavior-bind-internal/operate/selected": true,
+    "behavior-bind-last-binding/operate/selected": true,
+    "behavior-bind-none/operate/selected": true,
+    "behavior-bind-symbolic-key/operate/selected": true,
+    "behavior-bind-underscore-alias/operate/selected": true,
+    "behavior-bind-unicode-key/operate/selected": true,
+    "behavior-bind-view-priority/operate/selected": true,
+    "behavior-binding-restart/in-memory/selected": true,
+    "behavior-binding-restart/reload/selected": true,
+    "behavior-blame-back/back/content": true,
+    "behavior-blame-parent-state/parent/commit": "Start field notebook",
+    "behavior-blame-parent-state/parent/result": "stone bridge",
+    "behavior-close-no-quit/close/content": true,
+    "behavior-color-normal/flags/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "behavior-color-normal/replace/rule": {
+      "attributes": [],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "behavior-config-format-append/effect/content": true,
+    "behavior-config-format-comment/effect/content": true,
+    "behavior-config-format-continuation/effect/content": true,
+    "behavior-config-format-last-assignment/effect/content": true,
+    "behavior-config-format-quoted/effect/content": true,
+    "behavior-config-precedence/restart/filter": [
+      "Add safety checklist",
+      "Start field notebook"
+    ],
+    "behavior-config-precedence/runtime/filter": [
+      "Mark eastern viewpoint"
+    ],
+    "behavior-context-variables/blame-line/value": "3",
+    "behavior-context-variables/blame-text/value": "oak tree",
+    "behavior-context-variables/blob-line/value": "2",
+    "behavior-context-variables/blob-text/value": "stone bridge restored",
+    "behavior-context-variables/main-head/value": "HEAD",
+    "behavior-context-variables/refs-branch/value": "archive",
+    "behavior-context-variables/refs-name/value": "feature/east",
+    "behavior-context-variables/refs-tag/value": "v1.0",
+    "behavior-context-variables/selected-commit/value": "Start field notebook",
+    "behavior-context-variables/tree-blob/value": "notes.txt",
+    "behavior-context-variables/tree-directory/value": "docs/",
+    "behavior-context-variables/tree-file/value": "notes.txt",
+    "behavior-diff-context-keys/narrow/content": true,
+    "behavior-diff-context-keys/wide/content": true,
+    "behavior-empty-grep/missing/content": true,
+    "behavior-empty-grep/positive/content": true,
+    "behavior-filter-file-off/toggle/content": true,
+    "behavior-filter-file-on/toggle/history": [
+      "Start field notebook",
+      "Update trail heading"
+    ],
+    "behavior-filter-rev-off/toggle/content": true,
+    "behavior-filter-rev-on/toggle/history": [
+      "Document river access"
+    ],
+    "behavior-focus-child/focus/selected": true,
+    "behavior-focus-parent/focus/selected": true,
+    "behavior-git-config-abbrev/effect/content": true,
+    "behavior-git-config-author-format/effect/content": true,
+    "behavior-git-config-binding-multi/effect/selected": true,
+    "behavior-git-config-binding/effect/selected": true,
+    "behavior-git-config-color/effect/color": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "default",
+      "foreground": "yellow"
+    },
+    "behavior-git-config-encoding/effect/content": true,
+    "behavior-git-config-history/effect/history": [
+      "Document river access",
+      "Update trail heading"
+    ],
+    "behavior-git-config-internal-binding/effect/selected": true,
+    "behavior-git-config-search/effect/selected": true,
+    "behavior-git-config-tree-recursive/effect/content": true,
+    "behavior-git-user-priority/effect/filter": [
+      "Mark eastern viewpoint"
+    ],
+    "behavior-history-combinations/author-and-limit/commits": [
+      "Main delta",
+      "Side gamma"
+    ],
+    "behavior-history-combinations/committer/commits": [
+      "Side beta",
+      "Side gamma"
+    ],
+    "behavior-history-combinations/date-window/commits": [
+      "Graph merge",
+      "Side beta",
+      "Side gamma"
+    ],
+    "behavior-history-combinations/exclude-main-parent/commits": [
+      "Side beta",
+      "Side gamma"
+    ],
+    "behavior-history-combinations/merge-limit/commits": [
+      "Graph merge"
+    ],
+    "behavior-history-combinations/no-merges-author/commits": [
+      "Main alpha"
+    ],
+    "behavior-history-combinations/path-space/commits": [
+      "Graph root",
+      "Main alpha",
+      "Main delta"
+    ],
+    "behavior-history-combinations/range-author/commits": [
+      "Graph merge",
+      "Main alpha"
+    ],
+    "behavior-history-combinations/range-first-parent/commits": [
+      "Graph merge",
+      "Main alpha",
+      "Main delta"
+    ],
+    "behavior-history-combinations/range-path/commits": [
+      "Main alpha",
+      "Main delta"
+    ],
+    "behavior-history-combinations/skip-limit/commits": [
+      "Graph merge",
+      "Side gamma"
+    ],
+    "behavior-history-combinations/symmetric/commits": [
+      "Graph merge",
+      "Main alpha",
+      "Main delta"
+    ],
+    "behavior-history-deduplicate/unique/history": [
+      "echo bravo",
+      "echo alpha"
+    ],
+    "behavior-history-limit/truncate/history": true,
+    "behavior-history-order-author-date-order/order/order": [
+      "Main delta",
+      "Graph merge",
+      "Main alpha",
+      "Side gamma",
+      "Side beta",
+      "Graph root"
+    ],
+    "behavior-history-order-date-order/order/order": [
+      "Main delta",
+      "Graph merge",
+      "Side gamma",
+      "Side beta",
+      "Main alpha",
+      "Graph root"
+    ],
+    "behavior-history-order-reverse/order/order": [
+      "Graph root",
+      "Main alpha",
+      "Side beta",
+      "Side gamma",
+      "Graph merge",
+      "Main delta"
+    ],
+    "behavior-history-reload/reload/selected": true,
+    "behavior-history-reload/save/history": true,
+    "behavior-keep-parent/enter/text": true,
+    "behavior-mailmap-off/names/content": true,
+    "behavior-mailmap-on/names/content": true,
+    "behavior-main-search-author-next/select/selected": true,
+    "behavior-main-search-author-prev/select/selected": true,
+    "behavior-main-search-message-next/select/selected": true,
+    "behavior-main-search-no-match/select/selected": true,
+    "behavior-merge-jumps/next/selected": true,
+    "behavior-merge-jumps/previous/selected": true,
+    "behavior-mixed-index-worktree/unstage/index-mixed-txt": {
+      "body_base64": "YmFzZQo=",
+      "mode": "100644"
+    },
+    "behavior-mixed-index-worktree/unstage/worktree": "d29ya3RyZWUK",
+    "behavior-mouse-wheel-down/wheel/motion": true,
+    "behavior-mouse-wheel-up/wheel/motion": true,
+    "behavior-periodic-refresh/external/content": true,
+    "behavior-reflog-checkout/operate/clean": true,
+    "behavior-reflog-checkout/operate/file": "RWFzdGVybiB2aWV3cG9pbnQK",
+    "behavior-reflog-checkout/operate/head": "Mark eastern viewpoint",
+    "behavior-reflog-reset/operate/clean": true,
+    "behavior-reflog-reset/operate/file": "b2FrIHRyZWUKcml2ZXIgYmFuayB3aXRoIGZvb3RwYXRoCnN0b25lIGJyaWRnZQo=",
+    "behavior-reflog-reset/operate/head": "Document river access",
+    "behavior-refs-branches/filter/refs": [
+      "archive",
+      "feature/east",
+      "main"
+    ],
+    "behavior-refs-remotes/filter/refs": [
+      "origin/main"
+    ],
+    "behavior-refs-tags/filter/refs": [
+      "v1.0"
+    ],
+    "behavior-relative-date-relative-compact/display/content": true,
+    "behavior-relative-date-relative/display/content": true,
+    "behavior-revert-confirmation/cancel/retained": "dGVtcG9yYXJ5Cg==",
+    "behavior-revert-confirmation/confirm/restored": "b2FrIHRyZWUKcml2ZXIgYmFuayB3aXRoIGZvb3RwYXRoCnN0b25lIGJyaWRnZSByZXN0b3JlZAo=",
+    "behavior-revert-confirmation/confirm/unrelated": "a2VlcC1uZXcK",
+    "behavior-root-add/stage/index-new-txt": {
+      "body_base64": "bmV3Cg==",
+      "mode": "100644"
+    },
+    "behavior-scrolling/command-half-up/distance": true,
+    "behavior-scrolling/command-page-down/distance": true,
+    "behavior-scrolling/half-down/distance": true,
+    "behavior-scrolling/half-up/distance": true,
+    "behavior-scrolling/horizontal-first/content": true,
+    "behavior-scrolling/horizontal-left/content": true,
+    "behavior-scrolling/horizontal-right/content": true,
+    "behavior-scrolling/page-down/distance": true,
+    "behavior-scrolling/page-up/distance": true,
+    "behavior-scrolling/scroll-half-down/viewport": true,
+    "behavior-scrolling/scroll-half-up/viewport": true,
+    "behavior-scrolling/scroll-line-down/viewport": true,
+    "behavior-scrolling/scroll-line-up/viewport": true,
+    "behavior-scrolling/scroll-page-down/viewport": true,
+    "behavior-scrolling/scroll-page-up/viewport": true,
+    "behavior-search-cancel/active/selected": true,
+    "behavior-search-cancel/cancel/selected": true,
+    "behavior-search-columns/blame-author/result": "2",
+    "behavior-search-columns/blame-text/result": "3",
+    "behavior-search-columns/blob-line/result": "2",
+    "behavior-search-columns/grep-result/result": "docs/manual.md",
+    "behavior-search-columns/refs-branch/result": "feature/east",
+    "behavior-search-columns/refs-tag/result": "v1.0",
+    "behavior-search-columns/tree-author/result": "east.txt",
+    "behavior-search-columns/tree-file/result": "notes.txt",
+    "behavior-search-map/search-key/result": "empty.txt",
+    "behavior-search/backward/result": "Entry 091 needle",
+    "behavior-search/case-sensitive/result": "Entry 039 NEEDLE",
+    "behavior-search/forward/result": "Entry 007 needle",
+    "behavior-search/ignore-case/result": "Entry 007 needle",
+    "behavior-search/invalid-regex/result": "Entry 007 needle",
+    "behavior-search/missing/result": "Entry 007 needle",
+    "behavior-search/next/result": "Entry 023 needle",
+    "behavior-search/no-wrap-end/result": "Entry 120 ordinary observation",
+    "behavior-search/no-wrap-start/result": "Entry 001 ordinary observation",
+    "behavior-search/previous/result": "Entry 007 needle",
+    "behavior-search/regex/result": "Entry 058 needle",
+    "behavior-search/smart-lower/result": "Entry 039 NEEDLE",
+    "behavior-search/smart-upper/result": "Entry 039 NEEDLE",
+    "behavior-search/wrap-back/result": "Entry 091 needle",
+    "behavior-search/wrap-forward/result": "Entry 007 needle",
+    "behavior-send-enter/enter/text": true,
+    "behavior-setting-collapse-untracked/effect/content": true,
+    "behavior-setting-hide-changes/effect/content": true,
+    "behavior-setting-hide-untracked-main/effect/content": true,
+    "behavior-setting-hide-untracked-status/effect/content": true,
+    "behavior-split-hunk/split/index-changes-txt": {
+      "body_base64": "bGluZSAwMQpsaW5lIDAyCmxpbmUgMDMKbGluZSAwNApGSVJTVApsaW5lIDA1CmxpbmUgMDYKbGluZSAwNwpsaW5lIDA4CmxpbmUgMDkKbGluZSAxMApsaW5lIDExCmxpbmUgMTIKbGluZSAxMwpsaW5lIDE0CmxpbmUgMTUKbGluZSAxNgpsaW5lIDE3CmxpbmUgMTgKbGluZSAxOQpsaW5lIDIwCmxpbmUgMjEKbGluZSAyMgpsaW5lIDIzCmxpbmUgMjQKbGluZSAyNQpsaW5lIDI2CmxpbmUgMjcKbGluZSAyOApsaW5lIDI5CmxpbmUgMzAKbGluZSAzMQpsaW5lIDMyCmxpbmUgMzMKbGluZSAzNApsaW5lIDM1CmxpbmUgMzYKbGluZSAzNwpsaW5lIDM4CmxpbmUgMzkKbGluZSA0MAo=",
+      "mode": "100644"
+    },
+    "behavior-split-hunk/split/remaining": true,
+    "behavior-stage-patch-delete/stage/index-file-txt": {
+      "body_base64": "YWxwaGEKZ2FtbWEK",
+      "mode": "100644"
+    },
+    "behavior-stage-patch-delete/stage/worktree": "YWxwaGEKZ2FtbWEK",
+    "behavior-stage-patch-eof/stage/index-file-txt": {
+      "body_base64": "YWxwaGEKQkVUQQ==",
+      "mode": "100644"
+    },
+    "behavior-stage-patch-eof/stage/worktree": "YWxwaGEKQkVUQQ==",
+    "behavior-stage-patch-replace/stage/index-file-txt": {
+      "body_base64": "YWxwaGEKQkVUQQpnYW1tYQo=",
+      "mode": "100644"
+    },
+    "behavior-stage-patch-replace/stage/worktree": "YWxwaGEKQkVUQQpnYW1tYQo=",
+    "behavior-stage-section/stage/index-a-txt": {
+      "body_base64": "QSB1cGRhdGVkCg==",
+      "mode": "100644"
+    },
+    "behavior-stage-section/stage/index-b-txt": {
+      "body_base64": "QiB1cGRhdGVkCg==",
+      "mode": "100644"
+    },
+    "behavior-stage-section/stage/untracked": [
+      "?? new.txt"
+    ],
+    "behavior-stage-section/unstage/index-a-txt": {
+      "body_base64": "QQo=",
+      "mode": "100644"
+    },
+    "behavior-stage-section/unstage/index-b-txt": {
+      "body_base64": "Qgo=",
+      "mode": "100644"
+    },
+    "behavior-stage-section/untracked/index-new-txt": {
+      "body_base64": "bmV3Cg==",
+      "mode": "100644"
+    },
+    "behavior-stage-type-binary/stage/index": {
+      "body_base64": "AAH/AEJBU0U=",
+      "mode": "100644"
+    },
+    "behavior-stage-type-binary/stage/index-keep-txt": {
+      "body_base64": "a2VlcAo=",
+      "mode": "100644"
+    },
+    "behavior-stage-type-deleted/stage/index": true,
+    "behavior-stage-type-deleted/stage/index-keep-txt": {
+      "body_base64": "a2VlcAo=",
+      "mode": "100644"
+    },
+    "behavior-stage-type-executable/stage/index-keep-txt": {
+      "body_base64": "a2VlcAo=",
+      "mode": "100644"
+    },
+    "behavior-stage-type-executable/stage/index-run-sh": {
+      "body_base64": "cnVuCg==",
+      "mode": "100755"
+    },
+    "behavior-stage-type-link/stage/index-keep-txt": {
+      "body_base64": "a2VlcAo=",
+      "mode": "100644"
+    },
+    "behavior-stage-type-link/stage/index-link": {
+      "body_base64": "dGFyZ2V0LnR4dA==",
+      "mode": "120000"
+    },
+    "behavior-start-on-head/startup/selected": true,
+    "behavior-stash-preserve/apply/applied": "c3Rhc2hlZCBhCg==",
+    "behavior-stash-preserve/apply/retained": true,
+    "behavior-stash-preserve/apply/unrelated": "dW5yZWxhdGVkIGIK",
+    "behavior-stash-variable/select/result": "stash@{0}",
+    "behavior-stdin-main-count/read/commits": [
+      "Update trail heading"
+    ],
+    "behavior-stdin-main-history/read/commits": [
+      "Document river access",
+      "Start field notebook"
+    ],
+    "behavior-stdin-main-one/read/commits": [
+      "Document river access"
+    ],
+    "behavior-stdin-main-two/read/commits": [
+      "Start field notebook",
+      "Update trail heading"
+    ],
+    "behavior-stdin-raw/read/commits": [
+      "Add safety checklist",
+      "Document river access"
+    ],
+    "behavior-stdin-show-new/read/content": true,
+    "behavior-stdin-show-old/read/content": true,
+    "behavior-tabs-4/expand/content": true,
+    "behavior-tabs-8/expand/content": true,
+    "behavior-tree-back/back/content": true,
+    "behavior-unstage-line/update/index-changes-txt": {
+      "body_base64": "bGluZSAwMQpsaW5lIDAyCmxpbmUgMDMKbGluZSAwNApBREpBQ0VOVApsaW5lIDA1CmxpbmUgMDYKbGluZSAwNwpsaW5lIDA4CmxpbmUgMDkKbGluZSAxMApsaW5lIDExCmxpbmUgMTIKbGluZSAxMwpsaW5lIDE0CmxpbmUgMTUKbGluZSAxNgpsaW5lIDE3CmxpbmUgMTgKbGluZSAxOQpsaW5lIDIwCmxpbmUgMjEKbGluZSAyMgpsaW5lIDIzCmxpbmUgMjQKbGluZSAyNQpsaW5lIDI2CmxpbmUgMjcKbGluZSAyOApsaW5lIDI5CmxpbmUgMzAKbGluZSAzMQpsaW5lIDMyClNFQ09ORApsaW5lIDMzCmxpbmUgMzQKbGluZSAzNQpsaW5lIDM2CmxpbmUgMzcKbGluZSAzOApsaW5lIDM5CmxpbmUgNDAK",
+      "mode": "100644"
+    },
+    "behavior-unstage-line/update/worktree": "bGluZSAwMQpsaW5lIDAyCmxpbmUgMDMKbGluZSAwNApGSVJTVApBREpBQ0VOVApsaW5lIDA1CmxpbmUgMDYKbGluZSAwNwpsaW5lIDA4CmxpbmUgMDkKbGluZSAxMApsaW5lIDExCmxpbmUgMTIKbGluZSAxMwpsaW5lIDE0CmxpbmUgMTUKbGluZSAxNgpsaW5lIDE3CmxpbmUgMTgKbGluZSAxOQpsaW5lIDIwCmxpbmUgMjEKbGluZSAyMgpsaW5lIDIzCmxpbmUgMjQKbGluZSAyNQpsaW5lIDI2CmxpbmUgMjcKbGluZSAyOApsaW5lIDI5CmxpbmUgMzAKbGluZSAzMQpsaW5lIDMyClNFQ09ORApsaW5lIDMzCmxpbmUgMzQKbGluZSAzNQpsaW5lIDM2CmxpbmUgMzcKbGluZSAzOApsaW5lIDM5CmxpbmUgNDAK",
+    "behavior-unstage-part/update/index-changes-txt": {
+      "body_base64": "bGluZSAwMQpsaW5lIDAyCmxpbmUgMDMKbGluZSAwNApsaW5lIDA1CmxpbmUgMDYKbGluZSAwNwpORUFSQlkKbGluZSAwOApsaW5lIDA5CmxpbmUgMTAKbGluZSAxMQpsaW5lIDEyCmxpbmUgMTMKbGluZSAxNApsaW5lIDE1CmxpbmUgMTYKbGluZSAxNwpsaW5lIDE4CmxpbmUgMTkKbGluZSAyMApsaW5lIDIxCmxpbmUgMjIKbGluZSAyMwpsaW5lIDI0CmxpbmUgMjUKbGluZSAyNgpsaW5lIDI3CmxpbmUgMjgKbGluZSAyOQpsaW5lIDMwCmxpbmUgMzEKbGluZSAzMgpTRUNPTkQKbGluZSAzMwpsaW5lIDM0CmxpbmUgMzUKbGluZSAzNgpsaW5lIDM3CmxpbmUgMzgKbGluZSAzOQpsaW5lIDQwCg==",
+      "mode": "100644"
+    },
+    "behavior-unstage-part/update/worktree": "bGluZSAwMQpsaW5lIDAyCmxpbmUgMDMKbGluZSAwNApGSVJTVApsaW5lIDA1CmxpbmUgMDYKbGluZSAwNwpORUFSQlkKbGluZSAwOApsaW5lIDA5CmxpbmUgMTAKbGluZSAxMQpsaW5lIDEyCmxpbmUgMTMKbGluZSAxNApsaW5lIDE1CmxpbmUgMTYKbGluZSAxNwpsaW5lIDE4CmxpbmUgMTkKbGluZSAyMApsaW5lIDIxCmxpbmUgMjIKbGluZSAyMwpsaW5lIDI0CmxpbmUgMjUKbGluZSAyNgpsaW5lIDI3CmxpbmUgMjgKbGluZSAyOQpsaW5lIDMwCmxpbmUgMzEKbGluZSAzMgpTRUNPTkQKbGluZSAzMwpsaW5lIDM0CmxpbmUgMzUKbGluZSAzNgpsaW5lIDM3CmxpbmUgMzgKbGluZSAzOQpsaW5lIDQwCg==",
+    "behavior-vertical-focus/linked/linked": true,
+    "behavior-whitespace-all/filter/content": true,
+    "behavior-whitespace-some/filter/content": true,
+    "bindings-actions/back/binding": [
+      "back"
+    ],
+    "bindings-actions/enter/binding": [
+      "enter"
+    ],
+    "bindings-actions/find-next/binding": [
+      "find-next"
+    ],
+    "bindings-actions/find-prev/binding": [
+      "find-prev"
+    ],
+    "bindings-actions/maximize/binding": [
+      "maximize"
+    ],
+    "bindings-actions/move-down/binding": [
+      "move-down"
+    ],
+    "bindings-actions/move-first-line/binding": [
+      "move-first-line"
+    ],
+    "bindings-actions/move-half-page-down/binding": [
+      "move-half-page-down"
+    ],
+    "bindings-actions/move-half-page-up/binding": [
+      "move-half-page-up"
+    ],
+    "bindings-actions/move-last-line/binding": [
+      "move-last-line"
+    ],
+    "bindings-actions/move-page-down/binding": [
+      "move-page-down"
+    ],
+    "bindings-actions/move-page-up/binding": [
+      "move-page-up"
+    ],
+    "bindings-actions/move-up/binding": [
+      "move-up"
+    ],
+    "bindings-actions/next/binding": [
+      "next"
+    ],
+    "bindings-actions/options/binding": [
+      "options"
+    ],
+    "bindings-actions/parent/binding": [
+      "parent"
+    ],
+    "bindings-actions/previous/binding": [
+      "previous"
+    ],
+    "bindings-actions/refresh/binding": [
+      "refresh"
+    ],
+    "bindings-actions/screen-redraw/binding": [
+      "screen-redraw"
+    ],
+    "bindings-actions/scroll-first-col/binding": [
+      "scroll-first-col"
+    ],
+    "bindings-actions/scroll-half-page-down/binding": [
+      "scroll-half-page-down"
+    ],
+    "bindings-actions/scroll-half-page-up/binding": [
+      "scroll-half-page-up"
+    ],
+    "bindings-actions/scroll-left/binding": [
+      "scroll-left"
+    ],
+    "bindings-actions/scroll-line-down/binding": [
+      "scroll-line-down"
+    ],
+    "bindings-actions/scroll-line-up/binding": [
+      "scroll-line-up"
+    ],
+    "bindings-actions/scroll-page-down/binding": [
+      "scroll-page-down"
+    ],
+    "bindings-actions/scroll-page-up/binding": [
+      "scroll-page-up"
+    ],
+    "bindings-actions/scroll-right/binding": [
+      "scroll-right"
+    ],
+    "bindings-actions/search-back/binding": [
+      "search-back"
+    ],
+    "bindings-actions/search/binding": [
+      "search"
+    ],
+    "bindings-actions/show-version/binding": [
+      "show-version"
+    ],
+    "bindings-actions/stop-loading/binding": [
+      "stop-loading"
+    ],
+    "bindings-actions/view-blame/binding": [
+      "view-blame"
+    ],
+    "bindings-actions/view-blob/binding": [
+      "view-blob"
+    ],
+    "bindings-actions/view-close/binding": [
+      "view-close"
+    ],
+    "bindings-actions/view-diff/binding": [
+      "view-diff"
+    ],
+    "bindings-actions/view-help/binding": [
+      "view-help"
+    ],
+    "bindings-actions/view-log/binding": [
+      "view-log"
+    ],
+    "bindings-actions/view-main/binding": [
+      "view-main"
+    ],
+    "bindings-actions/view-next/binding": [
+      "view-next"
+    ],
+    "bindings-actions/view-pager/binding": [
+      "view-pager"
+    ],
+    "bindings-actions/view-reflog/binding": [
+      "view-reflog"
+    ],
+    "bindings-actions/view-refs/binding": [
+      "view-refs"
+    ],
+    "bindings-actions/view-stage/binding": [
+      "view-stage"
+    ],
+    "bindings-actions/view-stash/binding": [
+      "view-stash"
+    ],
+    "bindings-actions/view-status/binding": [
+      "view-status"
+    ],
+    "bindings-actions/view-tree/binding": [
+      "view-tree"
+    ],
+    "bindings-context/blame/binding": [
+      "parent"
+    ],
+    "bindings-context/blob/binding": [
+      "move-first-line"
+    ],
+    "bindings-context/diff/binding": [
+      "move-down"
+    ],
+    "bindings-context/grep/binding": [
+      "enter"
+    ],
+    "bindings-context/help/binding": [
+      "refresh"
+    ],
+    "bindings-context/log/binding": [
+      "move-up"
+    ],
+    "bindings-context/main/binding": [
+      "move-last-line"
+    ],
+    "bindings-context/pager/binding": [
+      "scroll-right"
+    ],
+    "bindings-context/reflog/binding": [
+      "refresh"
+    ],
+    "bindings-context/refs/binding": [
+      "move-last-line"
+    ],
+    "bindings-context/search/binding": [
+      "find-next"
+    ],
+    "bindings-context/stage/binding": [
+      "stage-update-line"
+    ],
+    "bindings-context/stash/binding": [
+      "view-main"
+    ],
+    "bindings-context/status/binding": [
+      "status-update"
+    ],
+    "bindings-context/tree/binding": [
+      "parent"
+    ],
+    "cherry-pick/apply/preserve": "VXBkYXRlZCBtYWluCg==",
+    "cherry-pick/apply/result": {
+      "clean": true,
+      "files": {
+        "side.txt": "Corrected side\n"
+      },
+      "parent": "Main route update",
+      "subject": "Side route correction"
+    },
+    "color-match-diff/configure/rule": {
+      "attributes": [
+        "reverse"
+      ],
+      "background": "blue",
+      "foreground": "yellow"
+    },
+    "color-match-prefix/configure/rule": {
+      "attributes": [
+        "reverse"
+      ],
+      "background": "blue",
+      "foreground": "yellow"
+    },
+    "color-match-signed/configure/rule": {
+      "attributes": [
+        "reverse"
+      ],
+      "background": "blue",
+      "foreground": "yellow"
+    },
+    "color-match-view/configure/rule": {
+      "attributes": [
+        "reverse"
+      ],
+      "background": "blue",
+      "foreground": "yellow"
+    },
+    "colors-general/cursor-blur/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-general/cursor/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-general/date/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-general/default/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-general/delimiter/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-general/directory/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-general/file-size/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-general/file/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-general/header/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-general/id/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-general/line-number/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-general/main-annotated/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-general/main-commit/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-general/main-tag/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-general/mode/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-general/overflow/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-general/section/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-general/status/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-general/title-blur/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-general/title-focus/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-palette/palette-0/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-palette/palette-1/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-palette/palette-10/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-palette/palette-11/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-palette/palette-12/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-palette/palette-13/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-palette/palette-2/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-palette/palette-3/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-palette/palette-4/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-palette/palette-5/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-palette/palette-6/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-palette/palette-7/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-palette/palette-8/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-palette/palette-9/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-views/diff-add-highlight/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-views/diff-del-highlight/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-views/diff-stat/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-views/graph-commit/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-views/help-action/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-views/help-group/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-views/main-head/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-views/main-local-tag/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-views/main-note/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-views/main-other/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-views/main-prefetch/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-views/main-ref/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-views/main-remote/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-views/main-replace/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-views/main-stash/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-views/main-tracked/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-views/search-result/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-views/stat-none/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-views/stat-staged/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-views/stat-unstaged/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "colors-views/stat-untracked/rule": {
+      "attributes": [
+        "bold",
+        "underline"
+      ],
+      "background": "red",
+      "foreground": "cyan"
+    },
+    "columns-blame/full/author-display": "email",
+    "columns-blame/full/author-maxwidth": "25%",
+    "columns-blame/full/author-width": "18",
+    "columns-blame/full/committer-display": "abbreviated",
+    "columns-blame/full/committer-maxwidth": "30%",
+    "columns-blame/full/committer-width": "16",
+    "columns-blame/full/date-display": "custom",
+    "columns-blame/full/date-format": "%d/%m/%Y",
+    "columns-blame/full/date-local": "yes",
+    "columns-blame/full/date-use-author": "yes",
+    "columns-blame/full/date-width": "15",
+    "columns-blame/full/file-name-display": "no",
+    "columns-blame/full/file-name-maxwidth": "40%",
+    "columns-blame/full/file-name-width": "24",
+    "columns-blame/full/id-color": "no",
+    "columns-blame/full/id-display": "no",
+    "columns-blame/full/id-width": "12",
+    "columns-blame/full/line-number-display": "no",
+    "columns-blame/full/line-number-interval": "2",
+    "columns-blame/full/line-number-width": "6",
+    "columns-blame/full/text-display": "no",
+    "columns-blame/load/author-display": "email",
+    "columns-blame/load/author-maxwidth": "25%",
+    "columns-blame/load/author-width": "18",
+    "columns-blame/load/committer-display": "abbreviated",
+    "columns-blame/load/committer-maxwidth": "30%",
+    "columns-blame/load/committer-width": "16",
+    "columns-blame/load/date-display": "custom",
+    "columns-blame/load/date-format": "%d/%m/%Y",
+    "columns-blame/load/date-local": "yes",
+    "columns-blame/load/date-use-author": "yes",
+    "columns-blame/load/date-width": "15",
+    "columns-blame/load/file-name-display": "no",
+    "columns-blame/load/file-name-maxwidth": "40%",
+    "columns-blame/load/file-name-width": "24",
+    "columns-blame/load/id-color": "no",
+    "columns-blame/load/id-display": "no",
+    "columns-blame/load/id-width": "12",
+    "columns-blame/load/line-number-display": "no",
+    "columns-blame/load/line-number-interval": "2",
+    "columns-blame/load/line-number-width": "6",
+    "columns-blame/load/text-display": "no",
+    "columns-blame/shorthand/author-display": "email",
+    "columns-blame/shorthand/author-maxwidth": "25%",
+    "columns-blame/shorthand/author-width": "18",
+    "columns-blame/shorthand/committer-display": "abbreviated",
+    "columns-blame/shorthand/committer-maxwidth": "30%",
+    "columns-blame/shorthand/committer-width": "16",
+    "columns-blame/shorthand/date-display": "custom",
+    "columns-blame/shorthand/date-format": "%d/%m/%Y",
+    "columns-blame/shorthand/date-local": "yes",
+    "columns-blame/shorthand/date-use-author": "yes",
+    "columns-blame/shorthand/date-width": "15",
+    "columns-blame/shorthand/file-name-display": "no",
+    "columns-blame/shorthand/file-name-maxwidth": "40%",
+    "columns-blame/shorthand/file-name-width": "24",
+    "columns-blame/shorthand/id-color": "no",
+    "columns-blame/shorthand/id-display": "no",
+    "columns-blame/shorthand/id-width": "12",
+    "columns-blame/shorthand/line-number-display": "no",
+    "columns-blame/shorthand/line-number-interval": "2",
+    "columns-blame/shorthand/line-number-width": "6",
+    "columns-blame/shorthand/text-display": "no",
+    "columns-blob/full/line-number-display": "yes",
+    "columns-blob/full/line-number-interval": "2",
+    "columns-blob/full/line-number-width": "6",
+    "columns-blob/full/text-display": "no",
+    "columns-blob/load/line-number-display": "yes",
+    "columns-blob/load/line-number-interval": "2",
+    "columns-blob/load/line-number-width": "6",
+    "columns-blob/load/text-display": "no",
+    "columns-blob/shorthand/line-number-display": "yes",
+    "columns-blob/shorthand/line-number-interval": "2",
+    "columns-blob/shorthand/line-number-width": "6",
+    "columns-blob/shorthand/text-display": "no",
+    "columns-diff/full/line-number-display": "yes",
+    "columns-diff/full/line-number-interval": "2",
+    "columns-diff/full/line-number-width": "6",
+    "columns-diff/full/text-commit-title-overflow": "42",
+    "columns-diff/full/text-display": "no",
+    "columns-diff/load/line-number-display": "yes",
+    "columns-diff/load/line-number-interval": "2",
+    "columns-diff/load/line-number-width": "6",
+    "columns-diff/load/text-commit-title-overflow": "42",
+    "columns-diff/load/text-display": "no",
+    "columns-diff/shorthand/line-number-display": "yes",
+    "columns-diff/shorthand/line-number-interval": "2",
+    "columns-diff/shorthand/line-number-width": "6",
+    "columns-diff/shorthand/text-commit-title-overflow": "42",
+    "columns-diff/shorthand/text-display": "no",
+    "columns-grep/full/file-name-display": "always",
+    "columns-grep/full/file-name-maxwidth": "40%",
+    "columns-grep/full/file-name-width": "24",
+    "columns-grep/full/line-number-display": "no",
+    "columns-grep/full/line-number-interval": "2",
+    "columns-grep/full/line-number-width": "6",
+    "columns-grep/full/text-display": "no",
+    "columns-grep/load/file-name-display": "always",
+    "columns-grep/load/file-name-maxwidth": "40%",
+    "columns-grep/load/file-name-width": "24",
+    "columns-grep/load/line-number-display": "no",
+    "columns-grep/load/line-number-interval": "2",
+    "columns-grep/load/line-number-width": "6",
+    "columns-grep/load/text-display": "no",
+    "columns-grep/shorthand/file-name-display": "always",
+    "columns-grep/shorthand/file-name-maxwidth": "40%",
+    "columns-grep/shorthand/file-name-width": "24",
+    "columns-grep/shorthand/line-number-display": "no",
+    "columns-grep/shorthand/line-number-interval": "2",
+    "columns-grep/shorthand/line-number-width": "6",
+    "columns-grep/shorthand/text-display": "no",
+    "columns-log/full/line-number-display": "yes",
+    "columns-log/full/line-number-interval": "2",
+    "columns-log/full/line-number-width": "6",
+    "columns-log/full/text-commit-title-overflow": "42",
+    "columns-log/full/text-display": "no",
+    "columns-log/load/line-number-display": "yes",
+    "columns-log/load/line-number-interval": "2",
+    "columns-log/load/line-number-width": "6",
+    "columns-log/load/text-commit-title-overflow": "42",
+    "columns-log/load/text-display": "no",
+    "columns-log/shorthand/line-number-display": "yes",
+    "columns-log/shorthand/line-number-interval": "2",
+    "columns-log/shorthand/line-number-width": "6",
+    "columns-log/shorthand/text-commit-title-overflow": "42",
+    "columns-log/shorthand/text-display": "no",
+    "columns-main/full/author-display": "email",
+    "columns-main/full/author-maxwidth": "25%",
+    "columns-main/full/author-width": "18",
+    "columns-main/full/commit-title-display": "no",
+    "columns-main/full/commit-title-graph": "v1",
+    "columns-main/full/commit-title-overflow": "64",
+    "columns-main/full/commit-title-refs": "no",
+    "columns-main/full/committer-display": "abbreviated",
+    "columns-main/full/committer-maxwidth": "30%",
+    "columns-main/full/committer-width": "16",
+    "columns-main/full/date-display": "custom",
+    "columns-main/full/date-format": "%d/%m/%Y",
+    "columns-main/full/date-local": "yes",
+    "columns-main/full/date-use-author": "yes",
+    "columns-main/full/date-width": "15",
+    "columns-main/full/id-display": "yes",
+    "columns-main/full/id-width": "12",
+    "columns-main/full/line-number-display": "yes",
+    "columns-main/full/line-number-interval": "2",
+    "columns-main/full/line-number-width": "6",
+    "columns-main/load/author-display": "email",
+    "columns-main/load/author-maxwidth": "25%",
+    "columns-main/load/author-width": "18",
+    "columns-main/load/commit-title-display": "no",
+    "columns-main/load/commit-title-graph": "v1",
+    "columns-main/load/commit-title-overflow": "64",
+    "columns-main/load/commit-title-refs": "no",
+    "columns-main/load/committer-display": "abbreviated",
+    "columns-main/load/committer-maxwidth": "30%",
+    "columns-main/load/committer-width": "16",
+    "columns-main/load/date-display": "custom",
+    "columns-main/load/date-format": "%d/%m/%Y",
+    "columns-main/load/date-local": "yes",
+    "columns-main/load/date-use-author": "yes",
+    "columns-main/load/date-width": "15",
+    "columns-main/load/id-display": "yes",
+    "columns-main/load/id-width": "12",
+    "columns-main/load/line-number-display": "yes",
+    "columns-main/load/line-number-interval": "2",
+    "columns-main/load/line-number-width": "6",
+    "columns-main/shorthand/author-display": "email",
+    "columns-main/shorthand/author-maxwidth": "25%",
+    "columns-main/shorthand/author-width": "18",
+    "columns-main/shorthand/commit-title-display": "no",
+    "columns-main/shorthand/commit-title-graph": "v1",
+    "columns-main/shorthand/commit-title-overflow": "64",
+    "columns-main/shorthand/commit-title-refs": "no",
+    "columns-main/shorthand/committer-display": "abbreviated",
+    "columns-main/shorthand/committer-maxwidth": "30%",
+    "columns-main/shorthand/committer-width": "16",
+    "columns-main/shorthand/date-display": "custom",
+    "columns-main/shorthand/date-format": "%d/%m/%Y",
+    "columns-main/shorthand/date-local": "yes",
+    "columns-main/shorthand/date-use-author": "yes",
+    "columns-main/shorthand/date-width": "15",
+    "columns-main/shorthand/id-display": "yes",
+    "columns-main/shorthand/id-width": "12",
+    "columns-main/shorthand/line-number-display": "yes",
+    "columns-main/shorthand/line-number-interval": "2",
+    "columns-main/shorthand/line-number-width": "6",
+    "columns-pager/full/line-number-display": "yes",
+    "columns-pager/full/line-number-interval": "2",
+    "columns-pager/full/line-number-width": "6",
+    "columns-pager/full/text-display": "no",
+    "columns-pager/load/line-number-display": "yes",
+    "columns-pager/load/line-number-interval": "2",
+    "columns-pager/load/line-number-width": "6",
+    "columns-pager/load/text-display": "no",
+    "columns-pager/shorthand/line-number-display": "yes",
+    "columns-pager/shorthand/line-number-interval": "2",
+    "columns-pager/shorthand/line-number-width": "6",
+    "columns-pager/shorthand/text-display": "no",
+    "columns-reflog/full/author-display": "email",
+    "columns-reflog/full/author-maxwidth": "25%",
+    "columns-reflog/full/author-width": "18",
+    "columns-reflog/full/commit-title-display": "no",
+    "columns-reflog/full/commit-title-overflow": "64",
+    "columns-reflog/full/committer-display": "abbreviated",
+    "columns-reflog/full/committer-maxwidth": "30%",
+    "columns-reflog/full/committer-width": "16",
+    "columns-reflog/full/date-display": "custom",
+    "columns-reflog/full/date-format": "%d/%m/%Y",
+    "columns-reflog/full/date-local": "yes",
+    "columns-reflog/full/date-use-author": "yes",
+    "columns-reflog/full/date-width": "15",
+    "columns-reflog/full/id-color": "yes",
+    "columns-reflog/full/id-display": "no",
+    "columns-reflog/full/id-width": "12",
+    "columns-reflog/full/line-number-display": "yes",
+    "columns-reflog/full/line-number-interval": "2",
+    "columns-reflog/full/line-number-width": "6",
+    "columns-reflog/load/author-display": "email",
+    "columns-reflog/load/author-maxwidth": "25%",
+    "columns-reflog/load/author-width": "18",
+    "columns-reflog/load/commit-title-display": "no",
+    "columns-reflog/load/commit-title-overflow": "64",
+    "columns-reflog/load/committer-display": "abbreviated",
+    "columns-reflog/load/committer-maxwidth": "30%",
+    "columns-reflog/load/committer-width": "16",
+    "columns-reflog/load/date-display": "custom",
+    "columns-reflog/load/date-format": "%d/%m/%Y",
+    "columns-reflog/load/date-local": "yes",
+    "columns-reflog/load/date-use-author": "yes",
+    "columns-reflog/load/date-width": "15",
+    "columns-reflog/load/id-color": "yes",
+    "columns-reflog/load/id-display": "no",
+    "columns-reflog/load/id-width": "12",
+    "columns-reflog/load/line-number-display": "yes",
+    "columns-reflog/load/line-number-interval": "2",
+    "columns-reflog/load/line-number-width": "6",
+    "columns-reflog/shorthand/author-display": "email",
+    "columns-reflog/shorthand/author-maxwidth": "25%",
+    "columns-reflog/shorthand/author-width": "18",
+    "columns-reflog/shorthand/commit-title-display": "no",
+    "columns-reflog/shorthand/commit-title-overflow": "64",
+    "columns-reflog/shorthand/committer-display": "abbreviated",
+    "columns-reflog/shorthand/committer-maxwidth": "30%",
+    "columns-reflog/shorthand/committer-width": "16",
+    "columns-reflog/shorthand/date-display": "custom",
+    "columns-reflog/shorthand/date-format": "%d/%m/%Y",
+    "columns-reflog/shorthand/date-local": "yes",
+    "columns-reflog/shorthand/date-use-author": "yes",
+    "columns-reflog/shorthand/date-width": "15",
+    "columns-reflog/shorthand/id-color": "yes",
+    "columns-reflog/shorthand/id-display": "no",
+    "columns-reflog/shorthand/id-width": "12",
+    "columns-reflog/shorthand/line-number-display": "yes",
+    "columns-reflog/shorthand/line-number-interval": "2",
+    "columns-reflog/shorthand/line-number-width": "6",
+    "columns-refs/full/author-display": "email",
+    "columns-refs/full/author-maxwidth": "25%",
+    "columns-refs/full/author-width": "18",
+    "columns-refs/full/commit-title-display": "no",
+    "columns-refs/full/commit-title-overflow": "64",
+    "columns-refs/full/committer-display": "abbreviated",
+    "columns-refs/full/committer-maxwidth": "30%",
+    "columns-refs/full/committer-width": "16",
+    "columns-refs/full/date-display": "custom",
+    "columns-refs/full/date-format": "%d/%m/%Y",
+    "columns-refs/full/date-local": "yes",
+    "columns-refs/full/date-use-author": "yes",
+    "columns-refs/full/date-width": "15",
+    "columns-refs/full/id-display": "yes",
+    "columns-refs/full/id-width": "12",
+    "columns-refs/full/line-number-display": "yes",
+    "columns-refs/full/line-number-interval": "2",
+    "columns-refs/full/line-number-width": "6",
+    "columns-refs/full/ref-display": "no",
+    "columns-refs/full/ref-maxwidth": "35%",
+    "columns-refs/full/ref-width": "22",
+    "columns-refs/load/author-display": "email",
+    "columns-refs/load/author-maxwidth": "25%",
+    "columns-refs/load/author-width": "18",
+    "columns-refs/load/commit-title-display": "no",
+    "columns-refs/load/commit-title-overflow": "64",
+    "columns-refs/load/committer-display": "abbreviated",
+    "columns-refs/load/committer-maxwidth": "30%",
+    "columns-refs/load/committer-width": "16",
+    "columns-refs/load/date-display": "custom",
+    "columns-refs/load/date-format": "%d/%m/%Y",
+    "columns-refs/load/date-local": "yes",
+    "columns-refs/load/date-use-author": "yes",
+    "columns-refs/load/date-width": "15",
+    "columns-refs/load/id-display": "yes",
+    "columns-refs/load/id-width": "12",
+    "columns-refs/load/line-number-display": "yes",
+    "columns-refs/load/line-number-interval": "2",
+    "columns-refs/load/line-number-width": "6",
+    "columns-refs/load/ref-display": "no",
+    "columns-refs/load/ref-maxwidth": "35%",
+    "columns-refs/load/ref-width": "22",
+    "columns-refs/shorthand/author-display": "email",
+    "columns-refs/shorthand/author-maxwidth": "25%",
+    "columns-refs/shorthand/author-width": "18",
+    "columns-refs/shorthand/commit-title-display": "no",
+    "columns-refs/shorthand/commit-title-overflow": "64",
+    "columns-refs/shorthand/committer-display": "abbreviated",
+    "columns-refs/shorthand/committer-maxwidth": "30%",
+    "columns-refs/shorthand/committer-width": "16",
+    "columns-refs/shorthand/date-display": "custom",
+    "columns-refs/shorthand/date-format": "%d/%m/%Y",
+    "columns-refs/shorthand/date-local": "yes",
+    "columns-refs/shorthand/date-use-author": "yes",
+    "columns-refs/shorthand/date-width": "15",
+    "columns-refs/shorthand/id-display": "yes",
+    "columns-refs/shorthand/id-width": "12",
+    "columns-refs/shorthand/line-number-display": "yes",
+    "columns-refs/shorthand/line-number-interval": "2",
+    "columns-refs/shorthand/line-number-width": "6",
+    "columns-refs/shorthand/ref-display": "no",
+    "columns-refs/shorthand/ref-maxwidth": "35%",
+    "columns-refs/shorthand/ref-width": "22",
+    "columns-stage/full/line-number-display": "yes",
+    "columns-stage/full/line-number-interval": "2",
+    "columns-stage/full/line-number-width": "6",
+    "columns-stage/full/text-display": "no",
+    "columns-stage/load/line-number-display": "yes",
+    "columns-stage/load/line-number-interval": "2",
+    "columns-stage/load/line-number-width": "6",
+    "columns-stage/load/text-display": "no",
+    "columns-stage/shorthand/line-number-display": "yes",
+    "columns-stage/shorthand/line-number-interval": "2",
+    "columns-stage/shorthand/line-number-width": "6",
+    "columns-stage/shorthand/text-display": "no",
+    "columns-stash/full/author-display": "email",
+    "columns-stash/full/author-maxwidth": "25%",
+    "columns-stash/full/author-width": "18",
+    "columns-stash/full/commit-title-display": "no",
+    "columns-stash/full/commit-title-overflow": "64",
+    "columns-stash/full/date-display": "custom",
+    "columns-stash/full/date-format": "%d/%m/%Y",
+    "columns-stash/full/date-local": "yes",
+    "columns-stash/full/date-use-author": "yes",
+    "columns-stash/full/date-width": "15",
+    "columns-stash/full/id-display": "yes",
+    "columns-stash/full/id-width": "12",
+    "columns-stash/full/line-number-display": "yes",
+    "columns-stash/full/line-number-interval": "2",
+    "columns-stash/full/line-number-width": "6",
+    "columns-stash/load/author-display": "email",
+    "columns-stash/load/author-maxwidth": "25%",
+    "columns-stash/load/author-width": "18",
+    "columns-stash/load/commit-title-display": "no",
+    "columns-stash/load/commit-title-overflow": "64",
+    "columns-stash/load/date-display": "custom",
+    "columns-stash/load/date-format": "%d/%m/%Y",
+    "columns-stash/load/date-local": "yes",
+    "columns-stash/load/date-use-author": "yes",
+    "columns-stash/load/date-width": "15",
+    "columns-stash/load/id-display": "yes",
+    "columns-stash/load/id-width": "12",
+    "columns-stash/load/line-number-display": "yes",
+    "columns-stash/load/line-number-interval": "2",
+    "columns-stash/load/line-number-width": "6",
+    "columns-stash/shorthand/author-display": "email",
+    "columns-stash/shorthand/author-maxwidth": "25%",
+    "columns-stash/shorthand/author-width": "18",
+    "columns-stash/shorthand/commit-title-display": "no",
+    "columns-stash/shorthand/commit-title-overflow": "64",
+    "columns-stash/shorthand/date-display": "custom",
+    "columns-stash/shorthand/date-format": "%d/%m/%Y",
+    "columns-stash/shorthand/date-local": "yes",
+    "columns-stash/shorthand/date-use-author": "yes",
+    "columns-stash/shorthand/date-width": "15",
+    "columns-stash/shorthand/id-display": "yes",
+    "columns-stash/shorthand/id-width": "12",
+    "columns-stash/shorthand/line-number-display": "yes",
+    "columns-stash/shorthand/line-number-interval": "2",
+    "columns-stash/shorthand/line-number-width": "6",
+    "columns-status/full/file-name-display": "no",
+    "columns-status/full/file-name-maxwidth": "40%",
+    "columns-status/full/file-name-width": "24",
+    "columns-status/full/line-number-display": "yes",
+    "columns-status/full/line-number-interval": "2",
+    "columns-status/full/line-number-width": "6",
+    "columns-status/full/status-display": "long",
+    "columns-status/load/file-name-display": "no",
+    "columns-status/load/file-name-maxwidth": "40%",
+    "columns-status/load/file-name-width": "24",
+    "columns-status/load/line-number-display": "yes",
+    "columns-status/load/line-number-interval": "2",
+    "columns-status/load/line-number-width": "6",
+    "columns-status/load/status-display": "long",
+    "columns-status/shorthand/file-name-display": "no",
+    "columns-status/shorthand/file-name-maxwidth": "40%",
+    "columns-status/shorthand/file-name-width": "24",
+    "columns-status/shorthand/line-number-display": "yes",
+    "columns-status/shorthand/line-number-interval": "2",
+    "columns-status/shorthand/line-number-width": "6",
+    "columns-status/shorthand/status-display": "long",
+    "columns-tree/full/author-display": "email",
+    "columns-tree/full/author-maxwidth": "25%",
+    "columns-tree/full/author-width": "18",
+    "columns-tree/full/committer-display": "abbreviated",
+    "columns-tree/full/committer-maxwidth": "30%",
+    "columns-tree/full/committer-width": "16",
+    "columns-tree/full/date-display": "custom",
+    "columns-tree/full/date-format": "%d/%m/%Y",
+    "columns-tree/full/date-local": "yes",
+    "columns-tree/full/date-use-author": "yes",
+    "columns-tree/full/date-width": "15",
+    "columns-tree/full/file-name-display": "no",
+    "columns-tree/full/file-name-maxwidth": "40%",
+    "columns-tree/full/file-name-width": "24",
+    "columns-tree/full/file-size-display": "units",
+    "columns-tree/full/file-size-width": "10",
+    "columns-tree/full/id-display": "yes",
+    "columns-tree/full/id-width": "12",
+    "columns-tree/full/line-number-display": "yes",
+    "columns-tree/full/line-number-interval": "2",
+    "columns-tree/full/line-number-width": "6",
+    "columns-tree/full/mode-display": "no",
+    "columns-tree/full/mode-width": "12",
+    "columns-tree/load/author-display": "email",
+    "columns-tree/load/author-maxwidth": "25%",
+    "columns-tree/load/author-width": "18",
+    "columns-tree/load/committer-display": "abbreviated",
+    "columns-tree/load/committer-maxwidth": "30%",
+    "columns-tree/load/committer-width": "16",
+    "columns-tree/load/date-display": "custom",
+    "columns-tree/load/date-format": "%d/%m/%Y",
+    "columns-tree/load/date-local": "yes",
+    "columns-tree/load/date-use-author": "yes",
+    "columns-tree/load/date-width": "15",
+    "columns-tree/load/file-name-display": "no",
+    "columns-tree/load/file-name-maxwidth": "40%",
+    "columns-tree/load/file-name-width": "24",
+    "columns-tree/load/file-size-display": "units",
+    "columns-tree/load/file-size-width": "10",
+    "columns-tree/load/id-display": "yes",
+    "columns-tree/load/id-width": "12",
+    "columns-tree/load/line-number-display": "yes",
+    "columns-tree/load/line-number-interval": "2",
+    "columns-tree/load/line-number-width": "6",
+    "columns-tree/load/mode-display": "no",
+    "columns-tree/load/mode-width": "12",
+    "columns-tree/shorthand/author-display": "email",
+    "columns-tree/shorthand/author-maxwidth": "25%",
+    "columns-tree/shorthand/author-width": "18",
+    "columns-tree/shorthand/committer-display": "abbreviated",
+    "columns-tree/shorthand/committer-maxwidth": "30%",
+    "columns-tree/shorthand/committer-width": "16",
+    "columns-tree/shorthand/date-display": "custom",
+    "columns-tree/shorthand/date-format": "%d/%m/%Y",
+    "columns-tree/shorthand/date-local": "yes",
+    "columns-tree/shorthand/date-use-author": "yes",
+    "columns-tree/shorthand/date-width": "15",
+    "columns-tree/shorthand/file-name-display": "no",
+    "columns-tree/shorthand/file-name-maxwidth": "40%",
+    "columns-tree/shorthand/file-name-width": "24",
+    "columns-tree/shorthand/file-size-display": "units",
+    "columns-tree/shorthand/file-size-width": "10",
+    "columns-tree/shorthand/id-display": "yes",
+    "columns-tree/shorthand/id-width": "12",
+    "columns-tree/shorthand/line-number-display": "yes",
+    "columns-tree/shorthand/line-number-interval": "2",
+    "columns-tree/shorthand/line-number-width": "6",
+    "columns-tree/shorthand/mode-display": "no",
+    "columns-tree/shorthand/mode-width": "12",
+    "command-line/help/help": [
+      "blame",
+      "grep",
+      "log",
+      "reflog",
+      "refs",
+      "show",
+      "stash",
+      "status"
+    ],
+    "command-line/version/version": "2.6.1",
+    "configuration-roundtrip/export/binding": [
+      "move-last-line"
+    ],
+    "configuration-roundtrip/export/search": [
+      "smart-case"
+    ],
+    "configuration-roundtrip/import/binding": [
+      "move-last-line"
+    ],
+    "configuration-roundtrip/import/search": [
+      "smart-case"
+    ],
+    "configuration-roundtrip/operate/selection": true,
+    "enum-author/value-0/value": "no",
+    "enum-author/value-1/value": "full",
+    "enum-author/value-2/value": "abbreviated",
+    "enum-author/value-3/value": "email",
+    "enum-author/value-4/value": "email-user",
+    "enum-committer/value-0/value": "full",
+    "enum-committer/value-1/value": "no",
+    "enum-committer/value-2/value": "abbreviated",
+    "enum-committer/value-3/value": "email",
+    "enum-committer/value-4/value": "email-user",
+    "enum-date/value-0/value": "no",
+    "enum-date/value-1/value": "default",
+    "enum-date/value-2/value": "relative",
+    "enum-date/value-3/value": "relative-compact",
+    "enum-date/value-4/value": "custom",
+    "enum-file-name/value-0/value": "no",
+    "enum-file-name/value-1/value": "auto",
+    "enum-file-name/value-2/value": "always",
+    "enum-file-size/value-0/value": "no",
+    "enum-file-size/value-1/value": "default",
+    "enum-file-size/value-2/value": "units",
+    "enum-status/value-0/value": "no",
+    "enum-status/value-1/value": "short",
+    "enum-status/value-2/value": "long",
+    "export-display/export/file": true,
+    "grep-rule-case/find/matches": [
+      true
+    ],
+    "grep-rule-fixed/find/matches": [
+      true
+    ],
+    "grep-rule-index-control/find/matches": [
+      true
+    ],
+    "grep-rule-index/find/matches": [
+      true
+    ],
+    "grep-rule-insensitive/find/matches": [
+      true,
+      true
+    ],
+    "grep-rule-inverted/find/matches": [
+      true
+    ],
+    "grep-rule-regex/find/matches": [
+      true,
+      true
+    ],
+    "grep-rule-space/find/matches": [
+      true,
+      true
+    ],
+    "grep-rule-unicode/find/matches": [
+      true
+    ],
+    "grep-rule-word/find/matches": [
+      true
+    ],
+    "grep-rule-working/find/matches": [
+      true
+    ],
+    "gui-annotated-tag/show/content": [
+      true
+    ],
+    "gui-back-from-tree/show/content": [
+      true,
+      true
+    ],
+    "gui-blame/show/content": [
+      true,
+      true,
+      true
+    ],
+    "gui-blob/show/content": [
+      true,
+      true
+    ],
+    "gui-branch-checkout/checkout/branch": [
+      true
+    ],
+    "gui-branch-checkout/checkout/file": "ZGVmIGhlYWRpbmcoKToKICAgIHJldHVybiAibm9ydGgiCg==",
+    "gui-branch-delete/delete/refs": true,
+    "gui-commit-notes/show/content": [
+      true
+    ],
+    "gui-console-message/show/content": [
+      true
+    ],
+    "gui-custom-binding/show/content": true,
+    "gui-detail-author-date/show/content": [
+      true
+    ],
+    "gui-detail-back-diff/show/content": [
+      true,
+      true
+    ],
+    "gui-detail-blame-email/show/content": [
+      true
+    ],
+    "gui-detail-blame-parent/show/content": true,
+    "gui-detail-diff-next/show/content": true,
+    "gui-detail-grep-open/show/content": true,
+    "gui-detail-help-collapse/show/content": [
+      true
+    ],
+    "gui-detail-help-search/show/content": [
+      true
+    ],
+    "gui-detail-older-diff/show/content": [
+      true
+    ],
+    "gui-detail-refresh/refresh/changes": [
+      true
+    ],
+    "gui-detail-search-smart/show/content": true,
+    "gui-detail-tag-blob/show/content": true,
+    "gui-detail-tag-tree/show/content": true,
+    "gui-detail-tree-ids/show/content": [
+      true
+    ],
+    "gui-detail-tree-sort/show/content": [
+      "Ada Rivers",
+      "Bea Meadow",
+      "Chen Grove"
+    ],
+    "gui-diff-context-wide/show/content": [
+      true,
+      true
+    ],
+    "gui-diff-context-zero/show/content": [
+      true,
+      true
+    ],
+    "gui-diff/show/content": [
+      true,
+      true,
+      true
+    ],
+    "gui-display-author-email/show/content": [
+      true
+    ],
+    "gui-display-committer/show/content": [
+      true
+    ],
+    "gui-display-date-custom/show/content": [
+      true
+    ],
+    "gui-display-ids/show/content": [
+      true
+    ],
+    "gui-display-numbers/show/content": [
+      true
+    ],
+    "gui-display-references/show/content": [
+      true
+    ],
+    "gui-display-resize/show/content": [
+      true,
+      true
+    ],
+    "gui-display-reverse/show/content": [
+      "Start field notebook",
+      "Document river access",
+      "Add safety checklist",
+      "Mark eastern viewpoint",
+      "Merge eastern route",
+      "Update trail heading"
+    ],
+    "gui-display-wrap/show/content": [
+      true
+    ],
+    "gui-goto-tag/show/content": true,
+    "gui-grep-case/show/content": [
+      true,
+      true
+    ],
+    "gui-grep-path/show/content": true,
+    "gui-grep/show/content": [
+      true,
+      true
+    ],
+    "gui-help/show/content": [
+      true,
+      true
+    ],
+    "gui-history-filter-author/show/content": [
+      "Document river access",
+      "Update trail heading"
+    ],
+    "gui-history-filter-first-parent/show/content": [
+      "Add safety checklist",
+      "Document river access",
+      "Merge eastern route",
+      "Start field notebook",
+      "Update trail heading"
+    ],
+    "gui-history-filter-path/show/content": [
+      "Start field notebook",
+      "Update trail heading"
+    ],
+    "gui-history-filter-range/show/content": [
+      "Document river access"
+    ],
+    "gui-history-oldest/show/content": true,
+    "gui-history-search/show/content": true,
+    "gui-history/show/content": [
+      true,
+      true
+    ],
+    "gui-log/show/content": [
+      true,
+      true,
+      true
+    ],
+    "gui-maximize/show/content": [
+      true,
+      true
+    ],
+    "gui-mouse-selection/select/selected": true,
+    "gui-pager-end/show/content": [
+      true
+    ],
+    "gui-pager-number/show/content": [
+      true
+    ],
+    "gui-pager-search/show/content": [
+      true
+    ],
+    "gui-pager/show/content": [
+      true,
+      true
+    ],
+    "gui-reflog/show/content": [
+      true,
+      true
+    ],
+    "gui-refs/show/content": [
+      true,
+      true,
+      true
+    ],
+    "gui-revert-hunk/revert/file": "bGluZSAwMQpsaW5lIDAyCmxpbmUgMDMKbGluZSAwNApsaW5lIDA1CmxpbmUgMDYKbGluZSAwNwpsaW5lIDA4CmxpbmUgMDkKbGluZSAxMApsaW5lIDExCmxpbmUgMTIKbGluZSAxMwpsaW5lIDE0CmxpbmUgMTUKbGluZSAxNgpsaW5lIDE3CmxpbmUgMTgKbGluZSAxOQpsaW5lIDIwCmxpbmUgMjEKbGluZSAyMgpsaW5lIDIzCmxpbmUgMjQKbGluZSAyNQpsaW5lIDI2CmxpbmUgMjcKbGluZSAyOApsaW5lIDI5CmxpbmUgMzAKbGluZSAzMQpsaW5lIDMyClNFQ09ORCBBRERFRApsaW5lIDMzCmxpbmUgMzQKbGluZSAzNQpsaW5lIDM2CmxpbmUgMzcKbGluZSAzOApsaW5lIDM5CmxpbmUgNDAK",
+    "gui-revert-nested/revert/file": "IyBXYWxraW5nIGd1aWRlCkNhcnJ5IHdhdGVyIGFuZCBhIG1hcC4K",
+    "gui-revert-regular/revert/file": "b2FrIHRyZWUKcml2ZXIgYmFuayB3aXRoIGZvb3RwYXRoCnN0b25lIGJyaWRnZSByZXN0b3JlZAo=",
+    "gui-revert-space/revert/file": "QSBuYW1lIHdpdGggc3BhY2VzLgo=",
+    "gui-revert-unicode/revert/file": "Q3LDqG1lIGFuZCBjYWbDqS4K",
+    "gui-split/show/content": true,
+    "gui-stage-hunk/stage/index": "line 01\nline 02\nline 03\nline 04\nFIRST ADDED\nANOTHER ADDED\nline 05\nline 06\nline 07\nline 08\nline 09\nline 10\nline 11\nline 12\nline 13\nline 14\nline 15\nline 16\nline 17\nline 18\nline 19\nline 20\nline 21\nline 22\nline 23\nline 24\nline 25\nline 26\nline 27\nline 28\nline 29\nline 30\nline 31\nline 32\nline 33\nline 34\nline 35\nline 36\nline 37\nline 38\nline 39\nline 40\n",
+    "gui-stage-hunk/stage/remaining": true,
+    "gui-stage-kind-binary/stage/status": {
+      "body_base64": "AAECAwQFBgcICQ==",
+      "mode": "100644"
+    },
+    "gui-stage-kind-delete/stage/status": [
+      "D  docs/manual.md"
+    ],
+    "gui-stage-kind-executable/stage/status": {
+      "body_base64": "IyEvYmluL3NoCmVjaG8gbm9ydGgK",
+      "mode": "100644"
+    },
+    "gui-stage-kind-symlink/stage/status": {
+      "body_base64": "bm90ZXMudHh0",
+      "mode": "120000"
+    },
+    "gui-stage-line/stage/index": "line 01\nline 02\nline 03\nline 04\nFIRST ADDED\nline 05\nline 06\nline 07\nline 08\nline 09\nline 10\nline 11\nline 12\nline 13\nline 14\nline 15\nline 16\nline 17\nline 18\nline 19\nline 20\nline 21\nline 22\nline 23\nline 24\nline 25\nline 26\nline 27\nline 28\nline 29\nline 30\nline 31\nline 32\nline 33\nline 34\nline 35\nline 36\nline 37\nline 38\nline 39\nline 40\n",
+    "gui-stage-line/stage/remaining": true,
+    "gui-stage-nested/stage/index": "# Updated walking guide\nCarry water.\n",
+    "gui-stage-nested/stage/status": [
+      "M  docs/manual.md"
+    ],
+    "gui-stage-new/stage/index": "A new document.\n",
+    "gui-stage-new/stage/status": [
+      "A  fresh.txt"
+    ],
+    "gui-stage-part/stage/index": "line 01\nline 02\nline 03\nline 04\nFIRST ADDED\nline 05\nline 06\nline 07\nline 08\nline 09\nline 10\nline 11\nline 12\nline 13\nline 14\nline 15\nline 16\nline 17\nline 18\nline 19\nline 20\nline 21\nline 22\nline 23\nline 24\nline 25\nline 26\nline 27\nline 28\nline 29\nline 30\nline 31\nline 32\nline 33\nline 34\nline 35\nline 36\nline 37\nline 38\nline 39\nline 40\n",
+    "gui-stage-part/stage/remaining": true,
+    "gui-stage-regular/stage/index": "oak tree\nriver bank with footpath\nstone bridge upgraded\n",
+    "gui-stage-regular/stage/status": [
+      "M  notes.txt"
+    ],
+    "gui-stage-space/stage/index": "Changed spaced name.\n",
+    "gui-stage-space/stage/status": [
+      "M  has space.txt"
+    ],
+    "gui-stage-unicode/stage/index": "Café menu updated.\n",
+    "gui-stage-unicode/stage/status": [
+      "M  café.txt"
+    ],
+    "gui-stash-apply/apply/file": "VW5wdWJsaXNoZWQgdHJhaWwgZ3VpZGUK",
+    "gui-stash-apply/saved-list/stash": true,
+    "gui-stash-diff/show/content": [
+      true,
+      true
+    ],
+    "gui-stash-drop/drop/stash": true,
+    "gui-stash-list/show/content": [
+      true,
+      true
+    ],
+    "gui-stash-pop/pop/file": "VW5wdWJsaXNoZWQgdHJhaWwgZ3VpZGUK",
+    "gui-stash-pop/saved-list/stash": true,
+    "gui-tree-recursive/show/content": [
+      true,
+      true
+    ],
+    "gui-tree-size-units/show/content": [
+      true
+    ],
+    "gui-tree-subdirectory/show/content": [
+      true,
+      true
+    ],
+    "gui-tree/show/content": [
+      true,
+      true
+    ],
+    "gui-unstage-hunk/unstage/index": "line 01\nline 02\nline 03\nline 04\nline 05\nline 06\nline 07\nline 08\nline 09\nline 10\nline 11\nline 12\nline 13\nline 14\nline 15\nline 16\nline 17\nline 18\nline 19\nline 20\nline 21\nline 22\nline 23\nline 24\nline 25\nline 26\nline 27\nline 28\nline 29\nline 30\nline 31\nline 32\nSECOND ADDED\nline 33\nline 34\nline 35\nline 36\nline 37\nline 38\nline 39\nline 40\n",
+    "gui-unstage-nested/unstage/status": [
+      " M docs/manual.md"
+    ],
+    "gui-unstage-nested/unstage/worktree": "IyBVcGRhdGVkIHdhbGtpbmcgZ3VpZGUKQ2Fycnkgd2F0ZXIuCg==",
+    "gui-unstage-new/unstage/status": [
+      "?? fresh.txt"
+    ],
+    "gui-unstage-new/unstage/worktree": "QSBuZXcgZG9jdW1lbnQuCg==",
+    "gui-unstage-regular/unstage/status": [
+      " M notes.txt"
+    ],
+    "gui-unstage-regular/unstage/worktree": "b2FrIHRyZWUKcml2ZXIgYmFuayB3aXRoIGZvb3RwYXRoCnN0b25lIGJyaWRnZSB1cGdyYWRlZAo=",
+    "gui-unstage-space/unstage/status": [
+      " M has space.txt"
+    ],
+    "gui-unstage-space/unstage/worktree": "Q2hhbmdlZCBzcGFjZWQgbmFtZS4K",
+    "gui-unstage-unicode/unstage/status": [
+      " M café.txt"
+    ],
+    "gui-unstage-unicode/unstage/worktree": "Q2Fmw6kgbWVudSB1cGRhdGVkLgo=",
+    "history-query-rules/author/history": [
+      true,
+      true
+    ],
+    "history-query-rules/count/history": [
+      true,
+      true
+    ],
+    "history-query-rules/docs-path/history": [
+      true,
+      true
+    ],
+    "history-query-rules/exclude/history": [
+      true,
+      true
+    ],
+    "history-query-rules/mainline/history": [
+      true,
+      true
+    ],
+    "history-query-rules/merges/history": [
+      true
+    ],
+    "history-query-rules/message-regex/history": [
+      true
+    ],
+    "history-query-rules/message/history": [
+      true
+    ],
+    "history-query-rules/no-merges/history": [
+      true,
+      true
+    ],
+    "history-query-rules/one-revision/history": [
+      true
+    ],
+    "history-query-rules/range/history": [
+      true
+    ],
+    "history-query-rules/since/history": [
+      true,
+      true
+    ],
+    "history-query-rules/skip/history": [
+      true
+    ],
+    "history-query-rules/source-file/history": [
+      true,
+      true
+    ],
+    "history-query-rules/until/history": [
+      true,
+      true
+    ],
+    "native-validation/baseline/commit-order": [
+      "topo"
+    ],
+    "native-validation/baseline/ignore-case": [
+      "yes"
+    ],
+    "native-validation/baseline/ignore-space": [
+      "all"
+    ],
+    "native-validation/baseline/line-graphics": [
+      "ascii"
+    ],
+    "native-validation/baseline/refresh-mode": [
+      "manual"
+    ],
+    "native-validation/baseline/tab-size": [
+      "4"
+    ],
+    "native-validation/baseline/vertical-split": [
+      "vertical"
+    ],
+    "native-validation/boolean-coercion/false": [
+      "no"
+    ],
+    "native-validation/commit-order/result": [
+      "auto"
+    ],
+    "native-validation/ignore-case/result": [
+      "no"
+    ],
+    "native-validation/ignore-space/result": [
+      "no"
+    ],
+    "native-validation/line-graphics/result": [
+      "ascii"
+    ],
+    "native-validation/refresh-mode/result": [
+      "manual"
+    ],
+    "native-validation/tab-size/result": [
+      "4"
+    ],
+    "native-validation/vertical-split/result": [
+      "horizontal"
+    ],
+    "navigation-rule-down/select/selected": true,
+    "navigation-rule-first/select/selected": true,
+    "navigation-rule-goto-branch/select/selected": true,
+    "navigation-rule-goto-tag/select/selected": true,
+    "navigation-rule-last/select/selected": true,
+    "navigation-rule-numeric/select/selected": true,
+    "navigation-rule-search-back/select/selected": true,
+    "navigation-rule-search-forward/select/selected": true,
+    "navigation-rule-up/select/selected": true,
+    "prompt-history/command/message": [
+      true
+    ],
+    "prompt-history/save/history": true,
+    "repo-variable-head/echo/value": [
+      true
+    ],
+    "repo-variable-is-inside-work-tree/echo/value": [
+      true
+    ],
+    "settings-values/blame-options-1/value": [
+      "-w",
+      "-C"
+    ],
+    "settings-values/commit-order-1/value": [
+      "reverse"
+    ],
+    "settings-values/commit-order-2/value": [
+      "topo"
+    ],
+    "settings-values/commit-order-3/value": [
+      "author-date"
+    ],
+    "settings-values/commit-order-4/value": [
+      "date"
+    ],
+    "settings-values/commit-order-5/value": [
+      "default"
+    ],
+    "settings-values/diff-context-1/value": [
+      "0"
+    ],
+    "settings-values/diff-context-2/value": [
+      "12"
+    ],
+    "settings-values/diff-indicator-1/value": [
+      "no"
+    ],
+    "settings-values/diff-noprefix-1/value": [
+      "yes"
+    ],
+    "settings-values/diff-options-1/value": [
+      "--patience",
+      "-U7"
+    ],
+    "settings-values/editor-line-number-1/value": [
+      "no"
+    ],
+    "settings-values/focus-child-1/value": [
+      "no"
+    ],
+    "settings-values/git-colors-1/value": [
+      "no"
+    ],
+    "settings-values/history-size-1/value": [
+      "40"
+    ],
+    "settings-values/history-size-2/value": [
+      "0"
+    ],
+    "settings-values/horizontal-scroll-1/value": [
+      "9"
+    ],
+    "settings-values/horizontal-scroll-2/value": [
+      "25%"
+    ],
+    "settings-values/id-width-1/value": [
+      "10"
+    ],
+    "settings-values/ignore-case-1/value": [
+      "smart-case"
+    ],
+    "settings-values/ignore-case-2/value": [
+      "yes"
+    ],
+    "settings-values/ignore-space-1/value": [
+      "all"
+    ],
+    "settings-values/ignore-space-2/value": [
+      "some"
+    ],
+    "settings-values/ignore-space-3/value": [
+      "at-eol"
+    ],
+    "settings-values/line-graphics-1/value": [
+      "ascii"
+    ],
+    "settings-values/line-graphics-2/value": [
+      "utf-8"
+    ],
+    "settings-values/line-graphics-3/value": [
+      "utf-8"
+    ],
+    "settings-values/log-options-1/value": [
+      "--numstat",
+      "--no-merges"
+    ],
+    "settings-values/mailmap-1/value": [
+      "no"
+    ],
+    "settings-values/main-options-1/value": [
+      "--first-parent",
+      "--max-count=4"
+    ],
+    "settings-values/mouse-1/value": [
+      "yes"
+    ],
+    "settings-values/mouse-scroll-1/value": [
+      "1"
+    ],
+    "settings-values/mouse-wheel-cursor-1/value": [
+      "yes"
+    ],
+    "settings-values/pager-autoscroll-1/value": [
+      "yes"
+    ],
+    "settings-values/recurse-tree-1/value": [
+      "yes"
+    ],
+    "settings-values/reference-format-1/value": [
+      "(branch) {tag} [remote]",
+      "{remote}",
+      "<tag>",
+      "~replace~"
+    ],
+    "settings-values/refresh-interval-1/value": [
+      "2"
+    ],
+    "settings-values/refresh-mode-1/value": [
+      "manual"
+    ],
+    "settings-values/refresh-mode-2/value": [
+      "after-command"
+    ],
+    "settings-values/refresh-mode-3/value": [
+      "periodic"
+    ],
+    "settings-values/send-child-enter-1/value": [
+      "no"
+    ],
+    "settings-values/show-changes-1/value": [
+      "no"
+    ],
+    "settings-values/show-untracked-1/value": [
+      "no"
+    ],
+    "settings-values/split-view-height-1/value": [
+      "12"
+    ],
+    "settings-values/split-view-height-2/value": [
+      "60%"
+    ],
+    "settings-values/split-view-width-1/value": [
+      "28"
+    ],
+    "settings-values/split-view-width-2/value": [
+      "70%"
+    ],
+    "settings-values/start-on-head-1/value": [
+      "yes"
+    ],
+    "settings-values/status-show-untracked-dirs-1/value": [
+      "no"
+    ],
+    "settings-values/status-show-untracked-files-1/value": [
+      "no"
+    ],
+    "settings-values/tab-size-1/value": [
+      "4"
+    ],
+    "settings-values/tab-size-2/value": [
+      "1"
+    ],
+    "settings-values/truncation-delimiter-1/value": [
+      "!"
+    ],
+    "settings-values/truncation-delimiter-2/value": [
+      "⋯"
+    ],
+    "settings-values/vertical-split-1/value": [
+      "vertical"
+    ],
+    "settings-values/vertical-split-2/value": [
+      "horizontal"
+    ],
+    "settings-values/word-diff-1/value": [
+      "yes"
+    ],
+    "settings-values/wrap-lines-1/value": [
+      "yes"
+    ],
+    "settings-values/wrap-search-1/value": [
+      "no"
+    ],
+    "stage-crlf/stage/index": "first\r\nsecond\r\n",
+    "stage-crlf/stage/status": [
+      "A  windows.txt"
+    ],
+    "stage-empty/stage/index": "First content.\n",
+    "stage-empty/stage/status": [
+      "M  empty.txt"
+    ],
+    "stage-leading/stage/index": "  indented text\n",
+    "stage-leading/stage/status": [
+      "A  leading.txt"
+    ],
+    "stage-long/stage/index": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\n",
+    "stage-long/stage/status": [
+      "A  long.txt"
+    ],
+    "stage-new-nested/stage/index": "A nested new document.\n",
+    "stage-new-nested/stage/status": [
+      "A  newdir/page.txt"
+    ],
+    "stage-no-newline/stage/index": "No trailing newline",
+    "stage-no-newline/stage/status": [
+      "A  end.txt"
+    ],
+    "stage-tab/stage/index": "one\ttwo\tthree\n",
+    "stage-tab/stage/status": [
+      "A  tabbed.txt"
+    ],
+    "unstage-crlf/unstage/status": [
+      "?? windows.txt"
+    ],
+    "unstage-crlf/unstage/worktree": "Zmlyc3QNCnNlY29uZA0K",
+    "unstage-empty/unstage/status": [
+      " M empty.txt"
+    ],
+    "unstage-empty/unstage/worktree": "Rmlyc3QgY29udGVudC4K",
+    "unstage-leading/unstage/status": [
+      "?? leading.txt"
+    ],
+    "unstage-leading/unstage/worktree": "ICBpbmRlbnRlZCB0ZXh0Cg==",
+    "unstage-long/unstage/status": [
+      "?? long.txt"
+    ],
+    "unstage-long/unstage/worktree": "QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBCg==",
+    "unstage-new-nested/unstage/status": [
+      "?? newdir/page.txt"
+    ],
+    "unstage-new-nested/unstage/worktree": "QSBuZXN0ZWQgbmV3IGRvY3VtZW50Lgo=",
+    "unstage-no-newline/unstage/status": [
+      "?? end.txt"
+    ],
+    "unstage-no-newline/unstage/worktree": "Tm8gdHJhaWxpbmcgbmV3bGluZQ==",
+    "unstage-tab/unstage/status": [
+      "?? tabbed.txt"
+    ],
+    "unstage-tab/unstage/worktree": "b25lCXR3bwl0aHJlZQo="
+  }
+}

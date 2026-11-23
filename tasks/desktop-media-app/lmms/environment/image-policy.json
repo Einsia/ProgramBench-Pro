@@ -1,0 +1,304 @@
+{
+  "reference_paths": [
+    "/app/solution/runtime/usr/bin/lmms.real",
+    "/app/solution/runtime/usr/lib/lmms/libtripleoscillator.so"
+  ],
+  "shared_solution_files": [
+    {
+      "file": "LICENSE",
+      "reason": "Unmodified license/copyright text for LMMS; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/OPL2.txt",
+      "reason": "Unmodified license/copyright text for OPL2; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/ZynAddSubFX-engine.txt",
+      "reason": "Unmodified license/copyright text for ZynAddSubFX-engine; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/ZynAddSubFX.txt",
+      "reason": "Unmodified license/copyright text for ZynAddSubFX; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/demo-projects-CapDan.txt",
+      "reason": "Unmodified license/copyright text for demo-projects-CapDan; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/demo-projects-Skiessi.txt",
+      "reason": "Unmodified license/copyright text for demo-projects-Skiessi; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/demo-projects.txt",
+      "reason": "Unmodified license/copyright text for demo-projects; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libasyncns0.txt",
+      "reason": "Unmodified license/copyright text for libasyncns0; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libc6-dev-i386.txt",
+      "reason": "Unmodified license/copyright text for libc6-dev-i386; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libcaca0.txt",
+      "reason": "Unmodified license/copyright text for libcaca0; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libdbus-1-3.txt",
+      "reason": "Unmodified license/copyright text for libdbus-1-3; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libfftw3-single3.txt",
+      "reason": "Unmodified license/copyright text for libfftw3-single3; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libflac8.txt",
+      "reason": "Unmodified license/copyright text for libflac8; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libfltk1.3.txt",
+      "reason": "Unmodified license/copyright text for libfltk1.3; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libfluidsynth1.txt",
+      "reason": "Unmodified license/copyright text for libfluidsynth1; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libgcrypt20.txt",
+      "reason": "Unmodified license/copyright text for libgcrypt20; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libgig6v5.txt",
+      "reason": "Unmodified license/copyright text for libgig6v5; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libgraphite2-3.txt",
+      "reason": "Unmodified license/copyright text for libgraphite2-3; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libicu55.txt",
+      "reason": "Unmodified license/copyright text for libicu55; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/liblzma5.txt",
+      "reason": "Unmodified license/copyright text for liblzma5; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libmp3lame0.txt",
+      "reason": "Unmodified license/copyright text for libmp3lame0; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libogg0.txt",
+      "reason": "Unmodified license/copyright text for libogg0; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libpcre32-3.txt",
+      "reason": "Unmodified license/copyright text for libpcre32-3; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libpng12-0.txt",
+      "reason": "Unmodified license/copyright text for libpng12-0; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libportaudio2.txt",
+      "reason": "Unmodified license/copyright text for libportaudio2; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libpulse0.txt",
+      "reason": "Unmodified license/copyright text for libpulse0; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libqt5x11extras5-dev.txt",
+      "reason": "Unmodified license/copyright text for libqt5x11extras5-dev; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libreadline6.txt",
+      "reason": "Unmodified license/copyright text for libreadline6; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/librtaudio4v5.txt",
+      "reason": "Unmodified license/copyright text for librtaudio4v5; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/librtmidi2v5.txt",
+      "reason": "Unmodified license/copyright text for librtmidi2v5; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libsamplerate0.txt",
+      "reason": "Unmodified license/copyright text for libsamplerate0; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libsdl1.2debian.txt",
+      "reason": "Unmodified license/copyright text for libsdl1.2debian; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libselinux1.txt",
+      "reason": "Unmodified license/copyright text for libselinux1; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libslang2-dev.txt",
+      "reason": "Unmodified license/copyright text for libslang2-dev; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libsndfile1.txt",
+      "reason": "Unmodified license/copyright text for libsndfile1; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libsoundio1.txt",
+      "reason": "Unmodified license/copyright text for libsoundio1; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libstk-4.5.0.txt",
+      "reason": "Unmodified license/copyright text for libstk-4.5.0; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libsystemd0.txt",
+      "reason": "Unmodified license/copyright text for libsystemd0; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libtinfo5.txt",
+      "reason": "Unmodified license/copyright text for libtinfo5; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libvorbis0a.txt",
+      "reason": "Unmodified license/copyright text for libvorbis0a; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libvorbisenc2.txt",
+      "reason": "Unmodified license/copyright text for libvorbisenc2; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libvorbisfile3.txt",
+      "reason": "Unmodified license/copyright text for libvorbisfile3; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libwrap0.txt",
+      "reason": "Unmodified license/copyright text for libwrap0; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libx11-xcb1.txt",
+      "reason": "Unmodified license/copyright text for libx11-xcb1; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libxau6.txt",
+      "reason": "Unmodified license/copyright text for libxau6; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libxcb-glx0.txt",
+      "reason": "Unmodified license/copyright text for libxcb-glx0; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libxcb-icccm4.txt",
+      "reason": "Unmodified license/copyright text for libxcb-icccm4; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libxcb-image0.txt",
+      "reason": "Unmodified license/copyright text for libxcb-image0; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libxcb-keysyms1.txt",
+      "reason": "Unmodified license/copyright text for libxcb-keysyms1; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libxcb-present0.txt",
+      "reason": "Unmodified license/copyright text for libxcb-present0; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libxcb-randr0.txt",
+      "reason": "Unmodified license/copyright text for libxcb-randr0; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libxcb-render-util0.txt",
+      "reason": "Unmodified license/copyright text for libxcb-render-util0; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libxcb-render0.txt",
+      "reason": "Unmodified license/copyright text for libxcb-render0; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libxcb-shape0-dev.txt",
+      "reason": "Unmodified license/copyright text for libxcb-shape0-dev; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libxcb-shm0-dev.txt",
+      "reason": "Unmodified license/copyright text for libxcb-shm0-dev; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libxcb-sync1.txt",
+      "reason": "Unmodified license/copyright text for libxcb-sync1; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libxcb-util1.txt",
+      "reason": "Unmodified license/copyright text for libxcb-util1; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libxcb-xfixes0.txt",
+      "reason": "Unmodified license/copyright text for libxcb-xfixes0; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libxcb-xinerama0.txt",
+      "reason": "Unmodified license/copyright text for libxcb-xinerama0; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libxcb-xkb1.txt",
+      "reason": "Unmodified license/copyright text for libxcb-xkb1; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libxdamage1.txt",
+      "reason": "Unmodified license/copyright text for libxdamage1; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libxdmcp6.txt",
+      "reason": "Unmodified license/copyright text for libxdmcp6; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libxext6.txt",
+      "reason": "Unmodified license/copyright text for libxext6; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libxfixes3.txt",
+      "reason": "Unmodified license/copyright text for libxfixes3; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libxft2.txt",
+      "reason": "Unmodified license/copyright text for libxft2; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libxi6.txt",
+      "reason": "Unmodified license/copyright text for libxi6; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libxinerama1.txt",
+      "reason": "Unmodified license/copyright text for libxinerama1; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libxkbcommon-x11-0.txt",
+      "reason": "Unmodified license/copyright text for libxkbcommon-x11-0; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libxkbcommon0.txt",
+      "reason": "Unmodified license/copyright text for libxkbcommon0; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libxrender1.txt",
+      "reason": "Unmodified license/copyright text for libxrender1; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libxshmfence1.txt",
+      "reason": "Unmodified license/copyright text for libxshmfence1; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/libxxf86vm1.txt",
+      "reason": "Unmodified license/copyright text for libxxf86vm1; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/qt59base.txt",
+      "reason": "Unmodified license/copyright text for qt59base; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/short-projects.txt",
+      "reason": "Unmodified license/copyright text for short-projects; the same legal text may accompany common system libraries."
+    }
+  ]
+}

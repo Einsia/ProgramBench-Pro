@@ -1,0 +1,64 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        146,
+        135,
+        24
+      ],
+      "ref": "e3005f4e3",
+      "tag": "button",
+      "text": "Back to Tools"
+    },
+    {
+      "bounds": [
+        49,
+        195,
+        62,
+        18
+      ],
+      "ref": "e307a47db",
+      "tag": "a",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        428,
+        1182,
+        256
+      ],
+      "ref": "e41aaa612",
+      "tag": "div",
+      "text": "Click to select a file or drag and drop PDF Documents Your files never leave your device."
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "inputs": [
+    "harbor.p12",
+    "signed.pdf",
+    "single.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›Digital Signature PDF\nDigital Signature PDF\n\nAdd a cryptographic digital signature to your PDF using X.509 certificates. Supports PKCS#12 (.pfx, .p12) and PEM formats. Your private key never leaves your browser.\n\nInternet connection required\n\nSigning may need to fetch certificate chain information from your certificate issuer's server to validate the signature.\n\nClick to select a file or drag and drop\n\nPDF Documents\n\nYour files never leave your device.\n\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/digital-sign-pdf.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

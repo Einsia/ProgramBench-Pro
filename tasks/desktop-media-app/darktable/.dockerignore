@@ -1,0 +1,18 @@
+# Reference installation and runtime build inputs.
+**
+!solution/
+!solution/start.sh
+!solution/solve.sh
+!solution/launch.py
+!solution/SOURCE.json
+!solution/Darktable-5.6.2-x86_64.AppImage
+!environment/
+!environment/Dockerfile.reference
+!environment/runtime/
+!environment/runtime/*.py
+!environment/runtime/*.json
+!solution/NOTICE
+!solution/LICENSE
+!solution/darktable-5.6.2.tar.xz
+!solution/LICENSES/
+!solution/LICENSES/**

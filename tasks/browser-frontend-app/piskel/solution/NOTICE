@@ -1,0 +1,55 @@
+Piskel 0.15.0
+================================================================================
+
+What is distributed here
+------------------------
+piskel-0.15.0.tar.gz is the unmodified source archive of the Piskel v0.15.0
+release (https://github.com/piskelapp/piskel/releases/tag/v0.15.0, archive
+https://github.com/piskelapp/piskel/archive/refs/tags/v0.15.0.tar.gz, sha256
+8d9f45190bc39c82f8f41b1647bc817b8f21fd7522dc81801dec092294c582d9).
+Homepage and source repository: https://github.com/piskelapp/piskel
+
+piskel-0.15.0-prod.tar.gz holds prod/, the production build of that release
+made with the project's own build ("grunt build", Gruntfile.js of the release)
+and no change to any file: Node.js 10.24.1 (Docker image
+node:10.24.1-buster-slim), "npm install --ignore-scripts" of the release's
+package.json, then "grunt build", which writes dest/prod. The build stamps
+a date into the bundle file names and into index.html; nothing else differs from what the project publishes
+on piskelapp.com. server.py and start.sh are local launch scripts: they serve the
+files of prod/ unchanged from the archive; no product file is modified.
+
+License of Piskel
+-----------------
+Piskel is distributed under the Apache License 2.0
+(LICENSE; also preserved in LICENSES/piskel-LICENSE-Apache-2.0.txt), "Copyright 2017 Julian Descottes"
+(README.md of the release).
+
+Bundled third-party code (inside the production bundle)
+-------------------------------------------------------
+  component                version   license
+  jQuery                   1.8.0     MIT
+  jQuery UI (custom)       1.10.3    MIT
+  jQuery Tiny Pub/Sub      0.7       MIT (dual MIT/GPL; used under MIT)
+  bootstrap-tooltip        2.1.1     Apache-2.0
+  Spectrum colorpicker     1.1.2     MIT
+  gif.js                   0.1.x     MIT
+  libgif-js (SuperGif)     modified  MIT
+  JSZip                    2.x       MIT (dual MIT/GPLv3; used under MIT),
+                                     contains zlib.js (MIT)
+  Q                        1.x       MIT
+  smoothscroll polyfill    0.3.3     MIT (LICENSES/smoothscroll-LICENSE-MIT.txt)
+The MIT text is in LICENSES/MIT.txt. Original bundled-library notices and
+copyright statements are reproduced in LICENSES/third-party-notices.txt;
+the complete source archive preserves the original headers.
+
+Icons
+-----
+Two icons come from The Noun Project under Creative Commons Attribution 3.0
+(LICENSES/CC-BY-3.0.txt): "Sheep by Unrecognized MJ from The Noun Project" and
+"Undo by Kyle Levi Fox from The Noun Project" (misc/icons/noun-project of the
+source archive). The icon fonts were generated with IcoMoon.
+
+Corresponding source
+--------------------
+The complete source of the editor and of every bundled component is in
+piskel-0.15.0.tar.gz (src/js, src/js/lib).

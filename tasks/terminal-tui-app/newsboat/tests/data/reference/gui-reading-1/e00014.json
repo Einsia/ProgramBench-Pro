@@ -1,0 +1,230 @@
+{
+  "cursor": {
+    "column": 0,
+    "hidden": true,
+    "row": 1
+  },
+  "process": "running",
+  "screen": [
+    "00|Newsboat 2.45.0 - URLs",
+    "01| 1  http://rust.example/",
+    "02|",
+    "03|",
+    "04|",
+    "05|",
+    "06|",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|",
+    "12|",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|",
+    "19|",
+    "20|",
+    "21|",
+    "22|",
+    "23|",
+    "24|",
+    "25|",
+    "26|",
+    "27|",
+    "28|",
+    "29|",
+    "30|",
+    "31|",
+    "32|",
+    "33|",
+    "34|q:Quit ENTER:Open in Browser ^B:Save Bookmark ?:Help",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": "Newsboat 2.45.0 - URLs                                                                                                  "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 1,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": " 1  http://rust.example/                                                                                                "
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": "q"
+    },
+    {
+      "columns": [
+        1,
+        2
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        2,
+        6
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Quit"
+    },
+    {
+      "columns": [
+        6,
+        12
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": " ENTER"
+    },
+    {
+      "columns": [
+        12,
+        13
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        13,
+        28
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Open in Browser"
+    },
+    {
+      "columns": [
+        28,
+        31
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": " ^B"
+    },
+    {
+      "columns": [
+        31,
+        32
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        32,
+        45
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Save Bookmark"
+    },
+    {
+      "columns": [
+        45,
+        47
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": " ?"
+    },
+    {
+      "columns": [
+        47,
+        48
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        48,
+        52
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Help"
+    }
+  ]
+}

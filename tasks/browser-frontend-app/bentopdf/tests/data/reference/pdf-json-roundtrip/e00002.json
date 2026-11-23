@@ -1,0 +1,80 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        228,
+        135,
+        24
+      ],
+      "ref": "e3005f4e3",
+      "tag": "button",
+      "text": "Back to Tools"
+    },
+    {
+      "bounds": [
+        49,
+        277,
+        62,
+        18
+      ],
+      "ref": "e307a47db",
+      "tag": "a",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        470,
+        1182,
+        192
+      ],
+      "ref": "eddf6712f",
+      "tag": "div",
+      "text": "Click to select a file or drag and drop Multiple JSON files Your files never leave your device."
+    },
+    {
+      "bounds": [
+        49,
+        686,
+        1182,
+        48
+      ],
+      "disabled": true,
+      "ref": "eb1264de4",
+      "tag": "button",
+      "text": "Convert to PDF"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "jsons-to-pdf.zip",
+      "ref": "d95e3b18f27e8",
+      "size": 1917
+    }
+  ],
+  "inputs": [
+    "pdf-structure.json"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›JSON to PDF\nJSON to PDF\n\nConvert JSON files to PDF format.\n\nNote: Only JSON files created by the PDF-to-JSON converter tool are supported. Standard JSON files from other tools will not work.\n\nClick to select a file or drag and drop\n\nMultiple JSON files\n\nYour files never leave your device.\n\nConvert to PDF\nJSON files converted to PDF successfully! ZIP download started.\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/json-to-pdf.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

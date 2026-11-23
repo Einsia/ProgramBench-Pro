@@ -1,0 +1,47 @@
+Joplin 3.7.21: license, source and configuration
+
+The official Linux x86_64 package is downloaded unchanged from:
+https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21.deb
+SOURCE.json pins its SHA-256 digest. solve.sh unpacks its data archive without
+running Debian maintainer scripts. The two bundled default plugins are omitted:
+io.github.jackgruber.backup and io.github.personalizedrefrigerator.js-draw.
+The executable, app.asar and runtime libraries are unchanged.
+
+Joplin is licensed under AGPL-3.0-or-later, except where a component has its own
+license. LICENSE contains the full GNU AGPL version 3. LICENSES/joplin.txt
+preserves the upstream license-scope, trademark, logo and icon notices. Joplin
+is a trademark of JOPLIN SAS. Logos and icons remain subject to the upstream
+notice and are used only within the distributed product package.
+
+Corresponding source is version v3.7.21, commit
+e41516e669efb693b009bedb21f3eb1fcbea4fc9 of https://github.com/laurent22/joplin:
+https://codeload.github.com/laurent22/joplin/tar.gz/refs/tags/v3.7.21
+The source archive is downloaded and verified alongside the release package.
+SOURCE.json records its digest. The unmodified source and its component notices
+remain available in that archive.
+
+LICENSES/electron.txt, LICENSES/chromium.txt, LICENSES/7zip.txt and
+LICENSES/tesseract-js-core.txt contain the notices distributed with those
+components. chromium.txt is the complete text content of the package's
+LICENSES.chromium.html, with only HTML presentation removed. The original HTML
+and the Node module license files remain in the package and extracted runtime.
+
+The environment also builds unmodified libfaketime 0.9.13, licensed under GPL-2.0.
+Its complete license is LICENSES/libfaketime.txt and its corresponding source is
+retained at environment/libfaketime-0.9.13.tar.gz. It can be obtained from:
+https://codeload.github.com/wolfcw/libfaketime/tar.gz/refs/tags/v0.9.13
+The component version and digest are recorded in SOURCE.json.
+
+Local start.sh and launch.py configure DATA_DIR/profile, enable the Data API
+using PORT and PBP_API_TOKEN, disable first-run update checks and OCR, and run
+with --no-sandbox, --force-renderer-accessibility, --no-welcome and --profile.
+The foreground supervisor forwards signals and retries one immediate clean
+startup exit before any product window appears. These launchers are separate
+from upstream code. This task is not affiliated with or endorsed by JOPLIN SAS.
+
+The local confinement.py applies Landlock before product execution, restricting
+file access and external programs while retaining required private data, exchange
+folders and application workers. It refuses unconfined startup.
+
+The GUI starts in the document outbox so file dialogs open a readable exchange
+directory while the installation root remains non-enumerable.

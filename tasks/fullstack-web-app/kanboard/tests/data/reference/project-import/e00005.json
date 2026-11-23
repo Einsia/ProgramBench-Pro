@@ -1,0 +1,469 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e695",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "aria": "Display another project",
+      "bounds": [
+        836,
+        7,
+        273,
+        24
+      ],
+      "placeholder": "Display another project",
+      "ref": "e696",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e697",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/project/1/actions",
+      "ref": "e698",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/project/1/actions",
+      "ref": "e699",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "aria": "Configure this project",
+      "bounds": [
+        10,
+        48,
+        29,
+        17
+      ],
+      "href": "/project/1/actions",
+      "ref": "e700",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Configure this project"
+    },
+    {
+      "bounds": [
+        53,
+        49,
+        81,
+        16
+      ],
+      "href": "/project/1/overview/status%3Aopen",
+      "ref": "e701",
+      "role": null,
+      "tag": "a",
+      "text": "Overview",
+      "title": "Keyboard shortcut: \"v o\""
+    },
+    {
+      "bounds": [
+        155,
+        49,
+        60,
+        16
+      ],
+      "href": "/board/1/search/status%3Aopen",
+      "ref": "e702",
+      "role": null,
+      "tag": "a",
+      "text": "Board",
+      "title": "Keyboard shortcut: \"v b\""
+    },
+    {
+      "bounds": [
+        236,
+        49,
+        44,
+        16
+      ],
+      "href": "/list/1/search/status%3Aopen",
+      "ref": "e703",
+      "role": null,
+      "tag": "a",
+      "text": "List",
+      "title": "Keyboard shortcut: \"v l\""
+    },
+    {
+      "aria": "Filter",
+      "bounds": [
+        299,
+        44,
+        850,
+        28
+      ],
+      "name": "search",
+      "placeholder": "Filter",
+      "ref": "e704",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "status:open"
+    },
+    {
+      "aria": "Default filters",
+      "bounds": [
+        1161,
+        49,
+        36,
+        16
+      ],
+      "href": "/project/1/actions",
+      "ref": "e705",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Default filters"
+    },
+    {
+      "aria": "Custom filters",
+      "bounds": [
+        1221,
+        49,
+        36,
+        16
+      ],
+      "href": "/project/1/actions",
+      "ref": "e706",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "User filters"
+    },
+    {
+      "bounds": [
+        23,
+        89,
+        68,
+        17
+      ],
+      "href": "/project/1",
+      "ref": "e707",
+      "role": null,
+      "tag": "a",
+      "text": "Summary"
+    },
+    {
+      "bounds": [
+        23,
+        125,
+        98,
+        17
+      ],
+      "href": "/project/1/customer-filters",
+      "ref": "e708",
+      "role": null,
+      "tag": "a",
+      "text": "Custom filters"
+    },
+    {
+      "bounds": [
+        23,
+        161,
+        80,
+        17
+      ],
+      "href": "/project/1/edit",
+      "ref": "e709",
+      "role": null,
+      "tag": "a",
+      "text": "Edit project"
+    },
+    {
+      "bounds": [
+        23,
+        197,
+        142,
+        17
+      ],
+      "href": "/project/1/predefined-contents",
+      "ref": "e710",
+      "role": null,
+      "tag": "a",
+      "text": "Predefined contents"
+    },
+    {
+      "bounds": [
+        23,
+        233,
+        98,
+        17
+      ],
+      "href": "/project/1/share",
+      "ref": "e711",
+      "role": null,
+      "tag": "a",
+      "text": "Public access"
+    },
+    {
+      "bounds": [
+        23,
+        269,
+        87,
+        17
+      ],
+      "href": "/project/1/notifications",
+      "ref": "e712",
+      "role": null,
+      "tag": "a",
+      "text": "Notifications"
+    },
+    {
+      "bounds": [
+        23,
+        305,
+        84,
+        17
+      ],
+      "href": "/project/1/integrations",
+      "ref": "e713",
+      "role": null,
+      "tag": "a",
+      "text": "Integrations"
+    },
+    {
+      "bounds": [
+        23,
+        341,
+        63,
+        17
+      ],
+      "href": "/project/1/columns",
+      "ref": "e714",
+      "role": null,
+      "tag": "a",
+      "text": "Columns"
+    },
+    {
+      "bounds": [
+        23,
+        377,
+        77,
+        17
+      ],
+      "href": "/project/1/swimlanes",
+      "ref": "e715",
+      "role": null,
+      "tag": "a",
+      "text": "Swimlanes"
+    },
+    {
+      "bounds": [
+        23,
+        413,
+        77,
+        17
+      ],
+      "href": "/project/1/categories",
+      "ref": "e716",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        23,
+        449,
+        34,
+        17
+      ],
+      "href": "/project/1/tags",
+      "ref": "e717",
+      "role": null,
+      "tag": "a",
+      "text": "Tags"
+    },
+    {
+      "bounds": [
+        23,
+        485,
+        87,
+        17
+      ],
+      "href": "/project/1/permissions",
+      "ref": "e718",
+      "role": null,
+      "tag": "a",
+      "text": "Permissions"
+    },
+    {
+      "bounds": [
+        23,
+        521,
+        94,
+        17
+      ],
+      "href": "/project/1/custom-roles",
+      "ref": "e719",
+      "role": null,
+      "tag": "a",
+      "text": "Custom roles"
+    },
+    {
+      "bounds": [
+        23,
+        557,
+        126,
+        17
+      ],
+      "href": "/project/1/actions",
+      "ref": "e720",
+      "role": null,
+      "tag": "a",
+      "text": "Automatic actions"
+    },
+    {
+      "bounds": [
+        23,
+        593,
+        67,
+        17
+      ],
+      "href": "/project/1/duplicate",
+      "ref": "e721",
+      "role": null,
+      "tag": "a",
+      "text": "Duplicate"
+    },
+    {
+      "bounds": [
+        23,
+        629,
+        182,
+        52
+      ],
+      "href": "/project/1/import/tasks",
+      "ref": "e722",
+      "role": null,
+      "tag": "a",
+      "text": "Import tasks from another project"
+    },
+    {
+      "bounds": [
+        23,
+        700,
+        123,
+        17
+      ],
+      "href": "/project/1/disable",
+      "ref": "e723",
+      "role": null,
+      "tag": "a",
+      "text": "Close this project"
+    },
+    {
+      "bounds": [
+        23,
+        736,
+        60,
+        17
+      ],
+      "href": "/project/1/remove",
+      "ref": "e724",
+      "role": null,
+      "tag": "a",
+      "text": "Remove"
+    },
+    {
+      "bounds": [
+        250,
+        112,
+        146,
+        17
+      ],
+      "href": "/project/1/action/create",
+      "ref": "e725",
+      "role": null,
+      "tag": "a",
+      "text": "Add a new action"
+    },
+    {
+      "bounds": [
+        416,
+        112,
+        217,
+        17
+      ],
+      "href": "/?controller=ProjectActionDuplicationController&action=show&project_id=1",
+      "ref": "e726",
+      "role": null,
+      "tag": "a",
+      "text": "Import from another project"
+    },
+    {
+      "bounds": [
+        254,
+        159,
+        29,
+        16
+      ],
+      "href": "/project/1/actions",
+      "ref": "e727",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Website > Automatic actions\n \n \nA\nOverview Board List\nSummary\nCustom filters\nEdit project\nPredefined contents\nPublic access\nNotifications\nIntegrations\nColumns\nSwimlanes\nCategories\nTags\nPermissions\nCustom roles\nAutomatic actions\nDuplicate\nImport tasks from another project\nClose this project\nRemove\nAutomatic actions for the project \"Website\"\nAdd a new action Import from another project\n Close a task in a specific column\n\nEvent name = Move a task to another column\nColumn = Done",
+  "text_truncated": false,
+  "title": "Website > Automatic actions",
+  "url": "/project/1/actions",
+  "viewport": [
+    1280,
+    900
+  ]
+}

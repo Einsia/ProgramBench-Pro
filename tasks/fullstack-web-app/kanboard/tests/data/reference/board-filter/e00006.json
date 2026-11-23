@@ -1,0 +1,274 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e962",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e963",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/?controller=TaskListController&action=show&plugin=&project_id=1&search=status%3Aclosed",
+      "ref": "e964",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/?controller=TaskListController&action=show&plugin=&project_id=1&search=status%3Aclosed",
+      "ref": "e965",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "aria": "Configure this project",
+      "bounds": [
+        10,
+        48,
+        29,
+        17
+      ],
+      "href": "/?controller=TaskListController&action=show&plugin=&project_id=1&search=status%3Aclosed",
+      "ref": "e966",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Configure this project"
+    },
+    {
+      "bounds": [
+        53,
+        49,
+        81,
+        16
+      ],
+      "href": "/project/1/overview/status%3Aclosed",
+      "ref": "e967",
+      "role": null,
+      "tag": "a",
+      "text": "Overview",
+      "title": "Keyboard shortcut: \"v o\""
+    },
+    {
+      "bounds": [
+        155,
+        49,
+        60,
+        16
+      ],
+      "href": "/board/1/search/status%3Aclosed",
+      "ref": "e968",
+      "role": null,
+      "tag": "a",
+      "text": "Board",
+      "title": "Keyboard shortcut: \"v b\""
+    },
+    {
+      "bounds": [
+        236,
+        49,
+        47,
+        16
+      ],
+      "href": "/list/1/search/status%3Aclosed",
+      "ref": "e969",
+      "role": null,
+      "tag": "a",
+      "text": "List",
+      "title": "Keyboard shortcut: \"v l\""
+    },
+    {
+      "aria": "Filter",
+      "bounds": [
+        302,
+        44,
+        846,
+        28
+      ],
+      "name": "search",
+      "placeholder": "Filter",
+      "ref": "e970",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "status:closed"
+    },
+    {
+      "aria": "Default filters",
+      "bounds": [
+        1161,
+        49,
+        36,
+        16
+      ],
+      "href": "/?controller=TaskListController&action=show&plugin=&project_id=1&search=status%3Aclosed",
+      "ref": "e971",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Default filters"
+    },
+    {
+      "aria": "Custom filters",
+      "bounds": [
+        1221,
+        49,
+        36,
+        16
+      ],
+      "href": "/?controller=TaskListController&action=show&plugin=&project_id=1&search=status%3Aclosed",
+      "ref": "e972",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "User filters"
+    },
+    {
+      "bounds": [
+        60,
+        87,
+        56,
+        15
+      ],
+      "href": "/?controller=TaskListController&action=show&plugin=&project_id=1&search=status%3Aclosed",
+      "ref": "e973",
+      "role": null,
+      "tag": "a",
+      "text": "Select All"
+    },
+    {
+      "bounds": [
+        128,
+        87,
+        71,
+        15
+      ],
+      "href": "/?controller=TaskListController&action=show&plugin=&project_id=1&search=status%3Aclosed",
+      "ref": "e974",
+      "role": null,
+      "tag": "a",
+      "text": "Unselect All"
+    },
+    {
+      "bounds": [
+        1088,
+        87,
+        112,
+        15
+      ],
+      "href": "/?controller=TaskListController&action=show&project_id=1&show_subtasks=1&csrf_token=5c3bac000d4faa88b71c0d1c41e90e98cb8dffd080b5e111cfe0ce0853cd2662",
+      "ref": "e975",
+      "role": null,
+      "tag": "a",
+      "text": "Show subtasks"
+    },
+    {
+      "bounds": [
+        1214,
+        81,
+        42,
+        28
+      ],
+      "href": "/?controller=TaskListController&action=show&plugin=&project_id=1&search=status%3Aclosed",
+      "ref": "e976",
+      "role": null,
+      "tag": "a",
+      "text": "Sort"
+    },
+    {
+      "bounds": [
+        22,
+        113,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "tasks[]",
+      "ref": "e977",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "4"
+    },
+    {
+      "bounds": [
+        42,
+        114,
+        30,
+        15
+      ],
+      "href": "/?controller=TaskListController&action=show&plugin=&project_id=1&search=status%3Aclosed",
+      "ref": "e978",
+      "role": null,
+      "tag": "a",
+      "text": "#4"
+    },
+    {
+      "bounds": [
+        75,
+        114,
+        79,
+        15
+      ],
+      "href": "/task/4",
+      "ref": "e979",
+      "role": null,
+      "tag": "a",
+      "text": "Delta archive"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Website \n \n \nA\nOverview Board List\n1 task\nSelect All / Unselect All\nShow subtasks \nSort \n \n#4 \n Delta archive\nWebsite > Default swimlane > Backlog\n(\nPosition\n3) Closed \nTask priority\nP0",
+  "text_truncated": false,
+  "title": "Website",
+  "url": "/?controller=TaskListController&action=show&plugin=&project_id=1&search=status%3Aclosed",
+  "viewport": [
+    1280,
+    900
+  ]
+}

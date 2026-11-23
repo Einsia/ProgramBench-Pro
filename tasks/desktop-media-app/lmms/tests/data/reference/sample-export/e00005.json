@@ -1,0 +1,1113 @@
+{
+  "focused": "e5146c617",
+  "nodes": [
+    {
+      "bounds": [
+        432,
+        126,
+        65,
+        16
+      ],
+      "name": "",
+      "ref": "e40968e0e",
+      "role": "text",
+      "states": [
+        "active"
+      ],
+      "text": "Master"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1440,
+        881
+      ],
+      "name": "Untitled* - LMMS 1.2.2",
+      "ref": "e4e59845a",
+      "role": "frame",
+      "states": [
+        "active"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        105,
+        29,
+        795
+      ],
+      "name": "",
+      "ref": "ec6e759c7",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        2,
+        107,
+        25,
+        33
+      ],
+      "name": "Instrument Plugins",
+      "ref": "ece2acee8",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        2,
+        140,
+        25,
+        33
+      ],
+      "name": "My Projects",
+      "ref": "ed6b01d7d",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        2,
+        173,
+        25,
+        33
+      ],
+      "name": "My Samples",
+      "ref": "e3b07b063",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        2,
+        206,
+        25,
+        33
+      ],
+      "name": "My Presets",
+      "ref": "e42a09cbd",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        2,
+        239,
+        25,
+        33
+      ],
+      "name": "My Home",
+      "ref": "e51e6e129",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        2,
+        272,
+        25,
+        33
+      ],
+      "name": "Root directory",
+      "ref": "e66f38b0e",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        29,
+        105,
+        1411,
+        795
+      ],
+      "name": "",
+      "ref": "ed9ce1866",
+      "role": "split pane"
+    },
+    {
+      "bounds": [
+        29,
+        105,
+        1411,
+        795
+      ],
+      "name": "",
+      "ref": "e6c985d63",
+      "role": "layered pane"
+    },
+    {
+      "bounds": [
+        34,
+        415,
+        543,
+        333
+      ],
+      "name": "FX-Mixer",
+      "ref": "ec3ad36c9",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        38,
+        443,
+        33,
+        287
+      ],
+      "description": "Master",
+      "name": "",
+      "ref": "ea2628189",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        47,
+        598,
+        16,
+        14
+      ],
+      "description": "Mute this FX channel",
+      "name": "",
+      "ref": "ea552f741",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        47,
+        588,
+        16,
+        14
+      ],
+      "description": "Solo FX channel",
+      "name": "",
+      "ref": "e2130213b",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        289,
+        443,
+        33,
+        287
+      ],
+      "name": "",
+      "ref": "ec4ccb04b",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        336,
+        448,
+        16,
+        14
+      ],
+      "name": "",
+      "ref": "e034c26bf",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        554,
+        461,
+        12,
+        244
+      ],
+      "name": "",
+      "ref": "e95b54aaf",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        335,
+        705,
+        231,
+        18
+      ],
+      "name": "Add effect",
+      "ref": "e3f2e82e7",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        709,
+        415,
+        350,
+        200
+      ],
+      "name": "Controller Rack",
+      "ref": "e015e0809",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        722,
+        584,
+        324,
+        18
+      ],
+      "name": "Add",
+      "ref": "e373039f0",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        34,
+        110,
+        600,
+        300
+      ],
+      "name": "Song-Editor",
+      "ref": "e5146c617",
+      "role": "frame",
+      "states": [
+        "focused"
+      ]
+    },
+    {
+      "bounds": [
+        38,
+        134,
+        592,
+        272
+      ],
+      "name": "",
+      "ref": "e2d6049c7",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        38,
+        134,
+        100,
+        30
+      ],
+      "name": "",
+      "ref": "e1a50350a",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        38,
+        134,
+        72,
+        40
+      ],
+      "name": "Transport controls",
+      "ref": "e7af3b71b",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        40,
+        136,
+        34,
+        36
+      ],
+      "description": "Play song (Space)",
+      "name": "Play (Space)",
+      "ref": "ee7913665",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        74,
+        136,
+        34,
+        36
+      ],
+      "description": "Stop song (Space)",
+      "name": "Stop (Space)",
+      "ref": "eac0467c2",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        38,
+        194,
+        78,
+        31
+      ],
+      "description": "Press <Ctrl> while clicking on move-grip to begin a new drag'n'drop-action.",
+      "name": "",
+      "ref": "ed5a60054",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        50,
+        195,
+        26,
+        26
+      ],
+      "description": "Actions for this track",
+      "name": "",
+      "ref": "e96909c50",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        84,
+        202,
+        26,
+        26
+      ],
+      "description": "Mute this track",
+      "name": "",
+      "ref": "eca064424",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        100,
+        202,
+        26,
+        26
+      ],
+      "description": "Solo",
+      "name": "",
+      "ref": "e01b89ffb",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        119,
+        195,
+        160,
+        29
+      ],
+      "name": "TripleOscillator",
+      "ref": "e71a462e3",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        281,
+        196,
+        8,
+        28
+      ],
+      "name": "",
+      "ref": "e8aa30db1",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        38,
+        226,
+        78,
+        31
+      ],
+      "description": "Press <Ctrl> while clicking on move-grip to begin a new drag'n'drop-action.",
+      "name": "",
+      "ref": "e09f3566a",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        50,
+        227,
+        26,
+        26
+      ],
+      "description": "Actions for this track",
+      "name": "",
+      "ref": "ecf33c0fe",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        84,
+        234,
+        26,
+        26
+      ],
+      "description": "Mute this track",
+      "name": "",
+      "ref": "eba03f423",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        100,
+        234,
+        26,
+        26
+      ],
+      "description": "Solo",
+      "name": "",
+      "ref": "e6856612a",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        119,
+        227,
+        160,
+        29
+      ],
+      "name": "Sample track",
+      "ref": "e230a35e7",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        340,
+        226,
+        10,
+        31
+      ],
+      "description": "/app/candidate-state/session/instance/files/inputs/tone-880.wav",
+      "name": "",
+      "ref": "efaa1d550",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        372,
+        226,
+        10,
+        31
+      ],
+      "description": "/app/candidate-state/session/instance/files/inputs/tone-440.wav",
+      "name": "",
+      "ref": "e7f5de4b1",
+      "role": "filler",
+      "states": [
+        "focused"
+      ]
+    },
+    {
+      "bounds": [
+        38,
+        258,
+        78,
+        31
+      ],
+      "description": "Press <Ctrl> while clicking on move-grip to begin a new drag'n'drop-action.",
+      "name": "",
+      "ref": "eba2cb64d",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        50,
+        259,
+        26,
+        26
+      ],
+      "description": "Actions for this track",
+      "name": "",
+      "ref": "e4ba9f48b",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        84,
+        266,
+        26,
+        26
+      ],
+      "description": "Mute this track",
+      "name": "",
+      "ref": "ebf4c2845",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        100,
+        266,
+        26,
+        26
+      ],
+      "description": "Solo",
+      "name": "",
+      "ref": "ee109e8f1",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        119,
+        259,
+        160,
+        29
+      ],
+      "name": "Beat/Bassline 0",
+      "ref": "e977de74c",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        38,
+        290,
+        78,
+        31
+      ],
+      "description": "Press <Ctrl> while clicking on move-grip to begin a new drag'n'drop-action.",
+      "name": "",
+      "ref": "edecef26a",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        50,
+        291,
+        26,
+        26
+      ],
+      "description": "Actions for this track",
+      "name": "",
+      "ref": "e84f8e5a2",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        84,
+        298,
+        26,
+        26
+      ],
+      "description": "Mute this track",
+      "name": "",
+      "ref": "e9348bcb7",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        100,
+        298,
+        26,
+        26
+      ],
+      "description": "Solo",
+      "name": "",
+      "ref": "e1d3c9298",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        119,
+        291,
+        160,
+        29
+      ],
+      "name": "Automation track",
+      "ref": "e4cb9a7d6",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        618,
+        194,
+        12,
+        200
+      ],
+      "name": "",
+      "ref": "e5b7ad784",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        38,
+        394,
+        592,
+        12
+      ],
+      "name": "",
+      "ref": "eaecdd891",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        110,
+        134,
+        106,
+        40
+      ],
+      "name": "Track actions",
+      "ref": "ebc2af3c4",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        112,
+        136,
+        34,
+        36
+      ],
+      "name": "Add beat/bassline",
+      "ref": "e4df4106b",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        146,
+        136,
+        34,
+        36
+      ],
+      "name": "Add sample-track",
+      "ref": "e8dedb8fa",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        180,
+        136,
+        34,
+        36
+      ],
+      "name": "Add automation-track",
+      "ref": "e252a0116",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        216,
+        134,
+        72,
+        40
+      ],
+      "name": "Edit actions",
+      "ref": "efc206e35",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        218,
+        136,
+        34,
+        36
+      ],
+      "name": "Draw mode",
+      "ref": "e54647458",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        252,
+        136,
+        34,
+        36
+      ],
+      "name": "Edit mode (select and move)",
+      "ref": "e8277d5e4",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        288,
+        134,
+        106,
+        40
+      ],
+      "name": "Timeline controls",
+      "ref": "e132d4b0c",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        290,
+        136,
+        34,
+        36
+      ],
+      "description": "Enable/disable auto-scrolling",
+      "name": "",
+      "ref": "e45f9b30c",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        324,
+        136,
+        34,
+        36
+      ],
+      "description": "Enable/disable loop-points",
+      "name": "",
+      "ref": "e8c6fa8b8",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        358,
+        136,
+        34,
+        36
+      ],
+      "description": "After stopping go back to begin",
+      "name": "",
+      "ref": "e2ac493a8",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        394,
+        134,
+        236,
+        40
+      ],
+      "name": "Zoom controls",
+      "ref": "ede9ed92d",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        396,
+        136,
+        24,
+        36
+      ],
+      "name": "",
+      "ref": "e8117f457",
+      "role": "image"
+    },
+    {
+      "bounds": [
+        248,
+        41,
+        54,
+        30
+      ],
+      "description": "tempo of song",
+      "name": "",
+      "ref": "e4f9a953c",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        248,
+        72,
+        135,
+        32
+      ],
+      "description": "click to change time units",
+      "name": "",
+      "ref": "e1e0c25d9",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        443,
+        41,
+        20,
+        64
+      ],
+      "name": "",
+      "ref": "edeaaf43f",
+      "role": "image"
+    },
+    {
+      "bounds": [
+        463,
+        43,
+        26,
+        60
+      ],
+      "description": "master volume",
+      "name": "",
+      "ref": "eb4a522e6",
+      "role": "slider",
+      "value": 100.0
+    },
+    {
+      "bounds": [
+        499,
+        41,
+        20,
+        64
+      ],
+      "name": "",
+      "ref": "ecc7be8ca",
+      "role": "image"
+    },
+    {
+      "bounds": [
+        519,
+        43,
+        26,
+        60
+      ],
+      "description": "master pitch",
+      "name": "",
+      "ref": "eab7410d5",
+      "role": "slider",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        555,
+        41,
+        110,
+        46
+      ],
+      "description": "click to enable/disable visualization of master-output",
+      "name": "",
+      "ref": "eb7686ab6",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        5,
+        41,
+        29,
+        31
+      ],
+      "description": "Create new project",
+      "name": "",
+      "ref": "e95d1d157",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        34,
+        41,
+        29,
+        31
+      ],
+      "description": "Create new project from template",
+      "name": "",
+      "ref": "eaa6d2ee4",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        63,
+        41,
+        29,
+        31
+      ],
+      "description": "Open existing project",
+      "name": "",
+      "ref": "e4c96f8f1",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        92,
+        41,
+        29,
+        31
+      ],
+      "description": "Recently opened projects",
+      "name": "",
+      "ref": "e79dca1ee",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        121,
+        41,
+        29,
+        31
+      ],
+      "description": "Save current project",
+      "name": "",
+      "ref": "e83af1bbc",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        150,
+        41,
+        29,
+        31
+      ],
+      "description": "Export current project",
+      "name": "",
+      "ref": "e75a2697b",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        179,
+        41,
+        29,
+        31
+      ],
+      "description": "What's this?",
+      "name": "",
+      "ref": "ec7566bfc",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        208,
+        41,
+        29,
+        31
+      ],
+      "description": "Toggle metronome",
+      "name": "",
+      "ref": "eaee591c7",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        5,
+        73,
+        29,
+        31
+      ],
+      "description": "Show/hide Song-Editor (F5)",
+      "name": "",
+      "ref": "efb2dfb66",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        34,
+        73,
+        29,
+        31
+      ],
+      "description": "Show/hide Beat+Bassline Editor (F6)",
+      "name": "",
+      "ref": "e090c77f9",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        63,
+        73,
+        29,
+        31
+      ],
+      "description": "Show/hide Piano-Roll (F7)",
+      "name": "",
+      "ref": "e4c1f3fe7",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        92,
+        73,
+        29,
+        31
+      ],
+      "description": "Show/hide Automation Editor (F8)",
+      "name": "",
+      "ref": "e2dcb8bee",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        121,
+        73,
+        29,
+        31
+      ],
+      "description": "Show/hide FX Mixer (F9)",
+      "name": "",
+      "ref": "ed588256d",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        150,
+        73,
+        29,
+        31
+      ],
+      "description": "Show/hide project notes (F10)",
+      "name": "",
+      "ref": "e8135818e",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        179,
+        73,
+        29,
+        31
+      ],
+      "description": "Show/hide controller rack (F11)",
+      "name": "",
+      "ref": "e277b68c0",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1440,
+        22
+      ],
+      "name": "",
+      "ref": "e9cdbcc59",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        6,
+        19,
+        31,
+        22
+      ],
+      "name": "File",
+      "ref": "e549f4128",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        43,
+        19,
+        34,
+        22
+      ],
+      "name": "Edit",
+      "ref": "ef782d853",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        83,
+        19,
+        40,
+        22
+      ],
+      "name": "View",
+      "ref": "eb520b416",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        129,
+        19,
+        43,
+        22
+      ],
+      "name": "Tools",
+      "ref": "e7c3cf75d",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        178,
+        19,
+        38,
+        22
+      ],
+      "name": "Help",
+      "ref": "ebba076c5",
+      "role": "menu item"
+    }
+  ],
+  "screen": [
+    1440,
+    900
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": true,
+      "bounds": [
+        0,
+        38,
+        1440,
+        881
+      ],
+      "ref": "w703b5011",
+      "title": "Untitled* - LMMS 1.2.2"
+    }
+  ]
+}

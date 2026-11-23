@@ -1,0 +1,36 @@
+[
+  {
+    "id": "a",
+    "title": "Harbor Overview",
+    "page": 1,
+    "children": [
+      {
+        "id": "b",
+        "title": "Northern Dock",
+        "page": 2,
+        "children": [],
+        "color": null,
+        "style": null,
+        "destX": null,
+        "destY": null,
+        "zoom": null
+      }
+    ],
+    "color": null,
+    "style": null,
+    "destX": null,
+    "destY": null,
+    "zoom": null
+  },
+  {
+    "id": "c",
+    "title": "Southern Dock",
+    "page": 4,
+    "children": [],
+    "color": "blue",
+    "style": "bold",
+    "destX": null,
+    "destY": null,
+    "zoom": null
+  }
+]

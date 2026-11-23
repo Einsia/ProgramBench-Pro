@@ -1,0 +1,9 @@
+Gitea 1.22.6
+Source: https://github.com/go-gitea/gitea/tree/v1.22.6
+Release binary: https://dl.gitea.com/gitea/1.22.6/gitea-1.22.6-linux-amd64
+License: MIT; the complete upstream copyright and license are in LICENSE.
+
+This package contains the unmodified official Linux amd64 binary. start.sh and
+seed.py configure SQLite, instance storage and the initial accounts, and disable
+Git hooks, local-path imports, SSH and mail. They do not modify the program.
+SOURCE.json records the verified release download and instance configuration.

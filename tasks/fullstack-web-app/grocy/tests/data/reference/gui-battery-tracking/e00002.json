@@ -1,0 +1,436 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        12,
+        10,
+        250,
+        30
+      ],
+      "href": "/",
+      "ref": "e1323279754",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        0,
+        48,
+        250,
+        41
+      ],
+      "href": "/stockoverview",
+      "ref": "e1053475070",
+      "role": null,
+      "tag": "a",
+      "text": "Stock overview"
+    },
+    {
+      "bounds": [
+        0,
+        89,
+        250,
+        41
+      ],
+      "href": "/shoppinglist",
+      "ref": "e3484720244",
+      "role": null,
+      "tag": "a",
+      "text": "Shopping list"
+    },
+    {
+      "bounds": [
+        0,
+        132,
+        250,
+        41
+      ],
+      "href": "/recipes",
+      "ref": "e3605665942",
+      "role": null,
+      "tag": "a",
+      "text": "Recipes"
+    },
+    {
+      "bounds": [
+        0,
+        173,
+        250,
+        41
+      ],
+      "href": "/mealplan",
+      "ref": "e2044783333",
+      "role": null,
+      "tag": "a",
+      "text": "Meal plan"
+    },
+    {
+      "bounds": [
+        0,
+        216,
+        250,
+        41
+      ],
+      "href": "/choresoverview",
+      "ref": "e3381809840",
+      "role": null,
+      "tag": "a",
+      "text": "Chores overview"
+    },
+    {
+      "bounds": [
+        0,
+        257,
+        250,
+        41
+      ],
+      "href": "/tasks",
+      "ref": "e3412285266",
+      "role": null,
+      "tag": "a",
+      "text": "Tasks"
+    },
+    {
+      "bounds": [
+        0,
+        298,
+        250,
+        41
+      ],
+      "href": "/batteriesoverview",
+      "ref": "e1339919142",
+      "role": null,
+      "tag": "a",
+      "text": "Batteries overview"
+    },
+    {
+      "bounds": [
+        0,
+        339,
+        250,
+        41
+      ],
+      "href": "/equipment",
+      "ref": "e3517608074",
+      "role": null,
+      "tag": "a",
+      "text": "Equipment"
+    },
+    {
+      "bounds": [
+        0,
+        382,
+        250,
+        41
+      ],
+      "href": "/calendar",
+      "ref": "e2087124146",
+      "role": null,
+      "tag": "a",
+      "text": "Calendar"
+    },
+    {
+      "bounds": [
+        0,
+        425,
+        250,
+        41
+      ],
+      "href": "/purchase",
+      "ref": "e337229804",
+      "role": null,
+      "tag": "a",
+      "text": "Purchase"
+    },
+    {
+      "bounds": [
+        0,
+        466,
+        250,
+        41
+      ],
+      "href": "/consume",
+      "ref": "e2179824942",
+      "role": null,
+      "tag": "a",
+      "text": "Consume"
+    },
+    {
+      "bounds": [
+        0,
+        507,
+        250,
+        41
+      ],
+      "href": "/transfer",
+      "ref": "e3647083400",
+      "role": null,
+      "tag": "a",
+      "text": "Transfer"
+    },
+    {
+      "bounds": [
+        0,
+        548,
+        250,
+        41
+      ],
+      "href": "/inventory",
+      "ref": "e2792827466",
+      "role": null,
+      "tag": "a",
+      "text": "Inventory"
+    },
+    {
+      "bounds": [
+        0,
+        589,
+        250,
+        41
+      ],
+      "href": "/choretracking",
+      "ref": "e2922941790",
+      "role": null,
+      "tag": "a",
+      "text": "Chore tracking"
+    },
+    {
+      "bounds": [
+        0,
+        630,
+        250,
+        41
+      ],
+      "href": "/batterytracking",
+      "ref": "e1450042086",
+      "role": null,
+      "tag": "a",
+      "text": "Battery tracking"
+    },
+    {
+      "bounds": [
+        0,
+        673,
+        250,
+        41
+      ],
+      "href": "/batteriesjournal#sub-nav-manage-master-data",
+      "ref": "e761715877",
+      "role": null,
+      "tag": "a",
+      "text": "Manage master data"
+    },
+    {
+      "bounds": [
+        0,
+        852,
+        250,
+        49
+      ],
+      "ref": "e1866405181",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1039,
+        8,
+        113,
+        33
+      ],
+      "href": "/batteriesjournal",
+      "ref": "e977631619",
+      "role": null,
+      "tag": "a",
+      "text": "admin"
+    },
+    {
+      "bounds": [
+        1152,
+        8,
+        64,
+        33
+      ],
+      "href": "/batteriesjournal",
+      "ref": "e270618320",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1216,
+        8,
+        64,
+        33
+      ],
+      "href": "/batteriesjournal",
+      "ref": "e287395939",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        302,
+        109,
+        190,
+        38
+      ],
+      "placeholder": "Search",
+      "ref": "e182898609",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        617,
+        109,
+        136,
+        38
+      ],
+      "options": [
+        {
+          "disabled": false,
+          "label": "All",
+          "selected": true,
+          "value": "all"
+        },
+        {
+          "disabled": false,
+          "label": "Remote AA",
+          "selected": false,
+          "value": "1"
+        }
+      ],
+      "ref": "e2569212166",
+      "role": null,
+      "tag": "select",
+      "text": "All\nRemote AA",
+      "value": "all"
+    },
+    {
+      "bounds": [
+        906,
+        109,
+        109,
+        38
+      ],
+      "options": [
+        {
+          "disabled": false,
+          "label": "1 month",
+          "selected": false,
+          "value": "1"
+        },
+        {
+          "disabled": false,
+          "label": "6 months",
+          "selected": false,
+          "value": "6"
+        },
+        {
+          "disabled": false,
+          "label": "1 year",
+          "selected": false,
+          "value": "12"
+        },
+        {
+          "disabled": false,
+          "label": "2 years",
+          "selected": true,
+          "value": "24"
+        },
+        {
+          "disabled": false,
+          "label": "All",
+          "selected": false,
+          "value": "9999"
+        }
+      ],
+      "ref": "e2688451980",
+      "role": null,
+      "tag": "select",
+      "text": "1 month\n6 months\n1 year\n2 years\nAll",
+      "value": "24"
+    },
+    {
+      "bounds": [
+        1242,
+        109,
+        34,
+        31
+      ],
+      "ref": "e4011978691",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Clear filter"
+    },
+    {
+      "bounds": [
+        266,
+        169,
+        15,
+        16
+      ],
+      "href": "/batteriesjournal",
+      "ref": "e304173558",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Table options"
+    },
+    {
+      "bounds": [
+        266,
+        196,
+        15,
+        16
+      ],
+      "href": "/batteriesjournal",
+      "ref": "e320951177",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Table options"
+    },
+    {
+      "bounds": [
+        266,
+        199,
+        29,
+        24
+      ],
+      "href": "/batteriesjournal",
+      "ref": "e337728796",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Undo charge cycle"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": " Stock overview\n Shopping list\n Recipes\n Meal plan\n Chores overview\n Tasks\n Batteries overview\n Equipment\n Calendar\n Purchase\n Consume\n Transfer\n Inventory\n Chore tracking\n Battery tracking\n Manage master data\n admin\nBatteries journal\n Battery\nAll\nRemote AA\n Date range\n1 month\n6 months\n1 year\n2 years\nAll\n\tBattery\tTracked time\n\t\nBattery\n\t\nTracked time\n\n\tRemote AA\t2026-03-10 08:00:00 Today",
+  "text_truncated": false,
+  "title": "Batteries journal | Grocy",
+  "url": "/batteriesjournal",
+  "viewport": [
+    1280,
+    900
+  ]
+}

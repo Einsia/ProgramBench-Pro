@@ -1,0 +1,296 @@
+{
+  "counts": {
+    "assertions": 1279,
+    "backend": 1095,
+    "checkpoints": 279,
+    "features": 34,
+    "frontend": 184,
+    "gui_episodes": 87,
+    "program_episodes": 22,
+    "episodes": 109
+  },
+  "features": {
+    "anchors": {
+      "assertions": 4,
+      "episodes": [
+        "insert-anchor"
+      ]
+    },
+    "bookmarks": {
+      "assertions": 5,
+      "episodes": [
+        "nodes-bookmarks"
+      ]
+    },
+    "clipboard": {
+      "assertions": 6,
+      "episodes": [
+        "text-clipboard"
+      ]
+    },
+    "codeboxes": {
+      "assertions": 14,
+      "episodes": [
+        "insert-codebox",
+        "codebox-files"
+      ]
+    },
+    "command-line-export": {
+      "assertions": 154,
+      "episodes": [
+        "export-formatting",
+        "export-lists",
+        "export-structure",
+        "export-codeboxes",
+        "export-tables",
+        "export-media",
+        "export-links",
+        "export-node-types",
+        "export-unicode",
+        "export-kitchen",
+        "export-options"
+      ]
+    },
+    "document-information": {
+      "assertions": 2,
+      "episodes": [
+        "tree-info"
+      ]
+    },
+    "document-storage": {
+      "assertions": 54,
+      "episodes": [
+        "storage-ctd",
+        "storage-ctb",
+        "storage-ctz",
+        "storage-ctx",
+        "storage-folder",
+        "new-document"
+      ]
+    },
+    "embedded-files": {
+      "assertions": 4,
+      "episodes": [
+        "insert-attachment",
+        "attachment-save"
+      ]
+    },
+    "export-errors": {
+      "assertions": 10,
+      "episodes": [
+        "export-errors"
+      ]
+    },
+    "gui-export": {
+      "assertions": 28,
+      "episodes": [
+        "gui-export-txt",
+        "gui-export-html",
+        "gui-export-pdf",
+        "gui-export-ctd",
+        "export-scope-selection",
+        "export-scope-node",
+        "export-scope-all"
+      ]
+    },
+    "history": {
+      "assertions": 5,
+      "episodes": [
+        "text-undo-redo"
+      ]
+    },
+    "image-editing": {
+      "assertions": 8,
+      "episodes": [
+        "image-transform"
+      ]
+    },
+    "images": {
+      "assertions": 5,
+      "episodes": [
+        "insert-image"
+      ]
+    },
+    "imports": {
+      "assertions": 54,
+      "episodes": [
+        "import-plain",
+        "import-html",
+        "import-markdown",
+        "import-indented",
+        "import-plain-folder",
+        "import-html-folder",
+        "import-markdown-folder",
+        "import-gnote",
+        "import-tomboy",
+        "import-keepnote",
+        "import-leo",
+        "import-mempad",
+        "import-treepad",
+        "import-notecase",
+        "import-rednotebook",
+        "import-zim",
+        "import-native-ctd",
+        "import-native-folder"
+      ]
+    },
+    "latex": {
+      "assertions": 2,
+      "episodes": [
+        "insert-latex"
+      ]
+    },
+    "lifecycle": {
+      "assertions": 6,
+      "episodes": [
+        "quit-cancel",
+        "quit-discard"
+      ]
+    },
+    "links": {
+      "assertions": 7,
+      "episodes": [
+        "links-web",
+        "links-node"
+      ]
+    },
+    "lists": {
+      "assertions": 12,
+      "episodes": [
+        "list-bullets",
+        "list-numbers",
+        "list-todo"
+      ]
+    },
+    "navigation": {
+      "assertions": 2,
+      "episodes": [
+        "quick-selection"
+      ]
+    },
+    "node-properties": {
+      "assertions": 18,
+      "episodes": [
+        "nodes-properties",
+        "readonly-effects",
+        "node-syntax-inherit"
+      ]
+    },
+    "node-tree": {
+      "assertions": 37,
+      "episodes": [
+        "nodes-create",
+        "nodes-move",
+        "nodes-sort",
+        "nodes-duplicate",
+        "tree-reparent-paste"
+      ]
+    },
+    "preferences": {
+      "assertions": 8,
+      "episodes": [
+        "preferences-persist",
+        "preferences-import"
+      ]
+    },
+    "rich-clipboard": {
+      "assertions": 6,
+      "episodes": [
+        "rich-object-clipboard"
+      ]
+    },
+    "rich-text": {
+      "assertions": 52,
+      "episodes": [
+        "font-emphasis",
+        "font-special",
+        "headings-large",
+        "headings-small",
+        "format-history",
+        "paragraph-layout",
+        "text-colors",
+        "format-reuse",
+        "format-occurrence"
+      ]
+    },
+    "search": {
+      "assertions": 24,
+      "episodes": [
+        "search-current",
+        "search-tree",
+        "search-multiple"
+      ]
+    },
+    "shared-nodes": {
+      "assertions": 6,
+      "episodes": [
+        "nodes-shared"
+      ]
+    },
+    "storage-formats": {
+      "assertions": 691,
+      "episodes": [
+        "read-formatting",
+        "read-lists",
+        "read-structure",
+        "read-codeboxes",
+        "read-tables",
+        "read-media",
+        "read-links",
+        "read-node-types",
+        "read-unicode",
+        "read-kitchen"
+      ]
+    },
+    "table-editing": {
+      "assertions": 16,
+      "episodes": [
+        "table-columns",
+        "table-properties",
+        "table-rows"
+      ]
+    },
+    "table-of-contents": {
+      "assertions": 7,
+      "episodes": [
+        "insert-toc",
+        "toc-collapse"
+      ]
+    },
+    "tables": {
+      "assertions": 7,
+      "episodes": [
+        "insert-table"
+      ]
+    },
+    "text-editing": {
+      "assertions": 12,
+      "episodes": [
+        "text-case",
+        "text-rows"
+      ]
+    },
+    "text-insertion": {
+      "assertions": 4,
+      "episodes": [
+        "insert-special"
+      ]
+    },
+    "text-tools": {
+      "assertions": 6,
+      "episodes": [
+        "text-cleanup",
+        "timestamp"
+      ]
+    },
+    "view": {
+      "assertions": 3,
+      "episodes": [
+        "view-tree"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

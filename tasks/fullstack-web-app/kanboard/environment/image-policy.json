@@ -1,0 +1,56 @@
+{
+  "reference_paths": [
+    "/app/solution/kanboard",
+    "/app/solution/php/bin"
+  ],
+  "shared_solution_files": [
+    {
+      "file": "LICENSES/libbrotli1.copyright.txt",
+      "reason": "Unmodified upstream component license/copyright notice also distributed with system dependencies; no executable or application code."
+    },
+    {
+      "file": "LICENSES/libfaketime.txt",
+      "reason": "Unmodified upstream component license/copyright notice also distributed with system dependencies; no executable or application code."
+    },
+    {
+      "file": "LICENSES/libfreetype6.copyright.txt",
+      "reason": "Unmodified upstream component license/copyright notice also distributed with system dependencies; no executable or application code."
+    },
+    {
+      "file": "LICENSES/libicu74.copyright.txt",
+      "reason": "Unmodified upstream component license/copyright notice also distributed with system dependencies; no executable or application code."
+    },
+    {
+      "file": "LICENSES/libjpeg-turbo8.copyright.txt",
+      "reason": "Unmodified upstream component license/copyright notice also distributed with system dependencies; no executable or application code."
+    },
+    {
+      "file": "LICENSES/libonig5.copyright.txt",
+      "reason": "Unmodified upstream component license/copyright notice also distributed with system dependencies; no executable or application code."
+    },
+    {
+      "file": "LICENSES/libpng16-16t64.copyright.txt",
+      "reason": "Unmodified upstream component license/copyright notice also distributed with system dependencies; no executable or application code."
+    },
+    {
+      "file": "LICENSES/libsharpyuv0.copyright.txt",
+      "reason": "Unmodified upstream component license/copyright notice also distributed with system dependencies; no executable or application code."
+    },
+    {
+      "file": "LICENSES/libsqlite3-0.copyright.txt",
+      "reason": "Unmodified upstream component license/copyright notice also distributed with system dependencies; no executable or application code."
+    },
+    {
+      "file": "LICENSES/libwebp7.copyright.txt",
+      "reason": "Unmodified upstream component license/copyright notice also distributed with system dependencies; no executable or application code."
+    },
+    {
+      "file": "LICENSES/libxml2.copyright.txt",
+      "reason": "Unmodified upstream component license/copyright notice also distributed with system dependencies; no executable or application code."
+    },
+    {
+      "file": "LICENSES/php.LICENSE.txt",
+      "reason": "Unmodified upstream component license/copyright notice also distributed with system dependencies; no executable or application code."
+    }
+  ]
+}

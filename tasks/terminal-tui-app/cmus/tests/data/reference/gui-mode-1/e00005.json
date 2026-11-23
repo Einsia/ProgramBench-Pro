@@ -1,0 +1,567 @@
+{
+  "base_style": [
+    "fg=black",
+    "bg=white"
+  ],
+  "cursor": {
+    "column": 0,
+    "hidden": true,
+    "row": 3
+  },
+  "process": "running",
+  "screen": [
+    "00| Library                                 Aster                                                                    05:01",
+    "01| <No Name>                             x Dawn qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq 1995 05:01",
+    "02| <Various Artists>                     x  1. Breeze                                                               02:00",
+    "03| Aster                                 x  2. Amber                                                                03:01",
+    "04| Birch                                 x",
+    "05| Cedar                                 x",
+    "06| The Dunes                             x",
+    "07| Étoile                                x",
+    "08| 空                                    x",
+    "09|                                       x",
+    "10|                                       x",
+    "11|                                       x",
+    "12|                                       x",
+    "13|                                       x",
+    "14|                                       x",
+    "15|                                       x",
+    "16|                                       x",
+    "17|                                       x",
+    "18|                                       x",
+    "19|                                       x",
+    "20|                                       x",
+    "21|                                       x",
+    "22|                                       x",
+    "23|                                       x",
+    "24|                                       x",
+    "25|                                       x",
+    "26|                                       x",
+    "27|                                       x",
+    "28|                                       x",
+    "29|                                       x",
+    "30|                                       x",
+    "31|                                       x",
+    "32|                                       x",
+    "33|",
+    "34| . 00:00 at 90 BPM                                                                                  library | 0% | C",
+    "35|setting: 'follow=true'"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": " Library                                 Aster                                                                    05:01 "
+    },
+    {
+      "columns": [
+        0,
+        39
+      ],
+      "row": 1,
+      "style": [
+        "default"
+      ],
+      "text": " <No Name>                             "
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 1,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        40,
+        46
+      ],
+      "row": 1,
+      "style": [
+        "bold"
+      ],
+      "text": " Dawn "
+    },
+    {
+      "columns": [
+        46,
+        108
+      ],
+      "row": 1,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq"
+    },
+    {
+      "columns": [
+        108,
+        120
+      ],
+      "row": 1,
+      "style": [
+        "bold"
+      ],
+      "text": " 1995 05:01 "
+    },
+    {
+      "columns": [
+        0,
+        39
+      ],
+      "row": 2,
+      "style": [
+        "default"
+      ],
+      "text": " <Various Artists>                     "
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 2,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        40,
+        120
+      ],
+      "row": 2,
+      "style": [
+        "default"
+      ],
+      "text": "  1. Breeze                                                               02:00 "
+    },
+    {
+      "columns": [
+        0,
+        39
+      ],
+      "row": 3,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": " Aster                                 "
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 3,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        0,
+        39
+      ],
+      "row": 4,
+      "style": [
+        "default"
+      ],
+      "text": " Birch                                 "
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 4,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        0,
+        39
+      ],
+      "row": 5,
+      "style": [
+        "default"
+      ],
+      "text": " Cedar                                 "
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 5,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        0,
+        39
+      ],
+      "row": 6,
+      "style": [
+        "default"
+      ],
+      "text": " The Dunes                             "
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 6,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        0,
+        39
+      ],
+      "row": 7,
+      "style": [
+        "default"
+      ],
+      "text": " Étoile                                "
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 7,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        0,
+        39
+      ],
+      "row": 8,
+      "style": [
+        "default"
+      ],
+      "text": " 空                                    "
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 8,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 9,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 10,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 11,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 12,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 13,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 14,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 15,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 16,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 17,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 18,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 19,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 20,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 21,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 22,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 23,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 24,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 25,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 26,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 27,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 28,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 29,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 30,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 31,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 32,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "x"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 35,
+      "style": [
+        "bold",
+        "fg=brown"
+      ],
+      "text": "setting: 'follow=true'                                                                                                  "
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e422",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "aria": "Display another project",
+      "bounds": [
+        836,
+        7,
+        273,
+        24
+      ],
+      "placeholder": "Display another project",
+      "ref": "e423",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e424",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/?controller=SearchController&action=activity&search=title%3A%22Delta+archive%22",
+      "ref": "e425",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/?controller=SearchController&action=activity&search=title%3A%22Delta+archive%22",
+      "ref": "e426",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "bounds": [
+        10,
+        49,
+        116,
+        17
+      ],
+      "href": "/search",
+      "ref": "e427",
+      "role": null,
+      "tag": "a",
+      "text": "Search tasks"
+    },
+    {
+      "aria": "Search",
+      "bounds": [
+        10,
+        87,
+        1199,
+        28
+      ],
+      "name": "search",
+      "placeholder": "Search",
+      "ref": "e428",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "title:\"Delta archive\""
+    },
+    {
+      "aria": "Default filters",
+      "bounds": [
+        1221,
+        92,
+        36,
+        16
+      ],
+      "href": "/?controller=SearchController&action=activity&search=title%3A%22Delta+archive%22",
+      "ref": "e429",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Default filters"
+    },
+    {
+      "bounds": [
+        250,
+        145,
+        18,
+        17
+      ],
+      "href": "/task/4",
+      "ref": "e430",
+      "role": null,
+      "tag": "a",
+      "text": "#4"
+    },
+    {
+      "bounds": [
+        256,
+        227,
+        18,
+        17
+      ],
+      "href": "/task/4",
+      "ref": "e431",
+      "role": null,
+      "tag": "a",
+      "text": "#4"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Search in activity stream (2)\n \n \nA\nSearch tasks\nA\n\nadmin closed the task #4 04/14/2026 08:00\n\nDelta archive\n\nA\n\nadmin created the task #4 04/14/2026 08:00\n\nDelta archive",
+  "text_truncated": false,
+  "title": "Search in activity stream (2)",
+  "url": "/?controller=SearchController&action=activity&search=title%3A%22Delta+archive%22",
+  "viewport": [
+    1280,
+    900
+  ]
+}

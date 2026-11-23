@@ -1,0 +1,90 @@
+{
+  "cursor": {
+    "column": 0,
+    "hidden": true,
+    "row": 23
+  },
+  "process": "running",
+  "screen": [
+    "00| Settings",
+    "01| tqueue",
+    "02| unbind",
+    "03| unmark",
+    "04| version",
+    "05| w",
+    "06| win-page-bottom",
+    "07| win-page-middle",
+    "08| win-page-top",
+    "09| wq",
+    "10|",
+    "11| Options",
+    "12| -------",
+    "13| aaa_mode                      all",
+    "14| altformat_current              %F",
+    "15| altformat_playlist             %f%= %d %{?X!=0?%3X ?    }",
+    "16| altformat_title               %f",
+    "17| altformat_trackwin             %f%= %d",
+    "18| auto_expand_albums_follow     true",
+    "19| auto_expand_albums_search     true",
+    "20| auto_expand_albums_selcur     true",
+    "21| auto_hide_playlists_panel     false",
+    "22| auto_mark_selected_playlist   false",
+    "23| auto_reshuffle                false",
+    "24| block_key_paste               true",
+    "25| buffer_seconds                10",
+    "26| color_cmdline_attr            default",
+    "27| color_cmdline_bg              default",
+    "28| color_cmdline_fg              default",
+    "29| color_cur_sel_attr            default",
+    "30| color_error                   lightred",
+    "31| color_info                    lightyellow",
+    "32| color_separator               blue",
+    "33|",
+    "34| . 00:00                                                                                            library | 0% | C",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": " Settings                                                                                                               "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 23,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": " auto_reshuffle                false                                                                                    "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "fg=black",
+        "bg=white"
+      ],
+      "text": " . 00:00                                                                                            library | 0% | C    "
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+JSON Editor
+https://github.com/josdejong/jsoneditor
+
+Copyright (C) 2011-2026 Jos de Jong
+
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+
+Offline packaging notice
+------------------------
+The original jsoneditor-10.4.3.tgz archive is redistributed unchanged. The
+static host localizes fixed remote dependencies of the shipped examples.
+Original product scripts and HTML logic are not changed. Source and hashes
+are in SOURCE.json and vendor/SOURCE.json. The original archive includes
+source and source maps.
+
+Bundled dependencies are under permissive licenses. Their notices remain in
+the upstream distribution; companion license texts are under LICENSES.
+LICENSES/SOURCE.json identifies the releases from which those texts were
+obtained (dependency version ranges are declared in the original archive).
+The standalone FileReader and FileSaver assets retain original notices.
+The static host and launch scripts are provided under Apache-2.0.
+
+Additional embedded-component notices
+------------------------------------
+Original notices for Selectr 2.4.13, the bundled jsonlint fork (85a19d7),
+and RequireJS are reproduced under LICENSES/embedded. Their original notice
+source addresses and file checksums are listed there.

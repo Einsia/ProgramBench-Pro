@@ -1,0 +1,426 @@
+{
+  "counts": {
+    "assertions": 2589,
+    "backend": 2396,
+    "checkpoints": 377,
+    "features": 62,
+    "frontend": 193,
+    "gui_episodes": 82,
+    "program_episodes": 17,
+    "episodes": 99
+  },
+  "features": {
+    "advanced-filter": {
+      "assertions": 4,
+      "episodes": [
+        "advanced-filter"
+      ]
+    },
+    "analysis": {
+      "assertions": 4,
+      "episodes": [
+        "goal-seek"
+      ]
+    },
+    "calculation": {
+      "assertions": 5,
+      "episodes": [
+        "manual-recalculation"
+      ]
+    },
+    "cell-formatting": {
+      "assertions": 25,
+      "episodes": [
+        "custom-number-format",
+        "wrap-rotation-font",
+        "cell-comments",
+        "format-clear"
+      ]
+    },
+    "chart-editing": {
+      "assertions": 6,
+      "episodes": [
+        "chart-edit-export"
+      ]
+    },
+    "charts": {
+      "assertions": 12,
+      "episodes": [
+        "chart-scatter",
+        "chart-column",
+        "chart-line",
+        "chart-pie"
+      ]
+    },
+    "clipboard": {
+      "assertions": 15,
+      "episodes": [
+        "clipboard-ranges",
+        "paste-special"
+      ]
+    },
+    "conditional-formatting": {
+      "assertions": 3,
+      "episodes": [
+        "conditional-format"
+      ]
+    },
+    "consolidation": {
+      "assertions": 4,
+      "episodes": [
+        "consolidate"
+      ]
+    },
+    "conversion-options": {
+      "assertions": 15,
+      "episodes": [
+        "program-convert-options"
+      ]
+    },
+    "data-table": {
+      "assertions": 4,
+      "episodes": [
+        "data-table"
+      ]
+    },
+    "dates": {
+      "assertions": 159,
+      "episodes": [
+        "program-formulas-dates"
+      ]
+    },
+    "distributions": {
+      "assertions": 122,
+      "episodes": [
+        "program-formulas-distributions"
+      ]
+    },
+    "document-export": {
+      "assertions": 9,
+      "episodes": [
+        "program-document-export"
+      ]
+    },
+    "domain-errors": {
+      "assertions": 66,
+      "episodes": [
+        "program-formulas-domain-errors"
+      ]
+    },
+    "editing": {
+      "assertions": 11,
+      "episodes": [
+        "cell-entry",
+        "clear-cells"
+      ]
+    },
+    "engineering": {
+      "assertions": 187,
+      "episodes": [
+        "program-formulas-engineering"
+      ]
+    },
+    "excel-compatibility": {
+      "assertions": 32,
+      "episodes": [
+        "program-excel-function-names"
+      ]
+    },
+    "file-formats": {
+      "assertions": 499,
+      "episodes": [
+        "program-format-roundtrips"
+      ]
+    },
+    "fill": {
+      "assertions": 6,
+      "episodes": [
+        "fill-series"
+      ]
+    },
+    "fill-merge": {
+      "assertions": 5,
+      "episodes": [
+        "fill-merge"
+      ]
+    },
+    "filtering": {
+      "assertions": 2,
+      "episodes": [
+        "auto-filter"
+      ]
+    },
+    "finance": {
+      "assertions": 167,
+      "episodes": [
+        "program-formulas-finance"
+      ]
+    },
+    "formatting": {
+      "assertions": 23,
+      "episodes": [
+        "text-emphasis",
+        "numeric-toolbar",
+        "alignment",
+        "merge-cells"
+      ]
+    },
+    "formulas": {
+      "assertions": 9,
+      "episodes": [
+        "fill-formulas"
+      ]
+    },
+    "frequency-tables": {
+      "assertions": 4,
+      "episodes": [
+        "frequency-table"
+      ]
+    },
+    "histogram": {
+      "assertions": 2,
+      "episodes": [
+        "histogram-cutoffs"
+      ]
+    },
+    "history": {
+      "assertions": 6,
+      "episodes": [
+        "edit-history"
+      ]
+    },
+    "image-objects": {
+      "assertions": 3,
+      "episodes": [
+        "image-object"
+      ]
+    },
+    "import": {
+      "assertions": 2,
+      "episodes": [
+        "import-csv"
+      ]
+    },
+    "input-errors": {
+      "assertions": 2,
+      "episodes": [
+        "input-error-recovery"
+      ]
+    },
+    "internal-navigation": {
+      "assertions": 3,
+      "episodes": [
+        "internal-hyperlink"
+      ]
+    },
+    "legacy-imports": {
+      "assertions": 24,
+      "episodes": [
+        "program-legacy-imports"
+      ]
+    },
+    "logical": {
+      "assertions": 111,
+      "episodes": [
+        "program-formulas-logical"
+      ]
+    },
+    "math": {
+      "assertions": 361,
+      "episodes": [
+        "program-formulas-math"
+      ]
+    },
+    "metadata": {
+      "assertions": 3,
+      "episodes": [
+        "document-properties"
+      ]
+    },
+    "names": {
+      "assertions": 4,
+      "episodes": [
+        "defined-names"
+      ]
+    },
+    "native-tools": {
+      "assertions": 46,
+      "episodes": [
+        "program-native-tools"
+      ]
+    },
+    "objects": {
+      "assertions": 4,
+      "episodes": [
+        "drawing-objects"
+      ]
+    },
+    "optimization": {
+      "assertions": 4,
+      "episodes": [
+        "solver"
+      ]
+    },
+    "outlining": {
+      "assertions": 2,
+      "episodes": [
+        "group-outline"
+      ]
+    },
+    "persistence": {
+      "assertions": 3,
+      "episodes": [
+        "reopen-workbook"
+      ]
+    },
+    "preferences": {
+      "assertions": 5,
+      "episodes": [
+        "default-preferences"
+      ]
+    },
+    "printing": {
+      "assertions": 2,
+      "episodes": [
+        "page-setup"
+      ]
+    },
+    "references": {
+      "assertions": 75,
+      "episodes": [
+        "program-formulas-references"
+      ]
+    },
+    "sampling": {
+      "assertions": 4,
+      "episodes": [
+        "periodic-sampling"
+      ]
+    },
+    "scenarios": {
+      "assertions": 5,
+      "episodes": [
+        "scenarios"
+      ]
+    },
+    "search": {
+      "assertions": 8,
+      "episodes": [
+        "search-text",
+        "replace-text"
+      ]
+    },
+    "sheet-management": {
+      "assertions": 11,
+      "episodes": [
+        "sheet-management"
+      ]
+    },
+    "sheets": {
+      "assertions": 10,
+      "episodes": [
+        "sheet-rename",
+        "sheet-duplicate"
+      ]
+    },
+    "simulation": {
+      "assertions": 2,
+      "episodes": [
+        "risk-simulation"
+      ]
+    },
+    "sorting": {
+      "assertions": 6,
+      "episodes": [
+        "sort-rows"
+      ]
+    },
+    "statistical-generators": {
+      "assertions": 40,
+      "episodes": [
+        "analysis-one-mean",
+        "analysis-sign",
+        "analysis-wilcoxon",
+        "analysis-paired",
+        "analysis-unpaired-equal",
+        "analysis-unpaired-unequal",
+        "analysis-variance",
+        "analysis-pca",
+        "analysis-anova-two",
+        "analysis-chi-squared"
+      ]
+    },
+    "statistics": {
+      "assertions": 264,
+      "episodes": [
+        "analysis-descriptive",
+        "analysis-correlation",
+        "analysis-covariance",
+        "analysis-rank-percentile",
+        "analysis-regression",
+        "analysis-moving-average",
+        "analysis-smoothing",
+        "analysis-anova",
+        "analysis-normality",
+        "analysis-fourier",
+        "program-formulas-statistics"
+      ]
+    },
+    "structure": {
+      "assertions": 18,
+      "episodes": [
+        "insert-delete-rows",
+        "insert-delete-columns",
+        "hide-rows-columns",
+        "column-width",
+        "row-height"
+      ]
+    },
+    "survival-analysis": {
+      "assertions": 4,
+      "episodes": [
+        "kaplan-meier"
+      ]
+    },
+    "tabulate-dependency": {
+      "assertions": 3,
+      "episodes": [
+        "tabulate-dependency"
+      ]
+    },
+    "text": {
+      "assertions": 128,
+      "episodes": [
+        "program-formulas-text"
+      ]
+    },
+    "text-formats": {
+      "assertions": 12,
+      "episodes": [
+        "program-text-export"
+      ]
+    },
+    "text-to-columns": {
+      "assertions": 4,
+      "episodes": [
+        "text-to-columns"
+      ]
+    },
+    "validation": {
+      "assertions": 5,
+      "episodes": [
+        "validation"
+      ]
+    },
+    "view": {
+      "assertions": 5,
+      "episodes": [
+        "sheet-formula-view",
+        "freeze-panes"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

@@ -1,0 +1,222 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        0,
+        1182,
+        5
+      ],
+      "ref": "e6bfaf2b2",
+      "tag": "div",
+      "text": "Click to select a file or drag and drop Your files never leave your device."
+    },
+    {
+      "bounds": [
+        1203,
+        45,
+        16,
+        16
+      ],
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        49,
+        137,
+        1182,
+        46
+      ],
+      "label": "Current Password (if encrypted)",
+      "placeholder": "Enter current password",
+      "ref": "e7ed222e6",
+      "tag": "input",
+      "type": "password"
+    },
+    {
+      "bounds": [
+        49,
+        227,
+        1182,
+        46
+      ],
+      "label": "New User Password",
+      "placeholder": "Password to open PDF",
+      "ref": "ea23dc048",
+      "tag": "input",
+      "type": "password"
+    },
+    {
+      "bounds": [
+        49,
+        317,
+        1182,
+        46
+      ],
+      "label": "New Owner Password *",
+      "placeholder": "Password for permissions",
+      "ref": "e83dbb536",
+      "tag": "input",
+      "type": "password"
+    },
+    {
+      "bounds": [
+        66,
+        448,
+        1148,
+        20
+      ],
+      "checked": true,
+      "label": "Allow Printing",
+      "ref": "e22e8f3cb",
+      "tag": "label",
+      "text": "Allow Printing",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        66,
+        476,
+        1148,
+        20
+      ],
+      "checked": true,
+      "label": "Allow Copying Text",
+      "ref": "e210b6861",
+      "tag": "label",
+      "text": "Allow Copying Text",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        66,
+        504,
+        1148,
+        20
+      ],
+      "checked": true,
+      "label": "Allow Modifying",
+      "ref": "e526c94fb",
+      "tag": "label",
+      "text": "Allow Modifying",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        66,
+        532,
+        1148,
+        20
+      ],
+      "checked": false,
+      "label": "Allow Annotating",
+      "ref": "ed78ffb63",
+      "tag": "label",
+      "text": "Allow Annotating",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        66,
+        560,
+        1148,
+        20
+      ],
+      "checked": true,
+      "label": "Allow Filling Forms",
+      "ref": "ee57b7b7f",
+      "tag": "label",
+      "text": "Allow Filling Forms",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        66,
+        588,
+        1148,
+        20
+      ],
+      "checked": true,
+      "label": "Allow Document Assembly",
+      "ref": "e11f45ea3",
+      "tag": "label",
+      "text": "Allow Document Assembly",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        66,
+        616,
+        1148,
+        20
+      ],
+      "checked": true,
+      "label": "Allow Page Extraction",
+      "ref": "ee3e45e83",
+      "tag": "label",
+      "text": "Allow Page Extraction",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        49,
+        669,
+        1182,
+        48
+      ],
+      "ref": "e7c06ee96",
+      "tag": "button",
+      "text": "Change Permissions"
+    },
+    {
+      "bounds": [
+        473,
+        472,
+        334,
+        40
+      ],
+      "ref": "e2a50e308",
+      "tag": "button",
+      "text": "OK"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "report.pdf",
+      "ref": "d6466e450a16b",
+      "size": 4653
+    }
+  ],
+  "inputs": [
+    "report.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›Change Permissions\nChange Permissions\n\nSet or change user permissions on a PDF.\n\nClick to select a file or drag and drop\n\nYour files never leave your device.\n\nreport.pdf\n3.7 KB\nCurrent Password (if encrypted)\nNew User Password\nNew Owner Password *\n\nRequired when setting permissions or a user password. Leave all fields empty to decrypt the PDF instead.\n\nPermissions (requires owner password)\nAllow Printing\nAllow Copying Text\nAllow Modifying\nAllow Annotating\nAllow Filling Forms\nAllow Document Assembly\nAllow Page Extraction\nChange Permissions\nSuccess\n\nPDF permissions changed successfully!\n\nOK\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/change-permissions.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

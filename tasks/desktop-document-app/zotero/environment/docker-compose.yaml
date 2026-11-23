@@ -1,0 +1,33 @@
+services:
+  main:
+    image: program-bench-zotero-agent:1.0.0
+    pull_policy: never
+    cap_drop: [ALL]
+    cap_add: [CHOWN, FOWNER, DAC_OVERRIDE, SETUID, SETGID, KILL]
+    security_opt: [no-new-privileges:true]
+    shm_size: 256m
+    environment:
+      PYTHONDONTWRITEBYTECODE: "1"
+    volumes:
+      - "${ZOTERO_RPC_STORAGE:-blackbox-rpc}:/blackbox:ro"
+      - "${ZOTERO_AGENT_TMP:-agent-tmp}:/tmp"
+  blackbox:
+    image: program-bench-zotero-reference:1.0.0
+    pull_policy: never
+    network_mode: none
+    cap_drop: [ALL]
+    cap_add: [CHOWN, FOWNER, DAC_OVERRIDE, SETUID, SETGID, KILL]
+    security_opt: [no-new-privileges:true]
+    cpus: 2
+    mem_limit: 8g
+    pids_limit: 2048
+    shm_size: 256m
+    volumes:
+      - "${ZOTERO_RPC_STORAGE:-blackbox-rpc}:/blackbox"
+      - "${ZOTERO_REFERENCE_STORAGE:-reference-state}:/reference"
+      - "${ZOTERO_REFERENCE_TMP:-reference-tmp}:/tmp"
+volumes:
+  blackbox-rpc:
+  agent-tmp:
+  reference-state:
+  reference-tmp:

@@ -1,0 +1,501 @@
+{
+  "focused": "e98e90ece",
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        1024
+      ],
+      "name": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),",
+      "ref": "e93ed40b7",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        25
+      ],
+      "name": "",
+      "ref": "e37b0c28a",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        39,
+        25
+      ],
+      "name": "File",
+      "ref": "eae5e7196",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        39,
+        19,
+        75,
+        25
+      ],
+      "name": "Accounts",
+      "ref": "ecb5893cc",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        114,
+        19,
+        49,
+        25
+      ],
+      "name": "Tools",
+      "ref": "ec5eeafb2",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        163,
+        19,
+        48,
+        25
+      ],
+      "name": "View",
+      "ref": "eb0ba3d40",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        211,
+        19,
+        46,
+        25
+      ],
+      "name": "Help",
+      "ref": "ef594ac36",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        1,
+        995,
+        200,
+        6
+      ],
+      "name": "",
+      "ref": "ef36204a0",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        259,
+        337,
+        762,
+        350
+      ],
+      "name": "Currency Manager",
+      "ref": "e45a6d63f",
+      "role": "frame",
+      "states": [
+        "active",
+        "modal"
+      ]
+    },
+    {
+      "bounds": [
+        275,
+        372,
+        18,
+        26
+      ],
+      "description": "Online update currency rate",
+      "name": "",
+      "ref": "e930ff70c",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        307,
+        376,
+        94,
+        17
+      ],
+      "name": "Online Update",
+      "ref": "eb576e55c",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        426,
+        374,
+        84,
+        21
+      ],
+      "description": "Show all even the unused currencies",
+      "name": "Show All",
+      "ref": "ecd98c89e",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        276,
+        419,
+        347,
+        139
+      ],
+      "name": "",
+      "ref": "ef2d16865",
+      "role": "table"
+    },
+    {
+      "bounds": [
+        276,
+        419,
+        30,
+        25
+      ],
+      "name": "",
+      "ref": "e4f4c2f2f",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        306,
+        419,
+        71,
+        25
+      ],
+      "name": "Code",
+      "ref": "e57742417",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        377,
+        419,
+        114,
+        25
+      ],
+      "name": "Name",
+      "ref": "e96315ab7",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        491,
+        419,
+        132,
+        25
+      ],
+      "name": "Last Rate",
+      "ref": "e5e9695c2",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        278,
+        445,
+        26,
+        21
+      ],
+      "name": "",
+      "ref": "e29948ffb",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        308,
+        445,
+        67,
+        21
+      ],
+      "name": "EUR",
+      "ref": "e44c15bfb",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        379,
+        445,
+        110,
+        21
+      ],
+      "name": "Euro",
+      "ref": "e8907f206",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        493,
+        445,
+        128,
+        21
+      ],
+      "name": "1.1500",
+      "ref": "e217f734d",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        275,
+        587,
+        45,
+        17
+      ],
+      "name": "Search",
+      "ref": "e4ddf60aa",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        330,
+        579,
+        294,
+        34
+      ],
+      "name": "Search",
+      "ref": "ea45f7c33",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "EUR"
+    },
+    {
+      "bounds": [
+        339,
+        588,
+        16,
+        16
+      ],
+      "name": "edit-find-symbolic",
+      "ref": "e3607d9f8",
+      "role": "icon",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        599,
+        588,
+        16,
+        16
+      ],
+      "name": "edit-clear-symbolic",
+      "ref": "ea077b3ee",
+      "role": "icon"
+    },
+    {
+      "bounds": [
+        359,
+        633,
+        85,
+        34
+      ],
+      "name": "Select",
+      "ref": "e5cdb5e2c",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        454,
+        633,
+        85,
+        34
+      ],
+      "name": "Close",
+      "ref": "e27741aa2",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        649,
+        367,
+        361,
+        305
+      ],
+      "name": "Currency History Options: Euro",
+      "ref": "eeda69529",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        649,
+        367,
+        200,
+        17
+      ],
+      "name": "Currency History Options: Euro",
+      "ref": "e5a58450b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        660,
+        589,
+        32,
+        17
+      ],
+      "name": "Date",
+      "ref": "e15767aea",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        702,
+        581,
+        120,
+        34
+      ],
+      "description": "Specify the date of currency value",
+      "name": "",
+      "ref": "e65b14e4c",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        702,
+        581,
+        91,
+        34
+      ],
+      "name": "",
+      "ref": "ea5c34464",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "06/01/2026"
+    },
+    {
+      "bounds": [
+        832,
+        589,
+        37,
+        17
+      ],
+      "name": "Value",
+      "ref": "e1565d6bc",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        879,
+        581,
+        120,
+        34
+      ],
+      "description": "Enter the currency value",
+      "name": "",
+      "ref": "e9876f02a",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "1.150000"
+    },
+    {
+      "bounds": [
+        697,
+        635,
+        18,
+        26
+      ],
+      "description": "Download Currency Values history",
+      "name": "",
+      "ref": "e7a0dc01f",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        725,
+        635,
+        114,
+        26
+      ],
+      "description": "Add Currency Values to history",
+      "name": "Add/Update",
+      "ref": "e98e90ece",
+      "role": "push button",
+      "states": [
+        "focused"
+      ]
+    },
+    {
+      "bounds": [
+        849,
+        635,
+        85,
+        26
+      ],
+      "description": "Delete selected Currency Values",
+      "name": "Delete",
+      "ref": "e7c0ea883",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        944,
+        635,
+        18,
+        26
+      ],
+      "description": "Delete Historical Currency Values for unused currencies and days",
+      "name": "",
+      "ref": "ea6ea4186",
+      "role": "push button"
+    }
+  ],
+  "screen": [
+    1280,
+    1024
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": false,
+      "bounds": [
+        0,
+        38,
+        1280,
+        1005
+      ],
+      "ref": "w5b3c0310",
+      "title": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),"
+    },
+    {
+      "active": true,
+      "bounds": [
+        261,
+        377,
+        760,
+        325
+      ],
+      "ref": "wdea848cf",
+      "title": "Currency Manager"
+    }
+  ]
+}

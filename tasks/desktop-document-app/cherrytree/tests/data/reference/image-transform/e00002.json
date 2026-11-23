@@ -1,0 +1,1608 @@
+{
+  "focused": "e3ad3acb2",
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        900
+      ],
+      "name": "notebook.ctd - /app/candidate-state/session/files/outbox - CherryTree 1.7.2",
+      "ref": "e89e5014f",
+      "role": "frame",
+      "states": [
+        "active"
+      ]
+    },
+    {
+      "bounds": [
+        1161,
+        7,
+        34,
+        30
+      ],
+      "name": "Minimize",
+      "ref": "e2cd54d0e",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        1201,
+        7,
+        34,
+        30
+      ],
+      "name": "Restore",
+      "ref": "eab315858",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        1241,
+        7,
+        34,
+        30
+      ],
+      "name": "Close",
+      "ref": "eb71d0445",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        562,
+        15,
+        476,
+        14
+      ],
+      "name": "notebook.ctd - /app/candidate-state/session/files/outbox - CherryTree 1.7.2",
+      "ref": "eb2196d25",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        552,
+        -1,
+        4,
+        46
+      ],
+      "name": "",
+      "ref": "e7dad1418",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        15,
+        -1,
+        531,
+        46
+      ],
+      "name": "",
+      "ref": "e5139a2a9",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        15,
+        -1,
+        39,
+        46
+      ],
+      "name": "File",
+      "ref": "e337646e0",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        54,
+        -1,
+        41,
+        46
+      ],
+      "name": "Edit",
+      "ref": "e31e457b7",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        95,
+        -1,
+        53,
+        46
+      ],
+      "name": "Insert",
+      "ref": "ebff7784c",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        148,
+        -1,
+        62,
+        46
+      ],
+      "name": "Format",
+      "ref": "e629bcaa4",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        210,
+        -1,
+        49,
+        46
+      ],
+      "name": "Tools",
+      "ref": "e50697007",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        259,
+        -1,
+        43,
+        46
+      ],
+      "name": "Tree",
+      "ref": "ecf70db0d",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        302,
+        -1,
+        60,
+        46
+      ],
+      "name": "Search",
+      "ref": "e56aa154a",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        362,
+        -1,
+        48,
+        46
+      ],
+      "name": "View",
+      "ref": "ecda9556a",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        410,
+        -1,
+        90,
+        46
+      ],
+      "name": "Bookmarks",
+      "ref": "eb366bf29",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        500,
+        -1,
+        46,
+        46
+      ],
+      "name": "Help",
+      "ref": "e47955101",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        5,
+        -1,
+        4,
+        46
+      ],
+      "name": "",
+      "ref": "e20a107a1",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        0,
+        46,
+        1280,
+        31
+      ],
+      "name": "",
+      "ref": "ebefb1f7b",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        2,
+        48,
+        27,
+        27
+      ],
+      "description": "Add a Node having the same Parent of the Selected Node (Ctrl+n)",
+      "name": "",
+      "ref": "e1c642e26",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        2,
+        48,
+        27,
+        27
+      ],
+      "name": "Add Node...",
+      "ref": "ee9ab5011",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        29,
+        48,
+        27,
+        27
+      ],
+      "description": "Add a Child Node to the Selected Node (Ctrl+Shift+n)",
+      "name": "",
+      "ref": "ed9bc0592",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        29,
+        48,
+        27,
+        27
+      ],
+      "name": "Add Subnode...",
+      "ref": "e6a6c40a8",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        70,
+        48,
+        27,
+        27
+      ],
+      "description": "Go to the Previous Visited Node (Alt+Left)",
+      "name": "",
+      "ref": "e3135c5e8",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        70,
+        48,
+        27,
+        27
+      ],
+      "name": "Go Back",
+      "ref": "ebafbf448",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        97,
+        48,
+        27,
+        27
+      ],
+      "description": "Go to the Next Visited Node (Alt+Right)",
+      "name": "",
+      "ref": "ed9cd4718",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        97,
+        48,
+        27,
+        27
+      ],
+      "name": "Go Forward",
+      "ref": "e5a2b0c8e",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        138,
+        48,
+        27,
+        27
+      ],
+      "description": "Open a CherryTree Folder (Ctrl+Shift+o)",
+      "name": "",
+      "ref": "e5ec2b301",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        138,
+        48,
+        27,
+        27
+      ],
+      "name": "Open Folder...",
+      "ref": "ecc25a8cf",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        165,
+        48,
+        45,
+        27
+      ],
+      "description": "Open a CherryTree File (Ctrl+o)",
+      "name": "",
+      "ref": "e0152cb3b",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        165,
+        48,
+        26,
+        26
+      ],
+      "name": "Open File...",
+      "ref": "e4d4d06ec",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        191,
+        48,
+        18,
+        26
+      ],
+      "description": "Open a Recent CherryTree Document",
+      "name": "Menu",
+      "ref": "e90a971e4",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        210,
+        48,
+        27,
+        27
+      ],
+      "description": "Save File (Ctrl+s)",
+      "name": "",
+      "ref": "e7f54a97c",
+      "role": "panel",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        210,
+        48,
+        27,
+        27
+      ],
+      "name": "Save",
+      "ref": "e0ac80636",
+      "role": "button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        237,
+        48,
+        27,
+        27
+      ],
+      "description": "Export To PDF",
+      "name": "",
+      "ref": "eaa231ee9",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        237,
+        48,
+        27,
+        27
+      ],
+      "name": "Export To PDF",
+      "ref": "e5ce62659",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        278,
+        48,
+        27,
+        27
+      ],
+      "description": "Find in Multiple Nodes (Ctrl+Shift+f)",
+      "name": "",
+      "ref": "ee39ab08c",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        278,
+        48,
+        27,
+        27
+      ],
+      "name": "Find in Multiple Nodes...",
+      "ref": "ef711c83e",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        319,
+        48,
+        27,
+        27
+      ],
+      "description": "Set/Unset the Current Paragraph/Selection as a Bulleted List (Shift+Alt+l)",
+      "name": "",
+      "ref": "ed4b11d53",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        319,
+        48,
+        27,
+        27
+      ],
+      "name": "Set/Unset Bulleted List",
+      "ref": "efc1297f7",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        346,
+        48,
+        27,
+        27
+      ],
+      "description": "Set/Unset the Current Paragraph/Selection as a Numbered List (Shift+Alt+n)",
+      "name": "",
+      "ref": "e22496ee6",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        346,
+        48,
+        27,
+        27
+      ],
+      "name": "Set/Unset Numbered List",
+      "ref": "e5494302e",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        373,
+        48,
+        27,
+        27
+      ],
+      "description": "Set/Unset the Current Paragraph/Selection as a To-Do List (Shift+Alt+t)",
+      "name": "",
+      "ref": "e2a1da677",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        373,
+        48,
+        27,
+        27
+      ],
+      "name": "Set/Unset To-Do List",
+      "ref": "e4dd0c1e5",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        400,
+        48,
+        27,
+        27
+      ],
+      "description": "Indent the Current Paragraph (Ctrl+greater)",
+      "name": "",
+      "ref": "e98881d58",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        400,
+        48,
+        27,
+        27
+      ],
+      "name": "Indent Paragraph",
+      "ref": "e5c89b0f0",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        427,
+        48,
+        27,
+        27
+      ],
+      "description": "Unindent the Current Paragraph (Ctrl+less)",
+      "name": "",
+      "ref": "e0b38a829",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        427,
+        48,
+        27,
+        27
+      ],
+      "name": "Unindent Paragraph",
+      "ref": "e6ffc8976",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        468,
+        48,
+        27,
+        27
+      ],
+      "description": "Insert an Image (Shift+Alt+i)",
+      "name": "",
+      "ref": "e6f128275",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        468,
+        48,
+        27,
+        27
+      ],
+      "name": "Insert Image...",
+      "ref": "ee6873798",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        495,
+        48,
+        27,
+        27
+      ],
+      "description": "Insert a Table (Shift+Alt+h)",
+      "name": "",
+      "ref": "e2b9b2d51",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        495,
+        48,
+        27,
+        27
+      ],
+      "name": "Insert Table...",
+      "ref": "e7677192e",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        522,
+        48,
+        27,
+        27
+      ],
+      "description": "Insert a CodeBox (Shift+Alt+d)",
+      "name": "",
+      "ref": "e40a8f52e",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        522,
+        48,
+        27,
+        27
+      ],
+      "name": "Insert CodeBox...",
+      "ref": "eae46b0ee",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        549,
+        48,
+        27,
+        27
+      ],
+      "description": "Insert LatexBox (Shift+Alt+g)",
+      "name": "",
+      "ref": "e8b8a50ec",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        549,
+        48,
+        27,
+        27
+      ],
+      "name": "Insert Latex...",
+      "ref": "e18c9c08a",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        576,
+        48,
+        27,
+        27
+      ],
+      "description": "Insert File (Shift+Alt+e)",
+      "name": "",
+      "ref": "ed9f9e09a",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        576,
+        48,
+        27,
+        27
+      ],
+      "name": "Insert File...",
+      "ref": "e1dd7fcb5",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        603,
+        48,
+        27,
+        27
+      ],
+      "description": "Insert a Link/Edit the Underlying Link (Ctrl+l)",
+      "name": "",
+      "ref": "e63317507",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        603,
+        48,
+        27,
+        27
+      ],
+      "name": "Insert/Edit Link...",
+      "ref": "e0573c3f9",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        630,
+        48,
+        27,
+        27
+      ],
+      "description": "Insert an Anchor (Shift+Alt+a)",
+      "name": "",
+      "ref": "eb4c99106",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        630,
+        48,
+        27,
+        27
+      ],
+      "name": "Insert Anchor...",
+      "ref": "ee628e6d9",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        671,
+        48,
+        27,
+        27
+      ],
+      "description": "Clone the Text Format Type at Cursor",
+      "name": "",
+      "ref": "eb8b94962",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        671,
+        48,
+        27,
+        27
+      ],
+      "name": "Format Clone",
+      "ref": "e6572ee4a",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        698,
+        48,
+        27,
+        27
+      ],
+      "description": "Memory of Latest Text Format Type (F7)",
+      "name": "",
+      "ref": "e0436004f",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        698,
+        48,
+        27,
+        27
+      ],
+      "name": "Format Latest",
+      "ref": "e5b3deec0",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        725,
+        48,
+        27,
+        27
+      ],
+      "description": "Remove the Formatting from the Selected Text (Ctrl+Shift+r)",
+      "name": "",
+      "ref": "ed8d9af78",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        725,
+        48,
+        27,
+        27
+      ],
+      "name": "Remove Formatting",
+      "ref": "e4fe983d6",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        752,
+        48,
+        27,
+        27
+      ],
+      "description": "Change the Color of the Selected Text Foreground (Shift+Alt+f)",
+      "name": "",
+      "ref": "ebeed0934",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        752,
+        48,
+        27,
+        27
+      ],
+      "name": "Text Color Foreground",
+      "ref": "e6add5e63",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        779,
+        48,
+        27,
+        27
+      ],
+      "description": "Change the Color of the Selected Text Background (Shift+Alt+b)",
+      "name": "",
+      "ref": "ef627e068",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        779,
+        48,
+        27,
+        27
+      ],
+      "name": "Text Color Background",
+      "ref": "ecdcdb7ee",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        806,
+        48,
+        27,
+        27
+      ],
+      "description": "Toggle Bold Property of the Selected Text (Ctrl+b)",
+      "name": "",
+      "ref": "ea5be6763",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        806,
+        48,
+        27,
+        27
+      ],
+      "name": "Toggle Bold Property",
+      "ref": "eea1511eb",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        833,
+        48,
+        27,
+        27
+      ],
+      "description": "Toggle Italic Property of the Selected Text (Ctrl+i)",
+      "name": "",
+      "ref": "eb6bb2ca8",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        833,
+        48,
+        27,
+        27
+      ],
+      "name": "Toggle Italic Property",
+      "ref": "e1e22e9af",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        860,
+        48,
+        27,
+        27
+      ],
+      "description": "Toggle Underline Property of the Selected Text (Ctrl+u)",
+      "name": "",
+      "ref": "ece7163ef",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        860,
+        48,
+        27,
+        27
+      ],
+      "name": "Toggle Underline Property",
+      "ref": "efc5f40bd",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        887,
+        48,
+        27,
+        27
+      ],
+      "description": "Toggle Strikethrough Property of the Selected Text (Ctrl+e)",
+      "name": "",
+      "ref": "e57b351b0",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        887,
+        48,
+        27,
+        27
+      ],
+      "name": "Toggle Strikethrough Property",
+      "ref": "ed53a69ef",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        914,
+        48,
+        27,
+        27
+      ],
+      "description": "Toggle h1 Property of the Selected Text (Ctrl+1)",
+      "name": "",
+      "ref": "e57e57dcb",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        914,
+        48,
+        27,
+        27
+      ],
+      "name": "Toggle h1 Property",
+      "ref": "e7eb6bd5a",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        941,
+        48,
+        27,
+        27
+      ],
+      "description": "Toggle h2 Property of the Selected Text (Ctrl+2)",
+      "name": "",
+      "ref": "e7f529581",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        941,
+        48,
+        27,
+        27
+      ],
+      "name": "Toggle h2 Property",
+      "ref": "e66a5d5d8",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        968,
+        48,
+        27,
+        27
+      ],
+      "description": "Toggle h3 Property of the Selected Text (Ctrl+3)",
+      "name": "",
+      "ref": "e5c8aa46e",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        968,
+        48,
+        27,
+        27
+      ],
+      "name": "Toggle h3 Property",
+      "ref": "ef3e9e943",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        995,
+        48,
+        27,
+        27
+      ],
+      "description": "Toggle Small Property of the Selected Text (Ctrl+7)",
+      "name": "",
+      "ref": "e6abd470a",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        995,
+        48,
+        27,
+        27
+      ],
+      "name": "Toggle Small Property",
+      "ref": "e35447632",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        1022,
+        48,
+        27,
+        27
+      ],
+      "description": "Toggle Subscript Property of the Selected Text (Ctrl+8)",
+      "name": "",
+      "ref": "ee9d5bc30",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        1022,
+        48,
+        27,
+        27
+      ],
+      "name": "Toggle Subscript Property",
+      "ref": "e413413f3",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        1049,
+        48,
+        27,
+        27
+      ],
+      "description": "Toggle Superscript Property of the Selected Text (Ctrl+9)",
+      "name": "",
+      "ref": "edd43cbae",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        1049,
+        48,
+        27,
+        27
+      ],
+      "name": "Toggle Superscript Property",
+      "ref": "ecaaa1e49",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        1076,
+        48,
+        27,
+        27
+      ],
+      "description": "Toggle Monospace Property of the Selected Text (Ctrl+m)",
+      "name": "",
+      "ref": "ed9525bd2",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        1076,
+        48,
+        27,
+        27
+      ],
+      "name": "Toggle Monospace Property",
+      "ref": "ebc073d21",
+      "role": "button"
+    },
+    {
+      "bounds": [
+        0,
+        77,
+        1280,
+        804
+      ],
+      "name": "",
+      "ref": "e77c0715f",
+      "role": "split pane",
+      "value": 450.0
+    },
+    {
+      "bounds": [
+        0,
+        77,
+        1280,
+        804
+      ],
+      "name": "",
+      "ref": "ea3ca052c",
+      "role": "split pane",
+      "value": 170.0
+    },
+    {
+      "bounds": [
+        0,
+        77,
+        170,
+        784
+      ],
+      "name": "",
+      "ref": "e9ea1efde",
+      "role": "tree table"
+    },
+    {
+      "bounds": [
+        40,
+        78,
+        128,
+        21
+      ],
+      "name": "",
+      "ref": "edead4610",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        40,
+        78,
+        16,
+        21
+      ],
+      "name": "",
+      "ref": "e5c802998",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        58,
+        78,
+        152,
+        21
+      ],
+      "name": "Image",
+      "ref": "eb2d47b6d",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ],
+      "visible": [
+        58,
+        78,
+        112,
+        21
+      ]
+    },
+    {
+      "bounds": [
+        40,
+        101,
+        128,
+        21
+      ],
+      "name": "",
+      "ref": "ea64d9884",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        40,
+        101,
+        16,
+        21
+      ],
+      "name": "",
+      "ref": "e2a0a82b9",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        58,
+        101,
+        152,
+        21
+      ],
+      "name": "Attachment",
+      "ref": "ed2822530",
+      "role": "table cell",
+      "visible": [
+        58,
+        101,
+        112,
+        21
+      ]
+    },
+    {
+      "bounds": [
+        40,
+        124,
+        128,
+        21
+      ],
+      "name": "",
+      "ref": "e5f7659a8",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        40,
+        124,
+        16,
+        21
+      ],
+      "name": "",
+      "ref": "eb9f45e85",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        58,
+        124,
+        152,
+        21
+      ],
+      "name": "Table",
+      "ref": "e0bef8998",
+      "role": "table cell",
+      "visible": [
+        58,
+        124,
+        112,
+        21
+      ]
+    },
+    {
+      "bounds": [
+        40,
+        147,
+        128,
+        21
+      ],
+      "name": "",
+      "ref": "e929d4e6d",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        40,
+        147,
+        16,
+        21
+      ],
+      "name": "",
+      "ref": "ea91363f7",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        58,
+        147,
+        152,
+        21
+      ],
+      "name": "Code",
+      "ref": "e534ecfba",
+      "role": "table cell",
+      "visible": [
+        58,
+        147,
+        112,
+        21
+      ]
+    },
+    {
+      "bounds": [
+        40,
+        170,
+        128,
+        21
+      ],
+      "name": "",
+      "ref": "e6c0dd30a",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        40,
+        170,
+        16,
+        21
+      ],
+      "name": "",
+      "ref": "ea94ad29b",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        58,
+        170,
+        152,
+        21
+      ],
+      "name": "Rich",
+      "ref": "e2478cd83",
+      "role": "table cell",
+      "visible": [
+        58,
+        170,
+        112,
+        21
+      ]
+    },
+    {
+      "bounds": [
+        40,
+        193,
+        128,
+        21
+      ],
+      "name": "",
+      "ref": "e0fe550be",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        40,
+        193,
+        16,
+        21
+      ],
+      "name": "",
+      "ref": "ed4c459c5",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        58,
+        193,
+        152,
+        21
+      ],
+      "name": "Destination",
+      "ref": "edadc7b6b",
+      "role": "table cell",
+      "visible": [
+        58,
+        193,
+        112,
+        21
+      ]
+    },
+    {
+      "bounds": [
+        40,
+        216,
+        128,
+        21
+      ],
+      "name": "",
+      "ref": "eb2e5864c",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        40,
+        216,
+        16,
+        21
+      ],
+      "name": "",
+      "ref": "eb72c5c72",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        58,
+        216,
+        152,
+        21
+      ],
+      "name": "Headings",
+      "ref": "ec9953b90",
+      "role": "table cell",
+      "visible": [
+        58,
+        216,
+        112,
+        21
+      ]
+    },
+    {
+      "bounds": [
+        40,
+        239,
+        128,
+        21
+      ],
+      "name": "",
+      "ref": "e312c18c4",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        40,
+        239,
+        16,
+        21
+      ],
+      "name": "",
+      "ref": "e57f3e08f",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        58,
+        239,
+        152,
+        21
+      ],
+      "name": "Cleanup",
+      "ref": "ed8077664",
+      "role": "table cell",
+      "visible": [
+        58,
+        239,
+        112,
+        21
+      ]
+    },
+    {
+      "bounds": [
+        40,
+        262,
+        128,
+        21
+      ],
+      "name": "",
+      "ref": "eaec720fb",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        40,
+        262,
+        16,
+        21
+      ],
+      "name": "",
+      "ref": "e1cc91c85",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        58,
+        262,
+        152,
+        21
+      ],
+      "name": "Format",
+      "ref": "eae3db529",
+      "role": "table cell",
+      "visible": [
+        58,
+        262,
+        112,
+        21
+      ]
+    },
+    {
+      "bounds": [
+        40,
+        285,
+        128,
+        21
+      ],
+      "name": "",
+      "ref": "ec2d1a499",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        40,
+        285,
+        16,
+        21
+      ],
+      "name": "",
+      "ref": "ea2da8c20",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        58,
+        285,
+        152,
+        21
+      ],
+      "name": "Repeated",
+      "ref": "e31cd749a",
+      "role": "table cell",
+      "visible": [
+        58,
+        285,
+        112,
+        21
+      ]
+    },
+    {
+      "bounds": [
+        175,
+        77,
+        1081,
+        17
+      ],
+      "name": "Image",
+      "ref": "e83c2782f",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1256,
+        77,
+        16,
+        17
+      ],
+      "name": "",
+      "ref": "e6ff98f69",
+      "role": "icon"
+    },
+    {
+      "bounds": [
+        175,
+        94,
+        1105,
+        787
+      ],
+      "name": "",
+      "ref": "e3ad3acb2",
+      "role": "text",
+      "states": [
+        "focused",
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        183,
+        95,
+        100,
+        160
+      ],
+      "name": "",
+      "ref": "e4de87185",
+      "role": "icon"
+    },
+    {
+      "bounds": [
+        0,
+        881,
+        34,
+        19
+      ],
+      "name": "(1,1)",
+      "ref": "efceb7428",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        44,
+        881,
+        1224,
+        19
+      ],
+      "name": "Node Type: Rich Text  -  Word Count: 0  -  Date Created: 2024/01/01 - 00:00  -  Date Modified: 2024/01/01 - 12:00  -  Subnodes: 0",
+      "ref": "e8d9aeb30",
+      "role": "status bar"
+    }
+  ],
+  "screen": [
+    1280,
+    900
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": true,
+      "bounds": [
+        0,
+        0,
+        1280,
+        900
+      ],
+      "ref": "wb75bccfc",
+      "title": "notebook.ctd - /app/candidate-state/session/files/outbox - CherryTree 1.7.2"
+    }
+  ]
+}

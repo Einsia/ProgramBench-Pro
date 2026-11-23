@@ -1,0 +1,518 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        33,
+        227,
+        420,
+        594
+      ],
+      "ref": "canvas0",
+      "tag": "canvas"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        763,
+        93,
+        78,
+        36
+      ],
+      "ref": "e4e03dd08",
+      "tag": "button",
+      "text": "Undo"
+    },
+    {
+      "bounds": [
+        849,
+        93,
+        77,
+        36
+      ],
+      "disabled": true,
+      "ref": "eb4b6debe",
+      "tag": "button",
+      "text": "Redo"
+    },
+    {
+      "bounds": [
+        934,
+        93,
+        105,
+        36
+      ],
+      "ref": "eb8a32bba",
+      "tag": "button",
+      "text": "Delete All"
+    },
+    {
+      "bounds": [
+        1047,
+        93,
+        80,
+        36
+      ],
+      "ref": "efc9d1203",
+      "tag": "button",
+      "text": "Reset"
+    },
+    {
+      "bounds": [
+        1135,
+        93,
+        129,
+        36
+      ],
+      "ref": "e3005f4e3",
+      "tag": "button",
+      "text": "Back to Tools"
+    },
+    {
+      "bounds": [
+        32,
+        174,
+        44,
+        36
+      ],
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        156,
+        174,
+        44,
+        36
+      ],
+      "ref": "ea0fc21fdx2",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        273,
+        177,
+        64,
+        30
+      ],
+      "label": "Go to:",
+      "ref": "ef543d5f3",
+      "tag": "input",
+      "type": "number",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        345,
+        178,
+        43,
+        28
+      ],
+      "ref": "e1206c0ac",
+      "tag": "button",
+      "text": "Go"
+    },
+    {
+      "bounds": [
+        413,
+        174,
+        44,
+        36
+      ],
+      "ref": "e0320dcf9",
+      "tag": "button",
+      "title": "Zoom Out"
+    },
+    {
+      "bounds": [
+        533,
+        174,
+        44,
+        36
+      ],
+      "ref": "e25e1d66e",
+      "tag": "button",
+      "title": "Zoom In"
+    },
+    {
+      "bounds": [
+        585,
+        178,
+        39,
+        28
+      ],
+      "ref": "eb1de575a",
+      "tag": "button",
+      "text": "Fit",
+      "title": "Fit to Width"
+    },
+    {
+      "bounds": [
+        672,
+        218,
+        592,
+        38
+      ],
+      "placeholder": "Search bookmarks...",
+      "ref": "e5392364d",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        684,
+        284,
+        568,
+        38
+      ],
+      "placeholder": "Bookmark title...",
+      "ref": "e5392364dx2",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        684,
+        330,
+        568,
+        44
+      ],
+      "ref": "e8f35c5a0",
+      "tag": "button",
+      "text": "Add to Page 1"
+    },
+    {
+      "bounds": [
+        672,
+        404,
+        16,
+        16
+      ],
+      "checked": false,
+      "label": "Batch Mode ( 0 selected)",
+      "ref": "ee2011167",
+      "tag": "input",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        672,
+        438,
+        292,
+        36
+      ],
+      "ref": "e2757b055",
+      "tag": "button",
+      "text": "Expand All"
+    },
+    {
+      "bounds": [
+        972,
+        438,
+        292,
+        36
+      ],
+      "ref": "e0442e6a6",
+      "tag": "button",
+      "text": "Collapse All"
+    },
+    {
+      "bounds": [
+        672,
+        490,
+        292,
+        36
+      ],
+      "ref": "ed0210e7f",
+      "tag": "button",
+      "text": "Import"
+    },
+    {
+      "bounds": [
+        972,
+        490,
+        292,
+        36
+      ],
+      "ref": "e17c4fc54",
+      "tag": "button",
+      "text": "Export"
+    },
+    {
+      "bounds": [
+        738,
+        560,
+        420,
+        44
+      ],
+      "ref": "e3dbdf78f",
+      "tag": "div",
+      "text": "Harbor Introduction Page 1"
+    },
+    {
+      "bounds": [
+        1166,
+        570,
+        24,
+        24
+      ],
+      "ref": "e9d97bd73",
+      "tag": "button",
+      "title": "Add child"
+    },
+    {
+      "bounds": [
+        1194,
+        570,
+        24,
+        24
+      ],
+      "ref": "ec3958298",
+      "tag": "button",
+      "title": "Edit"
+    },
+    {
+      "bounds": [
+        1222,
+        570,
+        24,
+        24
+      ],
+      "ref": "e56a78f49",
+      "tag": "button",
+      "title": "Delete"
+    },
+    {
+      "bounds": [
+        714,
+        644,
+        16,
+        16
+      ],
+      "ref": "ea0fc21fdx3",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        738,
+        630,
+        420,
+        44
+      ],
+      "ref": "e251f3b76",
+      "tag": "div",
+      "text": "North Shore Page 2"
+    },
+    {
+      "bounds": [
+        1166,
+        640,
+        24,
+        24
+      ],
+      "ref": "e9d97bd73x2",
+      "tag": "button",
+      "title": "Add child"
+    },
+    {
+      "bounds": [
+        1194,
+        640,
+        24,
+        24
+      ],
+      "ref": "ec3958298x2",
+      "tag": "button",
+      "title": "Edit"
+    },
+    {
+      "bounds": [
+        1222,
+        640,
+        24,
+        24
+      ],
+      "ref": "e56a78f49x2",
+      "tag": "button",
+      "title": "Delete"
+    },
+    {
+      "bounds": [
+        762,
+        700,
+        396,
+        44
+      ],
+      "ref": "e3f6b226c",
+      "tag": "div",
+      "text": "North Annex Page 3"
+    },
+    {
+      "bounds": [
+        1166,
+        710,
+        24,
+        24
+      ],
+      "ref": "e9d97bd73x3",
+      "tag": "button",
+      "title": "Add child"
+    },
+    {
+      "bounds": [
+        1194,
+        710,
+        24,
+        24
+      ],
+      "ref": "ec3958298x3",
+      "tag": "button",
+      "title": "Edit"
+    },
+    {
+      "bounds": [
+        1222,
+        710,
+        24,
+        24
+      ],
+      "ref": "e56a78f49x3",
+      "tag": "button",
+      "title": "Delete"
+    },
+    {
+      "bounds": [
+        714,
+        784,
+        16,
+        16
+      ],
+      "ref": "ea0fc21fdx4",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        738,
+        770,
+        420,
+        44
+      ],
+      "ref": "e65c15492",
+      "tag": "div",
+      "text": "South Shore Page 4"
+    },
+    {
+      "bounds": [
+        1166,
+        780,
+        24,
+        24
+      ],
+      "ref": "e9d97bd73x4",
+      "tag": "button",
+      "title": "Add child"
+    },
+    {
+      "bounds": [
+        1194,
+        780,
+        24,
+        24
+      ],
+      "ref": "ec3958298x4",
+      "tag": "button",
+      "title": "Edit"
+    },
+    {
+      "bounds": [
+        1222,
+        780,
+        24,
+        24
+      ],
+      "ref": "e56a78f49x4",
+      "tag": "button",
+      "title": "Delete"
+    },
+    {
+      "bounds": [
+        762,
+        840,
+        396,
+        44
+      ],
+      "ref": "e2ee3bdc0",
+      "tag": "div",
+      "text": "South Annex Page 5"
+    },
+    {
+      "bounds": [
+        1166,
+        850,
+        24,
+        24
+      ],
+      "ref": "e9d97bd73x5",
+      "tag": "button",
+      "title": "Add child"
+    },
+    {
+      "bounds": [
+        1194,
+        850,
+        24,
+        24
+      ],
+      "ref": "ec3958298x5",
+      "tag": "button",
+      "title": "Edit"
+    },
+    {
+      "bounds": [
+        1222,
+        850,
+        24,
+        24
+      ],
+      "ref": "e56a78f49x5",
+      "tag": "button",
+      "title": "Delete"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "bookmarks.pdf",
+      "ref": "dd23d0d7ca447",
+      "size": 3158
+    }
+  ],
+  "inputs": [
+    "bookmark-import.csv",
+    "bookmark-import.json",
+    "bookmarks.pdf",
+    "report.pdf"
+  ],
+  "text": "BentoPDF\nbookmarks.pdf\nUndo\nRedo\nDelete All\nReset\nBack to Tools\nPage 1 / 6\nGo to:\nGo\n100%\nFit\nBookmarks\nAdd to Page 1\nBatch Mode (0 selected)\nExpand All\nCollapse All\nImport\nExport\nHarbor Introduction\nPage 1\nNorth Shore\nPage 2\nNorth Annex\nPage 3\nSouth Shore\nPage 4\nSouth Annex\nPage 5\nAppendix\nPage 6\nSave PDF with Bookmarks\nExtract Existing Bookmarks\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/bookmark.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

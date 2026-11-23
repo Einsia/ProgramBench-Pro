@@ -1,0 +1,573 @@
+{
+  "focused": "e5511204c",
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        1024
+      ],
+      "name": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),",
+      "ref": "e93ed40b7",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        25
+      ],
+      "name": "",
+      "ref": "e37b0c28a",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        39,
+        25
+      ],
+      "name": "File",
+      "ref": "eae5e7196",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        39,
+        19,
+        75,
+        25
+      ],
+      "name": "Accounts",
+      "ref": "ecb5893cc",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        114,
+        19,
+        49,
+        25
+      ],
+      "name": "Tools",
+      "ref": "ec5eeafb2",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        163,
+        19,
+        48,
+        25
+      ],
+      "name": "View",
+      "ref": "eb0ba3d40",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        211,
+        19,
+        46,
+        25
+      ],
+      "name": "Help",
+      "ref": "ef594ac36",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        1,
+        995,
+        200,
+        6
+      ],
+      "name": "",
+      "ref": "ef36204a0",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        314,
+        8,
+        651,
+        1008
+      ],
+      "name": "Settings",
+      "ref": "eb693f295",
+      "role": "frame",
+      "states": [
+        "active",
+        "modal"
+      ]
+    },
+    {
+      "bounds": [
+        433,
+        48,
+        519,
+        63
+      ],
+      "name": "Display Heading",
+      "ref": "e1cdeb1b8",
+      "role": "panel",
+      "visible": [
+        433,
+        48,
+        516,
+        63
+      ]
+    },
+    {
+      "bounds": [
+        439,
+        79,
+        74,
+        17
+      ],
+      "name": "User Name",
+      "ref": "ef13092de",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        523,
+        71,
+        423,
+        34
+      ],
+      "description": "The User Name is used as a title for the database.",
+      "name": "",
+      "ref": "e164cb8a4",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "Morgan Household"
+    },
+    {
+      "bounds": [
+        433,
+        48,
+        125,
+        17
+      ],
+      "name": "Display Heading",
+      "ref": "ed315d4b1",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        433,
+        121,
+        519,
+        63
+      ],
+      "name": "User Interface Language",
+      "ref": "e407977d5",
+      "role": "panel",
+      "visible": [
+        433,
+        121,
+        516,
+        63
+      ]
+    },
+    {
+      "bounds": [
+        439,
+        144,
+        200,
+        34
+      ],
+      "description": "Change user interface language",
+      "name": "System default",
+      "ref": "e05856997",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        433,
+        121,
+        186,
+        17
+      ],
+      "name": "User Interface Language",
+      "ref": "e52bcb16e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        433,
+        194,
+        519,
+        63
+      ],
+      "name": "Date Format",
+      "ref": "ec624030a",
+      "role": "panel",
+      "visible": [
+        433,
+        194,
+        516,
+        63
+      ]
+    },
+    {
+      "bounds": [
+        439,
+        217,
+        143,
+        34
+      ],
+      "description": "Specify the date format for display",
+      "name": "DD/MM/YYYY",
+      "ref": "e599e3472",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        743,
+        225,
+        73,
+        17
+      ],
+      "name": "15/06/2026",
+      "ref": "ed28cc6b9",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        602,
+        225,
+        136,
+        17
+      ],
+      "name": "Date format sample:",
+      "ref": "e1ad52618",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        433,
+        194,
+        94,
+        17
+      ],
+      "name": "Date Format",
+      "ref": "e65d59db8",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        433,
+        267,
+        519,
+        197
+      ],
+      "name": "Currency",
+      "ref": "e6f4039e9",
+      "role": "panel",
+      "visible": [
+        433,
+        267,
+        516,
+        197
+      ]
+    },
+    {
+      "bounds": [
+        439,
+        298,
+        95,
+        17
+      ],
+      "name": "Base Currency",
+      "ref": "e99e0c013",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        544,
+        290,
+        200,
+        34
+      ],
+      "name": "",
+      "ref": "eb3b6e7e0",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        544,
+        290,
+        164,
+        34
+      ],
+      "description": "Set default database currency using 'Currency Manager'",
+      "name": "",
+      "ref": "e089f833d",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "US dollar"
+    },
+    {
+      "bounds": [
+        439,
+        344,
+        100,
+        34
+      ],
+      "name": "",
+      "ref": "e6482c0cc",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        439,
+        344,
+        64,
+        34
+      ],
+      "name": "",
+      "ref": "e8cd74992",
+      "role": "text",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        559,
+        352,
+        1,
+        17
+      ],
+      "name": "",
+      "ref": "e132a6334",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        439,
+        383,
+        426,
+        34
+      ],
+      "name": "Format derived from locale.\nLeave blank to manually set format via 'Currency Manager | Edit'",
+      "ref": "e99ada32e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        439,
+        437,
+        177,
+        21
+      ],
+      "description": "Select to use historical currency (one rate for each day), deselect to use a fixed rate",
+      "name": "Use historical currency",
+      "ref": "efd968fa0",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        433,
+        267,
+        68,
+        17
+      ],
+      "name": "Currency",
+      "ref": "ec42f99fd",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        433,
+        474,
+        519,
+        107
+      ],
+      "name": "Financial Year",
+      "ref": "ef21ed8fd",
+      "role": "panel",
+      "visible": [
+        433,
+        474,
+        516,
+        107
+      ]
+    },
+    {
+      "bounds": [
+        439,
+        505,
+        59,
+        17
+      ],
+      "name": "First Day",
+      "ref": "e300ae024",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        523,
+        497,
+        116,
+        34
+      ],
+      "description": "Specify Day for start of financial year",
+      "name": "",
+      "ref": "e83ef18ca",
+      "role": "spin button",
+      "states": [
+        "editable"
+      ],
+      "text": "6",
+      "value": 6.0
+    },
+    {
+      "bounds": [
+        439,
+        549,
+        74,
+        17
+      ],
+      "name": "First Month",
+      "ref": "eecb781a4",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        523,
+        541,
+        100,
+        34
+      ],
+      "description": "Specify month for start of financial year",
+      "name": "Apr",
+      "ref": "e37e8f5bb",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        433,
+        474,
+        106,
+        17
+      ],
+      "name": "Financial Year",
+      "ref": "e33dab016",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        428,
+        580,
+        521,
+        6
+      ],
+      "name": "",
+      "ref": "e074c7d20",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        943,
+        43,
+        6,
+        543
+      ],
+      "name": "",
+      "ref": "e91b4fec9",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        325,
+        955,
+        629,
+        2
+      ],
+      "name": "",
+      "ref": "eee02b912",
+      "role": "separator"
+    },
+    {
+      "bounds": [
+        502,
+        967,
+        85,
+        34
+      ],
+      "name": "OK",
+      "ref": "e5511204c",
+      "role": "push button",
+      "states": [
+        "focused"
+      ]
+    },
+    {
+      "bounds": [
+        597,
+        967,
+        85,
+        34
+      ],
+      "name": "Apply",
+      "ref": "e66f03ad0",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        692,
+        967,
+        85,
+        34
+      ],
+      "name": "Cancel",
+      "ref": "e37b2f021",
+      "role": "push button"
+    }
+  ],
+  "screen": [
+    1280,
+    1024
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": false,
+      "bounds": [
+        0,
+        38,
+        1280,
+        1005
+      ],
+      "ref": "w5b3c0310",
+      "title": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),"
+    },
+    {
+      "active": true,
+      "bounds": [
+        316,
+        48,
+        649,
+        983
+      ],
+      "ref": "wd7fc1b2f",
+      "title": "Settings"
+    }
+  ]
+}

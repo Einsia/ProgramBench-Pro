@@ -1,0 +1,286 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        4,
+        0,
+        48,
+        48
+      ],
+      "ref": "e11102633781375530811",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        52,
+        0,
+        48,
+        48
+      ],
+      "href": "/g/home",
+      "ref": "e6999663049315888676",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        52,
+        0,
+        48,
+        48
+      ],
+      "ref": "e11102632681863902600",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        964,
+        4,
+        214,
+        40
+      ],
+      "placeholder": "Press '/'",
+      "ref": "e8266481313866675366",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1178,
+        6,
+        98,
+        36
+      ],
+      "ref": "e18428108610740647529",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        0,
+        48,
+        255,
+        76
+      ],
+      "href": "/user/profile",
+      "ref": "e9026058544016782197",
+      "role": null,
+      "tag": "a",
+      "text": "Change Me\nFavorite Recipes"
+    },
+    {
+      "bounds": [
+        64,
+        84,
+        123,
+        28
+      ],
+      "href": "/user/92f1dca3-d71c-4fbd-bd94-55f1c7e0b3eb/favorites",
+      "ref": "e14013455441632128615",
+      "role": null,
+      "tag": "a",
+      "text": "Favorite Recipes"
+    },
+    {
+      "bounds": [
+        8,
+        137,
+        118,
+        44
+      ],
+      "expanded": false,
+      "ref": "e3474039823230350343",
+      "role": null,
+      "tag": "button",
+      "text": "Create",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        189,
+        239,
+        44
+      ],
+      "href": "/g/home",
+      "ref": "e18093976238526241986",
+      "role": "link",
+      "tag": "a",
+      "text": "Recipes"
+    },
+    {
+      "bounds": [
+        8,
+        233,
+        239,
+        44
+      ],
+      "href": "/g/home/recipes/finder",
+      "ref": "e7707295927814897631",
+      "role": "link",
+      "tag": "a",
+      "text": "Recipe Finder"
+    },
+    {
+      "bounds": [
+        8,
+        277,
+        239,
+        44
+      ],
+      "href": "/household/mealplan/planner/view",
+      "ref": "e15345382085259656294",
+      "role": "link",
+      "tag": "a",
+      "text": "Meal Planner"
+    },
+    {
+      "bounds": [
+        8,
+        321,
+        239,
+        44
+      ],
+      "href": "/shopping-lists",
+      "ref": "e1392928906823606240",
+      "role": "link",
+      "tag": "a",
+      "text": "Shopping Lists"
+    },
+    {
+      "bounds": [
+        8,
+        365,
+        239,
+        44
+      ],
+      "href": "/g/home/recipes/timeline",
+      "ref": "e14323894326858449786",
+      "role": "link",
+      "tag": "a",
+      "text": "Timeline"
+    },
+    {
+      "bounds": [
+        8,
+        409,
+        239,
+        44
+      ],
+      "href": "/g/home/cookbooks",
+      "ref": "e12188956910744264135",
+      "role": "link",
+      "tag": "a",
+      "text": "Cookbooks"
+    },
+    {
+      "bounds": [
+        8,
+        453,
+        239,
+        44
+      ],
+      "ref": "e18331291136850913378",
+      "role": "listitem",
+      "tag": "div",
+      "text": "Organizers"
+    },
+    {
+      "bounds": [
+        8,
+        800,
+        239,
+        44
+      ],
+      "ref": "e7515112489125091175",
+      "role": "listitem",
+      "tag": "div",
+      "text": "1\nAnnouncements"
+    },
+    {
+      "bounds": [
+        8,
+        848,
+        239,
+        44
+      ],
+      "expanded": false,
+      "ref": "e9453406036293201081",
+      "role": "listitem",
+      "tag": "div",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        400,
+        464,
+        736,
+        56
+      ],
+      "label": "Token Name",
+      "ref": "e2885275426064196487",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1039,
+        566,
+        97,
+        36
+      ],
+      "disabled": true,
+      "ref": "e13791166998878537868",
+      "role": null,
+      "tag": "button",
+      "text": "Generate",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1058,
+        737,
+        78,
+        28
+      ],
+      "ref": "e12889382620698827616",
+      "role": null,
+      "tag": "button",
+      "text": "Delete",
+      "type": "button"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Mealie\nLogout\nChange Me\nFavorite Recipes\nCreate\nRecipes\nRecipe Finder\nMeal Planner\nShopping Lists\nTimeline\nCookbooks\nOrganizers\n1\nAnnouncements\nSettings\nAPI Tokens\nYou have one active token.\nCreate an API Token\nToken Name\nGenerate\nACTIVE TOKENS\nKitchen tablet\nCreated on: 11/1/2026\nDelete",
+  "text_truncated": false,
+  "title": "API Tokens",
+  "url": "/user/profile/api-tokens/",
+  "viewport": [
+    1280,
+    900
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "controls": [
+    {
+      "aria": "Skip to content",
+      "bounds": [
+        16,
+        -80,
+        145,
+        39
+      ],
+      "offscreen": true,
+      "ref": "e423",
+      "role": null,
+      "tag": "button",
+      "text": "SKIP TO CONTENT",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        5,
+        0,
+        48,
+        48
+      ],
+      "ref": "e424",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Close menu",
+      "type": "button"
+    },
+    {
+      "aria": "Refresh",
+      "bounds": [
+        1160,
+        0,
+        48,
+        48
+      ],
+      "ref": "e425",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Refresh",
+      "type": "button"
+    },
+    {
+      "aria": "Settings",
+      "bounds": [
+        1208,
+        0,
+        48,
+        48
+      ],
+      "ref": "e426",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Settings",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        0,
+        56,
+        240,
+        36
+      ],
+      "ref": "e427",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "Albums"
+    },
+    {
+      "bounds": [
+        0,
+        92,
+        240,
+        36
+      ],
+      "href": "/app/#/album/all",
+      "ref": "e428",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        0,
+        128,
+        240,
+        36
+      ],
+      "href": "/app/#/album/random",
+      "ref": "e429",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Random"
+    },
+    {
+      "bounds": [
+        0,
+        164,
+        240,
+        36
+      ],
+      "href": "/app/#/album/starred",
+      "ref": "e430",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Favourites"
+    },
+    {
+      "bounds": [
+        0,
+        200,
+        240,
+        36
+      ],
+      "href": "/app/#/album/topRated",
+      "ref": "e431",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Top Rated"
+    },
+    {
+      "bounds": [
+        0,
+        236,
+        240,
+        36
+      ],
+      "href": "/app/#/album/recentlyAdded",
+      "ref": "e432",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Recently Added"
+    },
+    {
+      "bounds": [
+        0,
+        272,
+        240,
+        36
+      ],
+      "href": "/app/#/album/recentlyPlayed",
+      "ref": "e433",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Recently Played"
+    },
+    {
+      "bounds": [
+        0,
+        308,
+        240,
+        36
+      ],
+      "href": "/app/#/album/mostPlayed",
+      "ref": "e434",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Most Played"
+    },
+    {
+      "bounds": [
+        0,
+        344,
+        240,
+        36
+      ],
+      "href": "/app/#/artist",
+      "ref": "e435",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Artists"
+    },
+    {
+      "bounds": [
+        0,
+        380,
+        240,
+        36
+      ],
+      "href": "/app/#/song",
+      "ref": "e436",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Songs"
+    },
+    {
+      "bounds": [
+        0,
+        416,
+        240,
+        36
+      ],
+      "href": "/app/#/radio",
+      "ref": "e437",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Radios"
+    },
+    {
+      "bounds": [
+        0,
+        452,
+        240,
+        36
+      ],
+      "href": "/app/#/share",
+      "ref": "e438",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Shares"
+    },
+    {
+      "bounds": [
+        0,
+        489,
+        240,
+        38
+      ],
+      "ref": "e439",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "Playlists"
+    },
+    {
+      "bounds": [
+        261,
+        96,
+        256,
+        40
+      ],
+      "label": "Name *",
+      "name": "name",
+      "ref": "e440",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "Bobby Tables"
+    },
+    {
+      "bounds": [
+        261,
+        192,
+        256,
+        40
+      ],
+      "label": "Email",
+      "name": "email",
+      "ref": "e441",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "bob@example.test"
+    },
+    {
+      "bounds": [
+        250,
+        260,
+        251,
+        38
+      ],
+      "checked": false,
+      "label": "Change Password?",
+      "name": "changePassword",
+      "proxy": true,
+      "ref": "e442",
+      "role": null,
+      "tag": "input",
+      "text": "Change Password?",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        275,
+        339,
+        612,
+        38
+      ],
+      "label": "Scrobble filter",
+      "name": "scrobbleFilter",
+      "ref": "e443",
+      "role": null,
+      "tag": "textarea",
+      "text": "",
+      "type": "textarea",
+      "value": ""
+    },
+    {
+      "aria": "Save",
+      "bounds": [
+        269,
+        741,
+        96,
+        37
+      ],
+      "disabled": true,
+      "ref": "e444",
+      "role": null,
+      "tag": "button",
+      "text": "SAVE"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "SKIP TO CONTENT\nNavidrome - User Bobby Tables\nAlbums\nAll\nRandom\nFavourites\nTop Rated\nRecently Added\nRecently Played\nMost Played\nArtists\nSongs\nRadios\nShares\nPlaylists\nName *\n\nChanges to your name will only be reflected on next login\n\nEmail\n\n​\n\nChange Password?\n\n​\n\nScrobble filter\n\nSongs matching these smart playlist rules are not sent to Last.fm, ListenBrainz or scrobbler plugins. Uses the same JSON syntax and behavior as smart playlists. Example: {\"all\":[{\"lt\":{\"rating\":4}}]}. Leave empty to scrobble everything. Local play counts are not affected.\n\nLast Login\n11/1/2026, 7:34:33 AM\nLast Access\n11/1/2026, 7:34:34 AM\nUpdated at\n11/1/2026, 7:34:34 AM\nCreated at\n11/1/2026, 7:34:18 AM\nSAVE\nUser updated",
+  "text_truncated": false,
+  "title": "Navidrome",
+  "url": "/app/#/user/47RPS31qoWaZvxoe7y7rfm",
+  "viewport": [
+    1280,
+    900
+  ]
+}

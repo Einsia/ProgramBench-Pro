@@ -1,0 +1,30 @@
+{
+  "task": "navidrome",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "Navidrome",
+    "version": "0.64.2",
+    "homepage": "https://www.navidrome.org/",
+    "repository": "https://github.com/navidrome/navidrome",
+    "license": "GPL-3.0-only"
+  },
+  "downloads": [
+    {
+      "file": "navidrome_0.64.2_linux_amd64.tar.gz",
+      "url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_0.64.2_linux_amd64.tar.gz",
+      "sha256": "fdd87fd107818667c2c50bc24dc6ce856962c795b3822a91f95c066cfad2c53e"
+    }
+  ],
+  "bundled": [],
+  "modifications": "none; the official executable is unchanged. Local launch scripts only configure and initialize the instance.",
+  "configuration": "start.sh: ND_ environment variables only; plugins, external services, insights, scrobblers and the folder watcher off; music folder and data folder from the runtime",
+  "notes": {
+    "release_url": "https://github.com/navidrome/navidrome/releases/tag/v0.64.2",
+    "source_url": "https://github.com/navidrome/navidrome/archive/refs/tags/v0.64.2.tar.gz",
+    "source_sha256": "6d6de86c7509620dd445be9c22f2441225c9d86f009317c9b92923ad3a83ddb5",
+    "checksum_url": "https://github.com/navidrome/navidrome/releases/download/v0.64.2/navidrome_checksums.txt",
+    "license_url": "https://raw.githubusercontent.com/navidrome/navidrome/v0.64.2/LICENSE",
+    "binary_member": "navidrome",
+    "installed_binary": "navidrome"
+  }
+}

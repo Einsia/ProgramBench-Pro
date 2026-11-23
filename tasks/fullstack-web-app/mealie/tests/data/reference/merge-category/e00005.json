@@ -1,0 +1,633 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        4,
+        0,
+        48,
+        48
+      ],
+      "ref": "e11102633781375530811",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        52,
+        0,
+        48,
+        48
+      ],
+      "href": "/g/home",
+      "ref": "e6999663049315888676",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        52,
+        0,
+        48,
+        48
+      ],
+      "ref": "e11102632681863902600",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        964,
+        4,
+        214,
+        40
+      ],
+      "placeholder": "Press '/'",
+      "ref": "e8266481313866675366",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1178,
+        6,
+        98,
+        36
+      ],
+      "ref": "e18428108610740647529",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        0,
+        48,
+        255,
+        76
+      ],
+      "href": "/user/profile",
+      "ref": "e9026058544016782197",
+      "role": null,
+      "tag": "a",
+      "text": "Change Me\nFavorite Recipes"
+    },
+    {
+      "bounds": [
+        64,
+        84,
+        123,
+        28
+      ],
+      "href": "/user/9c46adf4-bd27-4998-bb71-4b2b80134f46/favorites",
+      "ref": "e14013455441632128615",
+      "role": null,
+      "tag": "a",
+      "text": "Favorite Recipes"
+    },
+    {
+      "bounds": [
+        8,
+        137,
+        118,
+        44
+      ],
+      "expanded": false,
+      "ref": "e3474039823230350343",
+      "role": null,
+      "tag": "button",
+      "text": "Create",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        189,
+        239,
+        44
+      ],
+      "href": "/g/home",
+      "ref": "e18093976238526241986",
+      "role": "link",
+      "tag": "a",
+      "text": "Recipes"
+    },
+    {
+      "bounds": [
+        8,
+        233,
+        239,
+        44
+      ],
+      "href": "/g/home/recipes/finder",
+      "ref": "e7707295927814897631",
+      "role": "link",
+      "tag": "a",
+      "text": "Recipe Finder"
+    },
+    {
+      "bounds": [
+        8,
+        277,
+        239,
+        44
+      ],
+      "href": "/household/mealplan/planner/view",
+      "ref": "e15345382085259656294",
+      "role": "link",
+      "tag": "a",
+      "text": "Meal Planner"
+    },
+    {
+      "bounds": [
+        8,
+        321,
+        239,
+        44
+      ],
+      "href": "/shopping-lists",
+      "ref": "e1392928906823606240",
+      "role": "link",
+      "tag": "a",
+      "text": "Shopping Lists"
+    },
+    {
+      "bounds": [
+        8,
+        365,
+        239,
+        44
+      ],
+      "href": "/g/home/recipes/timeline",
+      "ref": "e14323894326858449786",
+      "role": "link",
+      "tag": "a",
+      "text": "Timeline"
+    },
+    {
+      "bounds": [
+        8,
+        409,
+        239,
+        44
+      ],
+      "href": "/g/home/cookbooks",
+      "ref": "e12188956910744264135",
+      "role": "link",
+      "tag": "a",
+      "text": "Cookbooks"
+    },
+    {
+      "bounds": [
+        8,
+        453,
+        239,
+        44
+      ],
+      "ref": "e18331291136850913378",
+      "role": "listitem",
+      "tag": "div",
+      "text": "Organizers"
+    },
+    {
+      "bounds": [
+        8,
+        800,
+        239,
+        44
+      ],
+      "ref": "e7515112489125091175",
+      "role": "listitem",
+      "tag": "div",
+      "text": "1\nAnnouncements"
+    },
+    {
+      "bounds": [
+        8,
+        848,
+        239,
+        44
+      ],
+      "expanded": false,
+      "ref": "e9453406036293201081",
+      "role": "listitem",
+      "tag": "div",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        648,
+        108,
+        240,
+        48
+      ],
+      "checked": true,
+      "label": "Rating 0 of 5",
+      "name": "v-rating-v-0-15",
+      "proxy": true,
+      "ref": "e6929515976995598463",
+      "role": null,
+      "tag": "input",
+      "text": "Rating 0 of 5\nRating 1 of 5\nRating 2 of 5\nRating 3 of 5\nRating 4 of 5\nRating 5 of 5",
+      "type": "radio",
+      "value": "0"
+    },
+    {
+      "aria": "Rating 1 of 5",
+      "bounds": [
+        648,
+        108,
+        48,
+        48
+      ],
+      "ref": "e1495547221415265442",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        648,
+        108,
+        48,
+        48
+      ],
+      "checked": false,
+      "label": "Rating 1 of 5",
+      "name": "v-rating-v-0-15",
+      "proxy": true,
+      "ref": "e11077377673696248417",
+      "role": null,
+      "tag": "input",
+      "text": "Rating 1 of 5",
+      "type": "radio",
+      "value": "1"
+    },
+    {
+      "aria": "Rating 2 of 5",
+      "bounds": [
+        696,
+        108,
+        48,
+        48
+      ],
+      "ref": "e4130790483417565743",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        696,
+        108,
+        48,
+        48
+      ],
+      "checked": false,
+      "label": "Rating 2 of 5",
+      "name": "v-rating-v-0-15",
+      "proxy": true,
+      "ref": "e17455098112945837949",
+      "role": null,
+      "tag": "input",
+      "text": "Rating 2 of 5",
+      "type": "radio",
+      "value": "2"
+    },
+    {
+      "aria": "Rating 3 of 5",
+      "bounds": [
+        744,
+        108,
+        48,
+        48
+      ],
+      "ref": "e17458353295524891324",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        744,
+        108,
+        48,
+        48
+      ],
+      "checked": false,
+      "label": "Rating 3 of 5",
+      "name": "v-rating-v-0-15",
+      "proxy": true,
+      "ref": "e10828368514859785733",
+      "role": null,
+      "tag": "input",
+      "text": "Rating 3 of 5",
+      "type": "radio",
+      "value": "3"
+    },
+    {
+      "aria": "Rating 4 of 5",
+      "bounds": [
+        792,
+        108,
+        48,
+        48
+      ],
+      "ref": "e13129488726303698129",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        792,
+        108,
+        48,
+        48
+      ],
+      "checked": false,
+      "label": "Rating 4 of 5",
+      "name": "v-rating-v-0-15",
+      "proxy": true,
+      "ref": "e14576057970011490241",
+      "role": null,
+      "tag": "input",
+      "text": "Rating 4 of 5",
+      "type": "radio",
+      "value": "4"
+    },
+    {
+      "aria": "Rating 5 of 5",
+      "bounds": [
+        840,
+        108,
+        48,
+        48
+      ],
+      "ref": "e8736810944343549998",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        840,
+        108,
+        48,
+        48
+      ],
+      "checked": false,
+      "label": "Rating 5 of 5",
+      "name": "v-rating-v-0-15",
+      "proxy": true,
+      "ref": "e11604886827605745881",
+      "role": null,
+      "tag": "input",
+      "text": "Rating 5 of 5",
+      "type": "radio",
+      "value": "5"
+    },
+    {
+      "bounds": [
+        678,
+        199,
+        179,
+        44
+      ],
+      "ref": "e16371026428496499728",
+      "role": null,
+      "tag": "button",
+      "text": "Last Made\nNever",
+      "title": "I Made This",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1084,
+        268,
+        40,
+        40
+      ],
+      "ref": "e11102635980398787233",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Add to Favorites",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1128,
+        268,
+        40,
+        40
+      ],
+      "ref": "e11102634880887159022",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Open Timeline",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1172,
+        268,
+        40,
+        40
+      ],
+      "ref": "e11102638179422043655",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Edit",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1216,
+        268,
+        40,
+        40
+      ],
+      "expanded": false,
+      "ref": "e11102637079910415444",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        284,
+        336,
+        105,
+        28
+      ],
+      "expanded": false,
+      "ref": "e17930323392137177295",
+      "role": null,
+      "tag": "div",
+      "text": "As written",
+      "title": "Units"
+    },
+    {
+      "bounds": [
+        534,
+        376,
+        48,
+        48
+      ],
+      "ref": "e11102640378445300077",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        284,
+        427,
+        298,
+        47
+      ],
+      "ref": "e10475834782848747989",
+      "role": null,
+      "tag": "div",
+      "text": "1 Cup Flour"
+    },
+    {
+      "bounds": [
+        284,
+        428,
+        36,
+        36
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e1209064198207995387",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "true"
+    },
+    {
+      "bounds": [
+        300,
+        579,
+        92,
+        32
+      ],
+      "ref": "e2402521830903287049",
+      "role": null,
+      "tag": "span",
+      "text": "Weeknight"
+    },
+    {
+      "bounds": [
+        1125,
+        376,
+        127,
+        36
+      ],
+      "ref": "e773206124364125404",
+      "role": null,
+      "tag": "button",
+      "text": "Cook Mode",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        631,
+        559,
+        57,
+        17
+      ],
+      "href": "[external]",
+      "ref": "e12294234327046802232",
+      "role": null,
+      "tag": "a",
+      "text": "My Link"
+    },
+    {
+      "aria": "Keep Screen Awake",
+      "bounds": [
+        1104,
+        695,
+        156,
+        56
+      ],
+      "checked": true,
+      "label": "Keep Screen Awake",
+      "proxy": true,
+      "ref": "e12317638812946335990",
+      "role": null,
+      "tag": "input",
+      "text": "Keep Screen Awake",
+      "type": "checkbox",
+      "value": "true"
+    },
+    {
+      "bounds": [
+        322,
+        857,
+        942,
+        64
+      ],
+      "placeholder": "Join the Conversation",
+      "ref": "e11980465735677841110",
+      "role": null,
+      "tag": "textarea",
+      "text": "",
+      "type": "textarea",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1184,
+        925,
+        80,
+        28
+      ],
+      "disabled": true,
+      "offscreen": true,
+      "ref": "e2152457825703979251",
+      "role": null,
+      "tag": "button",
+      "text": "Submit",
+      "type": "button"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    985
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Mealie\nLogout\nChange Me\nFavorite Recipes\nCreate\nRecipes\nRecipe Finder\nMeal Planner\nShopping Lists\nTimeline\nCookbooks\nOrganizers\n1\nAnnouncements\nSettings\nMerge Soup\nRating 0 of 5\nRating 1 of 5\nRating 2 of 5\nRating 3 of 5\nRating 4 of 5\nRating 5 of 5\nLast Made\nNever\nAs written\nServes 1\nIngredients\n\n1 Cup Flour\n\nCategories\nWeeknight\nInstructions\nCook Mode\nStep: 1\n\nRecipe steps as well as other fields in the recipe page support markdown syntax.\n\nAdd a link\n\nMy Link\n\nKeep Screen Awake\n Comments\nSubmit",
+  "text_truncated": false,
+  "title": "Merge Soup",
+  "url": "/g/home/r/merge-soup",
+  "viewport": [
+    1280,
+    900
+  ]
+}

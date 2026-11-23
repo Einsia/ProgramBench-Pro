@@ -1,0 +1,448 @@
+{
+  "controls": [
+    {
+      "aria": "Skip to content",
+      "bounds": [
+        16,
+        -80,
+        145,
+        39
+      ],
+      "offscreen": true,
+      "ref": "e318",
+      "role": null,
+      "tag": "button",
+      "text": "SKIP TO CONTENT",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        5,
+        0,
+        48,
+        48
+      ],
+      "ref": "e319",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Close menu",
+      "type": "button"
+    },
+    {
+      "aria": "Refresh",
+      "bounds": [
+        1072,
+        0,
+        48,
+        48
+      ],
+      "ref": "e320",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Refresh",
+      "type": "button"
+    },
+    {
+      "aria": "Now Playing",
+      "bounds": [
+        1120,
+        2,
+        44,
+        44
+      ],
+      "ref": "e321",
+      "role": null,
+      "tag": "button",
+      "text": "0",
+      "title": "Now Playing",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1164,
+        2,
+        44,
+        44
+      ],
+      "ref": "e322",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Activity",
+      "type": "button"
+    },
+    {
+      "aria": "Settings",
+      "bounds": [
+        1208,
+        0,
+        48,
+        48
+      ],
+      "ref": "e323",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Settings",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        0,
+        56,
+        240,
+        36
+      ],
+      "ref": "e324",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "Albums"
+    },
+    {
+      "bounds": [
+        0,
+        92,
+        240,
+        36
+      ],
+      "href": "/app/#/album/all",
+      "ref": "e325",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        0,
+        128,
+        240,
+        36
+      ],
+      "href": "/app/#/album/random",
+      "ref": "e326",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Random"
+    },
+    {
+      "bounds": [
+        0,
+        164,
+        240,
+        36
+      ],
+      "href": "/app/#/album/starred",
+      "ref": "e327",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Favourites"
+    },
+    {
+      "bounds": [
+        0,
+        200,
+        240,
+        36
+      ],
+      "href": "/app/#/album/topRated",
+      "ref": "e328",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Top Rated"
+    },
+    {
+      "bounds": [
+        0,
+        236,
+        240,
+        36
+      ],
+      "href": "/app/#/album/recentlyAdded",
+      "ref": "e329",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Recently Added"
+    },
+    {
+      "bounds": [
+        0,
+        272,
+        240,
+        36
+      ],
+      "href": "/app/#/album/recentlyPlayed",
+      "ref": "e330",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Recently Played"
+    },
+    {
+      "bounds": [
+        0,
+        308,
+        240,
+        36
+      ],
+      "href": "/app/#/album/mostPlayed",
+      "ref": "e331",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Most Played"
+    },
+    {
+      "bounds": [
+        0,
+        344,
+        240,
+        36
+      ],
+      "href": "/app/#/artist",
+      "ref": "e332",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Artists"
+    },
+    {
+      "bounds": [
+        0,
+        380,
+        240,
+        36
+      ],
+      "href": "/app/#/song",
+      "ref": "e333",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Songs"
+    },
+    {
+      "bounds": [
+        0,
+        416,
+        240,
+        36
+      ],
+      "href": "/app/#/radio",
+      "ref": "e334",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Radios"
+    },
+    {
+      "bounds": [
+        0,
+        452,
+        240,
+        36
+      ],
+      "href": "/app/#/share",
+      "ref": "e335",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Shares"
+    },
+    {
+      "bounds": [
+        0,
+        489,
+        240,
+        38
+      ],
+      "ref": "e336",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "Playlists"
+    },
+    {
+      "bounds": [
+        0,
+        527,
+        240,
+        36
+      ],
+      "href": "/app/#/playlist/4vVJlRPydwJZp1drxqOcge/show",
+      "ref": "e337",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Favourites"
+    },
+    {
+      "bounds": [
+        261,
+        96,
+        256,
+        40
+      ],
+      "label": "Username *",
+      "name": "userName",
+      "ref": "e338",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "carol"
+    },
+    {
+      "bounds": [
+        261,
+        172,
+        256,
+        40
+      ],
+      "label": "Name *",
+      "name": "name",
+      "ref": "e339",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "Carol"
+    },
+    {
+      "bounds": [
+        261,
+        248,
+        256,
+        40
+      ],
+      "label": "Email",
+      "name": "email",
+      "ref": "e340",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "carol@example.test"
+    },
+    {
+      "bounds": [
+        250,
+        316,
+        251,
+        38
+      ],
+      "checked": false,
+      "label": "Change Password?",
+      "name": "changePassword",
+      "proxy": true,
+      "ref": "e341",
+      "role": null,
+      "tag": "input",
+      "text": "Change Password?",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        250,
+        377,
+        251,
+        38
+      ],
+      "checked": false,
+      "label": "Is Admin",
+      "name": "isAdmin",
+      "proxy": true,
+      "ref": "e342",
+      "role": null,
+      "tag": "input",
+      "text": "Is Admin",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        262,
+        487,
+        958,
+        38
+      ],
+      "ref": "e343",
+      "role": "button",
+      "tag": "div",
+      "text": "Music Library"
+    },
+    {
+      "bounds": [
+        287,
+        496,
+        20,
+        20
+      ],
+      "checked": true,
+      "proxy": true,
+      "ref": "e344",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        275,
+        670,
+        612,
+        38
+      ],
+      "label": "Scrobble filter",
+      "name": "scrobbleFilter",
+      "ref": "e345",
+      "role": null,
+      "tag": "textarea",
+      "text": "",
+      "type": "textarea",
+      "value": ""
+    },
+    {
+      "aria": "Save",
+      "bounds": [
+        269,
+        1024,
+        96,
+        37
+      ],
+      "disabled": true,
+      "offscreen": true,
+      "ref": "e346",
+      "role": null,
+      "tag": "button",
+      "text": "SAVE"
+    },
+    {
+      "aria": "Delete",
+      "bounds": [
+        1143,
+        1027,
+        89,
+        31
+      ],
+      "offscreen": true,
+      "ref": "e347",
+      "role": null,
+      "tag": "button",
+      "text": "DELETE",
+      "type": "button"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    1098
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "SKIP TO CONTENT\nNavidrome - User Carol\n0\nAlbums\nAll\nRandom\nFavourites\nTop Rated\nRecently Added\nRecently Played\nMost Played\nArtists\nSongs\nRadios\nShares\nPlaylists\nFavourites\nUsername *\n\n​\n\nName *\n\n​\n\nEmail\n\n​\n\nChange Password?\n\n​\n\nIs Admin\n\n​\n\nLibraries\nMusic Library\nSelect specific libraries for this user, or leave empty to use default libraries\nScrobble filter\n\nSongs matching these smart playlist rules are not sent to Last.fm, ListenBrainz or scrobbler plugins. Uses the same JSON syntax and behavior as smart playlists. Example: {\"all\":[{\"lt\":{\"rating\":4}}]}. Leave empty to scrobble everything. Local play counts are not affected.\n\nLast Login\nLast Access\nUpdated at\n11/1/2026, 7:38:59 AM\nCreated at\n11/1/2026, 7:38:59 AM\nSAVE\nDELETE",
+  "text_truncated": false,
+  "title": "Navidrome",
+  "url": "/app/#/user/7hPeGn6RR3O8JZaXScerqe",
+  "viewport": [
+    1280,
+    900
+  ]
+}

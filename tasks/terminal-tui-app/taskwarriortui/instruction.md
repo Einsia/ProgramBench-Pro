@@ -1,0 +1,127 @@
+# taskwarrior-tui black-box reconstruction
+
+Recreate **taskwarrior-tui 0.27.0 with Taskwarrior 3.3.0** from scratch based only on its observable behavior. A
+running reference installation is the specification. Query it through the
+black-box interface described below, using the product's normal user and
+programmatic interfaces, and treat everything it shows you, including screens,
+responses, documents and the product's own documentation, as observations of
+the required behavior. Then build an independent implementation in
+`/app/solution` that behaves the same way. Your implementation is evaluated
+later in a fresh environment without access to the reference.
+
+## Rules
+
+### Not allowed
+
+1. **Obtaining an existing implementation.** Do not access the internet. Do not
+   obtain the product's source code, binaries or packages by any means, such as
+   package managers, caches, container images or other copies. Even if the
+   product is familiar to you, reimplement it from observation.
+2. **Depending on the reference.** The delivered application must not contact
+   the reference or the black-box interface, forward requests, or replay screens,
+   responses or files captured from the reference in place of implementing the
+   behavior.
+3. **Bypassing the black-box interface.** Do not try to access the reference's
+   container, filesystem or processes, or verifier tests, answers or data, and do
+   not work around the interface's restrictions.
+
+A submission found to break these rules is disqualified and scores zero.
+
+### Allowed
+
+- Any operation the black-box interface accepts, as often as you like, including
+  resets and restarts.
+- Product data the reference shows you, such as terminal
+  screens and files, as observations.
+- Everything in your own environment: the installed tools and libraries, your
+  own test inputs, and any testing or analysis of your own application.
+- Reading the black-box runtime installed at `/opt/blackbox/runtime`. It is the
+  code that drives your application during evaluation; the reference is not in
+  it.
+
+## Delivery
+
+Work in `/app/solution` and provide an executable `/app/solution/start.sh`. It
+must start the application in the foreground and keep running for the
+application's lifetime, for example by using `exec` for the final process. Only
+`/app/solution` is transferred to the evaluation environment, which is offline
+and has the same preinstalled tools as your environment. Put every file the
+application needs at runtime inside `/app/solution` and resolve those files
+relative to `start.sh`. If `start.sh` is missing or fails to start the
+application in that fresh environment, the evaluation has nothing to run.
+Implementation language and internal structure are your choices. The screen is
+part of the behaviour: lay it out as the reference does, with the same
+characters — the top bar with the view names and the report and context label
+at its right end, the task report with its header row and its selection and
+mark indicators in the first columns, the details pane, the prompt title and
+input line in the bottom two rows, the popups and menus, and the other views.
+Colours and text attributes are your choice, except that the selected task's
+row uses the reference's text attributes, and a completion suggestion shown
+after typed text must differ from the typed text in colour or text attribute.
+
+### Runtime contract
+
+The application is a terminal program running in a pseudo-terminal of
+120 columns by 36 rows with `TERM` set to `xterm-256color`. The runtime sends terminal input and observes the visible screen. The
+application counts as started when the runtime control interface answers and the application has drawn its terminal interface; this must happen within
+30 seconds. Keep all persistent state under `DATA_DIR`; the
+runtime also supplies private `HOME` and `TMPDIR` directories. A fresh
+`DATA_DIR` must begin in the reference's initial state, and saved state must
+survive a restart of the application with the same `DATA_DIR`.
+
+Also provide an executable `/app/solution/task` for the application's
+Taskwarrior command line. It must use the same persistent tasks and configuration
+as the terminal application.
+
+## Evaluation
+
+Evaluation launches your application with the same runtime that drives the
+reference, in the reference's place: each episode gets a fresh copy of
+`/app/solution` and a fresh `DATA_DIR`, and episodes run one at a time. What
+you cannot do or see through `blackbox`, the evaluation cannot do or see either.
+
+## Exploring the reference
+
+The exploration command is `/usr/local/bin/blackbox`, also available as
+`blackbox`. Start with:
+
+```sh
+blackbox '{"op":"help"}'
+```
+
+The help response is the authoritative description of operations, request
+fields and limits; requests with unknown fields are rejected. Pass one JSON
+request as the argument or on standard input; you can also call the client from
+Python through ordinary subprocess calls. Product errors are valid
+observations. A broker validation error or a timeout means the request itself
+failed; inspect it before retrying. Keep exploration outputs such as
+screenshots and downloads outside `/app/solution`, for example under `/tmp`.
+
+`reset` returns the reference to its initial state with a fresh data directory;
+`restart` restarts it with the same data; `status` reports whether it is
+running and ready.
+
+`blackbox --target self` sends the same request to your own application
+instead. On first use it starts the same black-box runtime on `/app/solution`
+in your environment, as your user, with private state, logs and socket under
+`/tmp/blackbox-self` and a port of its own; later requests reuse it, and
+`blackbox --target self --stop` stops it. Help, operations, observations,
+limits and validation are identical, and `restart` runs your current
+`start.sh` again with the same data while `reset` starts it with a fresh
+`DATA_DIR`. Evaluation drives your application through this same runtime, so
+use it to check that your application starts, can be operated and shows its
+state the way you intend. The runtime is installed at `/opt/blackbox/runtime`.
+
+
+
+There is no feature list. Deciding which behaviors to investigate, and in what
+order, is part of the task. Explore extensively before and while implementing,
+use resets and restarts to separate transient from persistent state, and compare
+your implementation with the reference as you build it.
+
+## Time limit
+
+The whole attempt, including exploration, implementation and testing, has a
+wall-clock limit of **8 hours (28,800 seconds)**. `/app/solution` is evaluated
+as it is when the attempt ends, so keep a working application there from early
+on and improve it incrementally.

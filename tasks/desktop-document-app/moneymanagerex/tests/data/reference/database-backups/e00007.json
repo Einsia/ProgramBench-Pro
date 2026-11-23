@@ -1,0 +1,520 @@
+{
+  "focused": null,
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        1024
+      ],
+      "name": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),",
+      "ref": "e93ed40b7",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        25
+      ],
+      "name": "",
+      "ref": "e37b0c28a",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        39,
+        25
+      ],
+      "name": "File",
+      "ref": "eae5e7196",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        39,
+        19,
+        75,
+        25
+      ],
+      "name": "Accounts",
+      "ref": "ecb5893cc",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        114,
+        19,
+        49,
+        25
+      ],
+      "name": "Tools",
+      "ref": "ec5eeafb2",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        163,
+        19,
+        48,
+        25
+      ],
+      "name": "View",
+      "ref": "eb0ba3d40",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        211,
+        19,
+        46,
+        25
+      ],
+      "name": "Help",
+      "ref": "ef594ac36",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        1,
+        995,
+        200,
+        6
+      ],
+      "name": "",
+      "ref": "ef36204a0",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        314,
+        8,
+        651,
+        1008
+      ],
+      "name": "Settings",
+      "ref": "eb693f295",
+      "role": "frame",
+      "states": [
+        "active",
+        "modal"
+      ]
+    },
+    {
+      "bounds": [
+        433,
+        48,
+        511,
+        136
+      ],
+      "name": "Stocks",
+      "ref": "e88896c11",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        439,
+        71,
+        147,
+        17
+      ],
+      "name": "Stock Quote Web Page",
+      "ref": "e172ebccc",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        439,
+        98,
+        499,
+        34
+      ],
+      "name": "",
+      "ref": "e900010e1",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        439,
+        98,
+        463,
+        34
+      ],
+      "description": "Clear the field to Reset the value to system default.",
+      "name": "",
+      "ref": "e6b8b4529",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "https://finance.yahoo.com/quote/%s"
+    },
+    {
+      "bounds": [
+        440,
+        151,
+        101,
+        17
+      ],
+      "name": "Share Precision",
+      "ref": "e094d6cd9",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        551,
+        143,
+        116,
+        34
+      ],
+      "description": "Set the precision for Share prices",
+      "name": "",
+      "ref": "e28452d97",
+      "role": "spin button",
+      "states": [
+        "editable"
+      ],
+      "text": "4",
+      "value": 4.0
+    },
+    {
+      "bounds": [
+        692,
+        149,
+        146,
+        21
+      ],
+      "name": "Refresh at Startup",
+      "ref": "e6705d60e",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        433,
+        48,
+        50,
+        17
+      ],
+      "name": "Stocks",
+      "ref": "e2571275d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        433,
+        194,
+        511,
+        73
+      ],
+      "name": "Assets",
+      "ref": "e1ab5530f",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        444,
+        230,
+        176,
+        17
+      ],
+      "name": "Asset Compounding Period",
+      "ref": "e17a4507d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        630,
+        222,
+        82,
+        34
+      ],
+      "description": "Select the compounding period for the appreciation/depreciation rate of assets",
+      "name": "Day",
+      "ref": "e783b8ad0",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        433,
+        194,
+        49,
+        17
+      ],
+      "name": "Assets",
+      "ref": "e6613cd9a",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        433,
+        277,
+        511,
+        161
+      ],
+      "name": "Database",
+      "ref": "eb572a2d3",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        439,
+        300,
+        209,
+        21
+      ],
+      "description": "When MMEX starts,\ncreate the backup database: dbFile_start_YYYY-MM-DD.bak",
+      "name": "Backup database on startup",
+      "ref": "e5ab1133c",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        439,
+        331,
+        188,
+        21
+      ],
+      "description": "When MMEX shuts down and changes were made to the database,\ncreate or update the backup database: dbFile_update_YYYY-MM-DD.bak",
+      "name": "Backup database on exit",
+      "ref": "e37b61ad9",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        512,
+        362,
+        116,
+        34
+      ],
+      "description": "Specify max number of backup files",
+      "name": "",
+      "ref": "e6abba0e7",
+      "role": "spin button",
+      "states": [
+        "editable"
+      ],
+      "text": "4",
+      "value": 4.0
+    },
+    {
+      "bounds": [
+        439,
+        370,
+        63,
+        17
+      ],
+      "name": "Max Files",
+      "ref": "e58282bc5",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        675,
+        402,
+        116,
+        34
+      ],
+      "description": "Specify number of days to retain deleted transactions. Transactions older than this will be automatically purged upon database open.",
+      "name": "",
+      "ref": "e081eed68",
+      "role": "spin button",
+      "states": [
+        "editable"
+      ],
+      "text": "30",
+      "value": 30.0
+    },
+    {
+      "bounds": [
+        439,
+        410,
+        230,
+        17
+      ],
+      "name": "Days to retain deleted transactions",
+      "ref": "e6d690c61",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        433,
+        277,
+        71,
+        17
+      ],
+      "name": "Database",
+      "ref": "ef41240d4",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        433,
+        448,
+        511,
+        73
+      ],
+      "name": "CSV",
+      "ref": "ebc6632c6",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        444,
+        484,
+        62,
+        17
+      ],
+      "name": "Delimiter",
+      "ref": "e35accaf1",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        526,
+        476,
+        98,
+        34
+      ],
+      "description": "Specify the delimiter to use when importing/exporting CSV files",
+      "name": "",
+      "ref": "ef674108f",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": ","
+    },
+    {
+      "bounds": [
+        433,
+        448,
+        30,
+        17
+      ],
+      "name": "CSV",
+      "ref": "e7cfd3af2",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        433,
+        531,
+        511,
+        50
+      ],
+      "name": "Filter",
+      "ref": "ef65c161b",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        439,
+        554,
+        320,
+        21
+      ],
+      "description": "Store filter values per account or report and not globally",
+      "name": "Enable date range filter per account or report",
+      "ref": "e01813b49",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        433,
+        531,
+        41,
+        17
+      ],
+      "name": "Filter",
+      "ref": "ed61f5781",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        325,
+        955,
+        629,
+        2
+      ],
+      "name": "",
+      "ref": "eee02b912",
+      "role": "separator"
+    },
+    {
+      "bounds": [
+        502,
+        967,
+        85,
+        34
+      ],
+      "name": "OK",
+      "ref": "e5511204c",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        597,
+        967,
+        85,
+        34
+      ],
+      "name": "Apply",
+      "ref": "e66f03ad0",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        692,
+        967,
+        85,
+        34
+      ],
+      "name": "Cancel",
+      "ref": "e37b2f021",
+      "role": "push button"
+    }
+  ],
+  "screen": [
+    1280,
+    1024
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": false,
+      "bounds": [
+        0,
+        38,
+        1280,
+        1005
+      ],
+      "ref": "w5b3c0310",
+      "title": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),"
+    },
+    {
+      "active": true,
+      "bounds": [
+        316,
+        48,
+        649,
+        983
+      ],
+      "ref": "wd7fc1b2f",
+      "title": "Settings"
+    }
+  ]
+}

@@ -1,0 +1,960 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        218,
+        45,
+        795,
+        850
+      ],
+      "ref": "canvas0",
+      "tag": "canvas"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        1247,
+        7,
+        26,
+        26
+      ],
+      "context": "+ grid",
+      "ref": "eaca965fd",
+      "tag": "a",
+      "text": "+",
+      "title": "Create a new sprite"
+    },
+    {
+      "bounds": [
+        5,
+        207,
+        20,
+        20
+      ],
+      "context": "Pen size from 1 to 4 pixels",
+      "ref": "ed68283c8",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        27,
+        207,
+        20,
+        20
+      ],
+      "context": "Pen size from 1 to 4 pixels",
+      "ref": "ed68283c8x2",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        49,
+        207,
+        20,
+        20
+      ],
+      "context": "Pen size from 1 to 4 pixels",
+      "ref": "ed68283c8x3",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        71,
+        207,
+        20,
+        20
+      ],
+      "context": "Pen size from 1 to 4 pixels",
+      "ref": "ed68283c8x4",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        1,
+        233,
+        46,
+        46
+      ],
+      "ref": "efdd84e9f",
+      "tag": "li",
+      "title": "Pen tool (P)"
+    },
+    {
+      "bounds": [
+        49,
+        233,
+        46,
+        46
+      ],
+      "ref": "ecd960a1e",
+      "tag": "li",
+      "title": "Vertical Mirror pen (V) CTRL Use horizontal axis SHIFT Use horizontal and vertical axis"
+    },
+    {
+      "bounds": [
+        1,
+        281,
+        46,
+        46
+      ],
+      "ref": "eacf15eda",
+      "tag": "li",
+      "title": "Paint bucket tool (B)"
+    },
+    {
+      "bounds": [
+        49,
+        281,
+        46,
+        46
+      ],
+      "ref": "e7d8f376b",
+      "tag": "li",
+      "title": "Paint all pixels of the same color (A) CTRL Apply to all layers SHIFT Apply to all frames"
+    },
+    {
+      "bounds": [
+        1,
+        329,
+        46,
+        46
+      ],
+      "ref": "ef66d1151",
+      "tag": "li",
+      "title": "Eraser tool (E)"
+    },
+    {
+      "bounds": [
+        49,
+        329,
+        46,
+        46
+      ],
+      "ref": "e51d99cc5",
+      "tag": "li",
+      "title": "Stroke tool (L) SHIFT Hold shift to draw straight lines"
+    },
+    {
+      "bounds": [
+        1,
+        377,
+        46,
+        46
+      ],
+      "ref": "eea0e011a",
+      "tag": "li",
+      "title": "Rectangle tool (R) SHIFT Keep 1 to 1 ratio"
+    },
+    {
+      "bounds": [
+        49,
+        377,
+        46,
+        46
+      ],
+      "ref": "e6e4335ca",
+      "tag": "li",
+      "title": "Circle tool (C) SHIFT Keep 1 to 1 ratio"
+    },
+    {
+      "bounds": [
+        1,
+        425,
+        46,
+        46
+      ],
+      "ref": "e3d3c859b",
+      "tag": "li",
+      "title": "Move tool (M) CTRL Apply to all layers SHIFT Apply to all frames ALT Wrap canvas borders"
+    },
+    {
+      "bounds": [
+        49,
+        425,
+        46,
+        46
+      ],
+      "ref": "e5c69c72e",
+      "tag": "li",
+      "title": "Shape selection (Z) Drag the selection to move it. You may switch to other layers and frames. CTRL+C Copy the selected area CTRL+V Paste the copied area SHIFT Hold to move the content"
+    },
+    {
+      "bounds": [
+        1,
+        473,
+        46,
+        46
+      ],
+      "ref": "ef1b332fd",
+      "tag": "li",
+      "title": "Rectangle selection (S) Drag the selection to move it. You may switch to other layers and frames. CTRL+C Copy the selected area CTRL+V Paste the copied area SHIFT Hold to move the content"
+    },
+    {
+      "bounds": [
+        49,
+        473,
+        46,
+        46
+      ],
+      "ref": "ef8a426dd",
+      "tag": "li",
+      "title": "Lasso selection (H) Drag the selection to move it. You may switch to other layers and frames. CTRL+C Copy the selected area CTRL+V Paste the copied area SHIFT Hold to move the content"
+    },
+    {
+      "bounds": [
+        1,
+        521,
+        46,
+        46
+      ],
+      "ref": "e97a17ab6",
+      "tag": "li",
+      "title": "Lighten (U) CTRL Darken SHIFT Apply only once per pixel"
+    },
+    {
+      "bounds": [
+        49,
+        521,
+        46,
+        46
+      ],
+      "ref": "e00581728",
+      "tag": "li",
+      "title": "Dithering tool (T)"
+    },
+    {
+      "bounds": [
+        1,
+        569,
+        46,
+        46
+      ],
+      "ref": "e322085a6",
+      "tag": "li",
+      "title": "Color picker (O)"
+    },
+    {
+      "bounds": [
+        11,
+        627,
+        46,
+        46
+      ],
+      "ref": "e6f774dff",
+      "tag": "div",
+      "title": "Primary - left mouse button #000000"
+    },
+    {
+      "bounds": [
+        38,
+        651,
+        46,
+        46
+      ],
+      "ref": "efacdd56a",
+      "tag": "div",
+      "title": "Secondary - right mouse button rgba(0, 0, 0, 0)"
+    },
+    {
+      "bounds": [
+        16,
+        676,
+        18,
+        18
+      ],
+      "ref": "ea648bef7",
+      "tag": "div",
+      "title": "Swap colors (X)"
+    },
+    {
+      "bounds": [
+        103,
+        48,
+        30,
+        30
+      ],
+      "context": "1 2 3 Add new frame",
+      "ref": "e46ea89fa",
+      "tag": "button",
+      "text": "1",
+      "title": "Toggle for preview"
+    },
+    {
+      "bounds": [
+        103,
+        155,
+        30,
+        30
+      ],
+      "context": "1 2 3 Add new frame",
+      "ref": "ecb7573f1",
+      "tag": "button",
+      "text": "2",
+      "title": "Toggle for preview"
+    },
+    {
+      "bounds": [
+        103,
+        262,
+        30,
+        30
+      ],
+      "context": "1 2 3 Add new frame",
+      "ref": "e6a935c6c",
+      "tag": "button",
+      "text": "3",
+      "title": "Toggle for preview"
+    },
+    {
+      "bounds": [
+        100,
+        369,
+        102,
+        50
+      ],
+      "context": "1 2 3 Add new frame",
+      "ref": "e0a618080",
+      "tag": "div",
+      "text": "Add new frame"
+    },
+    {
+      "bounds": [
+        1023,
+        245,
+        36,
+        26
+      ],
+      "context": "8 FPS | 1x 25x | 1x 25x 8 FPS | 1x 25x 8 FPS Layers | 1 2 3 Add new frame 1x 25x",
+      "ref": "e4e5c3a85",
+      "tag": "div",
+      "title": "Toggle onion skin (alt+O)"
+    },
+    {
+      "bounds": [
+        1119,
+        245,
+        100,
+        26
+      ],
+      "context": "8 FPS | 1x 25x | 1x 25x 8 FPS | 1x 25x 8 FPS Layers | 1 2 3 Add new frame 1x 25x",
+      "editable": false,
+      "label": "8 FPS",
+      "ref": "e4a28a74d",
+      "tag": "input",
+      "type": "range",
+      "value": "8"
+    },
+    {
+      "bounds": [
+        1191,
+        284,
+        20,
+        20
+      ],
+      "context": "Layers | Layers top α base α | 1x 25x 8 FPS Layers | 1 2 3 Add new frame 1x 25x",
+      "ref": "e9ed0387a",
+      "tag": "div",
+      "title": "Preview all layers (alt+L) Opacity defined in PREFERENCES"
+    },
+    {
+      "bounds": [
+        1025,
+        311,
+        33,
+        24
+      ],
+      "context": "Layers | Layers top α base α | 1x 25x 8 FPS Layers | 1 2 3 Add new frame 1x 25x",
+      "ref": "e14276b43",
+      "tag": "button",
+      "title": "Create a layer SHIFT Clone current layer"
+    },
+    {
+      "bounds": [
+        1058,
+        311,
+        33,
+        24
+      ],
+      "context": "Layers | Layers top α base α | 1x 25x 8 FPS Layers | 1 2 3 Add new frame 1x 25x",
+      "ref": "e3752f957",
+      "tag": "button",
+      "title": "Move layer up SHIFT Move to the top"
+    },
+    {
+      "bounds": [
+        1090,
+        311,
+        33,
+        24
+      ],
+      "context": "Layers | Layers top α base α | 1x 25x 8 FPS Layers | 1 2 3 Add new frame 1x 25x",
+      "disabled": true,
+      "ref": "e59d0efcc",
+      "tag": "button",
+      "title": "Move layer down SHIFT Move to the bottom"
+    },
+    {
+      "bounds": [
+        1123,
+        311,
+        33,
+        24
+      ],
+      "context": "Layers | Layers top α base α | 1x 25x 8 FPS Layers | 1 2 3 Add new frame 1x 25x",
+      "ref": "e68238520",
+      "tag": "button",
+      "title": "Edit layer name"
+    },
+    {
+      "bounds": [
+        1156,
+        311,
+        33,
+        24
+      ],
+      "context": "Layers | Layers top α base α | 1x 25x 8 FPS Layers | 1 2 3 Add new frame 1x 25x",
+      "disabled": true,
+      "ref": "ede88e720",
+      "tag": "button",
+      "title": "Merge with layer below"
+    },
+    {
+      "bounds": [
+        1188,
+        311,
+        33,
+        24
+      ],
+      "context": "Layers | Layers top α base α | 1x 25x 8 FPS Layers | 1 2 3 Add new frame 1x 25x",
+      "ref": "e3dd03f5d",
+      "tag": "button",
+      "title": "Delete selected layer"
+    },
+    {
+      "bounds": [
+        1025,
+        336,
+        196,
+        25
+      ],
+      "context": "top α base α | Layers top α base α | 1x 25x 8 FPS Layers | 1 2 3 Add new frame 1x 25x",
+      "ref": "ec38e173f",
+      "tag": "li",
+      "text": "top α"
+    },
+    {
+      "bounds": [
+        1198,
+        337,
+        23,
+        24
+      ],
+      "context": "top α | top α base α | Layers top α base α | 1x 25x 8 FPS Layers",
+      "ref": "eaa4107d4",
+      "tag": "span",
+      "text": "α",
+      "title": "Layer opacity (1)"
+    },
+    {
+      "bounds": [
+        1025,
+        361,
+        196,
+        25
+      ],
+      "context": "top α base α | Layers top α base α | 1x 25x 8 FPS Layers | 1 2 3 Add new frame 1x 25x",
+      "ref": "e022a7ead",
+      "tag": "li",
+      "text": "base α"
+    },
+    {
+      "bounds": [
+        1198,
+        362,
+        23,
+        24
+      ],
+      "context": "base α | top α | top α base α | Layers top α base α | 1x 25x 8 FPS Layers",
+      "ref": "e63c7196a",
+      "tag": "span",
+      "text": "α",
+      "title": "Layer opacity (1)"
+    },
+    {
+      "bounds": [
+        1198,
+        403,
+        15,
+        15
+      ],
+      "context": "Transform | 1x 25x 8 FPS Layers | 1 2 3 Add new frame 1x 25x",
+      "ref": "eeb23fcbd",
+      "tag": "span",
+      "title": "View more tools"
+    },
+    {
+      "bounds": [
+        1025,
+        427,
+        46,
+        46
+      ],
+      "context": "Transform | 1x 25x 8 FPS Layers | 1 2 3 Add new frame 1x 25x",
+      "ref": "e5eaef1ab",
+      "tag": "li",
+      "title": "Flip vertically ALT Flip horizontally CTRL Apply to all layers SHIFT Apply to all frames"
+    },
+    {
+      "bounds": [
+        1075,
+        427,
+        46,
+        46
+      ],
+      "context": "Transform | 1x 25x 8 FPS Layers | 1 2 3 Add new frame 1x 25x",
+      "ref": "e25b3aca2",
+      "tag": "li",
+      "title": "Counter-clockwise rotation ALT Clockwise rotation CTRL Apply to all layers SHIFT Apply to all frames"
+    },
+    {
+      "bounds": [
+        1125,
+        427,
+        46,
+        46
+      ],
+      "context": "Transform | 1x 25x 8 FPS Layers | 1 2 3 Add new frame 1x 25x",
+      "ref": "e99966618",
+      "tag": "li",
+      "title": "Clone current layer to all frames"
+    },
+    {
+      "bounds": [
+        1175,
+        427,
+        46,
+        46
+      ],
+      "context": "Transform | 1x 25x 8 FPS Layers | 1 2 3 Add new frame 1x 25x",
+      "ref": "ea6a6a049",
+      "tag": "li",
+      "title": "Align image to the center CTRL Apply to all layers SHIFT Apply to all frames"
+    },
+    {
+      "bounds": [
+        1025,
+        515,
+        33,
+        24
+      ],
+      "context": "Palettes | Transform | 1x 25x 8 FPS Layers | 1 2 3 Add new frame 1x 25x",
+      "ref": "ee09b880c",
+      "tag": "button",
+      "title": "Create a new palette"
+    },
+    {
+      "bounds": [
+        1058,
+        515,
+        131,
+        24
+      ],
+      "context": "Palettes | Transform | 1x 25x 8 FPS Layers | 1 2 3 Add new frame 1x 25x",
+      "editable": false,
+      "group": "Palettes",
+      "options": [
+        {
+          "label": "Current colors",
+          "selected": true,
+          "value": "__current-colors"
+        }
+      ],
+      "ref": "e8ac6a1cd",
+      "tag": "select",
+      "value": "__current-colors"
+    },
+    {
+      "bounds": [
+        1188,
+        515,
+        33,
+        24
+      ],
+      "context": "Palettes | Transform | 1x 25x 8 FPS Layers | 1 2 3 Add new frame 1x 25x",
+      "ref": "e5ebbccbc",
+      "tag": "button",
+      "title": "Manage this palette"
+    },
+    {
+      "bounds": [
+        1030,
+        545,
+        33,
+        32
+      ],
+      "context": "Palettes | Transform | 1x 25x 8 FPS Layers | 1 2 3 Add new frame 1x 25x",
+      "ref": "e2be46ed0",
+      "tag": "div",
+      "title": "#FF0000"
+    },
+    {
+      "bounds": [
+        1068,
+        545,
+        33,
+        32
+      ],
+      "context": "Palettes | Transform | 1x 25x 8 FPS Layers | 1 2 3 Add new frame 1x 25x",
+      "ref": "ed55da0dc",
+      "tag": "div",
+      "title": "#FFFF00"
+    },
+    {
+      "bounds": [
+        1106,
+        545,
+        33,
+        32
+      ],
+      "context": "Palettes | Transform | 1x 25x 8 FPS Layers | 1 2 3 Add new frame 1x 25x",
+      "ref": "e619b7030",
+      "tag": "div",
+      "title": "#00FF00"
+    },
+    {
+      "bounds": [
+        1145,
+        545,
+        33,
+        32
+      ],
+      "context": "Palettes | Transform | 1x 25x 8 FPS Layers | 1 2 3 Add new frame 1x 25x",
+      "ref": "e0922f47c",
+      "tag": "div",
+      "title": "#00FFFF"
+    },
+    {
+      "bounds": [
+        1183,
+        545,
+        33,
+        32
+      ],
+      "context": "Palettes | Transform | 1x 25x 8 FPS Layers | 1 2 3 Add new frame 1x 25x",
+      "ref": "e878e6710",
+      "tag": "div",
+      "title": "#0000FF"
+    },
+    {
+      "bounds": [
+        1030,
+        582,
+        33,
+        32
+      ],
+      "context": "Palettes | Transform | 1x 25x 8 FPS Layers | 1 2 3 Add new frame 1x 25x",
+      "ref": "e5cac499c",
+      "tag": "div",
+      "title": "#FF00FF"
+    },
+    {
+      "bounds": [
+        958,
+        331,
+        47,
+        46
+      ],
+      "context": "Export Scale 1.0x Resolution x GIF PNG Zip | Export Scale 1.0x Resolution x GIF PNG | + grid",
+      "ref": "eb151f7d4",
+      "tag": "div",
+      "title": "PREFERENCES"
+    },
+    {
+      "bounds": [
+        958,
+        379,
+        47,
+        46
+      ],
+      "context": "Export Scale 1.0x Resolution x GIF PNG Zip | Export Scale 1.0x Resolution x GIF PNG | + grid",
+      "ref": "e8fb18bb6",
+      "tag": "div",
+      "title": "RESIZE Resize the drawing area"
+    },
+    {
+      "bounds": [
+        958,
+        427,
+        47,
+        46
+      ],
+      "context": "Export Scale 1.0x Resolution x GIF PNG Zip | Export Scale 1.0x Resolution x GIF PNG | + grid",
+      "ref": "e54a3c75b",
+      "tag": "div",
+      "title": "SAVE Save to your gallery, save locally or export as a file"
+    },
+    {
+      "bounds": [
+        954,
+        475,
+        51,
+        46
+      ],
+      "context": "Export Scale 1.0x Resolution x GIF PNG Zip | Export Scale 1.0x Resolution x GIF PNG | + grid",
+      "ref": "e02376b81",
+      "tag": "div",
+      "title": "EXPORT Export as Image, as Spritesheet or as Animated GIF"
+    },
+    {
+      "bounds": [
+        958,
+        523,
+        47,
+        46
+      ],
+      "context": "Export Scale 1.0x Resolution x GIF PNG Zip | Export Scale 1.0x Resolution x GIF PNG | + grid",
+      "ref": "e51902e8f",
+      "tag": "div",
+      "title": "IMPORT Import an existing image, an animated GIF or a .piskel file"
+    },
+    {
+      "bounds": [
+        1025,
+        224,
+        240,
+        31
+      ],
+      "context": "Export Scale 1.0x Resolution x GIF PNG Zip Others Export your animation as a PNG spritesheet containing all frames. | Export Scale 1.0x Resolution x GIF PNG Zip",
+      "editable": false,
+      "group": "Export",
+      "label": "Scale",
+      "name": "scale-input",
+      "ref": "e05974b3a",
+      "tag": "div",
+      "text": "Scale 1.0x",
+      "title": "Scale the animation for export",
+      "type": "range",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        1097,
+        265,
+        70,
+        23
+      ],
+      "context": "Resolution x | Export Scale 1.0x Resolution x GIF PNG Zip Others Export your animation as a PNG spritesheet containing all frames.",
+      "editable": true,
+      "group": "Export",
+      "label": "Resolution",
+      "name": "resize-width",
+      "ref": "ea72c0955",
+      "tag": "input",
+      "type": "text",
+      "value": "8"
+    },
+    {
+      "bounds": [
+        1194,
+        265,
+        70,
+        23
+      ],
+      "context": "Resolution x | Export Scale 1.0x Resolution x GIF PNG Zip Others Export your animation as a PNG spritesheet containing all frames.",
+      "editable": true,
+      "group": "Export",
+      "label": "x",
+      "name": "resize-height",
+      "ref": "e4157f9f4",
+      "tag": "input",
+      "type": "text",
+      "value": "8"
+    },
+    {
+      "bounds": [
+        1025,
+        298,
+        32,
+        25
+      ],
+      "context": "GIF PNG Zip Others | Export Scale 1.0x Resolution x GIF PNG Zip Others Export your animation as a PNG spritesheet containing all frames.",
+      "ref": "e7ab96645",
+      "tag": "div",
+      "text": "GIF"
+    },
+    {
+      "bounds": [
+        1057,
+        298,
+        38,
+        25
+      ],
+      "context": "GIF PNG Zip Others | Export Scale 1.0x Resolution x GIF PNG Zip Others Export your animation as a PNG spritesheet containing all frames.",
+      "ref": "e6fe195c0",
+      "tag": "div",
+      "text": "PNG"
+    },
+    {
+      "bounds": [
+        1095,
+        298,
+        30,
+        25
+      ],
+      "context": "GIF PNG Zip Others | Export Scale 1.0x Resolution x GIF PNG Zip Others Export your animation as a PNG spritesheet containing all frames.",
+      "ref": "e76a1e0ac",
+      "tag": "div",
+      "text": "Zip"
+    },
+    {
+      "bounds": [
+        1125,
+        298,
+        51,
+        25
+      ],
+      "context": "GIF PNG Zip Others | Export Scale 1.0x Resolution x GIF PNG Zip Others Export your animation as a PNG spritesheet containing all frames.",
+      "ref": "eee5d255c",
+      "tag": "div",
+      "text": "Others"
+    },
+    {
+      "bounds": [
+        1086,
+        394,
+        50,
+        23
+      ],
+      "context": "Columns | Columns Rows | Spritesheet layout options: | Spritesheet layout options: Columns Rows | Export your animation as a PNG spritesheet containing all frames. | Export your animation as a PNG spritesheet containing all frames. Spritesheet layout options: Columns Rows",
+      "editable": true,
+      "group": "Spritesheet layout options:",
+      "label": "Columns",
+      "name": "png-export-columns",
+      "ref": "ea8133b0a",
+      "tag": "input",
+      "type": "number",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        1180,
+        394,
+        50,
+        23
+      ],
+      "context": "Rows | Columns Rows | Spritesheet layout options: | Spritesheet layout options: Columns Rows | Export your animation as a PNG spritesheet containing all frames. | Export your animation as a PNG spritesheet containing all frames. Spritesheet layout options: Columns Rows",
+      "editable": true,
+      "group": "Spritesheet layout options:",
+      "label": "Rows",
+      "name": "png-export-rows",
+      "ref": "e46c11bf8",
+      "tag": "input",
+      "type": "text",
+      "value": "3"
+    },
+    {
+      "bounds": [
+        1031,
+        458,
+        75,
+        24
+      ],
+      "context": "Download 8 x 24 px, 3 frames 1 column, 3 rows. | Spritesheet file export: | Spritesheet file export: Download 8 x 24 px, 3 frames 1 column, 3 rows. | Export your animation as a PNG spritesheet containing all frames. Spritesheet layout options: Columns Rows | GIF PNG Zip Others",
+      "focused": true,
+      "ref": "e70d7ff1a",
+      "tag": "button",
+      "text": "Download"
+    },
+    {
+      "bounds": [
+        1031,
+        525,
+        75,
+        24
+      ],
+      "context": "Open Open the spritesheet as a data-uri | Spritesheet data-uri export: | Spritesheet data-uri export: Open Open the spritesheet as a data-uri | Export your animation as a PNG spritesheet containing all frames. Spritesheet layout options: Columns Rows | GIF PNG Zip Others",
+      "ref": "e49424af0",
+      "tag": "button",
+      "text": "Open"
+    },
+    {
+      "bounds": [
+        1031,
+        598,
+        13,
+        13
+      ],
+      "checked": false,
+      "context": "Inline spritesheet as data-uri | PixiJS Movie export: | PixiJS Movie export: Inline spritesheet as data-uri Download Spritesheet with JSON metadata | Export your animation as a PNG spritesheet containing all frames. Spritesheet layout options: Columns Rows | GIF PNG Zip Others",
+      "editable": false,
+      "group": "Export your animation as a PNG spritesheet containing all frames.",
+      "label": "Inline spritesheet as data-uri",
+      "ref": "ee05c5765",
+      "tag": "input",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        1031,
+        620,
+        75,
+        24
+      ],
+      "context": "Download Spritesheet with JSON metadata | PixiJS Movie export: Inline spritesheet as data-uri Download Spritesheet with JSON metadata | Export your animation as a PNG spritesheet containing all frames. Spritesheet layout options: Columns Rows | GIF PNG Zip Others",
+      "ref": "ebe3d8865",
+      "tag": "button",
+      "text": "Download"
+    },
+    {
+      "bounds": [
+        1031,
+        686,
+        75,
+        24
+      ],
+      "context": "Download Single frame as a PNG file | Selected frame export: | Selected frame export: Download Single frame as a PNG file | Export your animation as a PNG spritesheet containing all frames. Spritesheet layout options: Columns Rows | GIF PNG Zip Others",
+      "ref": "e65cdff6a",
+      "tag": "button",
+      "text": "Download"
+    },
+    {
+      "bounds": [
+        10,
+        869,
+        36,
+        21
+      ],
+      "ref": "ecf5208b2",
+      "tag": "span",
+      "title": "Keyboard shortcuts"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "grid.png",
+      "ref": "d1",
+      "size": 150
+    }
+  ],
+  "sprite": {
+    "origin": [
+      337.25,
+      191.75
+    ],
+    "pixel": [
+      79.5,
+      79.5
+    ]
+  },
+  "text": "grid\n1x\n25x\n8 FPS\nLayers\nTransform\nPalettes\n[8x8]\nx79.50\n1/3\nExport\nResolution\nx\nExport your animation as a PNG spritesheet containing all frames.\nSpritesheet layout options:\nColumns\nRows\nSpritesheet file export:\n8 x 24 px, 3 frames\n1 column, 3 rows.\nSpritesheet data-uri export:\nOpen the spritesheet as a data-uri\nPixiJS Movie export:\nInline spritesheet as data-uri\nSpritesheet with JSON metadata\nSelected frame export:\nSingle frame as a PNG file",
+  "text_truncated": false,
+  "title": "Piskel",
+  "url": "/",
+  "viewport": [
+    1280,
+    900
+  ]
+}

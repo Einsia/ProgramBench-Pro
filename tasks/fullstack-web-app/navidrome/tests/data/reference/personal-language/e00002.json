@@ -1,0 +1,356 @@
+{
+  "controls": [
+    {
+      "aria": "Zum Inhalt springen",
+      "bounds": [
+        16,
+        -80,
+        178,
+        39
+      ],
+      "offscreen": true,
+      "ref": "e574",
+      "role": null,
+      "tag": "button",
+      "text": "ZUM INHALT SPRINGEN",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        5,
+        0,
+        48,
+        48
+      ],
+      "ref": "e575",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Menü schließen",
+      "type": "button"
+    },
+    {
+      "aria": "Aktualisieren",
+      "bounds": [
+        1072,
+        0,
+        48,
+        48
+      ],
+      "ref": "e576",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Aktualisieren",
+      "type": "button"
+    },
+    {
+      "aria": "Aktuelle Wiedergabe",
+      "bounds": [
+        1120,
+        2,
+        44,
+        44
+      ],
+      "ref": "e577",
+      "role": null,
+      "tag": "button",
+      "text": "0",
+      "title": "Aktuelle Wiedergabe",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1164,
+        2,
+        44,
+        44
+      ],
+      "ref": "e578",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Aktivität",
+      "type": "button"
+    },
+    {
+      "aria": "Einstellungen",
+      "bounds": [
+        1208,
+        0,
+        48,
+        48
+      ],
+      "ref": "e579",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Einstellungen",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        0,
+        56,
+        240,
+        36
+      ],
+      "ref": "e580",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "Alben"
+    },
+    {
+      "bounds": [
+        0,
+        92,
+        240,
+        36
+      ],
+      "href": "/app/#/album/all",
+      "ref": "e581",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Alle"
+    },
+    {
+      "bounds": [
+        0,
+        128,
+        240,
+        36
+      ],
+      "href": "/app/#/album/random",
+      "ref": "e582",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Zufällig"
+    },
+    {
+      "bounds": [
+        0,
+        164,
+        240,
+        36
+      ],
+      "href": "/app/#/album/starred",
+      "ref": "e583",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Favorit"
+    },
+    {
+      "bounds": [
+        0,
+        200,
+        240,
+        36
+      ],
+      "href": "/app/#/album/topRated",
+      "ref": "e584",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Beste Bewertung"
+    },
+    {
+      "bounds": [
+        0,
+        236,
+        240,
+        36
+      ],
+      "href": "/app/#/album/recentlyAdded",
+      "ref": "e585",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Kürzlich hinzugefügt"
+    },
+    {
+      "bounds": [
+        0,
+        272,
+        240,
+        36
+      ],
+      "href": "/app/#/album/recentlyPlayed",
+      "ref": "e586",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Kürzlich gespielt"
+    },
+    {
+      "bounds": [
+        0,
+        308,
+        240,
+        36
+      ],
+      "href": "/app/#/album/mostPlayed",
+      "ref": "e587",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Meist gespielt"
+    },
+    {
+      "bounds": [
+        0,
+        344,
+        240,
+        36
+      ],
+      "href": "/app/#/artist",
+      "ref": "e588",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Interpreten"
+    },
+    {
+      "bounds": [
+        0,
+        380,
+        240,
+        36
+      ],
+      "href": "/app/#/song",
+      "ref": "e589",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Titel"
+    },
+    {
+      "bounds": [
+        0,
+        416,
+        240,
+        36
+      ],
+      "href": "/app/#/radio",
+      "ref": "e590",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Radios"
+    },
+    {
+      "bounds": [
+        0,
+        452,
+        240,
+        36
+      ],
+      "href": "/app/#/share",
+      "ref": "e591",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Freigaben"
+    },
+    {
+      "bounds": [
+        0,
+        489,
+        240,
+        38
+      ],
+      "ref": "e592",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "Wiedergabelisten"
+    },
+    {
+      "bounds": [
+        0,
+        527,
+        240,
+        36
+      ],
+      "href": "/app/#/playlist/38twxzzUM8jJKQl3cBFmei/show",
+      "ref": "e593",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Favourites"
+    },
+    {
+      "bounds": [
+        261,
+        96,
+        256,
+        40
+      ],
+      "ref": "e594",
+      "role": "button",
+      "tag": "div",
+      "text": "Dark"
+    },
+    {
+      "bounds": [
+        261,
+        172,
+        256,
+        40
+      ],
+      "focused": true,
+      "ref": "e595",
+      "role": "button",
+      "tag": "div",
+      "text": "Deutsch ⁦(98%)⁩"
+    },
+    {
+      "bounds": [
+        261,
+        248,
+        256,
+        40
+      ],
+      "ref": "e596",
+      "role": "button",
+      "tag": "div",
+      "text": "Kürzlich hinzugefügt"
+    },
+    {
+      "bounds": [
+        261,
+        324,
+        256,
+        40
+      ],
+      "ref": "e597",
+      "role": "button",
+      "tag": "div",
+      "text": "Deaktiviert"
+    },
+    {
+      "bounds": [
+        250,
+        392,
+        267,
+        38
+      ],
+      "checked": false,
+      "label": "Desktop-Benachrichtigungen",
+      "proxy": true,
+      "ref": "e598",
+      "role": null,
+      "tag": "input",
+      "text": "Desktop-Benachrichtigungen",
+      "type": "checkbox",
+      "value": ""
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "ZUM INHALT SPRINGEN\nNavidrome - Persönlich\n0\nAlben\nAlle\nZufällig\nFavorit\nBeste Bewertung\nKürzlich hinzugefügt\nKürzlich gespielt\nMeist gespielt\nInterpreten\nTitel\nRadios\nFreigaben\nWiedergabelisten\nFavourites\nDesign\nDark\n\n​\n\nSprache\nDeutsch ⁦(98%)⁩\n\n​\n\nStandard-Ansicht\nKürzlich hinzugefügt\n\n​\n\nReplayGain Modus\nDeaktiviert\n\n​\n\n\n\nDesktop-Benachrichtigungen",
+  "text_truncated": false,
+  "title": "Navidrome",
+  "url": "/app/#/personal",
+  "viewport": [
+    1280,
+    900
+  ]
+}

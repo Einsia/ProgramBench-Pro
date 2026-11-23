@@ -1,0 +1,231 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        80,
+        20,
+        184,
+        42
+      ],
+      "ref": "e75fe0e2a",
+      "tag": "a"
+    },
+    {
+      "bounds": [
+        104,
+        555,
+        304,
+        32
+      ],
+      "ref": "e3b31d06f",
+      "tag": "button",
+      "text": "Add an issue"
+    },
+    {
+      "bounds": [
+        485,
+        220,
+        694,
+        30
+      ],
+      "placeholder": "Title",
+      "ref": "e5392364d",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "aria": "Undo",
+      "bounds": [
+        488,
+        271,
+        32,
+        36
+      ],
+      "disabled": true,
+      "ref": "ee423413c",
+      "tag": "button"
+    },
+    {
+      "aria": "Redo",
+      "bounds": [
+        522,
+        271,
+        32,
+        36
+      ],
+      "disabled": true,
+      "ref": "e61267e72",
+      "tag": "button"
+    },
+    {
+      "aria": "Formatting Options",
+      "bounds": [
+        572,
+        271,
+        121,
+        36
+      ],
+      "ref": "ec7b1b0e8",
+      "tag": "button",
+      "text": "Paragraph"
+    },
+    {
+      "aria": "Format Bold",
+      "bounds": [
+        711,
+        271,
+        32,
+        36
+      ],
+      "ref": "e1ab0a65a",
+      "tag": "button"
+    },
+    {
+      "aria": "Format Italics",
+      "bounds": [
+        745,
+        271,
+        32,
+        36
+      ],
+      "ref": "ea52068d4",
+      "tag": "button"
+    },
+    {
+      "aria": "Format Underline",
+      "bounds": [
+        779,
+        271,
+        32,
+        36
+      ],
+      "ref": "ea0a7178d",
+      "tag": "button"
+    },
+    {
+      "aria": "Format Strikethrough",
+      "bounds": [
+        813,
+        271,
+        32,
+        36
+      ],
+      "ref": "e86cecc4a",
+      "tag": "button"
+    },
+    {
+      "aria": "Insert Code",
+      "bounds": [
+        847,
+        271,
+        32,
+        36
+      ],
+      "ref": "e602ebb8e",
+      "tag": "button"
+    },
+    {
+      "aria": "Insert Link",
+      "bounds": [
+        881,
+        271,
+        32,
+        36
+      ],
+      "ref": "ee60badc7",
+      "tag": "button"
+    },
+    {
+      "aria": "Left Align",
+      "bounds": [
+        925,
+        271,
+        32,
+        36
+      ],
+      "ref": "eeb3bacda",
+      "tag": "button"
+    },
+    {
+      "aria": "Center Align",
+      "bounds": [
+        959,
+        271,
+        32,
+        36
+      ],
+      "ref": "e9f903616",
+      "tag": "button"
+    },
+    {
+      "aria": "Right Align",
+      "bounds": [
+        993,
+        271,
+        32,
+        36
+      ],
+      "ref": "eff183157",
+      "tag": "button"
+    },
+    {
+      "aria": "Justify Align",
+      "bounds": [
+        1027,
+        271,
+        32,
+        36
+      ],
+      "ref": "e7edf9a19",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        484,
+        314,
+        696,
+        160
+      ],
+      "ref": "ed9cc1a0d",
+      "role": "textbox",
+      "tag": "div",
+      "value": "\n"
+    },
+    {
+      "bounds": [
+        484,
+        490,
+        696,
+        99
+      ],
+      "ref": "ed3d65b0b",
+      "role": "button",
+      "tag": "div",
+      "text": "Click to upload the file or drag and drop the file here Upload up to 3 images"
+    },
+    {
+      "bounds": [
+        1085,
+        605,
+        95,
+        32
+      ],
+      "disabled": true,
+      "ref": "e48248012",
+      "tag": "button",
+      "text": "Submit"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "text": "Report a bug\nDescribe the bug\nPlease provide a clear and concise description of what the bug is.\nSteps to reproduce the bug\nPlease provide the steps of how to reproduce the bug.\nExpected behaviour\nTell us what you expected to see vs what you saw.\nYour browser and device\nWhat web browser and device did you encounter the bug on.\nScreenshots\nAdd any relevant images if possible.\nAlternatively\nWe value your feedback! If you've encountered a bug or issue while using our platform, please help us improve by reporting it. Your input is invaluable in making our service better.\nDescribe the bug\n©\n2026\ndrawDB\n- All rights reserved.",
+  "text_truncated": false,
+  "title": "Report a bug | drawDB",
+  "url": "/bug-report",
+  "viewport": [
+    1280,
+    900
+  ]
+}

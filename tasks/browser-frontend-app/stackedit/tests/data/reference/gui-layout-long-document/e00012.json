@@ -1,0 +1,335 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "aria": "Toggle explorer",
+      "bounds": [
+        4,
+        4,
+        38,
+        36
+      ],
+      "ref": "ec7f51653",
+      "tag": "button",
+      "title": "Toggle explorer"
+    },
+    {
+      "aria": "Toggle side bar",
+      "bounds": [
+        1238,
+        4,
+        38,
+        36
+      ],
+      "ref": "ea06d0b6b",
+      "tag": "button",
+      "title": "Toggle side bar"
+    },
+    {
+      "bounds": [
+        996,
+        4,
+        146,
+        36
+      ],
+      "label": "Welcome file",
+      "ref": "ea114dae2",
+      "tag": "input",
+      "type": "text",
+      "value": "Welcome file"
+    },
+    {
+      "aria": "Synchronize now",
+      "bounds": [
+        1151,
+        4,
+        34,
+        36
+      ],
+      "disabled": true,
+      "ref": "e480c8073",
+      "tag": "button",
+      "title": "Synchronize now"
+    },
+    {
+      "aria": "Publish now",
+      "bounds": [
+        1195,
+        4,
+        34,
+        36
+      ],
+      "disabled": true,
+      "ref": "e2878dba3",
+      "tag": "button",
+      "title": "Publish now"
+    },
+    {
+      "aria": "Undo",
+      "bounds": [
+        54,
+        4,
+        34,
+        36
+      ],
+      "ref": "ed972f7af",
+      "tag": "button",
+      "title": "Undo"
+    },
+    {
+      "aria": "Redo",
+      "bounds": [
+        88,
+        4,
+        34,
+        36
+      ],
+      "disabled": true,
+      "ref": "ed30b390f",
+      "tag": "button",
+      "title": "Redo"
+    },
+    {
+      "aria": "Bold – Ctrl+Shift+B",
+      "bounds": [
+        130,
+        4,
+        34,
+        36
+      ],
+      "ref": "ea31dff83",
+      "tag": "button",
+      "title": "Bold – Ctrl+Shift+B"
+    },
+    {
+      "aria": "Italic – Ctrl+Shift+I",
+      "bounds": [
+        164,
+        4,
+        34,
+        36
+      ],
+      "ref": "ece8e9a2b",
+      "tag": "button",
+      "title": "Italic – Ctrl+Shift+I"
+    },
+    {
+      "aria": "Heading – Ctrl+Shift+H",
+      "bounds": [
+        198,
+        4,
+        34,
+        36
+      ],
+      "ref": "ee31adf97",
+      "tag": "button",
+      "title": "Heading – Ctrl+Shift+H"
+    },
+    {
+      "aria": "Strikethrough – Ctrl+Shift+S",
+      "bounds": [
+        232,
+        4,
+        34,
+        36
+      ],
+      "ref": "e504de92f",
+      "tag": "button",
+      "title": "Strikethrough – Ctrl+Shift+S"
+    },
+    {
+      "aria": "Unordered list – Ctrl+Shift+U",
+      "bounds": [
+        274,
+        4,
+        34,
+        36
+      ],
+      "ref": "e085fcfef",
+      "tag": "button",
+      "title": "Unordered list – Ctrl+Shift+U"
+    },
+    {
+      "aria": "Ordered list – Ctrl+Shift+O",
+      "bounds": [
+        308,
+        4,
+        34,
+        36
+      ],
+      "ref": "ef710c88b",
+      "tag": "button",
+      "title": "Ordered list – Ctrl+Shift+O"
+    },
+    {
+      "aria": "Check list – Ctrl+Shift+C",
+      "bounds": [
+        342,
+        4,
+        34,
+        36
+      ],
+      "ref": "e6821dd9b",
+      "tag": "button",
+      "title": "Check list – Ctrl+Shift+C"
+    },
+    {
+      "aria": "Blockquote – Ctrl+Shift+Q",
+      "bounds": [
+        384,
+        4,
+        34,
+        36
+      ],
+      "ref": "ee12273bf",
+      "tag": "button",
+      "title": "Blockquote – Ctrl+Shift+Q"
+    },
+    {
+      "aria": "Code – Ctrl+Shift+K",
+      "bounds": [
+        418,
+        4,
+        34,
+        36
+      ],
+      "ref": "e369da927",
+      "tag": "button",
+      "title": "Code – Ctrl+Shift+K"
+    },
+    {
+      "aria": "Table – Ctrl+Shift+T",
+      "bounds": [
+        452,
+        4,
+        34,
+        36
+      ],
+      "ref": "efe77f797",
+      "tag": "button",
+      "title": "Table – Ctrl+Shift+T"
+    },
+    {
+      "aria": "Link – Ctrl+Shift+L",
+      "bounds": [
+        486,
+        4,
+        34,
+        36
+      ],
+      "ref": "ea7c140a7",
+      "tag": "button",
+      "title": "Link – Ctrl+Shift+L"
+    },
+    {
+      "aria": "Image – Ctrl+Shift+G",
+      "bounds": [
+        520,
+        4,
+        34,
+        36
+      ],
+      "ref": "eedcb6ccf",
+      "tag": "button",
+      "title": "Image – Ctrl+Shift+G"
+    },
+    {
+      "bounds": [
+        0,
+        44,
+        627,
+        836
+      ],
+      "editable": true,
+      "ref": "e7f7e7bc4",
+      "tag": "pre",
+      "text": "## Beacon 01 Station 01 — a distinct coastal marker. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing",
+      "value": "## Beacon 01\n\nStation 01 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 02\n\nStation 02 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 03\n\nStation 03 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 04\n\nStation 04 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 05\n\nStation 05 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 06\n\nStation 06 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 07\n\nStation 07 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 08\n\nStation 08 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 09\n\nStation 09 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 10\n\nStation 10 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 11\n\nStation 11 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 12\n\nStation 12 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 13\n\nStation 13 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 14\n\nStation 14 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 15\n\nStation 15 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 16\n\nStation 16 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 17\n\nStation 17 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 18\n\nStation 18 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 19\n\nStation 19 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 20\n\nStation 20 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 21\n\nStation 21 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 22\n\nStation 22 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 23\n\nStation 23 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 24\n\nStation 24 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 25\n\nStation 25 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 26\n\nStation 26 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 27\n\nStation 27 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 28\n\nStation 28 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 29\n\nStation 29 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 30\n\nStation 30 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 31\n\nStation 31 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 32\n\nStation 32 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 33\n\nStation 33 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 34\n\nStation 34 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n\n## Beacon 35\n\nStation 35 — a distinct coastal marker.\n\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. \n",
+      "value_truncated": false
+    },
+    {
+      "aria": "Toggle navigation bar",
+      "bounds": [
+        627,
+        47,
+        26,
+        26
+      ],
+      "ref": "e98fccd07",
+      "tag": "button",
+      "title": "Toggle navigation bar"
+    },
+    {
+      "aria": "Toggle side preview",
+      "bounds": [
+        627,
+        76,
+        26,
+        26
+      ],
+      "ref": "e594daaff",
+      "tag": "button",
+      "title": "Toggle side preview"
+    },
+    {
+      "aria": "Reader mode",
+      "bounds": [
+        627,
+        105,
+        26,
+        26
+      ],
+      "ref": "e2b927937",
+      "tag": "button",
+      "title": "Reader mode"
+    },
+    {
+      "aria": "Toggle focus mode",
+      "bounds": [
+        627,
+        793,
+        26,
+        26
+      ],
+      "ref": "eedaa47cb",
+      "tag": "button",
+      "title": "Toggle focus mode"
+    },
+    {
+      "aria": "Toggle scroll sync",
+      "bounds": [
+        627,
+        822,
+        26,
+        26
+      ],
+      "ref": "ed740000f",
+      "tag": "button",
+      "title": "Toggle scroll sync"
+    },
+    {
+      "aria": "Toggle status bar",
+      "bounds": [
+        627,
+        851,
+        26,
+        26
+      ],
+      "ref": "eac7847f7",
+      "tag": "button",
+      "title": "Toggle status bar"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "drawing": [],
+  "drawing_truncated": false,
+  "text": "Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor.\nBeacon 30\nStation 30 — a distinct coastal marker.\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor.\nBeacon 31\nStation 31 — a distinct coastal marker.\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor.\nBeacon 32\nStation 32 — a distinct coastal marker.\nSailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor. Sailing toward this harbor.\nMarkdown\n7874\nbytes\n1190\nwords\n209\nlines\nLn 209, Col 168\nHTML\n6475\ncharacters\n1155\nwords\n105\nparagraphs",
+  "text_truncated": false,
+  "title": "StackEdit",
+  "url": "/",
+  "viewport": [
+    1280,
+    900
+  ]
+}

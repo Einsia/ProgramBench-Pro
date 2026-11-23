@@ -1,0 +1,448 @@
+{
+  "base_style": [
+    "fg=black",
+    "bg=5f87d7"
+  ],
+  "cursor": {
+    "column": 0,
+    "hidden": true,
+    "row": 0
+  },
+  "process": "running",
+  "screen": [
+    "00|  File  Edit  View  Column  Row  Data  Plot  System  Help     | VisiData 3.4 | Support VisiData: https://github.com/spon",
+    "01| owner │ pet  ║",
+    "02| 1     │ cat  ║",
+    "03| 1     │ dog  ║",
+    "04| 2     │ fish ║",
+    "05| 9     │ bird ║",
+    "06|",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|",
+    "12|",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|",
+    "19|",
+    "20|",
+    "21|",
+    "22|",
+    "23|",
+    "24|",
+    "25|",
+    "26|",
+    "27|",
+    "28|",
+    "29|",
+    "30|",
+    "31|",
+    "32|",
+    "33|",
+    "34|",
+    "35|1📂workspace | 2›pets|                                                            gl   go-rightmost          4 rows [1]"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        2,
+        3
+      ],
+      "row": 0,
+      "style": [
+        "underline",
+        "fg=black",
+        "bg=5f87d7"
+      ],
+      "text": "F"
+    },
+    {
+      "columns": [
+        8,
+        9
+      ],
+      "row": 0,
+      "style": [
+        "underline",
+        "fg=black",
+        "bg=5f87d7"
+      ],
+      "text": "E"
+    },
+    {
+      "columns": [
+        14,
+        15
+      ],
+      "row": 0,
+      "style": [
+        "underline",
+        "fg=black",
+        "bg=5f87d7"
+      ],
+      "text": "V"
+    },
+    {
+      "columns": [
+        20,
+        21
+      ],
+      "row": 0,
+      "style": [
+        "underline",
+        "fg=black",
+        "bg=5f87d7"
+      ],
+      "text": "C"
+    },
+    {
+      "columns": [
+        28,
+        29
+      ],
+      "row": 0,
+      "style": [
+        "underline",
+        "fg=black",
+        "bg=5f87d7"
+      ],
+      "text": "R"
+    },
+    {
+      "columns": [
+        33,
+        34
+      ],
+      "row": 0,
+      "style": [
+        "underline",
+        "fg=black",
+        "bg=5f87d7"
+      ],
+      "text": "D"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 0,
+      "style": [
+        "underline",
+        "fg=black",
+        "bg=5f87d7"
+      ],
+      "text": "P"
+    },
+    {
+      "columns": [
+        45,
+        46
+      ],
+      "row": 0,
+      "style": [
+        "underline",
+        "fg=black",
+        "bg=5f87d7"
+      ],
+      "text": "S"
+    },
+    {
+      "columns": [
+        53,
+        54
+      ],
+      "row": 0,
+      "style": [
+        "underline",
+        "fg=black",
+        "bg=5f87d7"
+      ],
+      "text": "H"
+    },
+    {
+      "columns": [
+        0,
+        7
+      ],
+      "row": 1,
+      "style": [
+        "underline",
+        "fg=white",
+        "bg=black"
+      ],
+      "text": " owner "
+    },
+    {
+      "columns": [
+        7,
+        8
+      ],
+      "row": 1,
+      "style": [
+        "fg=white",
+        "bg=black"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        8,
+        14
+      ],
+      "row": 1,
+      "style": [
+        "bold",
+        "underline",
+        "reverse",
+        "fg=white",
+        "bg=black"
+      ],
+      "text": " pet  "
+    },
+    {
+      "columns": [
+        14,
+        120
+      ],
+      "row": 1,
+      "style": [
+        "fg=white",
+        "bg=black"
+      ],
+      "text": "║                                                                                                         "
+    },
+    {
+      "columns": [
+        0,
+        8
+      ],
+      "row": 2,
+      "style": [
+        "fg=white",
+        "bg=black"
+      ],
+      "text": " 1     │"
+    },
+    {
+      "columns": [
+        8,
+        14
+      ],
+      "row": 2,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=080808"
+      ],
+      "text": " cat  "
+    },
+    {
+      "columns": [
+        14,
+        120
+      ],
+      "row": 2,
+      "style": [
+        "fg=white",
+        "bg=black"
+      ],
+      "text": "║                                                                                                         "
+    },
+    {
+      "columns": [
+        0,
+        8
+      ],
+      "row": 3,
+      "style": [
+        "fg=white",
+        "bg=black"
+      ],
+      "text": " 1     │"
+    },
+    {
+      "columns": [
+        8,
+        14
+      ],
+      "row": 3,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=080808"
+      ],
+      "text": " dog  "
+    },
+    {
+      "columns": [
+        14,
+        120
+      ],
+      "row": 3,
+      "style": [
+        "fg=white",
+        "bg=black"
+      ],
+      "text": "║                                                                                                         "
+    },
+    {
+      "columns": [
+        0,
+        8
+      ],
+      "row": 4,
+      "style": [
+        "fg=white",
+        "bg=black"
+      ],
+      "text": " 2     │"
+    },
+    {
+      "columns": [
+        8,
+        14
+      ],
+      "row": 4,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=080808"
+      ],
+      "text": " fish "
+    },
+    {
+      "columns": [
+        14,
+        120
+      ],
+      "row": 4,
+      "style": [
+        "fg=white",
+        "bg=black"
+      ],
+      "text": "║                                                                                                         "
+    },
+    {
+      "columns": [
+        0,
+        7
+      ],
+      "row": 5,
+      "style": [
+        "reverse",
+        "fg=white",
+        "bg=black"
+      ],
+      "text": " 9     "
+    },
+    {
+      "columns": [
+        7,
+        8
+      ],
+      "row": 5,
+      "style": [
+        "reverse"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        8,
+        14
+      ],
+      "row": 5,
+      "style": [
+        "bold",
+        "reverse",
+        "fg=white",
+        "bg=080808"
+      ],
+      "text": " bird "
+    },
+    {
+      "columns": [
+        14,
+        15
+      ],
+      "row": 5,
+      "style": [
+        "reverse"
+      ],
+      "text": "║"
+    },
+    {
+      "columns": [
+        0,
+        12
+      ],
+      "row": 35,
+      "style": [
+        "bold",
+        "fg=black",
+        "bg=5f87d7"
+      ],
+      "text": "1📂workspace"
+    },
+    {
+      "columns": [
+        15,
+        21
+      ],
+      "row": 35,
+      "style": [
+        "fg=ffd7af",
+        "bg=black"
+      ],
+      "text": "2›pets"
+    },
+    {
+      "columns": [
+        82,
+        84
+      ],
+      "row": 35,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=3a3a3a"
+      ],
+      "text": "gl"
+    },
+    {
+      "columns": [
+        87,
+        99
+      ],
+      "row": 35,
+      "style": [
+        "fg=white",
+        "bg=5f87d7"
+      ],
+      "text": "go-rightmost"
+    },
+    {
+      "columns": [
+        116,
+        119
+      ],
+      "row": 35,
+      "style": [
+        "bold",
+        "fg=black",
+        "bg=87d787"
+      ],
+      "text": "[1]"
+    }
+  ]
+}

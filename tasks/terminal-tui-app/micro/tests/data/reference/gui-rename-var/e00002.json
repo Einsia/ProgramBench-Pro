@@ -1,0 +1,296 @@
+{
+  "base_style": [
+    "fg=brightwhite",
+    "bg=262626"
+  ],
+  "cursor": {
+    "column": 2,
+    "hidden": false,
+    "row": 0
+  },
+  "process": "running",
+  "screen": [
+    "00|1 def area(w, h):",
+    "01|2     value = w * h",
+    "02|3     return value",
+    "03|4",
+    "04|5 print(area(2, 3))",
+    "05|6",
+    "06|",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|",
+    "12|",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|",
+    "19|",
+    "20|",
+    "21|",
+    "22|",
+    "23|",
+    "24|",
+    "25|",
+    "26|",
+    "27|",
+    "28|",
+    "29|",
+    "30|",
+    "31|",
+    "32|",
+    "33|",
+    "34|area.py (1,1) | ft:python | unix | utf-8                                                   Alt-g: bindings, Ctrl-g: help",
+    "35|Saved area.py"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 0,
+      "style": [
+        "fg=a8a8a8",
+        "bg=262626"
+      ],
+      "text": "1 "
+    },
+    {
+      "columns": [
+        2,
+        6
+      ],
+      "row": 0,
+      "style": [
+        "fg=d7005f",
+        "bg=303030"
+      ],
+      "text": "def "
+    },
+    {
+      "columns": [
+        6,
+        10
+      ],
+      "row": 0,
+      "style": [
+        "fg=5fd7ff",
+        "bg=303030"
+      ],
+      "text": "area"
+    },
+    {
+      "columns": [
+        10,
+        12
+      ],
+      "row": 0,
+      "style": [
+        "fg=brightwhite",
+        "bg=303030"
+      ],
+      "text": "(w"
+    },
+    {
+      "columns": [
+        12,
+        14
+      ],
+      "row": 0,
+      "style": [
+        "fg=d7005f",
+        "bg=303030"
+      ],
+      "text": ", "
+    },
+    {
+      "columns": [
+        14,
+        16
+      ],
+      "row": 0,
+      "style": [
+        "fg=brightwhite",
+        "bg=303030"
+      ],
+      "text": "h)"
+    },
+    {
+      "columns": [
+        16,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "fg=d7005f",
+        "bg=303030"
+      ],
+      "text": ":                                                                                                       "
+    },
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 1,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "2 "
+    },
+    {
+      "columns": [
+        12,
+        14
+      ],
+      "row": 1,
+      "style": [
+        "fg=d7005f",
+        "bg=262626"
+      ],
+      "text": "= "
+    },
+    {
+      "columns": [
+        16,
+        18
+      ],
+      "row": 1,
+      "style": [
+        "fg=d7005f",
+        "bg=262626"
+      ],
+      "text": "* "
+    },
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 2,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "3 "
+    },
+    {
+      "columns": [
+        6,
+        13
+      ],
+      "row": 2,
+      "style": [
+        "fg=d7005f",
+        "bg=262626"
+      ],
+      "text": "return "
+    },
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 3,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "4 "
+    },
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 4,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "5 "
+    },
+    {
+      "columns": [
+        2,
+        7
+      ],
+      "row": 4,
+      "style": [
+        "fg=5fd7ff",
+        "bg=262626"
+      ],
+      "text": "print"
+    },
+    {
+      "columns": [
+        13,
+        14
+      ],
+      "row": 4,
+      "style": [
+        "fg=af87ff",
+        "bg=262626"
+      ],
+      "text": "2"
+    },
+    {
+      "columns": [
+        14,
+        16
+      ],
+      "row": 4,
+      "style": [
+        "fg=d7005f",
+        "bg=262626"
+      ],
+      "text": ", "
+    },
+    {
+      "columns": [
+        16,
+        17
+      ],
+      "row": 4,
+      "style": [
+        "fg=af87ff",
+        "bg=262626"
+      ],
+      "text": "3"
+    },
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 5,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "6 "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "fg=262626",
+        "bg=brightwhite"
+      ],
+      "text": "area.py (1,1) | ft:python | unix | utf-8                                                   Alt-g: bindings, Ctrl-g: help"
+    }
+  ]
+}

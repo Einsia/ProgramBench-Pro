@@ -1,0 +1,612 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "aria": "Toggle explorer",
+      "bounds": [
+        4,
+        4,
+        38,
+        36
+      ],
+      "ref": "ec7f51653",
+      "tag": "button",
+      "title": "Toggle explorer"
+    },
+    {
+      "aria": "Toggle side bar",
+      "bounds": [
+        958,
+        4,
+        38,
+        36
+      ],
+      "ref": "ea06d0b6b",
+      "tag": "button",
+      "title": "Toggle side bar"
+    },
+    {
+      "bounds": [
+        716,
+        4,
+        146,
+        36
+      ],
+      "label": "Welcome file",
+      "ref": "ea114dae2",
+      "tag": "input",
+      "type": "text",
+      "value": "Welcome file"
+    },
+    {
+      "aria": "Synchronize now",
+      "bounds": [
+        871,
+        4,
+        34,
+        36
+      ],
+      "disabled": true,
+      "ref": "e480c8073",
+      "tag": "button",
+      "title": "Synchronize now"
+    },
+    {
+      "aria": "Publish now",
+      "bounds": [
+        915,
+        4,
+        34,
+        36
+      ],
+      "disabled": true,
+      "ref": "e2878dba3",
+      "tag": "button",
+      "title": "Publish now"
+    },
+    {
+      "aria": "Undo",
+      "bounds": [
+        54,
+        4,
+        34,
+        36
+      ],
+      "ref": "ed972f7af",
+      "tag": "button",
+      "title": "Undo"
+    },
+    {
+      "aria": "Redo",
+      "bounds": [
+        88,
+        4,
+        34,
+        36
+      ],
+      "disabled": true,
+      "ref": "ed30b390f",
+      "tag": "button",
+      "title": "Redo"
+    },
+    {
+      "aria": "Bold – Ctrl+Shift+B",
+      "bounds": [
+        130,
+        4,
+        34,
+        36
+      ],
+      "ref": "ea31dff83",
+      "tag": "button",
+      "title": "Bold – Ctrl+Shift+B"
+    },
+    {
+      "aria": "Italic – Ctrl+Shift+I",
+      "bounds": [
+        164,
+        4,
+        34,
+        36
+      ],
+      "ref": "ece8e9a2b",
+      "tag": "button",
+      "title": "Italic – Ctrl+Shift+I"
+    },
+    {
+      "aria": "Heading – Ctrl+Shift+H",
+      "bounds": [
+        198,
+        4,
+        34,
+        36
+      ],
+      "ref": "ee31adf97",
+      "tag": "button",
+      "title": "Heading – Ctrl+Shift+H"
+    },
+    {
+      "aria": "Strikethrough – Ctrl+Shift+S",
+      "bounds": [
+        232,
+        4,
+        34,
+        36
+      ],
+      "ref": "e504de92f",
+      "tag": "button",
+      "title": "Strikethrough – Ctrl+Shift+S"
+    },
+    {
+      "aria": "Unordered list – Ctrl+Shift+U",
+      "bounds": [
+        274,
+        4,
+        34,
+        36
+      ],
+      "ref": "e085fcfef",
+      "tag": "button",
+      "title": "Unordered list – Ctrl+Shift+U"
+    },
+    {
+      "aria": "Ordered list – Ctrl+Shift+O",
+      "bounds": [
+        308,
+        4,
+        34,
+        36
+      ],
+      "ref": "ef710c88b",
+      "tag": "button",
+      "title": "Ordered list – Ctrl+Shift+O"
+    },
+    {
+      "aria": "Check list – Ctrl+Shift+C",
+      "bounds": [
+        342,
+        4,
+        34,
+        36
+      ],
+      "ref": "e6821dd9b",
+      "tag": "button",
+      "title": "Check list – Ctrl+Shift+C"
+    },
+    {
+      "aria": "Blockquote – Ctrl+Shift+Q",
+      "bounds": [
+        384,
+        4,
+        34,
+        36
+      ],
+      "ref": "ee12273bf",
+      "tag": "button",
+      "title": "Blockquote – Ctrl+Shift+Q"
+    },
+    {
+      "aria": "Code – Ctrl+Shift+K",
+      "bounds": [
+        418,
+        4,
+        34,
+        36
+      ],
+      "ref": "e369da927",
+      "tag": "button",
+      "title": "Code – Ctrl+Shift+K"
+    },
+    {
+      "aria": "Table – Ctrl+Shift+T",
+      "bounds": [
+        452,
+        4,
+        34,
+        36
+      ],
+      "ref": "efe77f797",
+      "tag": "button",
+      "title": "Table – Ctrl+Shift+T"
+    },
+    {
+      "aria": "Link – Ctrl+Shift+L",
+      "bounds": [
+        486,
+        4,
+        34,
+        36
+      ],
+      "ref": "ea7c140a7",
+      "tag": "button",
+      "title": "Link – Ctrl+Shift+L"
+    },
+    {
+      "aria": "Image – Ctrl+Shift+G",
+      "bounds": [
+        520,
+        4,
+        34,
+        36
+      ],
+      "ref": "eedcb6ccf",
+      "tag": "button",
+      "title": "Image – Ctrl+Shift+G"
+    },
+    {
+      "bounds": [
+        0,
+        44,
+        487,
+        513
+      ],
+      "editable": true,
+      "ref": "ec6631218",
+      "tag": "pre",
+      "text": "Harbor notes A short document.",
+      "value": "Harbor notes\n\nA short document.\n",
+      "value_truncated": false
+    },
+    {
+      "aria": "Toggle navigation bar",
+      "bounds": [
+        487,
+        47,
+        26,
+        26
+      ],
+      "ref": "e98fccd07",
+      "tag": "button",
+      "title": "Toggle navigation bar"
+    },
+    {
+      "aria": "Toggle side preview",
+      "bounds": [
+        487,
+        76,
+        26,
+        26
+      ],
+      "ref": "e594daaff",
+      "tag": "button",
+      "title": "Toggle side preview"
+    },
+    {
+      "aria": "Reader mode",
+      "bounds": [
+        487,
+        105,
+        26,
+        26
+      ],
+      "ref": "e2b927937",
+      "tag": "button",
+      "title": "Reader mode"
+    },
+    {
+      "aria": "Toggle focus mode",
+      "bounds": [
+        487,
+        793,
+        26,
+        26
+      ],
+      "ref": "eedaa47cb",
+      "tag": "button",
+      "title": "Toggle focus mode"
+    },
+    {
+      "aria": "Toggle scroll sync",
+      "bounds": [
+        487,
+        822,
+        26,
+        26
+      ],
+      "ref": "ed740000f",
+      "tag": "button",
+      "title": "Toggle scroll sync"
+    },
+    {
+      "aria": "Toggle status bar",
+      "bounds": [
+        487,
+        851,
+        26,
+        26
+      ],
+      "ref": "eac7847f7",
+      "tag": "button",
+      "title": "Toggle status bar"
+    },
+    {
+      "aria": "Close side bar",
+      "bounds": [
+        1238,
+        4,
+        38,
+        36
+      ],
+      "ref": "ee7c9cd2f",
+      "tag": "button",
+      "title": "Close side bar"
+    },
+    {
+      "bounds": [
+        1010,
+        44,
+        260,
+        41
+      ],
+      "ref": "ec5eeb6a3",
+      "tag": "a",
+      "text": "History Track and restore file revisions."
+    },
+    {
+      "bounds": [
+        1010,
+        85,
+        260,
+        75
+      ],
+      "ref": "ed5ac8829",
+      "tag": "a",
+      "text": "File properties Add metadata and configure extensions."
+    },
+    {
+      "bounds": [
+        1010,
+        181,
+        260,
+        44
+      ],
+      "ref": "e0fe426bc",
+      "tag": "a",
+      "text": "Table of contents"
+    },
+    {
+      "bounds": [
+        1010,
+        224,
+        260,
+        44
+      ],
+      "ref": "eb1ee917c",
+      "tag": "a",
+      "text": "Markdown cheat sheet"
+    },
+    {
+      "bounds": [
+        1010,
+        289,
+        260,
+        44
+      ],
+      "ref": "e30682a01",
+      "tag": "a",
+      "text": "Import/export"
+    },
+    {
+      "bounds": [
+        1010,
+        333,
+        260,
+        44
+      ],
+      "ref": "ea416aa86",
+      "tag": "a",
+      "text": "Print"
+    },
+    {
+      "bounds": [
+        1010,
+        398,
+        260,
+        75
+      ],
+      "ref": "e912254f8",
+      "tag": "a",
+      "text": "1/93 Badges List application features and earned badges."
+    },
+    {
+      "bounds": [
+        1010,
+        473,
+        260,
+        75
+      ],
+      "ref": "e2b113931",
+      "tag": "a",
+      "text": "0 Accounts Manage access to your external accounts."
+    },
+    {
+      "bounds": [
+        1010,
+        548,
+        260,
+        75
+      ],
+      "ref": "ed99311bf",
+      "tag": "a",
+      "text": "5 Templates Configure Handlebars templates for your exports."
+    },
+    {
+      "bounds": [
+        1010,
+        623,
+        260,
+        75
+      ],
+      "ref": "eb74013db",
+      "tag": "a",
+      "text": "Settings Tweak application and keyboard shortcuts."
+    },
+    {
+      "bounds": [
+        1010,
+        719,
+        260,
+        44
+      ],
+      "ref": "e4bc3647f",
+      "tag": "a",
+      "text": "Workspace backups"
+    },
+    {
+      "bounds": [
+        1010,
+        762,
+        260,
+        44
+      ],
+      "ref": "ee980b41c",
+      "tag": "a",
+      "text": "Reset application"
+    },
+    {
+      "bounds": [
+        1010,
+        806,
+        260,
+        44
+      ],
+      "ref": "ed7d7803c",
+      "tag": "a",
+      "text": "About StackEdit"
+    },
+    {
+      "aria": "Close modal",
+      "bounds": [
+        830,
+        48,
+        32,
+        32
+      ],
+      "ref": "e6ad5941f",
+      "tag": "button",
+      "title": "Close modal"
+    },
+    {
+      "bounds": [
+        661,
+        178,
+        52,
+        16
+      ],
+      "ref": "ea5b989b2",
+      "tag": "a",
+      "text": "GitHub"
+    },
+    {
+      "bounds": [
+        548,
+        205,
+        89,
+        16
+      ],
+      "ref": "ede7d46c6",
+      "tag": "a",
+      "text": "Issue tracker"
+    },
+    {
+      "bounds": [
+        658,
+        205,
+        74,
+        16
+      ],
+      "ref": "e1143296b",
+      "tag": "a",
+      "text": "Changelog"
+    },
+    {
+      "bounds": [
+        523,
+        231,
+        86,
+        16
+      ],
+      "ref": "e289299d8",
+      "tag": "a",
+      "text": "Chrome app"
+    },
+    {
+      "bounds": [
+        630,
+        231,
+        128,
+        16
+      ],
+      "ref": "e12586686",
+      "tag": "a",
+      "text": "Chrome extension"
+    },
+    {
+      "bounds": [
+        526,
+        258,
+        82,
+        16
+      ],
+      "ref": "e543ef4d4",
+      "tag": "a",
+      "text": "Community"
+    },
+    {
+      "bounds": [
+        629,
+        258,
+        126,
+        16
+      ],
+      "ref": "e8dadb314",
+      "tag": "a",
+      "text": "Tutos and How To"
+    },
+    {
+      "bounds": [
+        662,
+        285,
+        50,
+        16
+      ],
+      "ref": "e603ac71e",
+      "tag": "a",
+      "text": "Twitter"
+    },
+    {
+      "bounds": [
+        628,
+        821,
+        67,
+        15
+      ],
+      "ref": "ef06b4b29",
+      "tag": "a",
+      "text": "contact us"
+    },
+    {
+      "bounds": [
+        651,
+        876,
+        109,
+        16
+      ],
+      "ref": "ed270f350",
+      "tag": "a",
+      "text": "Apache License"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "drawing": [],
+  "drawing_truncated": false,
+  "text": "Harbor notes\nA short document.\nMarkdown\n32\nbytes\n5\nwords\n3\nlines\nLn 3, Col 17\nHTML\n26\ncharacters\n5\nwords\n2\nparagraphs\nMenu\nExport your files to the web.\nStackEdit on\n—\nStackEdit on\n© 2013-2019 Dock5 Software Ltd.\nv5.15.4\nFAQ\nWhere is my data stored?\nIf your workspace is not synced, your files are stored inside your browser and nowhere else.\nWe recommend syncing your workspace to make sure files won’t be lost in case your browser data is cleared. Self-hosted CouchDB or GitLab backends are well suited for privacy.\nCan StackEdit access my data without telling me?\nStackEdit is a browser-based application. The access tokens issued by Google, Dropbox, GitHub… are stored in your browser and are not sent to any kind of backend or 3\nrd\nparty so your data won’t be accessed by anyone.\nFor commercial support or custom development, please\n.\nLicensed under an",
+  "text_truncated": false,
+  "title": "StackEdit",
+  "url": "/",
+  "viewport": [
+    1280,
+    900
+  ]
+}

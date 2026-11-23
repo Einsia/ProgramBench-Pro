@@ -1,0 +1,18 @@
+Tig 2.6.1 — licences and corresponding source
+
+Copyright (c) 2006–2026 Jonas Fonseca and contributors.
+
+Tig is distributed under GPL-2.0-or-later. LICENSE is the complete GPL
+version 2 text.
+The complete, unmodified corresponding source for version 2.6.1 is:
+https://github.com/jonas/tig/releases/download/tig-2.6.1/tig-2.6.1.tar.gz
+Repository: https://github.com/jonas/tig
+
+SOURCE.json pins that release archive. solve.sh builds it with configure and
+make without changing upstream files, and retains the archive alongside the
+installed program. Its temporary build directory is removed after installation.
+
+launch.py, start.sh and confine.c are separate environment and isolation files.
+They configure the repository instance and apply Linux Landlock restrictions;
+confine.c is preserved with the compiled isolation library. This distribution
+is not affiliated with or endorsed by the Tig project.

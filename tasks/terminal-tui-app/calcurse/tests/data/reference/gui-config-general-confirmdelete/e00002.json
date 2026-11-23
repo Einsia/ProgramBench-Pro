@@ -1,0 +1,219 @@
+{
+  "cursor": {
+    "column": 72,
+    "hidden": true,
+    "row": 35
+  },
+  "process": "running",
+  "screen": [
+    "00|┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐",
+    "01|│                                                   general options                                                    │",
+    "02|├──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤",
+    "03|│ (empty line between events and appointments)                                                                         │",
+    "04|│                                                                                                                      │",
+    "05|│ appearance.dayseparator = yes                                                                                        │",
+    "06|│ (each day ends with an empty line)                                                                                   │",
+    "07|│                                                                                                                      │",
+    "08|│ appearance.emptyline = yes                                                                                           │",
+    "09|│ (insert an empty line after each appointment)                                                                        │",
+    "10|│                                                                                                                      │",
+    "11|│ appearance.emptyday = --",
+    "12|│ (text for a day without events and appointments)",
+    "13|│",
+    "14|│ general.autosave = yes",
+    "15|│ (if set to YES, automatic save is done when quitting)",
+    "16|│",
+    "17|│ general.autogc = no",
+    "18|│ (run the garbage collector when quitting)",
+    "19|│",
+    "20|│ general.periodicsave = 0",
+    "21|│ (if not null, automatically save data every 'periodic_save' minutes)",
+    "22|│",
+    "23|│ general.systemevents = yes                                                                                           │",
+    "24|│ (if YES, system events are turned into appointments (or else deleted))                                               │",
+    "25|│                                                                                                                      │",
+    "26|│ general.confirmquit = yes                                                                                            │",
+    "27|│ (if set to YES, confirmation is required before quitting)                                                            │",
+    "28|│                                                                                                                      │",
+    "29|│ general.confirmdelete = no                                                                                           │",
+    "30|│ (if set to YES, confirmation is required before deleting an event)                                                   │",
+    "31|│                                                                                                                      │",
+    "32|└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘",
+    "33|───[ Wed 2026-03-18 | 09:30:00 ]───(apts)───> 00:30 :: Example <────────────────────────────────────────────────────────",
+    "34|  q Quit                                                      j Down",
+    "35|  k Up                                                        e Edit Itm"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        52,
+        67
+      ],
+      "row": 1,
+      "style": [
+        "fg=red"
+      ],
+      "text": "general options"
+    },
+    {
+      "columns": [
+        28,
+        31
+      ],
+      "row": 5,
+      "style": [
+        "fg=green"
+      ],
+      "text": "yes"
+    },
+    {
+      "columns": [
+        25,
+        28
+      ],
+      "row": 8,
+      "style": [
+        "fg=green"
+      ],
+      "text": "yes"
+    },
+    {
+      "columns": [
+        24,
+        26
+      ],
+      "row": 11,
+      "style": [
+        "fg=red"
+      ],
+      "text": "--"
+    },
+    {
+      "columns": [
+        21,
+        24
+      ],
+      "row": 14,
+      "style": [
+        "fg=green"
+      ],
+      "text": "yes"
+    },
+    {
+      "columns": [
+        19,
+        21
+      ],
+      "row": 17,
+      "style": [
+        "fg=red"
+      ],
+      "text": "no"
+    },
+    {
+      "columns": [
+        25,
+        26
+      ],
+      "row": 20,
+      "style": [
+        "fg=red"
+      ],
+      "text": "0"
+    },
+    {
+      "columns": [
+        25,
+        28
+      ],
+      "row": 23,
+      "style": [
+        "fg=green"
+      ],
+      "text": "yes"
+    },
+    {
+      "columns": [
+        24,
+        27
+      ],
+      "row": 26,
+      "style": [
+        "fg=green"
+      ],
+      "text": "yes"
+    },
+    {
+      "columns": [
+        2,
+        28
+      ],
+      "row": 29,
+      "style": [
+        "fg=red"
+      ],
+      "text": "general.confirmdelete = no"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 33,
+      "style": [
+        "underline",
+        "reverse",
+        "fg=red"
+      ],
+      "text": "───[ Wed 2026-03-18 | 09:30:00 ]───(apts)───> 00:30 :: Example <────────────────────────────────────────────────────────"
+    },
+    {
+      "columns": [
+        2,
+        3
+      ],
+      "row": 34,
+      "style": [
+        "fg=red"
+      ],
+      "text": "q"
+    },
+    {
+      "columns": [
+        62,
+        63
+      ],
+      "row": 34,
+      "style": [
+        "fg=red"
+      ],
+      "text": "j"
+    },
+    {
+      "columns": [
+        2,
+        3
+      ],
+      "row": 35,
+      "style": [
+        "fg=red"
+      ],
+      "text": "k"
+    },
+    {
+      "columns": [
+        62,
+        63
+      ],
+      "row": 35,
+      "style": [
+        "fg=red"
+      ],
+      "text": "e"
+    }
+  ]
+}

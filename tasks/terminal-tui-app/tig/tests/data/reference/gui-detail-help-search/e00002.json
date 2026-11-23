@@ -1,0 +1,477 @@
+{
+  "cursor": {
+    "column": 0,
+    "hidden": true,
+    "row": 35
+  },
+  "process": "running",
+  "screen": [
+    "00|                           < back                       Go back to the previous view state",
+    "01|         <Down>, <Ctrl-N>, J next                       Move to next",
+    "02|           <Up>, <Ctrl-P>, K previous                   Move to previous",
+    "03|                         ',' parent                     Move to parent",
+    "04|                       <Tab> view-next                  Move focus to the next view",
+    "05|                     R, <F5> refresh                    Reload and refresh view",
+    "06|                           O maximize                   Maximize the current view",
+    "07|                           q view-close                 Close the current view",
+    "08|                 Q, <Ctrl-C> quit                       Close all views and quit",
+    "09|Cursor navigation",
+    "10|                           k move-up                    Move cursor one line up",
+    "11|                           j move-down                  Move cursor one line down",
+    "12|                 <PageUp>, - move-page-up               Move cursor one page up",
+    "13|         <PageDown>, <Space> move-page-down             Move cursor one page down",
+    "14|                    <Ctrl-U> move-half-page-up          Move cursor half a page up",
+    "15|                    <Ctrl-D> move-half-page-down        Move cursor half a page down",
+    "16|                      <Home> move-first-line            Move cursor to first line",
+    "17|                       <End> move-last-line             Move cursor to last line",
+    "18|Scrolling",
+    "19|          <Insert>, <Ctrl-Y> scroll-line-up             Scroll one line up",
+    "20|          <Delete>, <Ctrl-E> scroll-line-down           Scroll one line down",
+    "21|                <ScrollBack> scroll-page-up             Scroll one page up",
+    "22|                 <ScrollFwd> scroll-page-down           Scroll one page down",
+    "23|                           | scroll-first-col           Scroll to the first line columns",
+    "24|                      <Left> scroll-left                Scroll two columns left",
+    "25|                     <Right> scroll-right               Scroll two columns right",
+    "26|Searching",
+    "27|                           / search                     Search the view",
+    "28|                           ? search-back                Search backwards in the view",
+    "29|                           n find-next                  Find next search match",
+    "30|                           N find-prev                  Find previous search match",
+    "31|Misc",
+    "32|                            prompt                     Open the prompt",
+    "33|                           o options                    Open the options menu",
+    "34|[help] - line 39 of 113                                                                                              48%",
+    "35|Line 39 matches 'move-last-line' (1 of 1)"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 0,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "back                       "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 1,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "next                       "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 2,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "previous                   "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 3,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "parent                     "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 4,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "view-next                  "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 5,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "refresh                    "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 6,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "maximize                   "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 7,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "view-close                 "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 8,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "quit                       "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 9,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "Cursor navigation                                                                                                       "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 10,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "move-up                    "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 11,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "move-down                  "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 12,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "move-page-up               "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 13,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "move-page-down             "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 14,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "move-half-page-up          "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 15,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "move-half-page-down        "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 16,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "move-first-line            "
+    },
+    {
+      "columns": [
+        0,
+        29
+      ],
+      "row": 17,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=green"
+      ],
+      "text": "                       <End> "
+    },
+    {
+      "columns": [
+        29,
+        43
+      ],
+      "row": 17,
+      "style": [
+        "fg=black",
+        "bg=brown"
+      ],
+      "text": "move-last-line"
+    },
+    {
+      "columns": [
+        43,
+        80
+      ],
+      "row": 17,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=green"
+      ],
+      "text": "             Move cursor to last line"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 18,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "Scrolling                                                                                                               "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 19,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "scroll-line-up             "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 20,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "scroll-line-down           "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 21,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "scroll-page-up             "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 22,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "scroll-page-down           "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 23,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "scroll-first-col           "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 24,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "scroll-left                "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 25,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "scroll-right               "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 26,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "Searching                                                                                                               "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 27,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "search                     "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 28,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "search-back                "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 29,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "find-next                  "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 30,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "find-prev                  "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 31,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "Misc                                                                                                                    "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 32,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "prompt                     "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 33,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "options                    "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "[help] - line 39 of 113                                                                                              48%"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 35,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Line 39 matches 'move-last-line' (1 of 1)                                                                               "
+    }
+  ]
+}

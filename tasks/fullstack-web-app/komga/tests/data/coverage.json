@@ -1,0 +1,334 @@
+{
+  "counts": {
+    "assertions": 1989,
+    "backend": 1866,
+    "checkpoints": 1931,
+    "features": 50,
+    "frontend": 123,
+    "gui_episodes": 39,
+    "program_episodes": 28,
+    "episodes": 67
+  },
+  "features": {
+    "account-management": {
+      "assertions": 5,
+      "episodes": [
+        "gui-api-keys"
+      ]
+    },
+    "account-security": {
+      "assertions": 4,
+      "episodes": [
+        "gui-self-password"
+      ]
+    },
+    "api-account-security": {
+      "assertions": 6,
+      "episodes": [
+        "api-account-security"
+      ]
+    },
+    "api-accounts": {
+      "assertions": 60,
+      "episodes": [
+        "api-accounts"
+      ]
+    },
+    "api-archives-import": {
+      "assertions": 3,
+      "episodes": [
+        "api-archives-import"
+      ]
+    },
+    "api-books-metadata": {
+      "assertions": 62,
+      "episodes": [
+        "api-books-metadata"
+      ]
+    },
+    "api-collections": {
+      "assertions": 63,
+      "episodes": [
+        "api-collections"
+      ]
+    },
+    "api-comicrack": {
+      "assertions": 8,
+      "episodes": [
+        "api-comicrack"
+      ]
+    },
+    "api-file-episodes": {
+      "assertions": 14,
+      "episodes": [
+        "api-file-episodes"
+      ]
+    },
+    "api-kobo": {
+      "assertions": 23,
+      "episodes": [
+        "api-kobo"
+      ]
+    },
+    "api-libraries": {
+      "assertions": 71,
+      "episodes": [
+        "api-libraries"
+      ]
+    },
+    "api-list-progress": {
+      "assertions": 10,
+      "episodes": [
+        "api-list-progress"
+      ]
+    },
+    "api-maintenance": {
+      "assertions": 18,
+      "episodes": [
+        "api-maintenance"
+      ]
+    },
+    "api-media": {
+      "assertions": 134,
+      "episodes": [
+        "api-media"
+      ]
+    },
+    "api-opds": {
+      "assertions": 39,
+      "episodes": [
+        "api-opds"
+      ]
+    },
+    "api-permissions": {
+      "assertions": 465,
+      "episodes": [
+        "api-permissions"
+      ]
+    },
+    "api-posters-books": {
+      "assertions": 9,
+      "episodes": [
+        "api-posters-books"
+      ]
+    },
+    "api-posters-collections": {
+      "assertions": 9,
+      "episodes": [
+        "api-posters-collections"
+      ]
+    },
+    "api-posters-readlists": {
+      "assertions": 9,
+      "episodes": [
+        "api-posters-readlists"
+      ]
+    },
+    "api-posters-series": {
+      "assertions": 9,
+      "episodes": [
+        "api-posters-series"
+      ]
+    },
+    "api-reader-protocols": {
+      "assertions": 36,
+      "episodes": [
+        "api-reader-protocols"
+      ]
+    },
+    "api-reading": {
+      "assertions": 83,
+      "episodes": [
+        "api-reading"
+      ]
+    },
+    "api-readlists": {
+      "assertions": 87,
+      "episodes": [
+        "api-readlists"
+      ]
+    },
+    "api-referential": {
+      "assertions": 79,
+      "episodes": [
+        "api-referential"
+      ]
+    },
+    "api-scanner-formats": {
+      "assertions": 11,
+      "episodes": [
+        "api-scanner-formats"
+      ]
+    },
+    "api-search-books": {
+      "assertions": 156,
+      "episodes": [
+        "api-search-books"
+      ]
+    },
+    "api-search-series": {
+      "assertions": 209,
+      "episodes": [
+        "api-search-series"
+      ]
+    },
+    "api-series-metadata": {
+      "assertions": 84,
+      "episodes": [
+        "api-series-metadata"
+      ]
+    },
+    "api-settings": {
+      "assertions": 48,
+      "episodes": [
+        "api-settings"
+      ]
+    },
+    "api-single-duplicate": {
+      "assertions": 3,
+      "episodes": [
+        "api-single-duplicate"
+      ]
+    },
+    "authentication": {
+      "assertions": 5,
+      "episodes": [
+        "gui-first-account",
+        "gui-login"
+      ]
+    },
+    "book-details": {
+      "assertions": 6,
+      "episodes": [
+        "gui-book-b01",
+        "gui-book-b21"
+      ]
+    },
+    "catalog-navigation": {
+      "assertions": 4,
+      "episodes": [
+        "gui-catalogs"
+      ]
+    },
+    "client-preferences": {
+      "assertions": 3,
+      "episodes": [
+        "gui-theme"
+      ]
+    },
+    "comic-reader": {
+      "assertions": 16,
+      "episodes": [
+        "gui-reader",
+        "gui-reader-incognito"
+      ]
+    },
+    "comicrack-import": {
+      "assertions": 4,
+      "episodes": [
+        "gui-comicrack-import"
+      ]
+    },
+    "document-reader": {
+      "assertions": 6,
+      "episodes": [
+        "gui-pdf",
+        "gui-epub"
+      ]
+    },
+    "filtering": {
+      "assertions": 4,
+      "episodes": [
+        "gui-metadata-filters"
+      ]
+    },
+    "library-browsing": {
+      "assertions": 6,
+      "episodes": [
+        "gui-series-s0",
+        "gui-series-s2"
+      ]
+    },
+    "library-management": {
+      "assertions": 5,
+      "episodes": [
+        "gui-library-create"
+      ]
+    },
+    "media-administration": {
+      "assertions": 3,
+      "episodes": [
+        "gui-media-history"
+      ]
+    },
+    "metadata-editing": {
+      "assertions": 30,
+      "episodes": [
+        "gui-edit-series",
+        "gui-edit-book",
+        "gui-series-status",
+        "gui-series-readingDirection",
+        "gui-tags-book",
+        "gui-tags-series"
+      ]
+    },
+    "poster-selection": {
+      "assertions": 6,
+      "episodes": [
+        "gui-poster-from-page-book",
+        "gui-poster-from-page-series"
+      ]
+    },
+    "reader-layout": {
+      "assertions": 7,
+      "episodes": [
+        "gui-reader-layout"
+      ]
+    },
+    "reader-modes": {
+      "assertions": 24,
+      "episodes": [
+        "gui-reader-r",
+        "gui-reader-v",
+        "gui-reader-w"
+      ]
+    },
+    "reading-organization": {
+      "assertions": 16,
+      "episodes": [
+        "gui-collections",
+        "gui-readlists",
+        "gui-create-readlists",
+        "gui-create-collections"
+      ]
+    },
+    "reading-progress": {
+      "assertions": 12,
+      "episodes": [
+        "gui-mark-book",
+        "gui-mark-series"
+      ]
+    },
+    "search": {
+      "assertions": 4,
+      "episodes": [
+        "gui-search"
+      ]
+    },
+    "server-settings": {
+      "assertions": 6,
+      "episodes": [
+        "gui-server-settings"
+      ]
+    },
+    "user-management": {
+      "assertions": 5,
+      "episodes": [
+        "gui-users"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

@@ -1,0 +1,997 @@
+{
+  "focused": "ee51ff975",
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        1024
+      ],
+      "name": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),",
+      "ref": "e93ed40b7",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        25
+      ],
+      "name": "",
+      "ref": "e37b0c28a",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        39,
+        25
+      ],
+      "name": "File",
+      "ref": "eae5e7196",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        39,
+        19,
+        75,
+        25
+      ],
+      "name": "Accounts",
+      "ref": "ecb5893cc",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        114,
+        19,
+        49,
+        25
+      ],
+      "name": "Tools",
+      "ref": "ec5eeafb2",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        163,
+        19,
+        48,
+        25
+      ],
+      "name": "View",
+      "ref": "eb0ba3d40",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        211,
+        19,
+        46,
+        25
+      ],
+      "name": "Help",
+      "ref": "ef594ac36",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        1,
+        995,
+        200,
+        6
+      ],
+      "name": "",
+      "ref": "ef36204a0",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        210,
+        90,
+        627,
+        19
+      ],
+      "name": "Account View: Everyday Checking",
+      "ref": "e49d5bef7",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        215,
+        116,
+        617,
+        17
+      ],
+      "name": "Account Bal: $7749.05     Reconciled Bal: $9523.50     Diff: $-1774.45     Filtered Flow: $5249.05",
+      "ref": "e6fbdcce6",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        228,
+        160,
+        232,
+        34
+      ],
+      "name": "All",
+      "ref": "e421afc68",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        470,
+        160,
+        75,
+        34
+      ],
+      "name": "",
+      "ref": "e8461f29a",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "01/01/70"
+    },
+    {
+      "bounds": [
+        578,
+        160,
+        75,
+        34
+      ],
+      "name": "",
+      "ref": "e6c4015a2",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "12/31/99"
+    },
+    {
+      "bounds": [
+        686,
+        160,
+        182,
+        34
+      ],
+      "name": "Filter…",
+      "ref": "e25674430",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        870,
+        164,
+        18,
+        26
+      ],
+      "description": "Reset filter",
+      "name": "",
+      "ref": "eaab53f36",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        910,
+        160,
+        34,
+        34
+      ],
+      "description": "Click to show scheduled transactions. This feature works best with filter choices that extend into the future (e.g., Current Month).",
+      "name": "",
+      "ref": "e820caca7",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        964,
+        168,
+        159,
+        17
+      ],
+      "name": "Sorted by:  Date ▲ / ID ▲",
+      "ref": "e0d9e0696",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1246,
+        164,
+        18,
+        26
+      ],
+      "description": "Reconcile",
+      "name": "",
+      "ref": "e0e5f9013",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        209,
+        889,
+        1069,
+        6
+      ],
+      "name": "",
+      "ref": "ebb2474a5",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        486,
+        901,
+        85,
+        34
+      ],
+      "description": "Delete all selected transactions",
+      "name": "Delete",
+      "ref": "eca189d0d",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        210,
+        901,
+        85,
+        34
+      ],
+      "description": "New Transaction",
+      "name": "New",
+      "ref": "e6532e991",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        297,
+        901,
+        85,
+        34
+      ],
+      "description": "Edit all selected transactions",
+      "name": "Edit",
+      "ref": "e8893bccc",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        384,
+        901,
+        100,
+        34
+      ],
+      "description": "Duplicate selected transaction",
+      "name": "Duplicate",
+      "ref": "eaf10e85f",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        573,
+        901,
+        85,
+        34
+      ],
+      "description": "Enter Next Scheduled Transaction Occurrence",
+      "name": "Enter",
+      "ref": "e8efc1548",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        660,
+        901,
+        85,
+        34
+      ],
+      "description": "Skip Next Scheduled Transaction Occurrence",
+      "name": "Skip",
+      "ref": "ef1b879e6",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        747,
+        901,
+        30,
+        34
+      ],
+      "description": "Open attachments",
+      "name": "",
+      "ref": "e1be4572e",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        783,
+        902,
+        246,
+        34
+      ],
+      "description": "Enter any string to find it in the nearest transaction data\n\nTip: Wildcard characters such as the question mark (?) and the asterisk (*) can be used in search criteria.\nThe question mark (?) is used t",
+      "name": "Search",
+      "ref": "e13af45b1",
+      "role": "text",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        792,
+        911,
+        16,
+        16
+      ],
+      "name": "edit-find-symbolic",
+      "ref": "e32b24130",
+      "role": "icon",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1035,
+        906,
+        76,
+        17
+      ],
+      "name": "Wednesday",
+      "ref": "ee04d4adb",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        210,
+        939,
+        1067,
+        60
+      ],
+      "description": "Click to copy to clipboard",
+      "name": "April salary",
+      "ref": "e133cd3db",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        206,
+        160,
+        868,
+        705
+      ],
+      "name": "Edit Transaction",
+      "ref": "e44e3efcd",
+      "role": "frame",
+      "states": [
+        "active",
+        "modal"
+      ]
+    },
+    {
+      "bounds": [
+        217,
+        190,
+        422,
+        616
+      ],
+      "name": "Transaction Details",
+      "ref": "e5b3fec26",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        228,
+        226,
+        36,
+        17
+      ],
+      "name": "Date",
+      "ref": "ed4804dd5",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        308,
+        218,
+        91,
+        34
+      ],
+      "name": "",
+      "ref": "ee51ff975",
+      "role": "text",
+      "states": [
+        "focused",
+        "editable"
+      ],
+      "text": "04/01/2026"
+    },
+    {
+      "bounds": [
+        432,
+        218,
+        71,
+        34
+      ],
+      "name": "",
+      "ref": "e136a4e7f",
+      "role": "spin button",
+      "states": [
+        "editable"
+      ],
+      "text": "0",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        513,
+        226,
+        79,
+        17
+      ],
+      "name": "Wednesday",
+      "ref": "e67f9da81",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        610,
+        222,
+        18,
+        26
+      ],
+      "description": "Set date to today (Ctrl+;)",
+      "name": "",
+      "ref": "edb7bebe8",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        308,
+        262,
+        292,
+        34
+      ],
+      "name": "Deposit",
+      "ref": "e2acfc882",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        228,
+        270,
+        31,
+        17
+      ],
+      "name": "Type",
+      "ref": "e0fcb478f",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        308,
+        306,
+        292,
+        34
+      ],
+      "name": "",
+      "ref": "e5f136440",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "3200.00"
+    },
+    {
+      "bounds": [
+        228,
+        314,
+        58,
+        17
+      ],
+      "name": "Amount",
+      "ref": "e8e8ed22a",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        610,
+        310,
+        18,
+        26
+      ],
+      "description": "Open Calculator",
+      "name": "",
+      "ref": "e016b14b0",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        228,
+        358,
+        60,
+        17
+      ],
+      "name": "Account",
+      "ref": "e7c1b5316",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        308,
+        350,
+        292,
+        34
+      ],
+      "name": "",
+      "ref": "ed46da2a0",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        308,
+        350,
+        256,
+        34
+      ],
+      "name": "",
+      "ref": "eb5e7891c",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "Everyday Checking"
+    },
+    {
+      "bounds": [
+        228,
+        403,
+        39,
+        17
+      ],
+      "name": "From",
+      "ref": "ef1002a8c",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        308,
+        395,
+        292,
+        34
+      ],
+      "name": "",
+      "ref": "ec6d9ca1d",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        308,
+        395,
+        256,
+        34
+      ],
+      "name": "",
+      "ref": "e31aab362",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "Employer"
+    },
+    {
+      "bounds": [
+        228,
+        447,
+        70,
+        17
+      ],
+      "name": "Category",
+      "ref": "e201ce1a6",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        308,
+        439,
+        292,
+        34
+      ],
+      "name": "",
+      "ref": "e25fa1075",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        308,
+        439,
+        256,
+        34
+      ],
+      "name": "",
+      "ref": "e53df8046",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "Income:Salary"
+    },
+    {
+      "bounds": [
+        610,
+        443,
+        18,
+        26
+      ],
+      "description": "Use split Categories",
+      "name": "",
+      "ref": "ef6532ab1",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        563,
+        483,
+        37,
+        34
+      ],
+      "name": "",
+      "ref": "e4a501782",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        228,
+        491,
+        30,
+        17
+      ],
+      "name": "Tags",
+      "ref": "e2d1de15d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        308,
+        527,
+        292,
+        34
+      ],
+      "name": "Reconciled",
+      "ref": "ebd623929",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        228,
+        535,
+        42,
+        17
+      ],
+      "name": "Status",
+      "ref": "e67566d43",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        308,
+        571,
+        292,
+        34
+      ],
+      "name": "",
+      "ref": "e8b71392e",
+      "role": "text",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        610,
+        575,
+        18,
+        26
+      ],
+      "description": "Populate Transaction #",
+      "name": "",
+      "ref": "eda64cc9b",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        228,
+        579,
+        53,
+        17
+      ],
+      "name": "Number",
+      "ref": "ede3cce3c",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        277,
+        615,
+        18,
+        26
+      ],
+      "description": "Select one of the frequently used notes",
+      "name": "...",
+      "ref": "e82ca3048",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        582,
+        615,
+        18,
+        26
+      ],
+      "description": "User Colors",
+      "name": "",
+      "ref": "e0abf0112",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        610,
+        615,
+        18,
+        26
+      ],
+      "description": "Manage transaction attachments",
+      "name": "",
+      "ref": "eeddb96d1",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        228,
+        619,
+        39,
+        17
+      ],
+      "name": "Notes",
+      "ref": "ee12471fc",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        542,
+        620,
+        35,
+        17
+      ],
+      "name": "Color",
+      "ref": "e6a42d64c",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        229,
+        653,
+        398,
+        141
+      ],
+      "description": "Specify any text notes you want to add to this transaction.",
+      "name": "",
+      "ref": "e88a81599",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "April salary"
+    },
+    {
+      "bounds": [
+        217,
+        190,
+        124,
+        17
+      ],
+      "name": "Transaction Details",
+      "ref": "e08e96bb2",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        500,
+        815,
+        18,
+        26
+      ],
+      "description": "Show/Hide custom fields window",
+      "name": "",
+      "ref": "e3ed3f1cd",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        310,
+        811,
+        85,
+        34
+      ],
+      "name": "Save",
+      "ref": "effbddb70",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        405,
+        811,
+        85,
+        34
+      ],
+      "name": "Cancel",
+      "ref": "eb6463d7f",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        649,
+        190,
+        414,
+        660
+      ],
+      "name": "Custom fields",
+      "ref": "eabfbed68",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        665,
+        229,
+        61,
+        21
+      ],
+      "name": "Code",
+      "ref": "ef23a577c",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        745,
+        223,
+        302,
+        34
+      ],
+      "name": "",
+      "ref": "e0a9c2758",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "AB100"
+    },
+    {
+      "bounds": [
+        665,
+        273,
+        70,
+        21
+      ],
+      "name": "Labels",
+      "ref": "e1ab12791",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        745,
+        267,
+        302,
+        34
+      ],
+      "name": "Red;Blue",
+      "ref": "e02f0ed20",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        665,
+        317,
+        57,
+        21
+      ],
+      "name": "Visit",
+      "ref": "eade43a3d",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        745,
+        311,
+        229,
+        34
+      ],
+      "name": "",
+      "ref": "e62013b4d",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "09:25:30"
+    },
+    {
+      "bounds": [
+        976,
+        311,
+        71,
+        34
+      ],
+      "name": "",
+      "ref": "e93d4c838",
+      "role": "spin button",
+      "states": [
+        "editable"
+      ],
+      "text": "0",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        649,
+        190,
+        89,
+        17
+      ],
+      "name": "Custom fields",
+      "ref": "eea43cfd8",
+      "role": "label"
+    }
+  ],
+  "screen": [
+    1280,
+    1024
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": false,
+      "bounds": [
+        0,
+        38,
+        1280,
+        1005
+      ],
+      "ref": "w5b3c0310",
+      "title": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),"
+    },
+    {
+      "active": true,
+      "bounds": [
+        208,
+        200,
+        866,
+        680
+      ],
+      "ref": "wad42a52d",
+      "title": "Edit Transaction"
+    }
+  ]
+}

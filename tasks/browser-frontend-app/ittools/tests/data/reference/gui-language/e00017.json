@@ -1,0 +1,4903 @@
+{
+  "blocks": [],
+  "controls": [
+    {
+      "bounds": [
+        0,
+        0,
+        240,
+        162
+      ],
+      "onscreen": true,
+      "ref": "ea08f2bb8",
+      "tag": "a",
+      "text": "IT - TOOLS Praktische Tools für Entwickler"
+    },
+    {
+      "bounds": [
+        6,
+        172,
+        234,
+        21
+      ],
+      "onscreen": true,
+      "ref": "e44a51b65",
+      "tag": "div",
+      "text": "Krypto"
+    },
+    {
+      "bounds": [
+        0,
+        193,
+        24,
+        429
+      ],
+      "onscreen": true,
+      "ref": "eef54bf9b",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        24,
+        199,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e46a1ca38",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Token-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        199,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e212356e6",
+      "role": "none",
+      "tag": "div",
+      "text": "Token-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        237,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e038b4895",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Text hashen"
+    },
+    {
+      "bounds": [
+        24,
+        237,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e03bb0543",
+      "role": "none",
+      "tag": "div",
+      "text": "Text hashen"
+    },
+    {
+      "bounds": [
+        24,
+        275,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e21dc1ffb",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Bcrypt"
+    },
+    {
+      "bounds": [
+        24,
+        275,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e5c450be9",
+      "role": "none",
+      "tag": "div",
+      "text": "Bcrypt"
+    },
+    {
+      "bounds": [
+        24,
+        313,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "ed4b439a8",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "UUID-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        313,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "ef872a976",
+      "role": "none",
+      "tag": "div",
+      "text": "UUID-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        351,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "eb1d6b331",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "ULID-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        351,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e4cb7c25f",
+      "role": "none",
+      "tag": "div",
+      "text": "ULID-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        389,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "edf0b7207",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Text verschlüsseln / entschlüsseln"
+    },
+    {
+      "bounds": [
+        24,
+        389,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e29142a51",
+      "role": "none",
+      "tag": "div",
+      "text": "Text verschlüsseln / entschlüsseln"
+    },
+    {
+      "bounds": [
+        62,
+        397,
+        286,
+        16
+      ],
+      "onscreen": true,
+      "ref": "ef6f79020",
+      "tag": "a",
+      "text": "Text verschlüsseln / entschlüsseln"
+    },
+    {
+      "bounds": [
+        24,
+        427,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e2379a742",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "BIP39-Passphrasengenerator"
+    },
+    {
+      "bounds": [
+        24,
+        427,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e4b8439ac",
+      "role": "none",
+      "tag": "div",
+      "text": "BIP39-Passphrasengenerator"
+    },
+    {
+      "bounds": [
+        62,
+        435,
+        218,
+        16
+      ],
+      "onscreen": true,
+      "ref": "e8fc52e39",
+      "tag": "a",
+      "text": "BIP39-Passphrasengenerator"
+    },
+    {
+      "bounds": [
+        24,
+        465,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e1d87a3ec",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "HMAC-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        465,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e4c982ebe",
+      "role": "none",
+      "tag": "div",
+      "text": "HMAC-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        503,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e6868b229",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "RSA-Schlüsselpaar-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        503,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e61faf927",
+      "role": "none",
+      "tag": "div",
+      "text": "RSA-Schlüsselpaar-Generator"
+    },
+    {
+      "bounds": [
+        62,
+        511,
+        227,
+        16
+      ],
+      "onscreen": true,
+      "ref": "e1180c6e8",
+      "tag": "a",
+      "text": "RSA-Schlüsselpaar-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        541,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e9c077c20",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Passwortstärken-Analysator"
+    },
+    {
+      "bounds": [
+        24,
+        541,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "ea75708fe",
+      "role": "none",
+      "tag": "div",
+      "text": "Passwortstärken-Analysator"
+    },
+    {
+      "bounds": [
+        62,
+        549,
+        218,
+        16
+      ],
+      "onscreen": true,
+      "ref": "ec70b6bef",
+      "tag": "a",
+      "text": "Passwortstärken-Analysator"
+    },
+    {
+      "bounds": [
+        24,
+        579,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e415b4b56",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "PDF-Signaturprüfer"
+    },
+    {
+      "bounds": [
+        24,
+        579,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e7cae17e0",
+      "role": "none",
+      "tag": "div",
+      "text": "PDF-Signaturprüfer"
+    },
+    {
+      "bounds": [
+        6,
+        634,
+        234,
+        21
+      ],
+      "onscreen": true,
+      "ref": "e9e23714a",
+      "tag": "div",
+      "text": "Konverter"
+    },
+    {
+      "bounds": [
+        0,
+        655,
+        24,
+        771
+      ],
+      "onscreen": true,
+      "ref": "eef54bf9bx2",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        24,
+        661,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "eff2dec8d",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Datum-Uhrzeit-Konverter"
+    },
+    {
+      "bounds": [
+        24,
+        661,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e502cc1ab",
+      "role": "none",
+      "tag": "div",
+      "text": "Datum-Uhrzeit-Konverter"
+    },
+    {
+      "bounds": [
+        62,
+        668,
+        193,
+        16
+      ],
+      "onscreen": true,
+      "ref": "e361b140c",
+      "tag": "a",
+      "text": "Datum-Uhrzeit-Konverter"
+    },
+    {
+      "bounds": [
+        24,
+        699,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e80e0fe7d",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Ganzzahl-Basiskonverter"
+    },
+    {
+      "bounds": [
+        24,
+        699,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "ec50abd1f",
+      "role": "none",
+      "tag": "div",
+      "text": "Ganzzahl-Basiskonverter"
+    },
+    {
+      "bounds": [
+        62,
+        706,
+        193,
+        16
+      ],
+      "onscreen": true,
+      "ref": "e4c76d7dc",
+      "tag": "a",
+      "text": "Ganzzahl-Basiskonverter"
+    },
+    {
+      "bounds": [
+        24,
+        737,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e4dfcec66",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Römische Zahlen Konverter"
+    },
+    {
+      "bounds": [
+        24,
+        737,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e34e45c74",
+      "role": "none",
+      "tag": "div",
+      "text": "Römische Zahlen Konverter"
+    },
+    {
+      "bounds": [
+        62,
+        744,
+        210,
+        16
+      ],
+      "onscreen": true,
+      "ref": "e2c94bb03",
+      "tag": "a",
+      "text": "Römische Zahlen Konverter"
+    },
+    {
+      "bounds": [
+        24,
+        775,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e666eed38",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Base64-String-Encoder/Decoder"
+    },
+    {
+      "bounds": [
+        24,
+        775,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "edf57c732",
+      "role": "none",
+      "tag": "div",
+      "text": "Base64-String-Encoder/Decoder"
+    },
+    {
+      "bounds": [
+        62,
+        782,
+        244,
+        16
+      ],
+      "onscreen": true,
+      "ref": "e6aaa41e1",
+      "tag": "a",
+      "text": "Base64-String-Encoder/Decoder"
+    },
+    {
+      "bounds": [
+        24,
+        813,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e064ce7ba",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Base64-Dateikonverter"
+    },
+    {
+      "bounds": [
+        24,
+        813,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "e87ed0a24",
+      "role": "none",
+      "tag": "div",
+      "text": "Base64-Dateikonverter"
+    },
+    {
+      "bounds": [
+        24,
+        851,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "ebe35f9e6",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Farbkonverter"
+    },
+    {
+      "bounds": [
+        24,
+        851,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "ef4e57b98",
+      "role": "none",
+      "tag": "div",
+      "text": "Farbkonverter"
+    },
+    {
+      "bounds": [
+        24,
+        889,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "eb8a589fd",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Fall-Konverter"
+    },
+    {
+      "bounds": [
+        24,
+        889,
+        216,
+        32
+      ],
+      "onscreen": true,
+      "ref": "eb0b8a4f3",
+      "role": "none",
+      "tag": "div",
+      "text": "Fall-Konverter"
+    },
+    {
+      "bounds": [
+        24,
+        927,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e59de1973",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Text zu NATO-Alphabet"
+    },
+    {
+      "bounds": [
+        24,
+        927,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e8fa3fb29",
+      "role": "none",
+      "tag": "div",
+      "text": "Text zu NATO-Alphabet"
+    },
+    {
+      "bounds": [
+        24,
+        965,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e5522e6bc",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Text zu ASCII-Binär"
+    },
+    {
+      "bounds": [
+        24,
+        965,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "eaf566892",
+      "role": "none",
+      "tag": "div",
+      "text": "Text zu ASCII-Binär"
+    },
+    {
+      "bounds": [
+        24,
+        1003,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e9c366a0a",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Text zu Unicode"
+    },
+    {
+      "bounds": [
+        24,
+        1003,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e0864d958",
+      "role": "none",
+      "tag": "div",
+      "text": "Text zu Unicode"
+    },
+    {
+      "bounds": [
+        24,
+        1041,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e89333467",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "YAML zu JSON"
+    },
+    {
+      "bounds": [
+        24,
+        1041,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e84a3728d",
+      "role": "none",
+      "tag": "div",
+      "text": "YAML zu JSON"
+    },
+    {
+      "bounds": [
+        24,
+        1079,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "efdb27a81",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "YAML zu TOML"
+    },
+    {
+      "bounds": [
+        24,
+        1079,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e3d46c5a3",
+      "role": "none",
+      "tag": "div",
+      "text": "YAML zu TOML"
+    },
+    {
+      "bounds": [
+        24,
+        1117,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e2233c4e7",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "JSON zu YAML"
+    },
+    {
+      "bounds": [
+        24,
+        1117,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "eaf4a0a0d",
+      "role": "none",
+      "tag": "div",
+      "text": "JSON zu YAML"
+    },
+    {
+      "bounds": [
+        24,
+        1155,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e1374cf52",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "JSON zu TOML"
+    },
+    {
+      "bounds": [
+        24,
+        1155,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e4fb6c034",
+      "role": "none",
+      "tag": "div",
+      "text": "JSON zu TOML"
+    },
+    {
+      "bounds": [
+        24,
+        1193,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ee3194fa4",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Listenkonverter"
+    },
+    {
+      "bounds": [
+        24,
+        1193,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e808b9842",
+      "role": "none",
+      "tag": "div",
+      "text": "Listenkonverter"
+    },
+    {
+      "bounds": [
+        24,
+        1231,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e59fd7ab2",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "TOML zu JSON"
+    },
+    {
+      "bounds": [
+        24,
+        1231,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e26dee35c",
+      "role": "none",
+      "tag": "div",
+      "text": "TOML zu JSON"
+    },
+    {
+      "bounds": [
+        24,
+        1269,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e5ba3c8bd",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "TOML zu YAML"
+    },
+    {
+      "bounds": [
+        24,
+        1269,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "eadd5ef57",
+      "role": "none",
+      "tag": "div",
+      "text": "TOML zu YAML"
+    },
+    {
+      "bounds": [
+        24,
+        1307,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "eb53fcd03",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "XML to JSON"
+    },
+    {
+      "bounds": [
+        24,
+        1307,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "eadfa66a5",
+      "role": "none",
+      "tag": "div",
+      "text": "XML to JSON"
+    },
+    {
+      "bounds": [
+        24,
+        1345,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ea547f245",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "JSON to XML"
+    },
+    {
+      "bounds": [
+        24,
+        1345,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e27b867ff",
+      "role": "none",
+      "tag": "div",
+      "text": "JSON to XML"
+    },
+    {
+      "bounds": [
+        24,
+        1383,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e37c03434",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Markdown to HTML"
+    },
+    {
+      "bounds": [
+        24,
+        1383,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e94121546",
+      "role": "none",
+      "tag": "div",
+      "text": "Markdown to HTML"
+    },
+    {
+      "bounds": [
+        6,
+        1438,
+        234,
+        21
+      ],
+      "onscreen": false,
+      "ref": "e6a816548",
+      "tag": "div",
+      "text": "Web"
+    },
+    {
+      "bounds": [
+        0,
+        1458,
+        24,
+        619
+      ],
+      "onscreen": false,
+      "ref": "eef54bf9bx3",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        24,
+        1464,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ef30454d9",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Kodieren/Decodieren von URL-formatierten Zeichenfolgen"
+    },
+    {
+      "bounds": [
+        24,
+        1464,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ea16ecd17",
+      "role": "none",
+      "tag": "div",
+      "text": "Kodieren/Decodieren von URL-formatierten Zeichenfolgen"
+    },
+    {
+      "bounds": [
+        62,
+        1472,
+        454,
+        16
+      ],
+      "onscreen": false,
+      "ref": "e70d59dda",
+      "tag": "a",
+      "text": "Kodieren/Decodieren von URL-formatierten Zeichenfolgen"
+    },
+    {
+      "bounds": [
+        24,
+        1502,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "eb3e1d5ca",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "HTML-Entity-Escape"
+    },
+    {
+      "bounds": [
+        24,
+        1502,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ed43b1618",
+      "role": "none",
+      "tag": "div",
+      "text": "HTML-Entity-Escape"
+    },
+    {
+      "bounds": [
+        24,
+        1540,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e88d85b48",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "URL-Parser"
+    },
+    {
+      "bounds": [
+        24,
+        1540,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e6d410eba",
+      "role": "none",
+      "tag": "div",
+      "text": "URL-Parser"
+    },
+    {
+      "bounds": [
+        24,
+        1578,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e8221c93d",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Geräteinformationen"
+    },
+    {
+      "bounds": [
+        24,
+        1578,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ec1a32387",
+      "role": "none",
+      "tag": "div",
+      "text": "Geräteinformationen"
+    },
+    {
+      "bounds": [
+        24,
+        1616,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e411218e8",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Basic-Auth-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        1616,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e38216d32",
+      "role": "none",
+      "tag": "div",
+      "text": "Basic-Auth-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        1654,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e9ea918c0",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Open Graph Meta-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        1654,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e0c5d9e4a",
+      "role": "none",
+      "tag": "div",
+      "text": "Open Graph Meta-Generator"
+    },
+    {
+      "bounds": [
+        62,
+        1662,
+        210,
+        16
+      ],
+      "onscreen": false,
+      "ref": "e644c7e71",
+      "tag": "a",
+      "text": "Open Graph Meta-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        1692,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e1b2adc4e",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "OTP-Code-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        1692,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "edf248f90",
+      "role": "none",
+      "tag": "div",
+      "text": "OTP-Code-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        1730,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e164a5040",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "MIME-Typen"
+    },
+    {
+      "bounds": [
+        24,
+        1730,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e87ea03de",
+      "role": "none",
+      "tag": "div",
+      "text": "MIME-Typen"
+    },
+    {
+      "bounds": [
+        24,
+        1768,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "eabd3f734",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "JWT-Parser"
+    },
+    {
+      "bounds": [
+        24,
+        1768,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e0b6bc59a",
+      "role": "none",
+      "tag": "div",
+      "text": "JWT-Parser"
+    },
+    {
+      "bounds": [
+        24,
+        1806,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e84532f3e",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Keycode-Info"
+    },
+    {
+      "bounds": [
+        24,
+        1806,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "eeb181980",
+      "role": "none",
+      "tag": "div",
+      "text": "Keycode-Info"
+    },
+    {
+      "bounds": [
+        24,
+        1844,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e311adb41",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Slugify String"
+    },
+    {
+      "bounds": [
+        24,
+        1844,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e36bcaa67",
+      "role": "none",
+      "tag": "div",
+      "text": "Slugify String"
+    },
+    {
+      "bounds": [
+        24,
+        1882,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e81125b98",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "HTML-WYSIWYG-Editor"
+    },
+    {
+      "bounds": [
+        24,
+        1882,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e2cc1618e",
+      "role": "none",
+      "tag": "div",
+      "text": "HTML-WYSIWYG-Editor"
+    },
+    {
+      "bounds": [
+        24,
+        1920,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e49365d10",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "User-Agent-Parser"
+    },
+    {
+      "bounds": [
+        24,
+        1920,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "eb2a4e28a",
+      "role": "none",
+      "tag": "div",
+      "text": "User-Agent-Parser"
+    },
+    {
+      "bounds": [
+        24,
+        1958,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e104a0cbe",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "HTTP-Statuscodes"
+    },
+    {
+      "bounds": [
+        24,
+        1958,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e74dabb04",
+      "role": "none",
+      "tag": "div",
+      "text": "HTTP-Statuscodes"
+    },
+    {
+      "bounds": [
+        24,
+        1996,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ebf817502",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "JSON-Unterschied"
+    },
+    {
+      "bounds": [
+        24,
+        1996,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e3635813c",
+      "role": "none",
+      "tag": "div",
+      "text": "JSON-Unterschied"
+    },
+    {
+      "bounds": [
+        24,
+        2034,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e5edfb551",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Outlook Safelink decoder"
+    },
+    {
+      "bounds": [
+        24,
+        2034,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e595e76b7",
+      "role": "none",
+      "tag": "div",
+      "text": "Outlook Safelink decoder"
+    },
+    {
+      "bounds": [
+        62,
+        2042,
+        202,
+        16
+      ],
+      "onscreen": false,
+      "ref": "ef4e692e6",
+      "tag": "a",
+      "text": "Outlook Safelink decoder"
+    },
+    {
+      "bounds": [
+        6,
+        2089,
+        234,
+        21
+      ],
+      "onscreen": false,
+      "ref": "e7e30977a",
+      "tag": "div",
+      "text": "Bilder & Videos"
+    },
+    {
+      "bounds": [
+        0,
+        2110,
+        24,
+        163
+      ],
+      "onscreen": false,
+      "ref": "eef54bf9bx4",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        24,
+        2116,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e2ce316aa",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "QR-Code-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        2116,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e89d30eb0",
+      "role": "none",
+      "tag": "div",
+      "text": "QR-Code-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        2154,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e3b126d2f",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "WLAN-QR-Code-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        2154,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ee6de8fb9",
+      "role": "none",
+      "tag": "div",
+      "text": "WLAN-QR-Code-Generator"
+    },
+    {
+      "bounds": [
+        62,
+        2162,
+        185,
+        16
+      ],
+      "onscreen": false,
+      "ref": "e4948da1c",
+      "tag": "a",
+      "text": "WLAN-QR-Code-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        2192,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "eb8e9def5",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "SVG-Platzhalter-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        2192,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e6ff216db",
+      "role": "none",
+      "tag": "div",
+      "text": "SVG-Platzhalter-Generator"
+    },
+    {
+      "bounds": [
+        62,
+        2200,
+        210,
+        16
+      ],
+      "onscreen": false,
+      "ref": "e1542cbe4",
+      "tag": "a",
+      "text": "SVG-Platzhalter-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        2230,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e03f4dccf",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Kamera-Rekorder"
+    },
+    {
+      "bounds": [
+        24,
+        2230,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e594ce859",
+      "role": "none",
+      "tag": "div",
+      "text": "Kamera-Rekorder"
+    },
+    {
+      "bounds": [
+        6,
+        2285,
+        234,
+        21
+      ],
+      "onscreen": false,
+      "ref": "e6b76e93f",
+      "tag": "div",
+      "text": "Entwicklung"
+    },
+    {
+      "bounds": [
+        0,
+        2306,
+        24,
+        543
+      ],
+      "onscreen": false,
+      "ref": "eef54bf9bx5",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        24,
+        2312,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ee221f98c",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Git-Spickzettel"
+    },
+    {
+      "bounds": [
+        24,
+        2312,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e4f1d6136",
+      "role": "none",
+      "tag": "div",
+      "text": "Git-Spickzettel"
+    },
+    {
+      "bounds": [
+        24,
+        2350,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e8717a4ca",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Zufälliger Port-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        2350,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e2f318d6c",
+      "role": "none",
+      "tag": "div",
+      "text": "Zufälliger Port-Generator"
+    },
+    {
+      "bounds": [
+        62,
+        2358,
+        210,
+        16
+      ],
+      "onscreen": false,
+      "ref": "e9b50d91b",
+      "tag": "a",
+      "text": "Zufälliger Port-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        2388,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e0bdd719e",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Crontab-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        2388,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e5b02faac",
+      "role": "none",
+      "tag": "div",
+      "text": "Crontab-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        2426,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e1602d1de",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "JSON verschönern und formatieren"
+    },
+    {
+      "bounds": [
+        24,
+        2426,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ed74ab600",
+      "role": "none",
+      "tag": "div",
+      "text": "JSON verschönern und formatieren"
+    },
+    {
+      "bounds": [
+        62,
+        2434,
+        269,
+        16
+      ],
+      "onscreen": false,
+      "ref": "ef1024c99",
+      "tag": "a",
+      "text": "JSON verschönern und formatieren"
+    },
+    {
+      "bounds": [
+        24,
+        2464,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "edc394ff0",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "JSON minifizieren"
+    },
+    {
+      "bounds": [
+        24,
+        2464,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e3818beca",
+      "role": "none",
+      "tag": "div",
+      "text": "JSON minifizieren"
+    },
+    {
+      "bounds": [
+        24,
+        2502,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ed4e6a9c6",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "JSON zu CSV"
+    },
+    {
+      "bounds": [
+        24,
+        2502,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e4021808c",
+      "role": "none",
+      "tag": "div",
+      "text": "JSON zu CSV"
+    },
+    {
+      "bounds": [
+        24,
+        2540,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e8ac8e682",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "SQL verschönern und formatieren"
+    },
+    {
+      "bounds": [
+        24,
+        2540,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ef957d244",
+      "role": "none",
+      "tag": "div",
+      "text": "SQL verschönern und formatieren"
+    },
+    {
+      "bounds": [
+        62,
+        2548,
+        260,
+        16
+      ],
+      "onscreen": false,
+      "ref": "e78f325f7",
+      "tag": "a",
+      "text": "SQL verschönern und formatieren"
+    },
+    {
+      "bounds": [
+        24,
+        2578,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e922aea8e",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Chmod-Rechner"
+    },
+    {
+      "bounds": [
+        24,
+        2578,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e5fc0d50c",
+      "role": "none",
+      "tag": "div",
+      "text": "Chmod-Rechner"
+    },
+    {
+      "bounds": [
+        24,
+        2616,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ef361023b",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Docker run zu Docker compose Konverter"
+    },
+    {
+      "bounds": [
+        24,
+        2616,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ef8f166c9",
+      "role": "none",
+      "tag": "div",
+      "text": "Docker run zu Docker compose Konverter"
+    },
+    {
+      "bounds": [
+        62,
+        2624,
+        319,
+        16
+      ],
+      "onscreen": false,
+      "ref": "e7629fbc4",
+      "tag": "a",
+      "text": "Docker run zu Docker compose Konverter"
+    },
+    {
+      "bounds": [
+        24,
+        2654,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e46a98461",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "XML-Formatter"
+    },
+    {
+      "bounds": [
+        24,
+        2654,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "efad5d937",
+      "role": "none",
+      "tag": "div",
+      "text": "XML-Formatter"
+    },
+    {
+      "bounds": [
+        24,
+        2692,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ee70afd71",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "YAML verschönern und formatieren"
+    },
+    {
+      "bounds": [
+        24,
+        2692,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e91885f6b",
+      "role": "none",
+      "tag": "div",
+      "text": "YAML verschönern und formatieren"
+    },
+    {
+      "bounds": [
+        62,
+        2700,
+        269,
+        16
+      ],
+      "onscreen": false,
+      "ref": "efd26b88e",
+      "tag": "a",
+      "text": "YAML verschönern und formatieren"
+    },
+    {
+      "bounds": [
+        24,
+        2730,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e775979a8",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Email normalizer"
+    },
+    {
+      "bounds": [
+        24,
+        2730,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e98e8a966",
+      "role": "none",
+      "tag": "div",
+      "text": "Email normalizer"
+    },
+    {
+      "bounds": [
+        24,
+        2768,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e9051dbfb",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Regex Tester"
+    },
+    {
+      "bounds": [
+        24,
+        2768,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ed9a8d91d",
+      "role": "none",
+      "tag": "div",
+      "text": "Regex Tester"
+    },
+    {
+      "bounds": [
+        24,
+        2806,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "edcb90944",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Regex cheatsheet"
+    },
+    {
+      "bounds": [
+        24,
+        2806,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e9179063e",
+      "role": "none",
+      "tag": "div",
+      "text": "Regex cheatsheet"
+    },
+    {
+      "bounds": [
+        6,
+        2861,
+        234,
+        21
+      ],
+      "onscreen": false,
+      "ref": "ea3f38da6",
+      "tag": "div",
+      "text": "Netzwerk"
+    },
+    {
+      "bounds": [
+        0,
+        2882,
+        24,
+        239
+      ],
+      "onscreen": false,
+      "ref": "eef54bf9bx6",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        24,
+        2888,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "eae4e0c8d",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "IPv4-Subnetzrechner"
+    },
+    {
+      "bounds": [
+        24,
+        2888,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ecad24477",
+      "role": "none",
+      "tag": "div",
+      "text": "IPv4-Subnetzrechner"
+    },
+    {
+      "bounds": [
+        24,
+        2926,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "efc71c8a5",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "IPv4-Adresskonverter"
+    },
+    {
+      "bounds": [
+        24,
+        2926,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "eebc2cdff",
+      "role": "none",
+      "tag": "div",
+      "text": "IPv4-Adresskonverter"
+    },
+    {
+      "bounds": [
+        24,
+        2964,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e88a49e7c",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "IPv4-Bereichserweiterer"
+    },
+    {
+      "bounds": [
+        24,
+        2964,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e522fccf6",
+      "role": "none",
+      "tag": "div",
+      "text": "IPv4-Bereichserweiterer"
+    },
+    {
+      "bounds": [
+        62,
+        2972,
+        193,
+        16
+      ],
+      "onscreen": false,
+      "ref": "e9ac6ac8d",
+      "tag": "a",
+      "text": "IPv4-Bereichserweiterer"
+    },
+    {
+      "bounds": [
+        24,
+        3002,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e50c8521a",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "MAC-Adressensuche"
+    },
+    {
+      "bounds": [
+        24,
+        3002,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e3a6ae174",
+      "role": "none",
+      "tag": "div",
+      "text": "MAC-Adressensuche"
+    },
+    {
+      "bounds": [
+        24,
+        3040,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ea0c8ae5c",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "MAC-Adressen-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        3040,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e040301f6",
+      "role": "none",
+      "tag": "div",
+      "text": "MAC-Adressen-Generator"
+    },
+    {
+      "bounds": [
+        62,
+        3048,
+        185,
+        16
+      ],
+      "onscreen": false,
+      "ref": "ecc4e97af",
+      "tag": "a",
+      "text": "MAC-Adressen-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        3078,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e8922723d",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "IPv6-ULA-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        3078,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e93b6b16b",
+      "role": "none",
+      "tag": "div",
+      "text": "IPv6-ULA-Generator"
+    },
+    {
+      "bounds": [
+        6,
+        3133,
+        234,
+        21
+      ],
+      "onscreen": false,
+      "ref": "eba40397d",
+      "tag": "div",
+      "text": "Mathematik"
+    },
+    {
+      "bounds": [
+        0,
+        3154,
+        24,
+        125
+      ],
+      "onscreen": false,
+      "ref": "eef54bf9bx7",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        24,
+        3160,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ea26fbdc0",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Mathematischer Auswerter"
+    },
+    {
+      "bounds": [
+        24,
+        3160,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e1abd0e76",
+      "role": "none",
+      "tag": "div",
+      "text": "Mathematischer Auswerter"
+    },
+    {
+      "bounds": [
+        62,
+        3167,
+        202,
+        16
+      ],
+      "onscreen": false,
+      "ref": "eb49236f7",
+      "tag": "a",
+      "text": "Mathematischer Auswerter"
+    },
+    {
+      "bounds": [
+        24,
+        3198,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ee2aa161d",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "ETA-Rechner"
+    },
+    {
+      "bounds": [
+        24,
+        3198,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e53bb4e0b",
+      "role": "none",
+      "tag": "div",
+      "text": "ETA-Rechner"
+    },
+    {
+      "bounds": [
+        24,
+        3236,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "efc4fa658",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Prozentrechner"
+    },
+    {
+      "bounds": [
+        24,
+        3236,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e76287722",
+      "role": "none",
+      "tag": "div",
+      "text": "Prozentrechner"
+    },
+    {
+      "bounds": [
+        6,
+        3291,
+        234,
+        21
+      ],
+      "onscreen": false,
+      "ref": "ef82dc16e",
+      "tag": "div",
+      "text": "Messung"
+    },
+    {
+      "bounds": [
+        0,
+        3311,
+        24,
+        125
+      ],
+      "onscreen": false,
+      "ref": "eef54bf9bx8",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        24,
+        3317,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e229da7e3",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Chronometer"
+    },
+    {
+      "bounds": [
+        24,
+        3317,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e026c16b9",
+      "role": "none",
+      "tag": "div",
+      "text": "Chronometer"
+    },
+    {
+      "bounds": [
+        24,
+        3355,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e948f9038",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Temperaturkonverter"
+    },
+    {
+      "bounds": [
+        24,
+        3355,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e72444a9e",
+      "role": "none",
+      "tag": "div",
+      "text": "Temperaturkonverter"
+    },
+    {
+      "bounds": [
+        24,
+        3393,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e38a244dc",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Benchmark-Builder"
+    },
+    {
+      "bounds": [
+        24,
+        3393,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e118977ce",
+      "role": "none",
+      "tag": "div",
+      "text": "Benchmark-Builder"
+    },
+    {
+      "bounds": [
+        6,
+        3448,
+        234,
+        21
+      ],
+      "onscreen": false,
+      "ref": "e3a72a273",
+      "tag": "div",
+      "text": "Text"
+    },
+    {
+      "bounds": [
+        0,
+        3469,
+        24,
+        277
+      ],
+      "onscreen": false,
+      "ref": "eef54bf9bx9",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        24,
+        3475,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e0277a251",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Lorem Ipsum Generator"
+    },
+    {
+      "bounds": [
+        24,
+        3475,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ed8f75317",
+      "role": "none",
+      "tag": "div",
+      "text": "Lorem Ipsum Generator"
+    },
+    {
+      "bounds": [
+        24,
+        3513,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e5360caef",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Textstatistiken"
+    },
+    {
+      "bounds": [
+        24,
+        3513,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e3c9da61d",
+      "role": "none",
+      "tag": "div",
+      "text": "Textstatistiken"
+    },
+    {
+      "bounds": [
+        24,
+        3551,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e58af5ae0",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Emoji-Picker"
+    },
+    {
+      "bounds": [
+        24,
+        3551,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e7900292e",
+      "role": "none",
+      "tag": "div",
+      "text": "Emoji-Picker"
+    },
+    {
+      "bounds": [
+        24,
+        3589,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ee3ad545e",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "String-Verschleierer"
+    },
+    {
+      "bounds": [
+        24,
+        3589,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e71a20350",
+      "role": "none",
+      "tag": "div",
+      "text": "String-Verschleierer"
+    },
+    {
+      "bounds": [
+        24,
+        3627,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e0dd5903a",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Textunterschied"
+    },
+    {
+      "bounds": [
+        24,
+        3627,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "ee67ed9d0",
+      "role": "none",
+      "tag": "div",
+      "text": "Textunterschied"
+    },
+    {
+      "bounds": [
+        24,
+        3665,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "edf66e9e3",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Numeronym-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        3665,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e45b13365",
+      "role": "none",
+      "tag": "div",
+      "text": "Numeronym-Generator"
+    },
+    {
+      "bounds": [
+        24,
+        3703,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "eff20f3a9",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "ASCII Art Text Generator"
+    },
+    {
+      "bounds": [
+        24,
+        3703,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e582c5a2b",
+      "role": "none",
+      "tag": "div",
+      "text": "ASCII Art Text Generator"
+    },
+    {
+      "bounds": [
+        62,
+        3711,
+        202,
+        16
+      ],
+      "onscreen": false,
+      "ref": "e456feefa",
+      "tag": "a",
+      "text": "ASCII Art Text Generator"
+    },
+    {
+      "bounds": [
+        6,
+        3758,
+        234,
+        21
+      ],
+      "onscreen": false,
+      "ref": "e7b0a43d4",
+      "tag": "div",
+      "text": "Daten"
+    },
+    {
+      "bounds": [
+        0,
+        3779,
+        24,
+        87
+      ],
+      "onscreen": false,
+      "ref": "eef54bf9bx10",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        24,
+        3785,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e5ea6044e",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "Telefonnummer-Parser und -Formatter"
+    },
+    {
+      "bounds": [
+        24,
+        3785,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e07dc1728",
+      "role": "none",
+      "tag": "div",
+      "text": "Telefonnummer-Parser und -Formatter"
+    },
+    {
+      "bounds": [
+        62,
+        3793,
+        294,
+        16
+      ],
+      "onscreen": false,
+      "ref": "ec13920fb",
+      "tag": "a",
+      "text": "Telefonnummer-Parser und -Formatter"
+    },
+    {
+      "bounds": [
+        24,
+        3823,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "e37166a1b",
+      "role": "menuitem",
+      "tag": "div",
+      "text": "IBAN-Validator und -Parser"
+    },
+    {
+      "bounds": [
+        24,
+        3823,
+        216,
+        32
+      ],
+      "onscreen": false,
+      "ref": "eaf411791",
+      "role": "none",
+      "tag": "div",
+      "text": "IBAN-Validator und -Parser"
+    },
+    {
+      "bounds": [
+        62,
+        3831,
+        218,
+        16
+      ],
+      "onscreen": false,
+      "ref": "efdd1f5dc",
+      "tag": "a",
+      "text": "IBAN-Validator und -Parser"
+    },
+    {
+      "bounds": [
+        78,
+        3909,
+        160,
+        16
+      ],
+      "onscreen": false,
+      "ref": "ed25633ed",
+      "tag": "a",
+      "text": "v2024.10.22-7ca5933"
+    },
+    {
+      "bounds": [
+        74,
+        3931,
+        151,
+        16
+      ],
+      "onscreen": false,
+      "ref": "eb80f035c",
+      "tag": "a",
+      "text": "Corentin Thomasset"
+    },
+    {
+      "aria": "Menü umschalten",
+      "bounds": [
+        266,
+        27,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "ef07d4151",
+      "tag": "button"
+    },
+    {
+      "aria": "Startseite",
+      "bounds": [
+        308,
+        26,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "e42d8cbae",
+      "tag": "a"
+    },
+    {
+      "aria": "UI-Bibliothek",
+      "bounds": [
+        350,
+        26,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "e07afceb8",
+      "tag": "a"
+    },
+    {
+      "bounds": [
+        392,
+        27,
+        376,
+        34
+      ],
+      "onscreen": true,
+      "ref": "ed6ea20b6",
+      "tag": "button",
+      "text": "Suche Ctrl + K"
+    },
+    {
+      "bounds": [
+        776,
+        27,
+        100,
+        34
+      ],
+      "onscreen": true,
+      "ref": "e97740f86",
+      "tag": "div",
+      "text": "Deutsch"
+    },
+    {
+      "aria": "IT-Tools GitHub-Repository",
+      "bounds": [
+        884,
+        26,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "e879579cd",
+      "tag": "a"
+    },
+    {
+      "aria": "IT-Tools Twitter-Konto",
+      "bounds": [
+        918,
+        26,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "e4abc08aa",
+      "tag": "a"
+    },
+    {
+      "aria": "Über",
+      "bounds": [
+        952,
+        26,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "ed65271f9",
+      "tag": "a"
+    },
+    {
+      "aria": "Wechseln zwischen dunklem/hellem Modus",
+      "bounds": [
+        986,
+        26,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "eb1faf45d",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1028,
+        27,
+        226,
+        34
+      ],
+      "onscreen": true,
+      "ref": "e524ae0cc",
+      "tag": "a",
+      "text": "Kauf mir einen Kaffee"
+    },
+    {
+      "bounds": [
+        266,
+        169,
+        238,
+        167
+      ],
+      "onscreen": true,
+      "ref": "ef01b6e0f",
+      "tag": "a",
+      "text": "Token-Generator Generiere eine zufällige Zeichenfolge mit den von dir gewünschten Zeichen, Groß- oder Kleinbuchstaben, Zahlen und/oder Symbolen."
+    },
+    {
+      "bounds": [
+        444,
+        194,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "e14be57e2",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        516,
+        169,
+        238,
+        167
+      ],
+      "onscreen": true,
+      "ref": "e9ddd21b8",
+      "tag": "a",
+      "text": "Text hashen Hashe einen Text-String mit der von dir benötigten Funktion: MD5, SHA1, SHA256, SHA224, SHA512, SHA384, SHA3 oder RIPEMD160"
+    },
+    {
+      "bounds": [
+        694,
+        194,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "e14be57e2x2",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        766,
+        169,
+        238,
+        167
+      ],
+      "onscreen": true,
+      "ref": "e37ddbb48",
+      "tag": "a",
+      "text": "Bcrypt Hashen und Vergleichen von Strings mit bcrypt. Bcrypt ist eine auf der Blowfish-Chiffre basierende Hash-Funktion."
+    },
+    {
+      "bounds": [
+        944,
+        194,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "e14be57e2x3",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1016,
+        169,
+        238,
+        167
+      ],
+      "onscreen": true,
+      "ref": "e1d09725c",
+      "tag": "a",
+      "text": "UUID-Generator Ein Universally Unique Identifier (UUID) ist eine 128-Bit-Nummer, die zur Identifizierung von Informationen in Computersystemen verwendet wird. Die Anzahl der möglichen UUIDs beträgt 16"
+    },
+    {
+      "bounds": [
+        1194,
+        194,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "e14be57e2x4",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        266,
+        348,
+        238,
+        223
+      ],
+      "onscreen": true,
+      "ref": "ec01b9c7d",
+      "tag": "a",
+      "text": "ULID-Generator Generiere zufällige Universally Unique Lexicographically Sortable Identifier (ULID)."
+    },
+    {
+      "bounds": [
+        444,
+        373,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "e14be57e2x5",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        516,
+        348,
+        238,
+        223
+      ],
+      "onscreen": true,
+      "ref": "e5c78935b",
+      "tag": "a",
+      "text": "Text verschlüsseln / entschlüsseln Verschlüssele und entschlüssele Klartext mithilfe von Kryptoalgorithmen wie AES, TripleDES, Rabbit oder RC4."
+    },
+    {
+      "bounds": [
+        694,
+        373,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "e14be57e2x6",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        766,
+        348,
+        238,
+        223
+      ],
+      "onscreen": true,
+      "ref": "ec08ff697",
+      "tag": "a",
+      "text": "BIP39-Passphrasengenerator Generiere BIP39-Passphrasen aus vorhandener oder zufälliger Mnemonik oder erhalte die Mnemonik aus der Passphrase."
+    },
+    {
+      "bounds": [
+        944,
+        373,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "e14be57e2x7",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1016,
+        348,
+        238,
+        223
+      ],
+      "onscreen": true,
+      "ref": "e819d147e",
+      "tag": "a",
+      "text": "HMAC-Generator Berechnet einen hashbasierten Nachrichtenauthentifizierungscode (HMAC) unter Verwendung eines geheimen Schlüssels und deiner bevorzugten Hash-Funktion."
+    },
+    {
+      "bounds": [
+        1194,
+        373,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "e14be57e2x8",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        266,
+        583,
+        238,
+        223
+      ],
+      "onscreen": true,
+      "ref": "e8914d5fe",
+      "tag": "a",
+      "text": "RSA-Schlüsselpaar-Generator Generiere neue zufällige RSA-Private- und Public-Key-PEM-Zertifikate."
+    },
+    {
+      "bounds": [
+        444,
+        608,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "e14be57e2x9",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        516,
+        583,
+        238,
+        223
+      ],
+      "onscreen": true,
+      "ref": "ee9f191ab",
+      "tag": "a",
+      "text": "Passwortstärken-Analysator Ermittle die Stärke deines Passworts mit diesem Client-seitigen Passwortstärken-Analysator und Tool zur Schätzung der Knackzeit."
+    },
+    {
+      "bounds": [
+        694,
+        608,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "e14be57e2x10",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        766,
+        583,
+        238,
+        223
+      ],
+      "onscreen": true,
+      "ref": "e907f2693",
+      "tag": "a",
+      "text": "PDF-Signaturprüfer Überprüfe die Signaturen einer PDF-Datei. Eine signierte PDF-Datei enthält eine oder mehrere Signaturen, die verwendet werden können, um festzustellen, ob der Inhalt der Datei seit "
+    },
+    {
+      "bounds": [
+        944,
+        608,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "e14be57e2x11",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1016,
+        583,
+        238,
+        223
+      ],
+      "onscreen": true,
+      "ref": "e18473df7",
+      "tag": "a",
+      "text": "Datum-Uhrzeit-Konverter Konvertiere Datum und Uhrzeit in verschiedene Formate."
+    },
+    {
+      "bounds": [
+        1194,
+        608,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "e14be57e2x12",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        266,
+        817,
+        238,
+        195
+      ],
+      "onscreen": true,
+      "ref": "e885bd9eb",
+      "tag": "a",
+      "text": "Ganzzahl-Basiskonverter Konvertiere Zahlen zwischen verschiedenen Basen (Dezimal, Hexadezimal, Binär, Oktal, Base64, ...)."
+    },
+    {
+      "bounds": [
+        444,
+        842,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "e14be57e2x13",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        516,
+        817,
+        238,
+        195
+      ],
+      "onscreen": true,
+      "ref": "e332e6d26",
+      "tag": "a",
+      "text": "Römische Zahlen Konverter Konvertiere römische Zahlen in Dezimalzahlen und Dezimalzahlen in römische Zahlen."
+    },
+    {
+      "bounds": [
+        694,
+        842,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "e14be57e2x14",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        766,
+        817,
+        238,
+        195
+      ],
+      "onscreen": true,
+      "ref": "e1726c62a",
+      "tag": "a",
+      "text": "Base64-String-Encoder/Decoder Codiere und decodiere Strings einfach in ihre Base64-Repräsentation."
+    },
+    {
+      "bounds": [
+        944,
+        842,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "e14be57e2x15",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1016,
+        817,
+        238,
+        195
+      ],
+      "onscreen": true,
+      "ref": "ef2787522",
+      "tag": "a",
+      "text": "Base64-Dateikonverter Konvertiere Strings, Dateien oder Bilder in ihre Base64-Repräsentation."
+    },
+    {
+      "bounds": [
+        1194,
+        842,
+        34,
+        34
+      ],
+      "onscreen": true,
+      "ref": "e14be57e2x16",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        266,
+        1024,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "ef2cbb552",
+      "tag": "a",
+      "text": "Farbkonverter Konvertiere Farben zwischen den verschiedenen Formaten (Hex, RGB, HSL und CSS-Name)."
+    },
+    {
+      "bounds": [
+        444,
+        1049,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x17",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        516,
+        1024,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "e0f3e7a14",
+      "tag": "a",
+      "text": "Fall-Konverter Ändere den Fall eines Strings und wähle zwischen verschiedenen Formaten aus."
+    },
+    {
+      "bounds": [
+        694,
+        1049,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x18",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        766,
+        1024,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "e3e009287",
+      "tag": "a",
+      "text": "Text zu NATO-Alphabet Wandle Text in das NATO-Phonetik-Alphabet für die mündliche Übermittlung um."
+    },
+    {
+      "bounds": [
+        944,
+        1049,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x19",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1016,
+        1024,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "edd033675",
+      "tag": "a",
+      "text": "Text zu ASCII-Binär Konvertiere Text in seine ASCII-Binärrepräsentation und umgekehrt."
+    },
+    {
+      "bounds": [
+        1194,
+        1049,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x20",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        266,
+        1231,
+        238,
+        167
+      ],
+      "onscreen": false,
+      "ref": "e89b3d115",
+      "tag": "a",
+      "text": "Text zu Unicode Parse und konvertiere Text in Unicode und umgekehrt."
+    },
+    {
+      "bounds": [
+        444,
+        1256,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x21",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        516,
+        1231,
+        238,
+        167
+      ],
+      "onscreen": false,
+      "ref": "e3ef850bc",
+      "tag": "a",
+      "text": "YAML zu JSON Konvertiere YAML einfach in JSON mit diesem Live-Online-Konverter."
+    },
+    {
+      "bounds": [
+        694,
+        1256,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x22",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        766,
+        1231,
+        238,
+        167
+      ],
+      "onscreen": false,
+      "ref": "e755c3042",
+      "tag": "a",
+      "text": "YAML zu TOML Parse und konvertiere YAML zu TOML."
+    },
+    {
+      "bounds": [
+        944,
+        1256,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x23",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1016,
+        1231,
+        238,
+        167
+      ],
+      "onscreen": false,
+      "ref": "eee1ee950",
+      "tag": "a",
+      "text": "JSON zu YAML Konvertiere JSON einfach in YAML mit diesem Live-Online-Konverter."
+    },
+    {
+      "bounds": [
+        1194,
+        1256,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x24",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        266,
+        1410,
+        238,
+        167
+      ],
+      "onscreen": false,
+      "ref": "e52a69e8c",
+      "tag": "a",
+      "text": "JSON zu TOML Parse und konvertiere JSON zu TOML."
+    },
+    {
+      "bounds": [
+        444,
+        1435,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x25",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        516,
+        1410,
+        238,
+        167
+      ],
+      "onscreen": false,
+      "ref": "e59e73f77",
+      "tag": "a",
+      "text": "Listenkonverter Dieses Tool kann spaltenbasierte Daten verarbeiten und verschiedene Änderungen (transponieren, Präfix und Suffix hinzufügen, Liste umkehren, Liste sortieren, Werte in Kleinbuchstaben u"
+    },
+    {
+      "bounds": [
+        694,
+        1435,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x26",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        766,
+        1410,
+        238,
+        167
+      ],
+      "onscreen": false,
+      "ref": "ebf2f1bdc",
+      "tag": "a",
+      "text": "TOML zu JSON Parse und konvertiere TOML zu JSON."
+    },
+    {
+      "bounds": [
+        944,
+        1435,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x27",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1016,
+        1410,
+        238,
+        167
+      ],
+      "onscreen": false,
+      "ref": "edfa8e04a",
+      "tag": "a",
+      "text": "TOML zu YAML Parse und konvertiere TOML zu YAML."
+    },
+    {
+      "bounds": [
+        1194,
+        1435,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x28",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        266,
+        1589,
+        238,
+        251
+      ],
+      "onscreen": false,
+      "ref": "e784948db",
+      "tag": "a",
+      "text": "XML to JSON Convert XML to JSON"
+    },
+    {
+      "bounds": [
+        444,
+        1614,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x29",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        516,
+        1589,
+        238,
+        251
+      ],
+      "onscreen": false,
+      "ref": "e09af2ec7",
+      "tag": "a",
+      "text": "JSON to XML Convert JSON to XML"
+    },
+    {
+      "bounds": [
+        694,
+        1614,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x30",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        766,
+        1589,
+        238,
+        251
+      ],
+      "onscreen": false,
+      "ref": "e398bb8ee",
+      "tag": "a",
+      "text": "Markdown to HTML Convert Markdown to Html and allow to print (as PDF)"
+    },
+    {
+      "bounds": [
+        944,
+        1614,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x31",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1016,
+        1589,
+        238,
+        251
+      ],
+      "onscreen": false,
+      "ref": "e2470636c",
+      "tag": "a",
+      "text": "Kodieren/Decodieren von URL-formatierten Zeichenfolgen Kodiere zum URL-kodierten Format (auch als \"prozentkodiert\" bekannt) oder decodiere es."
+    },
+    {
+      "bounds": [
+        1194,
+        1614,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x32",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        266,
+        1851,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "e5687b32a",
+      "tag": "a",
+      "text": "HTML-Entity-Escape Escape oder unescape HTML-Entitäten (ersetze <, >, &, \" und ' durch ihre HTML-Version)."
+    },
+    {
+      "bounds": [
+        444,
+        1876,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x33",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        516,
+        1851,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "ef0fe0f6a",
+      "tag": "a",
+      "text": "URL-Parser Parse eine URL-Zeichenfolge, um alle verschiedenen Teile (Protokoll, Ursprung, Parameter, Port, Benutzername-Passwort usw.) zu erhalten."
+    },
+    {
+      "bounds": [
+        694,
+        1876,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x34",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        766,
+        1851,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "ee48a7d0c",
+      "tag": "a",
+      "text": "Geräteinformationen Informationen zu deinem aktuellen Gerät (Bildschirmgröße, Pixelverhältnis, Benutzeragent, ...) erhalten."
+    },
+    {
+      "bounds": [
+        944,
+        1876,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x35",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1016,
+        1851,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "e48e0c68a",
+      "tag": "a",
+      "text": "Basic-Auth-Generator Generiere einen Base64-Basic-Auth-Header aus einem Benutzernamen und einem Passwort."
+    },
+    {
+      "bounds": [
+        1194,
+        1876,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x36",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        266,
+        2058,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "e6da3338b",
+      "tag": "a",
+      "text": "Open Graph Meta-Generator Generiere Open Graph- und Social-HTML-Metatags für deine Website."
+    },
+    {
+      "bounds": [
+        444,
+        2083,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x37",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        516,
+        2058,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "e2bde05bd",
+      "tag": "a",
+      "text": "OTP-Code-Generator Generiere und validiere zeitbasierte OTPs (Einmalpasswörter) für Multi-Faktor-Authentifizierung."
+    },
+    {
+      "bounds": [
+        694,
+        2083,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x38",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        766,
+        2058,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "e98fb74b4",
+      "tag": "a",
+      "text": "MIME-Typen Konvertiere MIME-Typen in Erweiterungen und umgekehrt."
+    },
+    {
+      "bounds": [
+        944,
+        2083,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x39",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1016,
+        2058,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "e57ff6ce5",
+      "tag": "a",
+      "text": "JWT-Parser Parse und decodiere deinen JSON-Web-Token (JWT) und zeige dessen Inhalt an."
+    },
+    {
+      "bounds": [
+        1194,
+        2083,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x40",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        266,
+        2265,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "e7b66cf94",
+      "tag": "a",
+      "text": "Keycode-Info Finde den JavaScript-Keycode, den Code, den Standort und die Modifikatoren einer beliebigen gedrückten Taste."
+    },
+    {
+      "bounds": [
+        444,
+        2290,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x41",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        516,
+        2265,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "e06a3d1a8",
+      "tag": "a",
+      "text": "Slugify String Mache einen String URL-, Dateinamen- und ID-sicher."
+    },
+    {
+      "bounds": [
+        694,
+        2290,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x42",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        766,
+        2265,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "ea3b21f25",
+      "tag": "a",
+      "text": "HTML-WYSIWYG-Editor Online-HTML-Editor mit funktionsreichem WYSIWYG-Editor, erhalte sofort den Quellcode des Inhalts."
+    },
+    {
+      "bounds": [
+        944,
+        2290,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x43",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1016,
+        2265,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "eac142265",
+      "tag": "a",
+      "text": "User-Agent-Parser Erkenne und parse Browser, Engine, Betriebssystem, CPU und Gerätetyp/-modell aus einer User-Agent-Zeichenfolge."
+    },
+    {
+      "bounds": [
+        1194,
+        2290,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x44",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        266,
+        2472,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "eaa7f4b32",
+      "tag": "a",
+      "text": "HTTP-Statuscodes Liste aller HTTP-Statuscodes, ihrer Namen und ihrer Bedeutung."
+    },
+    {
+      "bounds": [
+        444,
+        2497,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x45",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        516,
+        2472,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "e5b8fcfb1",
+      "tag": "a",
+      "text": "JSON-Unterschied Vergleiche zwei JSON-Objekte und erhalte die Unterschiede zwischen ihnen."
+    },
+    {
+      "bounds": [
+        694,
+        2497,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x46",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        766,
+        2472,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "e1516235f",
+      "tag": "a",
+      "text": "Outlook Safelink decoder Decode Outlook SafeLink links"
+    },
+    {
+      "bounds": [
+        944,
+        2497,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x47",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1016,
+        2472,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "ee4076059",
+      "tag": "a",
+      "text": "QR-Code-Generator Generiere und downloade QR-Codes für eine URL oder einfach einen Text und passe die Hintergrund- und Vordergrundfarben an."
+    },
+    {
+      "bounds": [
+        1194,
+        2497,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x48",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        266,
+        2678,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "e064b36f2",
+      "tag": "a",
+      "text": "WLAN-QR-Code-Generator Generiere und lade QR-Codes für schnelle Verbindungen zu WLAN-Netzwerken herunter."
+    },
+    {
+      "bounds": [
+        444,
+        2703,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x49",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        516,
+        2678,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "e745e0239",
+      "tag": "a",
+      "text": "SVG-Platzhalter-Generator Generiere SVG-Bilder, die als Platzhalter in deinen Anwendungen verwendet werden können."
+    },
+    {
+      "bounds": [
+        694,
+        2703,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x50",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        766,
+        2678,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "e8e257326",
+      "tag": "a",
+      "text": "Kamera-Rekorder Mache ein Foto oder nimm ein Video von deiner Webcam oder Kamera auf."
+    },
+    {
+      "bounds": [
+        944,
+        2703,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x51",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1016,
+        2678,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "ef8f9a2af",
+      "tag": "a",
+      "text": "Git-Spickzettel Git ist eine dezentrale Versionsverwaltungssoftware. Mit diesem Spickzettel hast du schnellen Zugriff auf die gängigsten Git-Befehle."
+    },
+    {
+      "bounds": [
+        1194,
+        2703,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x52",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        266,
+        2885,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "e99f94b33",
+      "tag": "a",
+      "text": "Zufälliger Port-Generator Generiere zufällige Portnummern außerhalb des Bereichs der \"bekannten\" Ports (0-1023)."
+    },
+    {
+      "bounds": [
+        444,
+        2910,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x53",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        516,
+        2885,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "e1d914a3a",
+      "tag": "a",
+      "text": "Crontab-Generator Überprüfe und generiere Crontab und erhalte die menschenlesbare Beschreibung des Cron-Zeitplans."
+    },
+    {
+      "bounds": [
+        694,
+        2910,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x54",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        766,
+        2885,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "e1ca4086d",
+      "tag": "a",
+      "text": "JSON verschönern und formatieren Verschönere deinen JSON-String in ein menschenlesbares Format."
+    },
+    {
+      "bounds": [
+        944,
+        2910,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x55",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1016,
+        2885,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "e08f0e5eb",
+      "tag": "a",
+      "text": "JSON minifizieren Minifiziere und komprimiere dein JSON, indem unnötige Leerzeichen entfernt werden."
+    },
+    {
+      "bounds": [
+        1194,
+        2910,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x56",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        266,
+        3092,
+        238,
+        223
+      ],
+      "onscreen": false,
+      "ref": "e0b6ddce7",
+      "tag": "a",
+      "text": "JSON zu CSV Konvertiere JSON mit automatischer Headererkennung in CSV."
+    },
+    {
+      "bounds": [
+        444,
+        3117,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x57",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        516,
+        3092,
+        238,
+        223
+      ],
+      "onscreen": false,
+      "ref": "ed3c272fd",
+      "tag": "a",
+      "text": "SQL verschönern und formatieren Formatiere und verschönere deine SQL-Abfragen online (unterstützt verschiedene SQL-Dialekte)."
+    },
+    {
+      "bounds": [
+        694,
+        3117,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x58",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        766,
+        3092,
+        238,
+        223
+      ],
+      "onscreen": false,
+      "ref": "ef2c4042d",
+      "tag": "a",
+      "text": "Chmod-Rechner Berechne deine Chmod-Berechtigungen und -Befehle mit diesem Online-Chmod-Rechner."
+    },
+    {
+      "bounds": [
+        944,
+        3117,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x59",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1016,
+        3092,
+        238,
+        223
+      ],
+      "onscreen": false,
+      "ref": "efc5cef10",
+      "tag": "a",
+      "text": "Docker run zu Docker compose Konverter Wandle docker run-Befehle in docker-compose-Dateien um!"
+    },
+    {
+      "bounds": [
+        1194,
+        3117,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x60",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        266,
+        3327,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "eaab5cefd",
+      "tag": "a",
+      "text": "XML-Formatter Verschönere deinen XML-String in ein menschenlesbares Format."
+    },
+    {
+      "bounds": [
+        444,
+        3352,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x61",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        516,
+        3327,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "e349a443d",
+      "tag": "a",
+      "text": "YAML verschönern und formatieren Verschönere deinen YAML-String in ein menschenlesbares Format."
+    },
+    {
+      "bounds": [
+        694,
+        3352,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x62",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        766,
+        3327,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "eed8a3f6f",
+      "tag": "a",
+      "text": "Email normalizer Normalize email addresses to a standard format for easier comparison. Useful for deduplication and data cleaning."
+    },
+    {
+      "bounds": [
+        944,
+        3352,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x63",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1016,
+        3327,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "eebd5eb53",
+      "tag": "a",
+      "text": "Regex Tester Test your regular expressions with sample text."
+    },
+    {
+      "bounds": [
+        1194,
+        3352,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x64",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        266,
+        3534,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "e9d9cd064",
+      "tag": "a",
+      "text": "Regex cheatsheet Javascript Regex/Regular Expression cheatsheet"
+    },
+    {
+      "bounds": [
+        444,
+        3559,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x65",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        516,
+        3534,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "eb4572136",
+      "tag": "a",
+      "text": "IPv4-Subnetzrechner Parse deine IPv4-CIDR-Blöcke und erhalte alle Informationen, die du über dein Subnetz benötigst."
+    },
+    {
+      "bounds": [
+        694,
+        3559,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x66",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        766,
+        3534,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "ea12f97a6",
+      "tag": "a",
+      "text": "IPv4-Adresskonverter Konvertiere eine IP-Adresse in Dezimal, Binär, Hexadezimal oder sogar in IPv6."
+    },
+    {
+      "bounds": [
+        944,
+        3559,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x67",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1016,
+        3534,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "e7e99d43c",
+      "tag": "a",
+      "text": "IPv4-Bereichserweiterer Bei Angabe einer Start- und End-IPv4-Adresse berechnet dieses Tool ein gültiges IPv4-Netzwerk mit seiner CIDR-Notation."
+    },
+    {
+      "bounds": [
+        1194,
+        3559,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x68",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        266,
+        3740,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "ea48107e5",
+      "tag": "a",
+      "text": "MAC-Adressensuche Finde den Anbieter und Hersteller eines Geräts anhand seiner MAC-Adresse."
+    },
+    {
+      "bounds": [
+        444,
+        3765,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x69",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        516,
+        3740,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "ee47103ff",
+      "tag": "a",
+      "text": "MAC-Adressen-Generator Gebe die Menge und das Präfix ein. MAC-Adressen werden in deiner gewählten Schreibweise (Groß- oder Kleinbuchstaben) generiert."
+    },
+    {
+      "bounds": [
+        694,
+        3765,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x70",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        766,
+        3740,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "ee01a92aa",
+      "tag": "a",
+      "text": "IPv6-ULA-Generator Generiere deine eigenen lokalen, nicht routbaren IP-Adressen in deinem Netzwerk gemäß RFC4193."
+    },
+    {
+      "bounds": [
+        944,
+        3765,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x71",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1016,
+        3740,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "e584036f3",
+      "tag": "a",
+      "text": "Mathematischer Auswerter Ein Taschenrechner zum Auswerten mathematischer Ausdrücke. Du kannst Funktionen wie sqrt, cos, sin, abs usw. verwenden."
+    },
+    {
+      "bounds": [
+        1194,
+        3765,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x72",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        266,
+        3947,
+        238,
+        167
+      ],
+      "onscreen": false,
+      "ref": "ed8833cd4",
+      "tag": "a",
+      "text": "ETA-Rechner Ein ETA (Estimated Time of Arrival)-Rechner, um die ungefähre Endzeit einer Aufgabe zu erfahren, z. B. den Zeitpunkt des Endes eines Downloads."
+    },
+    {
+      "bounds": [
+        444,
+        3972,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x73",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        516,
+        3947,
+        238,
+        167
+      ],
+      "onscreen": false,
+      "ref": "ebb05721c",
+      "tag": "a",
+      "text": "Prozentrechner Berechne einfach Prozentsätze von einem Wert zu einem anderen Wert oder von einem Prozentsatz zu einem Wert."
+    },
+    {
+      "bounds": [
+        694,
+        3972,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x74",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        766,
+        3947,
+        238,
+        167
+      ],
+      "onscreen": false,
+      "ref": "e75bb7488",
+      "tag": "a",
+      "text": "Chronometer Überwache die Dauer einer Sache. Im Grunde ein Chronometer mit einfachen Chronometerfunktionen."
+    },
+    {
+      "bounds": [
+        944,
+        3972,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x75",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1016,
+        3947,
+        238,
+        167
+      ],
+      "onscreen": false,
+      "ref": "e13b1cabd",
+      "tag": "a",
+      "text": "Temperaturkonverter Temperaturgradumrechnungen für Kelvin, Celsius, Fahrenheit, Rankine, Delisle, Newton, Réaumur und Rømer."
+    },
+    {
+      "bounds": [
+        1194,
+        3972,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x76",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        266,
+        4126,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "e3eb31610",
+      "tag": "a",
+      "text": "Benchmark-Builder Vergleiche ganz einfach die Ausführungszeit von Aufgaben mit diesem sehr einfachen Online-Benchmark-Builder."
+    },
+    {
+      "bounds": [
+        444,
+        4151,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x77",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        516,
+        4126,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "e09b0101b",
+      "tag": "a",
+      "text": "Lorem Ipsum Generator Lorem Ipsum ist ein Platzhaltertext, der häufig verwendet wird, um die visuelle Form eines Dokuments oder einer Schriftart ohne Verwendung von bedeutendem Inhalt zu demonstrieren"
+    },
+    {
+      "bounds": [
+        694,
+        4151,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x78",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        766,
+        4126,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "ed2d997d1",
+      "tag": "a",
+      "text": "Textstatistiken Informationen zu einem Text erhalten, wie die Anzahl der Zeichen, die Anzahl der Wörter, die Größe usw."
+    },
+    {
+      "bounds": [
+        944,
+        4151,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x79",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1016,
+        4126,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "e175ea8a8",
+      "tag": "a",
+      "text": "Emoji-Picker Einfaches Kopieren und Einfügen von Emojis. Erhalte außerdem den Unicode- und Codepunkt-Wert jedes Emojis."
+    },
+    {
+      "bounds": [
+        1194,
+        4151,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x80",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        266,
+        4333,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "ec7dd00a5",
+      "tag": "a",
+      "text": "String-Verschleierer Verschleiere einen String (wie ein Secret, eine IBAN oder ein Token), um ihn weitergeben zu können und identifizierbar zu machen, ohne seinen Inhalt preiszugeben."
+    },
+    {
+      "bounds": [
+        444,
+        4358,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x81",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        516,
+        4333,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "ec72fc1c0",
+      "tag": "a",
+      "text": "Textunterschied Vergleiche zwei Texte und sieh die Unterschiede zwischen ihnen."
+    },
+    {
+      "bounds": [
+        694,
+        4358,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x82",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        766,
+        4333,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "ed2ee59be",
+      "tag": "a",
+      "text": "Numeronym-Generator Ein Numeronym ist ein Wort, bei dem eine Zahl verwendet wird, um eine Abkürzung zu bilden. Zum Beispiel ist \"i18n\" ein Numeronym für \"internationalization\", wobei 18 für die Anzahl"
+    },
+    {
+      "bounds": [
+        944,
+        4358,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x83",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1016,
+        4333,
+        238,
+        195
+      ],
+      "onscreen": false,
+      "ref": "e023a96d1",
+      "tag": "a",
+      "text": "ASCII Art Text Generator Create ASCII art text with many fonts and styles."
+    },
+    {
+      "bounds": [
+        1194,
+        4358,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x84",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        266,
+        4539,
+        238,
+        223
+      ],
+      "onscreen": false,
+      "ref": "e24e82683",
+      "tag": "a",
+      "text": "Telefonnummer-Parser und -Formatter Parse, validiere und formatiere Telefonnummern. Erhalte Informationen zur Telefonnummer, wie z. B. die Landesvorwahl, den Typ usw."
+    },
+    {
+      "bounds": [
+        444,
+        4564,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x85",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        516,
+        4539,
+        238,
+        223
+      ],
+      "onscreen": false,
+      "ref": "e9100bf37",
+      "tag": "a",
+      "text": "IBAN-Validator und -Parser Validiere und parse IBAN-Nummern. Überprüfe, ob die IBAN gültig ist, und erhalte das Land, BBAN, ob es sich um eine QR-IBAN handelt und das IBAN-freundliche Format."
+    },
+    {
+      "bounds": [
+        694,
+        4564,
+        34,
+        34
+      ],
+      "onscreen": false,
+      "ref": "e14be57e2x86",
+      "tag": "button"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "text": "IT-Tools\n© 2026\nAlle Tools",
+  "text_truncated": false,
+  "title": "IT Tools - Handy online tools for developers",
+  "url": "/",
+  "viewport": [
+    1280,
+    900
+  ]
+}

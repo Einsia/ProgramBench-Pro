@@ -1,0 +1,401 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        110,
+        175,
+        154,
+        154
+      ],
+      "ref": "canvas0",
+      "tag": "svg"
+    },
+    {
+      "bounds": [
+        376,
+        77,
+        904,
+        823
+      ],
+      "ref": "canvas1",
+      "tag": "svg"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        0,
+        9,
+        82,
+        53
+      ],
+      "ref": "e75fe0e2a",
+      "tag": "a"
+    },
+    {
+      "bounds": [
+        98,
+        12,
+        20,
+        20
+      ],
+      "ref": "e273b1f52",
+      "tag": "img",
+      "title": "PostgreSQL diagram"
+    },
+    {
+      "bounds": [
+        1140,
+        16,
+        112,
+        36
+      ],
+      "ref": "eed4bab7b",
+      "tag": "button",
+      "text": "Share"
+    },
+    {
+      "bounds": [
+        0,
+        88,
+        32,
+        32
+      ],
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        36,
+        85,
+        115,
+        37
+      ],
+      "ref": "e454a2aee",
+      "role": "tab",
+      "selected": false,
+      "tag": "div",
+      "text": "Subject areas (0)"
+    },
+    {
+      "bounds": [
+        159,
+        85,
+        84,
+        37
+      ],
+      "ref": "e8fe70321",
+      "role": "tab",
+      "selected": false,
+      "tag": "div",
+      "text": "Notes (0)"
+    },
+    {
+      "bounds": [
+        251,
+        85,
+        86,
+        37
+      ],
+      "ref": "ed663bf9d",
+      "role": "tab",
+      "selected": true,
+      "tag": "div",
+      "text": "Types (0)"
+    },
+    {
+      "bounds": [
+        342,
+        88,
+        32,
+        32
+      ],
+      "ref": "ea0fc21fdx2",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        41,
+        136,
+        208,
+        30
+      ],
+      "placeholder": "Search...",
+      "ref": "e5392364d",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        258,
+        135,
+        108,
+        32
+      ],
+      "ref": "eab3c78df",
+      "tag": "button",
+      "text": "Add type"
+    },
+    {
+      "bounds": [
+        20,
+        825,
+        29,
+        16
+      ],
+      "ref": "ed1270855",
+      "tag": "div",
+      "text": "2",
+      "title": "Tables"
+    },
+    {
+      "bounds": [
+        61,
+        824,
+        31,
+        18
+      ],
+      "ref": "e76f83114",
+      "tag": "div",
+      "text": "1",
+      "title": "Relationships"
+    },
+    {
+      "bounds": [
+        217,
+        823,
+        83,
+        20
+      ],
+      "ref": "e2152f4c5",
+      "tag": "button",
+      "text": "Structure"
+    },
+    {
+      "bounds": [
+        299,
+        823,
+        61,
+        20
+      ],
+      "ref": "e7cfe6d9f",
+      "tag": "button",
+      "text": "Code"
+    },
+    {
+      "bounds": [
+        8,
+        855,
+        358,
+        40
+      ],
+      "expanded": false,
+      "ref": "ef121d4d8",
+      "role": "button",
+      "tag": "div",
+      "text": "Problems 0"
+    },
+    {
+      "bounds": [
+        418,
+        195,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx3",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        418,
+        232,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx4",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        708,
+        195,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx5",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        708,
+        232,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx6",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        708,
+        269,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx7",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        708,
+        306,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx8",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        549,
+        842,
+        34,
+        36
+      ],
+      "ref": "ea0fc21fdx9",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        655,
+        842,
+        34,
+        36
+      ],
+      "ref": "ea0fc21fdx10",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        706,
+        846,
+        36,
+        28
+      ],
+      "ref": "ea0fc21fdx11",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        742,
+        846,
+        36,
+        28
+      ],
+      "disabled": true,
+      "ref": "ea0fc21fdx12",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        795,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx13",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        837,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx14",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        879,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx15",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        921,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx16",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        980,
+        841,
+        39,
+        36
+      ],
+      "ref": "ea0fc21fdx17",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1036,
+        844,
+        40,
+        32
+      ],
+      "ref": "ea0fc21fdx18",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1093,
+        841,
+        34,
+        36
+      ],
+      "ref": "ea0fc21fdx19",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1144,
+        841,
+        36,
+        36
+      ],
+      "ref": "ea0fc21fdx20",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        692,
+        22,
+        24,
+        24
+      ],
+      "ref": "ea0fc21fdx21",
+      "tag": "button"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "text": "Diagrams\n/\nEvents\nFile\nEdit\nView\nSettings\nHelp\nLast saved 11/1/2026, 10:13:08 AM\nNo types\nMake your own custom data types\nfk_events_venue_id_venues\nn\n1\nvenues\nid\nINTEGER\nname\nVARCHAR(80)\nevents\nid\nBIGINT\nvenue_id\n?\nINTEGER\nmood\n?\nMOOD\nprice\n?\nNUMERIC(8,2)\n100\n%\nType deleted",
+  "text_truncated": false,
+  "title": "Editor | drawDB",
+  "url": "/editor/diagrams/f5b09f18-8534-499a-9488-a273cd2bcb03",
+  "viewport": [
+    1280,
+    900
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "task": "lmms",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "LMMS",
+    "version": "1.2.2",
+    "homepage": "https://lmms.io/",
+    "repository": "https://github.com/LMMS/lmms",
+    "license": "GPL-2.0-or-later"
+  },
+  "downloads": [
+    {
+      "file": "lmms-1.2.2-linux-x86_64.AppImage",
+      "url": "https://github.com/LMMS/lmms/releases/download/v1.2.2/lmms-1.2.2-linux-x86_64.AppImage",
+      "sha256": "6cdc45a0699b8cd85295c49bcac03fcce6f3d8ffd7da23d646d0cb4258869b76"
+    }
+  ],
+  "bundled": [
+    {
+      "file": "lmms_cpus.so",
+      "built_from": "lmms_cpus.c compiled with GCC 11.4 on Ubuntu 22.04 (glibc 2.35): gcc -O2 -fPIC -shared -Wl,--build-id=none -o lmms_cpus.so lmms_cpus.c -ldl. The preload limits the processor count visible to LMMS."
+    }
+  ],
+  "modifications": "The installer omits the optional VeSTige, Carla base, Carla Rack, Carla Patchbay and external LADSPA host modules; internal instruments and effects retain their upstream bytes. launch.py seeds the normal user configuration and preloads the bundled CPU-count helper; lmms_cpus.c is included. isolation.py confines reference filesystem access and external program execution without changing the upstream binary.",
+  "configuration": "launch.py seeds HOME/.lmmsrc.xml once (first-run dialogs skipped, SDL audio on the PulseAudio sink, dummy MIDI, autosave off, LMMS working directory = PBP_FILES_DIR) and execs runtime/usr/bin/lmms.real with LD_LIBRARY_PATH set only for it and with lmms_cpus.so preloaded, which reports at most LMMS_CPUS processors (the CPU quota, the allowed processors and 4, whichever is smallest) so LMMS starts no more mixer threads than its quota allows; with arguments it runs the LMMS command line (render, rendertracks, dump, upgrade) The document exchange rejects external plugin-host declarations, external entities and oversized compressed project text. Landlock is required; filesystem rights are limited to those supported by the kernel ABI; the product can write only its instance/exchange directories and execute only its own main executable and dynamic loader. External library-host modules are absent from the installed product. The native executable starts in the document workspace so file choosers do not enumerate the installation root.",
+  "notes": {
+    "corresponding_source": {
+      "name": "lmms",
+      "version": "1.2.2",
+      "orig": {
+        "file": "lmms_1.2.2.tar.xz",
+        "size": 22733960,
+        "sha256": "b185507fb64ecfd8e31145135b58ab244b637f9efc09c4176caf70aa3cbaae1e"
+      },
+      "location": "https://github.com/LMMS/lmms/releases/download/v1.2.2/"
+    },
+    "component_notices": "Bundled distribution copyright notices are reproduced in LICENSES and remain in runtime/usr/share/doc; factory data keeps its original notices."
+  }
+}

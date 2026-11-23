@@ -1,0 +1,306 @@
+{
+  "cursor": {
+    "column": 0,
+    "hidden": true,
+    "row": 0
+  },
+  "process": "running",
+  "screen": [
+    "00|Newsboat 2.45.0 - Article 'Article 01' (74 unread, 75 total)",
+    "01|Feed: Long feed",
+    "02|Title: Article 01",
+    "03|Date: Tue, 02 Jan 2024 10:00:00 +0000",
+    "04|Link: http://example.com/long-1",
+    "05|",
+    "06|Paragraph 01 with text to read.",
+    "07|",
+    "08|Paragraph 02 with text to read.",
+    "09|",
+    "10|Paragraph 03 with text to read.",
+    "11|",
+    "12|Paragraph 04 with text to read.",
+    "13|",
+    "14|Paragraph 05 with text to read.",
+    "15|",
+    "16|Paragraph 06 with text to read.",
+    "17|",
+    "18|Paragraph 07 with text to read.",
+    "19|",
+    "20|Paragraph 08 with text to read.",
+    "21|",
+    "22|Paragraph 09 with text to read.",
+    "23|",
+    "24|Paragraph 10 with text to read.",
+    "25|",
+    "26|Paragraph 11 with text to read.",
+    "27|",
+    "28|Paragraph 12 with text to read.",
+    "29|",
+    "30|Paragraph 13 with text to read.",
+    "31|",
+    "32|Paragraph 14 with text to read.",
+    "33|",
+    "34|q:Quit s:Save n:Next Unread o:Open in Browser e:Enqueue ?:Help                                                    Top",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": "Newsboat 2.45.0 - Article 'Article 01' (74 unread, 75 total)                                                            "
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": "q"
+    },
+    {
+      "columns": [
+        1,
+        2
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        2,
+        6
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Quit"
+    },
+    {
+      "columns": [
+        6,
+        8
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": " s"
+    },
+    {
+      "columns": [
+        8,
+        9
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        9,
+        13
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Save"
+    },
+    {
+      "columns": [
+        13,
+        15
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": " n"
+    },
+    {
+      "columns": [
+        15,
+        16
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        16,
+        27
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Next Unread"
+    },
+    {
+      "columns": [
+        27,
+        29
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": " o"
+    },
+    {
+      "columns": [
+        29,
+        30
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        30,
+        45
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Open in Browser"
+    },
+    {
+      "columns": [
+        45,
+        47
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": " e"
+    },
+    {
+      "columns": [
+        47,
+        48
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        48,
+        55
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Enqueue"
+    },
+    {
+      "columns": [
+        55,
+        57
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": " ?"
+    },
+    {
+      "columns": [
+        57,
+        58
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        58,
+        62
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Help"
+    },
+    {
+      "columns": [
+        114,
+        117
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": "Top"
+    }
+  ]
+}

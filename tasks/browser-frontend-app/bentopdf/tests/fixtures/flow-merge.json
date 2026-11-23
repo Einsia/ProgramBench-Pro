@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "nodes": [
+    {
+      "id": "in",
+      "type": "PDFInputNode",
+      "controls": {},
+      "position": {
+        "x": 40,
+        "y": 40
+      }
+    },
+    {
+      "id": "in2",
+      "type": "PDFInputNode",
+      "controls": {},
+      "position": {
+        "x": 40,
+        "y": 340
+      }
+    },
+    {
+      "id": "merge",
+      "type": "MergeNode",
+      "controls": {},
+      "position": {
+        "x": 340,
+        "y": 40
+      }
+    },
+    {
+      "id": "out",
+      "type": "DownloadNode",
+      "controls": {
+        "filename": "merged-flow"
+      },
+      "position": {
+        "x": 640,
+        "y": 40
+      }
+    }
+  ],
+  "connections": [
+    {
+      "id": "e0",
+      "source": "in",
+      "sourceOutput": "pdf",
+      "target": "merge",
+      "targetInput": "pdf"
+    },
+    {
+      "id": "e1",
+      "source": "in2",
+      "sourceOutput": "pdf",
+      "target": "merge",
+      "targetInput": "pdf"
+    },
+    {
+      "id": "e2",
+      "source": "merge",
+      "sourceOutput": "pdf",
+      "target": "out",
+      "targetInput": "pdf"
+    }
+  ]
+}

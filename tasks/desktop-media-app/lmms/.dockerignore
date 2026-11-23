@@ -1,0 +1,20 @@
+# Reference installation and runtime build inputs.
+**
+!solution/
+!solution/start.sh
+!solution/solve.sh
+!solution/launch.py
+!solution/SOURCE.json
+!solution/lmms-1.2.2-linux-x86_64.AppImage
+!environment/
+!environment/Dockerfile.reference
+!environment/runtime/
+!environment/runtime/*.py
+!environment/runtime/*.json
+!solution/NOTICE
+!solution/LICENSE
+!solution/LICENSES/
+!solution/LICENSES/**
+!solution/lmms_cpus.so
+!solution/lmms_cpus.c
+!solution/isolation.py

@@ -1,0 +1,299 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        559,
+        -44,
+        162,
+        36
+      ],
+      "href": "/unread/entry/2#main",
+      "offscreen": true,
+      "ref": "e843",
+      "role": null,
+      "tag": "a",
+      "text": "Skip to content"
+    },
+    {
+      "aria": "Home page",
+      "bounds": [
+        193,
+        10,
+        77,
+        19
+      ],
+      "href": "/unread",
+      "ref": "e844",
+      "role": null,
+      "tag": "a",
+      "text": "Mini\nflux"
+    },
+    {
+      "aria": "Unread, 2 unread entries",
+      "bounds": [
+        278,
+        12,
+        102,
+        16
+      ],
+      "href": "/unread",
+      "ref": "e845",
+      "role": null,
+      "tag": "a",
+      "text": "Unread (2)"
+    },
+    {
+      "bounds": [
+        395,
+        12,
+        78,
+        16
+      ],
+      "href": "/starred",
+      "ref": "e846",
+      "role": null,
+      "tag": "a",
+      "text": "Starred"
+    },
+    {
+      "bounds": [
+        488,
+        12,
+        78,
+        16
+      ],
+      "href": "/history",
+      "ref": "e847",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        581,
+        12,
+        70,
+        16
+      ],
+      "href": "/feeds",
+      "ref": "e848",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "aria": "Add feed",
+      "bounds": [
+        650,
+        12,
+        26,
+        16
+      ],
+      "href": "/subscribe",
+      "ref": "e849",
+      "role": null,
+      "tag": "a",
+      "text": "(+)",
+      "title": "Keyboard Shortcut: +"
+    },
+    {
+      "bounds": [
+        691,
+        12,
+        104,
+        16
+      ],
+      "href": "/categories",
+      "ref": "e850",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        810,
+        12,
+        70,
+        16
+      ],
+      "href": "/search",
+      "ref": "e851",
+      "role": null,
+      "tag": "a",
+      "text": "Search"
+    },
+    {
+      "bounds": [
+        894,
+        12,
+        87,
+        16
+      ],
+      "href": "/settings",
+      "ref": "e852",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        996,
+        10,
+        70,
+        18
+      ],
+      "ref": "e853",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "title": "Logged in as alice"
+    },
+    {
+      "bounds": [
+        195,
+        50,
+        154,
+        37
+      ],
+      "href": "[external]",
+      "ref": "e854",
+      "role": null,
+      "tag": "a",
+      "text": "Manual 1"
+    },
+    {
+      "bounds": [
+        195,
+        122,
+        113,
+        19
+      ],
+      "ref": "e855",
+      "role": null,
+      "tag": "button",
+      "text": "Mark as read",
+      "title": "Change entry status"
+    },
+    {
+      "bounds": [
+        333,
+        122,
+        49,
+        19
+      ],
+      "ref": "e856",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        407,
+        122,
+        63,
+        19
+      ],
+      "ref": "e857",
+      "role": null,
+      "tag": "button",
+      "text": "Share"
+    },
+    {
+      "bounds": [
+        494,
+        122,
+        91,
+        19
+      ],
+      "ref": "e858",
+      "role": null,
+      "tag": "button",
+      "text": "Download",
+      "title": "Fetch original content"
+    },
+    {
+      "bounds": [
+        195,
+        166,
+        100,
+        18
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e859",
+      "role": null,
+      "tag": "a",
+      "text": "Manual Feed"
+    },
+    {
+      "bounds": [
+        313,
+        170,
+        21,
+        12
+      ],
+      "href": "/category/1/entries",
+      "ref": "e860",
+      "role": null,
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        195,
+        204,
+        154,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e861",
+      "role": null,
+      "tag": "a",
+      "text": "http://manual.test/0"
+    },
+    {
+      "bounds": [
+        594,
+        358,
+        134,
+        20
+      ],
+      "href": "/unread/entry/2",
+      "ref": "e862",
+      "role": null,
+      "tag": "a",
+      "text": "Back to top"
+    },
+    {
+      "bounds": [
+        1024,
+        358,
+        42,
+        20
+      ],
+      "href": "/unread/entry/1",
+      "ref": "e863",
+      "role": null,
+      "tag": "a",
+      "text": "Next",
+      "title": "Manual 2"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Skip to content\nMini\nflux\nUnread (2) Starred History Feeds (+) Categories Search Settings Logout\nManual 1\nMark as read Star \nShare\n Download\nManual Feed All\nhttp://manual.test/0\n1 year ago\n\nManual 1 body text.\n\nPrevious\nBack to top\nNext ",
+  "text_truncated": false,
+  "title": "Manual 1 - Miniflux",
+  "url": "/unread/entry/2",
+  "viewport": [
+    1280,
+    900
+  ]
+}

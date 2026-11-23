@@ -1,0 +1,251 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        66,
+        0,
+        566,
+        24
+      ],
+      "label": "Rows",
+      "ref": "ecda0c63d",
+      "tag": "input",
+      "type": "number",
+      "value": "2"
+    },
+    {
+      "bounds": [
+        648,
+        0,
+        566,
+        24
+      ],
+      "label": "Columns",
+      "ref": "e2fb7f9d7",
+      "tag": "input",
+      "type": "number",
+      "value": "2"
+    },
+    {
+      "bounds": [
+        66,
+        150,
+        566,
+        45
+      ],
+      "label": "Page Size",
+      "options": [
+        {
+          "label": "A4",
+          "selected": false,
+          "value": "A4"
+        },
+        {
+          "label": "Letter",
+          "selected": true,
+          "value": "Letter"
+        },
+        {
+          "label": "Legal",
+          "selected": false,
+          "value": "Legal"
+        },
+        {
+          "label": "A3",
+          "selected": false,
+          "value": "A3"
+        },
+        {
+          "label": "A5",
+          "selected": false,
+          "value": "A5"
+        }
+      ],
+      "ref": "ed2b04754",
+      "tag": "select",
+      "value": "Letter"
+    },
+    {
+      "bounds": [
+        648,
+        150,
+        566,
+        45
+      ],
+      "label": "Orientation",
+      "options": [
+        {
+          "label": "Automatic (Recommended)",
+          "selected": true,
+          "value": "auto"
+        },
+        {
+          "label": "Portrait",
+          "selected": false,
+          "value": "portrait"
+        },
+        {
+          "label": "Landscape",
+          "selected": false,
+          "value": "landscape"
+        }
+      ],
+      "ref": "e1f0c018a",
+      "tag": "select",
+      "value": "auto"
+    },
+    {
+      "bounds": [
+        74,
+        329,
+        558,
+        64
+      ],
+      "checked": true,
+      "label": "Fit Preserves all content, may add margins.",
+      "name": "scaling-mode",
+      "ref": "e199006e9",
+      "tag": "label",
+      "text": "Fit Preserves all content, may add margins.",
+      "type": "radio",
+      "value": "fit"
+    },
+    {
+      "bounds": [
+        648,
+        329,
+        558,
+        64
+      ],
+      "checked": false,
+      "label": "Fill (Crop) Fills the page, may crop content.",
+      "name": "scaling-mode",
+      "ref": "ed81a5835",
+      "tag": "label",
+      "text": "Fill (Crop) Fills the page, may crop content.",
+      "type": "radio",
+      "value": "fill"
+    },
+    {
+      "bounds": [
+        66,
+        445,
+        1050,
+        46
+      ],
+      "label": "Overlap (for assembly)",
+      "ref": "ee91f2ae1",
+      "tag": "input",
+      "type": "number",
+      "value": "0"
+    },
+    {
+      "bounds": [
+        1124,
+        445,
+        90,
+        45
+      ],
+      "options": [
+        {
+          "label": "Points",
+          "selected": true,
+          "value": "pt"
+        },
+        {
+          "label": "Inches",
+          "selected": false,
+          "value": "in"
+        },
+        {
+          "label": "mm",
+          "selected": false,
+          "value": "mm"
+        }
+      ],
+      "ref": "e60847119",
+      "tag": "select",
+      "value": "pt"
+    },
+    {
+      "bounds": [
+        66,
+        535,
+        1148,
+        46
+      ],
+      "label": "Page Range (optional)",
+      "placeholder": "e.g., 1-3, 5",
+      "ref": "ea708db3f",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        49,
+        642,
+        1182,
+        48
+      ],
+      "ref": "e9fa5eadb",
+      "tag": "button",
+      "text": "Posterize PDF"
+    },
+    {
+      "bounds": [
+        473,
+        472,
+        334,
+        40
+      ],
+      "ref": "e2a50e308",
+      "tag": "button",
+      "text": "OK"
+    },
+    {
+      "bounds": [
+        1170,
+        894,
+        94,
+        6
+      ],
+      "expanded": false,
+      "ref": "ebda396fc",
+      "tag": "button",
+      "text": "English"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "single.pdf",
+      "ref": "dc17c5114d563",
+      "size": 18509
+    }
+  ],
+  "inputs": [
+    "report.pdf",
+    "single.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›Posterize PDF\nPosterize PDF\n\nSplit a large page into multiple smaller pages.\n\nClick to select a file or drag and drop\n\nYour files never leave your device.\n\nsingle.pdf\n1.9 KB\nPage Preview (1 / 1)\nGrid Layout\nRows\nColumns\nOutput Page Settings\nPage Size\nA4\nLetter\nLegal\nA3\nA5\nOrientation\nAutomatic (Recommended)\nPortrait\nLandscape\nAdvanced Options\nContent Scaling\nFit\n\nPreserves all content, may add margins.\n\nFill (Crop)\n\nFills the page, may crop content.\n\nOverlap (for assembly)\nPoints\nInches\nmm\nPage Range (optional)\n\nTotal pages: 1\n\nPosterize PDF\nSuccess\n\nYour PDF has been posterized.\n\nOK\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/posterize-pdf.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

@@ -1,0 +1,18 @@
+cmus 2.13.0
+
+https://github.com/cmus/cmus
+License: GPL-2.0-or-later; the complete product license is in LICENSE.
+
+Upstream source is unchanged. A separate denyexec preload library and deployment launcher restrict startup and runtime access.
+
+A PulseAudio null sink provides audio output. Media lives under DATA_DIR/workspace and native settings under DATA_DIR/config/cmus. The launcher fixes the output configuration and validates saved startup settings; denyexec applies seccomp and Landlock. The application exposes its native Unix control socket.
+
+cmus-2.13.0.tar.gz
+https://github.com/cmus/cmus/archive/refs/tags/v2.13.0.tar.gz
+SHA-256: 7be478c476f0a9915cdefbf6aade825a40cd202a8ca6b5149399025d3c7fc09b
+
+The retained upstream source archive is the corresponding source for the
+distributed GPL program. Its exact version, download URL and SHA-256 are listed
+above. Deployment scripts and confinement code accompany the program separately.
+
+This task is not affiliated with or endorsed by the upstream project.

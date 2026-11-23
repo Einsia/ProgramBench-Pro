@@ -1,0 +1,368 @@
+{
+  "controls": [
+    {
+      "aria": "Dashboard",
+      "bounds": [
+        10,
+        7,
+        56,
+        36
+      ],
+      "href": "/",
+      "ref": "e826",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        71,
+        7,
+        76,
+        36
+      ],
+      "href": "/issues",
+      "ref": "e827",
+      "role": null,
+      "tag": "a",
+      "text": "Issues"
+    },
+    {
+      "bounds": [
+        152,
+        7,
+        135,
+        36
+      ],
+      "href": "/pulls",
+      "ref": "e828",
+      "role": null,
+      "tag": "a",
+      "text": "Pull Requests"
+    },
+    {
+      "bounds": [
+        293,
+        7,
+        110,
+        36
+      ],
+      "href": "/milestones",
+      "ref": "e829",
+      "role": null,
+      "tag": "a",
+      "text": "Milestones"
+    },
+    {
+      "bounds": [
+        408,
+        7,
+        85,
+        36
+      ],
+      "href": "/explore/repos",
+      "ref": "e830",
+      "role": null,
+      "tag": "a",
+      "text": "Explore"
+    },
+    {
+      "aria": "Notifications",
+      "bounds": [
+        1094,
+        7,
+        42,
+        36
+      ],
+      "href": "/notifications",
+      "ref": "e831",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Notifications"
+    },
+    {
+      "aria": "Create…",
+      "bounds": [
+        1141,
+        7,
+        60,
+        36
+      ],
+      "expanded": false,
+      "ref": "e832",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Create…"
+    },
+    {
+      "aria": "Profile and Settings…",
+      "bounds": [
+        1207,
+        7,
+        64,
+        36
+      ],
+      "expanded": false,
+      "ref": "e833",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Profile and Settings…"
+    },
+    {
+      "bounds": [
+        147,
+        100,
+        175,
+        26
+      ],
+      "href": "/alice",
+      "ref": "e834",
+      "role": null,
+      "tag": "a",
+      "text": "Alice Example"
+    },
+    {
+      "bounds": [
+        32,
+        163,
+        146,
+        41
+      ],
+      "href": "/alice?tab=repositories",
+      "ref": "e835",
+      "role": null,
+      "tag": "a",
+      "text": "Repositories"
+    },
+    {
+      "bounds": [
+        178,
+        163,
+        112,
+        41
+      ],
+      "href": "/alice/-/projects",
+      "ref": "e836",
+      "role": null,
+      "tag": "a",
+      "text": "Projects"
+    },
+    {
+      "bounds": [
+        290,
+        163,
+        112,
+        41
+      ],
+      "href": "/alice/-/packages",
+      "ref": "e837",
+      "role": null,
+      "tag": "a",
+      "text": "Packages"
+    },
+    {
+      "bounds": [
+        402,
+        163,
+        171,
+        41
+      ],
+      "href": "/alice?tab=activity",
+      "ref": "e838",
+      "role": null,
+      "tag": "a",
+      "text": "Public Activity"
+    },
+    {
+      "bounds": [
+        573,
+        163,
+        213,
+        41
+      ],
+      "href": "/alice?tab=stars",
+      "ref": "e839",
+      "role": null,
+      "tag": "a",
+      "text": "Starred Repositories"
+    },
+    {
+      "bounds": [
+        175,
+        270,
+        42,
+        16
+      ],
+      "href": "/alice",
+      "ref": "e840",
+      "role": null,
+      "tag": "a",
+      "text": "alice"
+    },
+    {
+      "bounds": [
+        436,
+        494,
+        133,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e841",
+      "role": null,
+      "tag": "a",
+      "text": "the documentation"
+    },
+    {
+      "bounds": [
+        963,
+        532,
+        76,
+        16
+      ],
+      "href": "/alice/-/packages/generic/pbp-generic/1.0.0/files/1",
+      "ref": "e842",
+      "role": null,
+      "tag": "a",
+      "text": "notes.txt"
+    },
+    {
+      "bounds": [
+        963,
+        565,
+        92,
+        16
+      ],
+      "href": "/alice/-/packages/generic/pbp-generic/1.0.0/files/2",
+      "ref": "e843",
+      "role": null,
+      "tag": "a",
+      "text": "payload.bin"
+    },
+    {
+      "bounds": [
+        963,
+        598,
+        168,
+        16
+      ],
+      "href": "/alice/-/packages/generic/pbp-generic/1.0.0/files/3",
+      "ref": "e844",
+      "role": null,
+      "tag": "a",
+      "text": "file with spaces.txt"
+    },
+    {
+      "bounds": [
+        1166,
+        642,
+        67,
+        20
+      ],
+      "href": "/alice/-/packages/generic/pbp-generic/versions",
+      "ref": "e845",
+      "role": null,
+      "tag": "a",
+      "text": "View all"
+    },
+    {
+      "bounds": [
+        963,
+        676,
+        201,
+        20
+      ],
+      "href": "/alice/-/packages/generic/pbp-generic/1.0.0",
+      "ref": "e846",
+      "role": null,
+      "tag": "a",
+      "text": "1.0.0",
+      "title": "1.0.0"
+    },
+    {
+      "bounds": [
+        994,
+        727,
+        67,
+        16
+      ],
+      "href": "/alice/-/packages/generic/pbp-generic/1.0.0/settings",
+      "ref": "e847",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        20,
+        872,
+        134,
+        20
+      ],
+      "href": "[external]",
+      "ref": "e848",
+      "role": null,
+      "tag": "a",
+      "text": "Powered by Gitea"
+    },
+    {
+      "bounds": [
+        1063,
+        874,
+        76,
+        16
+      ],
+      "expanded": false,
+      "ref": "e849",
+      "role": "menu",
+      "tag": "div",
+      "text": "English"
+    },
+    {
+      "bounds": [
+        1145,
+        872,
+        76,
+        20
+      ],
+      "href": "/assets/licenses.txt",
+      "ref": "e850",
+      "role": null,
+      "tag": "a",
+      "text": "Licenses"
+    },
+    {
+      "bounds": [
+        1226,
+        872,
+        34,
+        20
+      ],
+      "href": "/api/swagger",
+      "ref": "e851",
+      "role": null,
+      "tag": "a",
+      "text": "API"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Issues\nPull Requests\nMilestones\nExplore\n \nAlice Example\nRepositories\nProjects\nPackages\nPublic Activity\nStarred Repositories\npbp-generic (1.0.0)\nPublished  by alice\nInstallation\n Download package from the command line:\ncurl -OJ http://127.0.0.1:3000/api/packages/alice/generic/pbp-generic/1.0.0/notes.txt\ncurl -OJ http://127.0.0.1:3000/api/packages/alice/generic/pbp-generic/1.0.0/payload.bin\ncurl -OJ http://127.0.0.1:3000/api/packages/alice/generic/pbp-generic/1.0.0/file%20with%20spaces.txt\n\nFor more information on the Generic registry, see the documentation.\nDetails\n Generic\n \n 0\n 93 B\nAssets (3)\nnotes.txt 14 B\npayload.bin 64 B\nfile with spaces.txt 15 B\nVersions (1)\nView all\n1.0.0\n Settings\nPowered by Gitea\nPage:\n4ms\nTemplate:\n1ms\nEnglish\nLicenses\nAPI",
+  "text_truncated": false,
+  "title": "pbp-generic - Gitea",
+  "url": "/alice/-/packages/generic/pbp-generic/1.0.0",
+  "viewport": [
+    1280,
+    900
+  ]
+}

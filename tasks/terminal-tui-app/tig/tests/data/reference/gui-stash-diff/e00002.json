@@ -1,0 +1,227 @@
+{
+  "base_style": [
+    "fg=white",
+    "bg=blue"
+  ],
+  "cursor": {
+    "column": 119,
+    "hidden": true,
+    "row": 34
+  },
+  "process": "running",
+  "screen": [
+    "00|2024-06-01 12:00 +0000 Alex Example On main: Guide draft",
+    "01|2024-06-01 12:00 +0000 Alex Example On main: Notebook draft",
+    "02|",
+    "03|",
+    "04|",
+    "05|",
+    "06|",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|[stash] stash@{0} - stash 1 of 2                                                                                    100%",
+    "12| fresh.txt | 1 +",
+    "13| 1 file changed, 1 insertion(+)",
+    "14|",
+    "15|diff --git a/fresh.txt b/fresh.txt",
+    "16|new file mode 100644",
+    "17|index 0000000..e953736",
+    "18|--- /dev/null",
+    "19|+++ b/fresh.txt",
+    "20|@@ -0,0 +1 @@",
+    "21|+Unpublished trail guide",
+    "22|",
+    "23|",
+    "24|",
+    "25|",
+    "26|",
+    "27|",
+    "28|",
+    "29|",
+    "30|",
+    "31|",
+    "32|",
+    "33|",
+    "34|[diff] Press '<Enter>' to jump to file diff - line 1 of 10                                                          100%",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        45
+      ],
+      "row": 0,
+      "style": [
+        "fg=white",
+        "bg=green"
+      ],
+      "text": "2024-06-01 12:00 +0000 Alex Example On main: "
+    },
+    {
+      "columns": [
+        45,
+        56
+      ],
+      "row": 0,
+      "style": [
+        "fg=black",
+        "bg=brown"
+      ],
+      "text": "Guide draft"
+    },
+    {
+      "columns": [
+        0,
+        23
+      ],
+      "row": 1,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "2024-06-01 12:00 +0000 "
+    },
+    {
+      "columns": [
+        23,
+        36
+      ],
+      "row": 1,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Alex Example "
+    },
+    {
+      "columns": [
+        36,
+        120
+      ],
+      "row": 1,
+      "style": [
+        "default"
+      ],
+      "text": "On main: Notebook draft                                                             "
+    },
+    {
+      "columns": [
+        0,
+        16
+      ],
+      "row": 12,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=green"
+      ],
+      "text": " fresh.txt | 1 +"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 13,
+      "style": [
+        "default"
+      ],
+      "text": " 1 file changed, 1 insertion(+)                                                                                         "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 15,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "diff --git a/fresh.txt b/fresh.txt                                                                                      "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 16,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "new file mode 100644                                                                                                    "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 17,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "index 0000000..e953736                                                                                                  "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 18,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "--- /dev/null                                                                                                           "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 19,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "+++ b/fresh.txt                                                                                                         "
+    },
+    {
+      "columns": [
+        0,
+        13
+      ],
+      "row": 20,
+      "style": [
+        "fg=magenta"
+      ],
+      "text": "@@ -0,0 +1 @@"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 21,
+      "style": [
+        "fg=green"
+      ],
+      "text": "+Unpublished trail guide                                                                                                "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "[diff] Press '<Enter>' to jump to file diff - line 1 of 10                                                          100%"
+    }
+  ]
+}

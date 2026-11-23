@@ -1,0 +1,172 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        81,
+        284,
+        345,
+        192
+      ],
+      "ref": "canvas0",
+      "tag": "svg"
+    },
+    {
+      "bounds": [
+        468,
+        284,
+        345,
+        192
+      ],
+      "ref": "canvas1",
+      "tag": "svg"
+    },
+    {
+      "bounds": [
+        854,
+        284,
+        345,
+        192
+      ],
+      "ref": "canvas2",
+      "tag": "svg"
+    },
+    {
+      "bounds": [
+        81,
+        672,
+        345,
+        192
+      ],
+      "ref": "canvas3",
+      "tag": "svg"
+    },
+    {
+      "bounds": [
+        468,
+        672,
+        345,
+        192
+      ],
+      "ref": "canvas4",
+      "tag": "svg"
+    },
+    {
+      "bounds": [
+        854,
+        672,
+        345,
+        192
+      ],
+      "ref": "canvas5",
+      "tag": "svg"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        80,
+        20,
+        209,
+        48
+      ],
+      "ref": "e75fe0e2a",
+      "tag": "a"
+    },
+    {
+      "bounds": [
+        80,
+        201,
+        137,
+        52
+      ],
+      "ref": "ea5203f69",
+      "role": "tab",
+      "selected": true,
+      "tag": "div",
+      "text": "Default templates"
+    },
+    {
+      "bounds": [
+        241,
+        201,
+        117,
+        52
+      ],
+      "ref": "e5bc056a7",
+      "role": "tab",
+      "selected": false,
+      "tag": "div",
+      "text": "Your templates"
+    },
+    {
+      "bounds": [
+        378,
+        488,
+        32,
+        34
+      ],
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        764,
+        488,
+        32,
+        34
+      ],
+      "ref": "ea0fc21fdx2",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1151,
+        488,
+        32,
+        34
+      ],
+      "ref": "ea0fc21fdx3",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        378,
+        876,
+        32,
+        24
+      ],
+      "ref": "ea0fc21fdx4",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        764,
+        876,
+        32,
+        24
+      ],
+      "ref": "ea0fc21fdx5",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1151,
+        876,
+        32,
+        24
+      ],
+      "ref": "ea0fc21fdx6",
+      "tag": "button"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "text": "Templates\nDatabase schema templates\nA compilation of database entity relationship diagrams to give you a quick start or inspire your application's architecture.\nusers\nid\nINT\nusername\nVARCHAR\npassword\nVARCHAR\nemail\nVARCHAR\nlast_login\nTIMESTAMP\nblog_posts\nid\nINT\nuser_id\nINT\ntitle\nVARCHAR\ncontent\nVARCHAR\ncover\nVARCHAR\ncomments\nid\nINT\nblog_id\nINT\nuser_id\nINT\ncontent\nVARCHAR\ntags\nid\nINT\nname\nVARCHAR\nblog_tag\nblog_id\nINT\ntag_id\nINT\nBlog database schema\nA blog database including tables such as posts, users, comments, and tags to facilitate the storage and retrieval of blog-related information.\nemployees\nid\nINT\nfirst_name\nVARCHAR\nlast_name\nVARCHAR\ndob\nDATE\ndep_id\nINT\npos_id\nINT\ndepartment\nid\nINT\nname\nVARCHAR\npositions\nid\nINT\nname\nVARCHAR\nsalary\nDOUBLE\nprojects\nid\nINT\nname\nVARCHAR\ndescription\nTEXT\nstart_date\nDATE\nend_date\nDATE\nproject_assignment\nid\nINT\nproject_id\nINT\nemployee_id\nINT\nHuman resources schema\nA Human Resources (HR) schema designed to manage employee and project related information within an organization.\nproducts\nid\nINT\nname\nVARCHAR\ndescription\nTEXT\nprice\nDOUBLE\ncategory_id\nINT\ncategories\nid\nINT\nname\nVARCHAR\norders\nid\nINT\ndate\nDATETIME\ncustomer_id\nINT\namount\nINT\nstatus\nENUM\nproduct_id\nINT\nreviews\nid\nINT\ncustomer_id\nINT\nproduct_id\nINT\nrating\nINT\ncontent\nVARCHAR\ndate\nDATETIME\ncustomers\nid\nINT\nname\nVARCHAR\naddress\nVARCHAR\nemail\nVARCHAR\nphone\nVARCHAR\nE-commerce schema\nAn e-commerce schema designed to manage various aspects of an online store, including products, orders, and customers.\nbooks\nid\nINT\ntitle\nVARCHAR\nisbn\nVARCHAR\nauthor_id\nINT\ngenre_id\nINT\ngenres\nid\nINT\nname\nVARCHAR\nauthors\nid\nINT\nname\nVARCHAR\nbirthday\nDATE\nnationality\nVARCHAR\nreservations\nid\nINT\nbook_id\nINT\npatron_id\nINT\ndate\nDATE\nemail\nVARCHAR\npatrons\nid\nINT\nname\nVARCHAR\nemail\nVARCHAR\nphone\nVARCHAR\nLibrary schema\naccounts\nid\nINT\ncustomer_id\nINT\ntype\nENUM\nnumber\nBIGINT\nbalance\nFLOAT\ncustomers\nid\nINT\nfirst_name\nVARCHAR\nlast_name\nVARCHAR\nphone\nVARCHAR\naddress\nVARCHAR\ntransactions\nid\nINT\naccount_id\nINT\ntime\nDATETIME\ntype\nENUM\namount\nFLOAT\ntransfers\nid\nINT\nfrom\nINT\nto\nINT\ntime\nDATETIME\namount\nFLOAT\ncards\nid\nINT\ntype\nENUM\ncustomer_id\nINT\nnumber\nBIGINT\nlimit\nFLOAT\nloans\nid\nINT\ncustomer_id\nINT\namount\nFLOAT\nrate\nFLOAT\nterm\nDATE\nstatus\nENUM\ninvestments\nid\nINT\ncustomer_id\nINT\ntype\nENUM\namount\nFLOAT\ndate\nDATE\ncurrent_val\nFLOAT\nBank schema\nstudents\nid\nINT\nfirst_name\nVARCHAR\nlast_name\nVARCHAR\nemail\nVARCHAR\nphone\nVARCHAR\naddress\nVARCHAR\ndob\nDATE\nmajor_id\nINT\ncourses\nid\nINT\nname\nVARCHAR\ndep_id\nINT\ncredits\nINT\nenrollment\nid\nINT\ncourse_id\nINT\nstudent_id\nINT\nterm\nVARCHAR\ninstructors\nid\nINT\nfirst_name\nVARCHAR\nlast_name\nVARCHAR\nemail\nVARCHAR\ndep_id\nINT\ndepartments\nid\nINT\nname\nVARCHAR\nchairperson\nINT\nmajor\nid\nINT\nname\nVARCHAR\nUniversity schema",
+  "text_truncated": false,
+  "title": "Templates | drawDB",
+  "url": "/templates",
+  "viewport": [
+    1280,
+    900
+  ]
+}

@@ -1,0 +1,27 @@
+Kanboard 1.2.56
+Copyright (c) Frederic Guillot.
+Source: https://github.com/kanboard/kanboard/tree/v1.2.56
+License: MIT; the complete upstream copyright and license are in LICENSE.
+
+The official application source archive is unmodified. Third-party libraries
+retain their own notices in libs/ and vendor/. Official product documentation
+is distributed separately in the runtime with its original MIT license.
+
+The bundled PHP CLI 8.5.12 is built from unmodified official PHP source:
+https://www.php.net/distributions/php-8.5.12.tar.xz
+It is PHP-3.01 and includes the required Ubuntu 24.04 shared libraries. Original
+notices remain in php/share/licenses and are also supplied in LICENSES/.
+SOURCE.json records the PHP configure options and source input. Ubuntu library
+sources are at https://archive.ubuntu.com/ubuntu/; use apt-get source for the
+matching source package on Ubuntu 24.04.
+
+The environment builds libfaketime 0.9.12, separately preloaded for the
+application clock. It is GPL-2.0-only; its full text is LICENSES/libfaketime.txt.
+The unmodified corresponding source and build files are at:
+https://github.com/wolfcw/libfaketime/archive/refs/tags/v0.9.12.tar.gz
+
+Local additions start.sh, seed.php, php.ini and router.php configure SQLite,
+initial tokens and the web server. The router restricts PHP execution to front
+controllers and disables database download, replacement and optimization.
+Errors are logged rather than displayed. Plugin installation is disabled.
+These deployment files do not patch upstream application code.

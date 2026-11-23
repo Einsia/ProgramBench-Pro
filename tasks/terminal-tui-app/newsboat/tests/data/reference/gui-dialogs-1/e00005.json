@@ -1,0 +1,141 @@
+{
+  "cursor": {
+    "column": 0,
+    "hidden": true,
+    "row": 0
+  },
+  "process": "running",
+  "screen": [
+    "00|Newsboat 2.45.0 - Help",
+    "01|<ENTER>         open                    Open feed/article",
+    "02|q               quit                    Return to previous dialog/Quit",
+    "03|Q               hard-quit               Quit program, no confirmation",
+    "04|r               reload                  Reload currently selected feed",
+    "05|A               mark-feed-read          Mark feed read",
+    "06|s               save                    Save article",
+    "07|J               next                    Go to next entry",
+    "08|K               prev                    Go to previous entry",
+    "09|n               next-unread             Go to next unread article",
+    "10|p               prev-unread             Go to previous unread article",
+    "11|^K              random-unread           Go to a random unread article",
+    "12|O               open-in-browser-and-mark-read Open URL of article, or entry in URL view. Mark read",
+    "13|o               open-in-browser         Open URL of article, feed, or entry in URL view",
+    "14|?               help                    Open help dialog",
+    "15|N               toggle-article-read     Toggle read status for article",
+    "16|l               toggle-show-read-feeds  Toggle show read feeds/articles",
+    "17|u               show-urls               Show URLs in current article",
+    "18|/               open-search             Open search dialog",
+    "19|e               enqueue                 Add download to queue",
+    "20|^L              redraw                  Redraw screen",
+    "21|:               cmdline                 Open the commandline",
+    "22|F               set-filter              Set a filter",
+    "23|f               select-filter           Select a predefined filter",
+    "24|^F              clear-filter            Clear currently set filter",
+    "25|^B              bookmark                Bookmark current link/article",
+    "26|^E              edit-flags              Edit flags",
+    "27|j               next-feed               Go to next feed",
+    "28|k               prev-feed               Go to previous feed",
+    "29|^N              next-unread-feed        Go to next unread feed",
+    "30|^P              prev-unread-feed        Go to previous unread feed",
+    "31|,               macro-prefix            Call a macro",
+    "32|D               delete-article          Delete article",
+    "33|^D              delete-all-articles     Delete all articles",
+    "34|q:Quit /:Search",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": "Newsboat 2.45.0 - Help                                                                                                  "
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": "q"
+    },
+    {
+      "columns": [
+        1,
+        2
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        2,
+        6
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Quit"
+    },
+    {
+      "columns": [
+        6,
+        8
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": " /"
+    },
+    {
+      "columns": [
+        8,
+        9
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        9,
+        15
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Search"
+    }
+  ]
+}

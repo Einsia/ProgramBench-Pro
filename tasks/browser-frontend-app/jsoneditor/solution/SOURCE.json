@@ -1,0 +1,73 @@
+{
+  "task": "jsoneditor",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "JSON Editor",
+    "version": "10.4.3",
+    "homepage": "https://github.com/josdejong/jsoneditor",
+    "repository": "https://github.com/josdejong/jsoneditor",
+    "license": "Apache-2.0 AND MIT AND ISC AND BSD-3-Clause AND BSD-2-Clause"
+  },
+  "downloads": [
+    {
+      "file": "jsoneditor-10.4.3.tgz",
+      "url": "https://registry.npmjs.org/jsoneditor/-/jsoneditor-10.4.3.tgz",
+      "sha256": "a38592b7780e1f7e57681742cd12ff34bd00215f209fc81fe8aeb4c7c55d3a36"
+    }
+  ],
+  "bundled": [
+    {
+      "file": "vendor/filereader.js",
+      "built_from": "Unmodified script downloaded from https://bgrins.github.io/filereader.js/filereader.js; original attribution and checksum are in vendor/SOURCE.json."
+    },
+    {
+      "file": "vendor/FileSaver.min.js",
+      "built_from": "Unmodified script downloaded from https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2014-11-29/FileSaver.min.js; original attribution and checksum are in vendor/SOURCE.json."
+    },
+    {
+      "file": "vendor/lodash.min.js",
+      "built_from": "Unmodified script downloaded from https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.21/lodash.min.js; original attribution and checksum are in vendor/SOURCE.json."
+    },
+    {
+      "file": "vendor/ace/ace.js",
+      "built_from": "Unmodified script downloaded from https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.6/ace.js; original attribution and checksum are in vendor/SOURCE.json."
+    },
+    {
+      "file": "vendor/ace/mode-json.js",
+      "built_from": "Unmodified script downloaded from https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.6/mode-json.js; original attribution and checksum are in vendor/SOURCE.json."
+    },
+    {
+      "file": "vendor/ace/worker-json.js",
+      "built_from": "Unmodified script downloaded from https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.6/worker-json.js; original attribution and checksum are in vendor/SOURCE.json."
+    },
+    {
+      "file": "vendor/ace/ext-searchbox.js",
+      "built_from": "Unmodified script downloaded from https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.6/ext-searchbox.js; original attribution and checksum are in vendor/SOURCE.json."
+    },
+    {
+      "file": "vendor/ace/ext-language_tools.js",
+      "built_from": "Unmodified script downloaded from https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.6/ext-language_tools.js; original attribution and checksum are in vendor/SOURCE.json."
+    }
+  ],
+  "modifications": "Upstream application logic and archive are unchanged. The static server replaces fixed remote script URLs in the example HTML with the bundled vendor paths.",
+  "configuration": "The mode-switch example is served at /. The static allowlist excludes the advanced autocomplete, custom query-language and new-window examples. A Content Security Policy limits scripts to shipped assets and fixed example script hashes. No server-side persistent state is required.",
+  "notes": {
+    "entrypoint": "start.sh",
+    "installer": "solve.sh",
+    "vendor_scripts": [
+      "vendor/FileSaver.min.js",
+      "vendor/ace/ace.js",
+      "vendor/ace/ext-language_tools.js",
+      "vendor/ace/ext-searchbox.js",
+      "vendor/ace/mode-json.js",
+      "vendor/ace/worker-json.js",
+      "vendor/filereader.js",
+      "vendor/lodash.min.js"
+    ],
+    "dependency_sources": [
+      "vendor/SOURCE.json",
+      "LICENSES/SOURCE.json",
+      "LICENSES/embedded/SOURCE.json"
+    ]
+  }
+}

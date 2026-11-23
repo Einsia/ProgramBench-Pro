@@ -1,0 +1,23 @@
+Zim 0.77.2 (zim-desktop-wiki)
+
+Copyright 2008 - 2026 Jaap Karssenberg and contributors.
+
+This directory contains the unmodified upstream release archive zim-0.77.2.tar.gz,
+used as the reference installation of this task. Zim is free software, distributed under
+the GNU General Public License, version 2 or (at your option) any later version.
+The full license text is in LICENSE; the original archive also contains it.
+
+Corresponding source: the archive zim-0.77.2.tar.gz in this directory is the
+complete source of the program as it is installed (the installer only unpacks it).
+The same release is published at https://zim-wiki.org/downloads/zim-0.77.2.tar.gz
+and its source repository is https://github.com/zim-desktop-wiki/zim-desktop-wiki
+(tag 0.77.2). The sha256 of the archive is listed in SOURCE.json.
+
+Third-party material carried inside the upstream archive keeps its own terms, which
+the upstream files state: the S5 slide show template (public domain), the Tango
+base icons mentioned in the plugin sources (public domain) and the translation
+files (BSD).
+
+Component notices are collected in LICENSES/. Upstream copyright and license text are retained; local launch and isolation scripts are described above. The official release archive is fetched and checksum-verified at build time; SOURCE.json records its exact URL and version.
+
+The local launch.py and exec_guard.c add a kernel seccomp filter before the wiki starts. The wiki process denies external program execution, including commands from custom tools or plugins. A separate helper preserves notebook version control through fixed Git subcommands inside exchange paths; hooks, network protocols and further execution are disabled. These launcher files are separate from the unchanged upstream source archive.

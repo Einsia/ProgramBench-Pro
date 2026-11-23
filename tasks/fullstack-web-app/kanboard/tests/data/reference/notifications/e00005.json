@@ -1,0 +1,372 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e545",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "aria": "Display another project",
+      "bounds": [
+        836,
+        7,
+        273,
+        24
+      ],
+      "placeholder": "Display another project",
+      "ref": "e546",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "focused": true,
+      "href": "/user/2/notifications/web",
+      "ref": "e547",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Unread notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/dashboard",
+      "ref": "e548",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/dashboard",
+      "ref": "e549",
+      "role": null,
+      "tag": "a",
+      "text": "BB"
+    },
+    {
+      "bounds": [
+        10,
+        49,
+        174,
+        17
+      ],
+      "href": "/project/create/personal",
+      "ref": "e550",
+      "role": null,
+      "tag": "a",
+      "text": "New personal project"
+    },
+    {
+      "bounds": [
+        203,
+        49,
+        171,
+        17
+      ],
+      "href": "/projects",
+      "ref": "e551",
+      "role": null,
+      "tag": "a",
+      "text": "Project management"
+    },
+    {
+      "bounds": [
+        394,
+        49,
+        152,
+        17
+      ],
+      "href": "/my-activity",
+      "ref": "e552",
+      "role": null,
+      "tag": "a",
+      "text": "My activity stream"
+    },
+    {
+      "bounds": [
+        23,
+        96,
+        67,
+        17
+      ],
+      "href": "/dashboard/2",
+      "ref": "e553",
+      "role": null,
+      "tag": "a",
+      "text": "Overview"
+    },
+    {
+      "bounds": [
+        23,
+        132,
+        82,
+        17
+      ],
+      "href": "/dashboard/2/projects",
+      "ref": "e554",
+      "role": null,
+      "tag": "a",
+      "text": "My projects"
+    },
+    {
+      "bounds": [
+        23,
+        168,
+        63,
+        17
+      ],
+      "href": "/dashboard/2/tasks",
+      "ref": "e555",
+      "role": null,
+      "tag": "a",
+      "text": "My tasks"
+    },
+    {
+      "bounds": [
+        23,
+        204,
+        89,
+        17
+      ],
+      "href": "/dashboard/2/subtasks",
+      "ref": "e556",
+      "role": null,
+      "tag": "a",
+      "text": "My subtasks"
+    },
+    {
+      "aria": "Search",
+      "bounds": [
+        250,
+        87,
+        959,
+        28
+      ],
+      "name": "search",
+      "placeholder": "Search",
+      "ref": "e557",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "aria": "Default filters",
+      "bounds": [
+        1221,
+        92,
+        36,
+        16
+      ],
+      "href": "/dashboard",
+      "ref": "e558",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Default filters"
+    },
+    {
+      "bounds": [
+        1214,
+        136,
+        42,
+        28
+      ],
+      "href": "/dashboard",
+      "ref": "e559",
+      "role": null,
+      "tag": "a",
+      "text": "Sort"
+    },
+    {
+      "bounds": [
+        254,
+        169,
+        30,
+        15
+      ],
+      "href": "/dashboard",
+      "ref": "e560",
+      "role": null,
+      "tag": "a",
+      "text": "#1"
+    },
+    {
+      "bounds": [
+        288,
+        169,
+        49,
+        15
+      ],
+      "href": "/board/1",
+      "ref": "e561",
+      "role": null,
+      "tag": "a",
+      "text": "Website"
+    },
+    {
+      "bounds": [
+        250,
+        229,
+        85,
+        25
+      ],
+      "href": "/board/1",
+      "ref": "e562",
+      "role": null,
+      "tag": "a",
+      "text": "Website"
+    },
+    {
+      "bounds": [
+        1214,
+        277,
+        42,
+        28
+      ],
+      "href": "/dashboard",
+      "ref": "e563",
+      "role": null,
+      "tag": "a",
+      "text": "Sort"
+    },
+    {
+      "bounds": [
+        258,
+        310,
+        30,
+        15
+      ],
+      "href": "/dashboard",
+      "ref": "e564",
+      "role": null,
+      "tag": "a",
+      "text": "#1"
+    },
+    {
+      "bounds": [
+        292,
+        310,
+        100,
+        15
+      ],
+      "href": "/task/1",
+      "ref": "e565",
+      "role": null,
+      "tag": "a",
+      "text": "Review the copy"
+    },
+    {
+      "bounds": [
+        1131,
+        18,
+        16,
+        17
+      ],
+      "href": "/dashboard",
+      "ref": "e566",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        133,
+        68,
+        137,
+        17
+      ],
+      "href": "/user/2/notifications/web/flush/eb21d55f1ebfd5b8f1120580af41c3823306fd76c8a8a316fd2fa5a2888e16d4",
+      "ref": "e567",
+      "role": null,
+      "tag": "a",
+      "text": "Mark all as read"
+    },
+    {
+      "bounds": [
+        158,
+        140,
+        49,
+        15
+      ],
+      "href": "/board/1",
+      "ref": "e568",
+      "role": null,
+      "tag": "a",
+      "text": "Website"
+    },
+    {
+      "bounds": [
+        223,
+        140,
+        182,
+        15
+      ],
+      "href": "/?controller=WebNotificationController&action=redirect&notification_id=1&user_id=2",
+      "ref": "e569",
+      "role": null,
+      "tag": "a",
+      "text": "New task #1: Review the copy"
+    },
+    {
+      "bounds": [
+        247,
+        161,
+        100,
+        15
+      ],
+      "href": "/user/2/notifications/web/remove/1/80cb74fd9782e78e87d02e298da32c4b1d9cb344cdb47e3bc708c99a0933a90f",
+      "ref": "e570",
+      "role": null,
+      "tag": "a",
+      "text": "Mark as read"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Dashboard for Bob Builder\n \n \nBB\nNew personal project Project management My activity stream\nOverview\nMy projects\nMy tasks\nMy subtasks\n1 project\nSort \n#1 \n Website\nTask count\n1 Backlog \nTask count\n0 Ready \nTask count\n0 Work in progress \nTask count\n0 Done\nWebsite\n1 task\nSort \n#1 \n Review the copy\nWebsite > Default swimlane > Backlog\nBB\nBob Builder\n(\nPosition\n1) \nTask age in days\n<15m \nDays in this column\n<15m \nTask priority\nP0\nMy notifications\nMark all as read\n1 notification\n \n Website > New task #1: Review the copy\n04/14/2026 08:00 Mark as read",
+  "text_truncated": false,
+  "title": "Dashboard for Bob Builder",
+  "url": "/dashboard",
+  "viewport": [
+    1280,
+    900
+  ]
+}

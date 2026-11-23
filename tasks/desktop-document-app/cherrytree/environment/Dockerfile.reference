@@ -1,0 +1,19 @@
+FROM program-bench-cherrytree-base:1.0.0
+# The pinned release package and the shared application runtime.
+COPY solution /tmp/reference-solution
+COPY environment/runtime/ /opt/blackbox/runtime/
+# GtkSourceView enumerates the installed style schemes and language definitions.
+# These two resource directories are readable but remain owned and writable only by root.
+RUN SOLUTION_DIR=/app/solution bash /tmp/reference-solution/solve.sh && rm -rf /tmp/reference-solution && \
+    chown -R root:root /app/solution && \
+    find /app/solution -type d -exec chmod 0711 {} + && \
+    find /app/solution -type f -perm /111 -exec chmod 0555 {} + && \
+    find /app/solution -type f ! -perm /111 -exec chmod 0444 {} + && \
+    chmod 0755 /app/solution/cherrytree/usr/share/cherrytree/styles \
+               /app/solution/cherrytree/usr/share/cherrytree/language-specs && \
+    chmod -R u=rwX,go=rX /opt/blackbox/runtime && \
+    mkdir -p /reference /blackbox && chown -R root:root /reference /blackbox
+ENV PYTHONDONTWRITEBYTECODE=1 LANG=C.UTF-8 LC_ALL=C.UTF-8 TZ=UTC TMPDIR=/tmp
+USER root
+ENTRYPOINT ["/usr/bin/tini", "--", "python3", "-I", "-B", "/opt/blackbox/runtime/reference_entrypoint.py"]
+CMD ["python3", "-I", "-B", "/opt/blackbox/runtime/broker.py", "--user", "agent", "--socket-mode", "0600", "--log-dir", "/reference/logs"]

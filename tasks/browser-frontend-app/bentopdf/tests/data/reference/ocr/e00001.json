@@ -1,0 +1,62 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        146,
+        135,
+        24
+      ],
+      "ref": "e3005f4e3",
+      "tag": "button",
+      "text": "Back to Tools"
+    },
+    {
+      "bounds": [
+        49,
+        195,
+        62,
+        18
+      ],
+      "ref": "e307a47db",
+      "tag": "a",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        468,
+        1182,
+        256
+      ],
+      "ref": "e6bfaf2b2",
+      "tag": "div",
+      "text": "Click to select a file or drag and drop Your files never leave your device."
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "inputs": [
+    "scan.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›OCR PDF\nOCR PDF\n\nMake a PDF searchable and copyable.\n\nHow it works:\n\nExtract Text: Uses Tesseract OCR to recognize text from scanned images or PDFs.\nSearchable Output: Creates a new PDF with an invisible text layer, making your document fully searchable while preserving the original appearance.\nCharacter Filtering: Use whitelists to filter out unwanted characters and improve accuracy for specific document types (invoices, forms, etc.).\nMulti-language Support: Select multiple languages for documents containing mixed language content.\n\nClick to select a file or drag and drop\n\nYour files never leave your device.\n\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/ocr-pdf.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

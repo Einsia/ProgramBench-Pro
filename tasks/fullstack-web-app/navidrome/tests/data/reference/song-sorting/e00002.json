@@ -1,0 +1,1221 @@
+{
+  "controls": [
+    {
+      "aria": "Skip to content",
+      "bounds": [
+        16,
+        -80,
+        145,
+        39
+      ],
+      "offscreen": true,
+      "ref": "e785",
+      "role": null,
+      "tag": "button",
+      "text": "SKIP TO CONTENT",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        5,
+        0,
+        48,
+        48
+      ],
+      "ref": "e786",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Close menu",
+      "type": "button"
+    },
+    {
+      "aria": "Refresh",
+      "bounds": [
+        1072,
+        0,
+        48,
+        48
+      ],
+      "ref": "e787",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Refresh",
+      "type": "button"
+    },
+    {
+      "aria": "Now Playing",
+      "bounds": [
+        1120,
+        2,
+        44,
+        44
+      ],
+      "ref": "e788",
+      "role": null,
+      "tag": "button",
+      "text": "0",
+      "title": "Now Playing",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1164,
+        2,
+        44,
+        44
+      ],
+      "ref": "e789",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Activity",
+      "type": "button"
+    },
+    {
+      "aria": "Settings",
+      "bounds": [
+        1208,
+        0,
+        48,
+        48
+      ],
+      "ref": "e790",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Settings",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        0,
+        56,
+        240,
+        36
+      ],
+      "ref": "e791",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "Albums"
+    },
+    {
+      "bounds": [
+        0,
+        92,
+        240,
+        36
+      ],
+      "href": "/app/#/album/all",
+      "ref": "e792",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        0,
+        128,
+        240,
+        36
+      ],
+      "href": "/app/#/album/random",
+      "ref": "e793",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Random"
+    },
+    {
+      "bounds": [
+        0,
+        164,
+        240,
+        36
+      ],
+      "href": "/app/#/album/starred",
+      "ref": "e794",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Favourites"
+    },
+    {
+      "bounds": [
+        0,
+        200,
+        240,
+        36
+      ],
+      "href": "/app/#/album/topRated",
+      "ref": "e795",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Top Rated"
+    },
+    {
+      "bounds": [
+        0,
+        236,
+        240,
+        36
+      ],
+      "href": "/app/#/album/recentlyAdded",
+      "ref": "e796",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Recently Added"
+    },
+    {
+      "bounds": [
+        0,
+        272,
+        240,
+        36
+      ],
+      "href": "/app/#/album/recentlyPlayed",
+      "ref": "e797",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Recently Played"
+    },
+    {
+      "bounds": [
+        0,
+        308,
+        240,
+        36
+      ],
+      "href": "/app/#/album/mostPlayed",
+      "ref": "e798",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Most Played"
+    },
+    {
+      "bounds": [
+        0,
+        344,
+        240,
+        36
+      ],
+      "href": "/app/#/artist",
+      "ref": "e799",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Artists"
+    },
+    {
+      "bounds": [
+        0,
+        380,
+        240,
+        36
+      ],
+      "href": "/app/#/song",
+      "ref": "e800",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Songs"
+    },
+    {
+      "bounds": [
+        0,
+        416,
+        240,
+        36
+      ],
+      "href": "/app/#/radio",
+      "ref": "e801",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Radios"
+    },
+    {
+      "bounds": [
+        0,
+        452,
+        240,
+        36
+      ],
+      "href": "/app/#/share",
+      "ref": "e802",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Shares"
+    },
+    {
+      "bounds": [
+        0,
+        489,
+        240,
+        38
+      ],
+      "ref": "e803",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "Playlists"
+    },
+    {
+      "bounds": [
+        0,
+        527,
+        240,
+        36
+      ],
+      "href": "/app/#/playlist/3wV8raXfLWfeXu22ssa6rI/show",
+      "ref": "e804",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Favourites"
+    },
+    {
+      "bounds": [
+        245,
+        72,
+        221,
+        40
+      ],
+      "name": "title",
+      "placeholder": "Search",
+      "ref": "e805",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "aria": "Shuffle All",
+      "bounds": [
+        967,
+        80,
+        126,
+        31
+      ],
+      "ref": "e806",
+      "role": null,
+      "tag": "button",
+      "text": "SHUFFLE ALL",
+      "type": "button"
+    },
+    {
+      "aria": "Add filter",
+      "bounds": [
+        1093,
+        80,
+        115,
+        31
+      ],
+      "ref": "e807",
+      "role": null,
+      "tag": "button",
+      "text": "ADD FILTER",
+      "type": "button"
+    },
+    {
+      "aria": "more",
+      "bounds": [
+        1208,
+        72,
+        48,
+        48
+      ],
+      "ref": "e808",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "aria": "Unselect",
+      "bounds": [
+        260,
+        122,
+        26,
+        28
+      ],
+      "ref": "e809",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Unselect",
+      "type": "button"
+    },
+    {
+      "aria": "Play Now",
+      "bounds": [
+        661,
+        120,
+        107,
+        31
+      ],
+      "ref": "e810",
+      "role": null,
+      "tag": "button",
+      "text": "PLAY NOW",
+      "type": "button"
+    },
+    {
+      "aria": "Play Next",
+      "bounds": [
+        768,
+        120,
+        110,
+        31
+      ],
+      "ref": "e811",
+      "role": null,
+      "tag": "button",
+      "text": "PLAY NEXT",
+      "type": "button"
+    },
+    {
+      "aria": "Play Later",
+      "bounds": [
+        878,
+        120,
+        117,
+        31
+      ],
+      "ref": "e812",
+      "role": null,
+      "tag": "button",
+      "text": "PLAY LATER",
+      "type": "button"
+    },
+    {
+      "aria": "Share",
+      "bounds": [
+        995,
+        120,
+        83,
+        31
+      ],
+      "ref": "e813",
+      "role": null,
+      "tag": "button",
+      "text": "SHARE",
+      "type": "button"
+    },
+    {
+      "aria": "Add to Playlist",
+      "bounds": [
+        1078,
+        120,
+        154,
+        31
+      ],
+      "ref": "e814",
+      "role": null,
+      "tag": "button",
+      "text": "ADD TO PLAYLIST",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        261,
+        152,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e815",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        312,
+        152,
+        55,
+        24
+      ],
+      "focused": true,
+      "ref": "e816",
+      "role": "button",
+      "tag": "span",
+      "text": "Title"
+    },
+    {
+      "bounds": [
+        413,
+        152,
+        44,
+        24
+      ],
+      "ref": "e817",
+      "role": "button",
+      "tag": "span",
+      "text": "Album",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        539,
+        152,
+        37,
+        24
+      ],
+      "ref": "e818",
+      "role": "button",
+      "tag": "span",
+      "text": "Artist",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        735,
+        152,
+        37,
+        24
+      ],
+      "ref": "e819",
+      "role": "button",
+      "tag": "span",
+      "text": "Plays",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        802,
+        152,
+        30,
+        24
+      ],
+      "ref": "e820",
+      "role": "button",
+      "tag": "span",
+      "text": "Year",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        981,
+        152,
+        33,
+        24
+      ],
+      "ref": "e821",
+      "role": "button",
+      "tag": "span",
+      "text": "Time",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        1057,
+        152,
+        44,
+        24
+      ],
+      "ref": "e822",
+      "role": "button",
+      "tag": "span",
+      "text": "Rating",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        1187,
+        156,
+        23,
+        18
+      ],
+      "ref": "e823",
+      "role": "button",
+      "tag": "span",
+      "text": "",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        261,
+        199,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e824",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        414,
+        203,
+        50,
+        16
+      ],
+      "href": "/app/#/album/1xtNTkyHYBeRlPsTcDMA2G/show",
+      "ref": "e825",
+      "role": null,
+      "tag": "a",
+      "text": "Mixtape"
+    },
+    {
+      "bounds": [
+        540,
+        203,
+        51,
+        16
+      ],
+      "href": "/app/#/artist/4oErmy0d6AR0CTLwaRwd3p/show",
+      "ref": "e826",
+      "role": null,
+      "tag": "a",
+      "text": "Gamma"
+    },
+    {
+      "bounds": [
+        261,
+        238,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e827",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        414,
+        242,
+        50,
+        16
+      ],
+      "href": "/app/#/album/1xtNTkyHYBeRlPsTcDMA2G/show",
+      "ref": "e828",
+      "role": null,
+      "tag": "a",
+      "text": "Mixtape"
+    },
+    {
+      "bounds": [
+        540,
+        242,
+        33,
+        16
+      ],
+      "href": "/app/#/artist/0lNGuud5kic1448rFap2YT/show",
+      "ref": "e829",
+      "role": null,
+      "tag": "a",
+      "text": "Delta"
+    },
+    {
+      "bounds": [
+        261,
+        277,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e830",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        414,
+        281,
+        50,
+        16
+      ],
+      "href": "/app/#/album/1xtNTkyHYBeRlPsTcDMA2G/show",
+      "ref": "e831",
+      "role": null,
+      "tag": "a",
+      "text": "Mixtape"
+    },
+    {
+      "bounds": [
+        540,
+        281,
+        51,
+        16
+      ],
+      "href": "/app/#/artist/4oErmy0d6AR0CTLwaRwd3p/show",
+      "ref": "e832",
+      "role": null,
+      "tag": "a",
+      "text": "Gamma"
+    },
+    {
+      "bounds": [
+        261,
+        323,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e833",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        414,
+        317,
+        48,
+        36
+      ],
+      "href": "/app/#/album/0wtvziuSsVW0my60n6PD9D/show",
+      "ref": "e834",
+      "role": null,
+      "tag": "a",
+      "text": "Second Album"
+    },
+    {
+      "bounds": [
+        540,
+        327,
+        67,
+        16
+      ],
+      "href": "/app/#/artist/2w8Ikt7VvPP85g6C77CheR/show",
+      "ref": "e835",
+      "role": null,
+      "tag": "a",
+      "text": "Beta Band"
+    },
+    {
+      "bounds": [
+        261,
+        369,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e836",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        414,
+        373,
+        72,
+        16
+      ],
+      "href": "/app/#/album/38j2OSPjPh46KHo7Hg3tH0/show",
+      "ref": "e837",
+      "role": null,
+      "tag": "a",
+      "text": "First Album"
+    },
+    {
+      "bounds": [
+        540,
+        373,
+        73,
+        16
+      ],
+      "href": "/app/#/artist/47oq4zXQXZeNbxWV1qZScA/show",
+      "ref": "e838",
+      "role": null,
+      "tag": "a",
+      "text": "Alpha Artist"
+    },
+    {
+      "bounds": [
+        261,
+        408,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e839",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        414,
+        412,
+        45,
+        16
+      ],
+      "href": "/app/#/album/3asuQIdOo3SB2UKKcLqHMX/show",
+      "ref": "e840",
+      "role": null,
+      "tag": "a",
+      "text": "Café Ω"
+    },
+    {
+      "bounds": [
+        540,
+        412,
+        90,
+        16
+      ],
+      "href": "/app/#/artist/51moLUSasVTWPd6c5psDaL/show",
+      "ref": "e841",
+      "role": null,
+      "tag": "a",
+      "text": "Ünïcode Ärtist"
+    },
+    {
+      "bounds": [
+        261,
+        447,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e842",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        414,
+        451,
+        72,
+        16
+      ],
+      "href": "/app/#/album/38j2OSPjPh46KHo7Hg3tH0/show",
+      "ref": "e843",
+      "role": null,
+      "tag": "a",
+      "text": "First Album"
+    },
+    {
+      "bounds": [
+        540,
+        451,
+        73,
+        16
+      ],
+      "href": "/app/#/artist/47oq4zXQXZeNbxWV1qZScA/show",
+      "ref": "e844",
+      "role": null,
+      "tag": "a",
+      "text": "Alpha Artist"
+    },
+    {
+      "bounds": [
+        261,
+        495,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e845",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        414,
+        489,
+        63,
+        36
+      ],
+      "href": "/app/#/album/69IwB2p7tQDejD3lowUIFo/show",
+      "ref": "e846",
+      "role": null,
+      "tag": "a",
+      "text": "[Unknown Album]"
+    },
+    {
+      "bounds": [
+        540,
+        499,
+        104,
+        16
+      ],
+      "href": "/app/#/artist/6QiT23Pg8GAJHZop58uMKH/show",
+      "ref": "e847",
+      "role": null,
+      "tag": "a",
+      "text": "[Unknown Artist]"
+    },
+    {
+      "bounds": [
+        261,
+        552,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e848",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        414,
+        556,
+        76,
+        16
+      ],
+      "href": "/app/#/album/2vHJMAQZWwXXkYxbocIBqN/show",
+      "ref": "e849",
+      "role": null,
+      "tag": "a",
+      "text": "Third Album"
+    },
+    {
+      "bounds": [
+        540,
+        546,
+        79,
+        16
+      ],
+      "href": "/app/#/artist/59VcArsq2QZfpfYYgn820i/show",
+      "ref": "e850",
+      "role": null,
+      "tag": "a",
+      "text": "Gamma Trio"
+    },
+    {
+      "bounds": [
+        540,
+        566,
+        69,
+        16
+      ],
+      "href": "/app/#/artist/2vQirrjykXPj0SjjSQoSG9/show",
+      "ref": "e851",
+      "role": null,
+      "tag": "a",
+      "text": "Guest One"
+    },
+    {
+      "bounds": [
+        261,
+        607,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e852",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        414,
+        601,
+        48,
+        36
+      ],
+      "href": "/app/#/album/0wtvziuSsVW0my60n6PD9D/show",
+      "ref": "e853",
+      "role": null,
+      "tag": "a",
+      "text": "Second Album"
+    },
+    {
+      "bounds": [
+        540,
+        611,
+        67,
+        16
+      ],
+      "href": "/app/#/artist/2w8Ikt7VvPP85g6C77CheR/show",
+      "ref": "e854",
+      "role": null,
+      "tag": "a",
+      "text": "Beta Band"
+    },
+    {
+      "bounds": [
+        261,
+        653,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e855",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        414,
+        657,
+        72,
+        16
+      ],
+      "href": "/app/#/album/7Mjl18iJaUwlOluyIsmj9A/show",
+      "ref": "e856",
+      "role": null,
+      "tag": "a",
+      "text": "First Album"
+    },
+    {
+      "bounds": [
+        540,
+        657,
+        64,
+        16
+      ],
+      "href": "/app/#/artist/1lj7eQ5rxStq8ASeeE39t7/show",
+      "ref": "e857",
+      "role": null,
+      "tag": "a",
+      "text": "Delta Duo"
+    },
+    {
+      "bounds": [
+        261,
+        699,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e858",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        414,
+        693,
+        48,
+        36
+      ],
+      "href": "/app/#/album/0wtvziuSsVW0my60n6PD9D/show",
+      "ref": "e859",
+      "role": null,
+      "tag": "a",
+      "text": "Second Album"
+    },
+    {
+      "bounds": [
+        540,
+        703,
+        67,
+        16
+      ],
+      "href": "/app/#/artist/2w8Ikt7VvPP85g6C77CheR/show",
+      "ref": "e860",
+      "role": null,
+      "tag": "a",
+      "text": "Beta Band"
+    },
+    {
+      "bounds": [
+        261,
+        745,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e861",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        414,
+        749,
+        72,
+        16
+      ],
+      "href": "/app/#/album/38j2OSPjPh46KHo7Hg3tH0/show",
+      "ref": "e862",
+      "role": null,
+      "tag": "a",
+      "text": "First Album"
+    },
+    {
+      "bounds": [
+        540,
+        749,
+        73,
+        16
+      ],
+      "href": "/app/#/artist/47oq4zXQXZeNbxWV1qZScA/show",
+      "ref": "e863",
+      "role": null,
+      "tag": "a",
+      "text": "Alpha Artist"
+    },
+    {
+      "bounds": [
+        261,
+        791,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e864",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        414,
+        785,
+        63,
+        36
+      ],
+      "href": "/app/#/album/69IwB2p7tQDejD3lowUIFo/show",
+      "ref": "e865",
+      "role": null,
+      "tag": "a",
+      "text": "[Unknown Album]"
+    },
+    {
+      "bounds": [
+        540,
+        795,
+        104,
+        16
+      ],
+      "href": "/app/#/artist/6QiT23Pg8GAJHZop58uMKH/show",
+      "ref": "e866",
+      "role": null,
+      "tag": "a",
+      "text": "[Unknown Artist]"
+    },
+    {
+      "bounds": [
+        261,
+        847,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e867",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        414,
+        850,
+        76,
+        16
+      ],
+      "href": "/app/#/album/2vHJMAQZWwXXkYxbocIBqN/show",
+      "ref": "e868",
+      "role": null,
+      "tag": "a",
+      "text": "Third Album"
+    },
+    {
+      "bounds": [
+        540,
+        840,
+        79,
+        16
+      ],
+      "href": "/app/#/artist/59VcArsq2QZfpfYYgn820i/show",
+      "ref": "e869",
+      "role": null,
+      "tag": "a",
+      "text": "Gamma Trio"
+    },
+    {
+      "bounds": [
+        540,
+        861,
+        69,
+        16
+      ],
+      "href": "/app/#/artist/2vQirrjykXPj0SjjSQoSG9/show",
+      "ref": "e870",
+      "role": null,
+      "tag": "a",
+      "text": "Guest One"
+    },
+    {
+      "bounds": [
+        1089,
+        899,
+        48,
+        30
+      ],
+      "ref": "e871",
+      "role": "button",
+      "tag": "div",
+      "text": "15"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    964
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "SKIP TO CONTENT\nNavidrome - Songs\n0\nAlbums\nAll\nRandom\nFavourites\nTop Rated\nRecently Added\nRecently Played\nMost Played\nArtists\nSongs\nRadios\nShares\nPlaylists\nFavourites\n​\n\n \nSHUFFLE ALL\nADD FILTER\n0 items selected\nPLAY NOW\nPLAY NEXT\nPLAY LATER\nSHARE\nADD TO PLAYLIST\n\t\nTitle\n\t\nAlbum\n\t\nArtist\n\t#\t\nPlays\n\t\nYear\n\tQuality\t\nTime\n\t\nRating\n\t\n\n\n\tSingle C\tMixtape\t\nGamma\n\t3\t\t2020\t\nOGG 14\n\t00:02\t\t\n\n\tSingle B\tMixtape\t\nDelta\n\t2\t\t2020\t\nOGG 15\n\t00:01\t\t\n\n\tSingle A\tMixtape\t\nGamma\n\t1\t\t2020\t\nOGG 14\n\t00:01\t\t\n\n\tReprise\tSecond Album\t\nBeta Band\n\t1\t\t2010\t\nFLAC\n\t00:01\t\t\n\n\tOpening\tFirst Album\t\nAlpha Artist\n\t1\t\t2001\t\nMP3 40\n\t00:01\t\t\n\n\tNaïve Ω\tCafé Ω\t\nÜnïcode Ärtist\n\t1\t\t2015\t\nFLAC\n\t00:01\t\t\n\n\tMiddle\tFirst Album\t\nAlpha Artist\n\t2\t\t2001\t\nMP3 37\n\t00:02\t\t\n\n\tloose track\t[Unknown Album]\t\n[Unknown Artist]\n\t0\t\t\t\nMP3 41\n\t00:01\t\t\n\n\tLate Train\tThird Album\t\nGamma Trio • Guest One\n\t2\t\t1999\t\nMP3 41\n\t00:01\t\t\n\n\tIntro\tSecond Album\t\nBeta Band\n\t1\t\t2010\t\nFLAC\n\t00:01\t\t\n\n\tEcho\tFirst Album\t\nDelta Duo\n\t1\t\t2005\t\nFLAC\n\t00:01\t\t\n\n\tDrift\tSecond Album\t\nBeta Band\n\t2\t\t2010\t\nFLAC\n\t00:02\t\t\n\n\tClosing\tFirst Album\t\nAlpha Artist\n\t3\t\t2001\t\nMP3 35\n\t00:03\t\t\n\n\tclick\t[Unknown Album]\t\n[Unknown Artist]\n\t0\t\t\t\nWAV\n\t00:01\t\t\n\n\tBlue Hour\tThird Album\t\nGamma Trio • Guest One\n\t1\t\t1999\t\nMP3 41\n\t00:01\t\t\n\nItems per page:\n\n15\n\n1-15 of 15\n\nSort",
+  "text_truncated": false,
+  "title": "Navidrome",
+  "url": "/app/#/song?filter=%7B%7D&order=DESC&page=1&perPage=15&sort=title",
+  "viewport": [
+    1280,
+    900
+  ]
+}

@@ -1,0 +1,5 @@
+#!/bin/bash
+set -euo pipefail
+cd -- "$(dirname -- "${BASH_SOURCE[0]}")"
+: "${DATA_DIR:?DATA_DIR must name the persistent application directory}"
+exec python "$PWD/seed.py" --binary "$PWD/gitea" --data "$DATA_DIR" --host "${HOST:-0.0.0.0}" --port "${PORT:-3000}" --start

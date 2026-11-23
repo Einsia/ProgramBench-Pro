@@ -1,0 +1,296 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        16,
+        89,
+        1248,
+        795
+      ],
+      "ref": "canvas0",
+      "tag": "svg"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        48,
+        24,
+        201,
+        48
+      ],
+      "ref": "e75fe0e2a",
+      "tag": "a"
+    },
+    {
+      "bounds": [
+        421,
+        34,
+        75,
+        28
+      ],
+      "ref": "ec0aace46",
+      "tag": "a",
+      "text": "Features"
+    },
+    {
+      "bounds": [
+        544,
+        34,
+        52,
+        28
+      ],
+      "ref": "e137d1c10",
+      "tag": "a",
+      "text": "Editor"
+    },
+    {
+      "bounds": [
+        644,
+        34,
+        88,
+        28
+      ],
+      "ref": "efc5c3ab6",
+      "tag": "a",
+      "text": "Templates"
+    },
+    {
+      "bounds": [
+        780,
+        34,
+        44,
+        28
+      ],
+      "ref": "e8afbffd6",
+      "tag": "a",
+      "text": "Docs"
+    },
+    {
+      "bounds": [
+        1044,
+        26,
+        40,
+        43
+      ],
+      "ref": "e460756af",
+      "tag": "a",
+      "title": "Jump to Github"
+    },
+    {
+      "bounds": [
+        1096,
+        26,
+        40,
+        43
+      ],
+      "ref": "e0243709b",
+      "tag": "a",
+      "title": "Follow us on X"
+    },
+    {
+      "bounds": [
+        1148,
+        26,
+        40,
+        43
+      ],
+      "ref": "e0a161230",
+      "tag": "a",
+      "title": "Join the community on Discord"
+    },
+    {
+      "bounds": [
+        1200,
+        34,
+        32,
+        30
+      ],
+      "ref": "e4258a947",
+      "tag": "a",
+      "title": "Sponsor on GitHub"
+    },
+    {
+      "bounds": [
+        795,
+        234,
+        8,
+        8
+      ],
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        795,
+        265,
+        8,
+        8
+      ],
+      "ref": "ea0fc21fdx2",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        795,
+        295,
+        8,
+        8
+      ],
+      "ref": "ea0fc21fdx3",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        795,
+        326,
+        8,
+        8
+      ],
+      "ref": "ea0fc21fdx4",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        755,
+        593,
+        8,
+        8
+      ],
+      "ref": "ea0fc21fdx5",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        755,
+        624,
+        8,
+        8
+      ],
+      "ref": "ea0fc21fdx6",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        755,
+        655,
+        8,
+        8
+      ],
+      "ref": "ea0fc21fdx7",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        755,
+        685,
+        8,
+        8
+      ],
+      "ref": "ea0fc21fdx8",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        755,
+        716,
+        8,
+        8
+      ],
+      "ref": "ea0fc21fdx9",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1017,
+        624,
+        8,
+        8
+      ],
+      "ref": "ea0fc21fdx10",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1017,
+        655,
+        8,
+        8
+      ],
+      "ref": "ea0fc21fdx11",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1017,
+        685,
+        8,
+        8
+      ],
+      "ref": "ea0fc21fdx12",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        995,
+        249,
+        8,
+        8
+      ],
+      "ref": "ea0fc21fdx13",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        995,
+        280,
+        8,
+        8
+      ],
+      "ref": "ea0fc21fdx14",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        995,
+        310,
+        8,
+        8
+      ],
+      "ref": "ea0fc21fdx15",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        96,
+        521,
+        161,
+        50
+      ],
+      "ref": "e29a2b4f1",
+      "tag": "button",
+      "text": "Learn more"
+    },
+    {
+      "bounds": [
+        273,
+        522,
+        207,
+        48
+      ],
+      "ref": "e5ac4b157",
+      "tag": "a",
+      "text": "Try it for yourself"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "text": "n\n1\n1\n1\nn\n1\ngalactic_users\nid\nINT\nusername\nVARCHAR\nemail\nVARCHAR\npassword\nVARCHAR\ncelestial_data\nid\nINT\nuser_id\nINT\ntype\nENUM\ntime\nTIMESTAMP\ncontent\nVARCHAR\nastro_mine\nid\nINT\nasteroid_id\nINT\ndata_id\nINT\nasteroid\nid\nINT\nname\nVARCHAR\nlocation\nVARCHAR\nDraw, Copy, and Paste\nFree and open source, simple, and intuitive database design editor, data-modeler, and SQL generator.\nFree of charge",
+  "text_truncated": false,
+  "title": "drawDB | Online database diagram editor and SQL generator",
+  "url": "/",
+  "viewport": [
+    1280,
+    900
+  ]
+}

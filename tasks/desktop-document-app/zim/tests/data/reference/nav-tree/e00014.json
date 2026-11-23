@@ -1,0 +1,650 @@
+{
+  "focused": "e3e519df7",
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        900
+      ],
+      "name": "Home - Links",
+      "ref": "efda9d47f",
+      "role": "frame",
+      "states": [
+        "active"
+      ]
+    },
+    {
+      "bounds": [
+        1154,
+        -1,
+        1,
+        46
+      ],
+      "name": "",
+      "ref": "e592c745a",
+      "role": "separator"
+    },
+    {
+      "bounds": [
+        1161,
+        7,
+        34,
+        30
+      ],
+      "name": "Minimize",
+      "ref": "e4029fb5d",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1201,
+        7,
+        34,
+        30
+      ],
+      "name": "Restore",
+      "ref": "e73c6be38",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1241,
+        7,
+        34,
+        30
+      ],
+      "name": "Close",
+      "ref": "e46a9f3a7",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1070,
+        -1,
+        36,
+        46
+      ],
+      "description": "Toggle editable",
+      "name": "",
+      "ref": "e28a9e4a9",
+      "role": "toggle button",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        1112,
+        -1,
+        36,
+        46
+      ],
+      "description": "Search...",
+      "name": "Find",
+      "ref": "ea58bea2f",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        579,
+        13,
+        122,
+        17
+      ],
+      "name": "Home - Links",
+      "ref": "ea5a2d297",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        5,
+        -1,
+        35,
+        46
+      ],
+      "description": "Go back",
+      "name": "Back",
+      "ref": "e96979b32",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        40,
+        -1,
+        35,
+        46
+      ],
+      "description": "Go to home page",
+      "name": "Home",
+      "ref": "e142836b8",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        75,
+        -1,
+        36,
+        46
+      ],
+      "description": "Go forward",
+      "name": "Forward",
+      "ref": "ed1509db3",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        46,
+        1280,
+        25
+      ],
+      "name": "",
+      "ref": "e5de91ee9",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        0,
+        46,
+        39,
+        25
+      ],
+      "name": "File",
+      "ref": "ed4b20189",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        39,
+        46,
+        41,
+        25
+      ],
+      "name": "Edit",
+      "ref": "e79d0ca26",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        80,
+        46,
+        48,
+        25
+      ],
+      "name": "View",
+      "ref": "eaacaa1f3",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        128,
+        46,
+        53,
+        25
+      ],
+      "name": "Insert",
+      "ref": "eeb806522",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        181,
+        46,
+        62,
+        25
+      ],
+      "name": "Format",
+      "ref": "ef6a271d3",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        243,
+        46,
+        60,
+        25
+      ],
+      "name": "Search",
+      "ref": "ed508a908",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        303,
+        46,
+        49,
+        25
+      ],
+      "name": "Tools",
+      "ref": "e77ddb564",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        352,
+        46,
+        34,
+        25
+      ],
+      "name": "Go",
+      "ref": "e0d3d5208",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        386,
+        46,
+        46,
+        25
+      ],
+      "name": "Help",
+      "ref": "ea3355b98",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        0,
+        71,
+        1280,
+        42
+      ],
+      "name": "",
+      "ref": "e75666fe6",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        4,
+        75,
+        37,
+        35
+      ],
+      "name": "Strong",
+      "ref": "ebfeb852a",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        41,
+        75,
+        37,
+        35
+      ],
+      "name": "Emphasis",
+      "ref": "ee8d87711",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        78,
+        75,
+        37,
+        35
+      ],
+      "name": "Mark",
+      "ref": "e9192236a",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        115,
+        75,
+        37,
+        35
+      ],
+      "name": "Strike",
+      "ref": "e93ca3ebb",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        152,
+        75,
+        37,
+        35
+      ],
+      "name": "Verbatim",
+      "ref": "e559494f3",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        189,
+        75,
+        37,
+        35
+      ],
+      "name": "Subscript",
+      "ref": "e18ee591c",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        226,
+        75,
+        37,
+        35
+      ],
+      "name": "Superscript",
+      "ref": "e9354245e",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        263,
+        75,
+        37,
+        35
+      ],
+      "name": "List...",
+      "ref": "e4e41f587",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        300,
+        75,
+        37,
+        35
+      ],
+      "name": "Heading...",
+      "ref": "e89e97ca7",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        337,
+        75,
+        37,
+        35
+      ],
+      "name": "Insert...",
+      "ref": "e6109c59a",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        388,
+        75,
+        37,
+        35
+      ],
+      "name": "Open Attachments Folder",
+      "ref": "e215c89ee",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        113,
+        1276,
+        787
+      ],
+      "name": "",
+      "ref": "e1f1b58ea",
+      "role": "split pane",
+      "value": 200.0
+    },
+    {
+      "bounds": [
+        0,
+        113,
+        164,
+        34
+      ],
+      "name": "Index",
+      "ref": "e2e7b7d1c",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        164,
+        113,
+        36,
+        34
+      ],
+      "name": "",
+      "ref": "ee22e9c08",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        147,
+        200,
+        753
+      ],
+      "name": "",
+      "ref": "e5598c1e0",
+      "role": "page tab list"
+    },
+    {
+      "bounds": [
+        1,
+        148,
+        198,
+        751
+      ],
+      "name": "",
+      "ref": "e3d90cfc5",
+      "role": "tree table"
+    },
+    {
+      "bounds": [
+        41,
+        149,
+        139,
+        21
+      ],
+      "name": "Area",
+      "ref": "e060c1cf1",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        184,
+        149,
+        13,
+        21
+      ],
+      "name": "2",
+      "ref": "ee17a9a6d",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        41,
+        172,
+        139,
+        21
+      ],
+      "name": "Home",
+      "ref": "e2f1c5e25",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        184,
+        172,
+        13,
+        21
+      ],
+      "name": "",
+      "ref": "e90453d97",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        41,
+        195,
+        139,
+        21
+      ],
+      "name": "Loose",
+      "ref": "e6701e813",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        184,
+        195,
+        13,
+        21
+      ],
+      "name": "",
+      "ref": "e124ba959",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        201,
+        113,
+        1075,
+        787
+      ],
+      "name": "",
+      "ref": "eee0457ad",
+      "role": "split pane",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        203,
+        115,
+        61,
+        34
+      ],
+      "description": "Area:Second",
+      "name": "Second",
+      "ref": "ecaa919ba",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        264,
+        115,
+        44,
+        34
+      ],
+      "name": "Area",
+      "ref": "ef1f46869",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        308,
+        115,
+        52,
+        34
+      ],
+      "name": "Loose",
+      "ref": "e21bfcc22",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        360,
+        115,
+        57,
+        34
+      ],
+      "name": "Home",
+      "ref": "e853e2534",
+      "role": "toggle button",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        201,
+        151,
+        1075,
+        749
+      ],
+      "name": "",
+      "ref": "ed9a2b803",
+      "role": "split pane",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        201,
+        151,
+        1075,
+        749
+      ],
+      "name": "",
+      "ref": "e740d363f",
+      "role": "split pane",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        202,
+        152,
+        1073,
+        747
+      ],
+      "name": "",
+      "ref": "e3e519df7",
+      "role": "text",
+      "states": [
+        "focused",
+        "editable"
+      ],
+      "text": "Home\nStart: Area:First Area:Second :Loose\n"
+    },
+    {
+      "bounds": [
+        213,
+        872,
+        99,
+        23
+      ],
+      "name": "Go to \"Loose\"",
+      "ref": "eec902e47",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1276,
+        113,
+        4,
+        17
+      ],
+      "name": "",
+      "ref": "e318e4941",
+      "role": "label"
+    }
+  ],
+  "screen": [
+    1280,
+    900
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": true,
+      "bounds": [
+        0,
+        0,
+        1280,
+        900
+      ],
+      "ref": "wce485d49",
+      "title": "Home - Links"
+    }
+  ]
+}

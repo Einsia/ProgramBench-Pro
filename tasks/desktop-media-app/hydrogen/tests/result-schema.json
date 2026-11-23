@@ -1,0 +1,765 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:program-bench:episode-evaluation-v2:results",
+  "title": "Episode evaluation output v2",
+  "oneOf": [
+    {
+      "$ref": "#/$defs/result"
+    },
+    {
+      "$ref": "#/$defs/summary"
+    },
+    {
+      "$ref": "#/$defs/reward"
+    },
+    {
+      "$ref": "#/$defs/identity"
+    },
+    {
+      "$ref": "#/$defs/manifest"
+    }
+  ],
+  "$defs": {
+    "result": {
+      "type": "object",
+      "required": [
+        "id",
+        "episode",
+        "checkpoint",
+        "feature",
+        "channel",
+        "method",
+        "status",
+        "score",
+        "passed",
+        "reason",
+        "evidence",
+        "failure_kind"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "episode": {
+          "type": "string",
+          "minLength": 1
+        },
+        "checkpoint": {
+          "type": "string",
+          "minLength": 1
+        },
+        "feature": {
+          "type": "string",
+          "minLength": 1
+        },
+        "channel": {
+          "enum": [
+            "frontend",
+            "backend"
+          ]
+        },
+        "method": {
+          "enum": [
+            "agent",
+            "program"
+          ]
+        },
+        "status": {
+          "enum": [
+            "pass",
+            "fail",
+            "unresolved",
+            "blocked"
+          ]
+        },
+        "score": {
+          "enum": [
+            0,
+            1
+          ]
+        },
+        "passed": {
+          "type": "boolean"
+        },
+        "reason": {
+          "type": "string"
+        },
+        "evidence": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "failure_kind": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "enum": [
+            null,
+            "agent_verdict",
+            "budget",
+            "candidate_missing_start",
+            "candidate_start",
+            "candidate_timeout",
+            "companion",
+            "dependency",
+            "infrastructure",
+            "observation",
+            "program_exception",
+            "report_protocol",
+            "result_mismatch",
+            "setup_failure"
+          ]
+        },
+        "identity_sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "status": {
+                "const": "pass"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "passed": {
+                "const": true
+              },
+              "score": {
+                "const": 1
+              },
+              "failure_kind": {
+                "type": "null"
+              }
+            }
+          },
+          "else": {
+            "properties": {
+              "passed": {
+                "const": false
+              },
+              "score": {
+                "const": 0
+              },
+              "failure_kind": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "status": {
+                "const": "fail"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "failure_kind": {
+                "enum": [
+                  "result_mismatch",
+                  "program_exception",
+                  "agent_verdict",
+                  "companion",
+                  "candidate_timeout"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "status": {
+                "const": "unresolved"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "failure_kind": {
+                "enum": [
+                  "agent_verdict",
+                  "budget",
+                  "observation",
+                  "report_protocol"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "status": {
+                "const": "blocked"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "failure_kind": {
+                "enum": [
+                  "dependency",
+                  "setup_failure",
+                  "candidate_start",
+                  "candidate_missing_start",
+                  "candidate_timeout",
+                  "infrastructure"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "channel": {
+                "const": "frontend"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "method": {
+                "const": "agent"
+              }
+            }
+          },
+          "else": {
+            "properties": {
+              "method": {
+                "const": "program"
+              }
+            }
+          }
+        }
+      ],
+      "additionalProperties": false
+    },
+    "summary": {
+      "type": "object",
+      "required": [
+        "task",
+        "version",
+        "protocol",
+        "mode",
+        "full_suite",
+        "diagnostic",
+        "counts",
+        "backend",
+        "frontend",
+        "reward",
+        "all_passed",
+        "infrastructure_error",
+        "usage",
+        "seconds",
+        "kit",
+        "failure_kinds",
+        "evaluator",
+        "resumed_episodes",
+        "episode_passed",
+        "episode_total",
+        "episode_rate"
+      ],
+      "properties": {
+        "task": {
+          "type": "string",
+          "minLength": 1
+        },
+        "version": {
+          "type": "string",
+          "pattern": "^\\d+\\.\\d+\\.\\d+$"
+        },
+        "protocol": {
+          "const": "episode-evaluation-v2"
+        },
+        "mode": {
+          "enum": [
+            "record",
+            "compare"
+          ]
+        },
+        "full_suite": {
+          "type": "boolean"
+        },
+        "diagnostic": {
+          "type": "boolean"
+        },
+        "backend": {
+          "type": "object",
+          "required": [
+            "assertions",
+            "passed",
+            "ratio",
+            "statuses"
+          ],
+          "properties": {
+            "assertions": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "passed": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "ratio": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 1
+            },
+            "statuses": {
+              "type": "object",
+              "required": [
+                "pass",
+                "fail",
+                "unresolved",
+                "blocked"
+              ],
+              "additionalProperties": {
+                "type": "integer",
+                "minimum": 0
+              }
+            }
+          }
+        },
+        "frontend": {
+          "type": "object",
+          "required": [
+            "assertions",
+            "passed",
+            "ratio",
+            "statuses"
+          ],
+          "properties": {
+            "assertions": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "passed": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "ratio": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 1
+            },
+            "statuses": {
+              "type": "object",
+              "required": [
+                "pass",
+                "fail",
+                "unresolved",
+                "blocked"
+              ],
+              "additionalProperties": {
+                "type": "integer",
+                "minimum": 0
+              }
+            }
+          }
+        },
+        "reward": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "minimum": 0,
+          "maximum": 1,
+          "multipleOf": 1e-06
+        },
+        "all_passed": {
+          "type": "boolean"
+        },
+        "infrastructure_error": {
+          "type": "boolean"
+        },
+        "counts": {
+          "type": "object"
+        },
+        "usage": {
+          "type": "object",
+          "required": [
+            "setup_calls",
+            "program_calls",
+            "model_calls",
+            "tokens",
+            "gui_actions",
+            "model_seconds",
+            "model_wait_seconds",
+            "candidate_restarts"
+          ]
+        },
+        "seconds": {
+          "type": "number",
+          "minimum": 0
+        },
+        "kit": {
+          "type": "string",
+          "pattern": "^\\d+\\.\\d+\\.\\d+$"
+        },
+        "failure_kinds": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "integer",
+            "minimum": 1
+          }
+        },
+        "evaluator": {
+          "$ref": "#/$defs/evaluator"
+        },
+        "resumed_episodes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "episode_passed": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "episode_total": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "episode_rate": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "anyOf": [
+              {
+                "properties": {
+                  "infrastructure_error": {
+                    "const": true
+                  }
+                }
+              },
+              {
+                "properties": {
+                  "diagnostic": {
+                    "const": true
+                  }
+                }
+              },
+              {
+                "properties": {
+                  "mode": {
+                    "const": "record"
+                  }
+                }
+              }
+            ]
+          },
+          "then": {
+            "properties": {
+              "reward": {
+                "type": "null"
+              }
+            }
+          }
+        }
+      ]
+    },
+    "reward": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "reward"
+      ],
+      "properties": {
+        "reward": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        }
+      }
+    },
+    "evaluator": {
+      "description": "Evaluator model as configured on the host bridge (recorded, not frozen); null in record mode.",
+      "type": [
+        "object",
+        "null"
+      ],
+      "required": [
+        "model",
+        "effort",
+        "base_url",
+        "protocol"
+      ],
+      "properties": {
+        "model": {
+          "type": "string",
+          "minLength": 1
+        },
+        "effort": {
+          "type": "string"
+        },
+        "base_url": {
+          "type": "string"
+        },
+        "protocol": {
+          "type": "string"
+        },
+        "max_calls": {
+          "type": "integer"
+        },
+        "max_tokens": {
+          "type": "integer"
+        }
+      }
+    },
+    "identity": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "version",
+        "kit",
+        "protocol",
+        "manifest_sha256",
+        "sources",
+        "candidate",
+        "evaluator",
+        "mode",
+        "episodes",
+        "diagnostic"
+      ],
+      "properties": {
+        "version": {
+          "type": "string"
+        },
+        "kit": {
+          "type": "string"
+        },
+        "protocol": {
+          "const": "episode-evaluation-v2"
+        },
+        "manifest_sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        },
+        "sources": {
+          "type": "object",
+          "description": "tests/<path> and runtime/<path> -> sha256"
+        },
+        "candidate": {
+          "type": "object"
+        },
+        "evaluator": {
+          "$ref": "#/$defs/evaluator"
+        },
+        "mode": {
+          "enum": [
+            "record",
+            "compare"
+          ]
+        },
+        "episodes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "diagnostic": {
+          "type": "boolean"
+        }
+      }
+    },
+    "assertion": {
+      "type": "object",
+      "required": [
+        "id",
+        "channel",
+        "method",
+        "requirement"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "channel": {
+          "enum": [
+            "frontend",
+            "backend"
+          ]
+        },
+        "method": {
+          "enum": [
+            "agent",
+            "program"
+          ]
+        },
+        "requirement": {
+          "type": "string",
+          "minLength": 1
+        },
+        "requires": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true,
+          "description": "Companion points of the same episode; this point passes only if they pass."
+        }
+      }
+    },
+    "checkpoint": {
+      "type": "object",
+      "required": [
+        "id",
+        "goal",
+        "assertions"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1,
+          "not": {
+            "pattern": "^setup:"
+          }
+        },
+        "goal": {
+          "type": "string",
+          "minLength": 1
+        },
+        "depends_on": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Earlier checkpoint ids, assertion ids of earlier checkpoints, or setup:<id>."
+        },
+        "lifecycle": {
+          "enum": [
+            "restart"
+          ]
+        },
+        "assertions": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/assertion"
+          }
+        }
+      }
+    },
+    "episode": {
+      "type": "object",
+      "required": [
+        "id",
+        "feature",
+        "execution",
+        "initial_state",
+        "checkpoints"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "feature": {
+          "type": "string",
+          "minLength": 1
+        },
+        "execution": {
+          "enum": [
+            "program",
+            "gui",
+            "mixed"
+          ]
+        },
+        "initial_state": {
+          "type": "string",
+          "minLength": 1
+        },
+        "setup": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "id"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]{0,63}$"
+              },
+              "before": {
+                "type": "string",
+                "minLength": 1,
+                "description": "Run right before this checkpoint instead of at episode start."
+              }
+            }
+          }
+        },
+        "budget": {
+          "type": "object",
+          "required": [
+            "calls",
+            "tokens",
+            "seconds"
+          ]
+        },
+        "checkpoints": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/checkpoint"
+          }
+        }
+      }
+    },
+    "manifest": {
+      "type": "object",
+      "required": [
+        "task",
+        "version",
+        "kit",
+        "protocol",
+        "reference_version",
+        "surface",
+        "episodes",
+        "counts",
+        "scoring_unit"
+      ],
+      "not": {
+        "required": [
+          "model"
+        ]
+      },
+      "properties": {
+        "protocol": {
+          "const": "episode-evaluation-v2"
+        },
+        "kit": {
+          "type": "string"
+        },
+        "episodes": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/episode"
+          }
+        },
+        "scoring_unit": {
+          "const": "episode"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "reference_paths": [
+    "/app/solution/grocy",
+    "/app/solution/php/bin"
+  ],
+  "shared_solution_files": [
+    {
+      "file": "LICENSES/libargon2-1.copyright.txt",
+      "reason": "Unmodified upstream component license/copyright notice also distributed with system dependencies; no executable or application code."
+    },
+    {
+      "file": "LICENSES/libbrotli1.copyright.txt",
+      "reason": "Unmodified upstream component license/copyright notice also distributed with system dependencies; no executable or application code."
+    },
+    {
+      "file": "LICENSES/libbz2-1.0.copyright.txt",
+      "reason": "Unmodified upstream component license/copyright notice also distributed with system dependencies; no executable or application code."
+    },
+    {
+      "file": "LICENSES/libfaketime.txt",
+      "reason": "Unmodified upstream component license/copyright notice also distributed with system dependencies; no executable or application code."
+    },
+    {
+      "file": "LICENSES/libfreetype6.copyright.txt",
+      "reason": "Unmodified upstream component license/copyright notice also distributed with system dependencies; no executable or application code."
+    },
+    {
+      "file": "LICENSES/libicu74.copyright.txt",
+      "reason": "Unmodified upstream component license/copyright notice also distributed with system dependencies; no executable or application code."
+    },
+    {
+      "file": "LICENSES/libjpeg-turbo8.copyright.txt",
+      "reason": "Unmodified upstream component license/copyright notice also distributed with system dependencies; no executable or application code."
+    },
+    {
+      "file": "LICENSES/libonig5.copyright.txt",
+      "reason": "Unmodified upstream component license/copyright notice also distributed with system dependencies; no executable or application code."
+    },
+    {
+      "file": "LICENSES/libpng16-16t64.copyright.txt",
+      "reason": "Unmodified upstream component license/copyright notice also distributed with system dependencies; no executable or application code."
+    },
+    {
+      "file": "LICENSES/libsharpyuv0.copyright.txt",
+      "reason": "Unmodified upstream component license/copyright notice also distributed with system dependencies; no executable or application code."
+    },
+    {
+      "file": "LICENSES/libsqlite3-0.copyright.txt",
+      "reason": "Unmodified upstream component license/copyright notice also distributed with system dependencies; no executable or application code."
+    },
+    {
+      "file": "LICENSES/libwebp7.copyright.txt",
+      "reason": "Unmodified upstream component license/copyright notice also distributed with system dependencies; no executable or application code."
+    },
+    {
+      "file": "LICENSES/libxml2.copyright.txt",
+      "reason": "Unmodified upstream component license/copyright notice also distributed with system dependencies; no executable or application code."
+    },
+    {
+      "file": "LICENSES/php.LICENSE.txt",
+      "reason": "Unmodified upstream component license/copyright notice also distributed with system dependencies; no executable or application code."
+    }
+  ],
+  "shared_reference_files": [
+    {
+      "path": "/app/solution/grocy/public/packages/@fontsource/roboto/index.d.css.ts",
+      "reason": "Compiler-generated empty module; no product behavior; already supplied by the Ubuntu/Node toolchain, not Grocy-specific logic."
+    },
+    {
+      "path": "/app/solution/grocy/public/packages/@zxing/library/cjs/browser/DecodeContinuouslyCallback.js",
+      "reason": "Compiler-generated empty module; no product behavior; already supplied by the Ubuntu/Node toolchain, not Grocy-specific logic."
+    },
+    {
+      "path": "/app/solution/grocy/public/packages/@zxing/library/cjs/browser/HTMLVisualMediaElement.js",
+      "reason": "Compiler-generated empty module; no product behavior; already supplied by the Ubuntu/Node toolchain, not Grocy-specific logic."
+    },
+    {
+      "path": "/app/solution/grocy/public/packages/@zxing/library/cjs/core/common/ECIInput.js",
+      "reason": "Compiler-generated empty module; no product behavior; already supplied by the Ubuntu/Node toolchain, not Grocy-specific logic."
+    },
+    {
+      "path": "/app/solution/grocy/public/packages/@zxing/library/cjs/core/datamatrix/encoder/Encoder.js",
+      "reason": "Compiler-generated empty module; no product behavior; already supplied by the Ubuntu/Node toolchain, not Grocy-specific logic."
+    },
+    {
+      "path": "/app/solution/grocy/public/packages/@zxing/library/es2015/browser/DecodeContinuouslyCallback.js",
+      "reason": "Compiler-generated empty module; no product behavior; already supplied by the Ubuntu/Node toolchain, not Grocy-specific logic."
+    },
+    {
+      "path": "/app/solution/grocy/public/packages/@zxing/library/es2015/browser/HTMLVisualMediaElement.js",
+      "reason": "Compiler-generated empty module; no product behavior; already supplied by the Ubuntu/Node toolchain, not Grocy-specific logic."
+    },
+    {
+      "path": "/app/solution/grocy/public/packages/@zxing/library/es2015/core/common/ECIInput.js",
+      "reason": "Compiler-generated empty module; no product behavior; already supplied by the Ubuntu/Node toolchain, not Grocy-specific logic."
+    },
+    {
+      "path": "/app/solution/grocy/public/packages/@zxing/library/es2015/core/datamatrix/encoder/Encoder.js",
+      "reason": "Compiler-generated empty module; no product behavior; already supplied by the Ubuntu/Node toolchain, not Grocy-specific logic."
+    },
+    {
+      "path": "/app/solution/grocy/public/packages/@zxing/library/esm/browser/DecodeContinuouslyCallback.js",
+      "reason": "Compiler-generated empty module; no product behavior; already supplied by the Ubuntu/Node toolchain, not Grocy-specific logic."
+    },
+    {
+      "path": "/app/solution/grocy/public/packages/@zxing/library/esm/browser/HTMLVisualMediaElement.js",
+      "reason": "Compiler-generated empty module; no product behavior; already supplied by the Ubuntu/Node toolchain, not Grocy-specific logic."
+    },
+    {
+      "path": "/app/solution/grocy/public/packages/@zxing/library/esm/core/common/ECIInput.js",
+      "reason": "Compiler-generated empty module; no product behavior; already supplied by the Ubuntu/Node toolchain, not Grocy-specific logic."
+    },
+    {
+      "path": "/app/solution/grocy/public/packages/@zxing/library/esm/core/datamatrix/encoder/Encoder.js",
+      "reason": "Compiler-generated empty module; no product behavior; already supplied by the Ubuntu/Node toolchain, not Grocy-specific logic."
+    },
+    {
+      "path": "/app/solution/grocy/public/packages/@zxing/library/esnext/browser/DecodeContinuouslyCallback.js",
+      "reason": "Compiler-generated empty module; no product behavior; already supplied by the Ubuntu/Node toolchain, not Grocy-specific logic."
+    },
+    {
+      "path": "/app/solution/grocy/public/packages/@zxing/library/esnext/browser/HTMLVisualMediaElement.js",
+      "reason": "Compiler-generated empty module; no product behavior; already supplied by the Ubuntu/Node toolchain, not Grocy-specific logic."
+    },
+    {
+      "path": "/app/solution/grocy/public/packages/@zxing/library/esnext/core/common/ECIInput.js",
+      "reason": "Compiler-generated empty module; no product behavior; already supplied by the Ubuntu/Node toolchain, not Grocy-specific logic."
+    },
+    {
+      "path": "/app/solution/grocy/public/packages/@zxing/library/esnext/core/datamatrix/encoder/Encoder.js",
+      "reason": "Compiler-generated empty module; no product behavior; already supplied by the Ubuntu/Node toolchain, not Grocy-specific logic."
+    },
+    {
+      "path": "/app/solution/grocy/public/packages/@zxing/text-encoding/cjs/encoding/polyfill.d.ts",
+      "reason": "Compiler-generated empty module; no product behavior; already supplied by the Ubuntu/Node toolchain, not Grocy-specific logic."
+    },
+    {
+      "path": "/app/solution/grocy/public/packages/@zxing/text-encoding/es2015/encoding/polyfill.d.ts",
+      "reason": "Compiler-generated empty module; no product behavior; already supplied by the Ubuntu/Node toolchain, not Grocy-specific logic."
+    },
+    {
+      "path": "/app/solution/grocy/public/packages/@zxing/text-encoding/esm/encoding/polyfill.d.ts",
+      "reason": "Compiler-generated empty module; no product behavior; already supplied by the Ubuntu/Node toolchain, not Grocy-specific logic."
+    },
+    {
+      "path": "/app/solution/grocy/public/packages/sprintf-js/src/angular-sprintf.js",
+      "reason": "Ubuntu-provided generic sprintf library; already supplied by the Ubuntu/Node toolchain, not Grocy-specific logic."
+    },
+    {
+      "path": "/app/solution/grocy/public/packages/sprintf-js/src/sprintf.js",
+      "reason": "Ubuntu-provided generic sprintf library; already supplied by the Ubuntu/Node toolchain, not Grocy-specific logic."
+    },
+    {
+      "path": "/app/solution/grocy/public/packages/swagger-ui-dist/LICENSE",
+      "reason": "Common Apache license text; already supplied by the Ubuntu/Node toolchain, not Grocy-specific logic."
+    }
+  ]
+}

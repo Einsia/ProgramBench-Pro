@@ -1,0 +1,230 @@
+{
+  "counts": {
+    "assertions": 2057,
+    "backend": 1882,
+    "checkpoints": 178,
+    "features": 24,
+    "frontend": 175,
+    "gui_episodes": 90,
+    "program_episodes": 3,
+    "episodes": 93
+  },
+  "features": {
+    "accounts": {
+      "assertions": 72,
+      "episodes": [
+        "account-new-checking",
+        "account-new-types",
+        "account-all-fields",
+        "account-close-reopen",
+        "account-type-delete"
+      ]
+    },
+    "assets": {
+      "assertions": 21,
+      "episodes": [
+        "asset-depreciation",
+        "asset-create-delete"
+      ]
+    },
+    "attachments": {
+      "assertions": 9,
+      "episodes": [
+        "transaction-attachments"
+      ]
+    },
+    "budgets": {
+      "assertions": 66,
+      "episodes": [
+        "budget-periods",
+        "budget-edit",
+        "report-budget-override",
+        "report-budget-deduct",
+        "report-budget-monthly",
+        "report-budget-financial",
+        "budget-frequencies-annual",
+        "budget-frequencies-monthly"
+      ]
+    },
+    "categories": {
+      "assertions": 14,
+      "episodes": [
+        "category-hierarchy",
+        "category-hide-used"
+      ]
+    },
+    "currencies": {
+      "assertions": 13,
+      "episodes": [
+        "currency-format",
+        "currency-history"
+      ]
+    },
+    "custom-fields": {
+      "assertions": 29,
+      "episodes": [
+        "custom-field-manage",
+        "custom-field-types",
+        "custom-field-extended"
+      ]
+    },
+    "database": {
+      "assertions": 50,
+      "episodes": [
+        "database-upgrade",
+        "database-new",
+        "database-encryption",
+        "database-optimize",
+        "database-backups",
+        "deleted-retention"
+      ]
+    },
+    "date-ranges": {
+      "assertions": 3,
+      "episodes": [
+        "date-range-manager"
+      ]
+    },
+    "export": {
+      "assertions": 39,
+      "episodes": [
+        "export-csv",
+        "export-json",
+        "export-qif",
+        "export-xml"
+      ]
+    },
+    "filters": {
+      "assertions": 3,
+      "episodes": [
+        "transaction-filters"
+      ]
+    },
+    "import": {
+      "assertions": 134,
+      "episodes": [
+        "import-csv-basic",
+        "import-csv-european",
+        "import-csv-partial",
+        "import-qif",
+        "import-ofx",
+        "import-xml-preset",
+        "import-csv-preset"
+      ]
+    },
+    "interchange": {
+      "assertions": 20,
+      "episodes": [
+        "qif-roundtrip"
+      ]
+    },
+    "merges": {
+      "assertions": 19,
+      "episodes": [
+        "merge-payees",
+        "merge-categories",
+        "merge-tags"
+      ]
+    },
+    "payees": {
+      "assertions": 19,
+      "episodes": [
+        "payee-add-edit",
+        "payee-visibility",
+        "payee-remove-unused"
+      ]
+    },
+    "reconciliation": {
+      "assertions": 30,
+      "episodes": [
+        "account-reconcile"
+      ]
+    },
+    "reports": {
+      "assertions": 85,
+      "episodes": [
+        "report-cashflow-daily",
+        "report-cashflow-monthly",
+        "report-cashflow-transactions",
+        "report-categories-monthly",
+        "report-categories-summary",
+        "report-spending",
+        "report-income",
+        "report-forecast",
+        "report-income-expenses",
+        "report-income-expenses-monthly",
+        "report-payees",
+        "report-accounts-monthly",
+        "report-accounts-yearly",
+        "report-budget-performance",
+        "report-budget-summary",
+        "report-stocks",
+        "report-stocks-summary",
+        "report-date-accounts",
+        "report-future-policy"
+      ]
+    },
+    "scheduled": {
+      "assertions": 26,
+      "episodes": [
+        "scheduled-manual"
+      ]
+    },
+    "scheduled-automatic": {
+      "assertions": 1190,
+      "episodes": [
+        "scheduled-auto-fixed",
+        "scheduled-auto-calendar",
+        "scheduled-auto-custom"
+      ]
+    },
+    "settings": {
+      "assertions": 15,
+      "episodes": [
+        "settings-general",
+        "settings-transaction-defaults"
+      ]
+    },
+    "stocks": {
+      "assertions": 67,
+      "episodes": [
+        "stock-purchase-sale",
+        "stock-history",
+        "stock-multiple-lots",
+        "investment-cash-ledger"
+      ]
+    },
+    "tags": {
+      "assertions": 10,
+      "episodes": [
+        "tag-manage"
+      ]
+    },
+    "transaction-reports": {
+      "assertions": 3,
+      "episodes": [
+        "transaction-report-payee"
+      ]
+    },
+    "transactions": {
+      "assertions": 120,
+      "episodes": [
+        "trx-withdrawal",
+        "trx-deposit",
+        "trx-transfer",
+        "trx-edit-delete",
+        "trx-split",
+        "trx-split-details",
+        "trx-tags",
+        "trx-status-keys",
+        "trx-duplicate-paste",
+        "trx-move",
+        "trx-bulk-edit",
+        "trx-new-names"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

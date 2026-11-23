@@ -1,0 +1,460 @@
+{
+  "controls": [
+    {
+      "aria": "Skip to content",
+      "bounds": [
+        16,
+        -80,
+        145,
+        39
+      ],
+      "offscreen": true,
+      "ref": "e469",
+      "role": null,
+      "tag": "button",
+      "text": "SKIP TO CONTENT",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        5,
+        0,
+        48,
+        48
+      ],
+      "ref": "e470",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Close menu",
+      "type": "button"
+    },
+    {
+      "aria": "Refresh",
+      "bounds": [
+        1072,
+        0,
+        48,
+        48
+      ],
+      "ref": "e471",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Refresh",
+      "type": "button"
+    },
+    {
+      "aria": "Now Playing",
+      "bounds": [
+        1120,
+        2,
+        44,
+        44
+      ],
+      "ref": "e472",
+      "role": null,
+      "tag": "button",
+      "text": "0",
+      "title": "Now Playing",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1164,
+        2,
+        44,
+        44
+      ],
+      "ref": "e473",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Activity",
+      "type": "button"
+    },
+    {
+      "aria": "Settings",
+      "bounds": [
+        1208,
+        0,
+        48,
+        48
+      ],
+      "ref": "e474",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Settings",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        0,
+        56,
+        240,
+        36
+      ],
+      "ref": "e475",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "Albums"
+    },
+    {
+      "bounds": [
+        0,
+        92,
+        240,
+        36
+      ],
+      "href": "/app/#/album/all",
+      "ref": "e476",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        0,
+        128,
+        240,
+        36
+      ],
+      "href": "/app/#/album/random",
+      "ref": "e477",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Random"
+    },
+    {
+      "bounds": [
+        0,
+        164,
+        240,
+        36
+      ],
+      "href": "/app/#/album/starred",
+      "ref": "e478",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Favourites"
+    },
+    {
+      "bounds": [
+        0,
+        200,
+        240,
+        36
+      ],
+      "href": "/app/#/album/topRated",
+      "ref": "e479",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Top Rated"
+    },
+    {
+      "bounds": [
+        0,
+        236,
+        240,
+        36
+      ],
+      "href": "/app/#/album/recentlyAdded",
+      "ref": "e480",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Recently Added"
+    },
+    {
+      "bounds": [
+        0,
+        272,
+        240,
+        36
+      ],
+      "href": "/app/#/album/recentlyPlayed",
+      "ref": "e481",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Recently Played"
+    },
+    {
+      "bounds": [
+        0,
+        308,
+        240,
+        36
+      ],
+      "href": "/app/#/album/mostPlayed",
+      "ref": "e482",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Most Played"
+    },
+    {
+      "bounds": [
+        0,
+        344,
+        240,
+        36
+      ],
+      "href": "/app/#/artist",
+      "ref": "e483",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Artists"
+    },
+    {
+      "bounds": [
+        0,
+        380,
+        240,
+        36
+      ],
+      "href": "/app/#/song",
+      "ref": "e484",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Songs"
+    },
+    {
+      "bounds": [
+        0,
+        416,
+        240,
+        36
+      ],
+      "href": "/app/#/radio",
+      "ref": "e485",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Radios"
+    },
+    {
+      "bounds": [
+        0,
+        452,
+        240,
+        36
+      ],
+      "href": "/app/#/share",
+      "ref": "e486",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Shares"
+    },
+    {
+      "bounds": [
+        0,
+        489,
+        240,
+        38
+      ],
+      "ref": "e487",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "Playlists"
+    },
+    {
+      "bounds": [
+        0,
+        527,
+        240,
+        36
+      ],
+      "href": "/app/#/playlist/5B5tgWwqRE2v1l3PRmRcrn/show",
+      "ref": "e488",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Favourites"
+    },
+    {
+      "bounds": [
+        245,
+        72,
+        221,
+        40
+      ],
+      "name": "name",
+      "placeholder": "Search",
+      "ref": "e489",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "aria": "Unselect",
+      "bounds": [
+        260,
+        114,
+        26,
+        28
+      ],
+      "ref": "e490",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Unselect",
+      "type": "button"
+    },
+    {
+      "aria": "Delete",
+      "bounds": [
+        1143,
+        112,
+        89,
+        31
+      ],
+      "ref": "e491",
+      "role": null,
+      "tag": "button",
+      "text": "DELETE",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        261,
+        135,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e492",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        313,
+        135,
+        38,
+        24
+      ],
+      "ref": "e493",
+      "role": "button",
+      "tag": "span",
+      "text": "Name",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        653,
+        135,
+        66,
+        24
+      ],
+      "ref": "e494",
+      "role": "button",
+      "tag": "span",
+      "text": "Username",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        778,
+        135,
+        78,
+        24
+      ],
+      "ref": "e495",
+      "role": "button",
+      "tag": "span",
+      "text": "Transcoding",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        917,
+        135,
+        86,
+        24
+      ],
+      "ref": "e496",
+      "role": "button",
+      "tag": "span",
+      "text": "Max. Bit Rate",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        1066,
+        135,
+        107,
+        24
+      ],
+      "ref": "e497",
+      "role": "button",
+      "tag": "span",
+      "text": "Last Seen At",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        261,
+        170,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e498",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        261,
+        203,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e499",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1105,
+        244,
+        48,
+        30
+      ],
+      "ref": "e500",
+      "role": "button",
+      "tag": "div",
+      "text": "15"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "SKIP TO CONTENT\nNavidrome - Players\n0\nAlbums\nAll\nRandom\nFavourites\nTop Rated\nRecently Added\nRecently Played\nMost Played\nArtists\nSongs\nRadios\nShares\nPlaylists\nFavourites\n​\n\n \n0 items selected\nDELETE\n\t\nName\n\t\nUsername\n\t\nTranscoding\n\t\nMax. Bit Rate\n\t\nLast Seen At\n\n\n\tNavidromeUI [Headless Chrome/Linux]\tadmin\t\t-\t11/1/2026, 7:46:12 AM\n\n\tLiving Room\tadmin\t\t-\t11/1/2026, 7:45:52 AM\n\nItems per page:\n\n15\n\n1-2 of 2",
+  "text_truncated": false,
+  "title": "Navidrome",
+  "url": "/app/#/player",
+  "viewport": [
+    1280,
+    900
+  ]
+}

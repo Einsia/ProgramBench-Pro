@@ -1,0 +1,801 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        12,
+        10,
+        250,
+        30
+      ],
+      "href": "/",
+      "ref": "e1323279754",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        0,
+        48,
+        250,
+        41
+      ],
+      "href": "/stockoverview",
+      "ref": "e1053475070",
+      "role": null,
+      "tag": "a",
+      "text": "Stock overview"
+    },
+    {
+      "bounds": [
+        0,
+        89,
+        250,
+        41
+      ],
+      "href": "/shoppinglist",
+      "ref": "e3484720244",
+      "role": null,
+      "tag": "a",
+      "text": "Shopping list"
+    },
+    {
+      "bounds": [
+        0,
+        132,
+        250,
+        41
+      ],
+      "href": "/recipes",
+      "ref": "e3605665942",
+      "role": null,
+      "tag": "a",
+      "text": "Recipes"
+    },
+    {
+      "bounds": [
+        0,
+        173,
+        250,
+        41
+      ],
+      "href": "/mealplan",
+      "ref": "e2044783333",
+      "role": null,
+      "tag": "a",
+      "text": "Meal plan"
+    },
+    {
+      "bounds": [
+        0,
+        216,
+        250,
+        41
+      ],
+      "href": "/choresoverview",
+      "ref": "e3381809840",
+      "role": null,
+      "tag": "a",
+      "text": "Chores overview"
+    },
+    {
+      "bounds": [
+        0,
+        257,
+        250,
+        41
+      ],
+      "href": "/tasks",
+      "ref": "e3412285266",
+      "role": null,
+      "tag": "a",
+      "text": "Tasks"
+    },
+    {
+      "bounds": [
+        0,
+        298,
+        250,
+        41
+      ],
+      "href": "/batteriesoverview",
+      "ref": "e1339919142",
+      "role": null,
+      "tag": "a",
+      "text": "Batteries overview"
+    },
+    {
+      "bounds": [
+        0,
+        339,
+        250,
+        41
+      ],
+      "href": "/equipment",
+      "ref": "e3517608074",
+      "role": null,
+      "tag": "a",
+      "text": "Equipment"
+    },
+    {
+      "bounds": [
+        0,
+        382,
+        250,
+        41
+      ],
+      "href": "/calendar",
+      "ref": "e2087124146",
+      "role": null,
+      "tag": "a",
+      "text": "Calendar"
+    },
+    {
+      "bounds": [
+        0,
+        425,
+        250,
+        41
+      ],
+      "href": "/purchase",
+      "ref": "e337229804",
+      "role": null,
+      "tag": "a",
+      "text": "Purchase"
+    },
+    {
+      "bounds": [
+        0,
+        466,
+        250,
+        41
+      ],
+      "href": "/consume",
+      "ref": "e2179824942",
+      "role": null,
+      "tag": "a",
+      "text": "Consume"
+    },
+    {
+      "bounds": [
+        0,
+        507,
+        250,
+        41
+      ],
+      "href": "/transfer",
+      "ref": "e3647083400",
+      "role": null,
+      "tag": "a",
+      "text": "Transfer"
+    },
+    {
+      "bounds": [
+        0,
+        548,
+        250,
+        41
+      ],
+      "href": "/inventory",
+      "ref": "e2792827466",
+      "role": null,
+      "tag": "a",
+      "text": "Inventory"
+    },
+    {
+      "bounds": [
+        0,
+        589,
+        250,
+        41
+      ],
+      "href": "/choretracking",
+      "ref": "e2922941790",
+      "role": null,
+      "tag": "a",
+      "text": "Chore tracking"
+    },
+    {
+      "bounds": [
+        0,
+        630,
+        250,
+        41
+      ],
+      "href": "/batterytracking",
+      "ref": "e1450042086",
+      "role": null,
+      "tag": "a",
+      "text": "Battery tracking"
+    },
+    {
+      "bounds": [
+        0,
+        673,
+        250,
+        41
+      ],
+      "href": "/shoppinglist?list=2#sub-nav-manage-master-data",
+      "ref": "e761715877",
+      "role": null,
+      "tag": "a",
+      "text": "Manage master data"
+    },
+    {
+      "bounds": [
+        0,
+        852,
+        250,
+        49
+      ],
+      "ref": "e1866405181",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1039,
+        8,
+        113,
+        33
+      ],
+      "href": "/shoppinglist?list=2",
+      "ref": "e977631619",
+      "role": null,
+      "tag": "a",
+      "text": "admin"
+    },
+    {
+      "bounds": [
+        1152,
+        8,
+        64,
+        33
+      ],
+      "href": "/shoppinglist?list=2",
+      "ref": "e270618320",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1216,
+        8,
+        64,
+        33
+      ],
+      "href": "/shoppinglist?list=2",
+      "ref": "e287395939",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        996,
+        54,
+        160,
+        38
+      ],
+      "options": [
+        {
+          "disabled": false,
+          "label": "Shopping list (0)",
+          "selected": false,
+          "value": "1"
+        },
+        {
+          "disabled": false,
+          "label": "Weekend (1)",
+          "selected": true,
+          "value": "2"
+        }
+      ],
+      "ref": "e3947707636",
+      "role": null,
+      "tag": "select",
+      "text": "Shopping list (0)\nWeekend (1)",
+      "value": "2"
+    },
+    {
+      "bounds": [
+        1160,
+        54,
+        112,
+        35
+      ],
+      "href": "/shoppinglist?list=2",
+      "ref": "e1631580185",
+      "role": null,
+      "tag": "a",
+      "text": "List actions"
+    },
+    {
+      "bounds": [
+        890,
+        109,
+        73,
+        31
+      ],
+      "href": "/shoppinglistitem/new?embedded&list=2",
+      "ref": "e3840225714",
+      "role": null,
+      "tag": "a",
+      "text": "Add item"
+    },
+    {
+      "bounds": [
+        966,
+        109,
+        71,
+        31
+      ],
+      "href": "/shoppinglist?list=2",
+      "ref": "e2640214975",
+      "role": null,
+      "tag": "a",
+      "text": "Clear list"
+    },
+    {
+      "bounds": [
+        1036,
+        109,
+        121,
+        31
+      ],
+      "href": "/shoppinglist?list=2",
+      "ref": "e2043924939",
+      "role": null,
+      "tag": "a",
+      "text": "Clear done items"
+    },
+    {
+      "bounds": [
+        1160,
+        109,
+        116,
+        31
+      ],
+      "href": "/shoppinglist?list=2",
+      "ref": "e3681851389",
+      "role": null,
+      "tag": "a",
+      "text": "Stock actions"
+    },
+    {
+      "bounds": [
+        302,
+        155,
+        190,
+        38
+      ],
+      "placeholder": "Search",
+      "ref": "e182898609",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        613,
+        155,
+        140,
+        38
+      ],
+      "options": [
+        {
+          "disabled": false,
+          "label": "All",
+          "selected": true,
+          "value": "all"
+        },
+        {
+          "disabled": false,
+          "label": "Below min. stock amount",
+          "selected": false,
+          "value": "belowminstockamount"
+        },
+        {
+          "disabled": false,
+          "label": "Only done items",
+          "selected": false,
+          "value": "xxDONExx"
+        },
+        {
+          "disabled": false,
+          "label": "Only undone items",
+          "selected": false,
+          "value": "xxUNDONExx"
+        }
+      ],
+      "ref": "e3444733291",
+      "role": null,
+      "tag": "select",
+      "text": "All\nBelow min. stock amount\nOnly done items\nOnly undone items",
+      "value": "all"
+    },
+    {
+      "bounds": [
+        1242,
+        155,
+        34,
+        31
+      ],
+      "ref": "e4011978691",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Clear filter"
+    },
+    {
+      "bounds": [
+        266,
+        207,
+        15,
+        16
+      ],
+      "href": "/shoppinglist?list=2",
+      "ref": "e304173558",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Table options"
+    },
+    {
+      "bounds": [
+        266,
+        234,
+        15,
+        16
+      ],
+      "href": "/shoppinglist?list=2",
+      "ref": "e320951177",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Table options"
+    },
+    {
+      "bounds": [
+        266,
+        273,
+        30,
+        31
+      ],
+      "href": "/shoppinglist?list=2",
+      "ref": "e337728796",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Mark this item as done"
+    },
+    {
+      "bounds": [
+        299,
+        273,
+        32,
+        31
+      ],
+      "href": "/shoppinglistitem/1?embedded&list=2",
+      "ref": "e1801925833",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Edit this item"
+    },
+    {
+      "bounds": [
+        334,
+        273,
+        30,
+        31
+      ],
+      "href": "/shoppinglist?list=2",
+      "ref": "e354506415",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Delete this item"
+    },
+    {
+      "bounds": [
+        367,
+        273,
+        30,
+        31
+      ],
+      "href": "/purchase?embedded&flow=shoppinglistitemtostock&product=1&amount=3&listitemid=1&quId=4",
+      "ref": "e1163348334",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Add this item to stock"
+    },
+    {
+      "bounds": [
+        314,
+        338,
+        48,
+        31
+      ],
+      "href": "/shoppinglist?list=2",
+      "ref": "e426164619",
+      "role": null,
+      "tag": "a",
+      "text": "Save"
+    },
+    {
+      "bounds": [
+        369,
+        338,
+        50,
+        31
+      ],
+      "href": "/shoppinglist?list=2",
+      "ref": "e1443442311",
+      "role": null,
+      "tag": "a",
+      "text": "Clear"
+    },
+    {
+      "aria": "Font Size",
+      "bounds": [
+        267,
+        383,
+        47,
+        30
+      ],
+      "ref": "e403639094",
+      "role": null,
+      "tag": "button",
+      "text": "13",
+      "title": "Font Size",
+      "type": "button"
+    },
+    {
+      "aria": "Bold (CTRL+B)",
+      "bounds": [
+        319,
+        383,
+        36,
+        31
+      ],
+      "ref": "e3025988926",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Bold (CTRL+B)",
+      "type": "button"
+    },
+    {
+      "aria": "Underline (CTRL+U)",
+      "bounds": [
+        354,
+        383,
+        36,
+        31
+      ],
+      "ref": "e3091057374",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Underline (CTRL+U)",
+      "type": "button"
+    },
+    {
+      "aria": "Remove Font Style (CTRL+\\)",
+      "bounds": [
+        388,
+        383,
+        36,
+        31
+      ],
+      "ref": "e871874729",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Remove Font Style (CTRL+\\)",
+      "type": "button"
+    },
+    {
+      "aria": "Recent Color",
+      "bounds": [
+        429,
+        383,
+        36,
+        31
+      ],
+      "ref": "e2436654594",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Recent Color",
+      "type": "button"
+    },
+    {
+      "aria": "More Color",
+      "bounds": [
+        464,
+        383,
+        20,
+        31
+      ],
+      "ref": "e3798025684",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "More Color",
+      "type": "button"
+    },
+    {
+      "aria": "Unordered list (CTRL+SHIFT+NUM7)",
+      "bounds": [
+        489,
+        383,
+        36,
+        31
+      ],
+      "ref": "e2805121923",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Unordered list (CTRL+SHIFT+NUM7)",
+      "type": "button"
+    },
+    {
+      "aria": "Ordered list (CTRL+SHIFT+NUM8)",
+      "bounds": [
+        524,
+        383,
+        36,
+        31
+      ],
+      "ref": "e1320324631",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Ordered list (CTRL+SHIFT+NUM8)",
+      "type": "button"
+    },
+    {
+      "aria": "Paragraph",
+      "bounds": [
+        558,
+        383,
+        46,
+        31
+      ],
+      "ref": "e1343365434",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Paragraph",
+      "type": "button"
+    },
+    {
+      "aria": "Table",
+      "bounds": [
+        609,
+        383,
+        46,
+        31
+      ],
+      "ref": "e3268889188",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Table",
+      "type": "button"
+    },
+    {
+      "aria": "Link (CTRL+K)",
+      "bounds": [
+        660,
+        383,
+        36,
+        31
+      ],
+      "ref": "e791746050",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Link (CTRL+K)",
+      "type": "button"
+    },
+    {
+      "aria": "Picture",
+      "bounds": [
+        695,
+        383,
+        36,
+        31
+      ],
+      "ref": "e16952998",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Picture",
+      "type": "button"
+    },
+    {
+      "aria": "Video",
+      "bounds": [
+        730,
+        383,
+        36,
+        31
+      ],
+      "ref": "e3143992143",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Video",
+      "type": "button"
+    },
+    {
+      "aria": "Code View",
+      "bounds": [
+        770,
+        383,
+        36,
+        31
+      ],
+      "ref": "e4092259770",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Code View",
+      "type": "button"
+    },
+    {
+      "aria": "Full Screen",
+      "bounds": [
+        805,
+        383,
+        36,
+        31
+      ],
+      "ref": "e2116699623",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Full Screen",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        262,
+        420,
+        1013,
+        300
+      ],
+      "ref": "e2536785337",
+      "role": "textbox",
+      "tag": "div",
+      "text": "",
+      "value": "\n"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": " Stock overview\n Shopping list\n Recipes\n Meal plan\n Chores overview\n Tasks\n Batteries overview\n Equipment\n Calendar\n Purchase\n Consume\n Transfer\n Inventory\n Chore tracking\n Battery tracking\n Manage master data\n admin\nShopping list\n$0.00 total value\nShopping list (0)\nWeekend (1)\nList actions \n0 products are below defined min. stock amount\nAdd item \nClear list\nClear done items\n Stock actions \n Status\nAll\nBelow min. stock amount\nOnly done items\nOnly undone items\n\tProduct / Note\tAmount\n\t\nProduct / Note\n\t\nAmount\n\nUngrouped \n   \tRice\nBrown rice\t3 Items\nNotes Save Clear\n13\n\n\n",
+  "text_truncated": false,
+  "title": "Shopping list | Grocy",
+  "url": "/shoppinglist?list=2",
+  "viewport": [
+    1280,
+    900
+  ]
+}

@@ -1,0 +1,1765 @@
+{
+  "controls": [
+    {
+      "aria": "Dashboard",
+      "bounds": [
+        10,
+        7,
+        56,
+        36
+      ],
+      "href": "/",
+      "ref": "e2224",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        71,
+        7,
+        76,
+        36
+      ],
+      "href": "/issues",
+      "ref": "e2225",
+      "role": null,
+      "tag": "a",
+      "text": "Issues"
+    },
+    {
+      "bounds": [
+        152,
+        7,
+        135,
+        36
+      ],
+      "href": "/pulls",
+      "ref": "e2226",
+      "role": null,
+      "tag": "a",
+      "text": "Pull Requests"
+    },
+    {
+      "bounds": [
+        293,
+        7,
+        110,
+        36
+      ],
+      "href": "/milestones",
+      "ref": "e2227",
+      "role": null,
+      "tag": "a",
+      "text": "Milestones"
+    },
+    {
+      "bounds": [
+        408,
+        7,
+        85,
+        36
+      ],
+      "href": "/explore/repos",
+      "ref": "e2228",
+      "role": null,
+      "tag": "a",
+      "text": "Explore"
+    },
+    {
+      "aria": "Notifications",
+      "bounds": [
+        1094,
+        7,
+        42,
+        36
+      ],
+      "href": "/notifications",
+      "ref": "e2229",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Notifications"
+    },
+    {
+      "aria": "Create…",
+      "bounds": [
+        1141,
+        7,
+        60,
+        36
+      ],
+      "expanded": false,
+      "ref": "e2230",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Create…"
+    },
+    {
+      "aria": "Profile and Settings…",
+      "bounds": [
+        1207,
+        7,
+        64,
+        36
+      ],
+      "expanded": false,
+      "ref": "e2231",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Profile and Settings…"
+    },
+    {
+      "bounds": [
+        64,
+        69,
+        54,
+        20
+      ],
+      "href": "/alice",
+      "ref": "e2232",
+      "role": null,
+      "tag": "a",
+      "text": "alice"
+    },
+    {
+      "bounds": [
+        136,
+        69,
+        97,
+        20
+      ],
+      "href": "/alice/workbench",
+      "ref": "e2233",
+      "role": null,
+      "tag": "a",
+      "text": "workbench"
+    },
+    {
+      "aria": "RSS Feed",
+      "bounds": [
+        815,
+        62,
+        47,
+        33
+      ],
+      "href": "/alice/workbench.rss",
+      "ref": "e2234",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "RSS Feed"
+    },
+    {
+      "aria": "Unwatch",
+      "bounds": [
+        869,
+        62,
+        105,
+        33
+      ],
+      "ref": "e2235",
+      "role": null,
+      "tag": "button",
+      "text": "Unwatch"
+    },
+    {
+      "bounds": [
+        973,
+        62,
+        32,
+        33
+      ],
+      "href": "/alice/workbench/watchers",
+      "ref": "e2236",
+      "role": null,
+      "tag": "a",
+      "text": "1"
+    },
+    {
+      "aria": "Star",
+      "bounds": [
+        1012,
+        62,
+        82,
+        33
+      ],
+      "ref": "e2237",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        1093,
+        62,
+        32,
+        33
+      ],
+      "href": "/alice/workbench/stars",
+      "ref": "e2238",
+      "role": null,
+      "tag": "a",
+      "text": "0"
+    },
+    {
+      "bounds": [
+        1132,
+        62,
+        82,
+        33
+      ],
+      "ref": "e2239",
+      "role": null,
+      "tag": "a",
+      "text": "Fork"
+    },
+    {
+      "bounds": [
+        1213,
+        62,
+        32,
+        33
+      ],
+      "href": "/alice/workbench/forks",
+      "ref": "e2240",
+      "role": null,
+      "tag": "a",
+      "text": "0"
+    },
+    {
+      "bounds": [
+        32,
+        99,
+        79,
+        41
+      ],
+      "href": "/alice/workbench",
+      "ref": "e2241",
+      "role": null,
+      "tag": "a",
+      "text": "Code"
+    },
+    {
+      "bounds": [
+        111,
+        99,
+        95,
+        41
+      ],
+      "href": "/alice/workbench/issues",
+      "ref": "e2242",
+      "role": null,
+      "tag": "a",
+      "text": "Issues"
+    },
+    {
+      "bounds": [
+        206,
+        99,
+        154,
+        41
+      ],
+      "href": "/alice/workbench/pulls",
+      "ref": "e2243",
+      "role": null,
+      "tag": "a",
+      "text": "Pull Requests"
+    },
+    {
+      "bounds": [
+        360,
+        99,
+        104,
+        41
+      ],
+      "href": "/alice/workbench/actions",
+      "ref": "e2244",
+      "role": null,
+      "tag": "a",
+      "text": "Actions"
+    },
+    {
+      "bounds": [
+        464,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/workbench/packages",
+      "ref": "e2245",
+      "role": null,
+      "tag": "a",
+      "text": "Packages"
+    },
+    {
+      "bounds": [
+        576,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/workbench/projects",
+      "ref": "e2246",
+      "role": null,
+      "tag": "a",
+      "text": "Projects"
+    },
+    {
+      "bounds": [
+        688,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/workbench/releases",
+      "ref": "e2247",
+      "role": null,
+      "tag": "a",
+      "text": "Releases"
+    },
+    {
+      "bounds": [
+        800,
+        99,
+        79,
+        41
+      ],
+      "href": "/alice/workbench/wiki",
+      "ref": "e2248",
+      "role": null,
+      "tag": "a",
+      "text": "Wiki"
+    },
+    {
+      "bounds": [
+        878,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/workbench/activity",
+      "ref": "e2249",
+      "role": null,
+      "tag": "a",
+      "text": "Activity"
+    },
+    {
+      "bounds": [
+        1136,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/workbench/settings",
+      "ref": "e2250",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        33,
+        205,
+        238,
+        42
+      ],
+      "href": "/alice/workbench/settings",
+      "ref": "e2251",
+      "role": null,
+      "tag": "a",
+      "text": "Repository"
+    },
+    {
+      "bounds": [
+        33,
+        247,
+        238,
+        42
+      ],
+      "href": "/alice/workbench/settings/collaboration",
+      "ref": "e2252",
+      "role": null,
+      "tag": "a",
+      "text": "Collaborators"
+    },
+    {
+      "bounds": [
+        33,
+        289,
+        238,
+        42
+      ],
+      "href": "/alice/workbench/settings/hooks",
+      "ref": "e2253",
+      "role": null,
+      "tag": "a",
+      "text": "Webhooks"
+    },
+    {
+      "bounds": [
+        33,
+        331,
+        238,
+        42
+      ],
+      "href": "/alice/workbench/settings/branches",
+      "ref": "e2254",
+      "role": null,
+      "tag": "a",
+      "text": "Branches"
+    },
+    {
+      "bounds": [
+        33,
+        373,
+        238,
+        42
+      ],
+      "href": "/alice/workbench/settings/tags",
+      "ref": "e2255",
+      "role": null,
+      "tag": "a",
+      "text": "Tags"
+    },
+    {
+      "bounds": [
+        33,
+        415,
+        238,
+        42
+      ],
+      "href": "/alice/workbench/settings/keys",
+      "ref": "e2256",
+      "role": null,
+      "tag": "a",
+      "text": "Deploy Keys"
+    },
+    {
+      "bounds": [
+        33,
+        457,
+        238,
+        42
+      ],
+      "href": "/alice/workbench/settings/lfs",
+      "ref": "e2257",
+      "role": null,
+      "tag": "a",
+      "text": "LFS"
+    },
+    {
+      "bounds": [
+        33,
+        499,
+        238,
+        42
+      ],
+      "ref": "e2258",
+      "role": null,
+      "tag": "summary",
+      "text": "Actions"
+    },
+    {
+      "bounds": [
+        33,
+        545,
+        238,
+        26
+      ],
+      "href": "/alice/workbench/settings/actions/runners",
+      "ref": "e2259",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        33,
+        571,
+        238,
+        26
+      ],
+      "href": "/alice/workbench/settings/actions/secrets",
+      "ref": "e2260",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        33,
+        597,
+        238,
+        26
+      ],
+      "href": "/alice/workbench/settings/actions/variables",
+      "ref": "e2261",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        302,
+        215,
+        30,
+        38
+      ],
+      "name": "_autofill_dummy_username",
+      "ref": "e2262",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        302,
+        253,
+        30,
+        38
+      ],
+      "name": "_autofill_dummy_password",
+      "ref": "e2263",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": ""
+    },
+    {
+      "bounds": [
+        302,
+        239,
+        932,
+        38
+      ],
+      "focused": true,
+      "label": "Repository Name",
+      "name": "repo_name",
+      "ref": "e2264",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "workbench"
+    },
+    {
+      "bounds": [
+        384,
+        329,
+        15,
+        15
+      ],
+      "checked": false,
+      "label": "Make repository a template",
+      "name": "template",
+      "ref": "e2265",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        400,
+        364,
+        15,
+        15
+      ],
+      "checked": false,
+      "label": "Make repository private",
+      "name": "private",
+      "ref": "e2266",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        302,
+        420,
+        932,
+        60
+      ],
+      "label": "Description",
+      "maxlength": "2048",
+      "name": "description",
+      "ref": "e2267",
+      "role": null,
+      "tag": "textarea",
+      "text": "",
+      "type": "textarea",
+      "value": ""
+    },
+    {
+      "bounds": [
+        302,
+        518,
+        932,
+        38
+      ],
+      "label": "Website",
+      "maxlength": "1024",
+      "name": "website",
+      "ref": "e2268",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": ""
+    },
+    {
+      "bounds": [
+        302,
+        570,
+        170,
+        38
+      ],
+      "ref": "e2269",
+      "role": null,
+      "tag": "button",
+      "text": "Update Settings"
+    },
+    {
+      "accept": "image/png,image/jpeg,image/gif,image/webp",
+      "bounds": [
+        454,
+        629,
+        316,
+        42
+      ],
+      "name": "avatar",
+      "ref": "e2270",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "file",
+      "value": ""
+    },
+    {
+      "bounds": [
+        302,
+        685,
+        153,
+        38
+      ],
+      "ref": "e2271",
+      "role": null,
+      "tag": "button",
+      "text": "Update Avatar"
+    },
+    {
+      "bounds": [
+        467,
+        685,
+        220,
+        38
+      ],
+      "ref": "e2272",
+      "role": null,
+      "tag": "button",
+      "text": "Delete Current Avatar"
+    },
+    {
+      "bounds": [
+        302,
+        811,
+        924,
+        36
+      ],
+      "href": "[external]",
+      "ref": "e2273",
+      "role": null,
+      "tag": "a",
+      "text": "How do I mirror repositories?"
+    },
+    {
+      "bounds": [
+        646,
+        871,
+        571,
+        16
+      ],
+      "href": "[external]",
+      "ref": "e2274",
+      "role": null,
+      "tag": "a",
+      "text": "the \"Pulling from a remote repository\" section of the documentation."
+    },
+    {
+      "bounds": [
+        313,
+        976,
+        30,
+        38
+      ],
+      "name": "_autofill_dummy_username",
+      "offscreen": true,
+      "ref": "e2275",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        313,
+        1014,
+        30,
+        38
+      ],
+      "name": "_autofill_dummy_password",
+      "offscreen": true,
+      "ref": "e2276",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": ""
+    },
+    {
+      "bounds": [
+        313,
+        1000,
+        910,
+        38
+      ],
+      "label": "Git Remote Repository URL",
+      "name": "push_mirror_address",
+      "offscreen": true,
+      "ref": "e2277",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        313,
+        1081,
+        910,
+        27
+      ],
+      "offscreen": true,
+      "ref": "e2278",
+      "role": null,
+      "tag": "summary",
+      "text": "Authorization"
+    },
+    {
+      "bounds": [
+        398,
+        1112,
+        207,
+        38
+      ],
+      "name": "push_mirror_username",
+      "offscreen": true,
+      "ref": "e2279",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        398,
+        1164,
+        207,
+        38
+      ],
+      "name": "push_mirror_password",
+      "offscreen": true,
+      "ref": "e2280",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": ""
+    },
+    {
+      "bounds": [
+        313,
+        1125,
+        15,
+        15
+      ],
+      "checked": false,
+      "label": "Sync when commits are pushed",
+      "name": "push_mirror_sync_on_commit",
+      "offscreen": true,
+      "ref": "e2281",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        313,
+        1177,
+        207,
+        38
+      ],
+      "label": "Mirror Interval (valid time units are 'h', 'm', 's'). 0 to disable periodic sync. (Minimum interval: 10m0s)",
+      "name": "push_mirror_interval",
+      "offscreen": true,
+      "ref": "e2282",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "8h0m0s"
+    },
+    {
+      "bounds": [
+        313,
+        1229,
+        170,
+        38
+      ],
+      "offscreen": true,
+      "ref": "e2283",
+      "role": null,
+      "tag": "button",
+      "text": "Add Push Mirror"
+    },
+    {
+      "bounds": [
+        353,
+        1364,
+        15,
+        15
+      ],
+      "checked": true,
+      "label": "Access source code, files, commits and branches.",
+      "name": "enable_code",
+      "offscreen": true,
+      "ref": "e2284",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        353,
+        1399,
+        15,
+        15
+      ],
+      "checked": true,
+      "label": "Enable Repository Wiki",
+      "name": "enable_wiki",
+      "offscreen": true,
+      "ref": "e2285",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        302,
+        1434,
+        15,
+        15
+      ],
+      "checked": true,
+      "label": "Use Built-In Wiki",
+      "name": "enable_external_wiki",
+      "offscreen": true,
+      "ref": "e2286",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "false"
+    },
+    {
+      "bounds": [
+        523,
+        1465,
+        207,
+        38
+      ],
+      "label": "Default Wiki Branch Name",
+      "name": "default_wiki_branch",
+      "offscreen": true,
+      "ref": "e2287",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "main"
+    },
+    {
+      "bounds": [
+        302,
+        1574,
+        15,
+        15
+      ],
+      "checked": false,
+      "label": "Use External Wiki",
+      "name": "enable_external_wiki",
+      "offscreen": true,
+      "ref": "e2288",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "true"
+    },
+    {
+      "bounds": [
+        316,
+        1629,
+        918,
+        38
+      ],
+      "label": "External Wiki URL",
+      "name": "external_wiki_url",
+      "offscreen": true,
+      "ref": "e2289",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": ""
+    },
+    {
+      "bounds": [
+        368,
+        1724,
+        15,
+        15
+      ],
+      "checked": true,
+      "label": "Enable Repository Issue Tracker",
+      "name": "enable_issues",
+      "offscreen": true,
+      "ref": "e2290",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        302,
+        1759,
+        15,
+        15
+      ],
+      "checked": true,
+      "label": "Use Built-In Issue Tracker",
+      "name": "enable_external_tracker",
+      "offscreen": true,
+      "ref": "e2291",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "false"
+    },
+    {
+      "bounds": [
+        316,
+        1793,
+        15,
+        15
+      ],
+      "checked": true,
+      "label": "Enable Time Tracking",
+      "name": "enable_timetracker",
+      "offscreen": true,
+      "ref": "e2292",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        316,
+        1827,
+        15,
+        15
+      ],
+      "checked": true,
+      "label": "Let Only Contributors Track Time",
+      "name": "allow_only_contributors_to_track_time",
+      "offscreen": true,
+      "ref": "e2293",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        316,
+        1861,
+        15,
+        15
+      ],
+      "checked": true,
+      "label": "Enable Dependencies For Issues and Pull Requests",
+      "name": "enable_issue_dependencies",
+      "offscreen": true,
+      "ref": "e2294",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        316,
+        1895,
+        15,
+        15
+      ],
+      "checked": false,
+      "label": "Close an issue via a commit made in a non default branch",
+      "name": "enable_close_issues_via_commit_in_any_branch",
+      "offscreen": true,
+      "ref": "e2295",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        302,
+        1929,
+        15,
+        15
+      ],
+      "checked": false,
+      "label": "Use External Issue Tracker",
+      "name": "enable_external_tracker",
+      "offscreen": true,
+      "ref": "e2296",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "true"
+    },
+    {
+      "bounds": [
+        316,
+        1984,
+        918,
+        38
+      ],
+      "label": "External Issue Tracker URL",
+      "name": "external_tracker_url",
+      "offscreen": true,
+      "ref": "e2297",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": ""
+    },
+    {
+      "bounds": [
+        316,
+        2089,
+        918,
+        38
+      ],
+      "label": "External Issue Tracker URL Format",
+      "name": "tracker_url_format",
+      "offscreen": true,
+      "placeholder": "https://github.com/{user}/{repo}/issues/{index}",
+      "ref": "e2298",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": ""
+    },
+    {
+      "bounds": [
+        552,
+        2180,
+        15,
+        15
+      ],
+      "checked": false,
+      "label": "Numeric #1234",
+      "name": "tracker_issue_style",
+      "offscreen": true,
+      "ref": "e2299",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "numeric"
+    },
+    {
+      "bounds": [
+        670,
+        2180,
+        15,
+        15
+      ],
+      "checked": false,
+      "label": "Alphanumeric ABC-123 , DEFG-234",
+      "name": "tracker_issue_style",
+      "offscreen": true,
+      "ref": "e2300",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "alphanumeric"
+    },
+    {
+      "bounds": [
+        909,
+        2180,
+        15,
+        15
+      ],
+      "checked": false,
+      "label": "Regular Expression (ISSUE-\\d+) , ISSUE-(\\d+)",
+      "name": "tracker_issue_style",
+      "offscreen": true,
+      "ref": "e2301",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "regexp"
+    },
+    {
+      "bounds": [
+        316,
+        2250,
+        918,
+        38
+      ],
+      "label": "Regular Expression Pattern",
+      "name": "external_tracker_regexp_pattern",
+      "offscreen": true,
+      "ref": "e2302",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        384,
+        2345,
+        15,
+        15
+      ],
+      "checked": true,
+      "label": "Enable Projects",
+      "name": "enable_projects",
+      "offscreen": true,
+      "ref": "e2303",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        316,
+        2411,
+        918,
+        40
+      ],
+      "expanded": false,
+      "offscreen": true,
+      "ref": "e2304",
+      "role": "menu",
+      "tag": "div",
+      "text": "All projects"
+    },
+    {
+      "bounds": [
+        384,
+        2479,
+        15,
+        15
+      ],
+      "checked": true,
+      "label": "Enable Repository Releases",
+      "name": "enable_releases",
+      "offscreen": true,
+      "ref": "e2305",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        384,
+        2514,
+        15,
+        15
+      ],
+      "checked": true,
+      "label": "Enable Repository Packages Registry",
+      "name": "enable_packages",
+      "offscreen": true,
+      "ref": "e2306",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        376,
+        2549,
+        15,
+        15
+      ],
+      "checked": true,
+      "label": "Enable Repository Actions",
+      "name": "enable_actions",
+      "offscreen": true,
+      "ref": "e2307",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        423,
+        2595,
+        15,
+        15
+      ],
+      "checked": true,
+      "label": "Enable Repository Pull Requests",
+      "name": "enable_pulls",
+      "offscreen": true,
+      "ref": "e2308",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        302,
+        2664,
+        15,
+        15
+      ],
+      "checked": true,
+      "label": "Create merge commit",
+      "name": "pulls_allow_merge",
+      "offscreen": true,
+      "ref": "e2309",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        302,
+        2698,
+        15,
+        15
+      ],
+      "checked": true,
+      "label": "Rebase then fast-forward",
+      "name": "pulls_allow_rebase",
+      "offscreen": true,
+      "ref": "e2310",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        302,
+        2732,
+        15,
+        15
+      ],
+      "checked": true,
+      "label": "Rebase then create merge commit",
+      "name": "pulls_allow_rebase_merge",
+      "offscreen": true,
+      "ref": "e2311",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        302,
+        2766,
+        15,
+        15
+      ],
+      "checked": true,
+      "label": "Create squash commit",
+      "name": "pulls_allow_squash",
+      "offscreen": true,
+      "ref": "e2312",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        302,
+        2800,
+        15,
+        15
+      ],
+      "checked": true,
+      "label": "Fast-forward only",
+      "name": "pulls_allow_fast_forward_only",
+      "offscreen": true,
+      "ref": "e2313",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        302,
+        2834,
+        15,
+        15
+      ],
+      "checked": false,
+      "label": "Manually merged",
+      "name": "pulls_allow_manual_merge",
+      "offscreen": true,
+      "ref": "e2314",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        302,
+        2899,
+        932,
+        40
+      ],
+      "expanded": false,
+      "offscreen": true,
+      "ref": "e2315",
+      "role": "menu",
+      "tag": "div",
+      "text": "Create merge commit"
+    },
+    {
+      "bounds": [
+        302,
+        2956,
+        15,
+        15
+      ],
+      "checked": false,
+      "label": "Allow edits from maintainers by default",
+      "name": "default_allow_maintainer_edit",
+      "offscreen": true,
+      "ref": "e2316",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        302,
+        2990,
+        15,
+        15
+      ],
+      "checked": true,
+      "label": "Enable updating pull request branch by rebase",
+      "name": "pulls_allow_rebase_update",
+      "offscreen": true,
+      "ref": "e2317",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        302,
+        3024,
+        15,
+        15
+      ],
+      "checked": false,
+      "label": "Delete pull request branch after merge by default",
+      "name": "default_delete_branch_after_merge",
+      "offscreen": true,
+      "ref": "e2318",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        302,
+        3058,
+        15,
+        15
+      ],
+      "checked": false,
+      "label": "Enable autodetect manual merge (Note: In some special cases, misjudgments can occur)",
+      "name": "enable_autodetect_manual_merge",
+      "offscreen": true,
+      "ref": "e2319",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        302,
+        3092,
+        15,
+        15
+      ],
+      "checked": false,
+      "label": "Ignore Whitespace for Conflicts",
+      "name": "pulls_ignore_whitespace",
+      "offscreen": true,
+      "ref": "e2320",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        302,
+        3134,
+        170,
+        38
+      ],
+      "offscreen": true,
+      "ref": "e2321",
+      "role": null,
+      "tag": "button",
+      "text": "Update Settings"
+    },
+    {
+      "bounds": [
+        302,
+        3304,
+        15,
+        15
+      ],
+      "checked": true,
+      "label": "Default Trust Model",
+      "name": "trust_model",
+      "offscreen": true,
+      "ref": "e2322",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "default"
+    },
+    {
+      "bounds": [
+        302,
+        3363,
+        15,
+        15
+      ],
+      "checked": false,
+      "label": "Collaborator: Trust signatures by collaborators",
+      "name": "trust_model",
+      "offscreen": true,
+      "ref": "e2323",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "collaborator"
+    },
+    {
+      "bounds": [
+        302,
+        3462,
+        15,
+        15
+      ],
+      "checked": false,
+      "label": "Committer: Trust signatures that match committers (This matches GitHub and will force Gitea signed commits to have Gitea as the committer)",
+      "name": "trust_model",
+      "offscreen": true,
+      "ref": "e2324",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "committer"
+    },
+    {
+      "bounds": [
+        302,
+        3597,
+        15,
+        15
+      ],
+      "checked": false,
+      "label": "Collaborator+Committer: Trust signatures by collaborators which match the committer",
+      "name": "trust_model",
+      "offscreen": true,
+      "ref": "e2325",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "radio",
+      "value": "collaboratorcommitter"
+    },
+    {
+      "bounds": [
+        302,
+        3746,
+        170,
+        38
+      ],
+      "offscreen": true,
+      "ref": "e2326",
+      "role": null,
+      "tag": "button",
+      "text": "Update Settings"
+    },
+    {
+      "bounds": [
+        302,
+        3873,
+        15,
+        15
+      ],
+      "checked": true,
+      "label": "Enable Repository Health Checks (git fsck)",
+      "name": "enable_health_check",
+      "offscreen": true,
+      "ref": "e2327",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        302,
+        3904,
+        170,
+        38
+      ],
+      "offscreen": true,
+      "ref": "e2328",
+      "role": null,
+      "tag": "button",
+      "text": "Update Settings"
+    },
+    {
+      "bounds": [
+        392,
+        4012,
+        212,
+        38
+      ],
+      "name": "request_reindex_type",
+      "offscreen": true,
+      "ref": "e2329",
+      "role": null,
+      "tag": "button",
+      "text": "Add to Reindex Queue"
+    },
+    {
+      "bounds": [
+        1035,
+        4151,
+        195,
+        38
+      ],
+      "offscreen": true,
+      "ref": "e2330",
+      "role": null,
+      "tag": "button",
+      "text": "Transfer Ownership"
+    },
+    {
+      "bounds": [
+        1052,
+        4232,
+        178,
+        38
+      ],
+      "offscreen": true,
+      "ref": "e2331",
+      "role": null,
+      "tag": "button",
+      "text": "Delete Wiki Data"
+    },
+    {
+      "bounds": [
+        1002,
+        4293,
+        229,
+        38
+      ],
+      "offscreen": true,
+      "ref": "e2332",
+      "role": null,
+      "tag": "button",
+      "text": "Delete This Repository"
+    },
+    {
+      "bounds": [
+        1086,
+        4375,
+        145,
+        38
+      ],
+      "offscreen": true,
+      "ref": "e2333",
+      "role": null,
+      "tag": "button",
+      "text": "Archive Repo"
+    },
+    {
+      "bounds": [
+        20,
+        4538,
+        134,
+        20
+      ],
+      "href": "[external]",
+      "offscreen": true,
+      "ref": "e2334",
+      "role": null,
+      "tag": "a",
+      "text": "Powered by Gitea"
+    },
+    {
+      "bounds": [
+        1063,
+        4540,
+        76,
+        16
+      ],
+      "expanded": false,
+      "offscreen": true,
+      "ref": "e2335",
+      "role": "menu",
+      "tag": "div",
+      "text": "English"
+    },
+    {
+      "bounds": [
+        1145,
+        4538,
+        76,
+        20
+      ],
+      "href": "/assets/licenses.txt",
+      "offscreen": true,
+      "ref": "e2336",
+      "role": null,
+      "tag": "a",
+      "text": "Licenses"
+    },
+    {
+      "bounds": [
+        1226,
+        4538,
+        34,
+        20
+      ],
+      "href": "/api/swagger",
+      "offscreen": true,
+      "ref": "e2337",
+      "role": null,
+      "tag": "a",
+      "text": "API"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    4566
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Issues\nPull Requests\nMilestones\nExplore\n \nalice\n/\nworkbench\nUnwatch\n1\nStar\n0\nFork\n0\nCode\nIssues\nPull Requests\nActions\nPackages\nProjects\nReleases\nWiki\nActivity\nSettings\nSettings\nRepository\nCollaborators\nWebhooks\nBranches\nTags\nDeploy Keys\nLFS\nActions\nBasic Settings\n \nRepository Name\nRepository Size 28 KiB\nTemplate \nMake repository a template\nVisibility \nMake repository private\nDescription\nWebsite\nUpdate Settings\nChoose new avatar \nUpdate Avatar Delete Current Avatar\nMirror Settings\nSet up your repository to automatically synchronize commits, tags and branches with another repository. How do I mirror repositories?\n\nTo set up a pull mirror, please consult: the \"Pulling from a remote repository\" section of the documentation.\n\nPushed repository\tDirection\tLast update\t\nNo push mirrors configured\n\n \nGit Remote Repository URL\n \n\nPut any required credentials in the Authorization section.\n\nAuthorization\nSync when commits are pushed\nMirror Interval (valid time units are 'h', 'm', 's'). 0 to disable periodic sync. (Minimum interval: 10m0s) \nAdd Push Mirror\nAdvanced Settings\nCode \nAccess source code, files, commits and branches.\nWiki \nEnable Repository Wiki\nUse Built-In Wiki\nDefault Wiki Branch Name \nDefault Access Permission for signed-in users: \nNot set\nUse External Wiki\nExternal Wiki URL\n \n\nVisitors are redirected to the external wiki URL when clicking the wiki tab.\n\nIssues \nEnable Repository Issue Tracker\nUse Built-In Issue Tracker\nEnable Time Tracking\nLet Only Contributors Track Time\nEnable Dependencies For Issues and Pull Requests\nClose an issue via a commit made in a non default branch\nUse External Issue Tracker\nExternal Issue Tracker URL\n \n\nVisitors are redirected to the external issue tracker URL when clicking on the issues tab.\n\nExternal Issue Tracker URL Format\n \n\nUse the placeholders {user}, {repo} and {index} for the username, repository name and issue index.\n\nExternal Issue Tracker Number Format\nNumeric #1234\nAlphanumeric ABC-123 , DEFG-234\nRegular Expression (ISSUE-\\d+) , ISSUE-(\\d+)\nRegular Expression Pattern\n \n\nThe first captured group will be used in place of {index}.\n\nProjects \nEnable Projects\n\nProjects Mode (which kinds of projects to show)\n\nAll projects\nReleases \nEnable Repository Releases\nPackages \nEnable Repository Packages Registry\nActions \nEnable Repository Actions\nPull Requests \nEnable Repository Pull Requests\n\nMerge Styles\n\nCreate merge commit\nRebase then fast-forward\nRebase then create merge commit\nCreate squash commit\nFast-forward only\nManually merged\n\nDefault Merge Style\n\nCreate merge commit\nAllow edits from maintainers by default\nEnable updating pull request branch by rebase\nDelete pull request branch after merge by default\nEnable autodetect manual merge (Note: In some special cases, misjudgments can occur)\nIgnore Whitespace for Conflicts\nUpdate Settings\nSigning Verification Settings\nSignature Trust Model\n\n\nDefault Trust Model\n\nUse the default repository trust model for this installation.\n\nCollaborator: Trust signatures by collaborators\n\nValid signatures by collaborators of this repository will be marked \"trusted\" - (whether they match the committer or not). Otherwise, valid signatures will be marked \"untrusted\" if the signature matches the committer and \"unmatched\" if not.\n\nCommitter: Trust signatures that match committers (This matches GitHub and will force Gitea signed commits to have Gitea as the committer)\n\nValid signatures will only be marked \"trusted\" if they match the committer, otherwise they will be marked \"unmatched\". This forces Gitea to be the committer on signed commits with the actual committer marked as Co-authored-by: and Co-committed-by: trailer in the commit. The default Gitea key must match a User in the database.\n\nCollaborator+Committer: Trust signatures by collaborators which match the committer\n\nValid signatures by collaborators of this repository will be marked \"trusted\" if they match the committer. Otherwise, valid signatures will be marked \"untrusted\" if the signature matches the committer and \"unmatched\" otherwise. This will force Gitea to be marked as the committer on signed commits with the actual committer marked as Co-Authored-By: and Co-Committed-By: trailer in the commit. The default Gitea key must match a User in the database.\n\nUpdate Settings\nAdministrator Settings\nEnable Repository Health Checks (git fsck)\nUpdate Settings\nCode Statistics Indexer\nUnindexed\nAdd to Reindex Queue\nDanger Zone\nTransfer Ownership\nTransfer this repository to a user or to an organization for which you have administrator rights.\nTransfer Ownership\nDelete Wiki Data\nDeleting repository wiki data is permanent and cannot be undone.\nDelete Wiki Data\nDelete This Repository\nDeleting a repository is permanent and cannot be undone.\nDelete This Repository\nArchive This Repo\nArchiving the repo will make it entirely read-only. It will be hidden from the dashboard. Nobody (not even you!) will be able to make new commits, or open any issues or pull requests.\nArchive Repo\nPowered by Gitea\nPage:\n18ms\nTemplate:\n2ms\nEnglish\nLicenses\nAPI",
+  "text_truncated": false,
+  "title": "Repository - workbench - Gitea",
+  "url": "/alice/workbench/settings",
+  "viewport": [
+    1280,
+    900
+  ]
+}

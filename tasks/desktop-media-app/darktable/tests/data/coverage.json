@@ -1,0 +1,327 @@
+{
+  "counts": {
+    "assertions": 1446,
+    "backend": 1343,
+    "checkpoints": 1369,
+    "features": 46,
+    "frontend": 103,
+    "gui_episodes": 41,
+    "program_episodes": 39,
+    "episodes": 80
+  },
+  "features": {
+    "collection-rules": {
+      "assertions": 3,
+      "episodes": [
+        "collection-rules"
+      ]
+    },
+    "collection-sort": {
+      "assertions": 3,
+      "episodes": [
+        "collection-sort"
+      ]
+    },
+    "collections": {
+      "assertions": 5,
+      "episodes": [
+        "library-filter"
+      ]
+    },
+    "color-labels": {
+      "assertions": 6,
+      "episodes": [
+        "library-labels"
+      ]
+    },
+    "color-management": {
+      "assertions": 13,
+      "episodes": [
+        "program-color-management-01"
+      ]
+    },
+    "compatibility": {
+      "assertions": 18,
+      "episodes": [
+        "program-compatibility-01"
+      ]
+    },
+    "composite": {
+      "assertions": 2,
+      "episodes": [
+        "program-composite-01"
+      ]
+    },
+    "compositing": {
+      "assertions": 214,
+      "episodes": [
+        "program-compositing-01",
+        "program-compositing-02",
+        "program-compositing-03",
+        "program-compositing-04"
+      ]
+    },
+    "crop": {
+      "assertions": 4,
+      "episodes": [
+        "edit-crop"
+      ]
+    },
+    "darkroom-processing": {
+      "assertions": 48,
+      "episodes": [
+        "edit-exposure",
+        "edit-colorcontrast",
+        "edit-colorize",
+        "edit-velvia",
+        "edit-vignette",
+        "edit-graduatednd",
+        "edit-bloom",
+        "edit-soften",
+        "edit-sharpen",
+        "edit-bilat",
+        "edit-colorbalancergb",
+        "edit-borders"
+      ]
+    },
+    "duplicates": {
+      "assertions": 4,
+      "episodes": [
+        "library-duplicate"
+      ]
+    },
+    "errors": {
+      "assertions": 4,
+      "episodes": [
+        "program-errors-01"
+      ]
+    },
+    "export": {
+      "assertions": 16,
+      "episodes": [
+        "export-jpg",
+        "export-png",
+        "export-tif",
+        "export-webp"
+      ]
+    },
+    "export-behavior": {
+      "assertions": 4,
+      "episodes": [
+        "program-export-behavior-01"
+      ]
+    },
+    "file-management": {
+      "assertions": 14,
+      "episodes": [
+        "library-copy-import",
+        "library-file-transfer",
+        "library-remove-delete"
+      ]
+    },
+    "filename-patterns": {
+      "assertions": 19,
+      "episodes": [
+        "program-filename-patterns-01"
+      ]
+    },
+    "formats": {
+      "assertions": 30,
+      "episodes": [
+        "program-formats-01"
+      ]
+    },
+    "geotagging": {
+      "assertions": 2,
+      "episodes": [
+        "geotag-track"
+      ]
+    },
+    "grouping": {
+      "assertions": 3,
+      "episodes": [
+        "library-grouping"
+      ]
+    },
+    "history": {
+      "assertions": 44,
+      "episodes": [
+        "edit-history",
+        "program-history-01"
+      ]
+    },
+    "history-management": {
+      "assertions": 8,
+      "episodes": [
+        "history-lifecycle"
+      ]
+    },
+    "input-formats": {
+      "assertions": 11,
+      "episodes": [
+        "program-input-formats-01"
+      ]
+    },
+    "library": {
+      "assertions": 8,
+      "episodes": [
+        "library-rating"
+      ]
+    },
+    "liquify": {
+      "assertions": 8,
+      "episodes": [
+        "program-liquify-01"
+      ]
+    },
+    "lookup-tables": {
+      "assertions": 7,
+      "episodes": [
+        "program-lookup-tables-01"
+      ]
+    },
+    "masks": {
+      "assertions": 20,
+      "episodes": [
+        "program-masks-01"
+      ]
+    },
+    "metadata": {
+      "assertions": 28,
+      "episodes": [
+        "library-metadata",
+        "program-metadata-01"
+      ]
+    },
+    "module-order": {
+      "assertions": 4,
+      "episodes": [
+        "program-module-order-01"
+      ]
+    },
+    "monochrome": {
+      "assertions": 4,
+      "episodes": [
+        "edit-monochrome"
+      ]
+    },
+    "orientation": {
+      "assertions": 6,
+      "episodes": [
+        "edit-orientation"
+      ]
+    },
+    "preferences": {
+      "assertions": 2,
+      "episodes": [
+        "preferences-persistence"
+      ]
+    },
+    "processing": {
+      "assertions": 672,
+      "episodes": [
+        "program-processing-01",
+        "program-processing-02",
+        "program-processing-03",
+        "program-processing-04",
+        "program-processing-05",
+        "program-processing-06",
+        "program-processing-07",
+        "program-processing-08",
+        "program-processing-09",
+        "program-processing-10",
+        "program-processing-11",
+        "program-processing-12",
+        "program-processing-13"
+      ]
+    },
+    "raster-masks": {
+      "assertions": 8,
+      "episodes": [
+        "program-raster-masks-01"
+      ]
+    },
+    "raw": {
+      "assertions": 45,
+      "episodes": [
+        "program-raw-01"
+      ]
+    },
+    "raw-denoise": {
+      "assertions": 3,
+      "episodes": [
+        "program-raw-denoise-01"
+      ]
+    },
+    "raw-viewing": {
+      "assertions": 1,
+      "episodes": [
+        "view-raw-clipping"
+      ]
+    },
+    "repair": {
+      "assertions": 16,
+      "episodes": [
+        "program-repair-01"
+      ]
+    },
+    "resize": {
+      "assertions": 92,
+      "episodes": [
+        "program-resize-01",
+        "program-resize-02"
+      ]
+    },
+    "resize-quality": {
+      "assertions": 10,
+      "episodes": [
+        "program-resize-quality-01"
+      ]
+    },
+    "snapshots": {
+      "assertions": 4,
+      "episodes": [
+        "snapshot-restore"
+      ]
+    },
+    "styles": {
+      "assertions": 4,
+      "episodes": [
+        "styles-create"
+      ]
+    },
+    "styles-lifecycle": {
+      "assertions": 7,
+      "episodes": [
+        "styles-lifecycle"
+      ]
+    },
+    "tags": {
+      "assertions": 8,
+      "episodes": [
+        "library-tags"
+      ]
+    },
+    "view-assistance": {
+      "assertions": 5,
+      "episodes": [
+        "view-assistance"
+      ]
+    },
+    "viewing": {
+      "assertions": 2,
+      "episodes": [
+        "library-culling"
+      ]
+    },
+    "watermarks": {
+      "assertions": 7,
+      "episodes": [
+        "program-watermarks-01"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

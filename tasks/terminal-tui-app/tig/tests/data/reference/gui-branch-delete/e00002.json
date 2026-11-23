@@ -1,0 +1,214 @@
+{
+  "base_style": [
+    "bold",
+    "fg=white",
+    "bg=blue"
+  ],
+  "cursor": {
+    "column": 119,
+    "hidden": true,
+    "row": 34
+  },
+  "process": "running",
+  "screen": [
+    "00|                                    All references",
+    "01|2024-01-06 12:00 +0000 Bea Meadow   main           Update trail heading",
+    "02|2024-01-04 12:00 +0000 Chen Grove   feature/east   Mark eastern viewpoint",
+    "03|2024-01-05 12:00 +0000 Alex Example origin/main    Merge eastern route",
+    "04|2024-01-01 12:00 +0000 Ada Rivers   v1.0           Start field notebook",
+    "05|",
+    "06|",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|",
+    "12|",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|",
+    "19|",
+    "20|",
+    "21|",
+    "22|",
+    "23|",
+    "24|",
+    "25|",
+    "26|",
+    "27|",
+    "28|",
+    "29|",
+    "30|",
+    "31|",
+    "32|",
+    "33|",
+    "34|[refs] df5a8086010f3649c0c666537fc6b0dc532bac83 - reference 2 of 4                                                  100%",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        36,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "default"
+      ],
+      "text": "All references                                                                      "
+    },
+    {
+      "columns": [
+        0,
+        23
+      ],
+      "row": 1,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "2024-01-06 12:00 +0000 "
+    },
+    {
+      "columns": [
+        23,
+        36
+      ],
+      "row": 1,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Bea Meadow   "
+    },
+    {
+      "columns": [
+        36,
+        51
+      ],
+      "row": 1,
+      "style": [
+        "bold",
+        "fg=cyan"
+      ],
+      "text": "main           "
+    },
+    {
+      "columns": [
+        51,
+        120
+      ],
+      "row": 1,
+      "style": [
+        "default"
+      ],
+      "text": "Update trail heading                                                 "
+    },
+    {
+      "columns": [
+        0,
+        73
+      ],
+      "row": 2,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=green"
+      ],
+      "text": "2024-01-04 12:00 +0000 Chen Grove   feature/east   Mark eastern viewpoint"
+    },
+    {
+      "columns": [
+        0,
+        23
+      ],
+      "row": 3,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "2024-01-05 12:00 +0000 "
+    },
+    {
+      "columns": [
+        23,
+        36
+      ],
+      "row": 3,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Alex Example "
+    },
+    {
+      "columns": [
+        36,
+        51
+      ],
+      "row": 3,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "origin/main    "
+    },
+    {
+      "columns": [
+        51,
+        120
+      ],
+      "row": 3,
+      "style": [
+        "default"
+      ],
+      "text": "Merge eastern route                                                  "
+    },
+    {
+      "columns": [
+        0,
+        23
+      ],
+      "row": 4,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "2024-01-01 12:00 +0000 "
+    },
+    {
+      "columns": [
+        23,
+        36
+      ],
+      "row": 4,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Ada Rivers   "
+    },
+    {
+      "columns": [
+        36,
+        51
+      ],
+      "row": 4,
+      "style": [
+        "fg=magenta"
+      ],
+      "text": "v1.0           "
+    },
+    {
+      "columns": [
+        51,
+        120
+      ],
+      "row": 4,
+      "style": [
+        "default"
+      ],
+      "text": "Start field notebook                                                 "
+    }
+  ]
+}

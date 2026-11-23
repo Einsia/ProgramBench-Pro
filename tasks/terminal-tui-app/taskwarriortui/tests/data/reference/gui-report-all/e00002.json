@@ -1,0 +1,345 @@
+{
+  "cursor": {
+    "column": 34,
+    "hidden": true,
+    "row": 35
+  },
+  "process": "running",
+  "screen": [
+    "00| Tasks   Projects   Timesheet   Calendar                                                                      all [none]",
+    "01|  ID St Age Done P Tags Wait Due        Until Description",
+    "02|",
+    "03|   4 P  1d       M 1         2026-05-13       Review PR",
+    "04|•  5 P  2d       L 2         2026-05-14       Buy groceries                                                            █",
+    "05|  12 P  5d         1         2026-05-13       Team lunch                                                               ║",
+    "06|   9 P  7d                                    Fix bike                                                                 ║",
+    "07|   3 P  8d         1         2026-05-10       Call plumber                                                             ║",
+    "08|   7 P  10d             2w   2026-07-01       Renew passport                                                           ║",
+    "09|   6 P  11d                                   Plan trip                                                                ║",
+    "10|   1 P  12d      H 1         2026-05-15       Pay rent                                                                 ║",
+    "11|  10 P  2w       L 1         2026-05-20       Water plants                                                             ║",
+    "12|   2 P  3w                                    Write report                                                             ║",
+    "13|   0 D  5w  2d                                Deleted thing                                                            ║",
+    "14|   0 C  6w  1d                                Old chore                                                                ║",
+    "15|   8 P  10w                                   Read book                                                                ║",
+    "16|  11 P  3mo        1                    7mo   Learn piano                                                              ║",
+    "17|",
+    "18|────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────",
+    "19|",
+    "20|Name                  Value",
+    "21|--------------------- ------------------------------------------------------------------------------------------",
+    "22|ID                    5",
+    "23|Description           Buy groceries",
+    "24|Status                Pending",
+    "25|This task is blocking 9 Fix bike",
+    "26|Entered               2026-05-11 08:00:00 (2d)",
+    "27|Due                   2026-05-14 00:00:00",
+    "28|Last modified         2026-05-13 10:00:00 ()",
+    "29|Tags                  errand shop",
+    "30|Virtual tags          BLOCKING DUE MONTH PENDING PRIORITY QUARTER READY TAGGED TOMORROW UDA UNBLOCKED WEEK YEAR",
+    "31|UUID                  00000005-0000-4000-8000-000000000005",
+    "32|Urgency               19.24",
+    "33|Priority              L",
+    "34|Filter Tasks",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        1,
+        6
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "reverse"
+      ],
+      "text": "Tasks"
+    },
+    {
+      "columns": [
+        6,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "reverse"
+      ],
+      "text": "   Projects   Timesheet   Calendar                                                                      all [none]"
+    },
+    {
+      "columns": [
+        0,
+        4
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "  ID"
+    },
+    {
+      "columns": [
+        5,
+        7
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "St"
+    },
+    {
+      "columns": [
+        8,
+        11
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Age"
+    },
+    {
+      "columns": [
+        12,
+        16
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Done"
+    },
+    {
+      "columns": [
+        17,
+        18
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "P"
+    },
+    {
+      "columns": [
+        19,
+        23
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Tags"
+    },
+    {
+      "columns": [
+        24,
+        28
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Wait"
+    },
+    {
+      "columns": [
+        29,
+        39
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Due       "
+    },
+    {
+      "columns": [
+        40,
+        45
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Until"
+    },
+    {
+      "columns": [
+        46,
+        118
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Description                                                             "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 3,
+      "style": [
+        "fg=ffffff",
+        "bg=d75f00"
+      ],
+      "text": "   4 P  1d       M 1         2026-05-13       Review PR                                                               "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 4,
+      "style": [
+        "bold",
+        "fg=cd0000",
+        "bg=ffffff"
+      ],
+      "text": "•  5 P  2d       L 2         2026-05-14       Buy groceries                                                           "
+    },
+    {
+      "columns": [
+        119,
+        120
+      ],
+      "row": 4,
+      "style": [
+        "fg=000000"
+      ],
+      "text": "█"
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 5,
+      "style": [
+        "fg=d70000"
+      ],
+      "text": "  12 P  5d         1         2026-05-13       Team lunch                                                              "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 6,
+      "style": [
+        "fg=e5e5e5",
+        "bg=7f7f7f"
+      ],
+      "text": "   9 P  7d                                    Fix bike                                                                "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 7,
+      "style": [
+        "fg=ff0000"
+      ],
+      "text": "   3 P  8d         1         2026-05-10       Call plumber                                                            "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 8,
+      "style": [
+        "bg=1c1c1c"
+      ],
+      "text": "   7 P  10d             2w   2026-07-01       Renew passport                                                          "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 9,
+      "style": [
+        "bg=00005f"
+      ],
+      "text": "   6 P  11d                                   Plan trip                                                               "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 10,
+      "style": [
+        "fg=cd0000",
+        "bg=1c1c1c"
+      ],
+      "text": "   1 P  12d      H 1         2026-05-15       Pay rent                                                                "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 11,
+      "style": [
+        "fg=cd0000"
+      ],
+      "text": "  10 P  2w       L 1         2026-05-20       Water plants                                                            "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 12,
+      "style": [
+        "bg=1c1c1c"
+      ],
+      "text": "   2 P  3w                                    Write report                                                            "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 14,
+      "style": [
+        "bg=1c1c1c"
+      ],
+      "text": "   0 C  6w  1d                                Old chore                                                               "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 16,
+      "style": [
+        "fg=00af5f",
+        "bg=1c1c1c"
+      ],
+      "text": "  11 P  3mo        1                    7mo   Learn piano                                                             "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "reverse"
+      ],
+      "text": "Filter Tasks                                                                                                            "
+    }
+  ]
+}

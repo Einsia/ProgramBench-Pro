@@ -1,0 +1,198 @@
+{
+  "cursor": {
+    "column": 26,
+    "hidden": true,
+    "row": 35
+  },
+  "process": "running",
+  "screen": [
+    "00| Tasks   Projects   Timesheet   Calendar                                                                     next [none]",
+    "01|  ID Age P Project Tag  Description                                                                               Urg",
+    "02|",
+    "03|•  3 5w  M              Gamma task                                                                                4.12",
+    "04|   2 5w    Beta    beta Beta task                                                                                 2.02",
+    "05|   1 6w    Alpha        Alpha task                                                                                1.23",
+    "06|",
+    "07|      ╭Error─────────────────────────────────────────────────────────────────────────────────────────────────────╮",
+    "08|      │Error: 'zzz' is not a valid date in the 'Y-M-D' format.                                                   │",
+    "09|      │                                                                                                          │",
+    "10|      │                                                                                                          │",
+    "11|      │                                                                                                          │",
+    "12|      │                                                                                                          │",
+    "13|      │                                                                                                          │",
+    "14|      │                                                                                                          │",
+    "15|      │                                                                                                          │",
+    "16|      │                                                                                                          │",
+    "17|      │                                                                                                          │",
+    "18|──────│                                                                                                          │──────",
+    "19|      │                                                                                                          │",
+    "20|Name  │                                                                                                          │",
+    "21|------│                                                                                                          │",
+    "22|ID    │                                                                                                          │",
+    "23|Descri│                                                                                                          │",
+    "24|Status│                                                                                                          │",
+    "25|Entere│                                                                                                          │",
+    "26|Last m│                                                                                                          │",
+    "27|Virtua│                                                                                                          │",
+    "28|UUID  ╰──────────────────────────────────────────────────────────────────────────────────────────────────────────╯",
+    "29|Urgency       4.119",
+    "30|Priority      M",
+    "31|",
+    "32|------------------ ------ - ---- - ------",
+    "33|    age              0.11 *    2 =  0.219",
+    "34|Error",
+    "35|Press any key to continue."
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        1,
+        6
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "reverse"
+      ],
+      "text": "Tasks"
+    },
+    {
+      "columns": [
+        6,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "reverse"
+      ],
+      "text": "   Projects   Timesheet   Calendar                                                                     next [none]"
+    },
+    {
+      "columns": [
+        0,
+        4
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "  ID"
+    },
+    {
+      "columns": [
+        5,
+        8
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Age"
+    },
+    {
+      "columns": [
+        9,
+        10
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "P"
+    },
+    {
+      "columns": [
+        11,
+        18
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Project"
+    },
+    {
+      "columns": [
+        19,
+        23
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Tag "
+    },
+    {
+      "columns": [
+        24,
+        113
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Description                                                                              "
+    },
+    {
+      "columns": [
+        114,
+        118
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Urg "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 3,
+      "style": [
+        "bold"
+      ],
+      "text": "•  3 5w  M              Gamma task                                                                                4.12"
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 4,
+      "style": [
+        "fg=00af5f",
+        "bg=1c1c1c"
+      ],
+      "text": "   2 5w    Beta    beta Beta task                                                                                 2.02"
+    },
+    {
+      "columns": [
+        7,
+        12
+      ],
+      "row": 7,
+      "style": [
+        "bold"
+      ],
+      "text": "Error"
+    },
+    {
+      "columns": [
+        0,
+        5
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=cd0000"
+      ],
+      "text": "Error"
+    }
+  ]
+}

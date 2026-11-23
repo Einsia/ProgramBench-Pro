@@ -1,0 +1,503 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        260,
+        8,
+        48,
+        48
+      ],
+      "ref": "e3565697427",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        308,
+        8,
+        956,
+        48
+      ],
+      "expanded": false,
+      "ref": "e3932625320",
+      "role": "combobox",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "bounds": [
+        348,
+        16,
+        900,
+        32
+      ],
+      "placeholder": "Search",
+      "ref": "e3492990951",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        8,
+        73,
+        240,
+        40
+      ],
+      "href": "/dashboard",
+      "ref": "e4053023811",
+      "role": null,
+      "tag": "a",
+      "text": "Home"
+    },
+    {
+      "bounds": [
+        8,
+        117,
+        240,
+        40
+      ],
+      "href": "/libraries/all",
+      "ref": "e2922887771",
+      "role": null,
+      "tag": "a",
+      "text": "Libraries"
+    },
+    {
+      "bounds": [
+        168,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3616030284",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        204,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3666363141",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        161,
+        240,
+        40
+      ],
+      "href": "/libraries/0S3GG5BNE127E",
+      "ref": "e2905054889",
+      "role": null,
+      "tag": "a",
+      "text": "Comics"
+    },
+    {
+      "bounds": [
+        204,
+        163,
+        36,
+        36
+      ],
+      "ref": "e3699918379",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        205,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e1184854462",
+      "role": "button",
+      "tag": "div",
+      "text": "Import"
+    },
+    {
+      "bounds": [
+        8,
+        245,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e2070932497",
+      "role": "button",
+      "tag": "div",
+      "text": "Media"
+    },
+    {
+      "bounds": [
+        8,
+        285,
+        240,
+        40
+      ],
+      "href": "/history",
+      "ref": "e3700334507",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        8,
+        329,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e3104230938",
+      "role": "button",
+      "tag": "div",
+      "text": "Server"
+    },
+    {
+      "bounds": [
+        8,
+        369,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e1456337507",
+      "role": "button",
+      "tag": "div",
+      "text": "My Account"
+    },
+    {
+      "bounds": [
+        8,
+        453,
+        240,
+        40
+      ],
+      "href": "/next",
+      "ref": "e108006909",
+      "role": null,
+      "tag": "a",
+      "text": "Try the new UI"
+    },
+    {
+      "bounds": [
+        72,
+        530,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e3679130362",
+      "role": "button",
+      "tag": "div",
+      "text": "Theme\nSystem"
+    },
+    {
+      "bounds": [
+        129,
+        530,
+        83,
+        26
+      ],
+      "label": "Theme",
+      "ref": "e2293683443",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        72,
+        594,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e918547495",
+      "role": "button",
+      "tag": "div",
+      "text": "Translation\nEnglish"
+    },
+    {
+      "bounds": [
+        128,
+        594,
+        84,
+        26
+      ],
+      "label": "Translation",
+      "ref": "e965999643",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        260,
+        72,
+        48,
+        48
+      ],
+      "href": "/series/0S3GG5BTJ14AD",
+      "ref": "e164936516",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        308,
+        72,
+        48,
+        48
+      ],
+      "ref": "e1098337195",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        356,
+        72,
+        48,
+        48
+      ],
+      "ref": "e1081559576",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1132,
+        72,
+        48,
+        48
+      ],
+      "href": "/book/0",
+      "ref": "e2246498667",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1180,
+        72,
+        48,
+        48
+      ],
+      "ref": "e1115114814",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1228,
+        72,
+        48,
+        48
+      ],
+      "href": "/book/0S3GG5BTP123F",
+      "ref": "e3378524268",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        528,
+        158,
+        110,
+        28
+      ],
+      "href": "/series/0S3GG5BTJ14AD",
+      "ref": "e1504166030",
+      "role": null,
+      "tag": "a",
+      "text": "Café 漫画"
+    },
+    {
+      "bounds": [
+        642,
+        169,
+        58,
+        14
+      ],
+      "href": "/libraries/0S3GG5BNE127E/series",
+      "ref": "e1367300911",
+      "role": null,
+      "tag": "a",
+      "text": "in Comics"
+    },
+    {
+      "bounds": [
+        528,
+        288,
+        82,
+        28
+      ],
+      "href": "/book/0S3GG5BTP123G/read",
+      "ref": "e2514997865",
+      "role": null,
+      "tag": "a",
+      "text": "READ",
+      "title": "Read book"
+    },
+    {
+      "bounds": [
+        634,
+        288,
+        82,
+        28
+      ],
+      "href": "/book/0S3GG5BTP123G/read?incognito=true",
+      "ref": "e76658620",
+      "role": null,
+      "tag": "a",
+      "text": "READ",
+      "title": "Read incognito"
+    },
+    {
+      "bounds": [
+        740,
+        288,
+        124,
+        28
+      ],
+      "href": "/api/v1/books/0S3GG5BTP123G/file",
+      "ref": "e2485632727",
+      "role": null,
+      "tag": "a",
+      "text": "DOWNLOAD",
+      "title": "Download file"
+    },
+    {
+      "bounds": [
+        447,
+        468,
+        75,
+        24
+      ],
+      "href": "/series/0S3GG5BTJ14AD?writer%5B0%5D=Chlo%C3%A9%20%E6%9E%97",
+      "ref": "e876056289",
+      "role": null,
+      "tag": "a",
+      "text": "Chloé 林",
+      "title": "Chloé 林"
+    },
+    {
+      "bounds": [
+        447,
+        500,
+        77,
+        24
+      ],
+      "href": "/series/0S3GG5BTJ14AD?penciller%5B0%5D=Dana%20Ink",
+      "ref": "e1065426995",
+      "role": null,
+      "tag": "a",
+      "text": "Dana Ink",
+      "title": "Dana Ink"
+    },
+    {
+      "bounds": [
+        447,
+        532,
+        81,
+        24
+      ],
+      "href": "/series/0S3GG5BTJ14AD?tag%5B0%5D%5Btag%5D%5Boperator%5D=is&tag%5B0%5D%5Btag%5D%5Bvalue%5D=volume-1",
+      "ref": "e710069381",
+      "role": null,
+      "tag": "a",
+      "text": "Volume-1",
+      "title": "volume-1"
+    },
+    {
+      "bounds": [
+        536,
+        532,
+        60,
+        24
+      ],
+      "href": "/series/0S3GG5BTJ14AD?tag%5B0%5D%5Btag%5D%5Boperator%5D=is&tag%5B0%5D%5Btag%5D%5Bvalue%5D=bright",
+      "ref": "e611385746",
+      "role": null,
+      "tag": "a",
+      "text": "Bright",
+      "title": "bright"
+    },
+    {
+      "bounds": [
+        280,
+        572,
+        976,
+        48
+      ],
+      "ref": "e3917164080",
+      "role": null,
+      "tag": "button",
+      "text": "Opening arc read list",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        447,
+        636,
+        116,
+        24
+      ],
+      "href": "[external]",
+      "ref": "e2046671616",
+      "role": null,
+      "tag": "a",
+      "text": "example.test"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Komga\nHome\nLibraries\nComics\nImport\nMedia\nHistory\nServer\nMy Account\nLog Out\nTry the new UI\nTheme\nSystem\nTranslation\nEnglish\nCafé 漫画 in Comics\nCafé 漫画 chapter 1\n1 · 4 pages\nJanuary 15, 2022\nREAD\nREAD\nDOWNLOAD\nAdventure 1 in Café 漫画. Café Ω.\nWRITERS\nChloé 林\nPENCILLERS\nDana Ink\nTAGS\nVolume-1\nBright\nOpening arc read list\nLINKS\nexample.test\nSIZE\n2.6 KiB\nFORMAT\nCBZ\nFILE\n/exchange/inbox/Comics/Café 漫画/Café 漫画-01.cbz\nCREATED\nNovember 1, 2026 at 10:28 AM\nLAST MODIFIED\nNovember 1, 2026 at 10:28 AM",
+  "text_truncated": false,
+  "title": "Komga - Café 漫画 chapter 1",
+  "url": "/book/0S3GG5BTP123G",
+  "viewport": [
+    1280,
+    900
+  ]
+}

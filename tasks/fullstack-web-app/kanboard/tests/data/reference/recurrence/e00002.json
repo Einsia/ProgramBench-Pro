@@ -1,0 +1,915 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e1348",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e1349",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/task/1",
+      "ref": "e1350",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/task/1",
+      "ref": "e1351",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "aria": "Configure this project",
+      "bounds": [
+        10,
+        48,
+        29,
+        17
+      ],
+      "href": "/task/1",
+      "ref": "e1352",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Configure this project"
+    },
+    {
+      "bounds": [
+        53,
+        49,
+        81,
+        16
+      ],
+      "href": "/project/1/overview/status%3Aopen",
+      "ref": "e1353",
+      "role": null,
+      "tag": "a",
+      "text": "Overview",
+      "title": "Keyboard shortcut: \"v o\""
+    },
+    {
+      "bounds": [
+        155,
+        49,
+        60,
+        16
+      ],
+      "href": "/board/1/search/status%3Aopen",
+      "ref": "e1354",
+      "role": null,
+      "tag": "a",
+      "text": "Board",
+      "title": "Keyboard shortcut: \"v b\""
+    },
+    {
+      "bounds": [
+        236,
+        49,
+        44,
+        16
+      ],
+      "href": "/list/1/search/status%3Aopen",
+      "ref": "e1355",
+      "role": null,
+      "tag": "a",
+      "text": "List",
+      "title": "Keyboard shortcut: \"v l\""
+    },
+    {
+      "aria": "Filter",
+      "bounds": [
+        299,
+        44,
+        850,
+        28
+      ],
+      "name": "search",
+      "placeholder": "Filter",
+      "ref": "e1356",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "status:open"
+    },
+    {
+      "aria": "Default filters",
+      "bounds": [
+        1161,
+        49,
+        36,
+        16
+      ],
+      "href": "/task/1",
+      "ref": "e1357",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Default filters"
+    },
+    {
+      "aria": "Custom filters",
+      "bounds": [
+        1221,
+        49,
+        36,
+        16
+      ],
+      "href": "/task/1",
+      "ref": "e1358",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "User filters"
+    },
+    {
+      "bounds": [
+        10,
+        125,
+        92,
+        17
+      ],
+      "href": "/task/1",
+      "ref": "e1359",
+      "role": null,
+      "tag": "a",
+      "text": "Summary"
+    },
+    {
+      "bounds": [
+        10,
+        161,
+        128,
+        17
+      ],
+      "href": "/task/1/activity",
+      "ref": "e1360",
+      "role": null,
+      "tag": "a",
+      "text": "Activity stream"
+    },
+    {
+      "bounds": [
+        10,
+        197,
+        101,
+        17
+      ],
+      "href": "/task/1/transitions",
+      "ref": "e1361",
+      "role": null,
+      "tag": "a",
+      "text": "Transitions"
+    },
+    {
+      "bounds": [
+        10,
+        233,
+        88,
+        17
+      ],
+      "href": "/task/1/analytics",
+      "ref": "e1362",
+      "role": null,
+      "tag": "a",
+      "text": "Analytics"
+    },
+    {
+      "bounds": [
+        10,
+        320,
+        112,
+        17
+      ],
+      "href": "/task/1/edit",
+      "ref": "e1363",
+      "role": null,
+      "tag": "a",
+      "text": "Edit the task"
+    },
+    {
+      "bounds": [
+        10,
+        356,
+        132,
+        17
+      ],
+      "focused": true,
+      "href": "/task/1/recurrence/edit",
+      "ref": "e1364",
+      "role": null,
+      "tag": "a",
+      "text": "Edit recurrence"
+    },
+    {
+      "bounds": [
+        10,
+        392,
+        130,
+        17
+      ],
+      "href": "/task/1/subtask/create",
+      "ref": "e1365",
+      "role": null,
+      "tag": "a",
+      "text": "Add a sub-task"
+    },
+    {
+      "bounds": [
+        10,
+        428,
+        137,
+        17
+      ],
+      "href": "/task/1/internal-link/create",
+      "ref": "e1366",
+      "role": null,
+      "tag": "a",
+      "text": "Add internal link"
+    },
+    {
+      "bounds": [
+        10,
+        464,
+        142,
+        17
+      ],
+      "href": "/task/1/external-link/find",
+      "ref": "e1367",
+      "role": null,
+      "tag": "a",
+      "text": "Add external link"
+    },
+    {
+      "bounds": [
+        10,
+        500,
+        136,
+        17
+      ],
+      "href": "/task/1/comment/create",
+      "ref": "e1368",
+      "role": null,
+      "tag": "a",
+      "text": "Add a comment"
+    },
+    {
+      "bounds": [
+        10,
+        536,
+        157,
+        17
+      ],
+      "href": "/task/1/file/create",
+      "ref": "e1369",
+      "role": null,
+      "tag": "a",
+      "text": "Attach a document"
+    },
+    {
+      "bounds": [
+        10,
+        572,
+        148,
+        17
+      ],
+      "href": "/task/1/file/screenshot",
+      "ref": "e1370",
+      "role": null,
+      "tag": "a",
+      "text": "Add a screenshot"
+    },
+    {
+      "bounds": [
+        10,
+        608,
+        90,
+        17
+      ],
+      "href": "/task/1/duplicate",
+      "ref": "e1371",
+      "role": null,
+      "tag": "a",
+      "text": "Duplicate"
+    },
+    {
+      "bounds": [
+        10,
+        644,
+        161,
+        17
+      ],
+      "href": "/task/1/copy-to-project/1",
+      "ref": "e1372",
+      "role": null,
+      "tag": "a",
+      "text": "Duplicate to project"
+    },
+    {
+      "bounds": [
+        10,
+        680,
+        133,
+        17
+      ],
+      "href": "/task/1/move-to-project/1",
+      "ref": "e1373",
+      "role": null,
+      "tag": "a",
+      "text": "Move to project"
+    },
+    {
+      "bounds": [
+        10,
+        716,
+        125,
+        17
+      ],
+      "href": "/task/1/email/create",
+      "ref": "e1374",
+      "role": null,
+      "tag": "a",
+      "text": "Send by email"
+    },
+    {
+      "bounds": [
+        10,
+        752,
+        122,
+        17
+      ],
+      "href": "/task/1/position/show",
+      "ref": "e1375",
+      "role": null,
+      "tag": "a",
+      "text": "Move position"
+    },
+    {
+      "bounds": [
+        10,
+        788,
+        128,
+        17
+      ],
+      "href": "/task/1/close",
+      "ref": "e1376",
+      "role": null,
+      "tag": "a",
+      "text": "Close this task"
+    },
+    {
+      "bounds": [
+        10,
+        824,
+        83,
+        17
+      ],
+      "href": "/task/1/remove/redirect/board",
+      "ref": "e1377",
+      "role": null,
+      "tag": "a",
+      "text": "Remove"
+    },
+    {
+      "bounds": [
+        891,
+        134,
+        92,
+        17
+      ],
+      "href": "/task/1/assign-to-me/a8879b27526b55fd573dd9a58dca865a2f4528a79ce624accafb245ded77f040",
+      "ref": "e1378",
+      "role": null,
+      "tag": "a",
+      "text": "Assign to me"
+    },
+    {
+      "bounds": [
+        1121,
+        157,
+        68,
+        17
+      ],
+      "href": "/task/1/start/7e0e21865ee3080c0179aa1208728460afc37ee50d45d00e59241f08572da0b1",
+      "ref": "e1379",
+      "role": null,
+      "tag": "a",
+      "text": "Start now"
+    },
+    {
+      "bounds": [
+        250,
+        273,
+        1020,
+        22
+      ],
+      "ref": "e1380",
+      "role": null,
+      "tag": "summary",
+      "text": "Description"
+    },
+    {
+      "bounds": [
+        250,
+        305,
+        1020,
+        22
+      ],
+      "ref": "e1381",
+      "role": null,
+      "tag": "summary",
+      "text": "Sub-Tasks"
+    },
+    {
+      "bounds": [
+        250,
+        337,
+        1020,
+        22
+      ],
+      "ref": "e1382",
+      "role": null,
+      "tag": "summary",
+      "text": "Internal links"
+    },
+    {
+      "bounds": [
+        250,
+        369,
+        1020,
+        22
+      ],
+      "ref": "e1383",
+      "role": null,
+      "tag": "summary",
+      "text": "External links"
+    },
+    {
+      "bounds": [
+        250,
+        401,
+        1020,
+        22
+      ],
+      "ref": "e1384",
+      "role": null,
+      "tag": "summary",
+      "text": "Attachments"
+    },
+    {
+      "bounds": [
+        250,
+        433,
+        1020,
+        22
+      ],
+      "ref": "e1385",
+      "role": null,
+      "tag": "summary",
+      "text": "Comments"
+    },
+    {
+      "bounds": [
+        947,
+        472,
+        109,
+        15
+      ],
+      "href": "/task/1/comment/create",
+      "ref": "e1386",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1060,
+        472,
+        106,
+        15
+      ],
+      "href": "/?controller=CommentController&action=toggleSorting&task_id=1&csrf_token=e7e7f3ee85b381c750177c6b6a98fbdad6d23ef67e8a8c2df69651f9a4c70335",
+      "ref": "e1387",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1169,
+        472,
+        101,
+        15
+      ],
+      "href": "/?controller=CommentMailController&action=create&task_id=1",
+      "ref": "e1388",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        250,
+        498,
+        85,
+        17
+      ],
+      "href": "/task/1",
+      "ref": "e1389",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        345,
+        498,
+        24,
+        17
+      ],
+      "href": "/task/1",
+      "ref": "e1390",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        378,
+        498,
+        24,
+        17
+      ],
+      "href": "/task/1",
+      "ref": "e1391",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        412,
+        498,
+        24,
+        17
+      ],
+      "href": "/task/1",
+      "ref": "e1392",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        446,
+        498,
+        24,
+        17
+      ],
+      "href": "/task/1",
+      "ref": "e1393",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        479,
+        498,
+        24,
+        17
+      ],
+      "href": "/task/1",
+      "ref": "e1394",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        513,
+        498,
+        24,
+        17
+      ],
+      "href": "/task/1",
+      "ref": "e1395",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        546,
+        498,
+        24,
+        17
+      ],
+      "href": "/task/1",
+      "ref": "e1396",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "aria": "New comment",
+      "bounds": [
+        250,
+        516,
+        710,
+        100
+      ],
+      "name": "comment",
+      "placeholder": "Write your text in Markdown",
+      "ref": "e1397",
+      "required": true,
+      "role": null,
+      "tag": "textarea",
+      "text": "",
+      "type": "textarea",
+      "value": ""
+    },
+    {
+      "bounds": [
+        250,
+        648,
+        236,
+        21
+      ],
+      "name": "visibility",
+      "options": [
+        {
+          "disabled": false,
+          "label": "Standard users",
+          "selected": true,
+          "value": "app-user"
+        },
+        {
+          "disabled": false,
+          "label": "Application managers or more",
+          "selected": false,
+          "value": "app-manager"
+        },
+        {
+          "disabled": false,
+          "label": "Administrators",
+          "selected": false,
+          "value": "app-admin"
+        }
+      ],
+      "ref": "e1398",
+      "role": null,
+      "tag": "select",
+      "text": "",
+      "value": "app-user"
+    },
+    {
+      "bounds": [
+        250,
+        689,
+        66,
+        30
+      ],
+      "ref": "e1399",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1131,
+        18,
+        16,
+        17
+      ],
+      "href": "/task/1",
+      "ref": "e1400",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        133,
+        176,
+        49,
+        21
+      ],
+      "label": "Generate recurrent task",
+      "name": "recurrence_status",
+      "options": [
+        {
+          "disabled": false,
+          "label": "No",
+          "selected": false,
+          "value": "0"
+        },
+        {
+          "disabled": false,
+          "label": "Yes",
+          "selected": true,
+          "value": "1"
+        }
+      ],
+      "ref": "e1401",
+      "role": null,
+      "tag": "select",
+      "text": "No\nYes",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        133,
+        225,
+        289,
+        21
+      ],
+      "label": "Trigger to generate recurrent task",
+      "name": "recurrence_trigger",
+      "options": [
+        {
+          "disabled": false,
+          "label": "When task is moved from first column",
+          "selected": false,
+          "value": "0"
+        },
+        {
+          "disabled": false,
+          "label": "When task is moved to last column",
+          "selected": false,
+          "value": "1"
+        },
+        {
+          "disabled": false,
+          "label": "When task is closed",
+          "selected": true,
+          "value": "2"
+        }
+      ],
+      "ref": "e1402",
+      "role": null,
+      "tag": "select",
+      "text": "When task is moved from first column\nWhen task is moved to last column\nWhen task is closed",
+      "value": "2"
+    },
+    {
+      "bounds": [
+        133,
+        274,
+        78,
+        28
+      ],
+      "label": "Factor to calculate new due date",
+      "name": "recurrence_factor",
+      "ref": "e1403",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "7"
+    },
+    {
+      "bounds": [
+        133,
+        330,
+        86,
+        21
+      ],
+      "label": "Timeframe to calculate new due date",
+      "name": "recurrence_timeframe",
+      "options": [
+        {
+          "disabled": false,
+          "label": "Day(s)",
+          "selected": true,
+          "value": "0"
+        },
+        {
+          "disabled": false,
+          "label": "Month(s)",
+          "selected": false,
+          "value": "1"
+        },
+        {
+          "disabled": false,
+          "label": "Year(s)",
+          "selected": false,
+          "value": "2"
+        }
+      ],
+      "ref": "e1404",
+      "role": null,
+      "tag": "select",
+      "text": "Day(s)\nMonth(s)\nYear(s)",
+      "value": "0"
+    },
+    {
+      "bounds": [
+        133,
+        379,
+        145,
+        21
+      ],
+      "label": "Base date to calculate new due date",
+      "name": "recurrence_basedate",
+      "options": [
+        {
+          "disabled": false,
+          "label": "Existing due date",
+          "selected": true,
+          "value": "0"
+        },
+        {
+          "disabled": false,
+          "label": "Action date",
+          "selected": false,
+          "value": "1"
+        }
+      ],
+      "ref": "e1405",
+      "role": null,
+      "tag": "select",
+      "text": "Existing due date\nAction date",
+      "value": "0"
+    },
+    {
+      "bounds": [
+        133,
+        420,
+        66,
+        30
+      ],
+      "ref": "e1406",
+      "role": null,
+      "tag": "button",
+      "text": "Save"
+    },
+    {
+      "bounds": [
+        222,
+        427,
+        46,
+        17
+      ],
+      "href": "/task/1",
+      "ref": "e1407",
+      "role": null,
+      "tag": "a",
+      "text": "cancel"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Website\n \n \nA\nOverview Board List\nTask #1\nSummary\nActivity stream\nTransitions\nAnalytics\nActions\nEdit the task\nEdit recurrence\nAdd a sub-task\nAdd internal link\nAdd external link\nAdd a comment\nAttach a document\nAdd a screenshot\nDuplicate\nDuplicate to project\nMove to project\nSend by email\nMove position\nClose this task\nRemove\nWeekly backup check\nStatus: open\nPriority: 0\nSwimlane: Default swimlane\nColumn: Backlog\nPosition: 1\nAssignee: not assigned - Assign to me\nCreator: admin\nDue date: 04/20/2026 09:00\nStarted: Start now\nCreated: 04/14/2026 08:00\nModified: 04/14/2026 08:00\nMoved: 04/14/2026 08:00\nDescription\nSub-Tasks\nInternal links\nExternal links\nAttachments\nComments\nEdit recurrence\nRecurrent task is scheduled to be generated\nGenerate recurrent task\nNo\nYes\nTrigger to generate recurrent task\nWhen task is moved from first column\nWhen task is moved to last column\nWhen task is closed\nFactor to calculate new due date\nTimeframe to calculate new due date\nDay(s)\nMonth(s)\nYear(s)\nBase date to calculate new due date\nExisting due date\nAction date\nSave or cancel",
+  "text_truncated": false,
+  "title": "Website, #1 - Weekly backup check",
+  "url": "/task/1",
+  "viewport": [
+    1280,
+    900
+  ]
+}

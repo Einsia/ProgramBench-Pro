@@ -1,0 +1,14 @@
+#!/usr/bin/env python3
+"""Check product-specific artifact names in the development image."""
+import subprocess
+import sys
+
+SCAN = 'import os\nfound=[]\nbuilt={"index-T7tB5J9p.js","index-DWWlWQd8.css","index.es-CtLLRtUz.js","html2canvas-CiMIl8j_.js","purify.es-Bs0Imjnk.js"}\nfor d,ds,fs in os.walk("/"):\n    ds[:]=[x for x in ds if os.path.join(d,x) not in ("/proc","/sys","/dev")]\n    found+=[os.path.join(d,f) for f in fs if f.startswith("drawdb") or f in built]\nprint("\\n".join(found))'
+
+result = subprocess.run(['docker', 'run', '--rm', '--network', 'none', '--user', '0',
+                         '--entrypoint', 'python3', sys.argv[1], '-B', '-c', SCAN],
+                        capture_output=True, text=True, check=True)
+paths = [line for line in result.stdout.splitlines() if line.strip()]
+if paths:
+    raise SystemExit('development image contains product artifacts: ' + ', '.join(paths[:20]))
+print('product-specific artifact names: absent')

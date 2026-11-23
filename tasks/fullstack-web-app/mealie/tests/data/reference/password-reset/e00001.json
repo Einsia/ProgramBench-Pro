@@ -1,0 +1,122 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        0,
+        0,
+        48,
+        48
+      ],
+      "href": "/",
+      "ref": "e6999663049315888676",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        0,
+        0,
+        48,
+        48
+      ],
+      "ref": "e11102633781375530811",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        518,
+        128,
+        280,
+        56
+      ],
+      "focused": true,
+      "label": "Email",
+      "name": "login",
+      "ref": "e15237844890247964127",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        518,
+        206,
+        280,
+        56
+      ],
+      "label": "Password",
+      "name": "password",
+      "ref": "e2101313251791071638",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": ""
+    },
+    {
+      "bounds": [
+        518,
+        284,
+        280,
+        56
+      ],
+      "label": "Confirm Password",
+      "name": "password",
+      "ref": "e13891112298441226450",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": ""
+    },
+    {
+      "bounds": [
+        490,
+        390,
+        300,
+        44
+      ],
+      "ref": "e13338791161784767483",
+      "role": null,
+      "tag": "button",
+      "text": "Reset Password"
+    },
+    {
+      "bounds": [
+        607,
+        458,
+        67,
+        36
+      ],
+      "href": "/login",
+      "ref": "e3688188270196816927",
+      "role": null,
+      "tag": "a",
+      "text": "Login"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Mealie\nReset Password\nEmail\nPassword\nConfirm Password\n\nPlease enter your new password.\n\nReset Password\nLogin",
+  "text_truncated": false,
+  "title": "Login",
+  "url": "/reset-password/?token=FLXB967JKI3mUW0gP0Ia3b10zG6e9xtI",
+  "viewport": [
+    1280,
+    900
+  ]
+}

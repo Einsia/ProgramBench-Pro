@@ -1,0 +1,219 @@
+{
+  "cursor": {
+    "column": 72,
+    "hidden": true,
+    "row": 35
+  },
+  "process": "running",
+  "screen": [
+    "00|┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐",
+    "01|│                                                   general options                                                    │",
+    "02|├──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤",
+    "03|│ (preferred todo display)                                                                                             │",
+    "04|│                                                                                                                      │",
+    "05|│ general.multipledays = no                                                                                            │",
+    "06|│ (display more than one day in the appointments panel)                                                                │",
+    "07|│",
+    "08|│ appearance.headerline = yes",
+    "09|│ (horizontal line above the day heading)",
+    "10|│",
+    "11|│ appearance.eventseparator = yes",
+    "12|│ (empty line between events and appointments)",
+    "13|│",
+    "14|│ appearance.dayseparator = yes",
+    "15|│ (each day ends with an empty line)",
+    "16|│",
+    "17|│ appearance.emptyline = yes",
+    "18|│ (insert an empty line after each appointment)",
+    "19|│                                                                                                                      │",
+    "20|│ appearance.emptyday = --                                                                                             │",
+    "21|│ (text for a day without events and appointments)                                                                     │",
+    "22|│                                                                                                                      │",
+    "23|│ general.autosave = yes                                                                                               │",
+    "24|│ (if set to YES, automatic save is done when quitting)                                                                │",
+    "25|│                                                                                                                      │",
+    "26|│ general.autogc = no                                                                                                  │",
+    "27|│ (run the garbage collector when quitting)                                                                            │",
+    "28|│                                                                                                                      │",
+    "29|│ general.periodicsave = 15                                                                                            │",
+    "30|│ (if not null, automatically save data every 'periodic_save' minutes)                                                 │",
+    "31|│                                                                                                                      │",
+    "32|└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘",
+    "33|───[ Wed 2026-03-18 | 09:30:00 ]───(apts)───> 00:30 :: Example <────────────────────────────────────────────────────────",
+    "34|  q Quit                                                      j Down",
+    "35|  k Up                                                        e Edit Itm"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        52,
+        67
+      ],
+      "row": 1,
+      "style": [
+        "fg=red"
+      ],
+      "text": "general options"
+    },
+    {
+      "columns": [
+        25,
+        27
+      ],
+      "row": 5,
+      "style": [
+        "fg=red"
+      ],
+      "text": "no"
+    },
+    {
+      "columns": [
+        26,
+        29
+      ],
+      "row": 8,
+      "style": [
+        "fg=green"
+      ],
+      "text": "yes"
+    },
+    {
+      "columns": [
+        30,
+        33
+      ],
+      "row": 11,
+      "style": [
+        "fg=green"
+      ],
+      "text": "yes"
+    },
+    {
+      "columns": [
+        28,
+        31
+      ],
+      "row": 14,
+      "style": [
+        "fg=green"
+      ],
+      "text": "yes"
+    },
+    {
+      "columns": [
+        25,
+        28
+      ],
+      "row": 17,
+      "style": [
+        "fg=green"
+      ],
+      "text": "yes"
+    },
+    {
+      "columns": [
+        24,
+        26
+      ],
+      "row": 20,
+      "style": [
+        "fg=red"
+      ],
+      "text": "--"
+    },
+    {
+      "columns": [
+        21,
+        24
+      ],
+      "row": 23,
+      "style": [
+        "fg=green"
+      ],
+      "text": "yes"
+    },
+    {
+      "columns": [
+        19,
+        21
+      ],
+      "row": 26,
+      "style": [
+        "fg=red"
+      ],
+      "text": "no"
+    },
+    {
+      "columns": [
+        2,
+        27
+      ],
+      "row": 29,
+      "style": [
+        "fg=red"
+      ],
+      "text": "general.periodicsave = 15"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 33,
+      "style": [
+        "underline",
+        "reverse",
+        "fg=red"
+      ],
+      "text": "───[ Wed 2026-03-18 | 09:30:00 ]───(apts)───> 00:30 :: Example <────────────────────────────────────────────────────────"
+    },
+    {
+      "columns": [
+        2,
+        3
+      ],
+      "row": 34,
+      "style": [
+        "fg=red"
+      ],
+      "text": "q"
+    },
+    {
+      "columns": [
+        62,
+        63
+      ],
+      "row": 34,
+      "style": [
+        "fg=red"
+      ],
+      "text": "j"
+    },
+    {
+      "columns": [
+        2,
+        3
+      ],
+      "row": 35,
+      "style": [
+        "fg=red"
+      ],
+      "text": "k"
+    },
+    {
+      "columns": [
+        62,
+        63
+      ],
+      "row": 35,
+      "style": [
+        "fg=red"
+      ],
+      "text": "e"
+    }
+  ]
+}

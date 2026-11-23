@@ -1,0 +1,362 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        559,
+        -44,
+        162,
+        36
+      ],
+      "href": "/feed/1/entries#main",
+      "offscreen": true,
+      "ref": "e380",
+      "role": null,
+      "tag": "a",
+      "text": "Skip to content"
+    },
+    {
+      "aria": "Home page",
+      "bounds": [
+        193,
+        10,
+        77,
+        19
+      ],
+      "href": "/unread",
+      "ref": "e381",
+      "role": null,
+      "tag": "a",
+      "text": "Mini\nflux"
+    },
+    {
+      "aria": "Unread, 1 unread entry",
+      "bounds": [
+        278,
+        12,
+        102,
+        16
+      ],
+      "href": "/unread",
+      "ref": "e382",
+      "role": null,
+      "tag": "a",
+      "text": "Unread (1)"
+    },
+    {
+      "bounds": [
+        395,
+        12,
+        78,
+        16
+      ],
+      "href": "/starred",
+      "ref": "e383",
+      "role": null,
+      "tag": "a",
+      "text": "Starred"
+    },
+    {
+      "bounds": [
+        488,
+        12,
+        78,
+        16
+      ],
+      "href": "/history",
+      "ref": "e384",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        581,
+        12,
+        70,
+        16
+      ],
+      "href": "/feeds",
+      "ref": "e385",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "aria": "Add feed",
+      "bounds": [
+        650,
+        12,
+        26,
+        16
+      ],
+      "href": "/subscribe",
+      "ref": "e386",
+      "role": null,
+      "tag": "a",
+      "text": "(+)",
+      "title": "Keyboard Shortcut: +"
+    },
+    {
+      "bounds": [
+        691,
+        12,
+        104,
+        16
+      ],
+      "href": "/categories",
+      "ref": "e387",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        810,
+        12,
+        70,
+        16
+      ],
+      "href": "/search",
+      "ref": "e388",
+      "role": null,
+      "tag": "a",
+      "text": "Search"
+    },
+    {
+      "bounds": [
+        894,
+        12,
+        87,
+        16
+      ],
+      "href": "/settings",
+      "ref": "e389",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        996,
+        10,
+        70,
+        18
+      ],
+      "ref": "e390",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "title": "Logged in as alice"
+    },
+    {
+      "bounds": [
+        193,
+        49,
+        230,
+        27
+      ],
+      "href": "[external]",
+      "ref": "e391",
+      "role": null,
+      "tag": "a",
+      "text": "Corner Atom feed",
+      "title": "http://corner.test/"
+    },
+    {
+      "bounds": [
+        193,
+        81,
+        181,
+        18
+      ],
+      "ref": "e392",
+      "role": null,
+      "tag": "button",
+      "text": "Mark this page as read"
+    },
+    {
+      "bounds": [
+        398,
+        81,
+        132,
+        18
+      ],
+      "ref": "e393",
+      "role": null,
+      "tag": "button",
+      "text": "Mark all as read"
+    },
+    {
+      "bounds": [
+        555,
+        82,
+        172,
+        18
+      ],
+      "href": "/feed/1/entries/all",
+      "ref": "e394",
+      "role": null,
+      "tag": "a",
+      "text": "Show all entries"
+    },
+    {
+      "bounds": [
+        751,
+        81,
+        74,
+        18
+      ],
+      "ref": "e395",
+      "role": null,
+      "tag": "button",
+      "text": "Refresh"
+    },
+    {
+      "bounds": [
+        850,
+        82,
+        56,
+        18
+      ],
+      "href": "/feed/1/edit",
+      "ref": "e396",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        193,
+        110,
+        143,
+        18
+      ],
+      "ref": "e397",
+      "role": null,
+      "tag": "button",
+      "text": "Remove this feed"
+    },
+    {
+      "bounds": [
+        199,
+        179,
+        173,
+        18
+      ],
+      "href": "/unread/feed/1/entry/1",
+      "ref": "e398",
+      "role": null,
+      "tag": "a",
+      "text": "Corner Atom entry"
+    },
+    {
+      "aria": "Category: All",
+      "bounds": [
+        381,
+        182,
+        22,
+        14
+      ],
+      "href": "/category/1/entries",
+      "ref": "e399",
+      "role": null,
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        199,
+        203,
+        104,
+        12
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e400",
+      "role": null,
+      "tag": "a",
+      "text": "Corner Atom feed",
+      "title": "http://corner.test/"
+    },
+    {
+      "bounds": [
+        199,
+        224,
+        95,
+        16
+      ],
+      "ref": "e401",
+      "role": null,
+      "tag": "button",
+      "text": "Mark as read",
+      "title": "Change entry status"
+    },
+    {
+      "bounds": [
+        309,
+        224,
+        43,
+        16
+      ],
+      "ref": "e402",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        369,
+        226,
+        120,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e403",
+      "role": null,
+      "tag": "a",
+      "text": "External link"
+    },
+    {
+      "bounds": [
+        193,
+        271,
+        181,
+        18
+      ],
+      "ref": "e404",
+      "role": null,
+      "tag": "button",
+      "text": "Mark this page as read"
+    },
+    {
+      "bounds": [
+        599,
+        313,
+        134,
+        20
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e405",
+      "role": null,
+      "tag": "a",
+      "text": "Back to top"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Skip to content\nMini\nflux\nUnread (1) Starred History Feeds (+) Categories Search Settings Logout\nCorner Atom feed (1)\n1 unread entry\nMark this page as read Mark all as read Show all entries Refresh Edit Remove this feed\nFirst\nPrevious\nNext \nLast \nCorner Atom entry All\nCorner Atom feed  1 year ago  1 minute read\nMark as read Star External link\nMark this page as read\nFirst\nPrevious\nBack to top\nNext \nLast ",
+  "text_truncated": false,
+  "title": "Corner Atom feed (1) - Miniflux",
+  "url": "/feed/1/entries",
+  "viewport": [
+    1280,
+    900
+  ]
+}

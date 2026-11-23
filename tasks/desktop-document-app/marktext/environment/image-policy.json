@@ -1,0 +1,36 @@
+{
+  "reference_paths": [
+    "/app/solution/marktext-app/marktext",
+    "/app/solution/marktext-app/resources/app.asar"
+  ],
+  "shared_solution_files": [
+    {
+      "file": "LICENSE",
+      "reason": "Unmodified third-party license/attribution text may also accompany a system or development dependency; contains no implementation."
+    },
+    {
+      "file": "LICENSES/chromium.txt",
+      "reason": "Unmodified third-party license/attribution text may also accompany a system or development dependency; contains no implementation."
+    },
+    {
+      "file": "LICENSES/font-list.txt",
+      "reason": "Unmodified third-party license/attribution text may also accompany a system or development dependency; contains no implementation."
+    },
+    {
+      "file": "LICENSES/keytar.txt",
+      "reason": "Unmodified third-party license/attribution text may also accompany a system or development dependency; contains no implementation."
+    },
+    {
+      "file": "LICENSES/electron.txt",
+      "reason": "Unmodified third-party license/attribution text may also accompany a system or development dependency; contains no implementation."
+    },
+    {
+      "file": "LICENSES/ced.txt",
+      "reason": "Unmodified third-party license/attribution text may also accompany a system or development dependency; contains no implementation."
+    },
+    {
+      "file": "LICENSES/ripgrep-linux-x64.txt",
+      "reason": "Unmodified third-party license/attribution text may also accompany a system or development dependency; contains no implementation."
+    }
+  ]
+}

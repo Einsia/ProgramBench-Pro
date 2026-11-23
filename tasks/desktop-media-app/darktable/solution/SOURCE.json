@@ -1,0 +1,30 @@
+{
+  "task": "darktable",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "darktable",
+    "version": "5.6.2",
+    "homepage": "https://www.darktable.org/",
+    "repository": "https://github.com/darktable-org/darktable",
+    "license": "GPL-3.0-or-later"
+  },
+  "downloads": [
+    {
+      "file": "Darktable-5.6.2-x86_64.AppImage",
+      "url": "https://github.com/darktable-org/darktable/releases/download/release-5.6.2/Darktable-5.6.2-x86_64.AppImage",
+      "sha256": "4b0d1c737a2a18c7d8afb81aa3daaf25930bbe541dda98e6354dabd5c2e4dc36"
+    },
+    {
+      "file": "darktable-5.6.2.tar.xz",
+      "url": "https://github.com/darktable-org/darktable/releases/download/release-5.6.2/darktable-5.6.2.tar.xz",
+      "sha256": "d2da92c670401d350b576431f21e58bee40348e1f5078201a8a1b8c270585834"
+    }
+  ],
+  "bundled": [],
+  "modifications": "The installer extracts the official AppImage, replaces its Lua startup script with an empty script and removes bundled Lua scripts. Product executables, libraries and image processing modules retain their upstream bytes. launch.py supplies instance directories, defaults, CPU limits and required Landlock confinement.",
+  "configuration": "The GUI and command-line exporter use separate configuration and cache directories under DATA_DIR and XDG_CACHE_HOME; the home folder is the document exchange root. Welcome setup and OpenCL are disabled, Lua scripts are absent, and external AI libraries and audio-player programs are disabled. File writes and program execution require Landlock, with rights limited to the supported kernel ABI.",
+  "notes": {
+    "corresponding_source": "The darktable-5.6.2.tar.xz source release is retained with the installed package.",
+    "component_notices": "The AppImage includes the darktable and PhotoSwipe license notices; bundled libraries retain their upstream licenses."
+  }
+}

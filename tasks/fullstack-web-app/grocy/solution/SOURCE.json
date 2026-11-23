@@ -1,0 +1,45 @@
+{
+  "task": "grocy",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "Grocy",
+    "version": "4.7.1",
+    "homepage": "https://grocy.info/",
+    "repository": "https://github.com/grocy/grocy",
+    "license": "MIT"
+  },
+  "downloads": [
+    {
+      "file": "grocy_4.7.1.zip",
+      "url": "https://github.com/grocy/grocy/releases/download/v4.7.1/grocy_4.7.1.zip",
+      "sha256": "c4a10e96ed76664baf465e9b27dc7a31aa08c0e3ad876afdfae4f1ff9ab2fc19"
+    }
+  ],
+  "bundled": [
+    {
+      "file": "php-runtime-8.5.12.tar.gz",
+      "built_from": "PHP 8.5.12 compiled from the official php.net source for Ubuntu 24.04 x86_64 with the CLI and Grocy required extensions. The installed opt/php/bin/php, Ubuntu shared libraries missing from the base image, and their license notices were gathered under opt/php and archived. The program and libraries are unmodified; PHP input and build flags are recorded in notes."
+    }
+  ],
+  "modifications": "Upstream release and PHP runtime are unmodified. Local launch/seed/router scripts configure the data directory, offline barcode lookup and PHP web serving.",
+  "configuration": "SQLite under DATA_DIR; initial admin/admin account; English locale and UTC; the upstream DemoBarcodeLookupPlugin replaces the network barcode lookup; printer features remain disabled. The runtime supplies the advancing application/browser clock with its documented fixed start.",
+  "notes": {
+    "php_source": {
+      "url": "https://www.php.net/distributions/php-8.5.12.tar.xz",
+      "version": "8.5.12",
+      "sha256": "08bc2eba2a588654ade1357174aa646b761556c862dda0678345ee29ed481209",
+      "license": "PHP-3.01"
+    },
+    "runtime_layout": "opt/php/bin/php, opt/php/lib, opt/php/share/licenses",
+    "faketime_source": {
+      "version": "0.9.12",
+      "url": "https://github.com/wolfcw/libfaketime/archive/refs/tags/v0.9.12.tar.gz",
+      "license": "GPL-2.0-only"
+    },
+    "source": {
+      "url": "https://github.com/grocy/grocy/archive/refs/tags/v4.7.1.tar.gz",
+      "sha256": "7711d0e4fd5416489e48ced5092530ad2a0ec187e4af91a664f21321541dd619"
+    },
+    "php_configure": "'./configure'  '--prefix=/opt/php' '--disable-cgi' '--disable-phpdbg' '--without-pear' '--enable-cli' '--with-pdo-sqlite' '--with-sqlite3' '--enable-intl' '--enable-mbstring' '--enable-gd' '--with-freetype' '--with-jpeg' '--with-webp' '--with-zlib' '--enable-ctype' '--enable-fileinfo' '--enable-filter' '--with-iconv' '--enable-tokenizer' '--enable-dom' '--enable-xml' '--with-password-argon2' '--enable-simplexml' '--enable-session' '--enable-opcache'"
+  }
+}

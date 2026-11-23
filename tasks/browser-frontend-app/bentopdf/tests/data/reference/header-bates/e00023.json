@@ -1,0 +1,398 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        0,
+        1182,
+        21
+      ],
+      "ref": "e338bacae",
+      "tag": "div",
+      "text": "Click to select a file or drag and drop PDF files (multiple supported) Your files never leave your device."
+    },
+    {
+      "bounds": [
+        49,
+        37,
+        176,
+        40
+      ],
+      "ref": "e4b856335",
+      "tag": "button",
+      "text": "Add More Files"
+    },
+    {
+      "bounds": [
+        237,
+        37,
+        127,
+        40
+      ],
+      "ref": "edd833bd2",
+      "tag": "button",
+      "text": "Clear All"
+    },
+    {
+      "bounds": [
+        1203,
+        115,
+        16,
+        16
+      ],
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        49,
+        229,
+        1182,
+        45
+      ],
+      "label": "Select Style",
+      "options": [
+        {
+          "label": "Exhibit 1 Case XYZ 000001 Page 1",
+          "selected": false,
+          "value": "full-6"
+        },
+        {
+          "label": "Exhibit 1 Case XYZ 00001 Page 1",
+          "selected": false,
+          "value": "full-5"
+        },
+        {
+          "label": "Exhibit 1 Case XYZ 0001 Page 1",
+          "selected": false,
+          "value": "full-4"
+        },
+        {
+          "label": "Exhibit 1 Case XYZ 001 Page 1",
+          "selected": false,
+          "value": "full-3"
+        },
+        {
+          "label": "Exhibit 1 Case XYZ 1 Page 1",
+          "selected": false,
+          "value": "full-0"
+        },
+        {
+          "label": "Exhibit 1 Case XYZ 000001",
+          "selected": false,
+          "value": "no-page-6"
+        },
+        {
+          "label": "Exhibit 1 Case XYZ 00001",
+          "selected": false,
+          "value": "no-page-5"
+        },
+        {
+          "label": "Exhibit 1 Case XYZ 0001",
+          "selected": false,
+          "value": "no-page-4"
+        },
+        {
+          "label": "Exhibit 1 Case XYZ 001",
+          "selected": false,
+          "value": "no-page-3"
+        },
+        {
+          "label": "Exhibit 1 Case XYZ 1",
+          "selected": false,
+          "value": "no-page-0"
+        },
+        {
+          "label": "Case XYZ 000001",
+          "selected": false,
+          "value": "case-6"
+        },
+        {
+          "label": "Case XYZ 00001",
+          "selected": false,
+          "value": "case-5"
+        },
+        {
+          "label": "Case XYZ 0001",
+          "selected": false,
+          "value": "case-4"
+        },
+        {
+          "label": "Case XYZ 001",
+          "selected": false,
+          "value": "case-3"
+        },
+        {
+          "label": "Case XYZ 1",
+          "selected": false,
+          "value": "case-0"
+        },
+        {
+          "label": "000001, 000002, 000003",
+          "selected": false,
+          "value": "bates-6"
+        },
+        {
+          "label": "00001, 00002, 00003",
+          "selected": false,
+          "value": "bates-5"
+        },
+        {
+          "label": "0001, 0002, 0003",
+          "selected": false,
+          "value": "bates-4"
+        },
+        {
+          "label": "001, 002, 003",
+          "selected": false,
+          "value": "bates-3"
+        },
+        {
+          "label": "1, 2, 3",
+          "selected": false,
+          "value": "bates-0"
+        },
+        {
+          "label": "Custom style (other)",
+          "selected": true,
+          "value": "custom"
+        }
+      ],
+      "ref": "ec06a3817",
+      "tag": "select",
+      "value": "custom"
+    },
+    {
+      "bounds": [
+        49,
+        318,
+        1182,
+        46
+      ],
+      "label": "Customize Style",
+      "ref": "e677e1c92",
+      "tag": "input",
+      "type": "text",
+      "value": "HBR-[BATES]-[PAGE]"
+    },
+    {
+      "bounds": [
+        49,
+        518,
+        583,
+        45
+      ],
+      "label": "Bates Padding",
+      "options": [
+        {
+          "label": "6 digits (000001)",
+          "selected": true,
+          "value": "6"
+        },
+        {
+          "label": "5 digits (00001)",
+          "selected": false,
+          "value": "5"
+        },
+        {
+          "label": "4 digits (0001)",
+          "selected": false,
+          "value": "4"
+        },
+        {
+          "label": "3 digits (001)",
+          "selected": false,
+          "value": "3"
+        },
+        {
+          "label": "No padding (1)",
+          "selected": false,
+          "value": "0"
+        }
+      ],
+      "ref": "ecf86caa2",
+      "tag": "select",
+      "value": "6"
+    },
+    {
+      "bounds": [
+        648,
+        518,
+        583,
+        45
+      ],
+      "label": "Position",
+      "options": [
+        {
+          "label": "Header Center",
+          "selected": false,
+          "value": "top-center"
+        },
+        {
+          "label": "Header Left",
+          "selected": false,
+          "value": "top-left"
+        },
+        {
+          "label": "Header Right",
+          "selected": true,
+          "value": "top-right"
+        },
+        {
+          "label": "Footer Center",
+          "selected": false,
+          "value": "bottom-center"
+        },
+        {
+          "label": "Footer Left",
+          "selected": false,
+          "value": "bottom-left"
+        },
+        {
+          "label": "Footer Right",
+          "selected": false,
+          "value": "bottom-right"
+        }
+      ],
+      "ref": "e9edebc89",
+      "tag": "select",
+      "value": "top-right"
+    },
+    {
+      "bounds": [
+        49,
+        607,
+        583,
+        46
+      ],
+      "label": "Bates Starts From",
+      "ref": "e7c72c27e",
+      "tag": "input",
+      "type": "number",
+      "value": "10"
+    },
+    {
+      "bounds": [
+        648,
+        607,
+        583,
+        46
+      ],
+      "label": "File Counter Starts From",
+      "ref": "e15288d3d",
+      "tag": "input",
+      "type": "number",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        49,
+        697,
+        383,
+        45
+      ],
+      "label": "Font",
+      "options": [
+        {
+          "label": "Helvetica",
+          "selected": false,
+          "value": "Helvetica"
+        },
+        {
+          "label": "Times New Roman",
+          "selected": false,
+          "value": "TimesRoman"
+        },
+        {
+          "label": "Courier",
+          "selected": true,
+          "value": "Courier"
+        }
+      ],
+      "ref": "e3072ae07",
+      "tag": "select",
+      "value": "Courier"
+    },
+    {
+      "bounds": [
+        448,
+        697,
+        383,
+        46
+      ],
+      "label": "Font Size",
+      "ref": "e5ab7ff58",
+      "tag": "input",
+      "type": "number",
+      "value": "14"
+    },
+    {
+      "bounds": [
+        848,
+        697,
+        40,
+        40
+      ],
+      "label": "Color",
+      "ref": "ef1e16f2d",
+      "tag": "input",
+      "type": "color",
+      "value": "#000000"
+    },
+    {
+      "bounds": [
+        49,
+        775,
+        1182,
+        48
+      ],
+      "ref": "e1c909735",
+      "tag": "button",
+      "text": "Apply Bates Numbers"
+    },
+    {
+      "bounds": [
+        473,
+        484,
+        334,
+        40
+      ],
+      "ref": "e2a50e308",
+      "tag": "button",
+      "text": "OK"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "report.pdf",
+      "ref": "d6466e450a16b",
+      "size": 3137
+    }
+  ],
+  "inputs": [
+    "chapter-a.pdf",
+    "chapter-b.pdf",
+    "report.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›Bates Numbering\nBates Numbering\n\nAdd sequential Bates numbers across one or more PDF files.\n\nClick to select a file or drag and drop\n\nPDF files (multiple supported)\n\nYour files never leave your device.\n\nAdd More Files\nClear All\nreport.pdf\n3.7 KB • 4 pages\n1 file • 4 total pages\nSelect Style\nExhibit 1 Case XYZ 000001 Page 1\nExhibit 1 Case XYZ 00001 Page 1\nExhibit 1 Case XYZ 0001 Page 1\nExhibit 1 Case XYZ 001 Page 1\nExhibit 1 Case XYZ 1 Page 1\nExhibit 1 Case XYZ 000001\nExhibit 1 Case XYZ 00001\nExhibit 1 Case XYZ 0001\nExhibit 1 Case XYZ 001\nExhibit 1 Case XYZ 1\nCase XYZ 000001\nCase XYZ 00001\nCase XYZ 0001\nCase XYZ 001\nCase XYZ 1\n000001, 000002, 000003\n00001, 00002, 00003\n0001, 0002, 0003\n001, 002, 003\n1, 2, 3\nCustom style (other)\nCustomize Style\n\nPlaceholders: [BATES] [PAGE] [FILE] [FILENAME]\n\nPreview:\nFile 1, Page 1: HBR-000010-1 File 1, Page 2: HBR-000011-2 ... File 1, Page 4: HBR-000013-4\nBates Padding\n6 digits (000001)\n5 digits (00001)\n4 digits (0001)\n3 digits (001)\nNo padding (1)\nPosition\nHeader Center\nHeader Left\nHeader Right\nFooter Center\nFooter Left\nFooter Right\nBates Starts From\nFile Counter Starts From\nFont\nHelvetica\nTimes New Roman\nCourier\nFont Size\nColor\nApply Bates Numbers\nSuccess\n\nBates numbers applied successfully! (10 through 13)\n\nOK\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/bates-numbering.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

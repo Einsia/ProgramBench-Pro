@@ -1,0 +1,234 @@
+{
+  "controls": [
+    {
+      "aria": "Home",
+      "bounds": [
+        10,
+        7,
+        56,
+        36
+      ],
+      "href": "/",
+      "ref": "e210",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        71,
+        7,
+        85,
+        36
+      ],
+      "href": "/explore/repos",
+      "ref": "e211",
+      "role": null,
+      "tag": "a",
+      "text": "Explore"
+    },
+    {
+      "bounds": [
+        161,
+        7,
+        60,
+        36
+      ],
+      "href": "[external]",
+      "ref": "e212",
+      "role": null,
+      "tag": "a",
+      "text": "Help"
+    },
+    {
+      "bounds": [
+        1055,
+        7,
+        109,
+        36
+      ],
+      "href": "/user/sign_up",
+      "ref": "e213",
+      "role": null,
+      "tag": "a",
+      "text": "Register"
+    },
+    {
+      "bounds": [
+        1169,
+        7,
+        101,
+        36
+      ],
+      "href": "/user/login?redirect_to=%2fuser%2fsign_up",
+      "ref": "e214",
+      "role": null,
+      "tag": "a",
+      "text": "Sign In"
+    },
+    {
+      "bounds": [
+        346,
+        225,
+        588,
+        38
+      ],
+      "focused": true,
+      "label": "Username",
+      "name": "user_name",
+      "ref": "e215",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "alice"
+    },
+    {
+      "bounds": [
+        346,
+        301,
+        588,
+        38
+      ],
+      "label": "Email Address",
+      "name": "email",
+      "ref": "e216",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "email",
+      "value": "web-new-user@example.test"
+    },
+    {
+      "bounds": [
+        346,
+        377,
+        588,
+        38
+      ],
+      "label": "Password",
+      "name": "password",
+      "ref": "e217",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": "[password]"
+    },
+    {
+      "bounds": [
+        346,
+        453,
+        588,
+        38
+      ],
+      "label": "Confirm Password",
+      "name": "retype",
+      "ref": "e218",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": "[password]"
+    },
+    {
+      "bounds": [
+        346,
+        505,
+        178,
+        38
+      ],
+      "ref": "e219",
+      "role": null,
+      "tag": "button",
+      "text": "Register Account"
+    },
+    {
+      "bounds": [
+        346,
+        559,
+        311,
+        16
+      ],
+      "href": "/user/login",
+      "ref": "e220",
+      "role": null,
+      "tag": "a",
+      "text": "Already have an account? Sign in now!"
+    },
+    {
+      "bounds": [
+        20,
+        872,
+        134,
+        20
+      ],
+      "href": "[external]",
+      "ref": "e221",
+      "role": null,
+      "tag": "a",
+      "text": "Powered by Gitea"
+    },
+    {
+      "bounds": [
+        1063,
+        874,
+        76,
+        16
+      ],
+      "expanded": false,
+      "ref": "e222",
+      "role": "menu",
+      "tag": "div",
+      "text": "English"
+    },
+    {
+      "bounds": [
+        1145,
+        872,
+        76,
+        20
+      ],
+      "href": "/assets/licenses.txt",
+      "ref": "e223",
+      "role": null,
+      "tag": "a",
+      "text": "Licenses"
+    },
+    {
+      "bounds": [
+        1226,
+        872,
+        34,
+        20
+      ],
+      "href": "/api/swagger",
+      "ref": "e224",
+      "role": null,
+      "tag": "a",
+      "text": "API"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Explore\nHelp\nRegister\nSign In\nRegister\n\nThe username is already taken.\n\nUsername\nEmail Address\nPassword\nConfirm Password\nRegister Account\nAlready have an account? Sign in now!\nPowered by Gitea\nPage:\n8ms\nTemplate:\n7ms\nEnglish\nLicenses\nAPI",
+  "text_truncated": false,
+  "title": "Register - Gitea",
+  "url": "/user/sign_up",
+  "viewport": [
+    1280,
+    900
+  ]
+}

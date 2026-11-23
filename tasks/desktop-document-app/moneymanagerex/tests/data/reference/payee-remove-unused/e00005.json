@@ -1,0 +1,240 @@
+{
+  "focused": "e14fcdd0d",
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        1024
+      ],
+      "name": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),",
+      "ref": "e93ed40b7",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        25
+      ],
+      "name": "",
+      "ref": "e37b0c28a",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        39,
+        25
+      ],
+      "name": "File",
+      "ref": "eae5e7196",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        39,
+        19,
+        75,
+        25
+      ],
+      "name": "Accounts",
+      "ref": "ecb5893cc",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        114,
+        19,
+        49,
+        25
+      ],
+      "name": "Tools",
+      "ref": "ec5eeafb2",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        163,
+        19,
+        48,
+        25
+      ],
+      "name": "View",
+      "ref": "eb0ba3d40",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        211,
+        19,
+        46,
+        25
+      ],
+      "name": "Help",
+      "ref": "ef594ac36",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        1,
+        995,
+        200,
+        6
+      ],
+      "name": "",
+      "ref": "ef36204a0",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        458,
+        386,
+        365,
+        253
+      ],
+      "name": "Payee Manager",
+      "ref": "e992e85f0",
+      "role": "frame",
+      "states": [
+        "active",
+        "modal"
+      ]
+    },
+    {
+      "bounds": [
+        469,
+        510,
+        343,
+        6
+      ],
+      "name": "",
+      "ref": "e52cb7247",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        806,
+        416,
+        6,
+        100
+      ],
+      "name": "",
+      "ref": "e15fc7a78",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        667,
+        540,
+        18,
+        26
+      ],
+      "description": "Other tools",
+      "name": "",
+      "ref": "e3ed3f1cd",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        695,
+        536,
+        117,
+        34
+      ],
+      "description": "Show hidden payees (Ctrl-h)",
+      "name": "Show hidden",
+      "ref": "ea18b989f",
+      "role": "toggle button",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        531,
+        536,
+        126,
+        34
+      ],
+      "name": "Search",
+      "ref": "e14fcdd0d",
+      "role": "text",
+      "states": [
+        "focused",
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        540,
+        545,
+        16,
+        16
+      ],
+      "name": "edit-find-symbolic",
+      "ref": "e7f5d938a",
+      "role": "icon",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        469,
+        544,
+        52,
+        17
+      ],
+      "name": "Search",
+      "ref": "ee58581ca",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        598,
+        585,
+        85,
+        34
+      ],
+      "name": "Close",
+      "ref": "e50460aa5",
+      "role": "push button"
+    }
+  ],
+  "screen": [
+    1280,
+    1024
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": false,
+      "bounds": [
+        0,
+        38,
+        1280,
+        1005
+      ],
+      "ref": "w5b3c0310",
+      "title": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),"
+    },
+    {
+      "active": true,
+      "bounds": [
+        460,
+        426,
+        363,
+        228
+      ],
+      "ref": "w352d3d56",
+      "title": "Payee Manager"
+    }
+  ]
+}

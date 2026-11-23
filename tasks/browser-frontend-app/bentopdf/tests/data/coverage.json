@@ -1,0 +1,186 @@
+{
+  "counts": {
+    "assertions": 1700,
+    "backend": 1354,
+    "checkpoints": 346,
+    "features": 15,
+    "frontend": 346,
+    "gui_episodes": 94,
+    "program_episodes": 0,
+    "episodes": 94
+  },
+  "features": {
+    "annotation": {
+      "assertions": 139,
+      "episodes": [
+        "page-numbers",
+        "header-footer",
+        "header-bates",
+        "watermarks",
+        "image-watermarks"
+      ]
+    },
+    "color": {
+      "assertions": 68,
+      "episodes": [
+        "document-colors",
+        "color-tone",
+        "color-balance",
+        "scanner-effect"
+      ]
+    },
+    "conversion": {
+      "assertions": 247,
+      "episodes": [
+        "pdf-images",
+        "image-options",
+        "tiff",
+        "images-to-pdf",
+        "documents-to-pdf",
+        "ebooks-to-pdf",
+        "text-to-pdf",
+        "markdown",
+        "open-document-formats",
+        "more-formats",
+        "export-documents",
+        "heic",
+        "pdf-json-roundtrip",
+        "mobi",
+        "format-branches"
+      ]
+    },
+    "editing": {
+      "assertions": 150,
+      "episodes": [
+        "editor-shapes",
+        "edit-text-replace",
+        "edit-text-style",
+        "layers",
+        "stamps",
+        "annotations-more",
+        "viewer-annotations",
+        "text-edit-history",
+        "inserted-graphics"
+      ]
+    },
+    "extraction": {
+      "assertions": 41,
+      "episodes": [
+        "extract-text",
+        "ocr",
+        "extract-data",
+        "table-formats"
+      ]
+    },
+    "forms": {
+      "assertions": 136,
+      "episodes": [
+        "fill-forms",
+        "create-forms",
+        "more-form-fields",
+        "form-properties",
+        "form-roundtrip",
+        "form-editing",
+        "xfa-forms"
+      ]
+    },
+    "geometry": {
+      "assertions": 135,
+      "episodes": [
+        "n-up",
+        "page-size",
+        "divide-combine",
+        "poster",
+        "booklet",
+        "pdf-overlay",
+        "pdf-underlay",
+        "crop"
+      ]
+    },
+    "inspection": {
+      "assertions": 23,
+      "episodes": [
+        "page-dimensions",
+        "compare-pdfs",
+        "comparison-navigation"
+      ]
+    },
+    "metadata": {
+      "assertions": 178,
+      "episodes": [
+        "metadata-fields",
+        "metadata-cleanup",
+        "page-labels",
+        "bookmarks",
+        "bookmark-files",
+        "attachments",
+        "table-of-contents",
+        "edit-attachments",
+        "bookmark-editing",
+        "bookmark-structure"
+      ]
+    },
+    "optimization": {
+      "assertions": 106,
+      "episodes": [
+        "compression",
+        "optimization",
+        "rasterize",
+        "archival",
+        "compression-options"
+      ]
+    },
+    "organize": {
+      "assertions": 203,
+      "episodes": [
+        "merge",
+        "split",
+        "extract-delete",
+        "rotate",
+        "blank-duplex",
+        "organizer",
+        "multi-tool",
+        "alternate-and-package",
+        "blank-removal"
+      ]
+    },
+    "preferences": {
+      "assertions": 1,
+      "episodes": [
+        "language"
+      ]
+    },
+    "security": {
+      "assertions": 115,
+      "episodes": [
+        "passwords",
+        "permissions",
+        "sanitize-flatten",
+        "signatures",
+        "password-errors",
+        "signature-inputs"
+      ]
+    },
+    "validation": {
+      "assertions": 9,
+      "episodes": [
+        "validation"
+      ]
+    },
+    "workflow": {
+      "assertions": 149,
+      "episodes": [
+        "workflow-processing-1",
+        "workflow-processing-2",
+        "workflow-processing-3",
+        "workflow-files",
+        "workflow-composition",
+        "workflow-errors",
+        "workflow-templates"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

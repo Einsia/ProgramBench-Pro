@@ -1,0 +1,269 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        0,
+        77,
+        1280,
+        823
+      ],
+      "ref": "canvas0",
+      "tag": "svg"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        0,
+        9,
+        82,
+        53
+      ],
+      "ref": "e75fe0e2a",
+      "tag": "a"
+    },
+    {
+      "bounds": [
+        1140,
+        16,
+        112,
+        36
+      ],
+      "ref": "eed4bab7b",
+      "tag": "button",
+      "text": "Share"
+    },
+    {
+      "bounds": [
+        230,
+        195,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        230,
+        232,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx2",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        520,
+        195,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx3",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        520,
+        232,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx4",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        520,
+        269,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx5",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        520,
+        306,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx6",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        810,
+        195,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx7",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        810,
+        232,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx8",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        520,
+        495,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx9",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        520,
+        532,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx10",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        361,
+        842,
+        34,
+        36
+      ],
+      "ref": "ea0fc21fdx11",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        467,
+        842,
+        34,
+        36
+      ],
+      "ref": "ea0fc21fdx12",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        518,
+        846,
+        36,
+        28
+      ],
+      "disabled": true,
+      "ref": "ea0fc21fdx13",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        554,
+        846,
+        36,
+        28
+      ],
+      "disabled": true,
+      "ref": "ea0fc21fdx14",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        607,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx15",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        649,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx16",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        691,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx17",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        733,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx18",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        792,
+        841,
+        39,
+        36
+      ],
+      "ref": "ea0fc21fdx19",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        848,
+        844,
+        40,
+        32
+      ],
+      "ref": "ea0fc21fdx20",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        905,
+        841,
+        34,
+        36
+      ],
+      "ref": "ea0fc21fdx21",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        956,
+        841,
+        36,
+        36
+      ],
+      "ref": "ea0fc21fdx22",
+      "tag": "button"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "text": "Diagrams\n/\nBlog\nFile\nEdit\nView\nSettings\nHelp\nLast saved 11/1/2026, 10:22:53 AM\nfk_posts_user_id_users\nn\n1\nusers\nid\nINT\nname\nVARCHAR(60)\nposts\nid\nINT\nuser_id\nINT\ntitle\n?\nVARCHAR(120)\nbody\n?\nTEXT(2000)\ntags\nid\nINT\nlabel\n?\nVARCHAR(30)\npost_tags\npost_id\nINT\ntag_id\nINT\n100\n%",
+  "text_truncated": false,
+  "title": "Editor | drawDB",
+  "url": "/editor/diagrams/45e1dbcf-11a5-47a9-a113-13ef4c56abf8",
+  "viewport": [
+    1280,
+    900
+  ]
+}

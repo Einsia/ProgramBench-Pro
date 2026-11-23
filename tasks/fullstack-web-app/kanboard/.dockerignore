@@ -1,0 +1,9 @@
+**
+!solution/
+!solution/**
+!environment/
+!environment/Dockerfile.reference
+!environment/runtime/
+!environment/runtime/*.py
+!environment/runtime/docs/
+!environment/runtime/docs/**

@@ -1,0 +1,43 @@
+{
+  "task": "gnumeric",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "Gnumeric",
+    "version": "1.12.62",
+    "homepage": "https://www.gnumeric.org/",
+    "repository": "https://gitlab.gnome.org/GNOME/gnumeric",
+    "license": "GPL-2.0-only OR GPL-3.0-only"
+  },
+  "downloads": [
+    {
+      "file": "gnumeric-1.12.62.tar.xz",
+      "url": "https://download.gnome.org/sources/gnumeric/1.12/gnumeric-1.12.62.tar.xz",
+      "sha256": "89331121321b9bad72d37af5a6d13a0a636f0fbb0880f0ea1f2cf8b7ab9ae631"
+    },
+    {
+      "file": "goffice-0.10.62.tar.xz",
+      "url": "https://download.gnome.org/sources/goffice/0.10/goffice-0.10.62.tar.xz",
+      "sha256": "500eaff50628faa75adb3cd560236a4db498d9e7c52c036b78fa9a57f21805b3"
+    }
+  ],
+  "bundled": [
+    {
+      "file": "gnumeric-runtime-1.12.62.tar.xz",
+      "built_from": "Unmodified Gnumeric 1.12.62 and GOffice 0.10.62 release sources, compiled on Ubuntu 24.04 x86_64 with prefix /proc/self/fd/9/upstream. GOffice uses the keyfile settings backend; Gnumeric disables Python, Perl, GDA and component embedding. Headers, pkg-config and gtk-doc output are removed and native files stripped. NOTICE contains the complete build and packaging commands."
+    }
+  ],
+  "modifications": "none; upstream product files are installed without patches",
+  "configuration": "English X11/AT-SPI desktop without a splash screen; persistent state under the runtime-provided HOME and DATA_DIR. The keyfile settings backend initializes the upstream time-series function plugin for the GUI and ssconvert. A shared launcher inherits directory descriptor 9 using O_PATH so native resource paths remain stable after working-directory changes and the installation can use mode 0711. The runtime supplies a fixed clock, random seed and general GLPK/lp_solve tools; upstream Python, Perl, GDA and component integration are disabled at build time. A fail-closed Landlock wrapper restricts product writes to private instance/exchange data and execution to the product plus explicitly required helper programs. The GUI starts with the outbox as its working directory so native file dialogs do not try to enumerate the protected installation.",
+  "notes": {
+    "components": [
+      {
+        "name": "GOffice",
+        "version": "0.10.62",
+        "homepage": "https://www.gnumeric.org/",
+        "repository": "https://gitlab.gnome.org/GNOME/goffice",
+        "license": "GPL-2.0-only OR GPL-3.0-only",
+        "source": "goffice-0.10.62.tar.xz"
+      }
+    ]
+  }
+}

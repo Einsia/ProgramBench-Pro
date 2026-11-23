@@ -1,0 +1,212 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e82",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e83",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/dashboard",
+      "ref": "e84",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/dashboard",
+      "ref": "e85",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "bounds": [
+        10,
+        49,
+        108,
+        17
+      ],
+      "href": "/project/create",
+      "ref": "e86",
+      "role": null,
+      "tag": "a",
+      "text": "New project"
+    },
+    {
+      "bounds": [
+        138,
+        49,
+        174,
+        17
+      ],
+      "href": "/project/create/personal",
+      "ref": "e87",
+      "role": null,
+      "tag": "a",
+      "text": "New personal project"
+    },
+    {
+      "bounds": [
+        331,
+        49,
+        171,
+        17
+      ],
+      "href": "/projects",
+      "ref": "e88",
+      "role": null,
+      "tag": "a",
+      "text": "Project management"
+    },
+    {
+      "bounds": [
+        521,
+        49,
+        152,
+        17
+      ],
+      "href": "/my-activity",
+      "ref": "e89",
+      "role": null,
+      "tag": "a",
+      "text": "My activity stream"
+    },
+    {
+      "bounds": [
+        23,
+        96,
+        67,
+        17
+      ],
+      "href": "/dashboard/1",
+      "ref": "e90",
+      "role": null,
+      "tag": "a",
+      "text": "Overview"
+    },
+    {
+      "bounds": [
+        23,
+        132,
+        82,
+        17
+      ],
+      "href": "/dashboard/1/projects",
+      "ref": "e91",
+      "role": null,
+      "tag": "a",
+      "text": "My projects"
+    },
+    {
+      "bounds": [
+        23,
+        168,
+        63,
+        17
+      ],
+      "href": "/dashboard/1/tasks",
+      "ref": "e92",
+      "role": null,
+      "tag": "a",
+      "text": "My tasks"
+    },
+    {
+      "bounds": [
+        23,
+        204,
+        89,
+        17
+      ],
+      "href": "/dashboard/1/subtasks",
+      "ref": "e93",
+      "role": null,
+      "tag": "a",
+      "text": "My subtasks"
+    },
+    {
+      "aria": "Search",
+      "bounds": [
+        250,
+        87,
+        959,
+        28
+      ],
+      "name": "search",
+      "placeholder": "Search",
+      "ref": "e94",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "aria": "Default filters",
+      "bounds": [
+        1221,
+        92,
+        36,
+        16
+      ],
+      "href": "/dashboard",
+      "ref": "e95",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Default filters"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Dashboard for admin\n \n \nA\nNew project New personal project Project management My activity stream\nOverview\nMy projects\nMy tasks\nMy subtasks\n\nThere is nothing assigned to you.",
+  "text_truncated": false,
+  "title": "Dashboard for admin",
+  "url": "/dashboard",
+  "viewport": [
+    1280,
+    900
+  ]
+}

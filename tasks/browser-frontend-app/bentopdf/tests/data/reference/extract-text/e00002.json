@@ -1,0 +1,124 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        176,
+        135,
+        24
+      ],
+      "ref": "e3005f4e3",
+      "tag": "button",
+      "text": "Back to Tools"
+    },
+    {
+      "bounds": [
+        49,
+        225,
+        62,
+        18
+      ],
+      "ref": "e307a47db",
+      "tag": "a",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        410,
+        1182,
+        256
+      ],
+      "ref": "ed750ff07",
+      "tag": "div",
+      "text": "Click to select a file or drag and drop PDF files Your files never leave your device."
+    },
+    {
+      "bounds": [
+        49,
+        682,
+        176,
+        40
+      ],
+      "ref": "e4b856335",
+      "tag": "button",
+      "text": "Add More Files"
+    },
+    {
+      "bounds": [
+        237,
+        682,
+        142,
+        40
+      ],
+      "ref": "ec81e0bee",
+      "tag": "button",
+      "text": "Clear Files"
+    },
+    {
+      "bounds": [
+        1203,
+        752,
+        16,
+        16
+      ],
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        49,
+        806,
+        1182,
+        48
+      ],
+      "ref": "efbeef8a6",
+      "tag": "button",
+      "text": "Extract Text"
+    },
+    {
+      "bounds": [
+        473,
+        472,
+        334,
+        40
+      ],
+      "ref": "e2a50e308",
+      "tag": "button",
+      "text": "OK"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "report.txt",
+      "ref": "deafb4aff19bc",
+      "size": 264
+    }
+  ],
+  "inputs": [
+    "chapter-a.pdf",
+    "chapter-b.pdf",
+    "report.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›PDF to Text\nPDF to Text\n\nExtract text from PDF files and save as plain text (.txt). Supports multiple files.\n\nNote: This tool works ONLY with digitally created PDFs. For scanned documents or image-based PDFs, use our OCR PDF tool instead.\n\nClick to select a file or drag and drop\n\nPDF files\n\nYour files never leave your device.\n\nAdd More Files\nClear Files\nreport.pdf\n(3.7 KB)\nExtract Text\nSuccess\n\nText extracted successfully!\n\nOK\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/pdf-to-text.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

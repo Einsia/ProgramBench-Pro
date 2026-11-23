@@ -1,0 +1,16 @@
+{
+  "reference_paths": [
+    "/app/solution/cherrytree/usr/bin/cherrytree",
+    "/app/solution/cherrytree/usr/share/cherrytree/data"
+  ],
+  "shared_solution_files": [
+    {
+      "file": "LICENSE",
+      "reason": "Unmodified third-party license/attribution text may also accompany a system or development dependency; contains no implementation."
+    },
+    {
+      "file": "LICENSES/cherrytree.txt",
+      "reason": "Unmodified third-party license/attribution text may also accompany a system or development dependency; contains no implementation."
+    }
+  ]
+}

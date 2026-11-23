@@ -1,0 +1,338 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        559,
+        -44,
+        162,
+        36
+      ],
+      "href": "/users#main",
+      "offscreen": true,
+      "ref": "e790",
+      "role": null,
+      "tag": "a",
+      "text": "Skip to content"
+    },
+    {
+      "aria": "Home page",
+      "bounds": [
+        193,
+        10,
+        77,
+        19
+      ],
+      "href": "/unread",
+      "ref": "e791",
+      "role": null,
+      "tag": "a",
+      "text": "Mini\nflux"
+    },
+    {
+      "bounds": [
+        278,
+        12,
+        70,
+        16
+      ],
+      "href": "/unread",
+      "ref": "e792",
+      "role": null,
+      "tag": "a",
+      "text": "Unread"
+    },
+    {
+      "bounds": [
+        363,
+        12,
+        78,
+        16
+      ],
+      "href": "/starred",
+      "ref": "e793",
+      "role": null,
+      "tag": "a",
+      "text": "Starred"
+    },
+    {
+      "bounds": [
+        456,
+        12,
+        78,
+        16
+      ],
+      "href": "/history",
+      "ref": "e794",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        549,
+        12,
+        70,
+        16
+      ],
+      "href": "/feeds",
+      "ref": "e795",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "aria": "Add feed",
+      "bounds": [
+        618,
+        12,
+        26,
+        16
+      ],
+      "href": "/subscribe",
+      "ref": "e796",
+      "role": null,
+      "tag": "a",
+      "text": "(+)",
+      "title": "Keyboard Shortcut: +"
+    },
+    {
+      "bounds": [
+        659,
+        12,
+        104,
+        16
+      ],
+      "href": "/categories",
+      "ref": "e797",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        778,
+        12,
+        70,
+        16
+      ],
+      "href": "/search",
+      "ref": "e798",
+      "role": null,
+      "tag": "a",
+      "text": "Search"
+    },
+    {
+      "bounds": [
+        862,
+        12,
+        87,
+        16
+      ],
+      "href": "/settings",
+      "ref": "e799",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        964,
+        10,
+        70,
+        18
+      ],
+      "ref": "e800",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "title": "Logged in as alice"
+    },
+    {
+      "bounds": [
+        193,
+        82,
+        95,
+        18
+      ],
+      "href": "/settings",
+      "ref": "e801",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        312,
+        82,
+        133,
+        18
+      ],
+      "href": "/integrations",
+      "ref": "e802",
+      "role": null,
+      "tag": "a",
+      "text": "Integrations"
+    },
+    {
+      "bounds": [
+        470,
+        82,
+        95,
+        18
+      ],
+      "href": "/keys",
+      "ref": "e803",
+      "role": null,
+      "tag": "a",
+      "text": "API Keys"
+    },
+    {
+      "bounds": [
+        590,
+        82,
+        95,
+        18
+      ],
+      "href": "/sessions",
+      "ref": "e804",
+      "role": null,
+      "tag": "a",
+      "text": "Sessions"
+    },
+    {
+      "bounds": [
+        709,
+        82,
+        66,
+        18
+      ],
+      "href": "/users",
+      "ref": "e805",
+      "role": null,
+      "tag": "a",
+      "text": "Users"
+    },
+    {
+      "bounds": [
+        800,
+        82,
+        66,
+        18
+      ],
+      "href": "/about",
+      "ref": "e806",
+      "role": null,
+      "tag": "a",
+      "text": "About"
+    },
+    {
+      "bounds": [
+        848,
+        151,
+        38,
+        18
+      ],
+      "href": "/users/2/edit",
+      "ref": "e807",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        905,
+        151,
+        58,
+        18
+      ],
+      "href": "/users",
+      "ref": "e808",
+      "role": null,
+      "tag": "a",
+      "text": "Remove"
+    },
+    {
+      "bounds": [
+        848,
+        180,
+        38,
+        18
+      ],
+      "href": "/users/3/edit",
+      "ref": "e809",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        905,
+        180,
+        58,
+        18
+      ],
+      "href": "/users",
+      "ref": "e810",
+      "role": null,
+      "tag": "a",
+      "text": "Remove"
+    },
+    {
+      "bounds": [
+        848,
+        209,
+        38,
+        18
+      ],
+      "href": "/users/4/edit",
+      "ref": "e811",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        905,
+        209,
+        58,
+        18
+      ],
+      "href": "/users",
+      "ref": "e812",
+      "role": null,
+      "tag": "a",
+      "text": "Remove"
+    },
+    {
+      "bounds": [
+        193,
+        251,
+        106,
+        28
+      ],
+      "href": "/user/create",
+      "ref": "e813",
+      "role": null,
+      "tag": "a",
+      "text": "Add user"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Skip to content\nMini\nflux\nUnread Starred History Feeds (+) Categories Search Settings Logout\nUsers\nSettings Integrations API Keys Sessions Users About\nUsername\tAdministrator\tLast Login\tActions\nbob\tNo\tNever\tEdit, Remove\ncarol\tNo\tNever\tEdit, Remove\ndave\tYes\tjust now\tEdit, Remove\n\n\n\nAdd user",
+  "text_truncated": false,
+  "title": "Users - Miniflux",
+  "url": "/users",
+  "viewport": [
+    1280,
+    900
+  ]
+}

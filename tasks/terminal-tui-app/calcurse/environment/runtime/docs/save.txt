@@ -1,0 +1,19 @@
+Save
+====
+
+Save calcurse data.
+
+Data are split into four different files which contain :
+
+         / $XDG_CONFIG_HOME/calcurse/conf -> user configuration
+        |                      (layout, color, general options)
+        |  $XDG_DATA_HOME/calcurse/apts -> data related to the appointments
+        |  $XDG_DATA_HOME/calcurse/todo -> data related to the todo list
+         \ $XDG_CONFIG_HOME/calcurse/keys -> user-defined key bindings
+
+Defaults:
+- datadir: $XDG_DATA_HOME/calcurse (~/.local/share/calcurse)
+- configdir: $XDG_CONFIG_HOME/calcurse (~/.config/calcurse)
+
+In the config menu, you can choose to save the calcurse data automatically
+before quitting.

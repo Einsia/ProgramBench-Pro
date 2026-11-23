@@ -1,0 +1,286 @@
+{
+  "focused": null,
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        1024
+      ],
+      "name": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),",
+      "ref": "e93ed40b7",
+      "role": "frame",
+      "states": [
+        "active"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        25
+      ],
+      "name": "",
+      "ref": "e37b0c28a",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        39,
+        25
+      ],
+      "name": "File",
+      "ref": "eae5e7196",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        39,
+        19,
+        75,
+        25
+      ],
+      "name": "Accounts",
+      "ref": "ecb5893cc",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        114,
+        19,
+        49,
+        25
+      ],
+      "name": "Tools",
+      "ref": "ec5eeafb2",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        163,
+        19,
+        48,
+        25
+      ],
+      "name": "View",
+      "ref": "eb0ba3d40",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        211,
+        19,
+        46,
+        25
+      ],
+      "name": "Help",
+      "ref": "ef594ac36",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        1,
+        995,
+        200,
+        6
+      ],
+      "name": "",
+      "ref": "ef36204a0",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        210,
+        90,
+        62,
+        19
+      ],
+      "name": "Assets",
+      "ref": "ef9228468",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        210,
+        111,
+        150,
+        34
+      ],
+      "name": "All",
+      "ref": "e0ad53b06",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        210,
+        147,
+        229,
+        17
+      ],
+      "name": "Total: $18096.75, Initial: $20000.00",
+      "ref": "e21e6cb80",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        210,
+        901,
+        85,
+        34
+      ],
+      "description": "New Asset",
+      "name": "New",
+      "ref": "e973af597",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        300,
+        901,
+        101,
+        34
+      ],
+      "description": "Add Asset Transaction",
+      "name": "Add Trans",
+      "ref": "e99bd26d3",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        406,
+        901,
+        108,
+        34
+      ],
+      "description": "View Asset Transactions",
+      "name": "View Trans",
+      "ref": "e0e34c57a",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        519,
+        901,
+        85,
+        34
+      ],
+      "description": "Edit Asset",
+      "name": "Edit",
+      "ref": "e73964de6",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        609,
+        901,
+        85,
+        34
+      ],
+      "description": "Delete Asset",
+      "name": "Delete",
+      "ref": "eabd54329",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        699,
+        901,
+        30,
+        34
+      ],
+      "description": "Open attachments",
+      "name": "",
+      "ref": "ee897ce61",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        734,
+        901,
+        100,
+        34
+      ],
+      "description": "Enter any string to find related assets\n\nTip: Wildcard characters such as the question mark (?) and the asterisk (*) can be used in search criteria.\nThe question mark (?) is used to match a single cha",
+      "name": "Search",
+      "ref": "e3f3bfe81",
+      "role": "text",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        743,
+        910,
+        16,
+        16
+      ],
+      "name": "edit-find-symbolic",
+      "ref": "ec218c1d7",
+      "role": "icon",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        839,
+        906,
+        1,
+        29
+      ],
+      "name": "",
+      "ref": "e30e7f39b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        210,
+        937,
+        1067,
+        62
+      ],
+      "name": "MMEX allows fixed assets like cars, houses, land, and others to be tracked. Each asset can have its value appreciate by a certain rate per year, depreciate by a certain rate per year, or not change in",
+      "ref": "e40e27a2c",
+      "role": "label"
+    }
+  ],
+  "screen": [
+    1280,
+    1024
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": true,
+      "bounds": [
+        0,
+        38,
+        1280,
+        1005
+      ],
+      "ref": "w5b3c0310",
+      "title": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),"
+    }
+  ]
+}

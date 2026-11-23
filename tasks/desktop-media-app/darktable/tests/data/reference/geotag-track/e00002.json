@@ -1,0 +1,3124 @@
+{
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1440,
+        900
+      ],
+      "name": "darktable",
+      "ref": "eb96af1a1",
+      "role": "frame",
+      "states": [
+        "active"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1440,
+        10
+      ],
+      "name": "",
+      "ref": "e14a3f305",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        1108,
+        89,
+        310,
+        41
+      ],
+      "description": "modify which of the displayed\nimages are selected",
+      "name": "",
+      "ref": "e0fce5d39",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1116,
+        97,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "ef8550394",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1139,
+        97,
+        89,
+        24
+      ],
+      "name": "selection",
+      "ref": "e5084bd84",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1228,
+        97,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "e73231827",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1364,
+        97,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "e9a7c361d",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1387,
+        97,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "ea66e29a2",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1108,
+        130,
+        310,
+        41
+      ],
+      "description": "actions on selection",
+      "name": "",
+      "ref": "e6269937f",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1116,
+        138,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "e1f414980",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1139,
+        138,
+        187,
+        24
+      ],
+      "name": "actions on selection",
+      "ref": "ede4cc5e3",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1326,
+        138,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "e5b3e2481",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1364,
+        138,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "eac2ee9b1",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1387,
+        138,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "ef08c5a84",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1108,
+        171,
+        310,
+        41
+      ],
+      "description": "perform actions on the history\nstacks (edit histories) of the\ncurrently selected images",
+      "name": "",
+      "ref": "e355657dc",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1116,
+        179,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "ecce85bfe",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1139,
+        179,
+        122,
+        24
+      ],
+      "name": "history stack",
+      "ref": "edcb9db8d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1261,
+        179,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "e875fa9bc",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1364,
+        179,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "e56331a19",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1387,
+        179,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "e9de71ab5",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1108,
+        212,
+        310,
+        41
+      ],
+      "description": "apply styles to the currently selected\nimages or manage your styles",
+      "name": "",
+      "ref": "e0e87e47c",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1116,
+        220,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "e5e69466f",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1139,
+        220,
+        60,
+        24
+      ],
+      "name": "styles",
+      "ref": "ed5e512ce",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1199,
+        220,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "e48ac389d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1364,
+        220,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "eb0d97c9e",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1387,
+        220,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "e2c56df13",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1108,
+        253,
+        310,
+        41
+      ],
+      "description": "modify text metadata fields of\nthe currently selected images",
+      "name": "",
+      "ref": "ee9de15d5",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1116,
+        261,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "e6e629dd2",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1139,
+        261,
+        153,
+        24
+      ],
+      "name": "metadata editor",
+      "ref": "e69c82397",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1292,
+        261,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "e28296461",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1364,
+        261,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "e0c6716f7",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1387,
+        261,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "e172da3ee",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1108,
+        294,
+        310,
+        41
+      ],
+      "description": "add or remove keywords for\nthe currently selected images",
+      "name": "",
+      "ref": "e57a6fc07",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1116,
+        302,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "ebf9d8f1e",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1139,
+        302,
+        76,
+        24
+      ],
+      "name": "tagging",
+      "ref": "e40b1fcb2",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1215,
+        302,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "ea80d572f",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1364,
+        302,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "ef99022c8",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1387,
+        302,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "ee28aba0c",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1108,
+        335,
+        310,
+        41
+      ],
+      "description": "set geolocation information for\nthe currently selected images",
+      "name": "",
+      "ref": "eb1399f7b",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1116,
+        343,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "e6b1fd0f2",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1139,
+        343,
+        109,
+        24
+      ],
+      "name": "geotagging",
+      "ref": "e2c8dc2d6",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1248,
+        343,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "ec8f2021a",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1364,
+        343,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "ec0a0a235",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1387,
+        343,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "e15be4503",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1118,
+        589,
+        290,
+        27
+      ],
+      "description": "parses a GPX file and updates location of selected images",
+      "name": "apply GPX track file...",
+      "ref": "ee6957eac",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1264,
+        564,
+        144,
+        25
+      ],
+      "description": "start typing to show a list of permitted values and select your timezone.\npress enter to confirm, so that the asterisk * disappears",
+      "name": "",
+      "ref": "ec9975f10",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "UTC"
+    },
+    {
+      "bounds": [
+        1408,
+        564,
+        1,
+        25
+      ],
+      "name": "",
+      "ref": "e65cde2dd",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1118,
+        564,
+        141,
+        25
+      ],
+      "description": "most cameras don't store the time zone in EXIF. give the correct time zone so the GPX data can be correctly matched",
+      "name": "camera time zone",
+      "ref": "e161e2d2d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1264,
+        537,
+        144,
+        27
+      ],
+      "description": "apply the same date/time to selected images",
+      "name": "apply date/time",
+      "ref": "e103fb059",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1118,
+        537,
+        141,
+        27
+      ],
+      "description": "apply offset to selected images",
+      "name": "apply offset",
+      "ref": "e94a10597",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1118,
+        468,
+        290,
+        69
+      ],
+      "description": "offset or difference ([-]dd hh:mm:ss[.sss])",
+      "name": "",
+      "ref": "e5afcfc86",
+      "role": "table"
+    },
+    {
+      "bounds": [
+        1118,
+        468,
+        290,
+        19
+      ],
+      "name": "",
+      "ref": "e82632946",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        1118,
+        468,
+        141,
+        19
+      ],
+      "name": "date/time offset",
+      "ref": "e813fb21a",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1118,
+        487,
+        290,
+        50
+      ],
+      "name": "",
+      "ref": "e53ae3d66",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        1118,
+        487,
+        290,
+        50
+      ],
+      "name": "",
+      "ref": "ec4ee3eac",
+      "role": "table"
+    },
+    {
+      "bounds": [
+        1118,
+        487,
+        290,
+        25
+      ],
+      "name": "",
+      "ref": "e4461240a",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        1252,
+        487,
+        23,
+        25
+      ],
+      "description": "lock date/time offset value to apply it onto another selection",
+      "name": "",
+      "ref": "ec3b3bc2d",
+      "role": "toggle button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1330,
+        487,
+        1,
+        25
+      ],
+      "name": "",
+      "ref": "ecef46ed1",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1356,
+        487,
+        52,
+        25
+      ],
+      "name": "",
+      "ref": "ea24c1642",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ],
+      "text": "0000"
+    },
+    {
+      "bounds": [
+        1118,
+        512,
+        290,
+        25
+      ],
+      "name": "",
+      "ref": "e375f68fa",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        1302,
+        512,
+        32,
+        25
+      ],
+      "name": "",
+      "ref": "ef22f8ff1",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ],
+      "text": "00"
+    },
+    {
+      "bounds": [
+        1334,
+        512,
+        5,
+        25
+      ],
+      "name": ":",
+      "ref": "e6f244741",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1339,
+        512,
+        32,
+        25
+      ],
+      "name": "",
+      "ref": "ee462a00b",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ],
+      "text": "00"
+    },
+    {
+      "bounds": [
+        1371,
+        512,
+        5,
+        25
+      ],
+      "name": ":",
+      "ref": "e7dfb092f",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1376,
+        512,
+        32,
+        25
+      ],
+      "name": "",
+      "ref": "eaeff070f",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ],
+      "text": "00"
+    },
+    {
+      "bounds": [
+        1118,
+        424,
+        290,
+        44
+      ],
+      "name": "",
+      "ref": "ee1961ae3",
+      "role": "table"
+    },
+    {
+      "bounds": [
+        1118,
+        424,
+        290,
+        19
+      ],
+      "name": "",
+      "ref": "ee83d0eb8",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        1118,
+        424,
+        141,
+        19
+      ],
+      "name": "original date/time",
+      "ref": "ecba2d585",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1118,
+        443,
+        290,
+        25
+      ],
+      "name": "",
+      "ref": "e28a9fc50",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        1118,
+        443,
+        290,
+        25
+      ],
+      "name": "",
+      "ref": "e4feb83a3",
+      "role": "table"
+    },
+    {
+      "bounds": [
+        1118,
+        443,
+        145,
+        25
+      ],
+      "name": "",
+      "ref": "e61b23117",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        1135,
+        443,
+        52,
+        25
+      ],
+      "name": "",
+      "ref": "ec8368807",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ],
+      "text": "2024"
+    },
+    {
+      "bounds": [
+        1187,
+        443,
+        6,
+        25
+      ],
+      "name": "-",
+      "ref": "e0a66a83d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1193,
+        443,
+        32,
+        25
+      ],
+      "name": "",
+      "ref": "ea7a165ab",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ],
+      "text": "01"
+    },
+    {
+      "bounds": [
+        1225,
+        443,
+        6,
+        25
+      ],
+      "name": "-",
+      "ref": "e47e51cf8",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1231,
+        443,
+        32,
+        25
+      ],
+      "name": "",
+      "ref": "e3fb20482",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ],
+      "text": "01"
+    },
+    {
+      "bounds": [
+        1263,
+        443,
+        145,
+        25
+      ],
+      "name": "",
+      "ref": "e16504d7e",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        1302,
+        443,
+        32,
+        25
+      ],
+      "name": "",
+      "ref": "e1f7b7949",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ],
+      "text": "00"
+    },
+    {
+      "bounds": [
+        1334,
+        443,
+        5,
+        25
+      ],
+      "name": ":",
+      "ref": "e38d29036",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1339,
+        443,
+        32,
+        25
+      ],
+      "name": "",
+      "ref": "e75eccc76",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ],
+      "text": "00"
+    },
+    {
+      "bounds": [
+        1371,
+        443,
+        5,
+        25
+      ],
+      "name": ":",
+      "ref": "ef54e6c7a",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1376,
+        443,
+        32,
+        25
+      ],
+      "name": "",
+      "ref": "e4f6e3bb9",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ],
+      "text": "00"
+    },
+    {
+      "bounds": [
+        1118,
+        380,
+        290,
+        44
+      ],
+      "description": "enter the new date/time (YYYY:MM:DD hh:mm:ss[.sss])\nkey in the new numbers or scroll over the cell",
+      "name": "",
+      "ref": "e17f4f1b7",
+      "role": "table"
+    },
+    {
+      "bounds": [
+        1118,
+        380,
+        290,
+        19
+      ],
+      "name": "",
+      "ref": "e78157c42",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        1118,
+        380,
+        141,
+        19
+      ],
+      "name": "date/time",
+      "ref": "eec880fbd",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1118,
+        399,
+        290,
+        25
+      ],
+      "name": "",
+      "ref": "e5799b7f4",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        1118,
+        399,
+        290,
+        25
+      ],
+      "name": "",
+      "ref": "e82cf4e8d",
+      "role": "table"
+    },
+    {
+      "bounds": [
+        1118,
+        399,
+        145,
+        25
+      ],
+      "name": "",
+      "ref": "edac8e0ec",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        1135,
+        399,
+        52,
+        25
+      ],
+      "name": "",
+      "ref": "ee2dfdfdf",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "2024"
+    },
+    {
+      "bounds": [
+        1187,
+        399,
+        6,
+        25
+      ],
+      "name": "-",
+      "ref": "e06c57d42",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1193,
+        399,
+        32,
+        25
+      ],
+      "name": "",
+      "ref": "e21f9fb73",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "01"
+    },
+    {
+      "bounds": [
+        1225,
+        399,
+        6,
+        25
+      ],
+      "name": "-",
+      "ref": "edce6abd7",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1231,
+        399,
+        32,
+        25
+      ],
+      "name": "",
+      "ref": "edb68ede1",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "01"
+    },
+    {
+      "bounds": [
+        1263,
+        399,
+        145,
+        25
+      ],
+      "name": "",
+      "ref": "e8617d1a7",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        1302,
+        399,
+        32,
+        25
+      ],
+      "name": "",
+      "ref": "e2c64a63c",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "00"
+    },
+    {
+      "bounds": [
+        1334,
+        399,
+        5,
+        25
+      ],
+      "name": ":",
+      "ref": "ed920126b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1339,
+        399,
+        32,
+        25
+      ],
+      "name": "",
+      "ref": "e8d864592",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "00"
+    },
+    {
+      "bounds": [
+        1371,
+        399,
+        5,
+        25
+      ],
+      "name": ":",
+      "ref": "eb66eb3b3",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1376,
+        399,
+        32,
+        25
+      ],
+      "name": "",
+      "ref": "e956b8184",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "00"
+    },
+    {
+      "bounds": [
+        1108,
+        620,
+        310,
+        41
+      ],
+      "description": "AI-based image restoration: denoise and upscale",
+      "name": "",
+      "ref": "e22dcdd9c",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1116,
+        628,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "e09ebcd29",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1139,
+        628,
+        134,
+        24
+      ],
+      "name": "neural restore",
+      "ref": "e79f89af2",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1273,
+        628,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "ea0bfc04d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1364,
+        628,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "ea4fc3d96",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1387,
+        628,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "e4083b0f4",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1108,
+        661,
+        310,
+        41
+      ],
+      "description": "create new files for the\ncurrently selected images\nwhich apply your edits",
+      "name": "",
+      "ref": "e3866ba5e",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1116,
+        669,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "e69433d85",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1139,
+        669,
+        66,
+        24
+      ],
+      "name": "export",
+      "ref": "e9521c267",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1205,
+        669,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "e8b6e1f28",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1364,
+        669,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "ee8a54b23",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1387,
+        669,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "e1de61e84",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1108,
+        702,
+        310,
+        68
+      ],
+      "description": "right-click to show/hide modules",
+      "name": "",
+      "ref": "e9c167cb5",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        1418,
+        89,
+        12,
+        681
+      ],
+      "name": "",
+      "ref": "e42e8aaeb",
+      "role": "scroll bar"
+    },
+    {
+      "bounds": [
+        1108,
+        89,
+        5,
+        681
+      ],
+      "name": "",
+      "ref": "eaf30768b",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        120,
+        895,
+        158,
+        19
+      ],
+      "name": "-",
+      "ref": "e371a45e1",
+      "role": "label",
+      "visible": [
+        120,
+        895,
+        158,
+        0
+      ]
+    },
+    {
+      "bounds": [
+        32,
+        895,
+        73,
+        19
+      ],
+      "name": "publisher",
+      "ref": "e388ff1b9",
+      "role": "label",
+      "visible": [
+        32,
+        895,
+        73,
+        0
+      ]
+    },
+    {
+      "bounds": [
+        120,
+        876,
+        158,
+        19
+      ],
+      "name": "-",
+      "ref": "e3adf9fbc",
+      "role": "label",
+      "visible": [
+        120,
+        876,
+        158,
+        0
+      ]
+    },
+    {
+      "bounds": [
+        32,
+        876,
+        58,
+        19
+      ],
+      "name": "creator",
+      "ref": "ea5aa429a",
+      "role": "label",
+      "visible": [
+        32,
+        876,
+        58,
+        0
+      ]
+    },
+    {
+      "bounds": [
+        120,
+        857,
+        158,
+        19
+      ],
+      "name": "-",
+      "ref": "ef291f110",
+      "role": "label",
+      "visible": [
+        120,
+        857,
+        158,
+        0
+      ]
+    },
+    {
+      "bounds": [
+        32,
+        857,
+        83,
+        19
+      ],
+      "name": "description",
+      "ref": "e54034d0b",
+      "role": "label",
+      "visible": [
+        32,
+        857,
+        83,
+        0
+      ]
+    },
+    {
+      "bounds": [
+        120,
+        838,
+        158,
+        19
+      ],
+      "name": "-",
+      "ref": "ecca91727",
+      "role": "label",
+      "visible": [
+        120,
+        838,
+        158,
+        0
+      ]
+    },
+    {
+      "bounds": [
+        32,
+        838,
+        30,
+        19
+      ],
+      "name": "title",
+      "ref": "e794b1149",
+      "role": "label",
+      "visible": [
+        32,
+        838,
+        30,
+        0
+      ]
+    },
+    {
+      "bounds": [
+        120,
+        819,
+        158,
+        19
+      ],
+      "name": "-",
+      "ref": "e27f7327d",
+      "role": "label",
+      "visible": [
+        120,
+        819,
+        158,
+        0
+      ]
+    },
+    {
+      "bounds": [
+        32,
+        819,
+        83,
+        19
+      ],
+      "name": "categories",
+      "ref": "e0b53def4",
+      "role": "label",
+      "visible": [
+        32,
+        819,
+        83,
+        0
+      ]
+    },
+    {
+      "bounds": [
+        120,
+        800,
+        158,
+        19
+      ],
+      "name": "-",
+      "ref": "e4dfabd04",
+      "role": "label",
+      "visible": [
+        120,
+        800,
+        158,
+        0
+      ]
+    },
+    {
+      "bounds": [
+        32,
+        800,
+        34,
+        19
+      ],
+      "name": "tags",
+      "ref": "e203d789e",
+      "role": "label",
+      "visible": [
+        32,
+        800,
+        34,
+        0
+      ]
+    },
+    {
+      "bounds": [
+        120,
+        781,
+        158,
+        19
+      ],
+      "name": "35.50 m above sea level",
+      "ref": "efd504168",
+      "role": "label",
+      "visible": [
+        120,
+        781,
+        158,
+        0
+      ]
+    },
+    {
+      "bounds": [
+        32,
+        781,
+        73,
+        19
+      ],
+      "name": "elevation",
+      "ref": "e1a11ad86",
+      "role": "label",
+      "visible": [
+        32,
+        781,
+        73,
+        0
+      ]
+    },
+    {
+      "bounds": [
+        120,
+        762,
+        158,
+        19
+      ],
+      "name": "W 000° 07.200'",
+      "ref": "ef60a78f2",
+      "role": "label",
+      "visible": [
+        120,
+        762,
+        158,
+        8
+      ]
+    },
+    {
+      "bounds": [
+        32,
+        762,
+        74,
+        19
+      ],
+      "name": "longitude",
+      "ref": "eb5c735f3",
+      "role": "label",
+      "visible": [
+        32,
+        762,
+        74,
+        8
+      ]
+    },
+    {
+      "bounds": [
+        120,
+        743,
+        158,
+        19
+      ],
+      "name": "N 51° 30.000'",
+      "ref": "e460dfede",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        743,
+        60,
+        19
+      ],
+      "name": "latitude",
+      "ref": "e17f547a2",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        724,
+        158,
+        19
+      ],
+      "name": "144",
+      "ref": "ec9fa34b9",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        724,
+        83,
+        19
+      ],
+      "name": "export height",
+      "ref": "e166a25c3",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        705,
+        158,
+        19
+      ],
+      "name": "192",
+      "ref": "efcab86f5",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        705,
+        83,
+        19
+      ],
+      "name": "export width",
+      "ref": "e8f536f01",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        686,
+        158,
+        19
+      ],
+      "name": "144",
+      "ref": "eb2151d65",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        686,
+        50,
+        19
+      ],
+      "name": "height",
+      "ref": "e7348521d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        667,
+        158,
+        19
+      ],
+      "name": "192",
+      "ref": "eb590f2db",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        667,
+        43,
+        19
+      ],
+      "name": "width",
+      "ref": "ea642b59e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        648,
+        158,
+        19
+      ],
+      "name": "Mon 01/01/24 00:00:00",
+      "ref": "ef5aa2ecf",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        648,
+        72,
+        19
+      ],
+      "name": "datetime",
+      "ref": "e3c0516af",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        629,
+        158,
+        19
+      ],
+      "name": "0",
+      "ref": "ea157cdca",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        629,
+        28,
+        19
+      ],
+      "name": "ISO",
+      "ref": "e703350fd",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        610,
+        158,
+        19
+      ],
+      "name": "-",
+      "ref": "ebd0669bb",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        610,
+        83,
+        19
+      ],
+      "name": "focus distance",
+      "ref": "ef7de50e1",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        591,
+        158,
+        19
+      ],
+      "name": "-",
+      "ref": "e7c26c991",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        591,
+        83,
+        19
+      ],
+      "name": "crop factor",
+      "ref": "e8a04f338",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        572,
+        158,
+        19
+      ],
+      "name": "-",
+      "ref": "e73e5b6e9",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        572,
+        83,
+        19
+      ],
+      "name": "35mm equiv focal length",
+      "ref": "e3802de17",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        553,
+        158,
+        19
+      ],
+      "name": "0.0 mm",
+      "ref": "e07a1bc35",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        553,
+        83,
+        19
+      ],
+      "name": "focal length",
+      "ref": "e4ceb4b55",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        534,
+        158,
+        19
+      ],
+      "name": "",
+      "ref": "e84b4d86f",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        534,
+        83,
+        19
+      ],
+      "name": "metering mode",
+      "ref": "e79fbd0d8",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        515,
+        158,
+        19
+      ],
+      "name": "",
+      "ref": "e6e04e958",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        515,
+        38,
+        19
+      ],
+      "name": "flash",
+      "ref": "e2d644fb7",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        496,
+        158,
+        19
+      ],
+      "name": "",
+      "ref": "efc13f378",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        496,
+        83,
+        19
+      ],
+      "name": "white balance",
+      "ref": "e8e48be15",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        477,
+        158,
+        19
+      ],
+      "name": "",
+      "ref": "efcf33599",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        477,
+        83,
+        19
+      ],
+      "name": "exposure program",
+      "ref": "e119d83ce",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        458,
+        158,
+        19
+      ],
+      "name": "-",
+      "ref": "e404bd215",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        458,
+        83,
+        19
+      ],
+      "name": "exposure bias",
+      "ref": "e1e8531cb",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        439,
+        158,
+        19
+      ],
+      "name": "1/inf",
+      "ref": "e992cd851",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        439,
+        73,
+        19
+      ],
+      "name": "exposure",
+      "ref": "e6f0d330f",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        420,
+        158,
+        19
+      ],
+      "name": "f/0.0",
+      "ref": "ed5acdbe9",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        420,
+        69,
+        19
+      ],
+      "name": "aperture",
+      "ref": "e144e558c",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        401,
+        158,
+        19
+      ],
+      "name": "",
+      "ref": "efdea964b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        401,
+        32,
+        19
+      ],
+      "name": "lens",
+      "ref": "e65b218dd",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        382,
+        158,
+        19
+      ],
+      "name": "",
+      "ref": "e8b3df03e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        382,
+        52,
+        19
+      ],
+      "name": "maker",
+      "ref": "eaa145c96",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        363,
+        158,
+        19
+      ],
+      "name": "",
+      "ref": "e1df6d58d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        363,
+        50,
+        19
+      ],
+      "name": "model",
+      "ref": "e529052b7",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        344,
+        158,
+        19
+      ],
+      "description": "image has 1 star\nHDR\nauto-applying presets applied\nloader: PNG",
+      "name": "1....h.a....p",
+      "ref": "e878282cd",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        344,
+        38,
+        19
+      ],
+      "name": "flags",
+      "ref": "ead3b2ecb",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        325,
+        158,
+        19
+      ],
+      "name": "-",
+      "ref": "ef3e7ab8a",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        325,
+        83,
+        19
+      ],
+      "name": "print timestamp",
+      "ref": "eef2ec331",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        306,
+        158,
+        19
+      ],
+      "name": "-",
+      "ref": "e28149492",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        306,
+        83,
+        19
+      ],
+      "name": "export timestamp",
+      "ref": "e77b7ceae",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        287,
+        158,
+        19
+      ],
+      "name": "-",
+      "ref": "e90dc59b5",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        287,
+        83,
+        19
+      ],
+      "name": "change timestamp",
+      "ref": "e202f352c",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        268,
+        158,
+        19
+      ],
+      "name": "[event time]",
+      "ref": "ebb7358dc",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        268,
+        83,
+        19
+      ],
+      "name": "import timestamp",
+      "ref": "eacb845c6",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        249,
+        158,
+        19
+      ],
+      "name": "no",
+      "ref": "e3c3dbd9d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        249,
+        80,
+        19
+      ],
+      "name": "local copy",
+      "ref": "eba33b267",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        230,
+        158,
+        19
+      ],
+      "name": "/app/candidate-state/session/instance/files/inputs/chart.png",
+      "ref": "ee382ee9a",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        230,
+        65,
+        19
+      ],
+      "name": "full path",
+      "ref": "ee4705d71",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        211,
+        158,
+        19
+      ],
+      "name": "0",
+      "ref": "ea58b0dbe",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        211,
+        58,
+        19
+      ],
+      "name": "version",
+      "ref": "e5d2a314d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        192,
+        158,
+        19
+      ],
+      "name": "chart.png",
+      "ref": "e6b08b65a",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        192,
+        70,
+        19
+      ],
+      "name": "filename",
+      "ref": "eafbf632d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        173,
+        158,
+        19
+      ],
+      "name": "1",
+      "ref": "e08de05e4",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        173,
+        65,
+        19
+      ],
+      "name": "group id",
+      "ref": "eb7745c19",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        154,
+        158,
+        19
+      ],
+      "name": "1",
+      "ref": "e82f486b0",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        154,
+        69,
+        19
+      ],
+      "name": "image id",
+      "ref": "e72131cc0",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        135,
+        158,
+        19
+      ],
+      "description": "double-click to jump to film roll\ninputs",
+      "name": "inputs",
+      "ref": "e4f5c493b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        32,
+        135,
+        54,
+        19
+      ],
+      "name": "filmroll",
+      "ref": "e0e03a89e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        10,
+        89,
+        12,
+        681
+      ],
+      "name": "",
+      "ref": "e38d995b3",
+      "role": "scroll bar"
+    },
+    {
+      "bounds": [
+        283,
+        89,
+        5,
+        681
+      ],
+      "name": "",
+      "ref": "eeb8db010",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        10,
+        770,
+        1420,
+        5
+      ],
+      "name": "",
+      "ref": "e9e9b7193",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        292,
+        91,
+        39,
+        34
+      ],
+      "description": "filter preferences",
+      "name": "",
+      "ref": "e10591019",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        331,
+        91,
+        45,
+        34
+      ],
+      "name": "filter",
+      "ref": "e77fa672d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        376,
+        91,
+        13,
+        34
+      ],
+      "description": "filter images based on their module order",
+      "name": "",
+      "ref": "eb3e8a10d",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        389,
+        91,
+        30,
+        34
+      ],
+      "description": "filter by images color label\nclick to toggle the color label selection\nctrl+click to exclude the color label\nthe gray button affects all color labels",
+      "name": "",
+      "ref": "ea970ec4b",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        419,
+        91,
+        30,
+        34
+      ],
+      "description": "filter by images color label\nclick to toggle the color label selection\nctrl+click to exclude the color label\nthe gray button affects all color labels",
+      "name": "",
+      "ref": "ee6653202",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        449,
+        91,
+        30,
+        34
+      ],
+      "description": "filter by images color label\nclick to toggle the color label selection\nctrl+click to exclude the color label\nthe gray button affects all color labels",
+      "name": "",
+      "ref": "e12ea2821",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        479,
+        91,
+        30,
+        34
+      ],
+      "description": "filter by images color label\nclick to toggle the color label selection\nctrl+click to exclude the color label\nthe gray button affects all color labels",
+      "name": "",
+      "ref": "ec476f2d8",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        509,
+        91,
+        30,
+        34
+      ],
+      "description": "filter by images color label\nclick to toggle the color label selection\nctrl+click to exclude the color label\nthe gray button affects all color labels",
+      "name": "",
+      "ref": "e43ddd754",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        539,
+        91,
+        30,
+        34
+      ],
+      "description": "filter by images color label\nclick to toggle the color label selection\nctrl+click to exclude the color label\nthe gray button affects all color labels",
+      "name": "",
+      "ref": "e41770172",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        571,
+        91,
+        30,
+        34
+      ],
+      "description": "filter by images color label\nintersection: images having all selected color labels\nunion: images with at least one of the selected color labels",
+      "name": "",
+      "ref": "e6517961f",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        611,
+        91,
+        146,
+        32
+      ],
+      "name": "",
+      "ref": "eea792d53",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        765,
+        91,
+        63,
+        34
+      ],
+      "name": "sort by",
+      "ref": "e3312cbd3",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        828,
+        91,
+        13,
+        34
+      ],
+      "description": "determine the sort order of shown images",
+      "name": "",
+      "ref": "ec4aebb94",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        841,
+        91,
+        39,
+        34
+      ],
+      "name": "",
+      "ref": "ed3f4496f",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        880,
+        91,
+        29,
+        34
+      ],
+      "description": "0 images selected of 0",
+      "name": "1 image (#1) selected of 1",
+      "ref": "ee7d357de",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        909,
+        91,
+        39,
+        34
+      ],
+      "description": "collapse grouped images",
+      "name": "",
+      "ref": "e6d85c8be",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        948,
+        91,
+        39,
+        34
+      ],
+      "description": "click to change the type of overlays shown on thumbnails",
+      "name": "",
+      "ref": "ecc2e96ac",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        987,
+        91,
+        39,
+        34
+      ],
+      "description": "enable this, then click on a control element to see its online help",
+      "name": "",
+      "ref": "ef6834098",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1026,
+        91,
+        39,
+        34
+      ],
+      "description": "define keyboard shortcuts for on-screen controls\nctrl+click to switch off overwrite confirmations\n\nafter activating:\n\n- hover over a control (button, slider, etc.) and press\n  a keystroke combination ",
+      "name": "",
+      "ref": "eed700363",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1065,
+        91,
+        39,
+        34
+      ],
+      "description": "show global preferences",
+      "name": "",
+      "ref": "e3cc12f52",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        288,
+        127,
+        820,
+        605
+      ],
+      "name": "",
+      "ref": "e2c13d374",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        288,
+        127,
+        164,
+        164
+      ],
+      "description": "chart.png\n01/01/24 00:00:00  \n1/inf • f/0.0 • 0.0mm • ISO 0",
+      "name": "",
+      "ref": "e7a194488",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        290,
+        129,
+        65,
+        17
+      ],
+      "name": "PNG HDR",
+      "ref": "e3a0ed95d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        290,
+        149,
+        160,
+        120
+      ],
+      "name": "",
+      "ref": "e626e91b8",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        290,
+        272,
+        160,
+        19
+      ],
+      "name": "",
+      "ref": "e5af43c57",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        288,
+        273,
+        18,
+        18
+      ],
+      "name": "",
+      "ref": "e8233358b",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        325,
+        273,
+        18,
+        18
+      ],
+      "name": "",
+      "ref": "e387b5a6c",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        343,
+        273,
+        18,
+        18
+      ],
+      "name": "",
+      "ref": "efcede75c",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        361,
+        273,
+        18,
+        18
+      ],
+      "name": "",
+      "ref": "ea563314f",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        379,
+        273,
+        18,
+        18
+      ],
+      "name": "",
+      "ref": "e733dd51a",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        397,
+        273,
+        18,
+        18
+      ],
+      "name": "",
+      "ref": "ecfbbb1ab",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        292,
+        742,
+        144,
+        18
+      ],
+      "description": "set star rating for selected images",
+      "name": "",
+      "ref": "ef622dc2c",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        452,
+        734,
+        34,
+        34
+      ],
+      "description": "toggle color label of selected images",
+      "name": "",
+      "ref": "e75dcc550",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        486,
+        734,
+        34,
+        34
+      ],
+      "description": "toggle color label of selected images",
+      "name": "",
+      "ref": "e4784da76",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        520,
+        734,
+        34,
+        34
+      ],
+      "description": "toggle color label of selected images",
+      "name": "",
+      "ref": "e6dda5560",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        554,
+        734,
+        34,
+        34
+      ],
+      "description": "toggle color label of selected images",
+      "name": "",
+      "ref": "e528a5ab3",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        588,
+        734,
+        34,
+        34
+      ],
+      "description": "toggle color label of selected images",
+      "name": "",
+      "ref": "e446ecc42",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        622,
+        734,
+        34,
+        34
+      ],
+      "description": "clear color labels of selected images",
+      "name": "",
+      "ref": "e932858ad",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        668,
+        734,
+        40,
+        34
+      ],
+      "description": "click to enter filemanager layout.",
+      "name": "",
+      "ref": "e5a8e5419",
+      "role": "toggle button",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        708,
+        734,
+        40,
+        34
+      ],
+      "description": "click to enter zoomable lighttable layout.",
+      "name": "",
+      "ref": "e40de2eaf",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        748,
+        734,
+        40,
+        34
+      ],
+      "description": "click to enter culling layout in fixed mode.",
+      "name": "",
+      "ref": "ed0090e0e",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        788,
+        734,
+        40,
+        34
+      ],
+      "description": "click to enter culling layout in dynamic mode.",
+      "name": "",
+      "ref": "e0f9db5de",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        828,
+        734,
+        40,
+        34
+      ],
+      "description": "click to enter full preview layout.",
+      "name": "",
+      "ref": "e414f551a",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        892,
+        734,
+        92,
+        34
+      ],
+      "description": "set the number of thumbnails per row in filemanager layout,\nor the total number of thumbnails shown in culling layouts.",
+      "name": "",
+      "ref": "e79ba2568",
+      "role": "spin button",
+      "states": [
+        "editable"
+      ],
+      "text": "5",
+      "value": 5.0
+    },
+    {
+      "bounds": [
+        996,
+        734,
+        40,
+        34
+      ],
+      "description": "toggle focus-peaking mode",
+      "name": "",
+      "ref": "e702d271a",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1036,
+        734,
+        34,
+        34
+      ],
+      "description": "set display profile",
+      "name": "",
+      "ref": "e719ee0ce",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1070,
+        734,
+        34,
+        34
+      ],
+      "description": "view log history",
+      "name": "",
+      "ref": "e69b26bc2",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1088,
+        734,
+        16,
+        21
+      ],
+      "name": "●",
+      "ref": "e0fdcd794",
+      "role": "label",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        258,
+        30,
+        669,
+        58
+      ],
+      "name": "",
+      "ref": "ee3120f00",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        930,
+        31,
+        134,
+        56
+      ],
+      "name": "lighttable",
+      "ref": "e8f15d86a",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1064,
+        31,
+        28,
+        56
+      ],
+      "name": "|",
+      "ref": "e0c870eb2",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1092,
+        31,
+        136,
+        56
+      ],
+      "name": "darkroom",
+      "ref": "eea8ce135",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1228,
+        31,
+        28,
+        56
+      ],
+      "name": "|",
+      "ref": "ed06f61b5",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1256,
+        31,
+        172,
+        56
+      ],
+      "name": "other",
+      "ref": "eec638793",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        1430,
+        29,
+        10,
+        741
+      ],
+      "name": "",
+      "ref": "ef4507aaf",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        0,
+        29,
+        10,
+        741
+      ],
+      "name": "",
+      "ref": "eaa3923f3",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        0,
+        890,
+        1440,
+        10
+      ],
+      "name": "",
+      "ref": "e4d26bbc9",
+      "role": "drawing area"
+    }
+  ],
+  "screen": [
+    1440,
+    900
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": true,
+      "bounds": [
+        0,
+        38,
+        1440,
+        881
+      ],
+      "ref": "w7e208ab0",
+      "title": "darktable"
+    }
+  ]
+}

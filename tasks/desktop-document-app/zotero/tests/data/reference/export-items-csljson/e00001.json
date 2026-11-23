@@ -1,0 +1,2039 @@
+{
+  "focused": "e8b8992fe",
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        881
+      ],
+      "name": "My Library - Zotero",
+      "ref": "ead4bdb1d",
+      "role": "frame",
+      "states": [
+        "active"
+      ],
+      "text": "￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼"
+    },
+    {
+      "bounds": [
+        8,
+        19,
+        1154,
+        36
+      ],
+      "name": "",
+      "ref": "eeb2247d8",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        19,
+        210,
+        36
+      ],
+      "name": "Application",
+      "ref": "e5c0c6bd6",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        8,
+        19,
+        36,
+        36
+      ],
+      "name": "File",
+      "ref": "eae5e7196",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        44,
+        19,
+        39,
+        36
+      ],
+      "name": "Edit",
+      "ref": "e9280c15b",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        83,
+        19,
+        45,
+        36
+      ],
+      "name": "View",
+      "ref": "e2cb9b4a8",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        128,
+        19,
+        46,
+        36
+      ],
+      "name": "Tools",
+      "ref": "ec5a466a3",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        174,
+        19,
+        44,
+        36
+      ],
+      "name": "Help",
+      "ref": "ef594ac36",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        0,
+        55,
+        1207,
+        36
+      ],
+      "name": "",
+      "ref": "ef0a88b3f",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        55,
+        1199,
+        36
+      ],
+      "name": "",
+      "ref": "e5435fdac",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        9,
+        59,
+        200,
+        28
+      ],
+      "name": "",
+      "ref": "e6f6dda1a",
+      "role": "section",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        35,
+        64,
+        168,
+        18
+      ],
+      "name": "My Library",
+      "ref": "e14c014a2",
+      "role": "section"
+    },
+    {
+      "bounds": [
+        1211,
+        59,
+        28,
+        28
+      ],
+      "name": "List all tabs",
+      "ref": "e82983a32",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1248,
+        59,
+        28,
+        28
+      ],
+      "name": "Sync with zotero.org",
+      "ref": "ebd38ba1b",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        92,
+        200,
+        41
+      ],
+      "name": "",
+      "ref": "e30e37922",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        8,
+        98,
+        28,
+        28
+      ],
+      "name": "New Collection…",
+      "ref": "eaf37dda1",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        156,
+        98,
+        28,
+        28
+      ],
+      "name": "Filter Collections",
+      "ref": "e7bbd7881",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        133,
+        200,
+        567
+      ],
+      "name": "",
+      "ref": "e6cae55ac",
+      "role": "section",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        0,
+        133,
+        200,
+        567
+      ],
+      "name": "Collections",
+      "ref": "e3fc109d8",
+      "role": "tree",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        0,
+        133,
+        200,
+        567
+      ],
+      "name": "",
+      "ref": "eb7fe2a2b",
+      "role": "section",
+      "text": "￼￼￼￼￼￼"
+    },
+    {
+      "bounds": [
+        8,
+        133,
+        184,
+        28
+      ],
+      "name": "My Library",
+      "ref": "e19545fd2",
+      "role": "tree item",
+      "states": [
+        "selected",
+        "expanded",
+        "active"
+      ],
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        133,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e5b982c1c",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        44,
+        138,
+        144,
+        18
+      ],
+      "name": "",
+      "ref": "e949e16e3",
+      "role": "section",
+      "text": "My Library"
+    },
+    {
+      "bounds": [
+        8,
+        161,
+        184,
+        28
+      ],
+      "name": "Recently Read",
+      "ref": "e97dca4d1",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        161,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e4b31b13a",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        166,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "e6527c2eb",
+      "role": "section",
+      "text": "Recently Read"
+    },
+    {
+      "bounds": [
+        8,
+        189,
+        184,
+        28
+      ],
+      "name": "My Publications",
+      "ref": "e8018da65",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        189,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e60ce88f8",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        194,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "e1cd9ec22",
+      "role": "section",
+      "text": "My Publications"
+    },
+    {
+      "bounds": [
+        8,
+        217,
+        184,
+        28
+      ],
+      "name": "Duplicate Items",
+      "ref": "ec080f737",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        217,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e1a9174ab",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        222,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "e9a440bd6",
+      "role": "section",
+      "text": "Duplicate Items"
+    },
+    {
+      "bounds": [
+        8,
+        245,
+        184,
+        28
+      ],
+      "name": "Unfiled Items",
+      "ref": "ebc78b9cf",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        245,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "ed3a9131c",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        250,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "e6881de92",
+      "role": "section",
+      "text": "Unfiled Items"
+    },
+    {
+      "bounds": [
+        8,
+        273,
+        184,
+        28
+      ],
+      "name": "Trash",
+      "ref": "e3a1da046",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        273,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "eedbb7f7a",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        278,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "ea2ad079a",
+      "role": "section",
+      "text": "Trash"
+    },
+    {
+      "bounds": [
+        0,
+        700,
+        200,
+        200
+      ],
+      "name": "",
+      "ref": "e57aa693b",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        0,
+        700,
+        200,
+        200
+      ],
+      "name": "",
+      "ref": "e8e529781",
+      "role": "section",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        0,
+        700,
+        200,
+        163
+      ],
+      "name": "",
+      "ref": "e7ef021d1",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        0,
+        700,
+        200,
+        163
+      ],
+      "name": "Tag Selector",
+      "ref": "e3d2a1972",
+      "role": "panel",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        0,
+        700,
+        68,
+        36
+      ],
+      "name": "",
+      "ref": "e33a92712",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        709,
+        60,
+        19
+      ],
+      "name": "software",
+      "ref": "e2aabbb43",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        8,
+        870,
+        144,
+        24
+      ],
+      "name": "Filter Tags",
+      "ref": "e59a38a2f",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        156,
+        870,
+        36,
+        24
+      ],
+      "name": "Actions",
+      "ref": "ec1ed66a8",
+      "role": "push button",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        200,
+        92,
+        723,
+        41
+      ],
+      "name": "",
+      "ref": "e32ed8ff3",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        208,
+        98,
+        40,
+        28
+      ],
+      "name": "New Item",
+      "ref": "ed2f311e2",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        256,
+        98,
+        28,
+        28
+      ],
+      "name": "Add Item(s) by Identifier",
+      "ref": "ea6d01f8f",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        292,
+        98,
+        40,
+        28
+      ],
+      "name": "Add Attachment",
+      "ref": "ef952ec7e",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        340,
+        98,
+        40,
+        28
+      ],
+      "name": "New Note",
+      "ref": "e553c0457",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        615,
+        98,
+        36,
+        28
+      ],
+      "name": "Quick Search mode",
+      "ref": "ef94081cc",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        655,
+        99,
+        227,
+        26
+      ],
+      "description": "All Fields & Tags",
+      "name": "Quick Search",
+      "ref": "e8b8992fe",
+      "role": "entry",
+      "states": [
+        "focused",
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        885,
+        98,
+        28,
+        28
+      ],
+      "name": "Advanced Search",
+      "ref": "e9d5a1225",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        200,
+        133,
+        723,
+        767
+      ],
+      "name": "",
+      "ref": "e33b3cb16",
+      "role": "section",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        200,
+        133,
+        723,
+        767
+      ],
+      "name": "Items",
+      "ref": "e86693c48",
+      "role": "tree",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        200,
+        133,
+        723,
+        30
+      ],
+      "name": "",
+      "ref": "ed5511ba1",
+      "role": "section",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        139,
+        525,
+        17
+      ],
+      "name": "",
+      "ref": "e694c5b64",
+      "role": "section",
+      "text": "Title"
+    },
+    {
+      "bounds": [
+        749,
+        139,
+        126,
+        17
+      ],
+      "name": "",
+      "ref": "e8ed6218b",
+      "role": "section",
+      "text": "Creator"
+    },
+    {
+      "bounds": [
+        883,
+        140,
+        32,
+        16
+      ],
+      "name": "Attachments",
+      "ref": "efdc5d7d7",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        200,
+        167,
+        723,
+        733
+      ],
+      "name": "",
+      "ref": "e340087f0",
+      "role": "section",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        167,
+        707,
+        28
+      ],
+      "name": "A Symbolic Analysis of Relay and Switching Circuits. Thesis. Shannon",
+      "ref": "ef9db2026",
+      "role": "tree item",
+      "states": [
+        "selected",
+        "active"
+      ],
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        173,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "e63c25d20",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        173,
+        489,
+        17
+      ],
+      "name": "A Symbolic Analysis of Relay and Switching Circuits. Thesis.",
+      "ref": "ed6684edd",
+      "role": "section",
+      "text": "A Symbolic Analysis of Relay and Switching Circuits"
+    },
+    {
+      "bounds": [
+        741,
+        173,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "e0a3db963",
+      "role": "section",
+      "text": "Shannon"
+    },
+    {
+      "bounds": [
+        208,
+        195,
+        707,
+        28
+      ],
+      "name": "Go To Statement Considered Harmful. Journal Article. Dijkstra",
+      "ref": "eef92ce13",
+      "role": "tree item",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        201,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "e041ad9e5",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        201,
+        489,
+        17
+      ],
+      "name": "Go To Statement Considered Harmful. Journal Article.",
+      "ref": "e57fb8ae2",
+      "role": "section",
+      "text": "Go To Statement Considered Harmful"
+    },
+    {
+      "bounds": [
+        741,
+        201,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "ecc56affd",
+      "role": "section",
+      "text": "Dijkstra"
+    },
+    {
+      "bounds": [
+        208,
+        223,
+        707,
+        28
+      ],
+      "name": "The Mythical Man-Month. Book. Brooks",
+      "ref": "eb5af819f",
+      "role": "tree item",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        229,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "eac1d9f0e",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        229,
+        489,
+        17
+      ],
+      "name": "The Mythical Man-Month. Book.",
+      "ref": "e2cff8d02",
+      "role": "section",
+      "text": "The Mythical Man-Month"
+    },
+    {
+      "bounds": [
+        741,
+        229,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "ee6aeda6d",
+      "role": "section",
+      "text": "Brooks"
+    },
+    {
+      "bounds": [
+        931,
+        96,
+        304,
+        45
+      ],
+      "name": "Title",
+      "ref": "ef7a8c8b0",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        931,
+        96,
+        304,
+        45
+      ],
+      "name": "Title",
+      "ref": "e94a73ef1",
+      "role": "entry",
+      "states": [
+        "editable"
+      ],
+      "text": "A Symbolic Analysis of Relay and Switching Circuits"
+    },
+    {
+      "bounds": [
+        923,
+        150,
+        320,
+        750
+      ],
+      "name": "Item Details",
+      "ref": "e55679017",
+      "role": "section",
+      "text": "￼￼￼￼￼￼￼￼￼￼￼￼￼￼"
+    },
+    {
+      "bounds": [
+        931,
+        154,
+        304,
+        24
+      ],
+      "name": "Info",
+      "ref": "e8348799e",
+      "role": "push button",
+      "states": [
+        "expanded"
+      ],
+      "text": "Info￼￼￼"
+    },
+    {
+      "bounds": [
+        1215,
+        156,
+        20,
+        20
+      ],
+      "name": "Collapse Info section",
+      "ref": "e6e221451",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        931,
+        180,
+        304,
+        706
+      ],
+      "name": "",
+      "ref": "e88aa4710",
+      "role": "section",
+      "text": "￼￼￼￼￼"
+    },
+    {
+      "bounds": [
+        931,
+        180,
+        304,
+        706
+      ],
+      "name": "",
+      "ref": "e78af295d",
+      "role": "section",
+      "text": "￼￼￼￼￼￼￼,￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼"
+    },
+    {
+      "bounds": [
+        931,
+        183,
+        100,
+        18
+      ],
+      "name": "Item Type",
+      "ref": "eef596acd",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1039,
+        180,
+        191,
+        21
+      ],
+      "name": "Item Type",
+      "ref": "e064c99a3",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        931,
+        206,
+        100,
+        55
+      ],
+      "name": "Title",
+      "ref": "e8e09e9fc",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1039,
+        203,
+        174,
+        58
+      ],
+      "name": "Title",
+      "ref": "e36fd53e2",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1039,
+        203,
+        174,
+        58
+      ],
+      "name": "Title",
+      "ref": "ea6598eee",
+      "role": "entry",
+      "states": [
+        "editable"
+      ],
+      "text": "A Symbolic Analysis of Relay and Switching Circuits"
+    },
+    {
+      "bounds": [
+        1217,
+        203,
+        18,
+        20
+      ],
+      "name": "Open context menu",
+      "ref": "e5c0a16b7",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        971,
+        264,
+        64,
+        21
+      ],
+      "name": "Author",
+      "ref": "e36838b70",
+      "role": "push button",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        985,
+        266,
+        46,
+        17
+      ],
+      "name": "Author",
+      "ref": "e54ba930d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1039,
+        263,
+        67,
+        23
+      ],
+      "name": "(last)",
+      "ref": "ef3decfe2",
+      "role": "entry",
+      "states": [
+        "editable"
+      ],
+      "text": "Shannon"
+    },
+    {
+      "bounds": [
+        1106,
+        263,
+        55,
+        23
+      ],
+      "name": "(first)",
+      "ref": "e86c18dd5",
+      "role": "entry",
+      "states": [
+        "editable"
+      ],
+      "text": "Claude"
+    },
+    {
+      "bounds": [
+        1029,
+        255,
+        22,
+        16
+      ],
+      "name": "Switch to Single Field",
+      "ref": "ee7755fe9",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1032,
+        255,
+        16,
+        16
+      ],
+      "name": "Delete",
+      "ref": "e3eb25a6e",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1032,
+        255,
+        16,
+        16
+      ],
+      "name": "Create",
+      "ref": "e63e80912",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1032,
+        255,
+        16,
+        16
+      ],
+      "name": "Open context menu",
+      "ref": "eddfdcb8b",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        931,
+        291,
+        100,
+        21
+      ],
+      "name": "Type",
+      "ref": "e0a307cbc",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1039,
+        288,
+        196,
+        24
+      ],
+      "name": "Type",
+      "ref": "eee60ffed",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1039,
+        288,
+        196,
+        24
+      ],
+      "name": "Type",
+      "ref": "eb67e5a31",
+      "role": "entry",
+      "states": [
+        "editable"
+      ],
+      "text": "Master's thesis"
+    },
+    {
+      "bounds": [
+        931,
+        317,
+        100,
+        37
+      ],
+      "name": "University",
+      "ref": "e50436b84",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1039,
+        314,
+        196,
+        40
+      ],
+      "name": "University",
+      "ref": "ebf3cc999",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1039,
+        314,
+        196,
+        40
+      ],
+      "name": "University",
+      "ref": "e4302f67e",
+      "role": "entry",
+      "states": [
+        "editable"
+      ],
+      "text": "Massachusetts Institute of Technology"
+    },
+    {
+      "bounds": [
+        931,
+        359,
+        100,
+        21
+      ],
+      "name": "Place",
+      "ref": "e6992f69f",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1039,
+        356,
+        196,
+        24
+      ],
+      "name": "Place",
+      "ref": "ee48c19c8",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1039,
+        356,
+        196,
+        24
+      ],
+      "name": "Place",
+      "ref": "e67f4cb97",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        385,
+        100,
+        20
+      ],
+      "name": "Date",
+      "ref": "e7ca21f82",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1039,
+        382,
+        182,
+        23
+      ],
+      "description": "1940-00-00",
+      "name": "Date",
+      "ref": "e38152d03",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1039,
+        382,
+        182,
+        23
+      ],
+      "name": "Date",
+      "ref": "ea29aee84",
+      "role": "entry",
+      "states": [
+        "editable"
+      ],
+      "text": "1940"
+    },
+    {
+      "bounds": [
+        1221,
+        385,
+        14,
+        17
+      ],
+      "name": "",
+      "ref": "e9b565783",
+      "role": "section",
+      "text": "y"
+    },
+    {
+      "bounds": [
+        931,
+        410,
+        100,
+        20
+      ],
+      "name": "Series",
+      "ref": "e07d46af1",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1039,
+        407,
+        196,
+        23
+      ],
+      "name": "Series",
+      "ref": "e927fbf3d",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1039,
+        407,
+        196,
+        23
+      ],
+      "name": "Series",
+      "ref": "e523db661",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        435,
+        100,
+        21
+      ],
+      "name": "Series Number",
+      "ref": "ed4ef6b4f",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1039,
+        432,
+        196,
+        24
+      ],
+      "name": "Series Number",
+      "ref": "e85c1aaff",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1039,
+        432,
+        196,
+        24
+      ],
+      "name": "Series Number",
+      "ref": "ea3c46c68",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        461,
+        100,
+        20
+      ],
+      "name": "# of Pages",
+      "ref": "e06dbd0c7",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1039,
+        458,
+        196,
+        23
+      ],
+      "name": "# of Pages",
+      "ref": "e55f8c629",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1039,
+        458,
+        196,
+        23
+      ],
+      "name": "# of Pages",
+      "ref": "ec620edfe",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        486,
+        100,
+        20
+      ],
+      "name": "DOI",
+      "ref": "e4bd37ab7",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1039,
+        483,
+        196,
+        23
+      ],
+      "name": "DOI",
+      "ref": "e41b0ff14",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1039,
+        483,
+        196,
+        23
+      ],
+      "name": "DOI",
+      "ref": "ea382ce4f",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        511,
+        100,
+        21
+      ],
+      "name": "ISBN",
+      "ref": "e2e2a58a6",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1039,
+        508,
+        196,
+        24
+      ],
+      "name": "ISBN",
+      "ref": "ea2fe043d",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1039,
+        508,
+        196,
+        24
+      ],
+      "name": "ISBN",
+      "ref": "ea08c173c",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        537,
+        100,
+        20
+      ],
+      "name": "Citation Key",
+      "ref": "e437c710e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1039,
+        534,
+        196,
+        23
+      ],
+      "name": "Citation Key",
+      "ref": "efe287f22",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1039,
+        534,
+        196,
+        23
+      ],
+      "name": "Citation Key",
+      "ref": "e9684ffcc",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        562,
+        100,
+        20
+      ],
+      "name": "URL",
+      "ref": "ed36ce51f",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1039,
+        559,
+        196,
+        23
+      ],
+      "name": "URL",
+      "ref": "e3903598b",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1039,
+        559,
+        196,
+        23
+      ],
+      "name": "URL",
+      "ref": "e160ac8df",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        587,
+        100,
+        21
+      ],
+      "name": "Accessed",
+      "ref": "ee51aa317",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1039,
+        584,
+        196,
+        24
+      ],
+      "name": "Accessed",
+      "ref": "eef9d9989",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1039,
+        584,
+        196,
+        24
+      ],
+      "name": "Accessed",
+      "ref": "e5b845706",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        613,
+        100,
+        20
+      ],
+      "name": "ISSN",
+      "ref": "e173ed903",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1039,
+        610,
+        196,
+        23
+      ],
+      "name": "ISSN",
+      "ref": "e5fd3a944",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1039,
+        610,
+        196,
+        23
+      ],
+      "name": "ISSN",
+      "ref": "ea6a9318c",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        638,
+        100,
+        20
+      ],
+      "name": "Archive",
+      "ref": "e4e85d0dc",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1039,
+        635,
+        196,
+        23
+      ],
+      "name": "Archive",
+      "ref": "ed6142efb",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1039,
+        635,
+        196,
+        23
+      ],
+      "name": "Archive",
+      "ref": "e126524b6",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        663,
+        100,
+        21
+      ],
+      "name": "Loc. in Archive",
+      "ref": "e12370a48",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1039,
+        660,
+        196,
+        24
+      ],
+      "name": "Loc. in Archive",
+      "ref": "e47833573",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1039,
+        660,
+        196,
+        24
+      ],
+      "name": "Loc. in Archive",
+      "ref": "e96ecdba0",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        689,
+        100,
+        20
+      ],
+      "name": "Short Title",
+      "ref": "eca9cf480",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1039,
+        686,
+        196,
+        23
+      ],
+      "name": "Short Title",
+      "ref": "e0e723266",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1039,
+        686,
+        196,
+        23
+      ],
+      "name": "Short Title",
+      "ref": "e9e577b6b",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        714,
+        100,
+        20
+      ],
+      "name": "Language",
+      "ref": "e6801787b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1039,
+        711,
+        196,
+        23
+      ],
+      "name": "Language",
+      "ref": "e611b829b",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1039,
+        711,
+        196,
+        23
+      ],
+      "name": "Language",
+      "ref": "eabec8233",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        739,
+        100,
+        21
+      ],
+      "name": "Library Catalog",
+      "ref": "edbb678dd",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1039,
+        736,
+        196,
+        24
+      ],
+      "name": "Library Catalog",
+      "ref": "eb7ddc3fe",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1039,
+        736,
+        196,
+        24
+      ],
+      "name": "Library Catalog",
+      "ref": "e8c737568",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        765,
+        100,
+        20
+      ],
+      "name": "Call Number",
+      "ref": "ee26ffc14",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1039,
+        762,
+        196,
+        23
+      ],
+      "name": "Call Number",
+      "ref": "eeb9df3f8",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1039,
+        762,
+        196,
+        23
+      ],
+      "name": "Call Number",
+      "ref": "ed2ad7f89",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        790,
+        100,
+        20
+      ],
+      "name": "License",
+      "ref": "ec823ccbe",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1039,
+        787,
+        196,
+        23
+      ],
+      "name": "License",
+      "ref": "e3d341c27",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1039,
+        787,
+        196,
+        23
+      ],
+      "name": "License",
+      "ref": "e5027fac1",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        815,
+        100,
+        21
+      ],
+      "name": "Extra",
+      "ref": "efe86d00b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1039,
+        812,
+        196,
+        24
+      ],
+      "name": "Extra",
+      "ref": "e91528f96",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1039,
+        812,
+        196,
+        24
+      ],
+      "name": "Extra",
+      "ref": "e9ce3fa5f",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        931,
+        841,
+        100,
+        20
+      ],
+      "name": "Date Added",
+      "ref": "e624239cc",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1039,
+        838,
+        196,
+        23
+      ],
+      "name": "Date Added",
+      "ref": "e0a814928",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1039,
+        838,
+        196,
+        23
+      ],
+      "name": "Date Added",
+      "ref": "e41a15826",
+      "role": "entry",
+      "text": "3/1/2024, 12:42:00 AM"
+    },
+    {
+      "bounds": [
+        931,
+        866,
+        100,
+        20
+      ],
+      "name": "Modified",
+      "ref": "ee07ad8b2",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1039,
+        863,
+        196,
+        23
+      ],
+      "name": "Modified",
+      "ref": "ee88acb65",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        1039,
+        863,
+        196,
+        23
+      ],
+      "name": "Modified",
+      "ref": "e09c710a6",
+      "role": "entry",
+      "text": "3/1/2024, 12:42:00 AM"
+    },
+    {
+      "bounds": [
+        1243,
+        92,
+        37,
+        808
+      ],
+      "name": "",
+      "ref": "e5a4bf7df",
+      "role": "page tab list"
+    },
+    {
+      "bounds": [
+        1248,
+        98,
+        28,
+        28
+      ],
+      "name": "Toggle Item Pane",
+      "ref": "e6d693178",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1248,
+        139,
+        28,
+        232
+      ],
+      "name": "Item Details",
+      "ref": "e372f452f",
+      "role": "page tab",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        1248,
+        384,
+        28,
+        28
+      ],
+      "name": "Locate",
+      "ref": "e88bf86cd",
+      "role": "push button"
+    }
+  ],
+  "screen": [
+    1280,
+    900
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": true,
+      "bounds": [
+        0,
+        38,
+        1280,
+        881
+      ],
+      "ref": "wdde7c1e4",
+      "title": "My Library - Zotero"
+    }
+  ]
+}

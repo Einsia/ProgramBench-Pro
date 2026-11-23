@@ -1,0 +1,90 @@
+{
+  "cursor": {
+    "column": 0,
+    "hidden": true,
+    "row": 30
+  },
+  "process": "running",
+  "screen": [
+    "00| Settings",
+    "01| input.modplug.priority        50",
+    "02| input.mpc.priority            50",
+    "03| input.opus.priority           50",
+    "04| input.vorbis.priority         50",
+    "05| input.wav.priority            50",
+    "06| input.wavpack.priority        50",
+    "07| lib_add_filter",
+    "08| lib_sort                      albumartist date album discnumber tracknumber title filename play_count",
+    "09| mixer.alsa.channel",
+    "10| mixer.alsa.device",
+    "11| mixer.alsa.mapped_volume      1",
+    "12| mixer.pulse.restore_volume    1",
+    "13| mouse                         false",
+    "14| mpris                         true",
+    "15| output_plugin                 pulse",
+    "16| passwd",
+    "17| pause_on_output_change        false",
+    "18| pl_env_vars",
+    "19| pl_sort",
+    "20| play_library                  true",
+    "21| play_sorted                   false",
+    "22| progress_bar                  line",
+    "23| repeat                        false",
+    "24| repeat_current                false",
+    "25| replaygain                    disabled",
+    "26| replaygain_limit              true",
+    "27| replaygain_preamp             0.000000",
+    "28| resume                        false",
+    "29| rewind_offset                 5",
+    "30| scroll_offset                 9",
+    "31| search_resets_position        true",
+    "32| set_term_title                true",
+    "33|",
+    "34| . 00:00                                                                                            library | 0% | C",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": " Settings                                                                                                               "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 30,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": " scroll_offset                 9                                                                                        "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "fg=black",
+        "bg=white"
+      ],
+      "text": " . 00:00                                                                                            library | 0% | C    "
+    }
+  ]
+}

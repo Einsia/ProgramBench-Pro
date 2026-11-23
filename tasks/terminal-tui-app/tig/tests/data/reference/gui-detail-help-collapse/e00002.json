@@ -1,0 +1,92 @@
+{
+  "base_style": [
+    "fg=cyan"
+  ],
+  "cursor": {
+    "column": 0,
+    "hidden": true,
+    "row": 35
+  },
+  "process": "running",
+  "screen": [
+    "00|Quick reference for tig keybindings:",
+    "01|[+] Expand all sections",
+    "02|",
+    "03|[+] generic bindings",
+    "04|[+] search bindings",
+    "05|[+] main bindings",
+    "06|[+] diff bindings",
+    "07|[+] reflog bindings",
+    "08|[+] refs bindings",
+    "09|[+] status bindings",
+    "10|[+] stage bindings",
+    "11|[+] stash bindings",
+    "12|[+] pager bindings",
+    "13|[+] toggle bindings",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|",
+    "19|",
+    "20|",
+    "21|",
+    "22|",
+    "23|",
+    "24|",
+    "25|",
+    "26|",
+    "27|",
+    "28|",
+    "29|",
+    "30|",
+    "31|",
+    "32|",
+    "33|",
+    "34|[help] - line 2 of 14                                                                                               100%",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "Quick reference for tig keybindings:                                                                                    "
+    },
+    {
+      "columns": [
+        0,
+        23
+      ],
+      "row": 1,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=green"
+      ],
+      "text": "[+] Expand all sections"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "[help] - line 2 of 14                                                                                               100%"
+    }
+  ]
+}

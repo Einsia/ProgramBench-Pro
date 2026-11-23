@@ -1,0 +1,45 @@
+schema_version = "1.4"
+artifacts = [{ source = "/app/solution" }]
+
+[task]
+name = "program-bench/bentopdf"
+version = "1.0.0"
+description = "Reconstruct BentoPDF 2.8.10, a browser toolkit for working with PDF documents, from black-box observation."
+keywords = ["pdf", "documents", "browser", "webassembly", "ocr"]
+
+[metadata]
+category = "browser-frontend-app"
+upstream = "alam00000/bentopdf 2.8.10"
+license = "AGPL-3.0-only"
+interface = "browser GUI with PDF viewer frames; file upload, drop, download and reuse; clipboard; lifecycle controls"
+network_boundary = "agent: no network except hosts allowed with --allow-agent-host (Harbor egress sidecar); reference and verifier: Compose network_mode:none; restricted Unix socket RPC to the black-box runtime"
+
+[agent]
+timeout_sec = 28800
+user = "agent"
+
+[environment]
+docker_image = "program-bench-bentopdf-agent:1.0.0"
+build_timeout_sec = 600
+cpus = 4
+memory_mb = 16384
+storage_mb = 20480
+network_mode = "no-network"
+
+[environment.healthcheck]
+command = "blackbox-health"
+interval_sec = 1
+timeout_sec = 5
+retries = 60
+
+[verifier]
+timeout_sec = 273600
+environment_mode = "separate"
+
+[verifier.environment]
+docker_image = "program-bench-bentopdf-verifier:1.0.0"
+cpus = 4
+memory_mb = 12288
+storage_mb = 20480
+network_mode = "no-network"
+build_timeout_sec = 600

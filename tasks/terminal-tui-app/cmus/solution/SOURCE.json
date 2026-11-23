@@ -1,0 +1,25 @@
+{
+  "task": "cmus",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "cmus",
+    "version": "2.13.0",
+    "homepage": "https://cmus.github.io/",
+    "repository": "https://github.com/cmus/cmus",
+    "license": "GPL-2.0-or-later"
+  },
+  "downloads": [
+    {
+      "file": "cmus-2.13.0.tar.gz",
+      "url": "https://github.com/cmus/cmus/archive/refs/tags/v2.13.0.tar.gz",
+      "sha256": "7be478c476f0a9915cdefbf6aade825a40cd202a8ca6b5149399025d3c7fc09b"
+    }
+  ],
+  "bundled": [],
+  "modifications": "Upstream source is unchanged. A separate denyexec preload library and deployment launcher restrict startup and runtime access.",
+  "configuration": "A PulseAudio null sink provides audio output. Media lives under DATA_DIR/workspace and native settings under DATA_DIR/config/cmus. The launcher fixes the output configuration and validates saved startup settings; denyexec applies seccomp and Landlock. The application exposes its native Unix control socket.",
+  "notes": {
+    "build": "Compiled on Ubuntu 24.04 with PulseAudio and AO enabled; CDIO, CDDB, DISCID, MPRIS, JACK, OSS and SNDIO disabled. See solve.sh.",
+    "corresponding_source": "The unmodified GPL source archive is retained alongside the task."
+  }
+}

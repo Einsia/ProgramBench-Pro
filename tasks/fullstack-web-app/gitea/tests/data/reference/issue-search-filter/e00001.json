@@ -1,0 +1,230 @@
+{
+  "controls": [
+    {
+      "aria": "Home",
+      "bounds": [
+        10,
+        7,
+        56,
+        36
+      ],
+      "href": "/",
+      "ref": "e15",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        71,
+        7,
+        85,
+        36
+      ],
+      "href": "/explore/repos",
+      "ref": "e16",
+      "role": null,
+      "tag": "a",
+      "text": "Explore"
+    },
+    {
+      "bounds": [
+        161,
+        7,
+        60,
+        36
+      ],
+      "href": "[external]",
+      "ref": "e17",
+      "role": null,
+      "tag": "a",
+      "text": "Help"
+    },
+    {
+      "bounds": [
+        1055,
+        7,
+        109,
+        36
+      ],
+      "href": "/user/sign_up",
+      "ref": "e18",
+      "role": null,
+      "tag": "a",
+      "text": "Register"
+    },
+    {
+      "bounds": [
+        1169,
+        7,
+        101,
+        36
+      ],
+      "href": "/user/login",
+      "ref": "e19",
+      "role": null,
+      "tag": "a",
+      "text": "Sign In"
+    },
+    {
+      "bounds": [
+        346,
+        147,
+        588,
+        38
+      ],
+      "focused": true,
+      "label": "Username or Email Address",
+      "name": "user_name",
+      "ref": "e20",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        346,
+        223,
+        588,
+        38
+      ],
+      "label": "Password",
+      "name": "password",
+      "ref": "e21",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": ""
+    },
+    {
+      "bounds": [
+        346,
+        278,
+        15,
+        15
+      ],
+      "checked": false,
+      "label": "Remember This Device",
+      "name": "remember",
+      "ref": "e22",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        346,
+        309,
+        103,
+        38
+      ],
+      "ref": "e23",
+      "role": null,
+      "tag": "button",
+      "text": "Sign In"
+    },
+    {
+      "bounds": [
+        461,
+        320,
+        134,
+        16
+      ],
+      "href": "/user/forgot_password",
+      "ref": "e24",
+      "role": null,
+      "tag": "a",
+      "text": "Forgot password?"
+    },
+    {
+      "bounds": [
+        346,
+        363,
+        252,
+        16
+      ],
+      "href": "/user/sign_up",
+      "ref": "e25",
+      "role": null,
+      "tag": "a",
+      "text": "Need an account? Register now."
+    },
+    {
+      "bounds": [
+        20,
+        872,
+        134,
+        20
+      ],
+      "href": "[external]",
+      "ref": "e26",
+      "role": null,
+      "tag": "a",
+      "text": "Powered by Gitea"
+    },
+    {
+      "bounds": [
+        1063,
+        874,
+        76,
+        16
+      ],
+      "expanded": false,
+      "ref": "e27",
+      "role": "menu",
+      "tag": "div",
+      "text": "English"
+    },
+    {
+      "bounds": [
+        1145,
+        872,
+        76,
+        20
+      ],
+      "href": "/assets/licenses.txt",
+      "ref": "e28",
+      "role": null,
+      "tag": "a",
+      "text": "Licenses"
+    },
+    {
+      "bounds": [
+        1226,
+        872,
+        34,
+        20
+      ],
+      "href": "/api/swagger",
+      "ref": "e29",
+      "role": null,
+      "tag": "a",
+      "text": "API"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Explore\nHelp\nRegister\nSign In\nSign In\nUsername or Email Address\nPassword\nRemember This Device\nSign In Forgot password?\nNeed an account? Register now.\nPowered by Gitea\nPage:\n2ms\nTemplate:\n1ms\nEnglish\nLicenses\nAPI",
+  "text_truncated": false,
+  "title": "Sign In - Gitea",
+  "url": "/user/login",
+  "viewport": [
+    1280,
+    900
+  ]
+}

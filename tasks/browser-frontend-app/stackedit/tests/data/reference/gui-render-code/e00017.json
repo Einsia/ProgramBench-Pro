@@ -1,0 +1,335 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "aria": "Toggle explorer",
+      "bounds": [
+        4,
+        4,
+        38,
+        36
+      ],
+      "ref": "ec7f51653",
+      "tag": "button",
+      "title": "Toggle explorer"
+    },
+    {
+      "aria": "Toggle side bar",
+      "bounds": [
+        1238,
+        4,
+        38,
+        36
+      ],
+      "ref": "ea06d0b6b",
+      "tag": "button",
+      "title": "Toggle side bar"
+    },
+    {
+      "bounds": [
+        996,
+        4,
+        146,
+        36
+      ],
+      "label": "Welcome file",
+      "ref": "ea114dae2",
+      "tag": "input",
+      "type": "text",
+      "value": "Welcome file"
+    },
+    {
+      "aria": "Synchronize now",
+      "bounds": [
+        1151,
+        4,
+        34,
+        36
+      ],
+      "disabled": true,
+      "ref": "e480c8073",
+      "tag": "button",
+      "title": "Synchronize now"
+    },
+    {
+      "aria": "Publish now",
+      "bounds": [
+        1195,
+        4,
+        34,
+        36
+      ],
+      "disabled": true,
+      "ref": "e2878dba3",
+      "tag": "button",
+      "title": "Publish now"
+    },
+    {
+      "aria": "Undo",
+      "bounds": [
+        54,
+        4,
+        34,
+        36
+      ],
+      "ref": "ed972f7af",
+      "tag": "button",
+      "title": "Undo"
+    },
+    {
+      "aria": "Redo",
+      "bounds": [
+        88,
+        4,
+        34,
+        36
+      ],
+      "disabled": true,
+      "ref": "ed30b390f",
+      "tag": "button",
+      "title": "Redo"
+    },
+    {
+      "aria": "Bold – Ctrl+Shift+B",
+      "bounds": [
+        130,
+        4,
+        34,
+        36
+      ],
+      "ref": "ea31dff83",
+      "tag": "button",
+      "title": "Bold – Ctrl+Shift+B"
+    },
+    {
+      "aria": "Italic – Ctrl+Shift+I",
+      "bounds": [
+        164,
+        4,
+        34,
+        36
+      ],
+      "ref": "ece8e9a2b",
+      "tag": "button",
+      "title": "Italic – Ctrl+Shift+I"
+    },
+    {
+      "aria": "Heading – Ctrl+Shift+H",
+      "bounds": [
+        198,
+        4,
+        34,
+        36
+      ],
+      "ref": "ee31adf97",
+      "tag": "button",
+      "title": "Heading – Ctrl+Shift+H"
+    },
+    {
+      "aria": "Strikethrough – Ctrl+Shift+S",
+      "bounds": [
+        232,
+        4,
+        34,
+        36
+      ],
+      "ref": "e504de92f",
+      "tag": "button",
+      "title": "Strikethrough – Ctrl+Shift+S"
+    },
+    {
+      "aria": "Unordered list – Ctrl+Shift+U",
+      "bounds": [
+        274,
+        4,
+        34,
+        36
+      ],
+      "ref": "e085fcfef",
+      "tag": "button",
+      "title": "Unordered list – Ctrl+Shift+U"
+    },
+    {
+      "aria": "Ordered list – Ctrl+Shift+O",
+      "bounds": [
+        308,
+        4,
+        34,
+        36
+      ],
+      "ref": "ef710c88b",
+      "tag": "button",
+      "title": "Ordered list – Ctrl+Shift+O"
+    },
+    {
+      "aria": "Check list – Ctrl+Shift+C",
+      "bounds": [
+        342,
+        4,
+        34,
+        36
+      ],
+      "ref": "e6821dd9b",
+      "tag": "button",
+      "title": "Check list – Ctrl+Shift+C"
+    },
+    {
+      "aria": "Blockquote – Ctrl+Shift+Q",
+      "bounds": [
+        384,
+        4,
+        34,
+        36
+      ],
+      "ref": "ee12273bf",
+      "tag": "button",
+      "title": "Blockquote – Ctrl+Shift+Q"
+    },
+    {
+      "aria": "Code – Ctrl+Shift+K",
+      "bounds": [
+        418,
+        4,
+        34,
+        36
+      ],
+      "ref": "e369da927",
+      "tag": "button",
+      "title": "Code – Ctrl+Shift+K"
+    },
+    {
+      "aria": "Table – Ctrl+Shift+T",
+      "bounds": [
+        452,
+        4,
+        34,
+        36
+      ],
+      "ref": "efe77f797",
+      "tag": "button",
+      "title": "Table – Ctrl+Shift+T"
+    },
+    {
+      "aria": "Link – Ctrl+Shift+L",
+      "bounds": [
+        486,
+        4,
+        34,
+        36
+      ],
+      "ref": "ea7c140a7",
+      "tag": "button",
+      "title": "Link – Ctrl+Shift+L"
+    },
+    {
+      "aria": "Image – Ctrl+Shift+G",
+      "bounds": [
+        520,
+        4,
+        34,
+        36
+      ],
+      "ref": "eedcb6ccf",
+      "tag": "button",
+      "title": "Image – Ctrl+Shift+G"
+    },
+    {
+      "bounds": [
+        0,
+        44,
+        627,
+        518
+      ],
+      "editable": true,
+      "ref": "ef10b2714",
+      "tag": "pre",
+      "text": "```json { \"harbor\" : \"North\" , \"depth\" : 7 } ```",
+      "value": "```json\n{\"harbor\": \"North\", \"depth\": 7}\n```\n",
+      "value_truncated": false
+    },
+    {
+      "aria": "Toggle navigation bar",
+      "bounds": [
+        627,
+        47,
+        26,
+        26
+      ],
+      "ref": "e98fccd07",
+      "tag": "button",
+      "title": "Toggle navigation bar"
+    },
+    {
+      "aria": "Toggle side preview",
+      "bounds": [
+        627,
+        76,
+        26,
+        26
+      ],
+      "ref": "e594daaff",
+      "tag": "button",
+      "title": "Toggle side preview"
+    },
+    {
+      "aria": "Reader mode",
+      "bounds": [
+        627,
+        105,
+        26,
+        26
+      ],
+      "ref": "e2b927937",
+      "tag": "button",
+      "title": "Reader mode"
+    },
+    {
+      "aria": "Toggle focus mode",
+      "bounds": [
+        627,
+        793,
+        26,
+        26
+      ],
+      "ref": "eedaa47cb",
+      "tag": "button",
+      "title": "Toggle focus mode"
+    },
+    {
+      "aria": "Toggle scroll sync",
+      "bounds": [
+        627,
+        822,
+        26,
+        26
+      ],
+      "ref": "ed740000f",
+      "tag": "button",
+      "title": "Toggle scroll sync"
+    },
+    {
+      "aria": "Toggle status bar",
+      "bounds": [
+        627,
+        851,
+        26,
+        26
+      ],
+      "ref": "eac7847f7",
+      "tag": "button",
+      "title": "Toggle status bar"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "drawing": [],
+  "drawing_truncated": false,
+  "text": "{\n\"harbor\"\n:\n\"North\"\n,\n\"depth\"\n:\n7\n}\nMarkdown\n44\nbytes\n6\nwords\n3\nlines\nLn 3, Col 3\nHTML\n28\ncharacters\n4\nwords\n1\nparagraphs",
+  "text_truncated": false,
+  "title": "StackEdit",
+  "url": "/",
+  "viewport": [
+    1280,
+    900
+  ]
+}

@@ -1,0 +1,10 @@
+**
+!solution/
+!solution/*
+!solution/LICENSES/
+!solution/LICENSES/*.txt
+!environment/
+!environment/Dockerfile.reference
+!environment/runtime/
+!environment/runtime/*.py
+!environment/runtime/*.json

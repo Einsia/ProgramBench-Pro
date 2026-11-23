@@ -1,0 +1,70 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        131,
+        0,
+        1019,
+        342
+      ],
+      "frame": "f9548d0dc0d",
+      "ref": "f9548d0dc0d:canvas0",
+      "tag": "canvas"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        622,
+        1182,
+        48
+      ],
+      "ref": "ebafd6957",
+      "tag": "button",
+      "text": "Save & Download Filled Form"
+    },
+    {
+      "bounds": [
+        1170,
+        874,
+        94,
+        26
+      ],
+      "expanded": false,
+      "ref": "ebda396fc",
+      "tag": "button",
+      "text": "English"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "document.pdf",
+      "ref": "d5cf35f3f6ff8",
+      "size": 13232
+    }
+  ],
+  "inputs": [
+    "forms.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nPDF Form Filler\n\nUpload a PDF with form fields. Fill them directly in the viewer below, then click the button to save and download the filled form. Also supports XFA forms.\n\nNote on XFA Forms: XFA (XML Forms Architecture) is a legacy format that's only supported by certain PDF viewers like BentoPDF and Firefox. If you open an XFA PDF in other software and see blank pages or no form fields, it means that viewer doesn't support XFA. To view and fill XFA forms properly, use Firefox or BentoPDF's Form Filler.\n\nClick to select a file or drag and drop\n\nPDF file with form fields\n\nYour files never leave your device.\n\nforms.pdf\n\n12.4 KB\n\nSave & Download Filled Form\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish\nToggle Sidebar\nFind\nPrevious\nNext\nof ⁨1⁩\nZoom Out\nZoom In\nAutomatic Zoom\nActual Size\nPage Fit\nPage Width\n⁨0⁩%\n⁨50⁩%\n⁨75⁩%\n⁨100⁩%\n⁨125⁩%\n⁨150⁩%\n⁨200⁩%\n⁨300⁩%\n⁨400⁩%\nHighlight\nText\nDraw\nAdd or edit images\nPrint\nSave\nTools\nHarbor registration\n\n\nVisitor name\n\n\nVisit date\n\n\nNotes\n\n\nMember\n\n\nDestination\n\n\nTravel mode\n \nBoat\n \nBus\nCedar\nDriftwood\nMaple",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/form-filler.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

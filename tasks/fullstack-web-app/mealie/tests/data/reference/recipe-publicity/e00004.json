@@ -1,0 +1,419 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        4,
+        0,
+        48,
+        48
+      ],
+      "ref": "e11102633781375530811",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        52,
+        0,
+        48,
+        48
+      ],
+      "href": "/g/home",
+      "ref": "e6999663049315888676",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        52,
+        0,
+        48,
+        48
+      ],
+      "ref": "e11102632681863902600",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        973,
+        4,
+        214,
+        40
+      ],
+      "placeholder": "Press '/'",
+      "ref": "e8266481313866675366",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1187,
+        6,
+        89,
+        36
+      ],
+      "href": "/login",
+      "ref": "e3688188270196816927",
+      "role": null,
+      "tag": "a",
+      "text": "Login"
+    },
+    {
+      "bounds": [
+        8,
+        56,
+        239,
+        44
+      ],
+      "href": "/g/home",
+      "ref": "e18093976238526241986",
+      "role": "link",
+      "tag": "a",
+      "text": "Recipes"
+    },
+    {
+      "bounds": [
+        8,
+        100,
+        239,
+        44
+      ],
+      "href": "/g/home/recipes/finder",
+      "ref": "e7707295927814897631",
+      "role": "link",
+      "tag": "a",
+      "text": "Recipe Finder"
+    },
+    {
+      "bounds": [
+        8,
+        848,
+        239,
+        44
+      ],
+      "expanded": false,
+      "ref": "e9453406036293201081",
+      "role": "listitem",
+      "tag": "div",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        648,
+        108,
+        240,
+        48
+      ],
+      "checked": true,
+      "label": "Rating 0 of 5",
+      "name": "v-rating-v-0-12",
+      "proxy": true,
+      "ref": "e2095192784598541804",
+      "role": null,
+      "tag": "input",
+      "text": "Rating 0 of 5\nRating 1 of 5\nRating 2 of 5\nRating 3 of 5\nRating 4 of 5\nRating 5 of 5",
+      "type": "radio",
+      "value": "0"
+    },
+    {
+      "aria": "Rating 1 of 5",
+      "bounds": [
+        648,
+        108,
+        48,
+        48
+      ],
+      "ref": "e1495547221415265442",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        648,
+        108,
+        48,
+        48
+      ],
+      "checked": false,
+      "label": "Rating 1 of 5",
+      "name": "v-rating-v-0-12",
+      "proxy": true,
+      "ref": "e12022490301098568336",
+      "role": null,
+      "tag": "input",
+      "text": "Rating 1 of 5",
+      "type": "radio",
+      "value": "1"
+    },
+    {
+      "aria": "Rating 2 of 5",
+      "bounds": [
+        696,
+        108,
+        48,
+        48
+      ],
+      "ref": "e4130790483417565743",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        696,
+        108,
+        48,
+        48
+      ],
+      "checked": false,
+      "label": "Rating 2 of 5",
+      "name": "v-rating-v-0-12",
+      "proxy": true,
+      "ref": "e5083453382106976828",
+      "role": null,
+      "tag": "input",
+      "text": "Rating 2 of 5",
+      "type": "radio",
+      "value": "2"
+    },
+    {
+      "aria": "Rating 3 of 5",
+      "bounds": [
+        744,
+        108,
+        48,
+        48
+      ],
+      "ref": "e17458353295524891324",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        744,
+        108,
+        48,
+        48
+      ],
+      "checked": false,
+      "label": "Rating 3 of 5",
+      "name": "v-rating-v-0-12",
+      "proxy": true,
+      "ref": "e17205954849621664964",
+      "role": null,
+      "tag": "input",
+      "text": "Rating 3 of 5",
+      "type": "radio",
+      "value": "3"
+    },
+    {
+      "aria": "Rating 4 of 5",
+      "bounds": [
+        792,
+        108,
+        48,
+        48
+      ],
+      "ref": "e13129488726303698129",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        792,
+        108,
+        48,
+        48
+      ],
+      "checked": false,
+      "label": "Rating 4 of 5",
+      "name": "v-rating-v-0-12",
+      "proxy": true,
+      "ref": "e18279089694220656848",
+      "role": null,
+      "tag": "input",
+      "text": "Rating 4 of 5",
+      "type": "radio",
+      "value": "4"
+    },
+    {
+      "aria": "Rating 5 of 5",
+      "bounds": [
+        840,
+        108,
+        48,
+        48
+      ],
+      "ref": "e8736810944343549998",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        840,
+        108,
+        48,
+        48
+      ],
+      "checked": false,
+      "label": "Rating 5 of 5",
+      "name": "v-rating-v-0-12",
+      "proxy": true,
+      "ref": "e12727152939590668248",
+      "role": null,
+      "tag": "input",
+      "text": "Rating 5 of 5",
+      "type": "radio",
+      "value": "5"
+    },
+    {
+      "bounds": [
+        1216,
+        241,
+        40,
+        40
+      ],
+      "expanded": false,
+      "ref": "e11102635980398787233",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        284,
+        309,
+        105,
+        28
+      ],
+      "expanded": false,
+      "ref": "e17930323392137177295",
+      "role": null,
+      "tag": "div",
+      "text": "As written",
+      "title": "Units"
+    },
+    {
+      "bounds": [
+        534,
+        349,
+        48,
+        48
+      ],
+      "ref": "e11102634880887159022",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        284,
+        400,
+        298,
+        47
+      ],
+      "ref": "e10475834782848747989",
+      "role": null,
+      "tag": "div",
+      "text": "1 Cup Flour"
+    },
+    {
+      "bounds": [
+        284,
+        401,
+        36,
+        36
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e1209064198207995387",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "true"
+    },
+    {
+      "bounds": [
+        1125,
+        349,
+        127,
+        36
+      ],
+      "ref": "e773206124364125404",
+      "role": null,
+      "tag": "button",
+      "text": "Cook Mode",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        631,
+        532,
+        57,
+        17
+      ],
+      "href": "[external]",
+      "ref": "e12294234327046802232",
+      "role": null,
+      "tag": "a",
+      "text": "My Link"
+    },
+    {
+      "aria": "Keep Screen Awake",
+      "bounds": [
+        1104,
+        648,
+        156,
+        56
+      ],
+      "checked": true,
+      "label": "Keep Screen Awake",
+      "proxy": true,
+      "ref": "e12317638812946335990",
+      "role": null,
+      "tag": "input",
+      "text": "Keep Screen Awake",
+      "type": "checkbox",
+      "value": "true"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Mealie\nLogin\nRecipes\nRecipe Finder\nSettings\nPublic Soup\nRating 0 of 5\nRating 1 of 5\nRating 2 of 5\nRating 3 of 5\nRating 4 of 5\nRating 5 of 5\n\nVisible to visitors.\n\nAs written\nServes 1\nIngredients\n\n1 Cup Flour\n\nInstructions\nCook Mode\nStep: 1\n\nRecipe steps as well as other fields in the recipe page support markdown syntax.\n\nAdd a link\n\nMy Link\n\nKeep Screen Awake\n Comments",
+  "text_truncated": false,
+  "title": "Public Soup",
+  "url": "/g/home/r/public-soup",
+  "viewport": [
+    1280,
+    900
+  ]
+}

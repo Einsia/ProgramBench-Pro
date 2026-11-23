@@ -1,0 +1,98 @@
+{
+  "cursor": {
+    "column": 10,
+    "hidden": true,
+    "row": 12
+  },
+  "process": "running",
+  "screen": [
+    "00| Tasks   Projects   Timesheet   Calendar                                                                     next [none]",
+    "01|Wk  Date       Day ID       Action    Project   Due        Task",
+    "02|--- ---------- --- -------- --------- --------- ---------- ---------",
+    "03|W19 2026-05-12 Tue 00000010 Completed                      Old chore",
+    "04|    2026-05-13 Wed 4        Started   Work.Code 2026-05-13 Review PR",
+    "05|",
+    "06|",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|",
+    "12|",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|",
+    "19|",
+    "20|",
+    "21|",
+    "22|",
+    "23|",
+    "24|",
+    "25|",
+    "26|",
+    "27|",
+    "28|",
+    "29|",
+    "30|",
+    "31|",
+    "32|",
+    "33|",
+    "34|",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        20
+      ],
+      "row": 0,
+      "style": [
+        "reverse"
+      ],
+      "text": " Tasks   Projects   "
+    },
+    {
+      "columns": [
+        20,
+        29
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "reverse"
+      ],
+      "text": "Timesheet"
+    },
+    {
+      "columns": [
+        29,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "reverse"
+      ],
+      "text": "   Calendar                                                                     next [none]"
+    },
+    {
+      "columns": [
+        0,
+        68
+      ],
+      "row": 4,
+      "style": [
+        "fg=ffffff",
+        "bg=d75f00"
+      ],
+      "text": "    2026-05-13 Wed 4        Started   Work.Code 2026-05-13 Review PR"
+    }
+  ]
+}

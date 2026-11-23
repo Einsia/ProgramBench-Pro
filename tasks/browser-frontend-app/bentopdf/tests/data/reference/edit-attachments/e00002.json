@@ -1,0 +1,123 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        0,
+        1182,
+        197
+      ],
+      "ref": "e6bfaf2b2",
+      "tag": "div",
+      "text": "Click to select a file or drag and drop Your files never leave your device."
+    },
+    {
+      "bounds": [
+        1203,
+        237,
+        16,
+        16
+      ],
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1123,
+        341,
+        108,
+        36
+      ],
+      "ref": "e438c804a",
+      "tag": "button",
+      "text": "Deselect All"
+    },
+    {
+      "bounds": [
+        1178,
+        416,
+        40,
+        24
+      ],
+      "ref": "e3ed68a5f",
+      "tag": "button",
+      "title": "Remove attachment"
+    },
+    {
+      "bounds": [
+        1178,
+        494,
+        40,
+        24
+      ],
+      "ref": "e3ed68a5fx2",
+      "tag": "button",
+      "title": "Remove attachment"
+    },
+    {
+      "bounds": [
+        49,
+        557,
+        1182,
+        48
+      ],
+      "ref": "e62247a7e",
+      "tag": "button",
+      "text": "Save Changes"
+    },
+    {
+      "bounds": [
+        473,
+        472,
+        334,
+        40
+      ],
+      "ref": "e2a50e308",
+      "tag": "button",
+      "text": "OK"
+    },
+    {
+      "bounds": [
+        1170,
+        809,
+        94,
+        34
+      ],
+      "expanded": false,
+      "ref": "ebda396fc",
+      "tag": "button",
+      "text": "English"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "attachments.pdf",
+      "ref": "d7504c84e0ea9",
+      "size": 3476
+    }
+  ],
+  "inputs": [
+    "attachments.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›Edit Attachments\nEdit Attachments\n\nView or remove attachments in your PDF.\n\nClick to select a file or drag and drop\n\nYour files never leave your device.\n\nattachments.pdf\n4.2 KB\nAttachments\nDeselect All\nnotes.txt\nDocument-level attachment\nstations.json\nDocument-level attachment\nSave Changes\nSuccess\n\nAttachments updated successfully!\n\nOK\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/edit-attachments.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

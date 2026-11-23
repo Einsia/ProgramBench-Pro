@@ -1,0 +1,648 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        12,
+        10,
+        250,
+        30
+      ],
+      "href": "/",
+      "ref": "e1323279754",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        0,
+        48,
+        250,
+        41
+      ],
+      "href": "/stockoverview",
+      "ref": "e1053475070",
+      "role": null,
+      "tag": "a",
+      "text": "Stock overview"
+    },
+    {
+      "bounds": [
+        0,
+        89,
+        250,
+        41
+      ],
+      "href": "/shoppinglist",
+      "ref": "e3484720244",
+      "role": null,
+      "tag": "a",
+      "text": "Shopping list"
+    },
+    {
+      "bounds": [
+        0,
+        132,
+        250,
+        41
+      ],
+      "href": "/recipes",
+      "ref": "e3605665942",
+      "role": null,
+      "tag": "a",
+      "text": "Recipes"
+    },
+    {
+      "bounds": [
+        0,
+        173,
+        250,
+        41
+      ],
+      "href": "/mealplan",
+      "ref": "e2044783333",
+      "role": null,
+      "tag": "a",
+      "text": "Meal plan"
+    },
+    {
+      "bounds": [
+        0,
+        216,
+        250,
+        41
+      ],
+      "href": "/choresoverview",
+      "ref": "e3381809840",
+      "role": null,
+      "tag": "a",
+      "text": "Chores overview"
+    },
+    {
+      "bounds": [
+        0,
+        257,
+        250,
+        41
+      ],
+      "href": "/tasks",
+      "ref": "e3412285266",
+      "role": null,
+      "tag": "a",
+      "text": "Tasks"
+    },
+    {
+      "bounds": [
+        0,
+        298,
+        250,
+        41
+      ],
+      "href": "/batteriesoverview",
+      "ref": "e1339919142",
+      "role": null,
+      "tag": "a",
+      "text": "Batteries overview"
+    },
+    {
+      "bounds": [
+        0,
+        339,
+        250,
+        41
+      ],
+      "href": "/equipment",
+      "ref": "e3517608074",
+      "role": null,
+      "tag": "a",
+      "text": "Equipment"
+    },
+    {
+      "bounds": [
+        0,
+        382,
+        250,
+        41
+      ],
+      "href": "/calendar",
+      "ref": "e2087124146",
+      "role": null,
+      "tag": "a",
+      "text": "Calendar"
+    },
+    {
+      "bounds": [
+        0,
+        425,
+        250,
+        41
+      ],
+      "href": "/purchase",
+      "ref": "e337229804",
+      "role": null,
+      "tag": "a",
+      "text": "Purchase"
+    },
+    {
+      "bounds": [
+        0,
+        466,
+        250,
+        41
+      ],
+      "href": "/consume",
+      "ref": "e2179824942",
+      "role": null,
+      "tag": "a",
+      "text": "Consume"
+    },
+    {
+      "bounds": [
+        0,
+        507,
+        250,
+        41
+      ],
+      "href": "/transfer",
+      "ref": "e3647083400",
+      "role": null,
+      "tag": "a",
+      "text": "Transfer"
+    },
+    {
+      "bounds": [
+        0,
+        548,
+        250,
+        41
+      ],
+      "href": "/inventory",
+      "ref": "e2792827466",
+      "role": null,
+      "tag": "a",
+      "text": "Inventory"
+    },
+    {
+      "bounds": [
+        0,
+        589,
+        250,
+        41
+      ],
+      "href": "/choretracking",
+      "ref": "e2922941790",
+      "role": null,
+      "tag": "a",
+      "text": "Chore tracking"
+    },
+    {
+      "bounds": [
+        0,
+        630,
+        250,
+        41
+      ],
+      "href": "/batterytracking",
+      "ref": "e1450042086",
+      "role": null,
+      "tag": "a",
+      "text": "Battery tracking"
+    },
+    {
+      "bounds": [
+        0,
+        673,
+        250,
+        41
+      ],
+      "href": "/stocksettings#sub-nav-manage-master-data",
+      "ref": "e761715877",
+      "role": null,
+      "tag": "a",
+      "text": "Manage master data"
+    },
+    {
+      "bounds": [
+        0,
+        852,
+        250,
+        49
+      ],
+      "ref": "e1866405181",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1039,
+        8,
+        113,
+        33
+      ],
+      "href": "/stocksettings",
+      "ref": "e977631619",
+      "role": null,
+      "tag": "a",
+      "text": "admin"
+    },
+    {
+      "bounds": [
+        1152,
+        8,
+        64,
+        33
+      ],
+      "href": "/stocksettings",
+      "ref": "e270618320",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1216,
+        8,
+        64,
+        33
+      ],
+      "href": "/stocksettings",
+      "ref": "e287395939",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        261,
+        175,
+        318,
+        38
+      ],
+      "label": "Location",
+      "options": [
+        {
+          "disabled": false,
+          "label": "",
+          "selected": true,
+          "value": "-1"
+        },
+        {
+          "disabled": false,
+          "label": "Fridge",
+          "selected": false,
+          "value": "2"
+        }
+      ],
+      "ref": "e902419520",
+      "role": null,
+      "tag": "select",
+      "text": "Fridge",
+      "value": "-1"
+    },
+    {
+      "bounds": [
+        261,
+        257,
+        318,
+        38
+      ],
+      "label": "Product group",
+      "options": [
+        {
+          "disabled": false,
+          "label": "",
+          "selected": true,
+          "value": "-1"
+        }
+      ],
+      "ref": "e66539801",
+      "role": null,
+      "tag": "select",
+      "text": "",
+      "value": "-1"
+    },
+    {
+      "bounds": [
+        261,
+        339,
+        318,
+        38
+      ],
+      "label": "Quantity unit",
+      "options": [
+        {
+          "disabled": false,
+          "label": "",
+          "selected": true,
+          "value": "-1"
+        },
+        {
+          "disabled": false,
+          "label": "Pack",
+          "selected": false,
+          "value": "3"
+        },
+        {
+          "disabled": false,
+          "label": "Piece",
+          "selected": false,
+          "value": "2"
+        }
+      ],
+      "ref": "e887525895",
+      "role": null,
+      "tag": "select",
+      "text": "Pack\nPiece",
+      "value": "-1"
+    },
+    {
+      "bounds": [
+        261,
+        422,
+        244,
+        38
+      ],
+      "label": "Default due days",
+      "min": "-1",
+      "name": "product_presets_default_due_days",
+      "ref": "e1694559338",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "0"
+    },
+    {
+      "bounds": [
+        285,
+        476,
+        187,
+        33
+      ],
+      "checked": true,
+      "label": "Treat opened as out of stock",
+      "proxy": true,
+      "ref": "e970764335",
+      "role": null,
+      "tag": "input",
+      "text": "Treat opened as out of stock",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        261,
+        622,
+        244,
+        38
+      ],
+      "label": "Due soon days",
+      "min": "1",
+      "name": "stock_due_soon_days",
+      "ref": "e2364357070",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "5"
+    },
+    {
+      "bounds": [
+        285,
+        676,
+        294,
+        54
+      ],
+      "checked": true,
+      "label": "Show an icon if the product is already on the shopping list",
+      "proxy": true,
+      "ref": "e587340455",
+      "role": null,
+      "tag": "input",
+      "text": "Show an icon if the product is already on the shopping list",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        285,
+        746,
+        215,
+        33
+      ],
+      "checked": false,
+      "label": "Show all out of stock products",
+      "proxy": true,
+      "ref": "e885758029",
+      "role": null,
+      "tag": "input",
+      "text": "Show all out of stock products",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        261,
+        893,
+        244,
+        38
+      ],
+      "label": "Default amount for purchase",
+      "min": "0.0000",
+      "name": "stock_default_purchase_amount",
+      "ref": "e1719668170",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "0"
+    },
+    {
+      "bounds": [
+        285,
+        947,
+        294,
+        74
+      ],
+      "checked": false,
+      "label": "Show purchased date on purchase and inventory page (otherwise the purchased date defaults to today)",
+      "offscreen": true,
+      "proxy": true,
+      "ref": "e992976592",
+      "role": null,
+      "tag": "input",
+      "text": "Show purchased date on purchase and inventory page (otherwise the purchased date defaults to today)",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        285,
+        1037,
+        294,
+        74
+      ],
+      "checked": true,
+      "label": "Show a warning when the due date of the purchased product is earlier than the next due date in stock",
+      "offscreen": true,
+      "proxy": true,
+      "ref": "e3056451531",
+      "role": null,
+      "tag": "input",
+      "text": "Show a warning when the due date of the purchased product is earlier than the next due date in stock",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        261,
+        1224,
+        244,
+        38
+      ],
+      "label": "Default amount for consume",
+      "min": "0.0000",
+      "name": "stock_default_consume_amount",
+      "offscreen": true,
+      "ref": "e3987499166",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "3"
+    },
+    {
+      "bounds": [
+        285,
+        1262,
+        273,
+        33
+      ],
+      "checked": false,
+      "label": "Use the products \"Quick consume amount\"",
+      "offscreen": true,
+      "proxy": true,
+      "ref": "e2981611652",
+      "role": null,
+      "tag": "input",
+      "text": "Use the products \"Quick consume amount\"",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        261,
+        1409,
+        244,
+        38
+      ],
+      "label": "Decimal places allowed for amounts",
+      "max": "10",
+      "min": "0",
+      "name": "stock_decimal_places_amounts",
+      "offscreen": true,
+      "ref": "e2745727466",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "4"
+    },
+    {
+      "bounds": [
+        261,
+        1491,
+        244,
+        38
+      ],
+      "label": "Decimal places allowed for prices (input)",
+      "max": "10",
+      "min": "0",
+      "name": "stock_decimal_places_prices_input",
+      "offscreen": true,
+      "ref": "e2295467570",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "2"
+    },
+    {
+      "bounds": [
+        261,
+        1574,
+        244,
+        38
+      ],
+      "label": "Decimal places allowed for prices (display)",
+      "max": "10",
+      "min": "0",
+      "name": "stock_decimal_places_prices_display",
+      "offscreen": true,
+      "ref": "e434295106",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "2"
+    },
+    {
+      "bounds": [
+        285,
+        1612,
+        294,
+        54
+      ],
+      "checked": false,
+      "label": "Add decimal separator automatically for price inputs",
+      "offscreen": true,
+      "proxy": true,
+      "ref": "e3145900605",
+      "role": null,
+      "tag": "input",
+      "text": "Add decimal separator automatically for price inputs",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        261,
+        1681,
+        47,
+        38
+      ],
+      "href": "/stockoverview",
+      "offscreen": true,
+      "ref": "e2789187195",
+      "role": null,
+      "tag": "a",
+      "text": "OK"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    1735
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": " Stock overview\n Shopping list\n Recipes\n Meal plan\n Chores overview\n Tasks\n Batteries overview\n Equipment\n Calendar\n Purchase\n Consume\n Transfer\n Inventory\n Chore tracking\n Battery tracking\n Manage master data\n admin\nStock settings\nPresets for new products\nLocation \nFridge\nProduct group \nQuantity unit \nPack\nPiece\nDefault due days\nTreat opened as out of stock\nStock overview\nDue soon days\nShow an icon if the product is already on the shopping list\nShow all out of stock products \nPurchase\nDefault amount for purchase\nShow purchased date on purchase and inventory page (otherwise the purchased date defaults to today)\nShow a warning when the due date of the purchased product is earlier than the next due date in stock\nConsume\nDefault amount for consume\nUse the products \"Quick consume amount\"\nCommon\nDecimal places allowed for amounts\nDecimal places allowed for prices (input)\nDecimal places allowed for prices (display)\nAdd decimal separator automatically for price inputs \nOK",
+  "text_truncated": false,
+  "title": "Stock settings | Grocy",
+  "url": "/stocksettings",
+  "viewport": [
+    1280,
+    900
+  ]
+}

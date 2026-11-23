@@ -1,0 +1,16 @@
+**
+!Dockerfile
+!.dockerignore
+!*.py
+!*.md
+!evaluation/
+!evaluation/*.py
+!reference/
+!reference/*.py
+!inputs/
+!inputs/**
+!test.sh
+!docker-compose.yaml
+!result-schema.json
+!data/
+!data/**

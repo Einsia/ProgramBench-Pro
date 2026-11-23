@@ -1,0 +1,15 @@
+services:
+  main:
+    network_mode: none
+    cap_drop: [ALL]
+    cap_add: [CHOWN, FOWNER, DAC_OVERRIDE, SETUID, SETGID, KILL]
+    security_opt: [no-new-privileges:true]
+    shm_size: 512m
+    volumes:
+      - "${MUSICBRAINZPICARD_VERIFIER_STATE:-candidate-state}:/app/candidate-state"
+      - "${MUSICBRAINZPICARD_VERIFIER_TMP:-verifier-tmp}:/tmp"
+      - "${MUSICBRAINZPICARD_MODEL_RPC_STORAGE:-model-rpc}:/model"
+volumes:
+  candidate-state:
+  verifier-tmp:
+  model-rpc:

@@ -1,0 +1,392 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        559,
+        -44,
+        162,
+        36
+      ],
+      "href": "/feeds#main",
+      "offscreen": true,
+      "ref": "e238",
+      "role": null,
+      "tag": "a",
+      "text": "Skip to content"
+    },
+    {
+      "aria": "Home page",
+      "bounds": [
+        193,
+        10,
+        77,
+        19
+      ],
+      "href": "/unread",
+      "ref": "e239",
+      "role": null,
+      "tag": "a",
+      "text": "Mini\nflux"
+    },
+    {
+      "bounds": [
+        278,
+        12,
+        70,
+        16
+      ],
+      "href": "/unread",
+      "ref": "e240",
+      "role": null,
+      "tag": "a",
+      "text": "Unread"
+    },
+    {
+      "bounds": [
+        363,
+        12,
+        78,
+        16
+      ],
+      "href": "/starred",
+      "ref": "e241",
+      "role": null,
+      "tag": "a",
+      "text": "Starred"
+    },
+    {
+      "bounds": [
+        456,
+        12,
+        78,
+        16
+      ],
+      "href": "/history",
+      "ref": "e242",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        549,
+        12,
+        70,
+        16
+      ],
+      "href": "/feeds",
+      "ref": "e243",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "aria": "Add feed",
+      "bounds": [
+        618,
+        12,
+        26,
+        16
+      ],
+      "href": "/subscribe",
+      "ref": "e244",
+      "role": null,
+      "tag": "a",
+      "text": "(+)",
+      "title": "Keyboard Shortcut: +"
+    },
+    {
+      "bounds": [
+        659,
+        12,
+        104,
+        16
+      ],
+      "href": "/categories",
+      "ref": "e245",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        778,
+        12,
+        70,
+        16
+      ],
+      "href": "/search",
+      "ref": "e246",
+      "role": null,
+      "tag": "a",
+      "text": "Search"
+    },
+    {
+      "bounds": [
+        862,
+        12,
+        87,
+        16
+      ],
+      "href": "/settings",
+      "ref": "e247",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        964,
+        10,
+        70,
+        18
+      ],
+      "ref": "e248",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "title": "Logged in as alice"
+    },
+    {
+      "bounds": [
+        193,
+        82,
+        66,
+        18
+      ],
+      "href": "/feeds",
+      "ref": "e249",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "bounds": [
+        284,
+        82,
+        95,
+        18
+      ],
+      "href": "/subscribe",
+      "ref": "e250",
+      "role": null,
+      "tag": "a",
+      "text": "Add feed"
+    },
+    {
+      "bounds": [
+        403,
+        82,
+        76,
+        18
+      ],
+      "href": "/export",
+      "ref": "e251",
+      "role": null,
+      "tag": "a",
+      "text": "Export"
+    },
+    {
+      "bounds": [
+        503,
+        82,
+        76,
+        18
+      ],
+      "href": "/import",
+      "ref": "e252",
+      "role": null,
+      "tag": "a",
+      "text": "Import"
+    },
+    {
+      "bounds": [
+        603,
+        81,
+        270,
+        18
+      ],
+      "ref": "e253",
+      "role": null,
+      "tag": "button",
+      "text": "Refresh all feeds in the background"
+    },
+    {
+      "bounds": [
+        199,
+        122,
+        125,
+        18
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e254",
+      "role": null,
+      "tag": "a",
+      "text": "Uploaded One"
+    },
+    {
+      "aria": "Category: Imported",
+      "bounds": [
+        429,
+        125,
+        58,
+        14
+      ],
+      "href": "/category/4/entries",
+      "ref": "e255",
+      "role": null,
+      "tag": "a",
+      "text": "Imported"
+    },
+    {
+      "bounds": [
+        199,
+        146,
+        104,
+        12
+      ],
+      "href": "[external]",
+      "ref": "e256",
+      "role": null,
+      "tag": "a",
+      "text": "upload-one.test",
+      "title": "http://upload-one.test/"
+    },
+    {
+      "bounds": [
+        199,
+        167,
+        65,
+        16
+      ],
+      "ref": "e257",
+      "role": null,
+      "tag": "button",
+      "text": "Refresh"
+    },
+    {
+      "bounds": [
+        280,
+        169,
+        51,
+        15
+      ],
+      "href": "/feed/1/edit",
+      "ref": "e258",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        346,
+        167,
+        68,
+        16
+      ],
+      "ref": "e259",
+      "role": null,
+      "tag": "button",
+      "text": "Remove"
+    },
+    {
+      "bounds": [
+        199,
+        216,
+        125,
+        18
+      ],
+      "href": "/feed/2/entries",
+      "ref": "e260",
+      "role": null,
+      "tag": "a",
+      "text": "Uploaded Two"
+    },
+    {
+      "aria": "Category: Imported",
+      "bounds": [
+        429,
+        219,
+        58,
+        14
+      ],
+      "href": "/category/4/entries",
+      "ref": "e261",
+      "role": null,
+      "tag": "a",
+      "text": "Imported"
+    },
+    {
+      "bounds": [
+        199,
+        240,
+        104,
+        12
+      ],
+      "href": "[external]",
+      "ref": "e262",
+      "role": null,
+      "tag": "a",
+      "text": "upload-two.test",
+      "title": "http://upload-two.test/"
+    },
+    {
+      "bounds": [
+        199,
+        261,
+        65,
+        16
+      ],
+      "ref": "e263",
+      "role": null,
+      "tag": "button",
+      "text": "Refresh"
+    },
+    {
+      "bounds": [
+        280,
+        263,
+        51,
+        15
+      ],
+      "href": "/feed/2/edit",
+      "ref": "e264",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        346,
+        261,
+        68,
+        16
+      ],
+      "ref": "e265",
+      "role": null,
+      "tag": "button",
+      "text": "Remove"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "inputs": [
+    "subscriptions.opml"
+  ],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Skip to content\nMini\nflux\nUnread Starred History Feeds (+) Categories Search Settings Logout\nFeeds (2)\nFeeds Add feed Export Import \nRefresh all feeds in the background\nUploaded One ( \n0 unread entry\n0 / \n0 entry in total\n0 ) Imported\nupload-one.test  Last check: just now\nRefresh Edit Remove\nUploaded Two ( \n0 unread entry\n0 / \n0 entry in total\n0 ) Imported\nupload-two.test  Last check: just now\nRefresh Edit Remove",
+  "text_truncated": false,
+  "title": "Feeds (2) - Miniflux",
+  "url": "/feeds",
+  "viewport": [
+    1280,
+    900
+  ]
+}

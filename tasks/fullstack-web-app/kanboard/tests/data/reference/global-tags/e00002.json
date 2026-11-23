@@ -1,0 +1,258 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e333",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e334",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/settings/tags",
+      "ref": "e335",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/settings/tags",
+      "ref": "e336",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "bounds": [
+        23,
+        53,
+        42,
+        17
+      ],
+      "href": "/settings",
+      "ref": "e337",
+      "role": null,
+      "tag": "a",
+      "text": "About"
+    },
+    {
+      "bounds": [
+        23,
+        89,
+        138,
+        17
+      ],
+      "href": "/settings/application",
+      "ref": "e338",
+      "role": null,
+      "tag": "a",
+      "text": "Application settings"
+    },
+    {
+      "bounds": [
+        23,
+        125,
+        100,
+        17
+      ],
+      "href": "/settings/email",
+      "ref": "e339",
+      "role": null,
+      "tag": "a",
+      "text": "Email settings"
+    },
+    {
+      "bounds": [
+        23,
+        161,
+        109,
+        17
+      ],
+      "href": "/settings/project",
+      "ref": "e340",
+      "role": null,
+      "tag": "a",
+      "text": "Project settings"
+    },
+    {
+      "bounds": [
+        23,
+        197,
+        102,
+        17
+      ],
+      "href": "/settings/board",
+      "ref": "e341",
+      "role": null,
+      "tag": "a",
+      "text": "Board settings"
+    },
+    {
+      "bounds": [
+        23,
+        233,
+        132,
+        17
+      ],
+      "href": "/settings/tags",
+      "ref": "e342",
+      "role": null,
+      "tag": "a",
+      "text": "Tags management"
+    },
+    {
+      "bounds": [
+        23,
+        269,
+        76,
+        17
+      ],
+      "href": "/settings/links/labels",
+      "ref": "e343",
+      "role": null,
+      "tag": "a",
+      "text": "Link labels"
+    },
+    {
+      "bounds": [
+        23,
+        305,
+        105,
+        17
+      ],
+      "href": "/settings/currencies",
+      "ref": "e344",
+      "role": null,
+      "tag": "a",
+      "text": "Currency rates"
+    },
+    {
+      "bounds": [
+        23,
+        341,
+        84,
+        17
+      ],
+      "href": "/settings/integrations",
+      "ref": "e345",
+      "role": null,
+      "tag": "a",
+      "text": "Integrations"
+    },
+    {
+      "bounds": [
+        23,
+        377,
+        75,
+        17
+      ],
+      "href": "/settings/webhook",
+      "ref": "e346",
+      "role": null,
+      "tag": "a",
+      "text": "Webhooks"
+    },
+    {
+      "bounds": [
+        23,
+        413,
+        26,
+        17
+      ],
+      "href": "/settings/api",
+      "ref": "e347",
+      "role": null,
+      "tag": "a",
+      "text": "API"
+    },
+    {
+      "bounds": [
+        250,
+        76,
+        113,
+        17
+      ],
+      "href": "/?controller=TagController&action=create",
+      "ref": "e348",
+      "role": null,
+      "tag": "a",
+      "text": "Add new tag"
+    },
+    {
+      "bounds": [
+        1069,
+        158,
+        51,
+        17
+      ],
+      "href": "/?controller=TagController&action=edit&tag_id=1",
+      "ref": "e349",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        1125,
+        158,
+        83,
+        17
+      ],
+      "href": "/?controller=TagController&action=confirm&tag_id=1",
+      "ref": "e350",
+      "role": null,
+      "tag": "a",
+      "text": "Remove"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Settings > Global tags management\n \n \nA\nAbout\nApplication settings\nEmail settings\nProject settings\nBoard settings\nTags management\nLink labels\nCurrency rates\nIntegrations\nWebhooks\nAPI\nGlobal tags\nAdd new tag\nTag\tColor\tAction\ncompany\t Purple\tEdit Remove",
+  "text_truncated": false,
+  "title": "Settings > Global tags management",
+  "url": "/settings/tags",
+  "viewport": [
+    1280,
+    900
+  ]
+}

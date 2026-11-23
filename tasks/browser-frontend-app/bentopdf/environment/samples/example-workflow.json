@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "nodes": [
+    {
+      "id": "source",
+      "type": "PDFInputNode",
+      "position": {
+        "x": 40,
+        "y": 40
+      },
+      "controls": {}
+    },
+    {
+      "id": "rotate",
+      "type": "RotateNode",
+      "position": {
+        "x": 340,
+        "y": 40
+      },
+      "controls": {
+        "angle": "90"
+      }
+    },
+    {
+      "id": "save",
+      "type": "DownloadNode",
+      "position": {
+        "x": 640,
+        "y": 40
+      },
+      "controls": {
+        "filename": "example"
+      }
+    }
+  ],
+  "connections": [
+    {
+      "id": "one",
+      "source": "source",
+      "sourceOutput": "pdf",
+      "target": "rotate",
+      "targetInput": "pdf"
+    },
+    {
+      "id": "two",
+      "source": "rotate",
+      "sourceOutput": "pdf",
+      "target": "save",
+      "targetInput": "pdf"
+    }
+  ]
+}

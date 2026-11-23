@@ -1,0 +1,382 @@
+{
+  "counts": {
+    "assertions": 1779,
+    "backend": 1583,
+    "checkpoints": 831,
+    "features": 59,
+    "frontend": 196,
+    "gui_episodes": 59,
+    "program_episodes": 11,
+    "episodes": 70
+  },
+  "features": {
+    "API identities conflicts and reverse relationships": {
+      "assertions": 49,
+      "episodes": [
+        "protocol-options"
+      ]
+    },
+    "HTML clipping and Markdown conversion": {
+      "assertions": 240,
+      "episodes": [
+        "protocol-clipping"
+      ]
+    },
+    "Markdown extension preferences": {
+      "assertions": 4,
+      "episodes": [
+        "markdown-options"
+      ]
+    },
+    "PDF export and attachment": {
+      "assertions": 4,
+      "episodes": [
+        "pdf-attachment"
+      ]
+    },
+    "additional built-in document syntax": {
+      "assertions": 8,
+      "episodes": [
+        "markdown-additional"
+      ]
+    },
+    "appearance preferences": {
+      "assertions": 6,
+      "episodes": [
+        "theme-persistence"
+      ]
+    },
+    "attach files and images": {
+      "assertions": 5,
+      "episodes": [
+        "note-attachments"
+      ]
+    },
+    "attachments and clipped images": {
+      "assertions": 175,
+      "episodes": [
+        "protocol-resources"
+      ]
+    },
+    "block Markdown": {
+      "assertions": 9,
+      "episodes": [
+        "markdown-blocks"
+      ]
+    },
+    "built-in Markdown extensions": {
+      "assertions": 9,
+      "episodes": [
+        "markdown-builtins"
+      ]
+    },
+    "complete notebook backup": {
+      "assertions": 30,
+      "episodes": [
+        "archive-jex",
+        "archive-raw"
+      ]
+    },
+    "document export and reimport": {
+      "assertions": 29,
+      "episodes": [
+        "roundtrip-jex",
+        "roundtrip-raw",
+        "roundtrip-markdown",
+        "roundtrip-front-matter",
+        "roundtrip-html",
+        "roundtrip-html-directory"
+      ]
+    },
+    "document import": {
+      "assertions": 18,
+      "episodes": [
+        "import-markdown",
+        "import-text",
+        "import-html",
+        "import-front-matter",
+        "import-enex-markdown",
+        "import-enex-html"
+      ]
+    },
+    "duplicate notes": {
+      "assertions": 7,
+      "episodes": [
+        "note-duplicate"
+      ]
+    },
+    "editing undo redo and clipboard": {
+      "assertions": 8,
+      "episodes": [
+        "note-edit-history"
+      ]
+    },
+    "editor commands and clipboard": {
+      "assertions": 9,
+      "episodes": [
+        "editor-commands"
+      ]
+    },
+    "extended Markdown rendering": {
+      "assertions": 6,
+      "episodes": [
+        "markdown-extended"
+      ]
+    },
+    "find and replace match modes": {
+      "assertions": 4,
+      "episodes": [
+        "editor-replace"
+      ]
+    },
+    "find in a note": {
+      "assertions": 4,
+      "episodes": [
+        "local-find"
+      ]
+    },
+    "formatting commands": {
+      "assertions": 5,
+      "episodes": [
+        "formatting-toolbar"
+      ]
+    },
+    "full text search and structured filters": {
+      "assertions": 98,
+      "episodes": [
+        "protocol-search"
+      ]
+    },
+    "in-note checklists": {
+      "assertions": 4,
+      "episodes": [
+        "markdown-checklist"
+      ]
+    },
+    "inline Markdown": {
+      "assertions": 9,
+      "episodes": [
+        "markdown-inline"
+      ]
+    },
+    "line editing": {
+      "assertions": 8,
+      "episodes": [
+        "editor-lines"
+      ]
+    },
+    "links between notes": {
+      "assertions": 3,
+      "episodes": [
+        "internal-link"
+      ]
+    },
+    "move notes": {
+      "assertions": 4,
+      "episodes": [
+        "note-move"
+      ]
+    },
+    "multi-note ENEX import": {
+      "assertions": 9,
+      "episodes": [
+        "import-enex-complete"
+      ]
+    },
+    "nested Markdown directory import": {
+      "assertions": 8,
+      "episodes": [
+        "archive-markdown"
+      ]
+    },
+    "note and to-do conversion": {
+      "assertions": 5,
+      "episodes": [
+        "todo-convert"
+      ]
+    },
+    "note creation": {
+      "assertions": 8,
+      "episodes": [
+        "note-create"
+      ]
+    },
+    "note list ordering": {
+      "assertions": 3,
+      "episodes": [
+        "note-sorting"
+      ]
+    },
+    "note properties": {
+      "assertions": 4,
+      "episodes": [
+        "note-properties"
+      ]
+    },
+    "note statistics": {
+      "assertions": 2,
+      "episodes": [
+        "note-statistics"
+      ]
+    },
+    "note tagging": {
+      "assertions": 7,
+      "episodes": [
+        "tags-edit"
+      ]
+    },
+    "notebook hierarchy and trash": {
+      "assertions": 88,
+      "episodes": [
+        "protocol-folders"
+      ]
+    },
+    "notebook navigation": {
+      "assertions": 5,
+      "episodes": [
+        "notebook-tree"
+      ]
+    },
+    "notebooks": {
+      "assertions": 7,
+      "episodes": [
+        "notebook-create"
+      ]
+    },
+    "notes and metadata": {
+      "assertions": 227,
+      "episodes": [
+        "protocol-notes"
+      ]
+    },
+    "offline OneNote import": {
+      "assertions": 3,
+      "episodes": [
+        "import-onenote"
+      ]
+    },
+    "pagination sorting and field projection": {
+      "assertions": 176,
+      "episodes": [
+        "protocol-lists"
+      ]
+    },
+    "previous note versions": {
+      "assertions": 5,
+      "episodes": [
+        "history-restore"
+      ]
+    },
+    "quick navigation": {
+      "assertions": 2,
+      "episodes": [
+        "goto-anything"
+      ]
+    },
+    "revisions events and API errors": {
+      "assertions": 124,
+      "episodes": [
+        "protocol-history"
+      ]
+    },
+    "rich text editor": {
+      "assertions": 4,
+      "episodes": [
+        "rich-text"
+      ]
+    },
+    "rich text formatting and conversion": {
+      "assertions": 7,
+      "episodes": [
+        "rich-editing"
+      ]
+    },
+    "rich text table editing": {
+      "assertions": 7,
+      "episodes": [
+        "rich-table"
+      ]
+    },
+    "search all notes": {
+      "assertions": 5,
+      "episodes": [
+        "global-search"
+      ]
+    },
+    "search scope and time boundaries": {
+      "assertions": 26,
+      "episodes": [
+        "protocol-search-edges"
+      ]
+    },
+    "tables and fenced code": {
+      "assertions": 6,
+      "episodes": [
+        "markdown-tables"
+      ]
+    },
+    "tag navigation and rename": {
+      "assertions": 4,
+      "episodes": [
+        "tags-navigation"
+      ]
+    },
+    "tags and many-to-many note relationships": {
+      "assertions": 78,
+      "episodes": [
+        "protocol-tags"
+      ]
+    },
+    "to-do alarm dialog": {
+      "assertions": 5,
+      "episodes": [
+        "todo-alarm"
+      ]
+    },
+    "to-dos": {
+      "assertions": 9,
+      "episodes": [
+        "todo-create-complete"
+      ]
+    },
+    "to-dos alarms and persistence": {
+      "assertions": 148,
+      "episodes": [
+        "protocol-todos"
+      ]
+    },
+    "trash and restore": {
+      "assertions": 10,
+      "episodes": [
+        "note-trash"
+      ]
+    },
+    "whiteboard connections and promotion": {
+      "assertions": 14,
+      "episodes": [
+        "whiteboard-graph"
+      ]
+    },
+    "whiteboards and note cards": {
+      "assertions": 9,
+      "episodes": [
+        "whiteboard"
+      ]
+    },
+    "workspace controls": {
+      "assertions": 3,
+      "episodes": [
+        "workspace-layout"
+      ]
+    },
+    "workspace visibility and persistence": {
+      "assertions": 6,
+      "episodes": [
+        "workspace-preferences"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

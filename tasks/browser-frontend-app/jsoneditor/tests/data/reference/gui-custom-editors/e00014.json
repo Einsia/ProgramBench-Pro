@@ -1,0 +1,118 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        13,
+        290,
+        26,
+        26
+      ],
+      "ref": "e546c927e",
+      "tag": "button",
+      "title": "Format JSON data, with proper indentation and line feeds (Ctrl+I)"
+    },
+    {
+      "bounds": [
+        43,
+        290,
+        26,
+        26
+      ],
+      "ref": "e9b780019",
+      "tag": "button",
+      "title": "Compact JSON data, remove all whitespaces (Ctrl+Shift+I)"
+    },
+    {
+      "bounds": [
+        73,
+        290,
+        26,
+        26
+      ],
+      "ref": "ea12a318a",
+      "tag": "button",
+      "title": "Sort contents"
+    },
+    {
+      "bounds": [
+        103,
+        290,
+        26,
+        26
+      ],
+      "ref": "e35050c81",
+      "tag": "button",
+      "title": "Filter, sort, or transform contents"
+    },
+    {
+      "bounds": [
+        133,
+        290,
+        26,
+        26
+      ],
+      "ref": "e877cc316",
+      "tag": "button",
+      "title": "Repair JSON: fix quotes and escape characters, remove comments and JSONP notation, turn JavaScript objects into JSON."
+    },
+    {
+      "bounds": [
+        171,
+        290,
+        26,
+        26
+      ],
+      "ref": "ebbb5bcf1",
+      "tag": "button",
+      "title": "Undo last action (Ctrl+Z)"
+    },
+    {
+      "bounds": [
+        201,
+        290,
+        26,
+        26
+      ],
+      "disabled": true,
+      "ref": "e0a2b66da",
+      "tag": "button",
+      "title": "Redo (Ctrl+Shift+Z)"
+    },
+    {
+      "bounds": [
+        239,
+        290,
+        62,
+        26
+      ],
+      "ref": "e23f38dbc",
+      "tag": "button",
+      "text": "Code ▾",
+      "title": "Switch Editor Mode"
+    },
+    {
+      "bounds": [
+        412,
+        286,
+        95,
+        36
+      ],
+      "ref": "e5a4fce2f",
+      "tag": "a",
+      "text": "powered by ace"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "drawing": [],
+  "drawing_truncated": false,
+  "text": "Custom Ace editor\nThis example demonstrates how to load a custom version of Ace editor into JSONEditor.\nBy default, JSONEditor\ncode\nmode loads the following Ace plugins:\nace/mode/json\nace/ext/searchbox\nace/theme/jsoneditor\nThe jsoneditor theme comes embedded with JSONEditor. The other two plugins (json and searchbox) must be available in the folder of the custom Ace editor, or already be loaded via a script tag.\n1\n{\n\"custom\"\n:\n42\n}\nLn:\n1\nCol:\n14",
+  "text_truncated": false,
+  "title": "JSONEditor | Custom Ace",
+  "url": "/examples/08_custom_ace.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

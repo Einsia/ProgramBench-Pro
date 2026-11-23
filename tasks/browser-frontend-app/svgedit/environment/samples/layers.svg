@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300">
+  <g class="layer"><title>Sky</title><rect x="0" y="0" width="400" height="180" fill="#87ceeb"/></g>
+  <g class="layer"><title>Ground</title><rect x="0" y="180" width="400" height="120" fill="#4caf50"/></g>
+  <g class="layer" style="display:none"><title>Notes</title><text x="20" y="40" font-size="18">hidden note</text></g>
+</svg>

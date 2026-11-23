@@ -1,0 +1,254 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e846",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "aria": "Display another project",
+      "bounds": [
+        836,
+        7,
+        273,
+        24
+      ],
+      "placeholder": "Display another project",
+      "ref": "e847",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e848",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/dashboard",
+      "ref": "e849",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/dashboard",
+      "ref": "e850",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "bounds": [
+        10,
+        49,
+        108,
+        17
+      ],
+      "href": "/project/create",
+      "ref": "e851",
+      "role": null,
+      "tag": "a",
+      "text": "New project"
+    },
+    {
+      "bounds": [
+        138,
+        49,
+        171,
+        17
+      ],
+      "href": "/projects",
+      "ref": "e852",
+      "role": null,
+      "tag": "a",
+      "text": "Project management"
+    },
+    {
+      "bounds": [
+        328,
+        49,
+        152,
+        17
+      ],
+      "href": "/my-activity",
+      "ref": "e853",
+      "role": null,
+      "tag": "a",
+      "text": "My activity stream"
+    },
+    {
+      "bounds": [
+        23,
+        96,
+        67,
+        17
+      ],
+      "href": "/dashboard/1",
+      "ref": "e854",
+      "role": null,
+      "tag": "a",
+      "text": "Overview"
+    },
+    {
+      "bounds": [
+        23,
+        132,
+        82,
+        17
+      ],
+      "href": "/dashboard/1/projects",
+      "ref": "e855",
+      "role": null,
+      "tag": "a",
+      "text": "My projects"
+    },
+    {
+      "bounds": [
+        23,
+        168,
+        63,
+        17
+      ],
+      "href": "/dashboard/1/tasks",
+      "ref": "e856",
+      "role": null,
+      "tag": "a",
+      "text": "My tasks"
+    },
+    {
+      "bounds": [
+        23,
+        204,
+        89,
+        17
+      ],
+      "href": "/dashboard/1/subtasks",
+      "ref": "e857",
+      "role": null,
+      "tag": "a",
+      "text": "My subtasks"
+    },
+    {
+      "aria": "Search",
+      "bounds": [
+        250,
+        87,
+        959,
+        28
+      ],
+      "name": "search",
+      "placeholder": "Search",
+      "ref": "e858",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "aria": "Default filters",
+      "bounds": [
+        1221,
+        92,
+        36,
+        16
+      ],
+      "href": "/dashboard",
+      "ref": "e859",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Default filters"
+    },
+    {
+      "bounds": [
+        1214,
+        136,
+        42,
+        28
+      ],
+      "href": "/dashboard",
+      "ref": "e860",
+      "role": null,
+      "tag": "a",
+      "text": "Sort"
+    },
+    {
+      "bounds": [
+        254,
+        169,
+        30,
+        15
+      ],
+      "href": "/dashboard",
+      "ref": "e861",
+      "role": null,
+      "tag": "a",
+      "text": "#1"
+    },
+    {
+      "bounds": [
+        288,
+        169,
+        67,
+        15
+      ],
+      "href": "/board/1",
+      "ref": "e862",
+      "role": null,
+      "tag": "a",
+      "text": "Fresh Start"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Dashboard for admin\n \n \nA\nNew project Project management My activity stream\nOverview\nMy projects\nMy tasks\nMy subtasks\n1 project\nSort \n#1 \n Fresh Start\nTask count\n0 Todo \nTask count\n0 Doing \nTask count\n0 Review \nTask count\n0 Shipped\n\nThere is nothing assigned to you.",
+  "text_truncated": false,
+  "title": "Dashboard for admin",
+  "url": "/dashboard",
+  "viewport": [
+    1280,
+    900
+  ]
+}

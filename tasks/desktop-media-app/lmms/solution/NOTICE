@@ -1,0 +1,52 @@
+LMMS 1.2.2 reference runtime: licence and corresponding source
+
+lmms-1.2.2-linux-x86_64.AppImage in this directory is the unmodified upstream
+release asset of LMMS 1.2.2 (GitHub release v1.2.2; 96362536 bytes,
+sha256 6cdc45a0699b8cd85295c49bcac03fcce6f3d8ffd7da23d646d0cb4258869b76).
+solve.sh checks that digest and unpacks the image with the AppImage's own
+extractor (--appimage-extract) into runtime/. The installer then omits the
+optional VeSTige, Carla base, Carla Rack, Carla Patchbay and external LADSPA host modules.
+Remaining executable and library bytes are unchanged. The launcher launch.py, start.sh, solve.sh and the preload
+library lmms_cpus.so with its source lmms_cpus.c are this repository's own
+files and are not part of LMMS. lmms_cpus.so is built from lmms_cpus.c with
+gcc 11.4 (Ubuntu 22.04, glibc 2.35):
+  gcc -O2 -fPIC -shared -Wl,--build-id=none -o lmms_cpus.so lmms_cpus.c -ldl
+It only lowers the processor count that sysconf and get_nprocs report to the
+LMMS process, so that LMMS starts no more mixer threads than its CPU quota
+allows.
+
+LMMS is free software, distributed under the terms of the GNU General Public
+License, version 2 or (at your option) any later version: the source headers
+of the application say so, and LICENSE.txt of the source release is the text of
+the GPL version 2. The full GPL version 2 is included in LICENSE. Component
+notices are reproduced in LICENSES and retained in the extracted upstream runtime.
+
+The image also carries third-party components that keep their own licences,
+as named in the source release: ZynAddSubFX (plugins/zynaddsubfx/COPYING),
+Carla (plugins/carlabase/carla), the LADSPA plug-ins (plugins/LadspaEffect),
+OPL2 (plugins/opl2/COPYING.LESSER, LGPL 2.1), qt5-x11embed (src/3rdparty),
+the demo and shorty projects (data/projects/*/LICENSES.TXT lists the licence of
+each), and shared libraries (Qt 5.9.7 and others) whose copyright files are
+in usr/share/doc of the unpacked image.
+
+Corresponding source of LMMS 1.2.2 is the upstream source release:
+
+  https://github.com/LMMS/lmms/releases/download/v1.2.2/lmms_1.2.2.tar.xz
+  22733960 bytes, sha256 b185507fb64ecfd8e31145135b58ab244b637f9efc09c4176caf70aa3cbaae1e
+
+The source of the bundled shared libraries is that of the packages named in
+usr/share/doc of the unpacked image; Qt 5.9.7 is available from
+https://download.qt.io/archive/qt/5.9/5.9.7/.
+
+The task is not affiliated with or endorsed by the LMMS developers; LMMS names
+the reference product only.
+
+The local isolation.py adapter requires enabled Landlock ABI 1 or newer and
+uses the filesystem rights supported by that ABI. File writes, creation and
+removal are restricted to the configured instance/document directories and
+the required /dev/null and /dev/shm paths. Execution is limited to the selected
+product binary and the dynamic loader. ABI 1 denies cross-directory renames
+and hard links. On ABI 2 or newer, these operations are permitted only where
+the applicable Landlock path rules allow them. File truncation is restricted
+only on ABI 3 or newer; the adapter provides no truncation restriction on
+ABI 1 or 2. It does not modify upstream executable bytes.

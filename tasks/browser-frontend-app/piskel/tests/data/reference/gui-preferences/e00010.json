@@ -1,0 +1,632 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        218,
+        45,
+        795,
+        850
+      ],
+      "ref": "canvas0",
+      "tag": "canvas"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        1247,
+        7,
+        26,
+        26
+      ],
+      "context": "+ New Piskel",
+      "ref": "e23f5b6a3",
+      "tag": "a",
+      "text": "+",
+      "title": "Create a new sprite"
+    },
+    {
+      "bounds": [
+        5,
+        207,
+        20,
+        20
+      ],
+      "context": "Pen size from 1 to 4 pixels",
+      "ref": "ed68283c8",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        27,
+        207,
+        20,
+        20
+      ],
+      "context": "Pen size from 1 to 4 pixels",
+      "ref": "ed68283c8x2",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        49,
+        207,
+        20,
+        20
+      ],
+      "context": "Pen size from 1 to 4 pixels",
+      "ref": "ed68283c8x3",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        71,
+        207,
+        20,
+        20
+      ],
+      "context": "Pen size from 1 to 4 pixels",
+      "ref": "ed68283c8x4",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        1,
+        233,
+        46,
+        46
+      ],
+      "ref": "efdd84e9f",
+      "tag": "li",
+      "title": "Pen tool (P)"
+    },
+    {
+      "bounds": [
+        49,
+        233,
+        46,
+        46
+      ],
+      "ref": "ecd960a1e",
+      "tag": "li",
+      "title": "Vertical Mirror pen (V) CTRL Use horizontal axis SHIFT Use horizontal and vertical axis"
+    },
+    {
+      "bounds": [
+        1,
+        281,
+        46,
+        46
+      ],
+      "ref": "eacf15eda",
+      "tag": "li",
+      "title": "Paint bucket tool (B)"
+    },
+    {
+      "bounds": [
+        49,
+        281,
+        46,
+        46
+      ],
+      "ref": "e7d8f376b",
+      "tag": "li",
+      "title": "Paint all pixels of the same color (A) CTRL Apply to all layers SHIFT Apply to all frames"
+    },
+    {
+      "bounds": [
+        1,
+        329,
+        46,
+        46
+      ],
+      "ref": "ef66d1151",
+      "tag": "li",
+      "title": "Eraser tool (E)"
+    },
+    {
+      "bounds": [
+        49,
+        329,
+        46,
+        46
+      ],
+      "ref": "e51d99cc5",
+      "tag": "li",
+      "title": "Stroke tool (L) SHIFT Hold shift to draw straight lines"
+    },
+    {
+      "bounds": [
+        1,
+        377,
+        46,
+        46
+      ],
+      "ref": "eea0e011a",
+      "tag": "li",
+      "title": "Rectangle tool (R) SHIFT Keep 1 to 1 ratio"
+    },
+    {
+      "bounds": [
+        49,
+        377,
+        46,
+        46
+      ],
+      "ref": "e6e4335ca",
+      "tag": "li",
+      "title": "Circle tool (C) SHIFT Keep 1 to 1 ratio"
+    },
+    {
+      "bounds": [
+        1,
+        425,
+        46,
+        46
+      ],
+      "ref": "e3d3c859b",
+      "tag": "li",
+      "title": "Move tool (M) CTRL Apply to all layers SHIFT Apply to all frames ALT Wrap canvas borders"
+    },
+    {
+      "bounds": [
+        49,
+        425,
+        46,
+        46
+      ],
+      "ref": "e5c69c72e",
+      "tag": "li",
+      "title": "Shape selection (Z) Drag the selection to move it. You may switch to other layers and frames. CTRL+C Copy the selected area CTRL+V Paste the copied area SHIFT Hold to move the content"
+    },
+    {
+      "bounds": [
+        1,
+        473,
+        46,
+        46
+      ],
+      "ref": "ef1b332fd",
+      "tag": "li",
+      "title": "Rectangle selection (S) Drag the selection to move it. You may switch to other layers and frames. CTRL+C Copy the selected area CTRL+V Paste the copied area SHIFT Hold to move the content"
+    },
+    {
+      "bounds": [
+        49,
+        473,
+        46,
+        46
+      ],
+      "ref": "ef8a426dd",
+      "tag": "li",
+      "title": "Lasso selection (H) Drag the selection to move it. You may switch to other layers and frames. CTRL+C Copy the selected area CTRL+V Paste the copied area SHIFT Hold to move the content"
+    },
+    {
+      "bounds": [
+        1,
+        521,
+        46,
+        46
+      ],
+      "ref": "e97a17ab6",
+      "tag": "li",
+      "title": "Lighten (U) CTRL Darken SHIFT Apply only once per pixel"
+    },
+    {
+      "bounds": [
+        49,
+        521,
+        46,
+        46
+      ],
+      "ref": "e00581728",
+      "tag": "li",
+      "title": "Dithering tool (T)"
+    },
+    {
+      "bounds": [
+        1,
+        569,
+        46,
+        46
+      ],
+      "ref": "e322085a6",
+      "tag": "li",
+      "title": "Color picker (O)"
+    },
+    {
+      "bounds": [
+        11,
+        627,
+        46,
+        46
+      ],
+      "ref": "e6f774dff",
+      "tag": "div",
+      "title": "Primary - left mouse button #000000"
+    },
+    {
+      "bounds": [
+        38,
+        651,
+        46,
+        46
+      ],
+      "ref": "efacdd56a",
+      "tag": "div",
+      "title": "Secondary - right mouse button rgba(0, 0, 0, 0)"
+    },
+    {
+      "bounds": [
+        16,
+        676,
+        18,
+        18
+      ],
+      "ref": "ea648bef7",
+      "tag": "div",
+      "title": "Swap colors (X)"
+    },
+    {
+      "bounds": [
+        103,
+        48,
+        30,
+        30
+      ],
+      "context": "1 Add new frame",
+      "ref": "eaa038e75",
+      "tag": "button",
+      "text": "1",
+      "title": "Toggle for preview"
+    },
+    {
+      "bounds": [
+        100,
+        155,
+        102,
+        50
+      ],
+      "context": "1 Add new frame",
+      "ref": "eb3c80823",
+      "tag": "div",
+      "text": "Add new frame"
+    },
+    {
+      "bounds": [
+        1023,
+        245,
+        36,
+        26
+      ],
+      "context": "12 FPS | 1x 6x Full | 1x 6x Full 12 FPS | 1x 6x Full 12 FPS Layers | 1 Add new frame 1x 6x Full",
+      "ref": "e98af88cd",
+      "tag": "div",
+      "title": "Toggle onion skin (alt+O)"
+    },
+    {
+      "bounds": [
+        1119,
+        245,
+        100,
+        26
+      ],
+      "context": "12 FPS | 1x 6x Full | 1x 6x Full 12 FPS | 1x 6x Full 12 FPS Layers | 1 Add new frame 1x 6x Full",
+      "editable": false,
+      "label": "12 FPS",
+      "ref": "e0f69bd84",
+      "tag": "input",
+      "type": "range",
+      "value": "12"
+    },
+    {
+      "bounds": [
+        1191,
+        284,
+        20,
+        20
+      ],
+      "context": "Layers | Layers Layer 1 α | 1x 6x Full 12 FPS Layers | 1 Add new frame 1x 6x Full",
+      "ref": "e3d6d8b63",
+      "tag": "div",
+      "title": "Preview all layers (alt+L) Opacity defined in PREFERENCES"
+    },
+    {
+      "bounds": [
+        1025,
+        311,
+        33,
+        24
+      ],
+      "context": "Layers | Layers Layer 1 α | 1x 6x Full 12 FPS Layers | 1 Add new frame 1x 6x Full",
+      "ref": "ecca5bb3e",
+      "tag": "button",
+      "title": "Create a layer SHIFT Clone current layer"
+    },
+    {
+      "bounds": [
+        1058,
+        311,
+        33,
+        24
+      ],
+      "context": "Layers | Layers Layer 1 α | 1x 6x Full 12 FPS Layers | 1 Add new frame 1x 6x Full",
+      "disabled": true,
+      "ref": "ee561b6ea",
+      "tag": "button",
+      "title": "Move layer up SHIFT Move to the top"
+    },
+    {
+      "bounds": [
+        1090,
+        311,
+        33,
+        24
+      ],
+      "context": "Layers | Layers Layer 1 α | 1x 6x Full 12 FPS Layers | 1 Add new frame 1x 6x Full",
+      "disabled": true,
+      "ref": "e35917911",
+      "tag": "button",
+      "title": "Move layer down SHIFT Move to the bottom"
+    },
+    {
+      "bounds": [
+        1123,
+        311,
+        33,
+        24
+      ],
+      "context": "Layers | Layers Layer 1 α | 1x 6x Full 12 FPS Layers | 1 Add new frame 1x 6x Full",
+      "ref": "e0a5864cd",
+      "tag": "button",
+      "title": "Edit layer name"
+    },
+    {
+      "bounds": [
+        1156,
+        311,
+        33,
+        24
+      ],
+      "context": "Layers | Layers Layer 1 α | 1x 6x Full 12 FPS Layers | 1 Add new frame 1x 6x Full",
+      "disabled": true,
+      "ref": "e242a7acd",
+      "tag": "button",
+      "title": "Merge with layer below"
+    },
+    {
+      "bounds": [
+        1188,
+        311,
+        33,
+        24
+      ],
+      "context": "Layers | Layers Layer 1 α | 1x 6x Full 12 FPS Layers | 1 Add new frame 1x 6x Full",
+      "disabled": true,
+      "ref": "ebc3cd764",
+      "tag": "button",
+      "title": "Delete selected layer"
+    },
+    {
+      "bounds": [
+        1025,
+        336,
+        196,
+        25
+      ],
+      "context": "Layers Layer 1 α | 1x 6x Full 12 FPS Layers | 1 Add new frame 1x 6x Full",
+      "ref": "e037d8c6f",
+      "tag": "li",
+      "text": "Layer 1 α"
+    },
+    {
+      "bounds": [
+        1198,
+        337,
+        23,
+        24
+      ],
+      "context": "Layer 1 α | Layers Layer 1 α | 1x 6x Full 12 FPS Layers",
+      "ref": "eb0481f8b",
+      "tag": "span",
+      "text": "α",
+      "title": "Layer opacity (1)"
+    },
+    {
+      "bounds": [
+        1198,
+        380,
+        15,
+        15
+      ],
+      "context": "Transform | 1x 6x Full 12 FPS Layers | 1 Add new frame 1x 6x Full",
+      "ref": "ea2f812e5",
+      "tag": "span",
+      "title": "View more tools"
+    },
+    {
+      "bounds": [
+        1025,
+        404,
+        46,
+        46
+      ],
+      "context": "Transform | 1x 6x Full 12 FPS Layers | 1 Add new frame 1x 6x Full",
+      "ref": "eec6fcd7b",
+      "tag": "li",
+      "title": "Flip vertically ALT Flip horizontally CTRL Apply to all layers SHIFT Apply to all frames"
+    },
+    {
+      "bounds": [
+        1075,
+        404,
+        46,
+        46
+      ],
+      "context": "Transform | 1x 6x Full 12 FPS Layers | 1 Add new frame 1x 6x Full",
+      "ref": "e97706214",
+      "tag": "li",
+      "title": "Counter-clockwise rotation ALT Clockwise rotation CTRL Apply to all layers SHIFT Apply to all frames"
+    },
+    {
+      "bounds": [
+        1125,
+        404,
+        46,
+        46
+      ],
+      "context": "Transform | 1x 6x Full 12 FPS Layers | 1 Add new frame 1x 6x Full",
+      "ref": "ee21cbac2",
+      "tag": "li",
+      "title": "Clone current layer to all frames"
+    },
+    {
+      "bounds": [
+        1175,
+        404,
+        46,
+        46
+      ],
+      "context": "Transform | 1x 6x Full 12 FPS Layers | 1 Add new frame 1x 6x Full",
+      "ref": "ea4d81ee9",
+      "tag": "li",
+      "title": "Align image to the center CTRL Apply to all layers SHIFT Apply to all frames"
+    },
+    {
+      "bounds": [
+        1025,
+        492,
+        33,
+        24
+      ],
+      "context": "Palettes | Palettes No color in this palette… | Transform | 1x 6x Full 12 FPS Layers | 1 Add new frame 1x 6x Full",
+      "ref": "e04244a76",
+      "tag": "button",
+      "title": "Create a new palette"
+    },
+    {
+      "bounds": [
+        1058,
+        492,
+        131,
+        24
+      ],
+      "context": "Palettes | Palettes No color in this palette… | Transform | 1x 6x Full 12 FPS Layers | 1 Add new frame 1x 6x Full",
+      "editable": false,
+      "group": "Palettes",
+      "options": [
+        {
+          "label": "Current colors",
+          "selected": true,
+          "value": "__current-colors"
+        }
+      ],
+      "ref": "e00baa163",
+      "tag": "select",
+      "value": "__current-colors"
+    },
+    {
+      "bounds": [
+        1188,
+        492,
+        33,
+        24
+      ],
+      "context": "Palettes | Palettes No color in this palette… | Transform | 1x 6x Full 12 FPS Layers | 1 Add new frame 1x 6x Full",
+      "ref": "e24a4b1e6",
+      "tag": "button",
+      "title": "Manage this palette"
+    },
+    {
+      "bounds": [
+        1234,
+        331,
+        46,
+        46
+      ],
+      "context": "+ New Piskel",
+      "ref": "e76647419",
+      "tag": "div",
+      "title": "PREFERENCES"
+    },
+    {
+      "bounds": [
+        1234,
+        379,
+        46,
+        46
+      ],
+      "context": "+ New Piskel",
+      "ref": "e5c531fdf",
+      "tag": "div",
+      "title": "RESIZE Resize the drawing area"
+    },
+    {
+      "bounds": [
+        1234,
+        427,
+        46,
+        46
+      ],
+      "context": "+ New Piskel",
+      "ref": "e685fea52",
+      "tag": "div",
+      "title": "SAVE Save to your gallery, save locally or export as a file"
+    },
+    {
+      "bounds": [
+        1234,
+        475,
+        46,
+        46
+      ],
+      "context": "+ New Piskel",
+      "ref": "e0eee80e4",
+      "tag": "div",
+      "title": "EXPORT Export as Image, as Spritesheet or as Animated GIF"
+    },
+    {
+      "bounds": [
+        1234,
+        523,
+        46,
+        46
+      ],
+      "context": "+ New Piskel",
+      "ref": "e9e38432e",
+      "tag": "div",
+      "title": "IMPORT Import an existing image, an animated GIF or a .piskel file"
+    },
+    {
+      "bounds": [
+        10,
+        869,
+        36,
+        21
+      ],
+      "ref": "ecf5208b2",
+      "tag": "span",
+      "title": "Keyboard shortcuts"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "sprite": {
+    "origin": [
+      230.42,
+      84.92
+    ],
+    "pixel": [
+      24.844,
+      24.844
+    ]
+  },
+  "text": "New Piskel\n1x\n6x\nFull\n12 FPS\nLayers\nTransform\nPalettes\nNo color in this palette…\n[32x32]\nx24.84\n1/1",
+  "text_truncated": false,
+  "title": "Piskel",
+  "url": "/",
+  "viewport": [
+    1280,
+    900
+  ]
+}

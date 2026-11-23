@@ -1,0 +1,372 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        13,
+        173,
+        26,
+        26
+      ],
+      "ref": "ee02b9e8c",
+      "tag": "button",
+      "title": "Expand all fields"
+    },
+    {
+      "bounds": [
+        43,
+        173,
+        26,
+        26
+      ],
+      "ref": "e85e63fcb",
+      "tag": "button",
+      "title": "Collapse all fields"
+    },
+    {
+      "bounds": [
+        73,
+        173,
+        26,
+        26
+      ],
+      "ref": "ea12a318a",
+      "tag": "button",
+      "title": "Sort contents"
+    },
+    {
+      "bounds": [
+        103,
+        173,
+        26,
+        26
+      ],
+      "ref": "e35050c81",
+      "tag": "button",
+      "title": "Filter, sort, or transform contents"
+    },
+    {
+      "bounds": [
+        141,
+        173,
+        26,
+        26
+      ],
+      "ref": "ebbb5bcf1",
+      "tag": "button",
+      "title": "Undo last action (Ctrl+Z)"
+    },
+    {
+      "bounds": [
+        171,
+        173,
+        26,
+        26
+      ],
+      "disabled": true,
+      "ref": "e0a2b66da",
+      "tag": "button",
+      "title": "Redo (Ctrl+Shift+Z)"
+    },
+    {
+      "bounds": [
+        420,
+        174,
+        18,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e1d35618c",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        439,
+        175,
+        126,
+        18
+      ],
+      "context": "Search fields and values",
+      "ref": "e3b24d854",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        566,
+        174,
+        16,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e44fcfed4",
+      "tag": "button",
+      "title": "Next result (Enter)"
+    },
+    {
+      "bounds": [
+        582,
+        174,
+        16,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e0ed8f5b1",
+      "tag": "button",
+      "title": "Previous result (Shift + Enter)"
+    },
+    {
+      "bounds": [
+        33,
+        230,
+        24,
+        24
+      ],
+      "ref": "ebb03648e",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        57,
+        230,
+        24,
+        24
+      ],
+      "ref": "e8f71e697",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        140,
+        231,
+        31,
+        22
+      ],
+      "ref": "e4b214abd",
+      "tag": "div",
+      "text": "{4}",
+      "title": "object containing 4 items"
+    },
+    {
+      "bounds": [
+        9,
+        254,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3a",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        254,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex2",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        81,
+        254,
+        24,
+        24
+      ],
+      "ref": "e8f71e697x2",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        106,
+        255,
+        82,
+        22
+      ],
+      "ref": "e30f4afad",
+      "tag": "div",
+      "text": "portfolio",
+      "value": "portfolio"
+    },
+    {
+      "bounds": [
+        190,
+        255,
+        31,
+        22
+      ],
+      "ref": "e0f67b9d3",
+      "tag": "div",
+      "text": "[2]",
+      "title": "array containing 2 items"
+    },
+    {
+      "bounds": [
+        9,
+        278,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax2",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        278,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex3",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        81,
+        278,
+        24,
+        24
+      ],
+      "ref": "e8f71e697x3",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        106,
+        279,
+        82,
+        22
+      ],
+      "ref": "edf7f5cbe",
+      "tag": "div",
+      "text": "watchlist",
+      "value": "watchlist"
+    },
+    {
+      "bounds": [
+        190,
+        279,
+        31,
+        22
+      ],
+      "ref": "e0f67b9d3x2",
+      "tag": "div",
+      "text": "[2]",
+      "title": "array containing 2 items"
+    },
+    {
+      "bounds": [
+        9,
+        302,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax3",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        302,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex4",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        106,
+        303,
+        124,
+        22
+      ],
+      "ref": "e41788b2c",
+      "tag": "div",
+      "text": "favorite_stock",
+      "value": "favorite_stock"
+    },
+    {
+      "bounds": [
+        240,
+        303,
+        40,
+        22
+      ],
+      "ref": "e99d124ae",
+      "tag": "div",
+      "text": "NVDA",
+      "value": "NVDA"
+    },
+    {
+      "bounds": [
+        9,
+        326,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax4",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        326,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex5",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        106,
+        327,
+        80,
+        38
+      ],
+      "ref": "e915436c3",
+      "tag": "div",
+      "text": "description",
+      "value": "description"
+    },
+    {
+      "bounds": [
+        197,
+        327,
+        409,
+        38
+      ],
+      "ref": "e8e731d35",
+      "tag": "div",
+      "text": "Search by company name or stock symbol - value stored is the symbol",
+      "value": "Search by company name or stock symbol - value stored is the symbol"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "drawing": [],
+  "drawing_truncated": false,
+  "text": "Auto Complete with Text/Value Objects\nThis example demonstrates the enhanced autocomplete functionality using objects with separate text (display) and value (actual value) properties. You can search by either the company name or stock symbol. Try typing \"Apple\", \"Microsoft\", \"Google\", \"AAPL\", \"MSFT\", or \"GOOGL\". The dropdown shows compa\nobject\n►\nfavorite_stock\nobject\n:",
+  "text_truncated": false,
+  "title": "JSONEditor | Auto Complete with Text/Value Objects",
+  "url": "/examples/28_autocomplete_text_value_objects.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

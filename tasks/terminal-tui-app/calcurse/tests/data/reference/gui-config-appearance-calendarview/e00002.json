@@ -1,0 +1,230 @@
+{
+  "cursor": {
+    "column": 72,
+    "hidden": true,
+    "row": 35
+  },
+  "process": "running",
+  "screen": [
+    "00|┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐",
+    "01|│                                                   general options                                                    │",
+    "02|├──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤",
+    "03|│ appearance.compactpanels = no",
+    "04|│ (if set to YES, compact panels are used)",
+    "05|│",
+    "06|│ appearance.defaultpanel = Appointments",
+    "07|│ (specifies the panel that is selected by default)",
+    "08|│",
+    "09|│ appearance.calendarview = weekly",
+    "10|│ (preferred calendar display)",
+    "11|│",
+    "12|│ appearance.todoview = hide completed",
+    "13|│ (preferred todo display)",
+    "14|│",
+    "15|│ general.multipledays = no                                                                                            │",
+    "16|│ (display more than one day in the appointments panel)                                                                │",
+    "17|│                                                                                                                      │",
+    "18|│ appearance.headerline = yes                                                                                          │",
+    "19|│ (horizontal line above the day heading)                                                                              │",
+    "20|│                                                                                                                      │",
+    "21|│ appearance.eventseparator = yes                                                                                      │",
+    "22|│ (empty line between events and appointments)                                                                         │",
+    "23|│                                                                                                                      │",
+    "24|│ appearance.dayseparator = yes                                                                                        │",
+    "25|│ (each day ends with an empty line)                                                                                   │",
+    "26|│                                                                                                                      │",
+    "27|│ appearance.emptyline = yes                                                                                           │",
+    "28|│ (insert an empty line after each appointment)                                                                        │",
+    "29|│                                                                                                                      │",
+    "30|│ appearance.emptyday = --                                                                                             │",
+    "31|│ (text for a day without events and appointments)                                                                     │",
+    "32|└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘",
+    "33|───[ Wed 2026-03-18 | 09:30:00 ]───(apts)───> 00:30 :: Example <────────────────────────────────────────────────────────",
+    "34|  q Quit                                                      j Down",
+    "35|  k Up                                                        e Edit Itm"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        52,
+        67
+      ],
+      "row": 1,
+      "style": [
+        "fg=red"
+      ],
+      "text": "general options"
+    },
+    {
+      "columns": [
+        29,
+        31
+      ],
+      "row": 3,
+      "style": [
+        "fg=red"
+      ],
+      "text": "no"
+    },
+    {
+      "columns": [
+        28,
+        40
+      ],
+      "row": 6,
+      "style": [
+        "fg=red"
+      ],
+      "text": "Appointments"
+    },
+    {
+      "columns": [
+        2,
+        34
+      ],
+      "row": 9,
+      "style": [
+        "fg=red"
+      ],
+      "text": "appearance.calendarview = weekly"
+    },
+    {
+      "columns": [
+        24,
+        38
+      ],
+      "row": 12,
+      "style": [
+        "fg=red"
+      ],
+      "text": "hide completed"
+    },
+    {
+      "columns": [
+        25,
+        27
+      ],
+      "row": 15,
+      "style": [
+        "fg=red"
+      ],
+      "text": "no"
+    },
+    {
+      "columns": [
+        26,
+        29
+      ],
+      "row": 18,
+      "style": [
+        "fg=green"
+      ],
+      "text": "yes"
+    },
+    {
+      "columns": [
+        30,
+        33
+      ],
+      "row": 21,
+      "style": [
+        "fg=green"
+      ],
+      "text": "yes"
+    },
+    {
+      "columns": [
+        28,
+        31
+      ],
+      "row": 24,
+      "style": [
+        "fg=green"
+      ],
+      "text": "yes"
+    },
+    {
+      "columns": [
+        25,
+        28
+      ],
+      "row": 27,
+      "style": [
+        "fg=green"
+      ],
+      "text": "yes"
+    },
+    {
+      "columns": [
+        24,
+        26
+      ],
+      "row": 30,
+      "style": [
+        "fg=red"
+      ],
+      "text": "--"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 33,
+      "style": [
+        "underline",
+        "reverse",
+        "fg=red"
+      ],
+      "text": "───[ Wed 2026-03-18 | 09:30:00 ]───(apts)───> 00:30 :: Example <────────────────────────────────────────────────────────"
+    },
+    {
+      "columns": [
+        2,
+        3
+      ],
+      "row": 34,
+      "style": [
+        "fg=red"
+      ],
+      "text": "q"
+    },
+    {
+      "columns": [
+        62,
+        63
+      ],
+      "row": 34,
+      "style": [
+        "fg=red"
+      ],
+      "text": "j"
+    },
+    {
+      "columns": [
+        2,
+        3
+      ],
+      "row": 35,
+      "style": [
+        "fg=red"
+      ],
+      "text": "k"
+    },
+    {
+      "columns": [
+        62,
+        63
+      ],
+      "row": 35,
+      "style": [
+        "fg=red"
+      ],
+      "text": "e"
+    }
+  ]
+}

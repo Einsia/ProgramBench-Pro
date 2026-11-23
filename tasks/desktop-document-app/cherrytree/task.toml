@@ -1,0 +1,45 @@
+schema_version = "1.4"
+artifacts = [{ source = "/app/solution" }]
+
+[task]
+name = "program-bench/cherrytree"
+version = "1.0.0"
+description = "Reconstruct CherryTree 1.7.2, a hierarchical rich-text notebook with document import and export, from black-box observation."
+keywords = ["notes", "hierarchy", "rich-text", "desktop", "gtk"]
+
+[metadata]
+category = "desktop-document-app"
+upstream = "giuspen/cherrytree 1.7.2"
+license = "GPL-3.0-or-later"
+interface = "GTK desktop GUI; document exchange; clipboard; command-line document opening/export"
+network_boundary = "agent: no network except hosts allowed with --allow-agent-host (Harbor egress sidecar); reference and verifier: Compose network_mode:none; restricted Unix socket RPC to the black-box runtime"
+
+[agent]
+timeout_sec = 28800
+user = "agent"
+
+[environment]
+docker_image = "program-bench-cherrytree-agent:1.0.0"
+build_timeout_sec = 1200
+cpus = 4
+memory_mb = 16384
+storage_mb = 20480
+network_mode = "no-network"
+
+[environment.healthcheck]
+command = "blackbox-health"
+interval_sec = 1
+timeout_sec = 5
+retries = 120
+
+[verifier]
+timeout_sec = 204600
+environment_mode = "separate"
+
+[verifier.environment]
+docker_image = "program-bench-cherrytree-verifier:1.0.0"
+cpus = 4
+memory_mb = 8192
+storage_mb = 20480
+network_mode = "no-network"
+build_timeout_sec = 1200

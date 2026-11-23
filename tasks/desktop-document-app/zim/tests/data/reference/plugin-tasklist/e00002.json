@@ -1,0 +1,1462 @@
+{
+  "focused": "e97c82e25",
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        900
+      ],
+      "name": "Home - Core",
+      "ref": "ebe0632ac",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        1154,
+        -1,
+        1,
+        46
+      ],
+      "name": "",
+      "ref": "e592c745a",
+      "role": "separator"
+    },
+    {
+      "bounds": [
+        1161,
+        7,
+        34,
+        30
+      ],
+      "name": "Minimize",
+      "ref": "e4029fb5d",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1201,
+        7,
+        34,
+        30
+      ],
+      "name": "Restore",
+      "ref": "e73c6be38",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1241,
+        7,
+        34,
+        30
+      ],
+      "name": "Close",
+      "ref": "e46a9f3a7",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1028,
+        -1,
+        36,
+        46
+      ],
+      "description": "Task List",
+      "name": "",
+      "ref": "eabfeefb3",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1070,
+        -1,
+        36,
+        46
+      ],
+      "description": "Toggle editable",
+      "name": "",
+      "ref": "e3d450a43",
+      "role": "toggle button",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        1112,
+        -1,
+        36,
+        46
+      ],
+      "description": "Search...",
+      "name": "Find",
+      "ref": "e6af59a82",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        581,
+        13,
+        118,
+        17
+      ],
+      "name": "Home - Core",
+      "ref": "e4af2755c",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        5,
+        -1,
+        35,
+        46
+      ],
+      "description": "Go back",
+      "name": "Back",
+      "ref": "e038f5a35",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        40,
+        -1,
+        35,
+        46
+      ],
+      "description": "Go to home page",
+      "name": "Home",
+      "ref": "ed890713d",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        75,
+        -1,
+        36,
+        46
+      ],
+      "description": "Go forward",
+      "name": "Forward",
+      "ref": "e2e26aec9",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        46,
+        1280,
+        25
+      ],
+      "name": "",
+      "ref": "e5de91ee9",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        0,
+        46,
+        39,
+        25
+      ],
+      "name": "File",
+      "ref": "ed4b20189",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        39,
+        46,
+        41,
+        25
+      ],
+      "name": "Edit",
+      "ref": "e79d0ca26",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        80,
+        46,
+        48,
+        25
+      ],
+      "name": "View",
+      "ref": "eaacaa1f3",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        128,
+        46,
+        53,
+        25
+      ],
+      "name": "Insert",
+      "ref": "eeb806522",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        181,
+        46,
+        62,
+        25
+      ],
+      "name": "Format",
+      "ref": "ef6a271d3",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        243,
+        46,
+        60,
+        25
+      ],
+      "name": "Search",
+      "ref": "ed508a908",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        303,
+        46,
+        49,
+        25
+      ],
+      "name": "Tools",
+      "ref": "e77ddb564",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        352,
+        46,
+        34,
+        25
+      ],
+      "name": "Go",
+      "ref": "e0d3d5208",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        386,
+        46,
+        46,
+        25
+      ],
+      "name": "Help",
+      "ref": "ea3355b98",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        0,
+        71,
+        1280,
+        42
+      ],
+      "name": "",
+      "ref": "e75666fe6",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        4,
+        75,
+        37,
+        35
+      ],
+      "name": "Strong",
+      "ref": "ebfeb852a",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        41,
+        75,
+        37,
+        35
+      ],
+      "name": "Emphasis",
+      "ref": "ee8d87711",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        78,
+        75,
+        37,
+        35
+      ],
+      "name": "Mark",
+      "ref": "e9192236a",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        115,
+        75,
+        37,
+        35
+      ],
+      "name": "Strike",
+      "ref": "e93ca3ebb",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        152,
+        75,
+        37,
+        35
+      ],
+      "name": "Verbatim",
+      "ref": "e559494f3",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        189,
+        75,
+        37,
+        35
+      ],
+      "name": "Subscript",
+      "ref": "e18ee591c",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        226,
+        75,
+        37,
+        35
+      ],
+      "name": "Superscript",
+      "ref": "e9354245e",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        263,
+        75,
+        37,
+        35
+      ],
+      "name": "List...",
+      "ref": "e4e41f587",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        300,
+        75,
+        37,
+        35
+      ],
+      "name": "Heading...",
+      "ref": "e89e97ca7",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        337,
+        75,
+        37,
+        35
+      ],
+      "name": "Insert...",
+      "ref": "e6109c59a",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        388,
+        75,
+        37,
+        35
+      ],
+      "name": "Open Attachments Folder",
+      "ref": "e215c89ee",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        113,
+        1276,
+        787
+      ],
+      "name": "",
+      "ref": "e1f1b58ea",
+      "role": "split pane",
+      "value": 200.0
+    },
+    {
+      "bounds": [
+        0,
+        113,
+        164,
+        34
+      ],
+      "name": "Index",
+      "ref": "e2e7b7d1c",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        164,
+        113,
+        36,
+        34
+      ],
+      "name": "",
+      "ref": "ee22e9c08",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        147,
+        200,
+        753
+      ],
+      "name": "",
+      "ref": "e5598c1e0",
+      "role": "page tab list"
+    },
+    {
+      "bounds": [
+        1,
+        148,
+        198,
+        751
+      ],
+      "name": "",
+      "ref": "e3d90cfc5",
+      "role": "tree table"
+    },
+    {
+      "bounds": [
+        41,
+        149,
+        140,
+        21
+      ],
+      "name": "Café",
+      "ref": "e0f2d4ad8",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        185,
+        149,
+        12,
+        21
+      ],
+      "name": "1",
+      "ref": "e61a50e3c",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        41,
+        172,
+        140,
+        21
+      ],
+      "name": "Home",
+      "ref": "e2f1c5e25",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        185,
+        172,
+        12,
+        21
+      ],
+      "name": "",
+      "ref": "e90453d97",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        41,
+        195,
+        140,
+        21
+      ],
+      "name": "Journal",
+      "ref": "ecbf72b99",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        185,
+        195,
+        12,
+        21
+      ],
+      "name": "1",
+      "ref": "ea8232795",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        41,
+        218,
+        140,
+        21
+      ],
+      "name": "Projects",
+      "ref": "e6760e1cd",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        185,
+        218,
+        12,
+        21
+      ],
+      "name": "3",
+      "ref": "e516b245d",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        201,
+        113,
+        1075,
+        787
+      ],
+      "name": "",
+      "ref": "eee0457ad",
+      "role": "split pane",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        203,
+        115,
+        57,
+        34
+      ],
+      "name": "Home",
+      "ref": "ef8e4805c",
+      "role": "toggle button",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        201,
+        151,
+        1075,
+        749
+      ],
+      "name": "",
+      "ref": "ed9a2b803",
+      "role": "split pane",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        201,
+        151,
+        1075,
+        749
+      ],
+      "name": "",
+      "ref": "e740d363f",
+      "role": "split pane",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        202,
+        152,
+        1071,
+        747
+      ],
+      "name": "",
+      "ref": "e3e519df7",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "Home\nWelcome page with alpha and a link to Projects:Alpha and Notes.\nExternal https://example.org/x and tag @start.\n"
+    },
+    {
+      "bounds": [
+        1275,
+        151,
+        1,
+        749
+      ],
+      "name": "",
+      "ref": "e5a817d9e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1276,
+        113,
+        4,
+        17
+      ],
+      "name": "",
+      "ref": "e318e4941",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        900
+      ],
+      "name": "Tasks  -  Core",
+      "ref": "e7a102caa",
+      "role": "frame",
+      "states": [
+        "active"
+      ]
+    },
+    {
+      "bounds": [
+        1154,
+        -1,
+        1,
+        46
+      ],
+      "name": "",
+      "ref": "ea875fd42",
+      "role": "separator"
+    },
+    {
+      "bounds": [
+        1161,
+        7,
+        34,
+        30
+      ],
+      "name": "Minimize",
+      "ref": "e11beaadf",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1201,
+        7,
+        34,
+        30
+      ],
+      "name": "Restore",
+      "ref": "ea96fbf95",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1241,
+        7,
+        34,
+        30
+      ],
+      "name": "Close",
+      "ref": "e0e01046c",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        998,
+        -1,
+        54,
+        46
+      ],
+      "name": "2 shown",
+      "ref": "e2ac45e88",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1070,
+        -1,
+        36,
+        46
+      ],
+      "description": "Search",
+      "name": "Find",
+      "ref": "e4cfe9e5d",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1112,
+        -1,
+        36,
+        46
+      ],
+      "name": "Menu",
+      "ref": "efb7e5646",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        577,
+        13,
+        126,
+        17
+      ],
+      "name": "Tasks  -  Core",
+      "ref": "e11c0bb26",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        5,
+        -1,
+        64,
+        46
+      ],
+      "description": "Print tasklist to browser",
+      "name": "Print",
+      "ref": "eb74e743b",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        46,
+        1280,
+        854
+      ],
+      "name": "",
+      "ref": "e90bedab8",
+      "role": "split pane",
+      "value": 150.0
+    },
+    {
+      "bounds": [
+        5,
+        51,
+        140,
+        80
+      ],
+      "name": "",
+      "ref": "ed4e0e48a",
+      "role": "list box"
+    },
+    {
+      "bounds": [
+        5,
+        68,
+        140,
+        21
+      ],
+      "name": "",
+      "ref": "e97c82e25",
+      "role": "list item",
+      "states": [
+        "focused",
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        7,
+        70,
+        136,
+        17
+      ],
+      "name": "All Tasks",
+      "ref": "ee8037c4b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        5,
+        89,
+        140,
+        21
+      ],
+      "name": "",
+      "ref": "e657658cb",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        7,
+        91,
+        136,
+        17
+      ],
+      "name": "Active",
+      "ref": "e9bc2c802",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        5,
+        110,
+        140,
+        21
+      ],
+      "name": "",
+      "ref": "e4f91d0d2",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        7,
+        112,
+        136,
+        17
+      ],
+      "name": "Waiting",
+      "ref": "ee202f4ea",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        5,
+        131,
+        140,
+        261
+      ],
+      "name": "",
+      "ref": "edad694c3",
+      "role": "list box"
+    },
+    {
+      "bounds": [
+        5,
+        148,
+        140,
+        21
+      ],
+      "name": "",
+      "ref": "e4165da3d",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        7,
+        150,
+        128,
+        17
+      ],
+      "name": "FIXME",
+      "ref": "eacf83545",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        135,
+        150,
+        8,
+        17
+      ],
+      "name": "1",
+      "ref": "e6479ced6",
+      "role": "label",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        5,
+        169,
+        140,
+        21
+      ],
+      "name": "",
+      "ref": "e6ddc2865",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        7,
+        171,
+        128,
+        17
+      ],
+      "name": "TODO",
+      "ref": "e90ae6de2",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        135,
+        171,
+        8,
+        17
+      ],
+      "name": "1",
+      "ref": "e6ab8b637",
+      "role": "label",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        5,
+        207,
+        140,
+        21
+      ],
+      "name": "",
+      "ref": "e3ae30a6a",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        7,
+        209,
+        128,
+        17
+      ],
+      "name": "a",
+      "ref": "ed278d716",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        135,
+        209,
+        8,
+        17
+      ],
+      "name": "1",
+      "ref": "eda393763",
+      "role": "label",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        5,
+        228,
+        140,
+        21
+      ],
+      "name": "",
+      "ref": "edbeca7ea",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        7,
+        230,
+        128,
+        17
+      ],
+      "name": "team",
+      "ref": "ee3d42524",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        135,
+        230,
+        8,
+        17
+      ],
+      "name": "1",
+      "ref": "ebf62518c",
+      "role": "label",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        5,
+        266,
+        140,
+        21
+      ],
+      "name": "",
+      "ref": "e3c157b05",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        7,
+        268,
+        128,
+        17
+      ],
+      "name": "01",
+      "ref": "e1aa1203a",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        135,
+        268,
+        8,
+        17
+      ],
+      "name": "1",
+      "ref": "e8a4fa46d",
+      "role": "label",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        5,
+        287,
+        140,
+        21
+      ],
+      "name": "",
+      "ref": "efdbbc3a8",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        7,
+        289,
+        128,
+        17
+      ],
+      "name": "15",
+      "ref": "e252028b6",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        135,
+        289,
+        8,
+        17
+      ],
+      "name": "1",
+      "ref": "ec834fcba",
+      "role": "label",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        5,
+        308,
+        140,
+        21
+      ],
+      "name": "",
+      "ref": "ebdb884d2",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        7,
+        310,
+        128,
+        17
+      ],
+      "name": "2026",
+      "ref": "ebcb00a54",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        135,
+        310,
+        8,
+        17
+      ],
+      "name": "1",
+      "ref": "e82a78ebc",
+      "role": "label",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        5,
+        329,
+        140,
+        21
+      ],
+      "name": "",
+      "ref": "e9cc69d6c",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        7,
+        331,
+        128,
+        17
+      ],
+      "name": "Alpha",
+      "ref": "eaad5ebb9",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        135,
+        331,
+        8,
+        17
+      ],
+      "name": "1",
+      "ref": "e575a4f25",
+      "role": "label",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        5,
+        350,
+        140,
+        21
+      ],
+      "name": "",
+      "ref": "ebf137220",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        7,
+        352,
+        128,
+        17
+      ],
+      "name": "Journal",
+      "ref": "e57ae4d08",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        135,
+        352,
+        8,
+        17
+      ],
+      "name": "1",
+      "ref": "e8754e5e3",
+      "role": "label",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        5,
+        371,
+        140,
+        21
+      ],
+      "name": "",
+      "ref": "e94ea01c1",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        7,
+        373,
+        128,
+        17
+      ],
+      "name": "Projects",
+      "ref": "eb1df29d0",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        135,
+        373,
+        8,
+        17
+      ],
+      "name": "1",
+      "ref": "e78fa06be",
+      "role": "label",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        866,
+        150,
+        34
+      ],
+      "name": "Clear selection",
+      "ref": "ea153db8a",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        151,
+        46,
+        1129,
+        854
+      ],
+      "name": "",
+      "ref": "e9384c18b",
+      "role": "tree table"
+    },
+    {
+      "bounds": [
+        151,
+        46,
+        36,
+        25
+      ],
+      "name": "",
+      "ref": "e2f3fba30",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        187,
+        46,
+        37,
+        25
+      ],
+      "name": "!",
+      "ref": "e0f681316",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        224,
+        46,
+        763,
+        25
+      ],
+      "name": "Task",
+      "ref": "e24e58362",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        987,
+        46,
+        82,
+        25
+      ],
+      "name": "Due",
+      "ref": "e3c4d4704",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        1069,
+        46,
+        82,
+        25
+      ],
+      "name": "Start",
+      "ref": "ef9370f60",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        1151,
+        46,
+        129,
+        25
+      ],
+      "name": "Page",
+      "ref": "e8b4968cd",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        153,
+        72,
+        32,
+        21
+      ],
+      "name": "",
+      "ref": "e49d3a98b",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        189,
+        72,
+        33,
+        21
+      ],
+      "name": "2w",
+      "ref": "e3cb85432",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        264,
+        72,
+        721,
+        21
+      ],
+      "name": "TODO write the alpha plan @team",
+      "ref": "edbed4a32",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        989,
+        72,
+        78,
+        21
+      ],
+      "name": "2026-02-01",
+      "ref": "e76ce4688",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        1071,
+        72,
+        78,
+        21
+      ],
+      "name": "",
+      "ref": "ec824b103",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        1153,
+        72,
+        125,
+        21
+      ],
+      "name": "Projects:Alpha",
+      "ref": "e95e931a2",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        153,
+        95,
+        32,
+        21
+      ],
+      "name": "",
+      "ref": "e4baccb60",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        189,
+        95,
+        33,
+        21
+      ],
+      "name": "",
+      "ref": "e7448b70f",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        264,
+        95,
+        721,
+        21
+      ],
+      "name": "FIXME check the journal @a",
+      "ref": "e974b73c7",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        989,
+        95,
+        78,
+        21
+      ],
+      "name": "",
+      "ref": "e7fccc1bd",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        1071,
+        95,
+        78,
+        21
+      ],
+      "name": "2026-01-15",
+      "ref": "ee8afccbe",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        1153,
+        95,
+        125,
+        21
+      ],
+      "name": "Journal:2026:01:15",
+      "ref": "e3e25cf32",
+      "role": "table cell"
+    }
+  ],
+  "screen": [
+    1280,
+    900
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": false,
+      "bounds": [
+        0,
+        0,
+        1280,
+        900
+      ],
+      "ref": "w9c3124c1",
+      "title": "Home - Core"
+    },
+    {
+      "active": true,
+      "bounds": [
+        0,
+        0,
+        1280,
+        900
+      ],
+      "ref": "w16d881d3",
+      "title": "Tasks  -  Core"
+    }
+  ]
+}

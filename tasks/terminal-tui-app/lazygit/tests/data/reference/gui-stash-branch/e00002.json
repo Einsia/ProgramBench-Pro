@@ -1,0 +1,892 @@
+{
+  "cursor": {
+    "column": 119,
+    "hidden": true,
+    "row": 35
+  },
+  "process": "running",
+  "screen": [
+    "00|╭─[1]─Status───────────────────────────╮╭─[0]─Log──────────────────────────────────────────────────────────────────────╮",
+    "01|│workspace → from-stash                ││*   commit da84e62 (HEAD -> from-stash, refs/stash)                           ▐",
+    "02|╰──────────────────────────────────────╯│|\\  Merge: e79fd83 d96d38e                                                    ▐",
+    "03|╭─[2]─Files - Worktrees - Submodules───╮│| | Author: Ada Lovelace <ada@example.com>                                    ▐",
+    "04|│                                      ││| | Date:   <age>                                                             ▐",
+    "05|│                                      ││| |                                                                           ▐",
+    "06|│                                      ││| |     On main: wip                                                          ▐",
+    "07|│                                      ││| |                                                                           ▐",
+    "08|│                                      ││| * commit d96d38e                                                            ▐",
+    "09|│                                      ││|/  Author: Ada Lovelace <ada@example.com>                                    ▐",
+    "10|│                                      ││|   Date:   <age>                                                             ▐",
+    "11|│                                      ││|                                                                             ▐",
+    "12|╰───────────────────────────────0 of 0─╯│|       index on main: e79fd83 second                                         ▐",
+    "13|╭─[3]─Local branches - Remotes - Tags──╮│|                                                                             ▐",
+    "14|│  * from-stash                        ││* commit e79fd83 (main)                                                       ▐",
+    "15|│~~  main                              ││| Author: Ada Lovelace <ada@example.com>                                      ▐",
+    "16|│                                      ││| Date:   <age>                                                               ▐",
+    "17|│                                      ││|                                                                             ▐",
+    "18|│                                      ││|     second                                                                  │",
+    "19|│                                      ││|                                                                             │",
+    "20|│                                      ││* commit f0041b4                                                              │",
+    "21|│                                      ││  Author: Ada Lovelace <ada@example.com>                                      │",
+    "22|╰───────────────────────────────1 of 2─╯│  Date:   <age>                                                               │",
+    "23|╭─[4]─Commits - Reflog─────────────────╮│                                                                              │",
+    "24|│da84e62a AL ◎─╮ On main: wip          ││      first                                                                   │",
+    "25|│d96d38e4 AL │ ○ index on main: e79fd83││                                                                              │",
+    "26|│e79fd83e AL ○─╯ second                ││                                                                              │",
+    "27|│f0041b41 AL ○ first                   ││                                                                              │",
+    "28|│                                      ││                                                                              │",
+    "29|│                                      ││                                                                              │",
+    "30|│                                      ││                                                                              │",
+    "31|╰───────────────────────────────1 of 4─╯╰──────────────────────────────────────────────────────────────────────────────╯",
+    "32|╭─[5]─Stash────────────────────────────╮╭─Command log──────────────────────────────────────────────────────────────────╮",
+    "33|│~~ On main: wip                       ││  git checkout -b from-stash refs/stash@{0} --no-track                        │",
+    "34|╰───────────────────────────────1 of 1─╯╰──────────────────────────────────────────────────────────────────────────────╯",
+    "35|Checkout: <space> | New branch: n | Delete: d | Rebase: r | Reset: g | Upstream: u                                0.66.2"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        45,
+        61
+      ],
+      "row": 1,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "commit da84e62 ("
+    },
+    {
+      "columns": [
+        61,
+        65
+      ],
+      "row": 1,
+      "style": [
+        "bold",
+        "fg=cyan"
+      ],
+      "text": "HEAD"
+    },
+    {
+      "columns": [
+        65,
+        69
+      ],
+      "row": 1,
+      "style": [
+        "fg=brown"
+      ],
+      "text": " -> "
+    },
+    {
+      "columns": [
+        69,
+        79
+      ],
+      "row": 1,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "from-stash"
+    },
+    {
+      "columns": [
+        79,
+        81
+      ],
+      "row": 1,
+      "style": [
+        "fg=brown"
+      ],
+      "text": ", "
+    },
+    {
+      "columns": [
+        81,
+        91
+      ],
+      "row": 1,
+      "style": [
+        "bold",
+        "fg=magenta"
+      ],
+      "text": "refs/stash"
+    },
+    {
+      "columns": [
+        91,
+        92
+      ],
+      "row": 1,
+      "style": [
+        "fg=brown"
+      ],
+      "text": ")"
+    },
+    {
+      "columns": [
+        41,
+        42
+      ],
+      "row": 2,
+      "style": [
+        "fg=red"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        42,
+        43
+      ],
+      "row": 2,
+      "style": [
+        "fg=green"
+      ],
+      "text": "\\"
+    },
+    {
+      "columns": [
+        6,
+        12
+      ],
+      "row": 3,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Files "
+    },
+    {
+      "columns": [
+        41,
+        42
+      ],
+      "row": 3,
+      "style": [
+        "fg=red"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        43,
+        44
+      ],
+      "row": 3,
+      "style": [
+        "fg=green"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        41,
+        42
+      ],
+      "row": 4,
+      "style": [
+        "fg=red"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        43,
+        44
+      ],
+      "row": 4,
+      "style": [
+        "fg=green"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        41,
+        42
+      ],
+      "row": 5,
+      "style": [
+        "fg=red"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        43,
+        44
+      ],
+      "row": 5,
+      "style": [
+        "fg=green"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        41,
+        42
+      ],
+      "row": 6,
+      "style": [
+        "fg=red"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        43,
+        44
+      ],
+      "row": 6,
+      "style": [
+        "fg=green"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        41,
+        42
+      ],
+      "row": 7,
+      "style": [
+        "fg=red"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        43,
+        44
+      ],
+      "row": 7,
+      "style": [
+        "fg=green"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        41,
+        42
+      ],
+      "row": 8,
+      "style": [
+        "fg=red"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        45,
+        59
+      ],
+      "row": 8,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "commit d96d38e"
+    },
+    {
+      "columns": [
+        41,
+        43
+      ],
+      "row": 9,
+      "style": [
+        "fg=red"
+      ],
+      "text": "|/"
+    },
+    {
+      "columns": [
+        41,
+        42
+      ],
+      "row": 10,
+      "style": [
+        "fg=red"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        41,
+        42
+      ],
+      "row": 11,
+      "style": [
+        "fg=red"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        41,
+        42
+      ],
+      "row": 12,
+      "style": [
+        "fg=red"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        0,
+        21
+      ],
+      "row": 13,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "╭─[3]─Local branches "
+    },
+    {
+      "columns": [
+        37,
+        40
+      ],
+      "row": 13,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "──╮"
+    },
+    {
+      "columns": [
+        41,
+        42
+      ],
+      "row": 13,
+      "style": [
+        "fg=red"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 14,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        1,
+        4
+      ],
+      "row": 14,
+      "style": [
+        "bold",
+        "fg=green",
+        "bg=blue"
+      ],
+      "text": "  *"
+    },
+    {
+      "columns": [
+        4,
+        39
+      ],
+      "row": 14,
+      "style": [
+        "bold",
+        "bg=blue"
+      ],
+      "text": " from-stash                        "
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 14,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        43,
+        59
+      ],
+      "row": 14,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "commit e79fd83 ("
+    },
+    {
+      "columns": [
+        59,
+        63
+      ],
+      "row": 14,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "main"
+    },
+    {
+      "columns": [
+        63,
+        64
+      ],
+      "row": 14,
+      "style": [
+        "fg=brown"
+      ],
+      "text": ")"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 15,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        1,
+        3
+      ],
+      "row": 15,
+      "style": [
+        "fg=cyan"
+      ],
+      "text": "2y"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 15,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        41,
+        42
+      ],
+      "row": 15,
+      "style": [
+        "fg=green"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 16,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 16,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        41,
+        42
+      ],
+      "row": 16,
+      "style": [
+        "fg=green"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 17,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 17,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        41,
+        42
+      ],
+      "row": 17,
+      "style": [
+        "fg=green"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 18,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 18,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        41,
+        42
+      ],
+      "row": 18,
+      "style": [
+        "fg=green"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 19,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 19,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        41,
+        42
+      ],
+      "row": 19,
+      "style": [
+        "fg=green"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 20,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 20,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        43,
+        57
+      ],
+      "row": 20,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "commit f0041b4"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 21,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        39,
+        40
+      ],
+      "row": 21,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        0,
+        40
+      ],
+      "row": 22,
+      "style": [
+        "bold",
+        "fg=green"
+      ],
+      "text": "╰───────────────────────────────1 of 2─╯"
+    },
+    {
+      "columns": [
+        6,
+        14
+      ],
+      "row": 23,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Commits "
+    },
+    {
+      "columns": [
+        1,
+        9
+      ],
+      "row": 24,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "da84e62a"
+    },
+    {
+      "columns": [
+        10,
+        12
+      ],
+      "row": 24,
+      "style": [
+        "fg=ff8787"
+      ],
+      "text": "AL"
+    },
+    {
+      "columns": [
+        13,
+        16
+      ],
+      "row": 24,
+      "style": [
+        "fg=ff8787"
+      ],
+      "text": "◎─╮"
+    },
+    {
+      "columns": [
+        1,
+        9
+      ],
+      "row": 25,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "d96d38e4"
+    },
+    {
+      "columns": [
+        10,
+        12
+      ],
+      "row": 25,
+      "style": [
+        "fg=ff8787"
+      ],
+      "text": "AL"
+    },
+    {
+      "columns": [
+        13,
+        14
+      ],
+      "row": 25,
+      "style": [
+        "fg=ff8787"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        15,
+        16
+      ],
+      "row": 25,
+      "style": [
+        "fg=ff8787"
+      ],
+      "text": "○"
+    },
+    {
+      "columns": [
+        1,
+        9
+      ],
+      "row": 26,
+      "style": [
+        "fg=green"
+      ],
+      "text": "e79fd83e"
+    },
+    {
+      "columns": [
+        10,
+        12
+      ],
+      "row": 26,
+      "style": [
+        "fg=ff8787"
+      ],
+      "text": "AL"
+    },
+    {
+      "columns": [
+        13,
+        16
+      ],
+      "row": 26,
+      "style": [
+        "fg=ff8787"
+      ],
+      "text": "○─╯"
+    },
+    {
+      "columns": [
+        1,
+        9
+      ],
+      "row": 27,
+      "style": [
+        "fg=green"
+      ],
+      "text": "f0041b41"
+    },
+    {
+      "columns": [
+        10,
+        12
+      ],
+      "row": 27,
+      "style": [
+        "fg=ff8787"
+      ],
+      "text": "AL"
+    },
+    {
+      "columns": [
+        13,
+        14
+      ],
+      "row": 27,
+      "style": [
+        "fg=ff8787"
+      ],
+      "text": "○"
+    },
+    {
+      "columns": [
+        1,
+        3
+      ],
+      "row": 33,
+      "style": [
+        "fg=cyan"
+      ],
+      "text": "2y"
+    },
+    {
+      "columns": [
+        0,
+        82
+      ],
+      "row": 35,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "Checkout: <space> | New branch: n | Delete: d | Rebase: r | Reset: g | Upstream: u"
+    }
+  ]
+}

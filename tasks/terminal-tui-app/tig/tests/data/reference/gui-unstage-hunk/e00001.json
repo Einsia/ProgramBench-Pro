@@ -1,0 +1,126 @@
+{
+  "base_style": [
+    "bold",
+    "fg=white",
+    "bg=blue"
+  ],
+  "cursor": {
+    "column": 0,
+    "hidden": true,
+    "row": 35
+  },
+  "process": "running",
+  "screen": [
+    "00|2024-06-01 12:00 +0000 Not Committed Yet o Staged changes",
+    "01|2024-01-01 12:00 +0000 Alex Example      I [main] Record forty observations",
+    "02|",
+    "03|",
+    "04|",
+    "05|",
+    "06|",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|",
+    "12|",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|",
+    "19|",
+    "20|",
+    "21|",
+    "22|",
+    "23|",
+    "24|",
+    "25|",
+    "26|",
+    "27|",
+    "28|",
+    "29|",
+    "30|",
+    "31|",
+    "32|",
+    "33|",
+    "34|[main] Staged changes                                                                                               100%",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        57
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=green"
+      ],
+      "text": "2024-06-01 12:00 +0000 Not Committed Yet o Staged changes"
+    },
+    {
+      "columns": [
+        0,
+        23
+      ],
+      "row": 1,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "2024-01-01 12:00 +0000 "
+    },
+    {
+      "columns": [
+        23,
+        41
+      ],
+      "row": 1,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Alex Example      "
+    },
+    {
+      "columns": [
+        41,
+        42
+      ],
+      "row": 1,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "I"
+    },
+    {
+      "columns": [
+        43,
+        49
+      ],
+      "row": 1,
+      "style": [
+        "bold",
+        "fg=cyan"
+      ],
+      "text": "[main]"
+    },
+    {
+      "columns": [
+        49,
+        120
+      ],
+      "row": 1,
+      "style": [
+        "default"
+      ],
+      "text": " Record forty observations                                             "
+    }
+  ]
+}

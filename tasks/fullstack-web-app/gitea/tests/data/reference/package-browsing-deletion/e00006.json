@@ -1,0 +1,329 @@
+{
+  "controls": [
+    {
+      "aria": "Dashboard",
+      "bounds": [
+        10,
+        7,
+        56,
+        36
+      ],
+      "href": "/",
+      "ref": "e490",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        71,
+        7,
+        76,
+        36
+      ],
+      "href": "/issues",
+      "ref": "e491",
+      "role": null,
+      "tag": "a",
+      "text": "Issues"
+    },
+    {
+      "bounds": [
+        152,
+        7,
+        135,
+        36
+      ],
+      "href": "/pulls",
+      "ref": "e492",
+      "role": null,
+      "tag": "a",
+      "text": "Pull Requests"
+    },
+    {
+      "bounds": [
+        293,
+        7,
+        110,
+        36
+      ],
+      "href": "/milestones",
+      "ref": "e493",
+      "role": null,
+      "tag": "a",
+      "text": "Milestones"
+    },
+    {
+      "bounds": [
+        408,
+        7,
+        85,
+        36
+      ],
+      "href": "/explore/repos",
+      "ref": "e494",
+      "role": null,
+      "tag": "a",
+      "text": "Explore"
+    },
+    {
+      "aria": "Notifications",
+      "bounds": [
+        1094,
+        7,
+        42,
+        36
+      ],
+      "href": "/notifications",
+      "ref": "e495",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Notifications"
+    },
+    {
+      "aria": "Create…",
+      "bounds": [
+        1141,
+        7,
+        60,
+        36
+      ],
+      "expanded": false,
+      "ref": "e496",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Create…"
+    },
+    {
+      "aria": "Profile and Settings…",
+      "bounds": [
+        1207,
+        7,
+        64,
+        36
+      ],
+      "expanded": false,
+      "ref": "e497",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Profile and Settings…"
+    },
+    {
+      "bounds": [
+        147,
+        100,
+        175,
+        26
+      ],
+      "href": "/alice",
+      "ref": "e498",
+      "role": null,
+      "tag": "a",
+      "text": "Alice Example"
+    },
+    {
+      "bounds": [
+        32,
+        163,
+        146,
+        41
+      ],
+      "href": "/alice?tab=repositories",
+      "ref": "e499",
+      "role": null,
+      "tag": "a",
+      "text": "Repositories"
+    },
+    {
+      "bounds": [
+        178,
+        163,
+        112,
+        41
+      ],
+      "href": "/alice/-/projects",
+      "ref": "e500",
+      "role": null,
+      "tag": "a",
+      "text": "Projects"
+    },
+    {
+      "bounds": [
+        290,
+        163,
+        112,
+        41
+      ],
+      "href": "/alice/-/packages",
+      "ref": "e501",
+      "role": null,
+      "tag": "a",
+      "text": "Packages"
+    },
+    {
+      "bounds": [
+        402,
+        163,
+        171,
+        41
+      ],
+      "href": "/alice?tab=activity",
+      "ref": "e502",
+      "role": null,
+      "tag": "a",
+      "text": "Public Activity"
+    },
+    {
+      "bounds": [
+        573,
+        163,
+        213,
+        41
+      ],
+      "href": "/alice?tab=stars",
+      "ref": "e503",
+      "role": null,
+      "tag": "a",
+      "text": "Starred Repositories"
+    },
+    {
+      "bounds": [
+        175,
+        270,
+        42,
+        16
+      ],
+      "href": "/alice",
+      "ref": "e504",
+      "role": null,
+      "tag": "a",
+      "text": "alice"
+    },
+    {
+      "bounds": [
+        452,
+        544,
+        133,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e505",
+      "role": null,
+      "tag": "a",
+      "text": "the documentation"
+    },
+    {
+      "bounds": [
+        1166,
+        560,
+        67,
+        20
+      ],
+      "href": "/alice/-/packages/container/pbp-image/versions",
+      "ref": "e506",
+      "role": null,
+      "tag": "a",
+      "text": "View all"
+    },
+    {
+      "bounds": [
+        963,
+        594,
+        201,
+        20
+      ],
+      "href": "/alice/-/packages/container/pbp-image/latest",
+      "ref": "e507",
+      "role": null,
+      "tag": "a",
+      "text": "latest",
+      "title": "latest"
+    },
+    {
+      "bounds": [
+        994,
+        645,
+        67,
+        16
+      ],
+      "href": "/alice/-/packages/container/pbp-image/latest/settings",
+      "ref": "e508",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        20,
+        872,
+        134,
+        20
+      ],
+      "href": "[external]",
+      "ref": "e509",
+      "role": null,
+      "tag": "a",
+      "text": "Powered by Gitea"
+    },
+    {
+      "bounds": [
+        1063,
+        874,
+        76,
+        16
+      ],
+      "expanded": false,
+      "ref": "e510",
+      "role": "menu",
+      "tag": "div",
+      "text": "English"
+    },
+    {
+      "bounds": [
+        1145,
+        872,
+        76,
+        20
+      ],
+      "href": "/assets/licenses.txt",
+      "ref": "e511",
+      "role": null,
+      "tag": "a",
+      "text": "Licenses"
+    },
+    {
+      "bounds": [
+        1226,
+        872,
+        34,
+        20
+      ],
+      "href": "/api/swagger",
+      "ref": "e512",
+      "role": null,
+      "tag": "a",
+      "text": "API"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Issues\nPull Requests\nMilestones\nExplore\n \nAlice Example\nRepositories\nProjects\nPackages\nPublic Activity\nStarred Repositories\npbp-image (latest)\nPublished  by alice\nInstallation\n Pull the image from the command line:\ndocker pull 127.0.0.1:3000/alice/pbp-image:latest\n Digest:\nsha256:2445953400a839ca6e248c410d364e011d850a37fcb3d5efc1ed88243fb923e5\nFor more information on the Container registry, see the documentation.\nDetails\n Container\n \n 0\n OCI / Docker\n linux/amd64\n 513 B\nVersions (1)\nView all\nlatest\n Settings\nPowered by Gitea\nPage:\n4ms\nTemplate:\n1ms\nEnglish\nLicenses\nAPI",
+  "text_truncated": false,
+  "title": "pbp-image - Gitea",
+  "url": "/alice/-/packages/container/pbp-image/latest",
+  "viewport": [
+    1280,
+    900
+  ]
+}

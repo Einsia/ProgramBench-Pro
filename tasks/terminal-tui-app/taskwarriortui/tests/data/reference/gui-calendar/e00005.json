@@ -1,0 +1,229 @@
+{
+  "cursor": {
+    "column": 84,
+    "hidden": true,
+    "row": 33
+  },
+  "process": "running",
+  "screen": [
+    "00| Tasks   Projects   Timesheet   Calendar                                                                     next [none]",
+    "01|",
+    "02|                                                          2028",
+    "03|",
+    "04|                      January               February               March                 April",
+    "05|                Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa",
+    "06|                                   1         1  2  3  4  5            1  2  3  4                     1",
+    "07|                 2  3  4  5  6  7  8   6  7  8  9 10 11 12   5  6  7  8  9 10 11   2  3  4  5  6  7  8",
+    "08|                 9 10 11 12 13 14 15  13 14 15 16 17 18 19  12 13 14 15 16 17 18   9 10 11 12 13 14 15",
+    "09|                16 17 18 19 20 21 22  20 21 22 23 24 25 26  19 20 21 22 23 24 25  16 17 18 19 20 21 22",
+    "10|                23 24 25 26 27 28 29  27 28 29              26 27 28 29 30 31     23 24 25 26 27 28 29",
+    "11|                30 31                                                             30",
+    "12|",
+    "13|",
+    "14|",
+    "15|                        May                   June                  July                 August",
+    "16|                Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa",
+    "17|                    1  2  3  4  5  6               1  2  3                     1         1  2  3  4  5",
+    "18|                 7  8  9 10 11 12 13   4  5  6  7  8  9 10   2  3  4  5  6  7  8   6  7  8  9 10 11 12",
+    "19|                14 15 16 17 18 19 20  11 12 13 14 15 16 17   9 10 11 12 13 14 15  13 14 15 16 17 18 19",
+    "20|                21 22 23 24 25 26 27  18 19 20 21 22 23 24  16 17 18 19 20 21 22  20 21 22 23 24 25 26",
+    "21|                28 29 30 31           25 26 27 28 29 30     23 24 25 26 27 28 29  27 28 29 30 31",
+    "22|                                                            30 31",
+    "23|",
+    "24|",
+    "25|",
+    "26|                     September              October               November              December",
+    "27|                Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa",
+    "28|                                1  2   1  2  3  4  5  6  7            1  2  3  4                  1  2",
+    "29|                 3  4  5  6  7  8  9   8  9 10 11 12 13 14   5  6  7  8  9 10 11   3  4  5  6  7  8  9",
+    "30|                10 11 12 13 14 15 16  15 16 17 18 19 20 21  12 13 14 15 16 17 18  10 11 12 13 14 15 16",
+    "31|                17 18 19 20 21 22 23  22 23 24 25 26 27 28  19 20 21 22 23 24 25  17 18 19 20 21 22 23",
+    "32|                24 25 26 27 28 29 30  29 30 31              26 27 28 29 30        24 25 26 27 28 29 30",
+    "33|                                                                                  31",
+    "34|",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        32
+      ],
+      "row": 0,
+      "style": [
+        "reverse"
+      ],
+      "text": " Tasks   Projects   Timesheet   "
+    },
+    {
+      "columns": [
+        32,
+        40
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "reverse"
+      ],
+      "text": "Calendar"
+    },
+    {
+      "columns": [
+        40,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "reverse"
+      ],
+      "text": "                                                                     next [none]"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 2,
+      "style": [
+        "underline"
+      ],
+      "text": "                                                          2028                                                          "
+    },
+    {
+      "columns": [
+        16,
+        36
+      ],
+      "row": 5,
+      "style": [
+        "underline"
+      ],
+      "text": "Su Mo Tu We Th Fr Sa"
+    },
+    {
+      "columns": [
+        38,
+        58
+      ],
+      "row": 5,
+      "style": [
+        "underline"
+      ],
+      "text": "Su Mo Tu We Th Fr Sa"
+    },
+    {
+      "columns": [
+        60,
+        80
+      ],
+      "row": 5,
+      "style": [
+        "underline"
+      ],
+      "text": "Su Mo Tu We Th Fr Sa"
+    },
+    {
+      "columns": [
+        82,
+        102
+      ],
+      "row": 5,
+      "style": [
+        "underline"
+      ],
+      "text": "Su Mo Tu We Th Fr Sa"
+    },
+    {
+      "columns": [
+        16,
+        36
+      ],
+      "row": 16,
+      "style": [
+        "underline"
+      ],
+      "text": "Su Mo Tu We Th Fr Sa"
+    },
+    {
+      "columns": [
+        38,
+        58
+      ],
+      "row": 16,
+      "style": [
+        "underline"
+      ],
+      "text": "Su Mo Tu We Th Fr Sa"
+    },
+    {
+      "columns": [
+        60,
+        80
+      ],
+      "row": 16,
+      "style": [
+        "underline"
+      ],
+      "text": "Su Mo Tu We Th Fr Sa"
+    },
+    {
+      "columns": [
+        82,
+        102
+      ],
+      "row": 16,
+      "style": [
+        "underline"
+      ],
+      "text": "Su Mo Tu We Th Fr Sa"
+    },
+    {
+      "columns": [
+        16,
+        36
+      ],
+      "row": 27,
+      "style": [
+        "underline"
+      ],
+      "text": "Su Mo Tu We Th Fr Sa"
+    },
+    {
+      "columns": [
+        38,
+        58
+      ],
+      "row": 27,
+      "style": [
+        "underline"
+      ],
+      "text": "Su Mo Tu We Th Fr Sa"
+    },
+    {
+      "columns": [
+        60,
+        80
+      ],
+      "row": 27,
+      "style": [
+        "underline"
+      ],
+      "text": "Su Mo Tu We Th Fr Sa"
+    },
+    {
+      "columns": [
+        82,
+        102
+      ],
+      "row": 27,
+      "style": [
+        "underline"
+      ],
+      "text": "Su Mo Tu We Th Fr Sa"
+    }
+  ]
+}

@@ -1,0 +1,444 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e252",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e253",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/settings/project",
+      "ref": "e254",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/settings/project",
+      "ref": "e255",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "bounds": [
+        23,
+        53,
+        42,
+        17
+      ],
+      "href": "/settings",
+      "ref": "e256",
+      "role": null,
+      "tag": "a",
+      "text": "About"
+    },
+    {
+      "bounds": [
+        23,
+        89,
+        138,
+        17
+      ],
+      "href": "/settings/application",
+      "ref": "e257",
+      "role": null,
+      "tag": "a",
+      "text": "Application settings"
+    },
+    {
+      "bounds": [
+        23,
+        125,
+        100,
+        17
+      ],
+      "href": "/settings/email",
+      "ref": "e258",
+      "role": null,
+      "tag": "a",
+      "text": "Email settings"
+    },
+    {
+      "bounds": [
+        23,
+        161,
+        109,
+        17
+      ],
+      "href": "/settings/project",
+      "ref": "e259",
+      "role": null,
+      "tag": "a",
+      "text": "Project settings"
+    },
+    {
+      "bounds": [
+        23,
+        197,
+        102,
+        17
+      ],
+      "href": "/settings/board",
+      "ref": "e260",
+      "role": null,
+      "tag": "a",
+      "text": "Board settings"
+    },
+    {
+      "bounds": [
+        23,
+        233,
+        132,
+        17
+      ],
+      "href": "/settings/tags",
+      "ref": "e261",
+      "role": null,
+      "tag": "a",
+      "text": "Tags management"
+    },
+    {
+      "bounds": [
+        23,
+        269,
+        76,
+        17
+      ],
+      "href": "/settings/links/labels",
+      "ref": "e262",
+      "role": null,
+      "tag": "a",
+      "text": "Link labels"
+    },
+    {
+      "bounds": [
+        23,
+        305,
+        105,
+        17
+      ],
+      "href": "/settings/currencies",
+      "ref": "e263",
+      "role": null,
+      "tag": "a",
+      "text": "Currency rates"
+    },
+    {
+      "bounds": [
+        23,
+        341,
+        84,
+        17
+      ],
+      "href": "/settings/integrations",
+      "ref": "e264",
+      "role": null,
+      "tag": "a",
+      "text": "Integrations"
+    },
+    {
+      "bounds": [
+        23,
+        377,
+        75,
+        17
+      ],
+      "href": "/settings/webhook",
+      "ref": "e265",
+      "role": null,
+      "tag": "a",
+      "text": "Webhooks"
+    },
+    {
+      "bounds": [
+        23,
+        413,
+        26,
+        17
+      ],
+      "href": "/settings/api",
+      "ref": "e266",
+      "role": null,
+      "tag": "a",
+      "text": "API"
+    },
+    {
+      "bounds": [
+        265,
+        126,
+        119,
+        21
+      ],
+      "label": "Default task color",
+      "name": "default_color",
+      "options": [
+        {
+          "disabled": false,
+          "label": "Yellow",
+          "selected": true,
+          "value": "yellow"
+        },
+        {
+          "disabled": false,
+          "label": "Blue",
+          "selected": false,
+          "value": "blue"
+        },
+        {
+          "disabled": false,
+          "label": "Green",
+          "selected": false,
+          "value": "green"
+        },
+        {
+          "disabled": false,
+          "label": "Purple",
+          "selected": false,
+          "value": "purple"
+        },
+        {
+          "disabled": false,
+          "label": "Red",
+          "selected": false,
+          "value": "red"
+        },
+        {
+          "disabled": false,
+          "label": "Orange",
+          "selected": false,
+          "value": "orange"
+        },
+        {
+          "disabled": false,
+          "label": "Grey",
+          "selected": false,
+          "value": "grey"
+        },
+        {
+          "disabled": false,
+          "label": "Brown",
+          "selected": false,
+          "value": "brown"
+        },
+        {
+          "disabled": false,
+          "label": "Deep Orange",
+          "selected": false,
+          "value": "deep_orange"
+        },
+        {
+          "disabled": false,
+          "label": "Dark Grey",
+          "selected": false,
+          "value": "dark_grey"
+        },
+        {
+          "disabled": false,
+          "label": "Pink",
+          "selected": false,
+          "value": "pink"
+        },
+        {
+          "disabled": false,
+          "label": "Teal",
+          "selected": false,
+          "value": "teal"
+        },
+        {
+          "disabled": false,
+          "label": "Cyan",
+          "selected": false,
+          "value": "cyan"
+        },
+        {
+          "disabled": false,
+          "label": "Lime",
+          "selected": false,
+          "value": "lime"
+        },
+        {
+          "disabled": false,
+          "label": "Light Green",
+          "selected": false,
+          "value": "light_green"
+        },
+        {
+          "disabled": false,
+          "label": "Amber",
+          "selected": false,
+          "value": "amber"
+        }
+      ],
+      "ref": "e267",
+      "role": null,
+      "tag": "select",
+      "text": "Yellow\nBlue\nGreen\nPurple\nRed\nOrange\nGrey\nBrown\nDeep Orange\nDark Grey\nPink\nTeal\nCyan\nLime\nLight Green\nAmber",
+      "value": "yellow"
+    },
+    {
+      "bounds": [
+        265,
+        175,
+        308,
+        28
+      ],
+      "label": "Default columns for new projects (Comma-separated)",
+      "name": "board_columns",
+      "ref": "e268",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "Todo, Doing, Review, Shipped"
+    },
+    {
+      "bounds": [
+        265,
+        251,
+        308,
+        28
+      ],
+      "label": "Default categories for new projects (Comma-separated)",
+      "name": "project_categories",
+      "ref": "e269",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        269,
+        349,
+        13,
+        13
+      ],
+      "checked": false,
+      "label": "Disable personal projects",
+      "name": "disable_private_project",
+      "ref": "e270",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        269,
+        379,
+        13,
+        13
+      ],
+      "checked": false,
+      "label": "Allow only one subtask in progress at the same time for a user",
+      "name": "subtask_restriction",
+      "ref": "e271",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        269,
+        409,
+        13,
+        13
+      ],
+      "checked": true,
+      "label": "Trigger automatically subtask time tracking",
+      "name": "subtask_time_tracking",
+      "ref": "e272",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        269,
+        439,
+        13,
+        13
+      ],
+      "checked": true,
+      "label": "Include closed tasks in the cumulative flow diagram",
+      "name": "cfd_include_closed_tasks",
+      "ref": "e273",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        250,
+        487,
+        66,
+        30
+      ],
+      "ref": "e274",
+      "role": null,
+      "tag": "button",
+      "text": "Save"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Settings > Project settings\n \n \nA\nAbout\nApplication settings\nEmail settings\nProject settings\nBoard settings\nTags management\nLink labels\nCurrency rates\nIntegrations\nWebhooks\nAPI\nProject settings\nDefault task color\nYellow\nBlue\nGreen\nPurple\nRed\nOrange\nGrey\nBrown\nDeep Orange\nDark Grey\nPink\nTeal\nCyan\nLime\nLight Green\nAmber\nDefault columns for new projects (Comma-separated)\n\nDefault values are \"Backlog, Ready, Work in progress, Done\"\n\nDefault categories for new projects (Comma-separated)\n\nExample: \"Bug, Feature Request, Improvement\"\n\n Disable personal projects\n Allow only one subtask in progress at the same time for a user\n Trigger automatically subtask time tracking\n Include closed tasks in the cumulative flow diagram\nSave",
+  "text_truncated": false,
+  "title": "Settings > Project settings",
+  "url": "/settings/project",
+  "viewport": [
+    1280,
+    900
+  ]
+}

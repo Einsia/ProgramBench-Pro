@@ -1,0 +1,453 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e1515",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e1516",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/project/1/custom-roles",
+      "ref": "e1517",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/project/1/custom-roles",
+      "ref": "e1518",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "aria": "Configure this project",
+      "bounds": [
+        10,
+        48,
+        29,
+        17
+      ],
+      "href": "/project/1/custom-roles",
+      "ref": "e1519",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Configure this project"
+    },
+    {
+      "bounds": [
+        53,
+        49,
+        81,
+        16
+      ],
+      "href": "/project/1/overview/status%3Aopen",
+      "ref": "e1520",
+      "role": null,
+      "tag": "a",
+      "text": "Overview",
+      "title": "Keyboard shortcut: \"v o\""
+    },
+    {
+      "bounds": [
+        155,
+        49,
+        60,
+        16
+      ],
+      "href": "/board/1/search/status%3Aopen",
+      "ref": "e1521",
+      "role": null,
+      "tag": "a",
+      "text": "Board",
+      "title": "Keyboard shortcut: \"v b\""
+    },
+    {
+      "bounds": [
+        236,
+        49,
+        44,
+        16
+      ],
+      "href": "/list/1/search/status%3Aopen",
+      "ref": "e1522",
+      "role": null,
+      "tag": "a",
+      "text": "List",
+      "title": "Keyboard shortcut: \"v l\""
+    },
+    {
+      "aria": "Filter",
+      "bounds": [
+        299,
+        44,
+        850,
+        28
+      ],
+      "name": "search",
+      "placeholder": "Filter",
+      "ref": "e1523",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "status:open"
+    },
+    {
+      "aria": "Default filters",
+      "bounds": [
+        1161,
+        49,
+        36,
+        16
+      ],
+      "href": "/project/1/custom-roles",
+      "ref": "e1524",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Default filters"
+    },
+    {
+      "aria": "Custom filters",
+      "bounds": [
+        1221,
+        49,
+        36,
+        16
+      ],
+      "href": "/project/1/custom-roles",
+      "ref": "e1525",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "User filters"
+    },
+    {
+      "bounds": [
+        23,
+        89,
+        68,
+        17
+      ],
+      "href": "/project/1",
+      "ref": "e1526",
+      "role": null,
+      "tag": "a",
+      "text": "Summary"
+    },
+    {
+      "bounds": [
+        23,
+        125,
+        98,
+        17
+      ],
+      "href": "/project/1/customer-filters",
+      "ref": "e1527",
+      "role": null,
+      "tag": "a",
+      "text": "Custom filters"
+    },
+    {
+      "bounds": [
+        23,
+        161,
+        80,
+        17
+      ],
+      "href": "/project/1/edit",
+      "ref": "e1528",
+      "role": null,
+      "tag": "a",
+      "text": "Edit project"
+    },
+    {
+      "bounds": [
+        23,
+        197,
+        142,
+        17
+      ],
+      "href": "/project/1/predefined-contents",
+      "ref": "e1529",
+      "role": null,
+      "tag": "a",
+      "text": "Predefined contents"
+    },
+    {
+      "bounds": [
+        23,
+        233,
+        98,
+        17
+      ],
+      "href": "/project/1/share",
+      "ref": "e1530",
+      "role": null,
+      "tag": "a",
+      "text": "Public access"
+    },
+    {
+      "bounds": [
+        23,
+        269,
+        87,
+        17
+      ],
+      "href": "/project/1/notifications",
+      "ref": "e1531",
+      "role": null,
+      "tag": "a",
+      "text": "Notifications"
+    },
+    {
+      "bounds": [
+        23,
+        305,
+        84,
+        17
+      ],
+      "href": "/project/1/integrations",
+      "ref": "e1532",
+      "role": null,
+      "tag": "a",
+      "text": "Integrations"
+    },
+    {
+      "bounds": [
+        23,
+        341,
+        63,
+        17
+      ],
+      "href": "/project/1/columns",
+      "ref": "e1533",
+      "role": null,
+      "tag": "a",
+      "text": "Columns"
+    },
+    {
+      "bounds": [
+        23,
+        377,
+        77,
+        17
+      ],
+      "href": "/project/1/swimlanes",
+      "ref": "e1534",
+      "role": null,
+      "tag": "a",
+      "text": "Swimlanes"
+    },
+    {
+      "bounds": [
+        23,
+        413,
+        77,
+        17
+      ],
+      "href": "/project/1/categories",
+      "ref": "e1535",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        23,
+        449,
+        34,
+        17
+      ],
+      "href": "/project/1/tags",
+      "ref": "e1536",
+      "role": null,
+      "tag": "a",
+      "text": "Tags"
+    },
+    {
+      "bounds": [
+        23,
+        485,
+        87,
+        17
+      ],
+      "href": "/project/1/permissions",
+      "ref": "e1537",
+      "role": null,
+      "tag": "a",
+      "text": "Permissions"
+    },
+    {
+      "bounds": [
+        23,
+        521,
+        94,
+        17
+      ],
+      "href": "/project/1/custom-roles",
+      "ref": "e1538",
+      "role": null,
+      "tag": "a",
+      "text": "Custom roles"
+    },
+    {
+      "bounds": [
+        23,
+        557,
+        126,
+        17
+      ],
+      "href": "/project/1/actions",
+      "ref": "e1539",
+      "role": null,
+      "tag": "a",
+      "text": "Automatic actions"
+    },
+    {
+      "bounds": [
+        23,
+        593,
+        67,
+        17
+      ],
+      "href": "/project/1/duplicate",
+      "ref": "e1540",
+      "role": null,
+      "tag": "a",
+      "text": "Duplicate"
+    },
+    {
+      "bounds": [
+        23,
+        629,
+        182,
+        52
+      ],
+      "href": "/project/1/import/tasks",
+      "ref": "e1541",
+      "role": null,
+      "tag": "a",
+      "text": "Import tasks from another project"
+    },
+    {
+      "bounds": [
+        23,
+        700,
+        123,
+        17
+      ],
+      "href": "/project/1/disable",
+      "ref": "e1542",
+      "role": null,
+      "tag": "a",
+      "text": "Close this project"
+    },
+    {
+      "bounds": [
+        23,
+        736,
+        60,
+        17
+      ],
+      "href": "/project/1/remove",
+      "ref": "e1543",
+      "role": null,
+      "tag": "a",
+      "text": "Remove"
+    },
+    {
+      "bounds": [
+        250,
+        112,
+        186,
+        17
+      ],
+      "href": "/?controller=ProjectRoleController&action=create&project_id=1",
+      "ref": "e1544",
+      "role": null,
+      "tag": "a",
+      "text": "Add a new custom role"
+    },
+    {
+      "bounds": [
+        254,
+        159,
+        287,
+        17
+      ],
+      "href": "/project/1/custom-roles",
+      "ref": "e1545",
+      "role": null,
+      "tag": "a",
+      "text": "Restrictions for the role \"Reviewer\""
+    },
+    {
+      "bounds": [
+        1120,
+        194,
+        83,
+        17
+      ],
+      "href": "/?controller=ProjectRoleRestrictionController&action=confirm&project_id=1&restriction_id=1",
+      "ref": "e1546",
+      "role": null,
+      "tag": "a",
+      "text": "Remove"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Website > Custom Project Roles\n \n \nA\nOverview Board List\nSummary\nCustom filters\nEdit project\nPredefined contents\nPublic access\nNotifications\nIntegrations\nColumns\nSwimlanes\nCategories\nTags\nPermissions\nCustom roles\nAutomatic actions\nDuplicate\nImport tasks from another project\nClose this project\nRemove\nCustom Project Roles\nAdd a new custom role\nRestrictions for the role \"Reviewer\" \tActions\n Project  Task creation is not permitted\tRemove",
+  "text_truncated": false,
+  "title": "Website > Custom Project Roles",
+  "url": "/project/1/custom-roles",
+  "viewport": [
+    1280,
+    900
+  ]
+}

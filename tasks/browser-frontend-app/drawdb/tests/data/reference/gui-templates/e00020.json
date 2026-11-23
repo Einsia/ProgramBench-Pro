@@ -1,0 +1,123 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        80,
+        20,
+        209,
+        48
+      ],
+      "ref": "e75fe0e2a",
+      "tag": "a"
+    },
+    {
+      "bounds": [
+        80,
+        201,
+        129,
+        52
+      ],
+      "ref": "ea5203f69",
+      "role": "tab",
+      "selected": false,
+      "tag": "div",
+      "text": "Default templates"
+    },
+    {
+      "bounds": [
+        233,
+        201,
+        124,
+        52
+      ],
+      "ref": "e5bc056a7",
+      "role": "tab",
+      "selected": true,
+      "tag": "div",
+      "text": "Your templates"
+    },
+    {
+      "bounds": [
+        831,
+        414,
+        324,
+        24
+      ],
+      "ref": "e147a202c",
+      "tag": "div",
+      "text": "Build a diagram",
+      "title": "Build a diagram"
+    },
+    {
+      "bounds": [
+        831,
+        438,
+        324,
+        20
+      ],
+      "ref": "e818449a4",
+      "tag": "div",
+      "text": "Build the template in the editor",
+      "title": "Build the template in the editor"
+    },
+    {
+      "bounds": [
+        831,
+        486,
+        324,
+        24
+      ],
+      "ref": "ec46265da",
+      "tag": "div",
+      "text": "Save as template",
+      "title": "Save as template"
+    },
+    {
+      "bounds": [
+        831,
+        510,
+        324,
+        20
+      ],
+      "ref": "eef5bea0c",
+      "tag": "div",
+      "text": "Editor > File > Save as template",
+      "title": "Editor > File > Save as template"
+    },
+    {
+      "bounds": [
+        831,
+        558,
+        324,
+        24
+      ],
+      "ref": "e70c7dae4",
+      "tag": "div",
+      "text": "Load a template",
+      "title": "Load a template"
+    },
+    {
+      "bounds": [
+        831,
+        582,
+        324,
+        20
+      ],
+      "ref": "e51e0a020",
+      "tag": "div",
+      "text": "Fork a template to build on",
+      "title": "Fork a template to build on"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "text": "Templates\nDatabase schema templates\nA compilation of database entity relationship diagrams to give you a quick start or inspire your application's architecture.\nYou have no custom templates saved.\nHow to save a template\n1\n2\n3",
+  "text_truncated": false,
+  "title": "Templates | drawDB",
+  "url": "/templates",
+  "viewport": [
+    1280,
+    900
+  ]
+}

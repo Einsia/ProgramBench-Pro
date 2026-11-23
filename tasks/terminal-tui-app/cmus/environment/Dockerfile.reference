@@ -1,0 +1,16 @@
+FROM program-bench-cmus-base:1.0.0
+COPY solution /solution
+COPY environment/runtime/ /opt/blackbox/runtime/
+RUN bash /solution/solve.sh && python3 -c "import shutil; shutil.rmtree('/solution')" && \
+    chmod -R u=rwX,go=rX /opt/blackbox/runtime && mkdir -p /reference /blackbox && chown -R root:root /reference /blackbox && \
+    chown -R root:root /app/solution && find /app/solution -type d -exec chmod 0711 {} + && \
+    find /app/solution -type f -exec chmod 0444 {} + && \
+    chmod 0555 /app/solution/start.sh /app/solution/cmus/bin/cmus /app/solution/cmus/bin/cmus-remote && \
+    # cmus enumerates input/output plugins and installed themes during startup.
+    # Only these root-owned, read-only directories need listing permission.
+    chmod 0755 /app/solution/cmus/lib/cmus/ip /app/solution/cmus/lib/cmus/op /app/solution/cmus/share/cmus && \
+    chmod 0711 /reference
+ENV PYTHONDONTWRITEBYTECODE=1 LANG=C.UTF-8 LC_ALL=C.UTF-8 TZ=UTC TMPDIR=/tmp
+USER root
+ENTRYPOINT ["/usr/bin/tini", "--", "python3", "-I", "-B", "/opt/blackbox/runtime/reference_entrypoint.py"]
+CMD ["python3", "-I", "-B", "/opt/blackbox/runtime/broker.py", "--user", "agent", "--socket-mode", "0600", "--log-dir", "/reference/logs"]

@@ -1,0 +1,158 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e529",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e530",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/groups",
+      "ref": "e531",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/groups",
+      "ref": "e532",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "bounds": [
+        10,
+        49,
+        85,
+        17
+      ],
+      "href": "/users",
+      "ref": "e533",
+      "role": null,
+      "tag": "a",
+      "text": "All users"
+    },
+    {
+      "bounds": [
+        114,
+        49,
+        101,
+        17
+      ],
+      "href": "/?controller=GroupCreationController&action=show",
+      "ref": "e534",
+      "role": null,
+      "tag": "a",
+      "text": "New group"
+    },
+    {
+      "aria": "Search",
+      "bounds": [
+        10,
+        87,
+        308,
+        28
+      ],
+      "name": "search",
+      "placeholder": "Search",
+      "ref": "e535",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1214,
+        136,
+        42,
+        28
+      ],
+      "href": "/groups",
+      "ref": "e536",
+      "role": null,
+      "tag": "a",
+      "text": "Sort"
+    },
+    {
+      "bounds": [
+        14,
+        165,
+        30,
+        23
+      ],
+      "href": "/groups",
+      "ref": "e537",
+      "role": null,
+      "tag": "a",
+      "text": "#1"
+    },
+    {
+      "bounds": [
+        48,
+        169,
+        61,
+        15
+      ],
+      "href": "/group/1/members",
+      "ref": "e538",
+      "role": null,
+      "tag": "a",
+      "text": "Designers"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Groups (1)\n \n \nA\nGroup member added successfully.\nAll users New group\n1 group\nSort \n#1 \n Designers\n2 users",
+  "text_truncated": false,
+  "title": "Groups (1)",
+  "url": "/groups",
+  "viewport": [
+    1280,
+    900
+  ]
+}

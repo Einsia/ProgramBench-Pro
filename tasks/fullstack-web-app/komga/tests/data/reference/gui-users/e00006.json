@@ -1,0 +1,518 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        260,
+        8,
+        48,
+        48
+      ],
+      "ref": "e3565697427",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        308,
+        8,
+        956,
+        48
+      ],
+      "expanded": false,
+      "ref": "e3932625320",
+      "role": "combobox",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "bounds": [
+        348,
+        16,
+        900,
+        32
+      ],
+      "placeholder": "Search",
+      "ref": "e3492990951",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        8,
+        73,
+        240,
+        40
+      ],
+      "href": "/dashboard",
+      "ref": "e4053023811",
+      "role": null,
+      "tag": "a",
+      "text": "Home"
+    },
+    {
+      "bounds": [
+        8,
+        117,
+        240,
+        40
+      ],
+      "href": "/libraries/all",
+      "ref": "e2922887771",
+      "role": null,
+      "tag": "a",
+      "text": "Libraries"
+    },
+    {
+      "bounds": [
+        168,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3616030284",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        204,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3666363141",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        161,
+        240,
+        40
+      ],
+      "href": "/libraries/0S3GHV39DCCER",
+      "ref": "e743918436",
+      "role": null,
+      "tag": "a",
+      "text": "Comics"
+    },
+    {
+      "bounds": [
+        204,
+        163,
+        36,
+        36
+      ],
+      "ref": "e3699918379",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        205,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e1184854462",
+      "role": "button",
+      "tag": "div",
+      "text": "Import"
+    },
+    {
+      "bounds": [
+        8,
+        245,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e2070932497",
+      "role": "button",
+      "tag": "div",
+      "text": "Media"
+    },
+    {
+      "bounds": [
+        8,
+        285,
+        240,
+        40
+      ],
+      "href": "/history",
+      "ref": "e3700334507",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        8,
+        329,
+        240,
+        40
+      ],
+      "expanded": true,
+      "ref": "e3104230938",
+      "role": "button",
+      "tag": "div",
+      "text": "Server"
+    },
+    {
+      "bounds": [
+        8,
+        373,
+        240,
+        40
+      ],
+      "href": "/settings/users",
+      "ref": "e3599172505",
+      "role": null,
+      "tag": "a",
+      "text": "Users"
+    },
+    {
+      "bounds": [
+        8,
+        417,
+        240,
+        40
+      ],
+      "href": "/settings/server",
+      "ref": "e942609320",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        8,
+        461,
+        240,
+        40
+      ],
+      "href": "/settings/ui",
+      "ref": "e4207287565",
+      "role": null,
+      "tag": "a",
+      "text": "User Interface"
+    },
+    {
+      "bounds": [
+        8,
+        505,
+        240,
+        40
+      ],
+      "href": "/settings/metrics",
+      "ref": "e2859775234",
+      "role": null,
+      "tag": "a",
+      "text": "Metrics"
+    },
+    {
+      "bounds": [
+        8,
+        549,
+        240,
+        40
+      ],
+      "href": "/settings/announcements",
+      "ref": "e3741022053",
+      "role": null,
+      "tag": "a",
+      "text": "Announcements"
+    },
+    {
+      "bounds": [
+        8,
+        593,
+        240,
+        40
+      ],
+      "href": "/settings/updates",
+      "ref": "e772437640",
+      "role": null,
+      "tag": "a",
+      "text": "Updates"
+    },
+    {
+      "bounds": [
+        8,
+        633,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e1624113697",
+      "role": "button",
+      "tag": "div",
+      "text": "My Account"
+    },
+    {
+      "bounds": [
+        8,
+        717,
+        240,
+        40
+      ],
+      "href": "/next",
+      "ref": "e141709242",
+      "role": null,
+      "tag": "a",
+      "text": "Try the new UI"
+    },
+    {
+      "bounds": [
+        72,
+        794,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e3746387933",
+      "role": "button",
+      "tag": "div",
+      "text": "Theme\nSystem"
+    },
+    {
+      "bounds": [
+        129,
+        794,
+        83,
+        26
+      ],
+      "label": "Theme",
+      "ref": "e2461606728",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        72,
+        858,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e717068972",
+      "role": "button",
+      "tag": "div",
+      "text": "Translation\nEnglish"
+    },
+    {
+      "bounds": [
+        128,
+        858,
+        84,
+        26
+      ],
+      "label": "Translation",
+      "ref": "e3280766612",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        747,
+        170,
+        36,
+        36
+      ],
+      "disabled": true,
+      "ref": "e1148670052",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        783,
+        170,
+        36,
+        36
+      ],
+      "ref": "e1199002909",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        819,
+        170,
+        36,
+        36
+      ],
+      "disabled": true,
+      "ref": "e1182225290",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        871,
+        170,
+        36,
+        36
+      ],
+      "disabled": true,
+      "ref": "e964116243",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        747,
+        243,
+        36,
+        36
+      ],
+      "ref": "e947338624",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        783,
+        243,
+        36,
+        36
+      ],
+      "ref": "e997524386",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        819,
+        243,
+        36,
+        36
+      ],
+      "ref": "e1014302005",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        871,
+        243,
+        36,
+        36
+      ],
+      "ref": "e963969148",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        843,
+        285,
+        40,
+        40
+      ],
+      "href": "/settings/users/add",
+      "ref": "e495101281",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        991,
+        2153,
+        46,
+        32
+      ],
+      "expanded": false,
+      "offscreen": true,
+      "ref": "e3223772413",
+      "role": "button",
+      "tag": "div",
+      "text": "20"
+    },
+    {
+      "aria": "$vuetify.dataFooter.prevPage",
+      "bounds": [
+        1162,
+        2151,
+        36,
+        36
+      ],
+      "disabled": true,
+      "offscreen": true,
+      "ref": "e2378951506",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "aria": "$vuetify.dataFooter.nextPage",
+      "bounds": [
+        1212,
+        2151,
+        36,
+        36
+      ],
+      "offscreen": true,
+      "ref": "e3108113459",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    2222
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Komga\nHome\nLibraries\nComics\nImport\nMedia\nHistory\nServer\nUsers\nSettings\nUser Interface\nMetrics\nAnnouncements\nUpdates\nMy Account\nLog Out\nTry the new UI\nTheme\nSystem\nTranslation\nEnglish\nUsers\nadmin@example.test\nLatest activity: Nov 1, 2026, 10:36 AM\nweb-reader@example.test\nNo recent activity\nAuthentication Activity\nEmailgroup\tIPgroup\tUser Agentgroup\tSuccessgroup\tSourcegroup\tAPI Keygroup\tErrorgroup\tDate Time1\nadmin@example.test\t127.0.0.1\tpython-httpx/0.28.1\t\tPassword\t\t\tNov 1, 2026, 10:36 AM\nadmin@example.test\t127.0.0.1\tMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36\t\tPassword\t\t\tNov 1, 2026, 10:36 AM\nadmin@example.test\t127.0.0.1\tpython-httpx/0.28.1\t\tPassword\t\t\tNov 1, 2026, 10:36 AM\nadmin@example.test\t127.0.0.1\tpython-httpx/0.28.1\t\tPassword\t\t\tNov 1, 2026, 10:36 AM\nadmin@example.test\t127.0.0.1\tpython-httpx/0.28.1\t\tPassword\t\t\tNov 1, 2026, 10:36 AM\nadmin@example.test\t127.0.0.1\tpython-httpx/0.28.1\t\tPassword\t\t\tNov 1, 2026, 10:36 AM\nadmin@example.test\t127.0.0.1\tpython-httpx/0.28.1\t\tPassword\t\t\tNov 1, 2026, 10:36 AM\nadmin@example.test\t127.0.0.1\tpython-httpx/0.28.1\t\tPassword\t\t\tNov 1, 2026, 10:36 AM\nadmin@example.test\t127.0.0.1\tpython-httpx/0.28.1\t\tPassword\t\t\tNov 1, 2026, 10:36 AM\nadmin@example.test\t127.0.0.1\tpython-httpx/0.28.1\t\tPassword\t\t\tNov 1, 2026, 10:36 AM\nadmin@example.test\t127.0.0.1\tpython-httpx/0.28.1\t\tPassword\t\t\tNov 1, 2026, 10:36 AM\nadmin@example.test\t127.0.0.1\tpython-httpx/0.28.1\t\tPassword\t\t\tNov 1, 2026, 10:36 AM\nadmin@example.test\t127.0.0.1\tpython-httpx/0.28.1\t\tPassword\t\t\tNov 1, 2026, 10:36 AM\nadmin@example.test\t127.0.0.1\tpython-httpx/0.28.1\t\tPassword\t\t\tNov 1, 2026, 10:36 AM\nadmin@example.test\t127.0.0.1\tpython-httpx/0.28.1\t\tPassword\t\t\tNov 1, 2026, 10:36 AM\nadmin@example.test\t127.0.0.1\tpython-httpx/0.28.1\t\tPassword\t\t\tNov 1, 2026, 10:36 AM\nadmin@example.test\t127.0.0.1\tpython-httpx/0.28.1\t\tPassword\t\t\tNov 1, 2026, 10:36 AM\nadmin@example.test\t127.0.0.1\tpython-httpx/0.28.1\t\tPassword\t\t\tNov 1, 2026, 10:36 AM\nadmin@example.test\t127.0.0.1\tpython-httpx/0.28.1\t\tPassword\t\t\tNov 1, 2026, 10:36 AM\nadmin@example.test\t127.0.0.1\tpython-httpx/0.28.1\t\tPassword\t\t\tNov 1, 2026, 10:36 AM\nRows per page:\n20\n1-20 of 28",
+  "text_truncated": false,
+  "title": "Komga",
+  "url": "/settings/users",
+  "viewport": [
+    1280,
+    900
+  ]
+}

@@ -1,0 +1,1868 @@
+{
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1440,
+        900
+      ],
+      "name": "darktable",
+      "ref": "eb96af1a1",
+      "role": "frame",
+      "states": [
+        "active"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1440,
+        10
+      ],
+      "name": "",
+      "ref": "e14a3f305",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        1159,
+        89,
+        271,
+        180
+      ],
+      "description": "waveform\n(use buttons at top of graph to change type)\nclick on ❓ and then graph for documentation\nuse color picker module to restrict area",
+      "name": "",
+      "ref": "e758feff9",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        1159,
+        269,
+        40,
+        40
+      ],
+      "description": "quick access panel\nright-click tab icon to add/remove widgets",
+      "name": "",
+      "ref": "e3d4991e0",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1199,
+        269,
+        40,
+        40
+      ],
+      "description": "show only active modules",
+      "name": "",
+      "ref": "e010acf2f",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1239,
+        269,
+        40,
+        40
+      ],
+      "description": "base\nright-click tab icon to add/remove modules",
+      "name": "",
+      "ref": "e94f6e620",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1279,
+        269,
+        40,
+        40
+      ],
+      "description": "color\nright-click tab icon to add/remove modules",
+      "name": "",
+      "ref": "ec82f6c86",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1319,
+        269,
+        40,
+        40
+      ],
+      "description": "correct\nright-click tab icon to add/remove modules",
+      "name": "",
+      "ref": "e8a92731b",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1359,
+        269,
+        39,
+        40
+      ],
+      "description": "effect\nright-click tab icon to add/remove modules",
+      "name": "",
+      "ref": "e30850f28",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1398,
+        269,
+        32,
+        40
+      ],
+      "description": "presets\nctrl+click to manage",
+      "name": "",
+      "ref": "eb3a232b4",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1159,
+        309,
+        271,
+        27
+      ],
+      "name": "Search",
+      "ref": "e7b464c68",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "colorize"
+    },
+    {
+      "bounds": [
+        1168,
+        314,
+        28,
+        16
+      ],
+      "name": "edit-find-symbolic",
+      "ref": "e746a8633",
+      "role": "icon",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1405,
+        314,
+        16,
+        16
+      ],
+      "description": "clear text",
+      "name": "edit-clear-symbolic",
+      "ref": "eb86f9911",
+      "role": "icon"
+    },
+    {
+      "bounds": [
+        1167,
+        344,
+        23,
+        24
+      ],
+      "description": "'colorize' is switched on",
+      "name": "",
+      "ref": "e2abf3332",
+      "role": "toggle button",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        1190,
+        346,
+        1,
+        19
+      ],
+      "name": "",
+      "ref": "eaf6b800a",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1190,
+        344,
+        78,
+        24
+      ],
+      "name": "colorize",
+      "ref": "eb1e21965",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1268,
+        344,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "e6255a8c9",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1341,
+        344,
+        23,
+        24
+      ],
+      "description": "multiple instance actions\nright-click creates new instance",
+      "name": "",
+      "ref": "e4ffd559f",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1364,
+        344,
+        23,
+        24
+      ],
+      "description": "reset parameters\nctrl+click to reapply any automatic presets",
+      "name": "",
+      "ref": "e9e4f59b0",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1387,
+        344,
+        23,
+        24
+      ],
+      "description": "presets\nright-click to apply on new instance",
+      "name": "",
+      "ref": "ead141e38",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1169,
+        381,
+        239,
+        38
+      ],
+      "description": "select the hue tone",
+      "name": "",
+      "ref": "ee106a8c8",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        1169,
+        419,
+        239,
+        38
+      ],
+      "description": "select the saturation shadow tone",
+      "name": "",
+      "ref": "e33082c5a",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        1169,
+        457,
+        239,
+        38
+      ],
+      "description": "lightness of color",
+      "name": "",
+      "ref": "e89241060",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        1169,
+        495,
+        239,
+        38
+      ],
+      "description": "mix value of source lightness",
+      "name": "",
+      "ref": "e9bb0a1cc",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        1159,
+        537,
+        38,
+        29
+      ],
+      "description": "off",
+      "name": "",
+      "ref": "eb5fffaf0",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1197,
+        537,
+        38,
+        29
+      ],
+      "description": "uniformly",
+      "name": "",
+      "ref": "e076345da",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1235,
+        537,
+        38,
+        29
+      ],
+      "description": "drawn mask",
+      "name": "",
+      "ref": "ecb3f7772",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1273,
+        537,
+        38,
+        29
+      ],
+      "description": "parametric mask",
+      "name": "",
+      "ref": "ee61bdb1d",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1311,
+        537,
+        38,
+        29
+      ],
+      "description": "drawn & parametric mask",
+      "name": "",
+      "ref": "eb12f3564",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1349,
+        537,
+        37,
+        29
+      ],
+      "description": "raster mask",
+      "name": "",
+      "ref": "ed775eac9",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1386,
+        537,
+        32,
+        29
+      ],
+      "description": "blending options",
+      "name": "",
+      "ref": "e4094b60c",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1159,
+        566,
+        259,
+        163
+      ],
+      "description": "right-click to show/hide modules",
+      "name": "",
+      "ref": "efe0fb8ad",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        1418,
+        336,
+        12,
+        393
+      ],
+      "name": "",
+      "ref": "e42e8aaeb",
+      "role": "scroll bar"
+    },
+    {
+      "bounds": [
+        1159,
+        729,
+        271,
+        41
+      ],
+      "description": "module order",
+      "name": "",
+      "ref": "e04a21938",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1167,
+        737,
+        89,
+        24
+      ],
+      "name": "module order",
+      "ref": "e72cd472e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1256,
+        737,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "ee5ec3561",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1256,
+        737,
+        76,
+        24
+      ],
+      "name": "v5.0 JPEG",
+      "ref": "e323a82a8",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1376,
+        737,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "effff516f",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1399,
+        737,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "ecadc8563",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1159,
+        89,
+        5,
+        681
+      ],
+      "name": "",
+      "ref": "eaf30768b",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        10,
+        89,
+        333,
+        200
+      ],
+      "description": "navigation\nclick or drag to position zoomed area in center view",
+      "name": "",
+      "ref": "e20a9ad08",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        248,
+        270,
+        95,
+        19
+      ],
+      "description": "image zoom level",
+      "name": "",
+      "ref": "ed4fcfe01",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        22,
+        289,
+        321,
+        41
+      ],
+      "description": "remember a specific edit state and\nallow comparing it against another\nor returning to that version",
+      "name": "",
+      "ref": "eb32d2750",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        30,
+        297,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "e89c201be",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        53,
+        297,
+        98,
+        24
+      ],
+      "name": "snapshots",
+      "ref": "e0da743e5",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        151,
+        297,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "e9227a45f",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        289,
+        297,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "e3ca9824c",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        312,
+        297,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "e6387a778",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        22,
+        330,
+        321,
+        41
+      ],
+      "description": "display the sequence of edit actions\n- click on an entry to temporarily return to\n  that earlier state of the edit\n  (warning: any edits will be made to that\n  earlier state, losing later changes)\n- s",
+      "name": "",
+      "ref": "e545ee006",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        30,
+        338,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "e96d9cb04",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        53,
+        338,
+        69,
+        24
+      ],
+      "name": "history",
+      "ref": "e0e6eff12",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        122,
+        338,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "e78d78480",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        289,
+        338,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "eb7960608",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        312,
+        338,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "eb20aa0ee",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        22,
+        371,
+        321,
+        41
+      ],
+      "description": "create/rename/remove multiple\nedits of the current image",
+      "name": "",
+      "ref": "ee77347f8",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        30,
+        379,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "e38fa8827",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        53,
+        379,
+        176,
+        24
+      ],
+      "name": "duplicate manager",
+      "ref": "e657d896e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        229,
+        379,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "ee8343ffb",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        289,
+        379,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "e0297d05b",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        312,
+        379,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "e1d1c2866",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        22,
+        412,
+        321,
+        41
+      ],
+      "description": "color picker",
+      "name": "",
+      "ref": "e6100ab4c",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        30,
+        420,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "e9ec3c085",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        53,
+        420,
+        113,
+        24
+      ],
+      "name": "color picker",
+      "ref": "e68594922",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        166,
+        420,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "ea86800f9",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        289,
+        420,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "ed73d1692",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        312,
+        420,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "eee754e94",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        22,
+        453,
+        321,
+        41
+      ],
+      "description": "add or remove keywords for\nthe currently selected images",
+      "name": "",
+      "ref": "e0616b46d",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        30,
+        461,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "ea24271ed",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        53,
+        461,
+        76,
+        24
+      ],
+      "name": "tagging",
+      "ref": "efac235bd",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        129,
+        461,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "e6e9d1cc5",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        289,
+        461,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "e49f062d2",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        312,
+        461,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "ebfeeb1d1",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        22,
+        494,
+        321,
+        41
+      ],
+      "description": "AI-based image restoration: denoise and upscale",
+      "name": "",
+      "ref": "eddf8ad2f",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        30,
+        502,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "e58682802",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        53,
+        502,
+        134,
+        24
+      ],
+      "name": "neural restore",
+      "ref": "ec15f13a3",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        187,
+        502,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "ee8ffd259",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        289,
+        502,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "e5f4de9e2",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        312,
+        502,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "eb3ad2859",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        22,
+        535,
+        321,
+        41
+      ],
+      "description": "image information",
+      "name": "",
+      "ref": "e5e01f1c6",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        30,
+        543,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "e1ee45c60",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        53,
+        543,
+        172,
+        24
+      ],
+      "name": "image information",
+      "ref": "e6451ca0b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        225,
+        543,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "e6743b024",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        289,
+        543,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "e5adef2b1",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        312,
+        543,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "e87885f4e",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        22,
+        576,
+        321,
+        41
+      ],
+      "description": "manipulate the drawn shapes used\nfor masks on the processing modules",
+      "name": "",
+      "ref": "e96de3976",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        30,
+        584,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "e11569643",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        53,
+        584,
+        141,
+        24
+      ],
+      "name": "mask manager",
+      "ref": "e950d402f",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        194,
+        584,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "e2a9622e3",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        289,
+        584,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "ea1093375",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        312,
+        584,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "ec478d4af",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        22,
+        617,
+        321,
+        41
+      ],
+      "description": "create new files for the\ncurrently selected images\nwhich apply your edits",
+      "name": "",
+      "ref": "eae921910",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        30,
+        625,
+        23,
+        24
+      ],
+      "description": "show module",
+      "name": "",
+      "ref": "e1f013b0e",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        53,
+        625,
+        66,
+        24
+      ],
+      "name": "export",
+      "ref": "ea9b60c6e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        119,
+        625,
+        1,
+        24
+      ],
+      "name": "",
+      "ref": "eaa98e2bf",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        289,
+        625,
+        23,
+        24
+      ],
+      "name": "",
+      "ref": "e163e51ca",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        312,
+        625,
+        23,
+        24
+      ],
+      "description": "presets and preferences",
+      "name": "",
+      "ref": "e39e4d958",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        22,
+        658,
+        321,
+        112
+      ],
+      "description": "right-click to show/hide modules",
+      "name": "",
+      "ref": "e5c907954",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        10,
+        289,
+        12,
+        481
+      ],
+      "name": "",
+      "ref": "e38d995b3",
+      "role": "scroll bar"
+    },
+    {
+      "bounds": [
+        338,
+        89,
+        5,
+        681
+      ],
+      "name": "",
+      "ref": "eeb8db010",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        660,
+        770,
+        120,
+        120
+      ],
+      "description": "chart.png\n01/01/24 00:00:00  \n1/inf • f/0.0 • 0.0mm • ISO 0",
+      "name": "",
+      "ref": "ea255576d",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        661,
+        772,
+        47,
+        13
+      ],
+      "name": "PNG HDR",
+      "ref": "ed106583f",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        661,
+        786,
+        118,
+        89
+      ],
+      "name": "",
+      "ref": "e17f6f1bb",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        705,
+        770,
+        31,
+        15
+      ],
+      "name": "",
+      "ref": "e776c9d03",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        661,
+        871,
+        118,
+        19
+      ],
+      "name": "",
+      "ref": "e94f1dc2d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        660,
+        877,
+        13,
+        13
+      ],
+      "name": "",
+      "ref": "ed206f2a7",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        687,
+        877,
+        13,
+        13
+      ],
+      "name": "",
+      "ref": "e8f58d6bd",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        700,
+        877,
+        13,
+        13
+      ],
+      "name": "",
+      "ref": "ec92d777b",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        713,
+        877,
+        13,
+        13
+      ],
+      "name": "",
+      "ref": "ec477ec06",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        726,
+        877,
+        13,
+        13
+      ],
+      "name": "",
+      "ref": "e43e7f588",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        739,
+        877,
+        13,
+        13
+      ],
+      "name": "",
+      "ref": "e73ee5a9e",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        769,
+        772,
+        10,
+        10
+      ],
+      "description": "●  colorize\n●  colorize\n●  orientation _builtin_auto\n●  display encoding\n●  output color profile\n●  input color profile",
+      "name": "",
+      "ref": "eff81e956",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        10,
+        770,
+        1420,
+        5
+      ],
+      "name": "",
+      "ref": "e9e9b7193",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        347,
+        91,
+        39,
+        34
+      ],
+      "description": "filter preferences",
+      "name": "",
+      "ref": "e10591019",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        386,
+        91,
+        45,
+        34
+      ],
+      "name": "filter",
+      "ref": "e77fa672d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        431,
+        91,
+        12,
+        34
+      ],
+      "description": "filter images based on their module order",
+      "name": "",
+      "ref": "eb3e8a10d",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        443,
+        91,
+        30,
+        34
+      ],
+      "description": "filter by images color label\nclick to toggle the color label selection\nctrl+click to exclude the color label\nthe gray button affects all color labels",
+      "name": "",
+      "ref": "ea970ec4b",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        473,
+        91,
+        30,
+        34
+      ],
+      "description": "filter by images color label\nclick to toggle the color label selection\nctrl+click to exclude the color label\nthe gray button affects all color labels",
+      "name": "",
+      "ref": "ee6653202",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        503,
+        91,
+        30,
+        34
+      ],
+      "description": "filter by images color label\nclick to toggle the color label selection\nctrl+click to exclude the color label\nthe gray button affects all color labels",
+      "name": "",
+      "ref": "e12ea2821",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        533,
+        91,
+        30,
+        34
+      ],
+      "description": "filter by images color label\nclick to toggle the color label selection\nctrl+click to exclude the color label\nthe gray button affects all color labels",
+      "name": "",
+      "ref": "ec476f2d8",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        563,
+        91,
+        30,
+        34
+      ],
+      "description": "filter by images color label\nclick to toggle the color label selection\nctrl+click to exclude the color label\nthe gray button affects all color labels",
+      "name": "",
+      "ref": "e43ddd754",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        593,
+        91,
+        30,
+        34
+      ],
+      "description": "filter by images color label\nclick to toggle the color label selection\nctrl+click to exclude the color label\nthe gray button affects all color labels",
+      "name": "",
+      "ref": "e41770172",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        625,
+        91,
+        30,
+        34
+      ],
+      "description": "filter by images color label\nintersection: images having all selected color labels\nunion: images with at least one of the selected color labels",
+      "name": "",
+      "ref": "e6517961f",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        665,
+        91,
+        146,
+        32
+      ],
+      "name": "",
+      "ref": "eea792d53",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        819,
+        91,
+        63,
+        34
+      ],
+      "name": "sort by",
+      "ref": "e3312cbd3",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        882,
+        91,
+        12,
+        34
+      ],
+      "description": "determine the sort order of shown images",
+      "name": "",
+      "ref": "ec4aebb94",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        894,
+        91,
+        39,
+        34
+      ],
+      "name": "",
+      "ref": "ed3f4496f",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        933,
+        91,
+        27,
+        34
+      ],
+      "description": "0 images selected of 0",
+      "name": "1 image (#1) selected of 1",
+      "ref": "ee7d357de",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        960,
+        91,
+        39,
+        34
+      ],
+      "description": "collapse grouped images",
+      "name": "",
+      "ref": "e6d85c8be",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        999,
+        91,
+        39,
+        34
+      ],
+      "description": "click to change the type of overlays shown on thumbnails",
+      "name": "",
+      "ref": "ecc2e96ac",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1038,
+        91,
+        39,
+        34
+      ],
+      "description": "enable this, then click on a control element to see its online help",
+      "name": "",
+      "ref": "ef6834098",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1077,
+        91,
+        39,
+        34
+      ],
+      "description": "define keyboard shortcuts for on-screen controls\nctrl+click to switch off overwrite confirmations\n\nafter activating:\n\n- hover over a control (button, slider, etc.) and press\n  a keystroke combination ",
+      "name": "",
+      "ref": "eed700363",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1116,
+        91,
+        39,
+        34
+      ],
+      "description": "show global preferences",
+      "name": "",
+      "ref": "e3cc12f52",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        343,
+        127,
+        816,
+        605
+      ],
+      "name": "",
+      "ref": "e2c13d374",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        347,
+        734,
+        34,
+        34
+      ],
+      "description": "quick access to presets",
+      "name": "",
+      "ref": "e6e230535",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        381,
+        734,
+        34,
+        34
+      ],
+      "description": "quick access for applying any of your styles",
+      "name": "",
+      "ref": "eec179af2",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        415,
+        734,
+        40,
+        34
+      ],
+      "description": "display a second darkroom image window",
+      "name": "",
+      "ref": "e6d8586da",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        492,
+        734,
+        272,
+        34
+      ],
+      "name": "1/inf • f/0.0 • 0.0 mm • ISO 0",
+      "ref": "ed05258e3",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        801,
+        734,
+        40,
+        34
+      ],
+      "description": "toggle focus-peaking mode",
+      "name": "",
+      "ref": "e702d271a",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        841,
+        734,
+        40,
+        34
+      ],
+      "description": "toggle color assessment conditions\nright-click for options",
+      "name": "",
+      "ref": "ec9e2e4f3",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        881,
+        734,
+        40,
+        34
+      ],
+      "description": "toggle high quality processing. if activated darktable processes image data as it does while exporting",
+      "name": "",
+      "ref": "e079d4af7",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        921,
+        734,
+        40,
+        34
+      ],
+      "description": "toggle indication of raw overexposure\nright-click for options",
+      "name": "",
+      "ref": "e716255eb",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        961,
+        734,
+        40,
+        34
+      ],
+      "description": "toggle clipping indication\nright-click for options",
+      "name": "",
+      "ref": "e1ad86614",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1001,
+        734,
+        40,
+        34
+      ],
+      "description": "toggle softproofing\nright-click for profile options",
+      "name": "",
+      "ref": "ee39b3775",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1041,
+        734,
+        40,
+        34
+      ],
+      "description": "toggle gamut checking\nright-click for profile options",
+      "name": "",
+      "ref": "eb65a5c62",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1081,
+        734,
+        40,
+        34
+      ],
+      "description": "toggle guide lines\nright-click for guides options",
+      "name": "",
+      "ref": "e5e90f060",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1121,
+        734,
+        34,
+        34
+      ],
+      "description": "view log history",
+      "name": "",
+      "ref": "e69b26bc2",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1139,
+        734,
+        16,
+        21
+      ],
+      "name": "●",
+      "ref": "e0fdcd794",
+      "role": "label",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        258,
+        30,
+        669,
+        58
+      ],
+      "name": "",
+      "ref": "ee3120f00",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        930,
+        31,
+        134,
+        56
+      ],
+      "name": "lighttable",
+      "ref": "e8f15d86a",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1064,
+        31,
+        28,
+        56
+      ],
+      "name": "|",
+      "ref": "e0c870eb2",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1092,
+        31,
+        136,
+        56
+      ],
+      "name": "darkroom",
+      "ref": "eea8ce135",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1228,
+        31,
+        28,
+        56
+      ],
+      "name": "|",
+      "ref": "ed06f61b5",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1256,
+        31,
+        172,
+        56
+      ],
+      "name": "other",
+      "ref": "eec638793",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        1430,
+        29,
+        10,
+        741
+      ],
+      "name": "",
+      "ref": "ef4507aaf",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        0,
+        29,
+        10,
+        741
+      ],
+      "name": "",
+      "ref": "eaa3923f3",
+      "role": "drawing area"
+    },
+    {
+      "bounds": [
+        0,
+        890,
+        1440,
+        10
+      ],
+      "name": "",
+      "ref": "e4d26bbc9",
+      "role": "drawing area"
+    }
+  ],
+  "screen": [
+    1440,
+    900
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": true,
+      "bounds": [
+        0,
+        38,
+        1440,
+        881
+      ],
+      "ref": "w7e208ab0",
+      "title": "darktable"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+# Reference installation and runtime build inputs.
+**
+!solution/
+!solution/start.sh
+!solution/solve.sh
+!solution/launch.py
+!solution/SOURCE.json
+!solution/Hydrogen-1.2.7-x86_64.AppImage
+!environment/
+!environment/Dockerfile.reference
+!environment/runtime/
+!environment/runtime/*.py
+!environment/runtime/*.json
+!solution/NOTICE
+!solution/LICENSE
+!solution/LICENSES/
+!solution/LICENSES/**
+!solution/isolation.py

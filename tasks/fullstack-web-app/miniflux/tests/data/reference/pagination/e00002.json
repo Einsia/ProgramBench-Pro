@@ -1,0 +1,479 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        559,
+        -44,
+        162,
+        36
+      ],
+      "href": "/unread?offset=2#main",
+      "offscreen": true,
+      "ref": "e288",
+      "role": null,
+      "tag": "a",
+      "text": "Skip to content"
+    },
+    {
+      "aria": "Home page",
+      "bounds": [
+        193,
+        10,
+        77,
+        19
+      ],
+      "href": "/unread",
+      "ref": "e289",
+      "role": null,
+      "tag": "a",
+      "text": "Mini\nflux"
+    },
+    {
+      "aria": "Unread, 5 unread entries",
+      "bounds": [
+        278,
+        12,
+        102,
+        16
+      ],
+      "href": "/unread",
+      "ref": "e290",
+      "role": null,
+      "tag": "a",
+      "text": "Unread (5)"
+    },
+    {
+      "bounds": [
+        395,
+        12,
+        78,
+        16
+      ],
+      "href": "/starred",
+      "ref": "e291",
+      "role": null,
+      "tag": "a",
+      "text": "Starred"
+    },
+    {
+      "bounds": [
+        488,
+        12,
+        78,
+        16
+      ],
+      "href": "/history",
+      "ref": "e292",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        581,
+        12,
+        70,
+        16
+      ],
+      "href": "/feeds",
+      "ref": "e293",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "aria": "Add feed",
+      "bounds": [
+        650,
+        12,
+        26,
+        16
+      ],
+      "href": "/subscribe",
+      "ref": "e294",
+      "role": null,
+      "tag": "a",
+      "text": "(+)",
+      "title": "Keyboard Shortcut: +"
+    },
+    {
+      "bounds": [
+        691,
+        12,
+        104,
+        16
+      ],
+      "href": "/categories",
+      "ref": "e295",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        810,
+        12,
+        70,
+        16
+      ],
+      "href": "/search",
+      "ref": "e296",
+      "role": null,
+      "tag": "a",
+      "text": "Search"
+    },
+    {
+      "bounds": [
+        894,
+        12,
+        87,
+        16
+      ],
+      "href": "/settings",
+      "ref": "e297",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        996,
+        10,
+        70,
+        18
+      ],
+      "ref": "e298",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "title": "Logged in as alice"
+    },
+    {
+      "bounds": [
+        193,
+        81,
+        181,
+        18
+      ],
+      "ref": "e299",
+      "role": null,
+      "tag": "button",
+      "text": "Mark this page as read"
+    },
+    {
+      "bounds": [
+        398,
+        81,
+        132,
+        18
+      ],
+      "ref": "e300",
+      "role": null,
+      "tag": "button",
+      "text": "Mark all as read"
+    },
+    {
+      "bounds": [
+        214,
+        116,
+        53,
+        20
+      ],
+      "href": "/unread",
+      "ref": "e301",
+      "role": null,
+      "tag": "a",
+      "text": "First"
+    },
+    {
+      "bounds": [
+        303,
+        116,
+        84,
+        20
+      ],
+      "href": "/unread",
+      "ref": "e302",
+      "role": null,
+      "tag": "a",
+      "text": "Previous"
+    },
+    {
+      "bounds": [
+        945,
+        116,
+        42,
+        20
+      ],
+      "href": "/unread?offset=4",
+      "ref": "e303",
+      "role": null,
+      "tag": "a",
+      "text": "Next"
+    },
+    {
+      "bounds": [
+        1024,
+        116,
+        42,
+        20
+      ],
+      "href": "/unread?offset=4",
+      "ref": "e304",
+      "role": null,
+      "tag": "a",
+      "text": "Last"
+    },
+    {
+      "bounds": [
+        199,
+        150,
+        115,
+        18
+      ],
+      "href": "/unread/entry/3",
+      "ref": "e305",
+      "role": null,
+      "tag": "a",
+      "text": "Page item 3"
+    },
+    {
+      "bounds": [
+        323,
+        153,
+        22,
+        14
+      ],
+      "href": "/category/1/entries",
+      "ref": "e306",
+      "role": null,
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        199,
+        174,
+        65,
+        12
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e307",
+      "role": null,
+      "tag": "a",
+      "text": "Paged Feed",
+      "title": "http://pages.test/"
+    },
+    {
+      "bounds": [
+        199,
+        195,
+        95,
+        16
+      ],
+      "ref": "e308",
+      "role": null,
+      "tag": "button",
+      "text": "Mark as read",
+      "title": "Change entry status"
+    },
+    {
+      "bounds": [
+        309,
+        195,
+        43,
+        16
+      ],
+      "ref": "e309",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        369,
+        197,
+        120,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e310",
+      "role": null,
+      "tag": "a",
+      "text": "External link"
+    },
+    {
+      "bounds": [
+        199,
+        244,
+        115,
+        18
+      ],
+      "href": "/unread/entry/2",
+      "ref": "e311",
+      "role": null,
+      "tag": "a",
+      "text": "Page item 4"
+    },
+    {
+      "bounds": [
+        323,
+        247,
+        22,
+        14
+      ],
+      "href": "/category/1/entries",
+      "ref": "e312",
+      "role": null,
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        199,
+        268,
+        65,
+        12
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e313",
+      "role": null,
+      "tag": "a",
+      "text": "Paged Feed",
+      "title": "http://pages.test/"
+    },
+    {
+      "bounds": [
+        199,
+        289,
+        95,
+        16
+      ],
+      "ref": "e314",
+      "role": null,
+      "tag": "button",
+      "text": "Mark as read",
+      "title": "Change entry status"
+    },
+    {
+      "bounds": [
+        309,
+        289,
+        43,
+        16
+      ],
+      "ref": "e315",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        369,
+        291,
+        120,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e316",
+      "role": null,
+      "tag": "a",
+      "text": "External link"
+    },
+    {
+      "bounds": [
+        193,
+        336,
+        181,
+        18
+      ],
+      "ref": "e317",
+      "role": null,
+      "tag": "button",
+      "text": "Mark this page as read"
+    },
+    {
+      "bounds": [
+        214,
+        379,
+        53,
+        20
+      ],
+      "href": "/unread",
+      "ref": "e318",
+      "role": null,
+      "tag": "a",
+      "text": "First"
+    },
+    {
+      "bounds": [
+        303,
+        379,
+        84,
+        20
+      ],
+      "href": "/unread",
+      "ref": "e319",
+      "role": null,
+      "tag": "a",
+      "text": "Previous"
+    },
+    {
+      "bounds": [
+        599,
+        379,
+        134,
+        20
+      ],
+      "href": "/unread?offset=2",
+      "ref": "e320",
+      "role": null,
+      "tag": "a",
+      "text": "Back to top"
+    },
+    {
+      "bounds": [
+        945,
+        379,
+        42,
+        20
+      ],
+      "href": "/unread?offset=4",
+      "ref": "e321",
+      "role": null,
+      "tag": "a",
+      "text": "Next"
+    },
+    {
+      "bounds": [
+        1024,
+        379,
+        42,
+        20
+      ],
+      "href": "/unread?offset=4",
+      "ref": "e322",
+      "role": null,
+      "tag": "a",
+      "text": "Last"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Skip to content\nMini\nflux\nUnread (5) Starred History Feeds (+) Categories Search Settings Logout\nUnread (5)\n5 unread entries\nMark this page as read Mark all as read\nFirst\nPrevious\nNext \nLast \nPage item 3 All\nPaged Feed  1 year ago  1 minute read\nMark as read Star External link\nPage item 4 All\nPaged Feed  1 year ago  1 minute read\nMark as read Star External link\nMark this page as read\nFirst\nPrevious\nBack to top\nNext \nLast ",
+  "text_truncated": false,
+  "title": "Unread (5) - Miniflux",
+  "url": "/unread?offset=2",
+  "viewport": [
+    1280,
+    900
+  ]
+}

@@ -1,0 +1,900 @@
+{
+  "focused": null,
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1440,
+        900
+      ],
+      "name": "chirp",
+      "ref": "e97853b45",
+      "role": "frame",
+      "states": [
+        "active"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1440,
+        25
+      ],
+      "name": "",
+      "ref": "e37b0c28a",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        39,
+        25
+      ],
+      "name": "File",
+      "ref": "eae5e7196",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        39,
+        19,
+        41,
+        25
+      ],
+      "name": "Edit",
+      "ref": "e9280c15b",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        80,
+        19,
+        56,
+        25
+      ],
+      "name": "Select",
+      "ref": "e3dcd7e51",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        136,
+        19,
+        48,
+        25
+      ],
+      "name": "View",
+      "ref": "eb0ba3d40",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        184,
+        19,
+        76,
+        25
+      ],
+      "name": "Transport",
+      "ref": "e94ea744b",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        260,
+        19,
+        57,
+        25
+      ],
+      "name": "Tracks",
+      "ref": "e7ce1ee1e",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        317,
+        19,
+        76,
+        25
+      ],
+      "name": "Generate",
+      "ref": "e38a79ac2",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        393,
+        19,
+        53,
+        25
+      ],
+      "name": "Effect",
+      "ref": "e18264e11",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        446,
+        19,
+        68,
+        25
+      ],
+      "name": "Analyze",
+      "ref": "e7d733e21",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        514,
+        19,
+        49,
+        25
+      ],
+      "name": "Tools",
+      "ref": "eba99aba2",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        563,
+        19,
+        46,
+        25
+      ],
+      "name": "Help",
+      "ref": "e54624f3b",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        12,
+        129,
+        27,
+        27
+      ],
+      "description": "Timeline Options",
+      "name": "",
+      "ref": "ec34d99f9",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        1,
+        45,
+        10,
+        55
+      ],
+      "description": "Audacity Transport Toolbar",
+      "name": "",
+      "ref": "e901f3859",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        17,
+        48,
+        48,
+        48
+      ],
+      "description": "Pause (P)",
+      "name": "",
+      "ref": "ea5469745",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        67,
+        48,
+        48,
+        48
+      ],
+      "description": "Play (Space) / Loop Play (Shift+Space)",
+      "name": "",
+      "ref": "ef034c623",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        117,
+        48,
+        48,
+        48
+      ],
+      "description": "Stop",
+      "name": "",
+      "ref": "e30cf3e32",
+      "role": "panel",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        167,
+        48,
+        48,
+        48
+      ],
+      "description": "Skip to Start (Home) / Select to Start (Shift+Home)",
+      "name": "",
+      "ref": "ed710a59f",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        217,
+        48,
+        48,
+        48
+      ],
+      "description": "Skip to End (End) / Select to End (Shift+End)",
+      "name": "",
+      "ref": "e722cd0b8",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        275,
+        48,
+        48,
+        48
+      ],
+      "description": "Record (R) / Record New Track (Shift+R)",
+      "name": "",
+      "ref": "e661448ca",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        329,
+        45,
+        10,
+        55
+      ],
+      "description": "Audacity Tools Toolbar",
+      "name": "",
+      "ref": "e56f2aa2a",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        340,
+        45,
+        27,
+        27
+      ],
+      "description": "Selection Tool (F1)",
+      "name": "",
+      "ref": "e1b75756f",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        368,
+        45,
+        27,
+        27
+      ],
+      "description": "Envelope Tool (F2)",
+      "name": "",
+      "ref": "e491dae0b",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        396,
+        45,
+        27,
+        27
+      ],
+      "description": "Draw Tool (F3)",
+      "name": "",
+      "ref": "e62a64731",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        340,
+        73,
+        27,
+        27
+      ],
+      "description": "Zoom Tool (F4)",
+      "name": "",
+      "ref": "ed5f073ec",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        368,
+        73,
+        27,
+        27
+      ],
+      "description": "Time Shift Tool (F5)",
+      "name": "",
+      "ref": "e402b03e9",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        396,
+        73,
+        27,
+        27
+      ],
+      "description": "Multi-Tool (F6)",
+      "name": "",
+      "ref": "e97caf537",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        424,
+        45,
+        10,
+        27
+      ],
+      "description": "Audacity Meter Toolbar",
+      "name": "",
+      "ref": "e85f77061",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        435,
+        45,
+        444,
+        27
+      ],
+      "description": "Recording Level",
+      "name": "",
+      "ref": "eb7d43f28",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        880,
+        45,
+        4,
+        27
+      ],
+      "description": "Click and drag to resize toolbar",
+      "name": "",
+      "ref": "e8d677154",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        885,
+        45,
+        10,
+        27
+      ],
+      "description": "Audacity Meter Toolbar",
+      "name": "",
+      "ref": "e5bd6af57",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        896,
+        45,
+        444,
+        27
+      ],
+      "description": "Playback Level",
+      "name": "",
+      "ref": "e55dc64a3",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        1341,
+        45,
+        4,
+        27
+      ],
+      "description": "Click and drag to resize toolbar",
+      "name": "",
+      "ref": "e24e2a0ad",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        424,
+        73,
+        10,
+        27
+      ],
+      "description": "Audacity Mixer Toolbar",
+      "name": "",
+      "ref": "e2b419312",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        435,
+        74,
+        25,
+        25
+      ],
+      "name": "",
+      "ref": "e7f0cc1b6",
+      "role": "icon"
+    },
+    {
+      "bounds": [
+        589,
+        74,
+        25,
+        25
+      ],
+      "name": "",
+      "ref": "e9a7cf5d0",
+      "role": "icon"
+    },
+    {
+      "bounds": [
+        747,
+        73,
+        4,
+        27
+      ],
+      "description": "Click and drag to resize toolbar",
+      "name": "",
+      "ref": "ec1e80246",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        752,
+        73,
+        10,
+        27
+      ],
+      "description": "Audacity Edit Toolbar",
+      "name": "",
+      "ref": "ec051078b",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        763,
+        73,
+        27,
+        27
+      ],
+      "description": "Cut (Ctrl+X)",
+      "name": "",
+      "ref": "e1e578411",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        790,
+        73,
+        27,
+        27
+      ],
+      "description": "Copy (Ctrl+C)",
+      "name": "",
+      "ref": "e25fac3cd",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        817,
+        73,
+        27,
+        27
+      ],
+      "description": "Paste (Ctrl+V)",
+      "name": "",
+      "ref": "e878570e9",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        844,
+        73,
+        27,
+        27
+      ],
+      "description": "Trim audio outside selection (Ctrl+T)",
+      "name": "",
+      "ref": "e1fb834d9",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        871,
+        73,
+        27,
+        27
+      ],
+      "description": "Silence audio selection (Ctrl+L)",
+      "name": "",
+      "ref": "edeabbdd3",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        912,
+        73,
+        27,
+        27
+      ],
+      "description": "Undo (Ctrl+Z)",
+      "name": "",
+      "ref": "eb6c25c60",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        939,
+        73,
+        27,
+        27
+      ],
+      "description": "Redo (Ctrl+Shift+Z)",
+      "name": "",
+      "ref": "e47aa78cb",
+      "role": "panel",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        980,
+        73,
+        27,
+        27
+      ],
+      "description": "Zoom In (Ctrl+1)",
+      "name": "",
+      "ref": "e93b8a4c5",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        1007,
+        73,
+        27,
+        27
+      ],
+      "description": "Zoom Out (Ctrl+3)",
+      "name": "",
+      "ref": "e0676d7aa",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        1034,
+        73,
+        27,
+        27
+      ],
+      "description": "Fit selection to width (Ctrl+E)",
+      "name": "",
+      "ref": "e343bbb4e",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        1061,
+        73,
+        27,
+        27
+      ],
+      "description": "Fit project to width (Ctrl+F)",
+      "name": "",
+      "ref": "e888d4feb",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        1088,
+        73,
+        27,
+        27
+      ],
+      "description": "Zoom Toggle (Shift+Z)",
+      "name": "",
+      "ref": "e496ceb79",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        1116,
+        73,
+        10,
+        27
+      ],
+      "description": "Audacity Play-at-Speed Toolbar",
+      "name": "",
+      "ref": "eca165947",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        1127,
+        73,
+        27,
+        27
+      ],
+      "description": "Play-at-Speed / Looped-Play-at-Speed",
+      "name": "",
+      "ref": "e0dd08f59",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        1303,
+        73,
+        4,
+        27
+      ],
+      "description": "Click and drag to resize toolbar",
+      "name": "",
+      "ref": "ed5b1e5f4",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        1,
+        101,
+        10,
+        27
+      ],
+      "description": "Audacity Device Toolbar",
+      "name": "",
+      "ref": "e4dbcc060",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        13,
+        101,
+        127,
+        26
+      ],
+      "description": "Audio Host - ALSA",
+      "name": "ALSA",
+      "ref": "e040e8021",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        141,
+        102,
+        25,
+        25
+      ],
+      "name": "",
+      "ref": "eaefb1ce2",
+      "role": "icon"
+    },
+    {
+      "bounds": [
+        167,
+        101,
+        256,
+        26
+      ],
+      "description": "Recording Device - pulse",
+      "name": "pulse",
+      "ref": "ea0546390",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        425,
+        101,
+        170,
+        26
+      ],
+      "description": "Recording Channels - 2 (Stereo) Recording Channels",
+      "name": "2 (Stereo) Recording Channels",
+      "ref": "ecd33e896",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        596,
+        102,
+        25,
+        25
+      ],
+      "name": "",
+      "ref": "e901c96a2",
+      "role": "icon"
+    },
+    {
+      "bounds": [
+        622,
+        101,
+        256,
+        26
+      ],
+      "description": "Playback Device - pulse",
+      "name": "pulse",
+      "ref": "e3d8ac67c",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        880,
+        101,
+        4,
+        27
+      ],
+      "description": "Click and drag to resize toolbar",
+      "name": "",
+      "ref": "e43f6c91c",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        136,
+        807,
+        1290,
+        14
+      ],
+      "name": "",
+      "ref": "e02246ef8",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        1,
+        822,
+        10,
+        55
+      ],
+      "description": "Audacity Selection Toolbar",
+      "name": "",
+      "ref": "e43d980ec",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        149,
+        827,
+        1,
+        17
+      ],
+      "name": "",
+      "ref": "e40573252",
+      "role": "separator"
+    },
+    {
+      "bounds": [
+        247,
+        827,
+        1,
+        17
+      ],
+      "name": "",
+      "ref": "e1b2f83e9",
+      "role": "separator"
+    },
+    {
+      "bounds": [
+        254,
+        822,
+        310,
+        27
+      ],
+      "name": "Start and End of Selection",
+      "ref": "ed9d2120c",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        17,
+        850,
+        126,
+        27
+      ],
+      "name": "",
+      "ref": "eff65174e",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        21,
+        850,
+        92,
+        27
+      ],
+      "name": "",
+      "ref": "e955cd9c1",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "44100"
+    },
+    {
+      "bounds": [
+        149,
+        855,
+        1,
+        17
+      ],
+      "name": "",
+      "ref": "ed567b911",
+      "role": "separator"
+    },
+    {
+      "bounds": [
+        156,
+        850,
+        85,
+        27
+      ],
+      "description": "Snap Clicks/Selections to hh:mm:ss + milliseconds",
+      "name": "Off",
+      "ref": "e285c14f8",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        247,
+        855,
+        1,
+        17
+      ],
+      "name": "",
+      "ref": "eb63263e9",
+      "role": "separator"
+    },
+    {
+      "bounds": [
+        571,
+        822,
+        10,
+        55
+      ],
+      "description": "Audacity Time Toolbar",
+      "name": "",
+      "ref": "ebc2247ae",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        817,
+        822,
+        4,
+        55
+      ],
+      "description": "Click and drag to resize toolbar",
+      "name": "",
+      "ref": "e3377f4cf",
+      "role": "panel"
+    }
+  ],
+  "screen": [
+    1440,
+    900
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": true,
+      "bounds": [
+        0,
+        38,
+        1440,
+        881
+      ],
+      "ref": "w361bf34c",
+      "title": "chirp"
+    }
+  ]
+}

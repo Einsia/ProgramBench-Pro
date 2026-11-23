@@ -1,0 +1,1532 @@
+{
+  "controls": [
+    {
+      "aria": "Dashboard",
+      "bounds": [
+        10,
+        7,
+        56,
+        36
+      ],
+      "href": "/",
+      "ref": "e2697",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        71,
+        7,
+        76,
+        36
+      ],
+      "href": "/issues",
+      "ref": "e2698",
+      "role": null,
+      "tag": "a",
+      "text": "Issues"
+    },
+    {
+      "bounds": [
+        152,
+        7,
+        135,
+        36
+      ],
+      "href": "/pulls",
+      "ref": "e2699",
+      "role": null,
+      "tag": "a",
+      "text": "Pull Requests"
+    },
+    {
+      "bounds": [
+        293,
+        7,
+        110,
+        36
+      ],
+      "href": "/milestones",
+      "ref": "e2700",
+      "role": null,
+      "tag": "a",
+      "text": "Milestones"
+    },
+    {
+      "bounds": [
+        408,
+        7,
+        85,
+        36
+      ],
+      "href": "/explore/repos",
+      "ref": "e2701",
+      "role": null,
+      "tag": "a",
+      "text": "Explore"
+    },
+    {
+      "aria": "Notifications",
+      "bounds": [
+        1094,
+        7,
+        42,
+        36
+      ],
+      "href": "/notifications",
+      "ref": "e2702",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Notifications"
+    },
+    {
+      "aria": "Create…",
+      "bounds": [
+        1141,
+        7,
+        60,
+        36
+      ],
+      "expanded": false,
+      "ref": "e2703",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Create…"
+    },
+    {
+      "aria": "Profile and Settings…",
+      "bounds": [
+        1207,
+        7,
+        64,
+        36
+      ],
+      "expanded": false,
+      "ref": "e2704",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Profile and Settings…"
+    },
+    {
+      "bounds": [
+        64,
+        69,
+        54,
+        20
+      ],
+      "href": "/alice",
+      "ref": "e2705",
+      "role": null,
+      "tag": "a",
+      "text": "alice"
+    },
+    {
+      "bounds": [
+        136,
+        69,
+        97,
+        20
+      ],
+      "href": "/alice/workbench",
+      "ref": "e2706",
+      "role": null,
+      "tag": "a",
+      "text": "workbench"
+    },
+    {
+      "aria": "RSS Feed",
+      "bounds": [
+        815,
+        62,
+        47,
+        33
+      ],
+      "href": "/alice/workbench.rss",
+      "ref": "e2707",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "RSS Feed"
+    },
+    {
+      "aria": "Unwatch",
+      "bounds": [
+        869,
+        62,
+        105,
+        33
+      ],
+      "ref": "e2708",
+      "role": null,
+      "tag": "button",
+      "text": "Unwatch"
+    },
+    {
+      "bounds": [
+        973,
+        62,
+        32,
+        33
+      ],
+      "href": "/alice/workbench/watchers",
+      "ref": "e2709",
+      "role": null,
+      "tag": "a",
+      "text": "1"
+    },
+    {
+      "aria": "Star",
+      "bounds": [
+        1012,
+        62,
+        82,
+        33
+      ],
+      "ref": "e2710",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        1093,
+        62,
+        32,
+        33
+      ],
+      "href": "/alice/workbench/stars",
+      "ref": "e2711",
+      "role": null,
+      "tag": "a",
+      "text": "0"
+    },
+    {
+      "bounds": [
+        1132,
+        62,
+        82,
+        33
+      ],
+      "ref": "e2712",
+      "role": null,
+      "tag": "a",
+      "text": "Fork"
+    },
+    {
+      "bounds": [
+        1213,
+        62,
+        32,
+        33
+      ],
+      "href": "/alice/workbench/forks",
+      "ref": "e2713",
+      "role": null,
+      "tag": "a",
+      "text": "0"
+    },
+    {
+      "bounds": [
+        32,
+        99,
+        79,
+        41
+      ],
+      "href": "/alice/workbench",
+      "ref": "e2714",
+      "role": null,
+      "tag": "a",
+      "text": "Code"
+    },
+    {
+      "bounds": [
+        111,
+        99,
+        95,
+        41
+      ],
+      "href": "/alice/workbench/issues",
+      "ref": "e2715",
+      "role": null,
+      "tag": "a",
+      "text": "Issues"
+    },
+    {
+      "bounds": [
+        206,
+        99,
+        185,
+        41
+      ],
+      "href": "/alice/workbench/pulls",
+      "ref": "e2716",
+      "role": null,
+      "tag": "a",
+      "text": "Pull Requests\n1"
+    },
+    {
+      "bounds": [
+        391,
+        99,
+        104,
+        41
+      ],
+      "href": "/alice/workbench/actions",
+      "ref": "e2717",
+      "role": null,
+      "tag": "a",
+      "text": "Actions"
+    },
+    {
+      "bounds": [
+        495,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/workbench/packages",
+      "ref": "e2718",
+      "role": null,
+      "tag": "a",
+      "text": "Packages"
+    },
+    {
+      "bounds": [
+        607,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/workbench/projects",
+      "ref": "e2719",
+      "role": null,
+      "tag": "a",
+      "text": "Projects"
+    },
+    {
+      "bounds": [
+        719,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/workbench/releases",
+      "ref": "e2720",
+      "role": null,
+      "tag": "a",
+      "text": "Releases"
+    },
+    {
+      "bounds": [
+        831,
+        99,
+        79,
+        41
+      ],
+      "href": "/alice/workbench/wiki",
+      "ref": "e2721",
+      "role": null,
+      "tag": "a",
+      "text": "Wiki"
+    },
+    {
+      "bounds": [
+        909,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/workbench/activity",
+      "ref": "e2722",
+      "role": null,
+      "tag": "a",
+      "text": "Activity"
+    },
+    {
+      "bounds": [
+        1136,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/workbench/settings",
+      "ref": "e2723",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        1176,
+        158,
+        72,
+        35
+      ],
+      "ref": "e2724",
+      "role": null,
+      "tag": "button",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        116,
+        210,
+        25,
+        16
+      ],
+      "href": "/bob",
+      "ref": "e2725",
+      "role": null,
+      "tag": "a",
+      "text": "bob"
+    },
+    {
+      "bounds": [
+        402,
+        211,
+        56,
+        15
+      ],
+      "href": "/alice/workbench/src/branch/feature",
+      "ref": "e2726",
+      "role": null,
+      "tag": "a",
+      "text": "feature"
+    },
+    {
+      "aria": "Copy branch name",
+      "bounds": [
+        466,
+        211,
+        14,
+        14
+      ],
+      "ref": "e2727",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Copy branch name"
+    },
+    {
+      "bounds": [
+        530,
+        211,
+        32,
+        15
+      ],
+      "href": "/alice/workbench/src/branch/main",
+      "ref": "e2728",
+      "role": null,
+      "tag": "a",
+      "text": "main"
+    },
+    {
+      "bounds": [
+        32,
+        251,
+        183,
+        44
+      ],
+      "href": "/alice/workbench/pulls/1",
+      "ref": "e2729",
+      "role": null,
+      "tag": "a",
+      "text": "Conversation\n0"
+    },
+    {
+      "bounds": [
+        215,
+        251,
+        141,
+        43
+      ],
+      "href": "/alice/workbench/pulls/1/commits",
+      "ref": "e2730",
+      "role": null,
+      "tag": "a",
+      "text": "Commits\n1"
+    },
+    {
+      "bounds": [
+        355,
+        251,
+        191,
+        43
+      ],
+      "href": "/alice/workbench/pulls/1/files",
+      "ref": "e2731",
+      "role": null,
+      "tag": "a",
+      "text": "Files Changed\n1"
+    },
+    {
+      "bounds": [
+        36,
+        306,
+        40,
+        40
+      ],
+      "href": "/bob",
+      "ref": "e2732",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        103,
+        325,
+        25,
+        16
+      ],
+      "href": "/bob",
+      "ref": "e2733",
+      "role": null,
+      "tag": "a",
+      "text": "bob"
+    },
+    {
+      "bounds": [
+        221,
+        325,
+        25,
+        16
+      ],
+      "href": "/alice/workbench/pulls/1#issue-1",
+      "ref": "e2734",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        853,
+        318,
+        30,
+        30
+      ],
+      "expanded": false,
+      "ref": "e2735",
+      "role": "menu",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "bounds": [
+        853,
+        318,
+        30,
+        30
+      ],
+      "ref": "e2736",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        887,
+        318,
+        30,
+        30
+      ],
+      "expanded": false,
+      "ref": "e2737",
+      "role": "menu",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "bounds": [
+        887,
+        318,
+        30,
+        30
+      ],
+      "ref": "e2738",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        128,
+        449,
+        25,
+        16
+      ],
+      "href": "/bob",
+      "ref": "e2739",
+      "role": null,
+      "tag": "a",
+      "text": "bob"
+    },
+    {
+      "bounds": [
+        128,
+        494,
+        24,
+        20
+      ],
+      "href": "/alice",
+      "ref": "e2740",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        152,
+        496,
+        120,
+        15
+      ],
+      "href": "/alice/workbench/commit/6bdaf568eab906ce343f2f7677c2353e8c05a7d1",
+      "ref": "e2741",
+      "role": null,
+      "tag": "a",
+      "text": "Proposed change"
+    },
+    {
+      "bounds": [
+        832,
+        492,
+        100,
+        25
+      ],
+      "href": "/alice/workbench/commit/6bdaf568eab906ce343f2f7677c2353e8c05a7d1",
+      "ref": "e2742",
+      "role": null,
+      "tag": "a",
+      "text": "6bdaf568ea"
+    },
+    {
+      "bounds": [
+        36,
+        599,
+        40,
+        40
+      ],
+      "href": "/alice",
+      "ref": "e2743",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        128,
+        559,
+        42,
+        16
+      ],
+      "href": "/alice",
+      "ref": "e2744",
+      "role": null,
+      "tag": "a",
+      "text": "alice"
+    },
+    {
+      "bounds": [
+        103,
+        618,
+        42,
+        16
+      ],
+      "href": "/alice",
+      "ref": "e2745",
+      "role": null,
+      "tag": "a",
+      "text": "alice"
+    },
+    {
+      "bounds": [
+        853,
+        611,
+        30,
+        30
+      ],
+      "expanded": false,
+      "ref": "e2746",
+      "role": "menu",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "bounds": [
+        853,
+        611,
+        30,
+        30
+      ],
+      "ref": "e2747",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        887,
+        611,
+        30,
+        30
+      ],
+      "expanded": false,
+      "ref": "e2748",
+      "role": "menu",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "bounds": [
+        887,
+        611,
+        30,
+        30
+      ],
+      "ref": "e2749",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        36,
+        782,
+        40,
+        40
+      ],
+      "href": "/alice",
+      "ref": "e2750",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        128,
+        742,
+        42,
+        16
+      ],
+      "href": "/alice",
+      "ref": "e2751",
+      "role": null,
+      "tag": "a",
+      "text": "alice"
+    },
+    {
+      "bounds": [
+        103,
+        801,
+        42,
+        16
+      ],
+      "href": "/alice",
+      "ref": "e2752",
+      "role": null,
+      "tag": "a",
+      "text": "alice"
+    },
+    {
+      "bounds": [
+        853,
+        794,
+        30,
+        30
+      ],
+      "expanded": false,
+      "ref": "e2753",
+      "role": "menu",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "bounds": [
+        853,
+        794,
+        30,
+        30
+      ],
+      "ref": "e2754",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        887,
+        794,
+        30,
+        30
+      ],
+      "expanded": false,
+      "ref": "e2755",
+      "role": "menu",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "bounds": [
+        887,
+        794,
+        30,
+        30
+      ],
+      "ref": "e2756",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        102,
+        993,
+        222,
+        40
+      ],
+      "offscreen": true,
+      "ref": "e2757",
+      "role": null,
+      "tag": "button",
+      "text": "Create merge commit"
+    },
+    {
+      "bounds": [
+        144,
+        1056,
+        210,
+        16
+      ],
+      "offscreen": true,
+      "ref": "e2758",
+      "role": null,
+      "tag": "a",
+      "text": "command line instructions"
+    },
+    {
+      "bounds": [
+        36,
+        1121,
+        40,
+        40
+      ],
+      "href": "/alice",
+      "offscreen": true,
+      "ref": "e2759",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        103,
+        1136,
+        68,
+        42
+      ],
+      "offscreen": true,
+      "ref": "e2760",
+      "role": null,
+      "tag": "a",
+      "text": "Write"
+    },
+    {
+      "bounds": [
+        171,
+        1136,
+        85,
+        41
+      ],
+      "offscreen": true,
+      "ref": "e2761",
+      "role": null,
+      "tag": "a",
+      "text": "Preview"
+    },
+    {
+      "aria": "Add heading",
+      "bounds": [
+        103,
+        1192,
+        26,
+        30
+      ],
+      "offscreen": true,
+      "ref": "e2762",
+      "role": "button",
+      "tag": "md-header",
+      "text": "",
+      "title": "Add heading"
+    },
+    {
+      "aria": "Add bold text",
+      "bounds": [
+        129,
+        1192,
+        26,
+        30
+      ],
+      "offscreen": true,
+      "ref": "e2763",
+      "role": "button",
+      "tag": "md-bold",
+      "text": "",
+      "title": "Add bold text"
+    },
+    {
+      "aria": "Add italic text",
+      "bounds": [
+        155,
+        1192,
+        26,
+        30
+      ],
+      "offscreen": true,
+      "ref": "e2764",
+      "role": "button",
+      "tag": "md-italic",
+      "text": "",
+      "title": "Add italic text"
+    },
+    {
+      "aria": "Quote text",
+      "bounds": [
+        188,
+        1192,
+        26,
+        30
+      ],
+      "offscreen": true,
+      "ref": "e2765",
+      "role": "button",
+      "tag": "md-quote",
+      "text": "",
+      "title": "Quote text"
+    },
+    {
+      "aria": "Add code",
+      "bounds": [
+        214,
+        1192,
+        26,
+        30
+      ],
+      "offscreen": true,
+      "ref": "e2766",
+      "role": "button",
+      "tag": "md-code",
+      "text": "",
+      "title": "Add code"
+    },
+    {
+      "aria": "Add a link",
+      "bounds": [
+        240,
+        1192,
+        26,
+        30
+      ],
+      "offscreen": true,
+      "ref": "e2767",
+      "role": "button",
+      "tag": "md-link",
+      "text": "",
+      "title": "Add a link"
+    },
+    {
+      "aria": "Add a bullet list",
+      "bounds": [
+        273,
+        1192,
+        26,
+        30
+      ],
+      "offscreen": true,
+      "ref": "e2768",
+      "role": "button",
+      "tag": "md-unordered-list",
+      "text": "",
+      "title": "Add a bullet list"
+    },
+    {
+      "aria": "Add a numbered list",
+      "bounds": [
+        299,
+        1192,
+        26,
+        30
+      ],
+      "offscreen": true,
+      "ref": "e2769",
+      "role": "button",
+      "tag": "md-ordered-list",
+      "text": "",
+      "title": "Add a numbered list"
+    },
+    {
+      "aria": "Add a list of tasks",
+      "bounds": [
+        325,
+        1192,
+        26,
+        30
+      ],
+      "offscreen": true,
+      "ref": "e2770",
+      "role": "button",
+      "tag": "md-task-list",
+      "text": "",
+      "title": "Add a list of tasks"
+    },
+    {
+      "aria": "Mention a user or team",
+      "bounds": [
+        358,
+        1192,
+        26,
+        30
+      ],
+      "offscreen": true,
+      "ref": "e2771",
+      "role": "button",
+      "tag": "md-mention",
+      "text": "",
+      "title": "Mention a user or team"
+    },
+    {
+      "aria": "Reference an issue or pull request",
+      "bounds": [
+        384,
+        1192,
+        26,
+        30
+      ],
+      "offscreen": true,
+      "ref": "e2772",
+      "role": "button",
+      "tag": "md-ref",
+      "text": "",
+      "title": "Reference an issue or pull request"
+    },
+    {
+      "bounds": [
+        865,
+        1194,
+        26,
+        26
+      ],
+      "offscreen": true,
+      "ref": "e2773",
+      "role": "button",
+      "tag": "button",
+      "text": "",
+      "title": "Enable monospace font",
+      "type": "button"
+    },
+    {
+      "aria": "Use the legacy editor instead",
+      "bounds": [
+        891,
+        1194,
+        26,
+        26
+      ],
+      "offscreen": true,
+      "ref": "e2774",
+      "role": "button",
+      "tag": "button",
+      "text": "",
+      "title": "Use the legacy editor instead",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        103,
+        1232,
+        814,
+        132
+      ],
+      "name": "content",
+      "offscreen": true,
+      "placeholder": "Leave a comment",
+      "ref": "e2775",
+      "role": null,
+      "tag": "textarea",
+      "text": "",
+      "type": "textarea",
+      "value": ""
+    },
+    {
+      "bounds": [
+        363,
+        1390,
+        294,
+        20
+      ],
+      "offscreen": true,
+      "ref": "e2776",
+      "role": null,
+      "tag": "button",
+      "text": "Drop files or click here to upload.",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        607,
+        1436,
+        195,
+        38
+      ],
+      "name": "status",
+      "offscreen": true,
+      "ref": "e2777",
+      "role": null,
+      "tag": "button",
+      "text": "Close Pull Request"
+    },
+    {
+      "bounds": [
+        814,
+        1436,
+        103,
+        38
+      ],
+      "offscreen": true,
+      "ref": "e2778",
+      "role": null,
+      "tag": "button",
+      "text": "Comment"
+    },
+    {
+      "bounds": [
+        963,
+        323,
+        95,
+        16
+      ],
+      "expanded": false,
+      "ref": "e2779",
+      "role": "combobox",
+      "tag": "div",
+      "text": "Reviewers"
+    },
+    {
+      "bounds": [
+        963,
+        323,
+        95,
+        16
+      ],
+      "ref": "e2780",
+      "role": null,
+      "tag": "a",
+      "text": "Reviewers"
+    },
+    {
+      "bounds": [
+        963,
+        362,
+        69,
+        20
+      ],
+      "href": "/alice",
+      "ref": "e2781",
+      "role": null,
+      "tag": "a",
+      "text": "alice"
+    },
+    {
+      "aria": "Dismiss Review",
+      "bounds": [
+        1167,
+        362,
+        20,
+        20
+      ],
+      "href": "/alice/workbench/pulls/1",
+      "ref": "e2782",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Dismiss Review"
+    },
+    {
+      "aria": "Re-request review",
+      "bounds": [
+        1194,
+        362,
+        16,
+        20
+      ],
+      "href": "/alice/workbench/pulls/1",
+      "ref": "e2783",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Re-request review"
+    },
+    {
+      "bounds": [
+        963,
+        405,
+        227,
+        36
+      ],
+      "ref": "e2784",
+      "role": null,
+      "tag": "a",
+      "text": "Still in progress? Add WIP: prefix"
+    },
+    {
+      "bounds": [
+        963,
+        466,
+        78,
+        16
+      ],
+      "expanded": false,
+      "ref": "e2785",
+      "role": "menu",
+      "tag": "div",
+      "text": "Labels"
+    },
+    {
+      "bounds": [
+        963,
+        545,
+        104,
+        16
+      ],
+      "expanded": false,
+      "ref": "e2786",
+      "role": "menu",
+      "tag": "div",
+      "text": "Milestone"
+    },
+    {
+      "bounds": [
+        963,
+        545,
+        104,
+        16
+      ],
+      "ref": "e2787",
+      "role": null,
+      "tag": "a",
+      "text": "Milestone"
+    },
+    {
+      "bounds": [
+        963,
+        624,
+        95,
+        16
+      ],
+      "expanded": false,
+      "ref": "e2788",
+      "role": "menu",
+      "tag": "div",
+      "text": "Projects"
+    },
+    {
+      "bounds": [
+        963,
+        624,
+        95,
+        16
+      ],
+      "ref": "e2789",
+      "role": null,
+      "tag": "a",
+      "text": "Projects"
+    },
+    {
+      "bounds": [
+        963,
+        703,
+        104,
+        16
+      ],
+      "expanded": false,
+      "ref": "e2790",
+      "role": "combobox",
+      "tag": "div",
+      "text": "Assignees"
+    },
+    {
+      "bounds": [
+        963,
+        703,
+        104,
+        16
+      ],
+      "ref": "e2791",
+      "role": null,
+      "tag": "a",
+      "text": "Assignees"
+    },
+    {
+      "aria": "bob",
+      "bounds": [
+        963,
+        814,
+        32,
+        32
+      ],
+      "href": "/bob",
+      "ref": "e2792",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "bob"
+    },
+    {
+      "aria": "alice",
+      "bounds": [
+        995,
+        814,
+        32,
+        32
+      ],
+      "href": "/alice",
+      "ref": "e2793",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "alice"
+    },
+    {
+      "bounds": [
+        963,
+        898,
+        270,
+        40
+      ],
+      "ref": "e2794",
+      "role": null,
+      "tag": "button",
+      "text": "Unsubscribe"
+    },
+    {
+      "aria": "Start Time Tracking",
+      "bounds": [
+        963,
+        986,
+        270,
+        40
+      ],
+      "offscreen": true,
+      "ref": "e2795",
+      "role": null,
+      "tag": "button",
+      "text": "Start Timer",
+      "title": "Start Time Tracking"
+    },
+    {
+      "aria": "Manually Add Time",
+      "bounds": [
+        963,
+        1033,
+        270,
+        40
+      ],
+      "offscreen": true,
+      "ref": "e2796",
+      "role": null,
+      "tag": "button",
+      "text": "Add Time",
+      "title": "Manually Add Time"
+    },
+    {
+      "bounds": [
+        963,
+        1162,
+        230,
+        39
+      ],
+      "name": "deadlineDate",
+      "offscreen": true,
+      "placeholder": "yyyy-mm-dd",
+      "ref": "e2797",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "date",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1193,
+        1162,
+        40,
+        39
+      ],
+      "offscreen": true,
+      "ref": "e2798",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        965,
+        1277,
+        229,
+        36
+      ],
+      "expanded": false,
+      "offscreen": true,
+      "ref": "e2799",
+      "role": "combobox",
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1193,
+        1276,
+        40,
+        40
+      ],
+      "offscreen": true,
+      "ref": "e2800",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1201,
+        1330,
+        36,
+        31
+      ],
+      "offscreen": true,
+      "ref": "e2801",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        963,
+        1375,
+        270,
+        40
+      ],
+      "offscreen": true,
+      "ref": "e2802",
+      "role": null,
+      "tag": "button",
+      "text": "Pin"
+    },
+    {
+      "bounds": [
+        963,
+        1418,
+        270,
+        40
+      ],
+      "offscreen": true,
+      "ref": "e2803",
+      "role": null,
+      "tag": "button",
+      "text": "Lock conversation"
+    },
+    {
+      "bounds": [
+        963,
+        1462,
+        270,
+        40
+      ],
+      "offscreen": true,
+      "ref": "e2804",
+      "role": null,
+      "tag": "button",
+      "text": "Delete"
+    },
+    {
+      "bounds": [
+        20,
+        1606,
+        134,
+        20
+      ],
+      "href": "[external]",
+      "offscreen": true,
+      "ref": "e2805",
+      "role": null,
+      "tag": "a",
+      "text": "Powered by Gitea"
+    },
+    {
+      "bounds": [
+        1063,
+        1608,
+        76,
+        16
+      ],
+      "expanded": false,
+      "offscreen": true,
+      "ref": "e2806",
+      "role": "menu",
+      "tag": "div",
+      "text": "English"
+    },
+    {
+      "bounds": [
+        1145,
+        1606,
+        76,
+        20
+      ],
+      "href": "/assets/licenses.txt",
+      "offscreen": true,
+      "ref": "e2807",
+      "role": null,
+      "tag": "a",
+      "text": "Licenses"
+    },
+    {
+      "bounds": [
+        1226,
+        1606,
+        34,
+        20
+      ],
+      "href": "/api/swagger",
+      "offscreen": true,
+      "ref": "e2808",
+      "role": null,
+      "tag": "a",
+      "text": "API"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    1634
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Issues\nPull Requests\nMilestones\nExplore\n \nalice\n/\nworkbench\nUnwatch\n1\nStar\n0\nFork\n0\nCode\nIssues\nPull Requests\n1\nActions\nPackages\nProjects\nReleases\nWiki\nActivity\nSettings\nReview this change #1\nEdit\nOpen\nbob wants to merge 1 commits from feature \n into main\nConversation\n0\nCommits\n1\nFiles Changed\n1\n+1 -1\nbob commented \nCollaborator\n\nReview body\n\nbob added 1 commit \nProposed change\n6bdaf568ea\nalice requested changes  Dismissed\nalice left a comment\nOwner\n\nPlease fix this change\n\nalice approved these changes \nalice left a comment\nOwner\n\nApproved through UI\n\nThis pull request can be merged automatically.\nThere is no key available to sign this commit.\nCreate merge commit\nView command line instructions.\nWrite\nPreview\nDrop files or click here to upload.\nClose Pull Request Comment\nReviewers\nalice\nStill in progress? Add WIP: prefix\nLabels \nNo Label\nMilestone \nNo Milestone\nProjects \nNo project\nAssignees \nNo Assignees\n2 Participants\nNotifications\nUnsubscribe\nTime Tracker\nStart Timer \nAdd Time\nDue Date\n\nNo due date set.\n\nDependencies\n\n\nNo dependencies set.\n\nAdd dependency…\nReference: alice/workbench#1\nPin\nLock conversation \nDelete\nPowered by Gitea\nPage:\n61ms\nTemplate:\n7ms\nEnglish\nLicenses\nAPI",
+  "text_truncated": false,
+  "title": "#1 - Review this change - workbench - Gitea",
+  "url": "/alice/workbench/pulls/1",
+  "viewport": [
+    1280,
+    900
+  ]
+}

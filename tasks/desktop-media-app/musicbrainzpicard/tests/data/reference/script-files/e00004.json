@@ -1,0 +1,1162 @@
+{
+  "focused": "ecdfe4152",
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        19,
+        1440,
+        881
+      ],
+      "name": "MusicBrainz Picard",
+      "ref": "e6a9823be",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        0,
+        878,
+        1440,
+        22
+      ],
+      "name": "",
+      "ref": "e83a5e4ff",
+      "role": "status bar"
+    },
+    {
+      "bounds": [
+        1026,
+        881,
+        40,
+        17
+      ],
+      "description": "Files",
+      "name": "2",
+      "ref": "e3471e5c6",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1068,
+        881,
+        16,
+        17
+      ],
+      "description": "Files",
+      "name": "",
+      "ref": "e812269e9",
+      "role": "image"
+    },
+    {
+      "bounds": [
+        1086,
+        881,
+        40,
+        17
+      ],
+      "description": "Albums",
+      "name": "0",
+      "ref": "ecfdb1ec8",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1128,
+        881,
+        16,
+        17
+      ],
+      "description": "Albums",
+      "name": "",
+      "ref": "e1fdbc77e",
+      "role": "image"
+    },
+    {
+      "bounds": [
+        1146,
+        881,
+        40,
+        17
+      ],
+      "description": "Pending files",
+      "name": "0",
+      "ref": "e65e4ae1b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1188,
+        881,
+        16,
+        17
+      ],
+      "description": "Pending files",
+      "name": "",
+      "ref": "e70ed6631",
+      "role": "image"
+    },
+    {
+      "bounds": [
+        1206,
+        881,
+        40,
+        17
+      ],
+      "description": "Pending requests",
+      "name": "0",
+      "ref": "ea9f90825",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1248,
+        881,
+        16,
+        17
+      ],
+      "description": "Pending requests",
+      "name": "",
+      "ref": "ed5fe1b11",
+      "role": "image"
+    },
+    {
+      "bounds": [
+        1266,
+        881,
+        16,
+        16
+      ],
+      "description": "Stop all pending network requests",
+      "name": "",
+      "ref": "e0dd5a1f6",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1288,
+        881,
+        151,
+        17
+      ],
+      "description": "<qt/>Picard listens on this port to integrate with your browser. When you \"Search\" or \"Open in Browser\" from Picard, clicking the \"Tagger\" button on the web page loads the release into Picard.",
+      "name": "Listening on port 8000",
+      "ref": "e7365409f",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        868,
+        38,
+        572,
+        57
+      ],
+      "name": "Search",
+      "ref": "ef5bf7335",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        890,
+        55,
+        68,
+        22
+      ],
+      "name": "Album",
+      "ref": "ea22fb109",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        964,
+        55,
+        427,
+        22
+      ],
+      "name": "",
+      "ref": "ebbde115f",
+      "role": "text",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        1397,
+        52,
+        30,
+        29
+      ],
+      "name": "Search",
+      "ref": "ed405a9a3",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        38,
+        868,
+        57
+      ],
+      "name": "Actions",
+      "ref": "ef963e335",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        13,
+        42,
+        81,
+        49
+      ],
+      "name": "Add Folder",
+      "ref": "e1e37dda4",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        95,
+        42,
+        70,
+        49
+      ],
+      "name": "Add Files",
+      "ref": "ed0620207",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        173,
+        42,
+        59,
+        49
+      ],
+      "name": "Cluster",
+      "ref": "ecc0529c0",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        240,
+        42,
+        59,
+        49
+      ],
+      "description": "Lookup selected items in MusicBrainz",
+      "name": "Lookup",
+      "ref": "e0ea4562b",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        300,
+        42,
+        46,
+        49
+      ],
+      "description": "Identify the file using its AcoustID audio fingerprint",
+      "name": "Scan",
+      "ref": "e5926981d",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        347,
+        42,
+        126,
+        49
+      ],
+      "name": "Lookup in Browser",
+      "ref": "e1861d69a",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        481,
+        42,
+        46,
+        49
+      ],
+      "name": "Save",
+      "ref": "e47e8f1c1",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        528,
+        42,
+        39,
+        49
+      ],
+      "name": "Info",
+      "ref": "ea5d2fc2a",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        568,
+        42,
+        65,
+        49
+      ],
+      "name": "Remove",
+      "ref": "e6de37ef0",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        641,
+        42,
+        93,
+        49
+      ],
+      "name": "Lookup CD",
+      "ref": "e79b531f9",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        742,
+        42,
+        122,
+        49
+      ],
+      "name": "Submit AcoustIDs",
+      "ref": "e0615c02c",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1440,
+        19
+      ],
+      "name": "",
+      "ref": "ecbd86de2",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        6,
+        19,
+        29,
+        19
+      ],
+      "name": "File",
+      "ref": "ed747fc52",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        41,
+        19,
+        32,
+        19
+      ],
+      "name": "Edit",
+      "ref": "e03966ba8",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        79,
+        19,
+        37,
+        19
+      ],
+      "name": "View",
+      "ref": "ec0f2425e",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        122,
+        19,
+        55,
+        19
+      ],
+      "name": "Options",
+      "ref": "e49fa5ef3",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        183,
+        19,
+        38,
+        19
+      ],
+      "name": "Tools",
+      "ref": "e3512da74",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        227,
+        19,
+        36,
+        19
+      ],
+      "name": "Help",
+      "ref": "e6ec9a1eb",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        0,
+        95,
+        1440,
+        783
+      ],
+      "name": "",
+      "ref": "e2b952707",
+      "role": "split pane"
+    },
+    {
+      "bounds": [
+        0,
+        608,
+        1294,
+        270
+      ],
+      "description": "Displays original and new tags for the selected files",
+      "name": "metadata view",
+      "ref": "ee2dae8b8",
+      "role": "table"
+    },
+    {
+      "bounds": [
+        0,
+        608,
+        212,
+        18
+      ],
+      "name": "Tag",
+      "ref": "ee84e3114",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        212,
+        608,
+        211,
+        18
+      ],
+      "name": "Original Value",
+      "ref": "ecb3f4ad7",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        423,
+        608,
+        871,
+        18
+      ],
+      "name": "New Value",
+      "ref": "e0cf8eff6",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        1303,
+        637,
+        128,
+        128
+      ],
+      "name": "",
+      "ref": "e96391d6f",
+      "role": "image"
+    },
+    {
+      "bounds": [
+        1303,
+        617,
+        128,
+        14
+      ],
+      "name": "",
+      "ref": "e6d79bdbd",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1303,
+        771,
+        128,
+        14
+      ],
+      "name": "",
+      "ref": "e1e2db81e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        0,
+        95,
+        1440,
+        509
+      ],
+      "name": "",
+      "ref": "e8ad9c7ad",
+      "role": "split pane"
+    },
+    {
+      "bounds": [
+        722,
+        95,
+        718,
+        509
+      ],
+      "description": "Contains albums and matched files",
+      "name": "Album view",
+      "ref": "e04f65cee",
+      "role": "tree"
+    },
+    {
+      "bounds": [
+        723,
+        96,
+        250,
+        18
+      ],
+      "name": "Title",
+      "ref": "eebed8d29",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        973,
+        96,
+        50,
+        18
+      ],
+      "name": "Length",
+      "ref": "eb1063d3c",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        1023,
+        96,
+        200,
+        18
+      ],
+      "name": "Artist",
+      "ref": "e032cb652",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        1223,
+        96,
+        216,
+        18
+      ],
+      "name": "Match",
+      "ref": "e8d60abf3",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        0,
+        95,
+        718,
+        509
+      ],
+      "description": "Contains unmatched files and clusters",
+      "name": "File view",
+      "ref": "e82b2b8cb",
+      "role": "tree"
+    },
+    {
+      "bounds": [
+        1,
+        96,
+        250,
+        18
+      ],
+      "name": "Title",
+      "ref": "e1a68a83b",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        251,
+        96,
+        50,
+        18
+      ],
+      "name": "Length",
+      "ref": "e34a3e0f3",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        301,
+        96,
+        416,
+        18
+      ],
+      "name": "Artist",
+      "ref": "e18b2be6d",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        21,
+        114,
+        230,
+        18
+      ],
+      "name": "Unclustered Files (2)",
+      "ref": "e53ecf167",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        251,
+        114,
+        50,
+        18
+      ],
+      "name": "",
+      "ref": "ea6ed60bc",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        301,
+        114,
+        416,
+        18
+      ],
+      "name": "",
+      "ref": "e80ecc968",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        41,
+        132,
+        210,
+        18
+      ],
+      "name": "Script One",
+      "ref": "ed5e863ba",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        251,
+        132,
+        50,
+        18
+      ],
+      "name": "0:01",
+      "ref": "ec5782ae2",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        301,
+        132,
+        416,
+        18
+      ],
+      "name": "",
+      "ref": "e7486a66d",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        41,
+        150,
+        210,
+        18
+      ],
+      "name": "Script Two",
+      "ref": "e26c7d060",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        251,
+        150,
+        50,
+        18
+      ],
+      "name": "0:01",
+      "ref": "ed68251d2",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        301,
+        150,
+        416,
+        18
+      ],
+      "name": "",
+      "ref": "ea1ddab0a",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        21,
+        168,
+        230,
+        18
+      ],
+      "name": "Clusters (0)",
+      "ref": "eb0d649d7",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        251,
+        168,
+        50,
+        18
+      ],
+      "name": "",
+      "ref": "e87998558",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        301,
+        168,
+        416,
+        18
+      ],
+      "name": "",
+      "ref": "e83e73b13",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        269,
+        93,
+        902,
+        729
+      ],
+      "name": "File naming script editor",
+      "ref": "e5d6c261f",
+      "role": "dialog"
+    },
+    {
+      "bounds": [
+        278,
+        118,
+        884,
+        665
+      ],
+      "name": "",
+      "ref": "e5430a3c5",
+      "role": "split pane"
+    },
+    {
+      "bounds": [
+        278,
+        633,
+        884,
+        150
+      ],
+      "name": "Files will be named like this:",
+      "ref": "e499263f4",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        284,
+        656,
+        872,
+        121
+      ],
+      "name": "Files will be named like this:",
+      "ref": "e55904c80",
+      "role": "split pane"
+    },
+    {
+      "bounds": [
+        722,
+        656,
+        434,
+        14
+      ],
+      "name": "After",
+      "ref": "e84b88dd2",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        722,
+        673,
+        434,
+        104
+      ],
+      "name": "",
+      "ref": "e874c36fa",
+      "role": "list"
+    },
+    {
+      "bounds": [
+        723,
+        674,
+        432,
+        14
+      ],
+      "name": "Renaming options are disabled",
+      "ref": "e4052e58f",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        284,
+        656,
+        434,
+        14
+      ],
+      "name": "Before",
+      "ref": "eb3a03f6b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        284,
+        673,
+        434,
+        104
+      ],
+      "name": "",
+      "ref": "e9af54f9a",
+      "role": "list"
+    },
+    {
+      "bounds": [
+        285,
+        674,
+        432,
+        14
+      ],
+      "name": "Renaming options are disabled",
+      "ref": "e1097f91f",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        278,
+        121,
+        136,
+        22
+      ],
+      "name": "Edit file naming script:",
+      "ref": "ef2403cff",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        420,
+        121,
+        742,
+        22
+      ],
+      "description": "Select the file naming script to load into the editor",
+      "name": "Shared naming",
+      "ref": "ebbcdcf97",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        278,
+        149,
+        884,
+        460
+      ],
+      "name": "",
+      "ref": "e1c033612",
+      "role": "split pane"
+    },
+    {
+      "bounds": [
+        278,
+        149,
+        30,
+        22
+      ],
+      "name": "Title:",
+      "ref": "ec4a537f3",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        314,
+        149,
+        848,
+        22
+      ],
+      "name": "",
+      "ref": "e159a6d75",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "Shared naming"
+    },
+    {
+      "bounds": [
+        278,
+        177,
+        884,
+        432
+      ],
+      "name": "",
+      "ref": "e04abbba4",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "%album%/$num(%tracknumber%,2) %title%"
+    },
+    {
+      "bounds": [
+        278,
+        615,
+        884,
+        14
+      ],
+      "name": "",
+      "ref": "ecb8fccc8",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        278,
+        789,
+        80,
+        24
+      ],
+      "description": "Reset all scripts to the saved values",
+      "name": "Reset",
+      "ref": "e371f81b9",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        888,
+        789,
+        102,
+        24
+      ],
+      "description": "Save changes to the script settings and exit",
+      "name": "Make It So!",
+      "ref": "eb5256819",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        996,
+        789,
+        80,
+        24
+      ],
+      "description": "Close the script editor without saving changes",
+      "name": "Cancel",
+      "ref": "eb9a17ceb",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1082,
+        789,
+        80,
+        24
+      ],
+      "name": "Help",
+      "ref": "e4f24ffe5",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        269,
+        93,
+        902,
+        19
+      ],
+      "name": "",
+      "ref": "ed67f492c",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        275,
+        93,
+        29,
+        19
+      ],
+      "name": "File",
+      "ref": "eb605e87e",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        310,
+        93,
+        43,
+        19
+      ],
+      "name": "Script",
+      "ref": "e61d0ec00",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        359,
+        93,
+        37,
+        19
+      ],
+      "name": "View",
+      "ref": "e91c2ec4d",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        402,
+        93,
+        36,
+        19
+      ],
+      "name": "Help",
+      "ref": "ee48f799a",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        470,
+        410,
+        500,
+        100
+      ],
+      "name": "Export Script",
+      "ref": "e838c966c",
+      "role": "alert",
+      "states": [
+        "active"
+      ]
+    },
+    {
+      "bounds": [
+        481,
+        421,
+        48,
+        48
+      ],
+      "name": "",
+      "ref": "e63633f7c",
+      "role": "image"
+    },
+    {
+      "bounds": [
+        548,
+        421,
+        411,
+        28
+      ],
+      "name": "Script successfully exported to /app/candidate-state/session/instance/files/outputs/shared-naming.ptsp",
+      "ref": "e4823ec17",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        879,
+        475,
+        80,
+        24
+      ],
+      "name": "OK",
+      "ref": "ecdfe4152",
+      "role": "push button",
+      "states": [
+        "focused"
+      ]
+    }
+  ],
+  "screen": [
+    1440,
+    900
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": false,
+      "bounds": [
+        0,
+        38,
+        1440,
+        881
+      ],
+      "ref": "wb4132fcb",
+      "title": "MusicBrainz Picard"
+    },
+    {
+      "active": false,
+      "bounds": [
+        270,
+        113,
+        902,
+        729
+      ],
+      "ref": "wd1a5b7dd",
+      "title": "File naming script editor"
+    },
+    {
+      "active": true,
+      "bounds": [
+        471,
+        430,
+        500,
+        100
+      ],
+      "ref": "w27fe39a5",
+      "title": "Export Script"
+    }
+  ]
+}

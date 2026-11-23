@@ -1,0 +1,563 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        376,
+        77,
+        904,
+        823
+      ],
+      "ref": "canvas0",
+      "tag": "svg"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        0,
+        9,
+        82,
+        53
+      ],
+      "ref": "e75fe0e2a",
+      "tag": "a"
+    },
+    {
+      "bounds": [
+        1140,
+        16,
+        112,
+        36
+      ],
+      "ref": "eed4bab7b",
+      "tag": "button",
+      "text": "Share"
+    },
+    {
+      "bounds": [
+        0,
+        88,
+        32,
+        32
+      ],
+      "disabled": true,
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        36,
+        85,
+        90,
+        37
+      ],
+      "ref": "e1fbb9fdf",
+      "role": "tab",
+      "selected": true,
+      "tag": "div",
+      "text": "Tables (2)"
+    },
+    {
+      "bounds": [
+        134,
+        85,
+        84,
+        37
+      ],
+      "ref": "ed8ae1a6e",
+      "role": "tab",
+      "selected": false,
+      "tag": "div",
+      "text": "Views (0)"
+    },
+    {
+      "bounds": [
+        226,
+        85,
+        112,
+        37
+      ],
+      "ref": "ea3347fc6",
+      "role": "tab",
+      "selected": false,
+      "tag": "div",
+      "text": "Relationships (1)"
+    },
+    {
+      "bounds": [
+        342,
+        88,
+        32,
+        32
+      ],
+      "ref": "ea0fc21fdx2",
+      "tag": "button"
+    },
+    {
+      "aria": "TreeSelect",
+      "bounds": [
+        8,
+        135,
+        238,
+        32
+      ],
+      "expanded": false,
+      "ref": "e999b5ea4",
+      "role": "combobox",
+      "tag": "div",
+      "text": "Search...",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        254,
+        135,
+        112,
+        32
+      ],
+      "ref": "ede343483",
+      "tag": "button",
+      "text": "Add table"
+    },
+    {
+      "bounds": [
+        8,
+        171,
+        358,
+        48
+      ],
+      "ref": "efdf82042",
+      "role": "button",
+      "tag": "div",
+      "text": "shelves"
+    },
+    {
+      "bounds": [
+        16,
+        171,
+        342,
+        43
+      ],
+      "expanded": false,
+      "ref": "efdf82042x2",
+      "role": "button",
+      "tag": "div",
+      "text": "shelves"
+    },
+    {
+      "bounds": [
+        302,
+        181,
+        24,
+        24
+      ],
+      "ref": "ea0fc21fdx3",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        8,
+        223,
+        358,
+        48
+      ],
+      "ref": "e274219ce",
+      "role": "button",
+      "tag": "div",
+      "text": "jars"
+    },
+    {
+      "bounds": [
+        16,
+        223,
+        342,
+        43
+      ],
+      "expanded": false,
+      "ref": "e274219cex2",
+      "role": "button",
+      "tag": "div",
+      "text": "jars"
+    },
+    {
+      "bounds": [
+        302,
+        233,
+        24,
+        24
+      ],
+      "ref": "ea0fc21fdx4",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        20,
+        825,
+        29,
+        16
+      ],
+      "ref": "ed1270855",
+      "tag": "div",
+      "text": "2",
+      "title": "Tables"
+    },
+    {
+      "bounds": [
+        61,
+        824,
+        31,
+        18
+      ],
+      "ref": "e76f83114",
+      "tag": "div",
+      "text": "1",
+      "title": "Relationships"
+    },
+    {
+      "bounds": [
+        217,
+        823,
+        83,
+        20
+      ],
+      "ref": "e2152f4c5",
+      "tag": "button",
+      "text": "Structure"
+    },
+    {
+      "bounds": [
+        299,
+        823,
+        61,
+        20
+      ],
+      "ref": "e7cfe6d9f",
+      "tag": "button",
+      "text": "Code"
+    },
+    {
+      "bounds": [
+        8,
+        855,
+        358,
+        40
+      ],
+      "expanded": false,
+      "ref": "ef121d4d8",
+      "role": "button",
+      "tag": "div",
+      "text": "Problems 0"
+    },
+    {
+      "bounds": [
+        892,
+        595,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx5",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        892,
+        632,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx6",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        892,
+        764,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx7",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        892,
+        801,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx8",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        892,
+        838,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx9",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        892,
+        875,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx10",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        549,
+        842,
+        34,
+        36
+      ],
+      "ref": "ea0fc21fdx11",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        655,
+        842,
+        34,
+        36
+      ],
+      "ref": "ea0fc21fdx12",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        706,
+        846,
+        36,
+        28
+      ],
+      "disabled": true,
+      "ref": "ea0fc21fdx13",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        742,
+        846,
+        36,
+        28
+      ],
+      "disabled": true,
+      "ref": "ea0fc21fdx14",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        795,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx15",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        837,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx16",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        879,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx17",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        921,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx18",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        980,
+        841,
+        39,
+        36
+      ],
+      "ref": "ea0fc21fdx19",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1036,
+        844,
+        40,
+        32
+      ],
+      "ref": "ea0fc21fdx20",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1093,
+        841,
+        34,
+        36
+      ],
+      "ref": "ea0fc21fdx21",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1144,
+        841,
+        36,
+        36
+      ],
+      "ref": "ea0fc21fdx22",
+      "tag": "button"
+    },
+    {
+      "aria": "close",
+      "bounds": [
+        891,
+        238,
+        24,
+        24
+      ],
+      "ref": "e6d9e3d30",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        365,
+        286,
+        71,
+        52
+      ],
+      "ref": "ee34f9b6e",
+      "role": "tab",
+      "selected": false,
+      "tag": "div",
+      "text": "Insert SQL"
+    },
+    {
+      "bounds": [
+        460,
+        286,
+        80,
+        52
+      ],
+      "ref": "e32651eea",
+      "role": "tab",
+      "selected": true,
+      "tag": "div",
+      "text": "Upload file"
+    },
+    {
+      "bounds": [
+        365,
+        344,
+        550,
+        97
+      ],
+      "ref": "e3af779b9",
+      "role": "button",
+      "tag": "div",
+      "text": "Drag and drop the file here or click to upload. Upload an sql file to autogenerate your tables and columns."
+    },
+    {
+      "bounds": [
+        365,
+        449,
+        250,
+        52
+      ],
+      "ref": "e9b4e1639",
+      "role": "listitem",
+      "tag": "div",
+      "text": "pantry.sql 0.25KB"
+    },
+    {
+      "bounds": [
+        365,
+        530,
+        550,
+        20
+      ],
+      "ref": "e6978dab1",
+      "tag": "span",
+      "text": "Overwrite existing diagram"
+    },
+    {
+      "aria": "Close",
+      "bounds": [
+        879,
+        570,
+        24,
+        24
+      ],
+      "ref": "efe3f1050",
+      "tag": "button"
+    },
+    {
+      "aria": "cancel",
+      "bounds": [
+        766,
+        630,
+        70,
+        32
+      ],
+      "ref": "eb8274f71",
+      "tag": "button",
+      "text": "Cancel"
+    },
+    {
+      "aria": "confirm",
+      "bounds": [
+        847,
+        630,
+        68,
+        32
+      ],
+      "disabled": true,
+      "ref": "e147162b2",
+      "tag": "button",
+      "text": "Import"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "inputs": [
+    "clinic.sql",
+    "gui-library.json",
+    "gui-shop.json",
+    "inventory.dbml",
+    "pantry.sql",
+    "tickets.sql",
+    "unclosed.dbml",
+    "unfinished.sql"
+  ],
+  "text": "Diagrams\n/\nUntitled Diagram\nFile\nEdit\nView\nSettings\nHelp\nLast saved 11/1/2026, 10:31:28 AM\nfk_jars_shelf_id_shelves\nn\n1\nshelves\nid\n?\nINT\nlabel\nTEXT\njars\nid\n?\nINT\nshelf_id\nINT\ncontent\n?\nTEXT\nfilled\n?\nDATE\n100\n%\nImport from SQL\nPlease check for syntax errors or let us know about the error.",
+  "text_truncated": false,
+  "title": "Editor | drawDB",
+  "url": "/editor/diagrams/51c75165-7e41-43f9-9180-9e07d6398268",
+  "viewport": [
+    1280,
+    900
+  ]
+}

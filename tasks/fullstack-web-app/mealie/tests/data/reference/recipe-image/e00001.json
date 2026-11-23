@@ -1,0 +1,193 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        643,
+        105,
+        48,
+        24
+      ],
+      "ref": "e11102633781375530811",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        547,
+        129,
+        48,
+        24
+      ],
+      "ref": "e11102632681863902600",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        392,
+        440,
+        532,
+        56
+      ],
+      "focused": true,
+      "label": "Email or Username",
+      "name": "username",
+      "ref": "e10267044418585303267",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "changeme@example.com"
+    },
+    {
+      "bounds": [
+        392,
+        518,
+        496,
+        56
+      ],
+      "label": "Password",
+      "name": "password",
+      "ref": "e2101313251791071638",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": "[password]"
+    },
+    {
+      "aria": "Password appended action",
+      "bounds": [
+        888,
+        534,
+        24,
+        24
+      ],
+      "ref": "e1573464404012589240",
+      "role": "button",
+      "tag": "i",
+      "text": ""
+    },
+    {
+      "aria": "Remember Me",
+      "bounds": [
+        404,
+        588,
+        107,
+        56
+      ],
+      "checked": true,
+      "label": "Remember Me",
+      "proxy": true,
+      "ref": "e17650823611954630559",
+      "role": null,
+      "tag": "input",
+      "text": "Remember Me",
+      "type": "checkbox",
+      "value": "true"
+    },
+    {
+      "bounds": [
+        490,
+        666,
+        300,
+        44
+      ],
+      "ref": "e6675278836912681986",
+      "role": null,
+      "tag": "button",
+      "text": "Login"
+    },
+    {
+      "bounds": [
+        535,
+        742,
+        83,
+        36
+      ],
+      "disabled": true,
+      "ref": "e9225420560449903306",
+      "role": null,
+      "tag": "button",
+      "text": "Invite Only",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        626,
+        742,
+        119,
+        36
+      ],
+      "href": "/forgot-password",
+      "ref": "e14203050137992145100",
+      "role": null,
+      "tag": "a",
+      "text": "Reset Password"
+    },
+    {
+      "bounds": [
+        494,
+        802,
+        107,
+        36
+      ],
+      "href": "[external]",
+      "ref": "e1752869199655801412",
+      "role": null,
+      "tag": "a",
+      "text": "Sponsor"
+    },
+    {
+      "bounds": [
+        601,
+        802,
+        98,
+        36
+      ],
+      "href": "[external]",
+      "ref": "e3241515861269925207",
+      "role": null,
+      "tag": "a",
+      "text": "GitHub"
+    },
+    {
+      "bounds": [
+        699,
+        802,
+        86,
+        36
+      ],
+      "href": "[external]",
+      "ref": "e17718561554466260587",
+      "role": null,
+      "tag": "a",
+      "text": "Docs"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "inputs": [
+    "soup.png"
+  ],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "It looks like this is your first time logging in.\n\nUsername: changeme@example.com \n\nPassword: MyPassword \n\nDon't want to see this anymore? Be sure to change your email in your user settings!\n\nMealie\nSign in\nEmail or Username\nPassword\nRemember Me\nLogin\nInvite Only\nReset Password\nSponsor\nGitHub\nDocs",
+  "text_truncated": false,
+  "title": "Login",
+  "url": "/login/",
+  "viewport": [
+    1280,
+    900
+  ]
+}

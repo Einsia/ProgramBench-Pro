@@ -1,0 +1,107 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        0,
+        1182,
+        203
+      ],
+      "ref": "e7826d580",
+      "tag": "div",
+      "text": "Click to select a file or drag and drop Multiple PDF files (at least 2) Your files never leave your device."
+    },
+    {
+      "bounds": [
+        1203,
+        233,
+        16,
+        16
+      ],
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        49,
+        487,
+        1182,
+        38
+      ],
+      "checked": true,
+      "label": "Keep original page labels from each file Off (default): the merged PDF uses natural page numbering 1–N. On: each file's",
+      "ref": "ece16a9c0",
+      "tag": "label",
+      "text": "Keep original page labels from each file Off (default): the merged PDF uses natural page numbering 1–N. On: each file's original page labels are preserved (may produce duplicate labels).",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        49,
+        557,
+        1182,
+        48
+      ],
+      "ref": "ea26e15f6",
+      "tag": "button",
+      "text": "Mix Pages"
+    },
+    {
+      "bounds": [
+        473,
+        472,
+        334,
+        40
+      ],
+      "ref": "e2a50e308",
+      "tag": "button",
+      "text": "OK"
+    },
+    {
+      "bounds": [
+        1170,
+        809,
+        94,
+        34
+      ],
+      "expanded": false,
+      "ref": "ebda396fc",
+      "tag": "button",
+      "text": "English"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "alternated-mixed.pdf",
+      "ref": "dc11842a204cc",
+      "size": 5221
+    }
+  ],
+  "inputs": [
+    "chapter-a.pdf",
+    "chapter-b.pdf",
+    "labels.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›Alternate & Mix Pages\nAlternate & Mix Pages\n\nMerge PDFs by alternating pages from each PDF. Preserves Bookmarks.\n\nClick to select a file or drag and drop\n\nMultiple PDF files (at least 2)\n\nYour files never leave your device.\n\n2 PDF files selected\nFiles Order\n\nDrag to reorder. Pages will be interleaved in this order.\n\nlabels.pdf\n3.7 KB • 4 pages\nchapter-b.pdf\n2.9 KB • 2 pages\nKeep original page labels from each file\nOff (default): the merged PDF uses natural page numbering 1–N. On: each file's original page labels are preserved (may produce duplicate labels).\nMix Pages\nSuccess\n\nPDFs have been mixed successfully!\n\nOK\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/alternate-merge.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

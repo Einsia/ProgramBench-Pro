@@ -1,0 +1,1175 @@
+{
+  "focused": "e68e70d3f",
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        1024
+      ],
+      "name": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),",
+      "ref": "e93ed40b7",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        25
+      ],
+      "name": "",
+      "ref": "e37b0c28a",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        39,
+        25
+      ],
+      "name": "File",
+      "ref": "eae5e7196",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        39,
+        19,
+        75,
+        25
+      ],
+      "name": "Accounts",
+      "ref": "ecb5893cc",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        114,
+        19,
+        49,
+        25
+      ],
+      "name": "Tools",
+      "ref": "ec5eeafb2",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        163,
+        19,
+        48,
+        25
+      ],
+      "name": "View",
+      "ref": "eb0ba3d40",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        211,
+        19,
+        46,
+        25
+      ],
+      "name": "Help",
+      "ref": "ef594ac36",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        1,
+        105,
+        200,
+        896
+      ],
+      "description": "Scheduled Transactions",
+      "name": "",
+      "ref": "e469ef34c",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        1,
+        995,
+        200,
+        6
+      ],
+      "name": "",
+      "ref": "ef36204a0",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        210,
+        90,
+        303,
+        19
+      ],
+      "name": "Account View: Everyday Checking",
+      "ref": "e49d5bef7",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        215,
+        116,
+        293,
+        17
+      ],
+      "name": "Account Bal: $2500.00     Filtered Flow: $0.00",
+      "ref": "ed087e60e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        228,
+        160,
+        232,
+        34
+      ],
+      "name": "Review quarter",
+      "ref": "e4780f7fb",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        470,
+        160,
+        75,
+        34
+      ],
+      "name": "",
+      "ref": "e8461f29a",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "01/01/26"
+    },
+    {
+      "bounds": [
+        578,
+        160,
+        75,
+        34
+      ],
+      "name": "",
+      "ref": "e6c4015a2",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "03/31/26"
+    },
+    {
+      "bounds": [
+        686,
+        160,
+        182,
+        34
+      ],
+      "name": "Filter…",
+      "ref": "e25674430",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        870,
+        164,
+        18,
+        26
+      ],
+      "description": "Reset filter",
+      "name": "",
+      "ref": "eaab53f36",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        910,
+        160,
+        34,
+        34
+      ],
+      "description": "Click to show scheduled transactions. This feature works best with filter choices that extend into the future (e.g., Current Month).",
+      "name": "",
+      "ref": "e820caca7",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        964,
+        168,
+        159,
+        17
+      ],
+      "name": "Sorted by:  Date ▲ / ID ▲",
+      "ref": "e0d9e0696",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1246,
+        164,
+        18,
+        26
+      ],
+      "description": "Reconcile",
+      "name": "",
+      "ref": "e0e5f9013",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        209,
+        889,
+        1069,
+        6
+      ],
+      "name": "",
+      "ref": "ebb2474a5",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        486,
+        901,
+        85,
+        34
+      ],
+      "description": "Delete all selected transactions",
+      "name": "Delete",
+      "ref": "eca189d0d",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        210,
+        901,
+        85,
+        34
+      ],
+      "description": "New Transaction",
+      "name": "New",
+      "ref": "e6532e991",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        297,
+        901,
+        85,
+        34
+      ],
+      "description": "Edit all selected transactions",
+      "name": "Edit",
+      "ref": "e8893bccc",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        384,
+        901,
+        100,
+        34
+      ],
+      "description": "Duplicate selected transaction",
+      "name": "Duplicate",
+      "ref": "eaf10e85f",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        573,
+        901,
+        85,
+        34
+      ],
+      "description": "Enter Next Scheduled Transaction Occurrence",
+      "name": "Enter",
+      "ref": "e8efc1548",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        660,
+        901,
+        85,
+        34
+      ],
+      "description": "Skip Next Scheduled Transaction Occurrence",
+      "name": "Skip",
+      "ref": "ef1b879e6",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        747,
+        901,
+        30,
+        34
+      ],
+      "description": "Open attachments",
+      "name": "",
+      "ref": "e1be4572e",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        783,
+        902,
+        246,
+        34
+      ],
+      "description": "Enter any string to find it in the nearest transaction data\n\nTip: Wildcard characters such as the question mark (?) and the asterisk (*) can be used in search criteria.\nThe question mark (?) is used t",
+      "name": "Search",
+      "ref": "e13af45b1",
+      "role": "text",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        792,
+        911,
+        16,
+        16
+      ],
+      "name": "edit-find-symbolic",
+      "ref": "e32b24130",
+      "role": "icon",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1035,
+        906,
+        242,
+        31
+      ],
+      "name": "",
+      "ref": "e36d72781",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        210,
+        939,
+        1067,
+        60
+      ],
+      "description": "Click to copy to clipboard",
+      "name": "",
+      "ref": "efc4c7278",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        390,
+        162,
+        500,
+        700
+      ],
+      "name": "Manage checking date ranges",
+      "ref": "e5e165d1c",
+      "role": "frame",
+      "states": [
+        "active",
+        "modal"
+      ]
+    },
+    {
+      "bounds": [
+        407,
+        198,
+        360,
+        589
+      ],
+      "name": "",
+      "ref": "e764c770d",
+      "role": "table"
+    },
+    {
+      "bounds": [
+        409,
+        199,
+        203,
+        21
+      ],
+      "name": "All to week",
+      "ref": "e7562ca9e",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        616,
+        199,
+        149,
+        21
+      ],
+      "name": "A .. W",
+      "ref": "e10c15a2d",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        409,
+        222,
+        203,
+        21
+      ],
+      "name": "All to month",
+      "ref": "e0e43611f",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        616,
+        222,
+        149,
+        21
+      ],
+      "name": "A .. M",
+      "ref": "eb9236ac0",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        409,
+        245,
+        203,
+        21
+      ],
+      "name": "All to year",
+      "ref": "e28314d85",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        616,
+        245,
+        149,
+        21
+      ],
+      "name": "A .. Y",
+      "ref": "efc9be06d",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        409,
+        268,
+        203,
+        21
+      ],
+      "name": "Current year",
+      "ref": "e3242561a",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        616,
+        268,
+        149,
+        21
+      ],
+      "name": "Y",
+      "ref": "e09b730e1",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        409,
+        291,
+        203,
+        21
+      ],
+      "name": "Current financial year",
+      "ref": "ece5ea4ea",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        616,
+        291,
+        149,
+        21
+      ],
+      "name": "Y F",
+      "ref": "e9271de11",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        409,
+        314,
+        203,
+        21
+      ],
+      "name": "Current quarter",
+      "ref": "e139d9ba9",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        616,
+        314,
+        149,
+        21
+      ],
+      "name": "Q",
+      "ref": "e8bd456dd",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        409,
+        337,
+        203,
+        21
+      ],
+      "name": "Current month",
+      "ref": "ebec72562",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        616,
+        337,
+        149,
+        21
+      ],
+      "name": "M",
+      "ref": "e14e210d9",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        409,
+        360,
+        203,
+        21
+      ],
+      "name": "Current week",
+      "ref": "e7dc41cab",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        616,
+        360,
+        149,
+        21
+      ],
+      "name": "W",
+      "ref": "e874b298d",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        409,
+        383,
+        203,
+        21
+      ],
+      "name": "Today",
+      "ref": "e15f661c1",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        616,
+        383,
+        149,
+        21
+      ],
+      "name": "T",
+      "ref": "eaf54a5fa",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        409,
+        406,
+        203,
+        21
+      ],
+      "name": "From statement",
+      "ref": "e047118c9",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        616,
+        406,
+        149,
+        21
+      ],
+      "name": "S .. A",
+      "ref": "e54da2b0a",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        409,
+        429,
+        203,
+        21
+      ],
+      "name": "==== More date ranges…",
+      "ref": "e481cd28b",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        616,
+        429,
+        149,
+        21
+      ],
+      "name": "========",
+      "ref": "ef3a8c4b8",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        409,
+        452,
+        203,
+        21
+      ],
+      "name": "From current year to week",
+      "ref": "e489fc69e",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        616,
+        452,
+        149,
+        21
+      ],
+      "name": "Y .. W",
+      "ref": "e44bd3e62",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        409,
+        475,
+        203,
+        21
+      ],
+      "name": "From current year to month",
+      "ref": "efd41efd9",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        616,
+        475,
+        149,
+        21
+      ],
+      "name": "Y .. M",
+      "ref": "eeba1cf90",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        409,
+        498,
+        203,
+        21
+      ],
+      "name": "From current month to week",
+      "ref": "ebe93d174",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        616,
+        498,
+        149,
+        21
+      ],
+      "name": "M .. W",
+      "ref": "efd208305",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        409,
+        521,
+        203,
+        21
+      ],
+      "name": "Previous year",
+      "ref": "efb45c39f",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        616,
+        521,
+        149,
+        21
+      ],
+      "name": "-1 Y",
+      "ref": "ec1bedf77",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        409,
+        544,
+        203,
+        21
+      ],
+      "name": "Previous month",
+      "ref": "edc37f98a",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        616,
+        544,
+        149,
+        21
+      ],
+      "name": "-1 M",
+      "ref": "e0c075492",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        409,
+        567,
+        203,
+        21
+      ],
+      "name": "Previous week",
+      "ref": "e75f8ac3e",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        616,
+        567,
+        149,
+        21
+      ],
+      "name": "-1 W",
+      "ref": "e822630ac",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        409,
+        590,
+        203,
+        21
+      ],
+      "name": "From previous year",
+      "ref": "ea6fcaafc",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        616,
+        590,
+        149,
+        21
+      ],
+      "name": "-1 Y .. A",
+      "ref": "e340f6023",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        409,
+        613,
+        203,
+        21
+      ],
+      "name": "From previous year to month",
+      "ref": "e4175879b",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        616,
+        613,
+        149,
+        21
+      ],
+      "name": "-1 Y .. M",
+      "ref": "efd2908e7",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        409,
+        636,
+        203,
+        21
+      ],
+      "name": "From previous month",
+      "ref": "eaf26eaeb",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        616,
+        636,
+        149,
+        21
+      ],
+      "name": "-1 M .. A",
+      "ref": "e5146c3e8",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        409,
+        659,
+        203,
+        21
+      ],
+      "name": "From previous month to week",
+      "ref": "e2ac66e79",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        616,
+        659,
+        149,
+        21
+      ],
+      "name": "-1 M .. W",
+      "ref": "e88af3f40",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        409,
+        682,
+        203,
+        21
+      ],
+      "name": "From previous week",
+      "ref": "e7090c20d",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        616,
+        682,
+        149,
+        21
+      ],
+      "name": "-1 W .. A",
+      "ref": "e95a57892",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        409,
+        705,
+        203,
+        21
+      ],
+      "name": "From previous to current week",
+      "ref": "e2ff51c3d",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        616,
+        705,
+        149,
+        21
+      ],
+      "name": "-1..0 W",
+      "ref": "ed90c33c6",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        409,
+        728,
+        203,
+        21
+      ],
+      "name": "From 1 year ago",
+      "ref": "e3d8a3559",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        616,
+        728,
+        149,
+        21
+      ],
+      "name": "T .. A, -1 Y",
+      "ref": "ec9de823f",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        409,
+        751,
+        203,
+        21
+      ],
+      "name": "From 1 quarter ago",
+      "ref": "e377f8c27",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        616,
+        751,
+        149,
+        21
+      ],
+      "name": "T .. A, -1 Q",
+      "ref": "e033bb4f6",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        409,
+        774,
+        203,
+        21
+      ],
+      "name": "From 1 month ago",
+      "ref": "e6c433cac",
+      "role": "table cell",
+      "visible": [
+        409,
+        774,
+        203,
+        14
+      ]
+    },
+    {
+      "bounds": [
+        616,
+        774,
+        149,
+        21
+      ],
+      "name": "T .. A, -1 M",
+      "ref": "e7c494adc",
+      "role": "table cell",
+      "visible": [
+        616,
+        774,
+        149,
+        14
+      ]
+    },
+    {
+      "bounds": [
+        761,
+        198,
+        6,
+        589
+      ],
+      "name": "",
+      "ref": "e15fc7a78",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        788,
+        217,
+        85,
+        34
+      ],
+      "name": "Top",
+      "ref": "e7c0eb1dc",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        788,
+        261,
+        18,
+        26
+      ],
+      "name": "",
+      "ref": "efd194cb6",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        788,
+        297,
+        85,
+        34
+      ],
+      "name": "Edit",
+      "ref": "e30ac272f",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        788,
+        341,
+        18,
+        26
+      ],
+      "name": "",
+      "ref": "e47f904d3",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        788,
+        377,
+        86,
+        34
+      ],
+      "name": "Bottom",
+      "ref": "eae41b7f1",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        788,
+        436,
+        85,
+        34
+      ],
+      "name": "New",
+      "ref": "e68e70d3f",
+      "role": "push button",
+      "states": [
+        "focused"
+      ]
+    },
+    {
+      "bounds": [
+        788,
+        495,
+        85,
+        34
+      ],
+      "name": "Delete",
+      "ref": "efb92c020",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        454,
+        813,
+        85,
+        34
+      ],
+      "name": "Save",
+      "ref": "ed0eff647",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        549,
+        813,
+        182,
+        34
+      ],
+      "name": "Restore default ranges",
+      "ref": "e7ad2b254",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        741,
+        813,
+        85,
+        34
+      ],
+      "name": "Cancel",
+      "ref": "e6a299536",
+      "role": "push button"
+    }
+  ],
+  "screen": [
+    1280,
+    1024
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": false,
+      "bounds": [
+        0,
+        38,
+        1280,
+        1005
+      ],
+      "ref": "w5b3c0310",
+      "title": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),"
+    },
+    {
+      "active": true,
+      "bounds": [
+        392,
+        202,
+        498,
+        675
+      ],
+      "ref": "w8f254c13",
+      "title": "Manage checking date ranges"
+    }
+  ]
+}

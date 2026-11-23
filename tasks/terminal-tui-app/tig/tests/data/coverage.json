@@ -1,0 +1,459 @@
+{
+  "counts": {
+    "assertions": 1188,
+    "backend": 1064,
+    "checkpoints": 582,
+    "features": 34,
+    "frontend": 124,
+    "gui_episodes": 93,
+    "program_episodes": 179,
+    "episodes": 272
+  },
+  "features": {
+    "blame": {
+      "assertions": 6,
+      "episodes": [
+        "gui-blame",
+        "behavior-blame-back",
+        "behavior-blame-parent-state"
+      ]
+    },
+    "cli": {
+      "assertions": 2,
+      "episodes": [
+        "command-line"
+      ]
+    },
+    "color-configuration": {
+      "assertions": 61,
+      "episodes": [
+        "colors-general",
+        "colors-views",
+        "colors-palette",
+        "color-match-signed",
+        "color-match-diff",
+        "color-match-prefix",
+        "color-match-view",
+        "behavior-color-normal"
+      ]
+    },
+    "column-configuration": {
+      "assertions": 489,
+      "episodes": [
+        "columns-main",
+        "columns-reflog",
+        "columns-refs",
+        "columns-stash",
+        "columns-tree",
+        "columns-blame",
+        "columns-grep",
+        "columns-status",
+        "columns-blob",
+        "columns-diff",
+        "columns-log",
+        "columns-pager",
+        "columns-stage",
+        "enum-author",
+        "enum-committer",
+        "enum-date",
+        "enum-file-name",
+        "enum-file-size",
+        "enum-status"
+      ]
+    },
+    "commits": {
+      "assertions": 2,
+      "episodes": [
+        "cherry-pick"
+      ]
+    },
+    "configuration": {
+      "assertions": 59,
+      "episodes": [
+        "settings-values"
+      ]
+    },
+    "configuration-effects": {
+      "assertions": 10,
+      "episodes": [
+        "behavior-setting-hide-changes",
+        "behavior-setting-hide-untracked-main",
+        "behavior-setting-hide-untracked-status",
+        "behavior-setting-collapse-untracked",
+        "behavior-mailmap-on",
+        "behavior-mailmap-off",
+        "behavior-config-precedence",
+        "behavior-relative-date-relative",
+        "behavior-relative-date-relative-compact"
+      ]
+    },
+    "configuration-format": {
+      "assertions": 5,
+      "episodes": [
+        "behavior-config-format-append",
+        "behavior-config-format-continuation",
+        "behavior-config-format-comment",
+        "behavior-config-format-quoted",
+        "behavior-config-format-last-assignment"
+      ]
+    },
+    "console": {
+      "assertions": 17,
+      "episodes": [
+        "gui-console-message",
+        "repo-variable-head",
+        "repo-variable-is-inside-work-tree",
+        "behavior-context-variables",
+        "behavior-stash-variable"
+      ]
+    },
+    "diff": {
+      "assertions": 13,
+      "episodes": [
+        "gui-diff",
+        "gui-diff-context-zero",
+        "gui-diff-context-wide",
+        "behavior-whitespace-all",
+        "behavior-whitespace-some",
+        "behavior-diff-context-keys"
+      ]
+    },
+    "display": {
+      "assertions": 20,
+      "episodes": [
+        "gui-display-author-email",
+        "gui-display-committer",
+        "gui-display-date-custom",
+        "gui-display-ids",
+        "gui-display-numbers",
+        "gui-display-reverse",
+        "gui-display-graph-ascii",
+        "gui-display-references",
+        "gui-display-wrap",
+        "gui-tree-size-units"
+      ]
+    },
+    "export": {
+      "assertions": 1,
+      "episodes": [
+        "export-display"
+      ]
+    },
+    "git-configuration": {
+      "assertions": 11,
+      "episodes": [
+        "behavior-git-config-history",
+        "behavior-git-config-author-format",
+        "behavior-git-config-binding",
+        "behavior-git-config-binding-multi",
+        "behavior-git-config-internal-binding",
+        "behavior-git-config-search",
+        "behavior-git-config-tree-recursive",
+        "behavior-git-config-color",
+        "behavior-git-config-abbrev",
+        "behavior-git-config-encoding",
+        "behavior-git-user-priority"
+      ]
+    },
+    "grep": {
+      "assertions": 22,
+      "episodes": [
+        "gui-grep",
+        "gui-grep-case",
+        "gui-grep-path",
+        "grep-rule-case",
+        "grep-rule-insensitive",
+        "grep-rule-word",
+        "grep-rule-fixed",
+        "grep-rule-regex",
+        "grep-rule-inverted",
+        "grep-rule-index",
+        "grep-rule-index-control",
+        "grep-rule-working",
+        "grep-rule-unicode",
+        "grep-rule-space",
+        "behavior-empty-grep"
+      ]
+    },
+    "help": {
+      "assertions": 3,
+      "episodes": [
+        "gui-help"
+      ]
+    },
+    "history": {
+      "assertions": 11,
+      "episodes": [
+        "gui-history",
+        "gui-log",
+        "gui-commit-notes",
+        "behavior-history-order-date-order",
+        "behavior-history-order-author-date-order",
+        "behavior-history-order-reverse"
+      ]
+    },
+    "history-filters": {
+      "assertions": 39,
+      "episodes": [
+        "gui-history-filter-author",
+        "gui-history-filter-path",
+        "gui-history-filter-range",
+        "gui-history-filter-first-parent",
+        "history-query-rules",
+        "behavior-history-combinations",
+        "behavior-filter-file-off",
+        "behavior-filter-file-on",
+        "behavior-filter-rev-off",
+        "behavior-filter-rev-on"
+      ]
+    },
+    "key-configuration": {
+      "assertions": 76,
+      "episodes": [
+        "bindings-actions",
+        "bindings-context",
+        "gui-custom-binding",
+        "behavior-bind-generic",
+        "behavior-bind-view-priority",
+        "behavior-bind-last-binding",
+        "behavior-bind-none",
+        "behavior-bind-case-alias",
+        "behavior-bind-symbolic-key",
+        "behavior-bind-underscore-alias",
+        "behavior-bind-unicode-key",
+        "behavior-bind-function-key",
+        "behavior-bind-control-key",
+        "behavior-bind-internal",
+        "behavior-search-map"
+      ]
+    },
+    "mouse": {
+      "assertions": 4,
+      "episodes": [
+        "gui-mouse-selection",
+        "behavior-mouse-wheel-down",
+        "behavior-mouse-wheel-up"
+      ]
+    },
+    "navigation": {
+      "assertions": 38,
+      "episodes": [
+        "gui-history-oldest",
+        "gui-goto-tag",
+        "gui-pager-end",
+        "gui-pager-number",
+        "gui-back-from-tree",
+        "navigation-rule-last",
+        "navigation-rule-first",
+        "navigation-rule-down",
+        "navigation-rule-up",
+        "navigation-rule-goto-tag",
+        "navigation-rule-goto-branch",
+        "navigation-rule-numeric",
+        "navigation-rule-search-forward",
+        "navigation-rule-search-back",
+        "behavior-scrolling",
+        "behavior-merge-jumps",
+        "behavior-tree-back",
+        "behavior-start-on-head"
+      ]
+    },
+    "pager": {
+      "assertions": 14,
+      "episodes": [
+        "gui-pager",
+        "gui-pager-search",
+        "behavior-stdin-main-one",
+        "behavior-stdin-main-two",
+        "behavior-stdin-main-history",
+        "behavior-stdin-main-count",
+        "behavior-stdin-raw",
+        "behavior-stdin-show-old",
+        "behavior-stdin-show-new",
+        "behavior-tabs-4",
+        "behavior-tabs-8"
+      ]
+    },
+    "partial-staging": {
+      "assertions": 30,
+      "episodes": [
+        "gui-stage-hunk",
+        "gui-stage-line",
+        "gui-stage-part",
+        "gui-unstage-hunk",
+        "gui-revert-hunk",
+        "behavior-unstage-line",
+        "behavior-unstage-part",
+        "behavior-split-hunk",
+        "behavior-stage-patch-delete",
+        "behavior-stage-patch-replace",
+        "behavior-stage-patch-eof"
+      ]
+    },
+    "persistence": {
+      "assertions": 13,
+      "episodes": [
+        "prompt-history",
+        "configuration-roundtrip",
+        "behavior-history-reload",
+        "behavior-history-limit",
+        "behavior-history-deduplicate",
+        "behavior-binding-restart"
+      ]
+    },
+    "reflog": {
+      "assertions": 9,
+      "episodes": [
+        "gui-reflog",
+        "behavior-reflog-checkout",
+        "behavior-reflog-reset"
+      ]
+    },
+    "refresh": {
+      "assertions": 3,
+      "episodes": [
+        "gui-detail-refresh",
+        "behavior-periodic-refresh"
+      ]
+    },
+    "refs": {
+      "assertions": 14,
+      "episodes": [
+        "gui-refs",
+        "gui-branch-checkout",
+        "gui-branch-delete",
+        "gui-annotated-tag",
+        "behavior-refs-branches",
+        "behavior-refs-tags",
+        "behavior-refs-remotes"
+      ]
+    },
+    "reverting": {
+      "assertions": 11,
+      "episodes": [
+        "gui-revert-regular",
+        "gui-revert-nested",
+        "gui-revert-unicode",
+        "gui-revert-space",
+        "behavior-revert-confirmation"
+      ]
+    },
+    "search": {
+      "assertions": 31,
+      "episodes": [
+        "gui-history-search",
+        "behavior-search",
+        "behavior-search-columns",
+        "behavior-main-search-author-next",
+        "behavior-main-search-author-prev",
+        "behavior-main-search-message-next",
+        "behavior-main-search-no-match",
+        "behavior-search-cancel"
+      ]
+    },
+    "staging": {
+      "assertions": 83,
+      "episodes": [
+        "gui-stage-regular",
+        "gui-unstage-regular",
+        "gui-stage-unicode",
+        "gui-unstage-unicode",
+        "gui-stage-space",
+        "gui-unstage-space",
+        "gui-stage-nested",
+        "gui-unstage-nested",
+        "stage-empty",
+        "unstage-empty",
+        "gui-stage-new",
+        "gui-unstage-new",
+        "stage-new-nested",
+        "unstage-new-nested",
+        "stage-no-newline",
+        "unstage-no-newline",
+        "stage-crlf",
+        "unstage-crlf",
+        "stage-tab",
+        "unstage-tab",
+        "stage-leading",
+        "unstage-leading",
+        "stage-long",
+        "unstage-long",
+        "gui-stage-kind-delete",
+        "gui-stage-kind-executable",
+        "gui-stage-kind-binary",
+        "gui-stage-kind-symlink",
+        "behavior-stage-section",
+        "behavior-stage-type-deleted",
+        "behavior-stage-type-executable",
+        "behavior-stage-type-binary",
+        "behavior-stage-type-link",
+        "behavior-root-add",
+        "behavior-mixed-index-worktree"
+      ]
+    },
+    "stash": {
+      "assertions": 20,
+      "episodes": [
+        "gui-stash-list",
+        "gui-stash-diff",
+        "gui-stash-apply",
+        "gui-stash-pop",
+        "gui-stash-drop",
+        "behavior-stash-preserve"
+      ]
+    },
+    "tree": {
+      "assertions": 12,
+      "episodes": [
+        "gui-tree",
+        "gui-tree-subdirectory",
+        "gui-blob",
+        "gui-tree-recursive"
+      ]
+    },
+    "validation": {
+      "assertions": 15,
+      "episodes": [
+        "native-validation"
+      ]
+    },
+    "view-details": {
+      "assertions": 30,
+      "episodes": [
+        "gui-detail-older-diff",
+        "gui-detail-tag-tree",
+        "gui-detail-tag-blob",
+        "gui-detail-diff-next",
+        "gui-detail-blame-parent",
+        "gui-detail-grep-open",
+        "gui-detail-help-search",
+        "gui-detail-help-collapse",
+        "gui-detail-search-smart",
+        "gui-detail-diff-numbers",
+        "gui-detail-diff-word",
+        "gui-detail-tree-ids",
+        "gui-detail-blame-email",
+        "gui-detail-tree-sort",
+        "gui-detail-back-diff",
+        "gui-detail-author-date"
+      ]
+    },
+    "views": {
+      "assertions": 14,
+      "episodes": [
+        "gui-split",
+        "gui-maximize",
+        "gui-display-resize",
+        "behavior-focus-parent",
+        "behavior-focus-child",
+        "behavior-send-enter",
+        "behavior-keep-parent",
+        "behavior-close-no-quit",
+        "behavior-vertical-focus"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

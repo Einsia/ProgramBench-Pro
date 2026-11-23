@@ -1,0 +1,114 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        207,
+        135,
+        24
+      ],
+      "ref": "e3005f4e3",
+      "tag": "button",
+      "text": "Back to Tools"
+    },
+    {
+      "bounds": [
+        49,
+        256,
+        62,
+        18
+      ],
+      "ref": "e307a47db",
+      "tag": "a",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        379,
+        1182,
+        256
+      ],
+      "ref": "e816a866e",
+      "tag": "div",
+      "text": "Click to select a file or drag and drop PDFs or Images Your files never leave your device."
+    },
+    {
+      "bounds": [
+        49,
+        651,
+        176,
+        40
+      ],
+      "ref": "e4b856335",
+      "tag": "button",
+      "text": "Add More Files"
+    },
+    {
+      "bounds": [
+        237,
+        651,
+        127,
+        40
+      ],
+      "ref": "edd833bd2",
+      "tag": "button",
+      "text": "Clear All"
+    },
+    {
+      "bounds": [
+        49,
+        775,
+        1182,
+        48
+      ],
+      "ref": "eecb8a929",
+      "tag": "button",
+      "text": "Repair PDF"
+    },
+    {
+      "bounds": [
+        473,
+        472,
+        334,
+        40
+      ],
+      "ref": "e2a50e308",
+      "tag": "button",
+      "text": "OK"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "repaired-repairable.pdf",
+      "ref": "d6818bf316c32",
+      "size": 3339
+    }
+  ],
+  "inputs": [
+    "repairable.pdf",
+    "report.pdf",
+    "skewed.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›Repair PDF\nRepair PDF\n\nRecover data from corrupted or damaged PDF files.\n\nClick to select a file or drag and drop\n\nPDFs or Images\n\nYour files never leave your device.\n\nAdd More Files\nClear All\nrepairable.pdf\n3.7 KB\nRepair PDF\nSuccess\n\nAll files repaired successfully!\n\nOK\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/repair-pdf.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

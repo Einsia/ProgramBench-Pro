@@ -1,0 +1,340 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        260,
+        8,
+        48,
+        48
+      ],
+      "ref": "e3565697427",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        308,
+        8,
+        956,
+        48
+      ],
+      "expanded": false,
+      "ref": "e3932625320",
+      "role": "combobox",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "bounds": [
+        348,
+        16,
+        900,
+        32
+      ],
+      "placeholder": "Search",
+      "ref": "e3492990951",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        8,
+        73,
+        240,
+        40
+      ],
+      "href": "/dashboard",
+      "ref": "e4053023811",
+      "role": null,
+      "tag": "a",
+      "text": "Home"
+    },
+    {
+      "bounds": [
+        8,
+        117,
+        240,
+        40
+      ],
+      "href": "/libraries/all",
+      "ref": "e2922887771",
+      "role": null,
+      "tag": "a",
+      "text": "Libraries"
+    },
+    {
+      "bounds": [
+        168,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3616030284",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        204,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3666363141",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        161,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e1084188748",
+      "role": "button",
+      "tag": "div",
+      "text": "Import"
+    },
+    {
+      "bounds": [
+        8,
+        201,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e3453248592",
+      "role": "button",
+      "tag": "div",
+      "text": "Media"
+    },
+    {
+      "bounds": [
+        8,
+        241,
+        240,
+        40
+      ],
+      "href": "/history",
+      "ref": "e402132000",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        8,
+        285,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e3070675700",
+      "role": "button",
+      "tag": "div",
+      "text": "Server"
+    },
+    {
+      "bounds": [
+        8,
+        325,
+        240,
+        40
+      ],
+      "expanded": true,
+      "ref": "e1489892745",
+      "role": "button",
+      "tag": "div",
+      "text": "My Account"
+    },
+    {
+      "bounds": [
+        8,
+        369,
+        240,
+        40
+      ],
+      "href": "/account/me",
+      "ref": "e2942715480",
+      "role": null,
+      "tag": "a",
+      "text": "Details"
+    },
+    {
+      "bounds": [
+        8,
+        413,
+        240,
+        40
+      ],
+      "href": "/account/api-keys",
+      "ref": "e1323952250",
+      "role": null,
+      "tag": "a",
+      "text": "API Keys"
+    },
+    {
+      "bounds": [
+        8,
+        457,
+        240,
+        40
+      ],
+      "href": "/account/settings-ui",
+      "ref": "e233740824",
+      "role": null,
+      "tag": "a",
+      "text": "User Interface"
+    },
+    {
+      "bounds": [
+        8,
+        501,
+        240,
+        40
+      ],
+      "href": "/account/authentication-activity",
+      "ref": "e2297380406",
+      "role": null,
+      "tag": "a",
+      "text": "Authentication Activity"
+    },
+    {
+      "bounds": [
+        8,
+        585,
+        240,
+        40
+      ],
+      "href": "/next",
+      "ref": "e74451671",
+      "role": null,
+      "tag": "a",
+      "text": "Try the new UI"
+    },
+    {
+      "bounds": [
+        72,
+        662,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e3645575124",
+      "role": "button",
+      "tag": "div",
+      "text": "Theme\nSystem"
+    },
+    {
+      "bounds": [
+        129,
+        662,
+        83,
+        26
+      ],
+      "label": "Theme",
+      "ref": "e2528570109",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        72,
+        726,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e750771305",
+      "role": "button",
+      "tag": "div",
+      "text": "Translation\nEnglish"
+    },
+    {
+      "bounds": [
+        128,
+        726,
+        84,
+        26
+      ],
+      "label": "Translation",
+      "ref": "e3213656136",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        819,
+        112,
+        36,
+        36
+      ],
+      "ref": "e1081559576",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        871,
+        112,
+        36,
+        36
+      ],
+      "ref": "e1131892433",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        843,
+        172,
+        40,
+        40
+      ],
+      "ref": "e1115114814",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Komga\nHome\nLibraries\nImport\nMedia\nHistory\nServer\nMy Account\nDetails\nAPI Keys\nUser Interface\nAuthentication Activity\nLog Out\nTry the new UI\nTheme\nSystem\nTranslation\nEnglish\nTablet reader\nCreated date: Nov 1, 2026, 10:36 AM\nNo recent activity",
+  "text_truncated": false,
+  "title": "Komga",
+  "url": "/account/api-keys",
+  "viewport": [
+    1280,
+    900
+  ]
+}

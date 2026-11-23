@@ -1,0 +1,59 @@
+{
+  "folder-voyages": {
+    "type": "folder",
+    "name": "Voyages"
+  },
+  "folder-unicode": {
+    "type": "folder",
+    "name": "海岸 Café",
+    "parentId": "folder-voyages"
+  },
+  "a": {
+    "type": "file",
+    "name": "Tide",
+    "parentId": "folder-voyages"
+  },
+  "a/content": {
+    "type": "content",
+    "text": "North tide.",
+    "properties": "title: North\ntags: [harbor, tide]\n",
+    "discussions": {},
+    "comments": {}
+  },
+  "b": {
+    "type": "file",
+    "name": "Tide",
+    "parentId": "folder-unicode"
+  },
+  "b/content": {
+    "type": "content",
+    "text": "South tide.",
+    "properties": "author: Zoë\nstatus: draft\n",
+    "discussions": {},
+    "comments": {}
+  },
+  "c": {
+    "type": "file",
+    "name": "Root note",
+    "parentId": null
+  },
+  "c/content": {
+    "type": "content",
+    "text": "A separate root document.",
+    "properties": "",
+    "discussions": {},
+    "comments": {}
+  },
+  "d": {
+    "type": "file",
+    "name": "Tide",
+    "parentId": "folder-voyages"
+  },
+  "d/content": {
+    "type": "content",
+    "text": "Another north tide.",
+    "properties": "title: Another tide\n",
+    "comments": {},
+    "discussions": {}
+  }
+}

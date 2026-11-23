@@ -1,0 +1,206 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        28,
+        93,
+        149,
+        40
+      ],
+      "ref": "e73e2e54c",
+      "tag": "button",
+      "text": "Upload PDFs"
+    },
+    {
+      "bounds": [
+        202,
+        93,
+        171,
+        40
+      ],
+      "ref": "ea1a088f2",
+      "tag": "button",
+      "text": "Add Blank Page"
+    },
+    {
+      "bounds": [
+        434,
+        93,
+        94,
+        40
+      ],
+      "ref": "e4e03dd08",
+      "tag": "button",
+      "text": "Undo"
+    },
+    {
+      "bounds": [
+        536,
+        93,
+        94,
+        40
+      ],
+      "ref": "eb4b6debe",
+      "tag": "button",
+      "text": "Redo"
+    },
+    {
+      "bounds": [
+        638,
+        93,
+        98,
+        40
+      ],
+      "ref": "efc9d1203",
+      "tag": "button",
+      "text": "Reset"
+    },
+    {
+      "bounds": [
+        831,
+        93,
+        125,
+        40
+      ],
+      "ref": "ee69567a9",
+      "tag": "button",
+      "text": "Select All"
+    },
+    {
+      "bounds": [
+        964,
+        93,
+        144,
+        40
+      ],
+      "ref": "e438c804a",
+      "tag": "button",
+      "text": "Deselect All"
+    },
+    {
+      "bounds": [
+        28,
+        141,
+        84,
+        40
+      ],
+      "ref": "e6c521c33",
+      "tag": "button",
+      "text": "Left"
+    },
+    {
+      "bounds": [
+        120,
+        141,
+        94,
+        40
+      ],
+      "ref": "ef8495522",
+      "tag": "button",
+      "text": "Right"
+    },
+    {
+      "bounds": [
+        315,
+        141,
+        127,
+        40
+      ],
+      "ref": "ec6cc1c95",
+      "tag": "button",
+      "text": "Duplicate"
+    },
+    {
+      "bounds": [
+        450,
+        141,
+        89,
+        40
+      ],
+      "ref": "e99949dd4",
+      "tag": "button",
+      "text": "Split"
+    },
+    {
+      "bounds": [
+        609,
+        141,
+        104,
+        40
+      ],
+      "ref": "e4ddd1e11",
+      "tag": "button",
+      "text": "Delete"
+    },
+    {
+      "bounds": [
+        814,
+        141,
+        198,
+        40
+      ],
+      "ref": "eda9cb991",
+      "tag": "button",
+      "text": "Download Selected"
+    },
+    {
+      "bounds": [
+        1020,
+        141,
+        137,
+        40
+      ],
+      "ref": "e0f01bf86",
+      "tag": "button",
+      "text": "Export PDF"
+    },
+    {
+      "aria": "Close",
+      "bounds": [
+        28,
+        189,
+        97,
+        40
+      ],
+      "ref": "ebae3c28b",
+      "tag": "button",
+      "text": "Close"
+    },
+    {
+      "bounds": [
+        16,
+        274,
+        1248,
+        288
+      ],
+      "ref": "ec6e7952c",
+      "tag": "div",
+      "text": "Select PDF or image files Drag and drop PDF or image files here, or click to select Select Files"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "inputs": [
+    "report.pdf"
+  ],
+  "text": "BentoPDF\nPDF Multi Tool Free Online - Edit & Organize PDFs\nUpload PDFs\nAdd Blank Page\nEdit:\nUndo\nRedo\nReset\nSelection:\nSelect All\nDeselect All\nRotate:\nLeft\nRight\nTransform:\nDuplicate\nSplit\nClear:\nDelete\nDownload:\nDownload Selected\nExport PDF\nClose\n\nSelect PDF or image files\n\nDrag and drop PDF or image files here, or click to select\n\nSelect Files",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/pdf-multi-tool.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

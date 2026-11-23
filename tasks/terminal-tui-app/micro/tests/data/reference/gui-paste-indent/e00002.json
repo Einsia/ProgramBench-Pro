@@ -1,0 +1,248 @@
+{
+  "base_style": [
+    "fg=brightwhite",
+    "bg=262626"
+  ],
+  "cursor": {
+    "column": 11,
+    "hidden": false,
+    "row": 3
+  },
+  "process": "running",
+  "screen": [
+    "00|1 def f():",
+    "01|2     pass",
+    "02|3     x = 1",
+    "03|4     y = 2",
+    "04|5",
+    "05|",
+    "06|",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|",
+    "12|",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|",
+    "19|",
+    "20|",
+    "21|",
+    "22|",
+    "23|",
+    "24|",
+    "25|",
+    "26|",
+    "27|",
+    "28|",
+    "29|",
+    "30|",
+    "31|",
+    "32|",
+    "33|",
+    "34|block.py (4,10) | ft:python | unix | utf-8                                                 Alt-g: bindings, Ctrl-g: help",
+    "35|Saved block.py"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 0,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "1 "
+    },
+    {
+      "columns": [
+        2,
+        6
+      ],
+      "row": 0,
+      "style": [
+        "fg=d7005f",
+        "bg=262626"
+      ],
+      "text": "def "
+    },
+    {
+      "columns": [
+        6,
+        7
+      ],
+      "row": 0,
+      "style": [
+        "fg=5fd7ff",
+        "bg=262626"
+      ],
+      "text": "f"
+    },
+    {
+      "columns": [
+        9,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "fg=d7005f",
+        "bg=262626"
+      ],
+      "text": ":                                                                                                              "
+    },
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 1,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "2 "
+    },
+    {
+      "columns": [
+        6,
+        120
+      ],
+      "row": 1,
+      "style": [
+        "fg=d7005f",
+        "bg=262626"
+      ],
+      "text": "pass                                                                                                              "
+    },
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 2,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "3 "
+    },
+    {
+      "columns": [
+        8,
+        10
+      ],
+      "row": 2,
+      "style": [
+        "fg=d7005f",
+        "bg=262626"
+      ],
+      "text": "= "
+    },
+    {
+      "columns": [
+        10,
+        120
+      ],
+      "row": 2,
+      "style": [
+        "fg=af87ff",
+        "bg=262626"
+      ],
+      "text": "1                                                                                                             "
+    },
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 3,
+      "style": [
+        "fg=a8a8a8",
+        "bg=262626"
+      ],
+      "text": "4 "
+    },
+    {
+      "columns": [
+        2,
+        6
+      ],
+      "row": 3,
+      "style": [
+        "fg=4e4e4e",
+        "bg=303030"
+      ],
+      "text": "    "
+    },
+    {
+      "columns": [
+        6,
+        8
+      ],
+      "row": 3,
+      "style": [
+        "fg=brightwhite",
+        "bg=303030"
+      ],
+      "text": "y "
+    },
+    {
+      "columns": [
+        8,
+        10
+      ],
+      "row": 3,
+      "style": [
+        "fg=d7005f",
+        "bg=303030"
+      ],
+      "text": "= "
+    },
+    {
+      "columns": [
+        10,
+        120
+      ],
+      "row": 3,
+      "style": [
+        "fg=af87ff",
+        "bg=303030"
+      ],
+      "text": "2                                                                                                             "
+    },
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 4,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "5 "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "fg=262626",
+        "bg=brightwhite"
+      ],
+      "text": "block.py (4,10) | ft:python | unix | utf-8                                                 Alt-g: bindings, Ctrl-g: help"
+    }
+  ]
+}

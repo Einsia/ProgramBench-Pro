@@ -1,0 +1,242 @@
+{
+  "Player": {
+    "interface": "org.mpris.MediaPlayer2.Player",
+    "methods": {
+      "Next": {
+        "signature": "()",
+        "arguments": []
+      },
+      "Previous": {
+        "signature": "()",
+        "arguments": []
+      },
+      "Pause": {
+        "signature": "()",
+        "arguments": []
+      },
+      "PlayPause": {
+        "signature": "()",
+        "arguments": []
+      },
+      "Stop": {
+        "signature": "()",
+        "arguments": []
+      },
+      "Play": {
+        "signature": "()",
+        "arguments": []
+      },
+      "Seek": {
+        "signature": "(x)",
+        "arguments": [
+          "Offset"
+        ]
+      },
+      "SetPosition": {
+        "signature": "(ox)",
+        "arguments": [
+          "TrackId",
+          "Position"
+        ]
+      },
+      "OpenUri": {
+        "signature": "(s)",
+        "arguments": [
+          "Uri"
+        ]
+      }
+    },
+    "properties": {
+      "PlaybackStatus": {
+        "type": "s",
+        "access": "read"
+      },
+      "LoopStatus": {
+        "type": "s",
+        "access": "readwrite"
+      },
+      "Rate": {
+        "type": "d",
+        "access": "readwrite"
+      },
+      "Shuffle": {
+        "type": "b",
+        "access": "readwrite"
+      },
+      "Metadata": {
+        "type": "a{sv}",
+        "access": "read"
+      },
+      "Rating": {
+        "type": "d",
+        "access": "readwrite"
+      },
+      "Volume": {
+        "type": "d",
+        "access": "readwrite"
+      },
+      "Position": {
+        "type": "x",
+        "access": "read"
+      },
+      "MinimumRate": {
+        "type": "d",
+        "access": "read"
+      },
+      "MaximumRate": {
+        "type": "d",
+        "access": "read"
+      },
+      "CanGoNext": {
+        "type": "b",
+        "access": "read"
+      },
+      "CanGoPrevious": {
+        "type": "b",
+        "access": "read"
+      },
+      "CanPlay": {
+        "type": "b",
+        "access": "read"
+      },
+      "CanPause": {
+        "type": "b",
+        "access": "read"
+      },
+      "CanSeek": {
+        "type": "b",
+        "access": "read"
+      },
+      "CanControl": {
+        "type": "b",
+        "access": "read"
+      }
+    }
+  },
+  "Playlists": {
+    "interface": "org.mpris.MediaPlayer2.Playlists",
+    "methods": {
+      "ActivatePlaylist": {
+        "signature": "(o)",
+        "arguments": [
+          "PlaylistId"
+        ]
+      },
+      "GetPlaylists": {
+        "signature": "(uusb)",
+        "arguments": [
+          "Index",
+          "MaxCount",
+          "Order",
+          "ReverseOrder"
+        ]
+      }
+    },
+    "properties": {
+      "PlaylistCount": {
+        "type": "u",
+        "access": "read"
+      },
+      "Orderings": {
+        "type": "as",
+        "access": "read"
+      },
+      "ActivePlaylist": {
+        "type": "(b(oss))",
+        "access": "read"
+      }
+    }
+  },
+  "TrackList": {
+    "interface": "org.mpris.MediaPlayer2.TrackList",
+    "methods": {
+      "GetTracksMetadata": {
+        "signature": "(ao)",
+        "arguments": [
+          "TrackIds"
+        ]
+      },
+      "AddTrack": {
+        "signature": "(sob)",
+        "arguments": [
+          "Uri",
+          "AfterTrack",
+          "SetAsCurrent"
+        ]
+      },
+      "RemoveTrack": {
+        "signature": "(o)",
+        "arguments": [
+          "TrackId"
+        ]
+      },
+      "GoTo": {
+        "signature": "(o)",
+        "arguments": [
+          "TrackId"
+        ]
+      }
+    },
+    "properties": {
+      "Tracks": {
+        "type": "ao",
+        "access": "read"
+      },
+      "CanEditTracks": {
+        "type": "b",
+        "access": "read"
+      }
+    }
+  },
+  "Root": {
+    "interface": "org.mpris.MediaPlayer2",
+    "methods": {
+      "Raise": {
+        "signature": "()",
+        "arguments": []
+      },
+      "Quit": {
+        "signature": "()",
+        "arguments": []
+      }
+    },
+    "properties": {
+      "CanQuit": {
+        "type": "b",
+        "access": "read"
+      },
+      "CanRaise": {
+        "type": "b",
+        "access": "read"
+      },
+      "HasTrackList": {
+        "type": "b",
+        "access": "read"
+      },
+      "Identity": {
+        "type": "s",
+        "access": "read"
+      },
+      "DesktopEntry": {
+        "type": "s",
+        "access": "read"
+      },
+      "SupportedUriSchemes": {
+        "type": "as",
+        "access": "read"
+      },
+      "SupportedMimeTypes": {
+        "type": "as",
+        "access": "read"
+      },
+      "Fullscreen": {
+        "type": "b",
+        "access": "readwrite"
+      },
+      "CanSetFullscreen": {
+        "type": "b",
+        "access": "read"
+      }
+    }
+  }
+}

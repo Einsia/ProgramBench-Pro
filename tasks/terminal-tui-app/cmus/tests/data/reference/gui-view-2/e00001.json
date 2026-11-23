@@ -1,0 +1,118 @@
+{
+  "base_style": [
+    "fg=black",
+    "bg=white"
+  ],
+  "cursor": {
+    "column": 0,
+    "hidden": true,
+    "row": 1
+  },
+  "process": "running",
+  "screen": [
+    "00| Browser - /workspace",
+    "01| ../",
+    "02| inbox/",
+    "03| outbox/",
+    "04|",
+    "05|",
+    "06|",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|",
+    "12|",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|",
+    "19|",
+    "20|",
+    "21|",
+    "22|",
+    "23|",
+    "24|",
+    "25|",
+    "26|",
+    "27|",
+    "28|",
+    "29|",
+    "30|",
+    "31|",
+    "32|",
+    "33|",
+    "34| . 00:00 at 90 BPM                                                                                  library | 0% | C",
+    "35|\"\""
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": " Browser - /workspace                                                         "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 1,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": " ../                                                                                                                    "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 2,
+      "style": [
+        "bold",
+        "fg=blue"
+      ],
+      "text": " inbox/                                                                                                                 "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 3,
+      "style": [
+        "bold",
+        "fg=blue"
+      ],
+      "text": " outbox/                                                                                                                "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 35,
+      "style": [
+        "bold",
+        "fg=brown"
+      ],
+      "text": "\"\"                                                                                                                      "
+    }
+  ]
+}

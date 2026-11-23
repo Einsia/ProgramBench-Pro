@@ -1,0 +1,574 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        260,
+        8,
+        48,
+        48
+      ],
+      "ref": "e3565697427",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        308,
+        8,
+        956,
+        48
+      ],
+      "expanded": false,
+      "ref": "e3932625320",
+      "role": "combobox",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "bounds": [
+        348,
+        16,
+        900,
+        32
+      ],
+      "placeholder": "Search",
+      "ref": "e3492990951",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        8,
+        73,
+        240,
+        40
+      ],
+      "href": "/dashboard",
+      "ref": "e4053023811",
+      "role": null,
+      "tag": "a",
+      "text": "Home"
+    },
+    {
+      "bounds": [
+        8,
+        117,
+        240,
+        40
+      ],
+      "href": "/libraries/all",
+      "ref": "e2922887771",
+      "role": null,
+      "tag": "a",
+      "text": "Libraries"
+    },
+    {
+      "bounds": [
+        168,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3616030284",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        204,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3666363141",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        161,
+        240,
+        40
+      ],
+      "href": "/libraries/0S3GKM4NK0W1N",
+      "ref": "e2053698454",
+      "role": null,
+      "tag": "a",
+      "text": "Comics"
+    },
+    {
+      "bounds": [
+        204,
+        163,
+        36,
+        36
+      ],
+      "ref": "e3699918379",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        205,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e1184854462",
+      "role": "button",
+      "tag": "div",
+      "text": "Import"
+    },
+    {
+      "bounds": [
+        8,
+        245,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e2070932497",
+      "role": "button",
+      "tag": "div",
+      "text": "Media"
+    },
+    {
+      "bounds": [
+        8,
+        285,
+        240,
+        40
+      ],
+      "href": "/history",
+      "ref": "e3700334507",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        8,
+        329,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e3104230938",
+      "role": "button",
+      "tag": "div",
+      "text": "Server"
+    },
+    {
+      "bounds": [
+        8,
+        369,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e1456337507",
+      "role": "button",
+      "tag": "div",
+      "text": "My Account"
+    },
+    {
+      "bounds": [
+        8,
+        453,
+        240,
+        40
+      ],
+      "href": "/next",
+      "ref": "e108006909",
+      "role": null,
+      "tag": "a",
+      "text": "Try the new UI"
+    },
+    {
+      "bounds": [
+        72,
+        530,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e3679130362",
+      "role": "button",
+      "tag": "div",
+      "text": "Theme\nSystem"
+    },
+    {
+      "bounds": [
+        129,
+        530,
+        83,
+        26
+      ],
+      "label": "Theme",
+      "ref": "e2293683443",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        72,
+        594,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e918547495",
+      "role": "button",
+      "tag": "div",
+      "text": "Translation\nEnglish"
+    },
+    {
+      "bounds": [
+        128,
+        594,
+        84,
+        26
+      ],
+      "label": "Translation",
+      "ref": "e965999643",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        260,
+        72,
+        48,
+        48
+      ],
+      "href": "/libraries/0S3GKM4NK0W1N/series",
+      "ref": "e1231023083",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        308,
+        72,
+        48,
+        48
+      ],
+      "ref": "e1098337195",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1132,
+        72,
+        48,
+        48
+      ],
+      "ref": "e1081559576",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1180,
+        72,
+        48,
+        48
+      ],
+      "ref": "e1131892433",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1228,
+        72,
+        48,
+        48
+      ],
+      "ref": "e1115114814",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        591,
+        169,
+        58,
+        14
+      ],
+      "href": "/libraries/0S3GKM4NK0W1N/series",
+      "ref": "e1917520664",
+      "role": null,
+      "tag": "a",
+      "text": "in Comics"
+    },
+    {
+      "bounds": [
+        528,
+        224,
+        72,
+        24
+      ],
+      "href": "/libraries/0S3GKM4NK0W1N/series?status%5B0%5D%5BseriesStatus%5D%5Boperator%5D=is&status%5B0%5D%5BseriesStatus%5D%5Bvalue%5D=ONGOING",
+      "ref": "e1531831338",
+      "role": null,
+      "tag": "a",
+      "text": "Ongoing"
+    },
+    {
+      "bounds": [
+        612,
+        224,
+        66,
+        24
+      ],
+      "href": "/libraries/0S3GKM4NK0W1N/series?language%5B0%5D%5Blanguage%5D%5Boperator%5D=is&language%5B0%5D%5Blanguage%5D%5Bvalue%5D=en",
+      "ref": "e2457644858",
+      "role": null,
+      "tag": "a",
+      "text": "English"
+    },
+    {
+      "bounds": [
+        528,
+        308,
+        124,
+        28
+      ],
+      "href": "/api/v1/series/0S3GKM4SV0QAE/file",
+      "ref": "e3022673109",
+      "role": null,
+      "tag": "a",
+      "text": "DOWNLOAD",
+      "title": "Download series"
+    },
+    {
+      "bounds": [
+        447,
+        468,
+        94,
+        24
+      ],
+      "href": "/libraries/0S3GKM4NK0W1N/series?publisher%5B0%5D%5Bpublisher%5D%5Boperator%5D=is&publisher%5B0%5D%5Bpublisher%5D%5Bvalue%5D=North%20Press",
+      "ref": "e107240302",
+      "role": null,
+      "tag": "a",
+      "text": "North Press",
+      "title": "North Press"
+    },
+    {
+      "bounds": [
+        447,
+        500,
+        85,
+        24
+      ],
+      "href": "/libraries/0S3GKM4NK0W1N/series?genre%5B0%5D%5Bgenre%5D%5Boperator%5D=is&genre%5B0%5D%5Bgenre%5D%5Bvalue%5D=adventure",
+      "ref": "e4214701488",
+      "role": null,
+      "tag": "a",
+      "text": "Adventure",
+      "title": "adventure"
+    },
+    {
+      "bounds": [
+        447,
+        532,
+        62,
+        24
+      ],
+      "href": "/libraries/0S3GKM4NK0W1N/series?tag%5B0%5D%5Btag%5D%5Boperator%5D=is&tag%5B0%5D%5Btag%5D%5Bvalue%5D=ocean",
+      "ref": "e1823000162",
+      "role": null,
+      "tag": "a",
+      "text": "Ocean",
+      "title": "ocean"
+    },
+    {
+      "bounds": [
+        517,
+        532,
+        60,
+        24
+      ],
+      "href": "/libraries/0S3GKM4NK0W1N/series?tag%5B0%5D%5Btag%5D%5Boperator%5D=is&tag%5B0%5D%5Btag%5D%5Bvalue%5D=bright",
+      "ref": "e426198249",
+      "role": null,
+      "tag": "a",
+      "text": "Bright",
+      "title": "bright"
+    },
+    {
+      "bounds": [
+        585,
+        532,
+        81,
+        24
+      ],
+      "href": "/libraries/0S3GKM4NK0W1N/series?tag%5B0%5D%5Btag%5D%5Boperator%5D=is&tag%5B0%5D%5Btag%5D%5Bvalue%5D=volume-1",
+      "ref": "e1176951820",
+      "role": null,
+      "tag": "a",
+      "text": "Volume-1",
+      "title": "volume-1"
+    },
+    {
+      "bounds": [
+        674,
+        532,
+        81,
+        24
+      ],
+      "href": "/libraries/0S3GKM4NK0W1N/series?tag%5B0%5D%5Btag%5D%5Boperator%5D=is&tag%5B0%5D%5Btag%5D%5Bvalue%5D=volume-2",
+      "ref": "e1077212701",
+      "role": null,
+      "tag": "a",
+      "text": "Volume-2",
+      "title": "volume-2"
+    },
+    {
+      "bounds": [
+        763,
+        532,
+        81,
+        24
+      ],
+      "href": "/libraries/0S3GKM4NK0W1N/series?tag%5B0%5D%5Btag%5D%5Boperator%5D=is&tag%5B0%5D%5Btag%5D%5Bvalue%5D=volume-3",
+      "ref": "e130531446",
+      "role": null,
+      "tag": "a",
+      "text": "Volume-3",
+      "title": "volume-3"
+    },
+    {
+      "bounds": [
+        447,
+        565,
+        87,
+        24
+      ],
+      "href": "/libraries/0S3GKM4NK0W1N/series?writer%5B0%5D=Ada%20Rivers",
+      "ref": "e3851689815",
+      "role": null,
+      "tag": "a",
+      "text": "Ada Rivers",
+      "title": "Ada Rivers"
+    },
+    {
+      "bounds": [
+        447,
+        597,
+        77,
+        24
+      ],
+      "href": "/libraries/0S3GKM4NK0W1N/series?penciller%5B0%5D=Dana%20Ink",
+      "ref": "e3335051105",
+      "role": null,
+      "tag": "a",
+      "text": "Dana Ink",
+      "title": "Dana Ink"
+    },
+    {
+      "bounds": [
+        280,
+        637,
+        976,
+        48
+      ],
+      "ref": "e1169509812",
+      "role": null,
+      "tag": "button",
+      "text": "Shared World collection",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        288,
+        926,
+        150,
+        56
+      ],
+      "href": "/book/0S3GKM4SV0QAF",
+      "offscreen": true,
+      "ref": "e2972294737",
+      "role": null,
+      "tag": "a",
+      "text": "1 - Atlas chapter 1"
+    },
+    {
+      "bounds": [
+        454,
+        926,
+        150,
+        56
+      ],
+      "href": "/book/0S3GKM4SV0QAG",
+      "offscreen": true,
+      "ref": "e2179024235",
+      "role": null,
+      "tag": "a",
+      "text": "2 - Atlas chapter 2"
+    },
+    {
+      "bounds": [
+        620,
+        926,
+        150,
+        56
+      ],
+      "href": "/book/0S3GKM4SV0QAH",
+      "offscreen": true,
+      "ref": "e3831154424",
+      "role": null,
+      "tag": "a",
+      "text": "3 - Atlas chapter 3"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    1052
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Komga\nHome\nLibraries\nComics\nImport\nMedia\nHistory\nServer\nMy Account\nLog Out\nTry the new UI\nTheme\nSystem\nTranslation\nEnglish\nAtlas\n3\n3\nAtlasin Comics\n2020\nOngoing\nEnglish\nLeft to right\n3 / 3 books\nDOWNLOAD\nSummary from book 1:\nAdventure 1 in Atlas. Café Ω.\nPUBLISHER\nNorth Press\nGENRE\nAdventure\nTAGS\nOcean\nBright\nVolume-1\nVolume-2\nVolume-3\nWRITERS\nAda Rivers\nPENCILLERS\nDana Ink\nShared World collection\n1 - Atlas chapter 1\n4 pages\n2 - Atlas chapter 2\n4 pages\n3 - Atlas chapter 3\n4 pages",
+  "text_truncated": false,
+  "title": "Komga - Atlas",
+  "url": "/series/0S3GKM4SV0QAE",
+  "viewport": [
+    1280,
+    900
+  ]
+}

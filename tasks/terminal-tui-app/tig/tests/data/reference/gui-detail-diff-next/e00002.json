@@ -1,0 +1,433 @@
+{
+  "cursor": {
+    "column": 119,
+    "hidden": true,
+    "row": 34
+  },
+  "process": "running",
+  "screen": [
+    "00|2024-01-06 12:00 +0000 Bea Meadow   o [main] Update trail heading",
+    "01|2024-01-05 12:00 +0000 Alex Example M─┐ {origin/main} Merge eastern route",
+    "02|2024-01-04 12:00 +0000 Chen Grove   │ o [feature/east] Mark eastern viewpoint",
+    "03|2024-01-03 12:00 +0000 Ada Rivers   o │ Add safety checklist",
+    "04|2024-01-02 12:00 +0000 Bea Meadow   o─┘ [archive] Document river access",
+    "05|2024-01-01 12:00 +0000 Ada Rivers   I <v1.0> Start field notebook",
+    "06|",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|[main] c8a82e44a33da3f049833e0420d35006f9aeecdc - commit 2 of 6                                                     100%",
+    "12|commit c8a82e44a33da3f049833e0420d35006f9aeecdc",
+    "13|Refs: {origin/main}, v1.0-4-gc8a82e4",
+    "14|Merge: c955832 df5a808",
+    "15|Author:     Alex Example <alex@example.test>",
+    "16|AuthorDate: Fri Jan 5 12:00:00 2024 +0000",
+    "17|Commit:     Jordan Example <jordan@example.test>",
+    "18|CommitDate: Fri Jan 5 12:00:00 2024 +0000",
+    "19|",
+    "20|    Merge eastern route",
+    "21|",
+    "22| east.txt | 1 +",
+    "23| 1 file changed, 1 insertion(+)",
+    "24|",
+    "25|",
+    "26|",
+    "27|",
+    "28|",
+    "29|",
+    "30|",
+    "31|",
+    "32|",
+    "33|",
+    "34|[diff] c8a82e44a33da3f049833e0420d35006f9aeecdc - line 1 of 12                                                      100%",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        23
+      ],
+      "row": 0,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "2024-01-06 12:00 +0000 "
+    },
+    {
+      "columns": [
+        23,
+        36
+      ],
+      "row": 0,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Bea Meadow   "
+    },
+    {
+      "columns": [
+        36,
+        37
+      ],
+      "row": 0,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "o"
+    },
+    {
+      "columns": [
+        38,
+        44
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "fg=cyan"
+      ],
+      "text": "[main]"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 1,
+      "style": [
+        "fg=white",
+        "bg=green"
+      ],
+      "text": "2024-01-05 12:00 +0000 Alex Example M─┐ {origin/main} Merge eastern route                                               "
+    },
+    {
+      "columns": [
+        0,
+        23
+      ],
+      "row": 2,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "2024-01-04 12:00 +0000 "
+    },
+    {
+      "columns": [
+        23,
+        36
+      ],
+      "row": 2,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Chen Grove   "
+    },
+    {
+      "columns": [
+        36,
+        37
+      ],
+      "row": 2,
+      "style": [
+        "fg=magenta"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        37,
+        39
+      ],
+      "row": 2,
+      "style": [
+        "fg=blue"
+      ],
+      "text": " o"
+    },
+    {
+      "columns": [
+        40,
+        54
+      ],
+      "row": 2,
+      "style": [
+        "fg=cyan"
+      ],
+      "text": "[feature/east]"
+    },
+    {
+      "columns": [
+        0,
+        23
+      ],
+      "row": 3,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "2024-01-03 12:00 +0000 "
+    },
+    {
+      "columns": [
+        23,
+        36
+      ],
+      "row": 3,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Ada Rivers   "
+    },
+    {
+      "columns": [
+        36,
+        37
+      ],
+      "row": 3,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "o"
+    },
+    {
+      "columns": [
+        37,
+        39
+      ],
+      "row": 3,
+      "style": [
+        "fg=brown"
+      ],
+      "text": " │"
+    },
+    {
+      "columns": [
+        0,
+        23
+      ],
+      "row": 4,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "2024-01-02 12:00 +0000 "
+    },
+    {
+      "columns": [
+        23,
+        36
+      ],
+      "row": 4,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Bea Meadow   "
+    },
+    {
+      "columns": [
+        36,
+        37
+      ],
+      "row": 4,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "o"
+    },
+    {
+      "columns": [
+        37,
+        39
+      ],
+      "row": 4,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "─┘"
+    },
+    {
+      "columns": [
+        40,
+        49
+      ],
+      "row": 4,
+      "style": [
+        "fg=cyan"
+      ],
+      "text": "[archive]"
+    },
+    {
+      "columns": [
+        0,
+        23
+      ],
+      "row": 5,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "2024-01-01 12:00 +0000 "
+    },
+    {
+      "columns": [
+        23,
+        36
+      ],
+      "row": 5,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Ada Rivers   "
+    },
+    {
+      "columns": [
+        36,
+        37
+      ],
+      "row": 5,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "I"
+    },
+    {
+      "columns": [
+        38,
+        44
+      ],
+      "row": 5,
+      "style": [
+        "fg=magenta"
+      ],
+      "text": "<v1.0>"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 11,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "[main] c8a82e44a33da3f049833e0420d35006f9aeecdc - commit 2 of 6                                                     100%"
+    },
+    {
+      "columns": [
+        0,
+        47
+      ],
+      "row": 12,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=green"
+      ],
+      "text": "commit c8a82e44a33da3f049833e0420d35006f9aeecdc"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 13,
+      "style": [
+        "fg=red"
+      ],
+      "text": "Refs: {origin/main}, v1.0-4-gc8a82e4                                                                                    "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 14,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "Merge: c955832 df5a808                                                                                                  "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 15,
+      "style": [
+        "fg=cyan"
+      ],
+      "text": "Author:     Alex Example <alex@example.test>                                                                            "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 16,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "AuthorDate: Fri Jan 5 12:00:00 2024 +0000                                                                               "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 17,
+      "style": [
+        "fg=magenta"
+      ],
+      "text": "Commit:     Jordan Example <jordan@example.test>                                                                        "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 18,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "CommitDate: Fri Jan 5 12:00:00 2024 +0000                                                                               "
+    },
+    {
+      "columns": [
+        0,
+        10
+      ],
+      "row": 22,
+      "style": [
+        "fg=blue"
+      ],
+      "text": " east.txt "
+    },
+    {
+      "columns": [
+        14,
+        120
+      ],
+      "row": 22,
+      "style": [
+        "fg=green"
+      ],
+      "text": "+                                                                                                         "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "[diff] c8a82e44a33da3f049833e0420d35006f9aeecdc - line 1 of 12                                                      100%"
+    }
+  ]
+}

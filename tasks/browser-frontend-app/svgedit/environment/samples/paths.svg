@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
+  <defs><linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff7f50"/><stop offset="1" stop-color="#6a5acd"/></linearGradient></defs>
+  <path d="M20 180 C 60 20, 140 20, 180 180 S 280 340, 280 100" fill="none" stroke="#333" stroke-width="3"/>
+  <ellipse cx="150" cy="60" rx="70" ry="25" fill="url(#fade)"/>
+  <polyline points="20,20 60,40 100,20 140,40" fill="none" stroke="#c71585" stroke-width="2"/>
+</svg>

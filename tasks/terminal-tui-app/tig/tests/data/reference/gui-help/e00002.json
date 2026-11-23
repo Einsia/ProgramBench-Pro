@@ -1,0 +1,430 @@
+{
+  "cursor": {
+    "column": 0,
+    "hidden": true,
+    "row": 35
+  },
+  "process": "running",
+  "screen": [
+    "00|Quick reference for tig keybindings:",
+    "01|[-] Collapse all sections",
+    "02|",
+    "03|[-] generic bindings",
+    "04|View switching",
+    "05|                           m view-main                  Show main view",
+    "06|                           d view-diff                  Show diff view",
+    "07|                           l view-log                   Show log view",
+    "08|                           L view-reflog                Show reflog view",
+    "09|                           t view-tree                  Show tree view",
+    "10|                           f view-blob                  Show blob view",
+    "11|                           b view-blame                 Show blame view",
+    "12|                           r view-refs                  Show refs view",
+    "13|                        s, S view-status                Show status view",
+    "14|                           c view-stage                 Show stage view",
+    "15|                           y view-stash                 Show stash view",
+    "16|                            view-grep                  Show grep view",
+    "17|                           p view-pager                 Show pager view",
+    "18|                           h view-help                  Show help view",
+    "19|View manipulation",
+    "20|                     <Enter> enter                      Enter and open selected line",
+    "21|                           < back                       Go back to the previous view state",
+    "22|         <Down>, <Ctrl-N>, J next                       Move to next",
+    "23|           <Up>, <Ctrl-P>, K previous                   Move to previous",
+    "24|                         ',' parent                     Move to parent",
+    "25|                       <Tab> view-next                  Move focus to the next view",
+    "26|                     R, <F5> refresh                    Reload and refresh view",
+    "27|                           O maximize                   Maximize the current view",
+    "28|                           q view-close                 Close the current view",
+    "29|                 Q, <Ctrl-C> quit                       Close all views and quit",
+    "30|Cursor navigation",
+    "31|                           k move-up                    Move cursor one line up",
+    "32|                           j move-down                  Move cursor one line down",
+    "33|                 <PageUp>, - move-page-up               Move cursor one page up",
+    "34|[help] - line 1 of 113                                                                                               30%",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        36
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=green"
+      ],
+      "text": "Quick reference for tig keybindings:"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 1,
+      "style": [
+        "fg=cyan"
+      ],
+      "text": "[-] Collapse all sections                                                                                               "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 3,
+      "style": [
+        "fg=cyan"
+      ],
+      "text": "[-] generic bindings                                                                                                    "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 4,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "View switching                                                                                                          "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 5,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "view-main                  "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 6,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "view-diff                  "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 7,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "view-log                   "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 8,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "view-reflog                "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 9,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "view-tree                  "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 10,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "view-blob                  "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 11,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "view-blame                 "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 12,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "view-refs                  "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 13,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "view-status                "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 14,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "view-stage                 "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 15,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "view-stash                 "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 16,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "view-grep                  "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 17,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "view-pager                 "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 18,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "view-help                  "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 19,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "View manipulation                                                                                                       "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 20,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "enter                      "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 21,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "back                       "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 22,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "next                       "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 23,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "previous                   "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 24,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "parent                     "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 25,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "view-next                  "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 26,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "refresh                    "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 27,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "maximize                   "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 28,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "view-close                 "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 29,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "quit                       "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 30,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "Cursor navigation                                                                                                       "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 31,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "move-up                    "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 32,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "move-down                  "
+    },
+    {
+      "columns": [
+        29,
+        56
+      ],
+      "row": 33,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "move-page-up               "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "[help] - line 1 of 113                                                                                               30%"
+    }
+  ]
+}

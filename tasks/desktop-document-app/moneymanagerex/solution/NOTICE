@@ -1,0 +1,19 @@
+Money Manager Ex 1.9.4 reference installation: licence and corresponding source
+
+mmex_1.9.4-Ubuntu.24.04.noble_amd64.deb in this directory is the official Ubuntu 24.04 package of the upstream release v1.9.4 (GitHub release asset, 29,055,256 bytes, sha256 f410d50eeecb0a4b61578b048a2b3d501fcc69bac3eddd6a0a4b391f13332a34), redistributed as downloaded. solve.sh verifies its digest and unpacks it with dpkg-deb under /app/solution/mmex; only the development files of a statically linked library (usr/include, usr/lib) are left out. The executable and its resources are unchanged. SOURCE.json records the release digest and corresponding-source location.
+
+This repository's own files (start.sh, solve.sh, seed.py, mmex_guard.c, uname) are not part of Money Manager Ex. seed.py writes the first-run answers into the product's private settings file. uname replaces the host's kernel text in the window title with a fixed text. mmex_guard.c is preloaded into the product: it keeps the Lua standard libraries closed, so that Lua can only calculate, and permits only exact installed WebKit helpers and fixed uname/lsb_release information options; other commands are refused.
+
+Money Manager Ex is free software, distributed under the terms of the GNU General Public License as published by the Free Software Foundation, either version 2 of the License or (at your option) any later version; LICENSE in this directory is the licence text of the tag. The package links statically to wxWidgets (wxWindows Library Licence), wxSQLite3 and SQLite3 Multiple Ciphers (LGPL-3.0-or-later WITH WxWindows-exception-3.1 and MIT), and bundles apexcharts.js, ChartNew.js, RapidJSON, {fmt}, cgitemplate and LuaGlue under their own licences; their sources are submodules of the upstream repository at the same commit.
+
+Corresponding source is the upstream tag v1.9.4 of https://github.com/moneymanagerex/moneymanagerex, commit 377d1f5bed96da377dce8f79a39939e86c300584, together with the submodules recorded at that commit. GitHub serves the tag as an archive at
+
+  https://github.com/moneymanagerex/moneymanagerex/archive/refs/tags/v1.9.4.tar.gz
+
+The commit is the stable identifier of the source.
+
+The task is not affiliated with or endorsed by the Money Manager Ex developers; Money Manager Ex names the reference product only.
+
+The installed reference installation also carries the Ubuntu shared libraries liblua5.3.so.0 (Lua, MIT license) and libpcre2-32.so.0 (PCRE2, BSD-3-Clause). Their package copyright notices are in LICENSES/Lua.txt and LICENSES/PCRE2.txt. Corresponding upstream source: https://www.lua.org/ftp/lua-5.3.6.tar.gz and https://github.com/PCRE2Project/pcre2/releases/tag/pcre2-10.42; Ubuntu packaging sources are available from https://archive.ubuntu.com/ubuntu/pool/main/l/lua5.3/ and https://archive.ubuntu.com/ubuntu/pool/main/p/pcre2/.
+
+Component notices are collected in LICENSES/. Upstream copyright and license text are retained; local launch and isolation scripts are described above. The official release archive is fetched and checksum-verified at build time; SOURCE.json records its exact URL and version.

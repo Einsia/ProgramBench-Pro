@@ -1,0 +1,111 @@
+{
+  "counts": {
+    "assertions": 384,
+    "backend": 354,
+    "checkpoints": 301,
+    "features": 7,
+    "frontend": 30,
+    "gui_episodes": 29,
+    "program_episodes": 30,
+    "episodes": 59
+  },
+  "features": {
+    "authoring": {
+      "assertions": 5,
+      "episodes": [
+        "gui-type",
+        "gui-type-emphasis",
+        "gui-type-list"
+      ]
+    },
+    "clipboard": {
+      "assertions": 98,
+      "episodes": [
+        "copymd-headings",
+        "copymd-bullet-lists",
+        "copymd-ordered-lists",
+        "copymd-task-lists",
+        "copymd-code-blocks",
+        "copymd-blockquotes",
+        "copymd-tables",
+        "copymd-whitespace"
+      ]
+    },
+    "editing": {
+      "assertions": 51,
+      "episodes": [
+        "edit-inline",
+        "edit-heading",
+        "edit-block",
+        "gui-bold",
+        "gui-heading",
+        "gui-list",
+        "gui-quote",
+        "gui-italic",
+        "gui-strike",
+        "gui-underline",
+        "gui-highlight",
+        "gui-inline-code",
+        "gui-inline-math",
+        "gui-ordered-list",
+        "gui-task-list",
+        "gui-code-fence",
+        "gui-heading1",
+        "gui-heading3",
+        "gui-compose"
+      ]
+    },
+    "export": {
+      "assertions": 26,
+      "episodes": [
+        "gui-export-html",
+        "gui-export-pdf",
+        "gui-render-table",
+        "gui-render-nested",
+        "gui-render-links",
+        "gui-render-tasks",
+        "gui-render-code",
+        "gui-render-emphasis",
+        "gui-render-headings"
+      ]
+    },
+    "file": {
+      "assertions": 2,
+      "episodes": [
+        "gui-save"
+      ]
+    },
+    "rendering": {
+      "assertions": 104,
+      "episodes": [
+        "render-headings-rules",
+        "render-emphasis",
+        "render-inline-code",
+        "render-links-images",
+        "render-lists",
+        "render-tables",
+        "render-code",
+        "render-quotes",
+        "render-math",
+        "render-html",
+        "render-mixed"
+      ]
+    },
+    "serialization": {
+      "assertions": 98,
+      "episodes": [
+        "serialize-headings",
+        "serialize-bullet-lists",
+        "serialize-ordered-lists",
+        "serialize-task-lists",
+        "serialize-code-blocks",
+        "serialize-blockquotes",
+        "serialize-tables",
+        "serialize-whitespace"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

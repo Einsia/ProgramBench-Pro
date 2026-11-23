@@ -1,0 +1,69 @@
+{
+  "task": "mealie",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "Mealie",
+    "version": "3.29.0",
+    "homepage": "https://mealie.io/",
+    "repository": "https://github.com/mealie-recipes/mealie",
+    "license": "AGPL-3.0-only"
+  },
+  "downloads": [
+    {
+      "file": "mealie-3.29.0-source.tar.gz",
+      "url": "https://github.com/mealie-recipes/mealie/archive/refs/tags/v3.29.0.tar.gz",
+      "sha256": "00eb76ad0e8f5a199370add97675130f21aba83fd7fa597c29dbbc98866234be"
+    },
+    {
+      "file": "libxcrypt-4.5.2.tar.xz",
+      "url": "https://github.com/besser82/libxcrypt/releases/download/v4.5.2/libxcrypt-4.5.2.tar.xz",
+      "sha256": "71513a31c01a428bccd5367a32fd95f115d6dac50fb5b60c779d5c7942aec071"
+    }
+  ],
+  "bundled": [
+    {
+      "file": "mealie-3.29.0-runtime.tar.xz",
+      "built_from": "Extracted without application changes from the official linux/amd64 image ghcr.io/mealie-recipes/mealie:v3.29.0@sha256:78eb28b8776d0bad40c5e605c72b3f4f5976793e491558c7dcbdfc04c835d4bc; includes Mealie, its frontend, Python 3.14, Python dependencies with the native libraries bundled in their binary wheels (among them libheif, libde265 and x265 in pillow_heif, and libpq, OpenSSL, OpenLDAP, Cyrus SASL, MIT Kerberos, com_err, keyutils, libselinux, PCRE and libxcrypt in psycopg2-binary; all listed in NOTICE), NLTK data and required shared libraries, relocated under mealie/."
+    }
+  ],
+  "modifications": "Application and frontend unchanged. The runtime layout is relocated; start.sh sets documented configuration.",
+  "configuration": "Official release runtime extracted without application changes; Python 3.14 runtime relocated; PRODUCTION=true, TESTING=false, API_HOST=HOST, API_PORT=PORT, DATA_DIR and UTC. Default initial administrator, group and household.",
+  "notes": {
+    "release_url": "https://github.com/mealie-recipes/mealie/releases/tag/v3.29.0",
+    "source_url": "https://github.com/mealie-recipes/mealie/archive/refs/tags/v3.29.0.tar.gz",
+    "license_url": "https://raw.githubusercontent.com/mealie-recipes/mealie/v3.29.0/LICENSE",
+    "image": "ghcr.io/mealie-recipes/mealie:v3.29.0",
+    "image_digest": "sha256:78eb28b8776d0bad40c5e605c72b3f4f5976793e491558c7dcbdfc04c835d4bc",
+    "platform": "linux/amd64",
+    "bundled_sha256": {
+      "mealie-3.29.0-runtime.tar.xz": "3deb674b47bab404cd96905804af54a22b1e53724e5e3851a87cd6830970402b"
+    },
+    "bundled_size_bytes": {
+      "mealie-3.29.0-runtime.tar.xz": 102195092
+    },
+    "corresponding_source": "The build downloads and SHA-256 verifies mealie-3.29.0-source.tar.gz and libxcrypt-4.5.2.tar.xz from downloads; both archives are retained in the reference image at /solution/. They are not bundled in the Git checkout.",
+    "libxcrypt": {
+      "version": "4.5.2",
+      "license": "LGPL-2.1-or-later",
+      "source_archive": "libxcrypt-4.5.2.tar.xz",
+      "source_sha256": "71513a31c01a428bccd5367a32fd95f115d6dac50fb5b60c779d5c7942aec071",
+      "runtime_path": "mealie/python/lib/python3.14/site-packages/psycopg2_binary.libs/libcrypt-bc2db45e.so.1",
+      "runtime_sha256": "e2a6f6ff300e287a60dfc0c6fdb76ee01e333068df7c60b4e87453d942ccda65",
+      "wheel": {
+        "file": "psycopg2_binary-2.9.13-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+        "url": "https://files.pythonhosted.org/packages/91/ad/7f52f92cc65c23778daff7eec4ee2099236694a0a4723a5f180d0708b607/psycopg2_binary-2.9.13-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+        "sha256": "190c18b97d9ef72f2e88c451b6588af90d6bd7bf54cb94b963280dc86a2c7076",
+        "library_is_byte_identical": true
+      },
+      "build_image": "quay.io/pypa/manylinux2014_x86_64@sha256:c163a278006f45883c117b4166b93cdc7b574b62e58292ed9e52879579841d77",
+      "build_image_tag": "2026.08.04-1",
+      "build_image_config_sha256": "0d004dfd19c1765341c5d464e44bf6d4703bd93cf9f204a7de01da8f5e01334d",
+      "library_layer_sha256": "0ed130695b570a3871c0dc35e45a7f4307541729e71c9796279b66eefa34c6db",
+      "original_library_path": "usr/local/lib/libcrypt.so.1",
+      "original_library_sha256": "bc2db45ec146e845246bd2610dd4d8bf8c9176adda585ba15f51dd30dbf36459",
+      "build_recipe": "LICENSES/libxcrypt-4.5.2-build.txt",
+      "license_notice": "LICENSES/libxcrypt-4.5.2.txt",
+      "provenance": "LICENSES/libxcrypt-4.5.2-provenance.json"
+    }
+  }
+}

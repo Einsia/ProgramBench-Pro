@@ -1,0 +1,115 @@
+Mealie reference distribution, version 3.29.0
+
+Mealie is Copyright (c) the Mealie contributors and is distributed under the
+GNU Affero General Public License, version 3 only (AGPL-3.0-only). The upstream
+license is reproduced in LICENSE.
+
+Source: https://github.com/mealie-recipes/mealie/tree/v3.29.0
+The complete corresponding Mealie source, including its frontend, build files,
+Python dependency lock and frontend package lock, is downloaded and SHA-256
+verified by environment/fetch.py at build time as mealie-3.29.0-source.tar.gz
+from https://github.com/mealie-recipes/mealie/archive/refs/tags/v3.29.0.tar.gz.
+It is not bundled in the Git checkout. The reference image retains this archive
+and the libxcrypt source archive described below under /solution/.
+
+The runtime archive contains the unmodified application, compiled frontend,
+Python interpreter, Python packages, NLTK data and required shared libraries
+from the official Linux amd64 image identified in SOURCE.json. The package
+layout is relocated; start.sh supplies documented Mealie environment settings.
+No application behavior or source is patched. Python package metadata and their
+bundled licenses remain in the runtime's site-packages directories. Python
+3.14.8 is under the Python Software Foundation License; OpenSSL 3.5.7 under
+Apache-2.0; SQLite 3.46.1 is public domain; OpenLDAP 2.6.10 under the OpenLDAP
+Public License; Cyrus SASL 2.1.28 under its BSD-style license. These are the
+interpreter and the shared libraries in mealie/lib. See the official image and
+corresponding upstream projects for these components' source and distribution
+notices.
+
+Native libraries in the Python wheels
+
+Binary wheels in the runtime include native libraries; they are unchanged.
+numpy 2.5.3 (numpy.libs: OpenBLAS with LAPACK, libgfortran, libquadmath) and
+Pillow 12.3.0 (pillow.libs) list their bundled libraries with licenses and
+source locations in LICENSES/numpy-2.5.3.txt and LICENSES/pillow-12.3.0.txt.
+
+The pillow_heif 1.8.1 source code is BSD-3-Clause; its binary wheel as a whole
+is GPL-2.0 because of the libraries it bundles in pillow_heif.libs (see the
+wheel's LICENSES_bundled.txt in LICENSES/pillow_heif-1.8.1.txt). Corresponding
+source:
+  libheif 1.23.6   LGPL-3.0  https://github.com/strukturag/libheif/tree/v1.23.6
+  libde265 1.1.3   LGPL-3.0  https://github.com/strukturag/libde265/tree/v1.1.3
+  x265 4.3         GPL-2.0   https://github.com/Multicorewareinc/x265/tree/4.3
+x265 reports its build as 4.3+1-e9b8812. The pillow_heif 1.8.1 source is at
+https://github.com/bigcat88/pillow_heif and
+https://pypi.org/project/pillow-heif/1.8.1/ .
+
+psycopg2-binary 2.9.13 is LGPL-3.0-or-later with an OpenSSL linking exception
+(LICENSES/psycopg2_binary-2.9.13.txt); its source is at
+https://github.com/psycopg/psycopg2 and
+https://pypi.org/project/psycopg2-binary/2.9.13/ . It bundles these libraries
+in psycopg2_binary.libs:
+  libpq                        PostgreSQL 17.11      PostgreSQL License
+  libssl, libcrypto            OpenSSL 3.5.8         Apache-2.0
+  libldap, liblber             OpenLDAP 2.6.14       OpenLDAP Public License 2.8
+  libsasl2                     Cyrus SASL 2.1.26     BSD-style (CMU)
+  libgssapi_krb5, libkrb5,     MIT Kerberos 1.15.1   MIT and other permissive
+    libk5crypto, libkrb5support                      licenses
+  libcom_err                   e2fsprogs 1.42.9      permissive (MIT SIPB)
+  libkeyutils                  keyutils 1.5.8        LGPL-2.0-or-later
+  libselinux                   libselinux 2.5        public domain
+  libpcre                      PCRE 8.32             BSD-3-Clause
+  libcrypt                     libxcrypt 4.5.2       LGPL-2.1-or-later
+Cyrus SASL, MIT Kerberos, e2fsprogs, keyutils, libselinux and PCRE are the
+CentOS 7 packages recorded in the wheel's SBOM: cyrus-sasl-lib-2.1.26-24.el7_9,
+krb5-libs-1.15.1-55.el7_9, libcom_err-1.42.9-19.el7, keyutils-libs-1.5.8-3.el7,
+libselinux-2.5-15.el7 and pcre-8.32-17.el7. Their source RPMs are in the CentOS
+vault, https://vault.centos.org/7.9.2009/ ; keyutils 1.5.8 is also available
+from http://people.redhat.com/~dhowells/keyutils/ .
+
+The libcrypt-bc2db45e.so.1 library is libxcrypt 4.5.2. Its bytes match the
+library in the official psycopg2-binary 2.9.13 CPython 3.14 manylinux2014
+x86_64 wheel. That release builds with cibuildwheel 4.2.0, whose pinned image
+is quay.io/pypa/manylinux2014_x86_64@sha256:c163a278006f45883c117b4166b93cdc7b574b62e58292ed9e52879579841d77.
+The image's libxcrypt build layer identifies version 4.5.2 and the source hash;
+its original libcrypt.so.1 has SHA-256
+bc2db45ec146e845246bd2610dd4d8bf8c9176adda585ba15f51dd30dbf36459.
+The original and wheel libraries have identical code, read-only data and
+relocation sections; auditwheel changes the library name and ELF metadata.
+SOURCE.json and LICENSES/libxcrypt-4.5.2-provenance.json record these hashes
+and the fixed upstream build references.
+
+Corresponding libxcrypt source:
+https://github.com/besser82/libxcrypt/releases/download/v4.5.2/libxcrypt-4.5.2.tar.xz
+  669820 bytes, SHA-256
+  71513a31c01a428bccd5367a32fd95f115d6dac50fb5b60c779d5c7942aec071
+The build downloads and verifies this archive and retains it in the reference
+image at /solution/. The manylinux build recipe, including its glibc-compatible
+symbol-map adjustment and configure flags, is reproduced in
+LICENSES/libxcrypt-4.5.2-build.txt. Exact release notices and the complete LGPL
+text are in LICENSES/libxcrypt-4.5.2.txt.
+
+Some extension modules link libraries statically. lxml 6.1.3 includes libxml2
+2.14.6, libxslt 1.1.43 with libexslt, zlib 1.3.2 and GNU libiconv 1.18
+(LICENSES/lxml-6.1.3.txt); libiconv is LGPL-2.1 and its source is
+https://ftp.gnu.org/gnu/libiconv/libiconv-1.18.tar.gz . curl_cffi 0.16.3
+includes libcurl 8.21.0 from curl-impersonate with BoringSSL, zlib 1.3.1,
+brotli 1.2.0, zstd 1.5.7, nghttp2 1.63.0, ngtcp2 1.20.0, nghttp3 1.15.0 and
+libidn2 2.3.7; libidn2 is GPL-2.0-or-later or LGPL-3.0-or-later and its source
+is https://ftp.gnu.org/gnu/libidn/libidn2-2.3.7.tar.gz , while the other
+libraries are under permissive licenses. Also linked statically are OpenSSL
+4.0.2 in cryptography 50.0.1 (Apache-2.0), and libyaml 0.2.5 in PyYAML 6.0.3,
+libuv 1.48.0 in uvloop 0.22.1 and libffi in cffi 2.1.1 (all MIT). The Rust
+extensions (cryptography, jiter, orjson, pydantic_core, watchfiles) list their
+crates and licenses in the SBOMs in their dist-info/sboms directories.
+
+LICENSES/native-libraries.txt contains the PostgreSQL, OpenLDAP, Cyrus SASL,
+MIT Kerberos, com_err, keyutils, libselinux and PCRE licenses, as well as the
+Apache License 2.0, GNU GPL versions 2 and 3, and GNU LGPL versions 2.1 and 3.
+It also points to the exact libxcrypt 4.5.2 notices in libxcrypt-4.5.2.txt.
+Where the license file of an exact bundled release was not available,
+it gives the project's license as distributed by Debian or Ubuntu.
+
+The task-authored solve.sh and start.sh are provided under the Apache License
+2.0, the license of the Program Bench Pro repository.
+
+Component license texts from the bundled runtime are also reproduced in LICENSES/.

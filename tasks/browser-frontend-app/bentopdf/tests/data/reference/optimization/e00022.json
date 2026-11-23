@@ -1,0 +1,170 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        0,
+        1182,
+        183
+      ],
+      "ref": "e3acd2861",
+      "tag": "div",
+      "text": "Click to select a file or drag and drop One or more PDF files Your files never leave your device."
+    },
+    {
+      "bounds": [
+        49,
+        199,
+        176,
+        40
+      ],
+      "ref": "e4b856335",
+      "tag": "button",
+      "text": "Add More Files"
+    },
+    {
+      "bounds": [
+        237,
+        199,
+        127,
+        40
+      ],
+      "ref": "edd833bd2",
+      "tag": "button",
+      "text": "Clear All"
+    },
+    {
+      "bounds": [
+        1199,
+        269,
+        20,
+        20
+      ],
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        49,
+        355,
+        1182,
+        45
+      ],
+      "label": "Skew Threshold (degrees)",
+      "options": [
+        {
+          "label": "0.1° (Very Sensitive)",
+          "selected": false,
+          "value": "0.1"
+        },
+        {
+          "label": "0.5° (Default)",
+          "selected": true,
+          "value": "0.5"
+        },
+        {
+          "label": "1.0° (Normal)",
+          "selected": false,
+          "value": "1.0"
+        },
+        {
+          "label": "2.0° (Less Sensitive)",
+          "selected": false,
+          "value": "2.0"
+        }
+      ],
+      "ref": "efd916a53",
+      "tag": "select",
+      "value": "0.5"
+    },
+    {
+      "bounds": [
+        49,
+        472,
+        1182,
+        45
+      ],
+      "label": "Processing Quality (DPI)",
+      "options": [
+        {
+          "label": "100 (Fast)",
+          "selected": false,
+          "value": "100"
+        },
+        {
+          "label": "150 (Default)",
+          "selected": true,
+          "value": "150"
+        },
+        {
+          "label": "200 (Better)",
+          "selected": false,
+          "value": "200"
+        },
+        {
+          "label": "300 (Best Quality)",
+          "selected": false,
+          "value": "300"
+        }
+      ],
+      "ref": "e2aa11aa8",
+      "tag": "select",
+      "value": "150"
+    },
+    {
+      "bounds": [
+        49,
+        557,
+        1182,
+        48
+      ],
+      "ref": "e361a490d",
+      "tag": "button",
+      "text": "Deskew PDF"
+    },
+    {
+      "bounds": [
+        473,
+        472,
+        334,
+        40
+      ],
+      "ref": "e2a50e308",
+      "tag": "button",
+      "text": "OK"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "skewed.pdf",
+      "ref": "d74a3cec7356a",
+      "size": 207956
+    }
+  ],
+  "inputs": [
+    "repairable.pdf",
+    "report.pdf",
+    "skewed.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›Deskew PDF\nDeskew PDF\n\nAutomatically straighten tilted scanned pages using OpenCV.\n\nClick to select a file or drag and drop\n\nOne or more PDF files\n\nYour files never leave your device.\n\nAdd More Files\nClear All\nskewed.pdf\n(271.8 KB)\nSkew Threshold (degrees)\n0.1° (Very Sensitive)\n0.5° (Default)\n1.0° (Normal)\n2.0° (Less Sensitive)\n\nPages with skew below this threshold won't be corrected.\n\nProcessing Quality (DPI)\n100 (Fast)\n150 (Default)\n200 (Better)\n300 (Best Quality)\nDeskew PDF\nDeskew Results\nTotal Pages: 1\nPages Corrected: 1\nPage 1:\n-6.01°\n(corrected)\nSuccess\n\nDeskewed 1 file(s).\n\nOK\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/deskew-pdf.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

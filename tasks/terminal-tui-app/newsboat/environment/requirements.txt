@@ -1,0 +1,4 @@
+# The runtime's only third-party Python dependencies (terminal emulation). Transitive pins in constraints.txt.
+# Newsboat itself is installed only by solution/solve.sh (reference installation).
+pyte==0.8.2
+wcwidth==0.9.3

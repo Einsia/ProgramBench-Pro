@@ -1,0 +1,726 @@
+{
+  "focused": "eac200e55",
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        1024
+      ],
+      "name": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),",
+      "ref": "e93ed40b7",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        25
+      ],
+      "name": "",
+      "ref": "e37b0c28a",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        39,
+        25
+      ],
+      "name": "File",
+      "ref": "eae5e7196",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        39,
+        19,
+        75,
+        25
+      ],
+      "name": "Accounts",
+      "ref": "ecb5893cc",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        114,
+        19,
+        49,
+        25
+      ],
+      "name": "Tools",
+      "ref": "ec5eeafb2",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        163,
+        19,
+        48,
+        25
+      ],
+      "name": "View",
+      "ref": "eb0ba3d40",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        211,
+        19,
+        46,
+        25
+      ],
+      "name": "Help",
+      "ref": "ef594ac36",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        1,
+        995,
+        200,
+        6
+      ],
+      "name": "",
+      "ref": "ef36204a0",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        374,
+        347,
+        532,
+        330
+      ],
+      "name": "Custom Field Manager",
+      "ref": "e4fe4286c",
+      "role": "frame",
+      "states": [
+        "modal"
+      ]
+    },
+    {
+      "bounds": [
+        386,
+        378,
+        508,
+        229
+      ],
+      "name": "",
+      "ref": "e764c770d",
+      "role": "table"
+    },
+    {
+      "bounds": [
+        386,
+        378,
+        103,
+        25
+      ],
+      "name": "Attribute of",
+      "ref": "e4117ee7e",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        489,
+        378,
+        58,
+        25
+      ],
+      "name": "Name",
+      "ref": "e1ae3f41b",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        547,
+        378,
+        89,
+        25
+      ],
+      "name": "Type",
+      "ref": "e22337e5d",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        636,
+        378,
+        488,
+        25
+      ],
+      "name": "Properties",
+      "ref": "e714d6c33",
+      "role": "table column header",
+      "visible": [
+        636,
+        378,
+        259,
+        25
+      ]
+    },
+    {
+      "bounds": [
+        388,
+        404,
+        99,
+        21
+      ],
+      "name": "Transaction",
+      "ref": "ebb951eaa",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        491,
+        404,
+        54,
+        21
+      ],
+      "name": "Code",
+      "ref": "e5fa4a7c1",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        549,
+        404,
+        85,
+        21
+      ],
+      "name": "String",
+      "ref": "e1027df03",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        638,
+        404,
+        484,
+        21
+      ],
+      "name": "{\"RegEx\":\"^[A-Z]{2}[0-9]{3,4}$\",\"Default\":\"AB100\",\"UDFC\":\"UDFC02\"}",
+      "ref": "e9fb52ade",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ],
+      "visible": [
+        638,
+        404,
+        257,
+        21
+      ]
+    },
+    {
+      "bounds": [
+        388,
+        427,
+        99,
+        21
+      ],
+      "name": "Transaction",
+      "ref": "eecfe57cf",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        491,
+        427,
+        54,
+        21
+      ],
+      "name": "Labels",
+      "ref": "e303a6cd4",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        549,
+        427,
+        85,
+        21
+      ],
+      "name": "Multi Choice",
+      "ref": "ee20d70f3",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        638,
+        427,
+        484,
+        21
+      ],
+      "name": "{\"Choice\": [\"Red\", \"Blue\", \"Green\"]}",
+      "ref": "e5021479d",
+      "role": "table cell",
+      "visible": [
+        638,
+        427,
+        257,
+        21
+      ]
+    },
+    {
+      "bounds": [
+        388,
+        450,
+        99,
+        21
+      ],
+      "name": "Transaction",
+      "ref": "efd3a8ebc",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        491,
+        450,
+        54,
+        21
+      ],
+      "name": "Visit",
+      "ref": "e66fd2242",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        549,
+        450,
+        85,
+        21
+      ],
+      "name": "Time",
+      "ref": "efddd284d",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        638,
+        450,
+        484,
+        21
+      ],
+      "name": "{}",
+      "ref": "ec4ab9024",
+      "role": "table cell",
+      "visible": [
+        638,
+        450,
+        257,
+        21
+      ]
+    },
+    {
+      "bounds": [
+        386,
+        601,
+        508,
+        6
+      ],
+      "name": "",
+      "ref": "e52cb7247",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        583,
+        628,
+        85,
+        34
+      ],
+      "name": "Close",
+      "ref": "e9321be90",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        678,
+        632,
+        18,
+        26
+      ],
+      "description": "Other tools",
+      "name": "",
+      "ref": "ec130a0be",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        489,
+        235,
+        303,
+        554
+      ],
+      "name": "New/Edit Custom Field",
+      "ref": "ead7d779b",
+      "role": "frame",
+      "states": [
+        "active",
+        "modal"
+      ]
+    },
+    {
+      "bounds": [
+        500,
+        265,
+        281,
+        455
+      ],
+      "name": "Custom Field Details",
+      "ref": "e4bf34ac2",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        500,
+        265,
+        135,
+        17
+      ],
+      "name": "Custom Field Details",
+      "ref": "e5756b2a4",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        511,
+        301,
+        75,
+        17
+      ],
+      "name": "Attribute of",
+      "ref": "ecc267fa1",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        620,
+        293,
+        150,
+        34
+      ],
+      "description": "Select the item that the custom field is associated with",
+      "name": "Transaction",
+      "ref": "e958b1103",
+      "role": "combo box",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        511,
+        337,
+        99,
+        34
+      ],
+      "name": "Name",
+      "ref": "ef5b89cb2",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        620,
+        337,
+        150,
+        34
+      ],
+      "description": "Enter the name of the custom field",
+      "name": "",
+      "ref": "e16d8eb42",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "Code"
+    },
+    {
+      "bounds": [
+        511,
+        389,
+        66,
+        17
+      ],
+      "name": "Field Type",
+      "ref": "e1ce6f965",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        620,
+        381,
+        150,
+        34
+      ],
+      "description": "Select the custom field type",
+      "name": "String",
+      "ref": "ec8f51a2e",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        511,
+        433,
+        44,
+        17
+      ],
+      "name": "Tooltip",
+      "ref": "e8cb1a6b1",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        620,
+        425,
+        150,
+        34
+      ],
+      "description": "Enter the tooltip that will be shown",
+      "name": "",
+      "ref": "eb7878110",
+      "role": "text",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        511,
+        477,
+        42,
+        17
+      ],
+      "name": "RegEx",
+      "ref": "eb4bb335f",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        620,
+        469,
+        150,
+        34
+      ],
+      "description": "Enter the RegEx to validate field",
+      "name": "",
+      "ref": "e2c91c10b",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "^[A-Z]{2}[0-9]{3,4}$"
+    },
+    {
+      "bounds": [
+        511,
+        514,
+        92,
+        17
+      ],
+      "name": "Autocomplete",
+      "ref": "e6ffe1256",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        620,
+        513,
+        150,
+        20
+      ],
+      "description": "Enables autocomplete on custom field",
+      "name": "",
+      "ref": "e99be7f99",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        511,
+        551,
+        49,
+        17
+      ],
+      "name": "Default",
+      "ref": "e266d751d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        620,
+        543,
+        150,
+        34
+      ],
+      "description": "Enter the default for this field",
+      "name": "",
+      "ref": "eb16ffc97",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "AB100"
+    },
+    {
+      "bounds": [
+        511,
+        595,
+        52,
+        17
+      ],
+      "name": "Choices",
+      "ref": "e086ca905",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        620,
+        587,
+        150,
+        34
+      ],
+      "description": "Enter the choices for this field separated with a semicolon",
+      "name": "",
+      "ref": "e5b7f1b05",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        511,
+        639,
+        77,
+        17
+      ],
+      "name": "Digits scale",
+      "ref": "e14e942fb",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        620,
+        631,
+        150,
+        34
+      ],
+      "description": "Enter the decimal digits scale allowed",
+      "name": "",
+      "ref": "e4c1718cc",
+      "role": "spin button",
+      "states": [
+        "editable",
+        "disabled"
+      ],
+      "text": "0",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        511,
+        683,
+        99,
+        17
+      ],
+      "name": "Panel's column",
+      "ref": "edcbb22bd",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        620,
+        675,
+        150,
+        34
+      ],
+      "description": "Select a value to represent the item on a panel",
+      "name": "UDFC02",
+      "ref": "e0c3542e5",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        550,
+        735,
+        85,
+        34
+      ],
+      "name": "OK",
+      "ref": "e65f10507",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        645,
+        735,
+        85,
+        34
+      ],
+      "name": "Cancel",
+      "ref": "eac200e55",
+      "role": "push button",
+      "states": [
+        "focused"
+      ]
+    }
+  ],
+  "screen": [
+    1280,
+    1024
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": false,
+      "bounds": [
+        0,
+        38,
+        1280,
+        1005
+      ],
+      "ref": "w5b3c0310",
+      "title": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),"
+    },
+    {
+      "active": false,
+      "bounds": [
+        376,
+        387,
+        530,
+        305
+      ],
+      "ref": "weebc418a",
+      "title": "Custom Field Manager"
+    },
+    {
+      "active": true,
+      "bounds": [
+        491,
+        275,
+        301,
+        529
+      ],
+      "ref": "w9aed9a73",
+      "title": "New/Edit Custom Field"
+    }
+  ]
+}

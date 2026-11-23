@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# The application's command line for the runtime's task operation: Taskwarrior 3.3.0's task program on the same
+# configuration and data as the interactive application (see start.sh), in the same sandbox.
+set -Eeuo pipefail
+
+here="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+data="${DATA_DIR:?DATA_DIR is required}"
+export HOME="$data"
+unset TASKRC TASKDATA TASKWARRIOR_TUI_DATA XDG_DATA_HOME
+cd "$data"
+if [ ! -e "$data/.taskrc" ]; then
+  python3 -I "$here/sandbox.py" "$here/bin/task" rc.confirmation=off rc.verbose=nothing _version >/dev/null 2>&1 </dev/null || true
+fi
+exec python3 -I "$here/sandbox.py" "$here/bin/task" "$@"

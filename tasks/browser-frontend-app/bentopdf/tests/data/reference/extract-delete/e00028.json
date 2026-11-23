@@ -1,0 +1,101 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        146,
+        135,
+        24
+      ],
+      "ref": "e3005f4e3",
+      "tag": "button",
+      "text": "Back to Tools"
+    },
+    {
+      "bounds": [
+        49,
+        195,
+        62,
+        18
+      ],
+      "ref": "e307a47db",
+      "tag": "a",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        318,
+        1182,
+        256
+      ],
+      "ref": "eff2ad3e2",
+      "tag": "div",
+      "text": "Click to select a file or drag and drop PDF files (one or more) Your files never leave your device."
+    },
+    {
+      "bounds": [
+        1203,
+        614,
+        16,
+        16
+      ],
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        49,
+        796,
+        1182,
+        48
+      ],
+      "ref": "eb455cc32",
+      "tag": "button",
+      "text": "Reverse Pages"
+    },
+    {
+      "bounds": [
+        473,
+        472,
+        334,
+        40
+      ],
+      "ref": "e2a50e308",
+      "tag": "button",
+      "text": "OK"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "mixed.pdf",
+      "ref": "dac8268830a96",
+      "size": 2597
+    }
+  ],
+  "inputs": [
+    "mixed.pdf",
+    "report.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›Reverse Pages\nReverse Pages\n\nFlip the order of all pages in your document.\n\nClick to select a file or drag and drop\n\nPDF files (one or more)\n\nYour files never leave your device.\n\nmixed.pdf\n5.6 KB\n\nHow it works:\n\nAll pages will be reversed (first becomes last, last becomes first).\nIf you upload multiple PDFs, each will be reversed and downloaded as a ZIP file.\nReverse Pages\nSuccess\n\nPages have been reversed successfully!\n\nOK\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/reverse-pages.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

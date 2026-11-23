@@ -1,0 +1,15 @@
+services:
+  main:
+    network_mode: none
+    cap_drop: [ALL]
+    cap_add: [CHOWN, FOWNER, DAC_OVERRIDE, SETUID, SETGID, KILL]
+    security_opt: [no-new-privileges:true]
+    shm_size: 256m
+    volumes:
+      - "${ITTOOLS_VERIFIER_STATE:-candidate-state}:/app/candidate-state"
+      - "${ITTOOLS_VERIFIER_TMP:-verifier-tmp}:/tmp"
+      - "${ITTOOLS_MODEL_RPC_STORAGE:-model-rpc}:/model"
+volumes:
+  candidate-state:
+  verifier-tmp:
+  model-rpc:

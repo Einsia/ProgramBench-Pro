@@ -1,0 +1,338 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        110,
+        175,
+        154,
+        154
+      ],
+      "ref": "canvas0",
+      "tag": "svg"
+    },
+    {
+      "bounds": [
+        376,
+        77,
+        904,
+        823
+      ],
+      "ref": "canvas1",
+      "tag": "svg"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        0,
+        9,
+        82,
+        53
+      ],
+      "ref": "e75fe0e2a",
+      "tag": "a"
+    },
+    {
+      "bounds": [
+        1140,
+        16,
+        112,
+        36
+      ],
+      "ref": "eed4bab7b",
+      "tag": "button",
+      "text": "Share"
+    },
+    {
+      "bounds": [
+        0,
+        88,
+        32,
+        32
+      ],
+      "disabled": true,
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        36,
+        85,
+        90,
+        37
+      ],
+      "ref": "e39ed65e9",
+      "role": "tab",
+      "selected": true,
+      "tag": "div",
+      "text": "Tables (0)"
+    },
+    {
+      "bounds": [
+        134,
+        85,
+        84,
+        37
+      ],
+      "ref": "ed8ae1a6e",
+      "role": "tab",
+      "selected": false,
+      "tag": "div",
+      "text": "Views (0)"
+    },
+    {
+      "bounds": [
+        226,
+        85,
+        112,
+        37
+      ],
+      "ref": "ed0640baf",
+      "role": "tab",
+      "selected": false,
+      "tag": "div",
+      "text": "Relationships (0)"
+    },
+    {
+      "bounds": [
+        342,
+        88,
+        32,
+        32
+      ],
+      "ref": "ea0fc21fdx2",
+      "tag": "button"
+    },
+    {
+      "aria": "TreeSelect",
+      "bounds": [
+        8,
+        135,
+        238,
+        32
+      ],
+      "expanded": false,
+      "ref": "e999b5ea4",
+      "role": "combobox",
+      "tag": "div",
+      "text": "Search...",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        254,
+        135,
+        112,
+        32
+      ],
+      "ref": "ede343483",
+      "tag": "button",
+      "text": "Add table"
+    },
+    {
+      "bounds": [
+        20,
+        825,
+        29,
+        16
+      ],
+      "ref": "e2850a303",
+      "tag": "div",
+      "text": "0",
+      "title": "Tables"
+    },
+    {
+      "bounds": [
+        61,
+        824,
+        31,
+        18
+      ],
+      "ref": "e69afc339",
+      "tag": "div",
+      "text": "0",
+      "title": "Relationships"
+    },
+    {
+      "bounds": [
+        217,
+        823,
+        83,
+        20
+      ],
+      "ref": "e2152f4c5",
+      "tag": "button",
+      "text": "Structure"
+    },
+    {
+      "bounds": [
+        299,
+        823,
+        61,
+        20
+      ],
+      "ref": "e7cfe6d9f",
+      "tag": "button",
+      "text": "Code"
+    },
+    {
+      "bounds": [
+        8,
+        855,
+        358,
+        40
+      ],
+      "expanded": false,
+      "ref": "ef121d4d8",
+      "role": "button",
+      "tag": "div",
+      "text": "Problems 0"
+    },
+    {
+      "bounds": [
+        549,
+        842,
+        34,
+        36
+      ],
+      "ref": "ea0fc21fdx3",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        655,
+        842,
+        34,
+        36
+      ],
+      "ref": "ea0fc21fdx4",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        706,
+        846,
+        36,
+        28
+      ],
+      "disabled": true,
+      "ref": "ea0fc21fdx5",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        742,
+        846,
+        36,
+        28
+      ],
+      "disabled": true,
+      "ref": "ea0fc21fdx6",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        795,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx7",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        837,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx8",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        879,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx9",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        921,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx10",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        980,
+        841,
+        39,
+        36
+      ],
+      "ref": "ea0fc21fdx11",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1036,
+        844,
+        40,
+        32
+      ],
+      "ref": "ea0fc21fdx12",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1093,
+        841,
+        34,
+        36
+      ],
+      "ref": "ea0fc21fdx13",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1144,
+        841,
+        36,
+        36
+      ],
+      "ref": "ea0fc21fdx14",
+      "tag": "button"
+    },
+    {
+      "aria": "confirm",
+      "bounds": [
+        879,
+        644,
+        78,
+        32
+      ],
+      "disabled": true,
+      "ref": "e47aaa993",
+      "tag": "button",
+      "text": "Confirm"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "text": "Diagrams\n/\nUntitled Diagram\nFile\nEdit\nView\nSettings\nHelp\nNo changes\nNo tables\nStart building your diagram!\n100\n%\nChoose a database\nMySQL\nPostgreSQL\nSQLite\nMariaDB\nMSSQL\nOracle SQL\nBeta\nGeneric\nGeneric diagrams can be exported to any SQL flavor but support few data types.",
+  "text_truncated": false,
+  "title": "Editor | drawDB",
+  "url": "/editor",
+  "viewport": [
+    1280,
+    900
+  ]
+}

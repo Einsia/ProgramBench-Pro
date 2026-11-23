@@ -1,0 +1,154 @@
+{
+  "counts": {
+    "assertions": 1118,
+    "backend": 1021,
+    "checkpoints": 1003,
+    "features": 17,
+    "frontend": 97,
+    "gui_episodes": 39,
+    "program_episodes": 13,
+    "episodes": 52
+  },
+  "features": {
+    "display": {
+      "assertions": 2,
+      "episodes": [
+        "director"
+      ]
+    },
+    "drumkits": {
+      "assertions": 103,
+      "episodes": [
+        "drumkit-load",
+        "drumkit-import-export",
+        "drumkit-properties",
+        "program-drumkits-01"
+      ]
+    },
+    "export": {
+      "assertions": 75,
+      "episodes": [
+        "export-mixdown",
+        "export-midi",
+        "export-lilypond",
+        "program-export-01"
+      ]
+    },
+    "files": {
+      "assertions": 13,
+      "episodes": [
+        "song-files",
+        "song-new",
+        "pattern-files"
+      ]
+    },
+    "instruments": {
+      "assertions": 24,
+      "episodes": [
+        "instrument-list",
+        "instrument-sound",
+        "instrument-envelope",
+        "instrument-mute-solo",
+        "instrument-layers"
+      ]
+    },
+    "mixer": {
+      "assertions": 8,
+      "episodes": [
+        "mixer-strips",
+        "mixer-master"
+      ]
+    },
+    "osc": {
+      "assertions": 127,
+      "episodes": [
+        "program-osc-01",
+        "program-osc-02"
+      ]
+    },
+    "pattern-editor": {
+      "assertions": 53,
+      "episodes": [
+        "pattern-notes",
+        "pattern-grid",
+        "instrument-rows",
+        "undo-redo",
+        "piano-roll",
+        "note-properties",
+        "note-selection",
+        "undo-history"
+      ]
+    },
+    "patterns": {
+      "assertions": 13,
+      "episodes": [
+        "pattern-properties",
+        "pattern-copies"
+      ]
+    },
+    "persistence": {
+      "assertions": 7,
+      "episodes": [
+        "program-persistence-01"
+      ]
+    },
+    "playlist": {
+      "assertions": 10,
+      "episodes": [
+        "playlist",
+        "playlist-order"
+      ]
+    },
+    "preferences": {
+      "assertions": 12,
+      "episodes": [
+        "preferences",
+        "appearance"
+      ]
+    },
+    "rendering": {
+      "assertions": 429,
+      "episodes": [
+        "program-rendering-01",
+        "program-rendering-02",
+        "program-rendering-03",
+        "program-rendering-04",
+        "program-rendering-05"
+      ]
+    },
+    "sample-editor": {
+      "assertions": 17,
+      "episodes": [
+        "sample-editor",
+        "sample-stretch"
+      ]
+    },
+    "song": {
+      "assertions": 12,
+      "episodes": [
+        "song-properties",
+        "song-tempo-modes"
+      ]
+    },
+    "song-editor": {
+      "assertions": 23,
+      "episodes": [
+        "song-arrangement",
+        "timeline",
+        "playback-track",
+        "automation-edit"
+      ]
+    },
+    "song-files": {
+      "assertions": 190,
+      "episodes": [
+        "program-song-files-01",
+        "program-song-files-02",
+        "program-song-files-03"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

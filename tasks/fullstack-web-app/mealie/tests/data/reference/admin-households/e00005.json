@@ -1,0 +1,257 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        4,
+        0,
+        48,
+        48
+      ],
+      "ref": "e11102633781375530811",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        52,
+        0,
+        48,
+        48
+      ],
+      "href": "/g/home",
+      "ref": "e6999663049315888676",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        52,
+        0,
+        48,
+        48
+      ],
+      "ref": "e11102632681863902600",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        964,
+        4,
+        214,
+        40
+      ],
+      "placeholder": "Press '/'",
+      "ref": "e8266481313866675366",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1178,
+        6,
+        98,
+        36
+      ],
+      "ref": "e18428108610740647529",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        0,
+        48,
+        255,
+        76
+      ],
+      "href": "/user/profile",
+      "ref": "e9026058544016782197",
+      "role": null,
+      "tag": "a",
+      "text": "Change Me\nFavorite Recipes"
+    },
+    {
+      "bounds": [
+        64,
+        84,
+        123,
+        28
+      ],
+      "href": "/user/376bdda4-d9f4-4e1e-9fa8-186f14e54f4a/favorites",
+      "ref": "e14013455441632128615",
+      "role": null,
+      "tag": "a",
+      "text": "Favorite Recipes"
+    },
+    {
+      "bounds": [
+        8,
+        133,
+        239,
+        44
+      ],
+      "href": "/admin/site-settings",
+      "ref": "e10374096799150032485",
+      "role": "link",
+      "tag": "a",
+      "text": "Site Settings"
+    },
+    {
+      "bounds": [
+        8,
+        177,
+        239,
+        44
+      ],
+      "href": "/admin/manage/users",
+      "ref": "e4533179736425579737",
+      "role": "link",
+      "tag": "a",
+      "text": "Users"
+    },
+    {
+      "bounds": [
+        8,
+        221,
+        239,
+        44
+      ],
+      "href": "/admin/manage/households",
+      "ref": "e6382640523991824119",
+      "role": "link",
+      "tag": "a",
+      "text": "Households"
+    },
+    {
+      "bounds": [
+        8,
+        265,
+        239,
+        44
+      ],
+      "href": "/admin/manage/groups",
+      "ref": "e12253458221714826105",
+      "role": "link",
+      "tag": "a",
+      "text": "Groups"
+    },
+    {
+      "bounds": [
+        8,
+        309,
+        239,
+        44
+      ],
+      "href": "/admin/backups",
+      "ref": "e11353078765110736382",
+      "role": "link",
+      "tag": "a",
+      "text": "Backups"
+    },
+    {
+      "bounds": [
+        8,
+        378,
+        239,
+        40
+      ],
+      "href": "/admin/maintenance",
+      "ref": "e17876517785289262798",
+      "role": "link",
+      "tag": "a",
+      "text": "Maintenance"
+    },
+    {
+      "bounds": [
+        8,
+        418,
+        239,
+        40
+      ],
+      "ref": "e14080812221142843421",
+      "role": "listitem",
+      "tag": "div",
+      "text": "Debug"
+    },
+    {
+      "bounds": [
+        8,
+        800,
+        239,
+        44
+      ],
+      "ref": "e7515112489125091175",
+      "role": "listitem",
+      "tag": "div",
+      "text": "1\nAnnouncements"
+    },
+    {
+      "bounds": [
+        8,
+        848,
+        239,
+        44
+      ],
+      "expanded": false,
+      "ref": "e9453406036293201081",
+      "role": "listitem",
+      "tag": "div",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        276,
+        131,
+        97,
+        36
+      ],
+      "ref": "e3474039823230350343",
+      "role": null,
+      "tag": "button",
+      "text": "Create",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1173,
+        239,
+        48,
+        48
+      ],
+      "disabled": true,
+      "ref": "e11102635980398787233",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Mealie\nLogout\nChange Me\nFavorite Recipes\nSite Settings\nUsers\nHouseholds\nGroups\nBackups\nMaintenance\nDebug\n1\nAnnouncements\nSettings\nHousehold Management\nCreate\nHousehold\n\t\nName\n\t\nGroup\n\t\nTotal Users\n\t\nWebhooks Enabled\n\t\nDelete\n\nfa74a261-6709-48d7-a756-c439bb0929d4\tFamily\tHome\t1\tNo\t",
+  "text_truncated": false,
+  "title": "Manage Households",
+  "url": "/admin/manage/households/",
+  "viewport": [
+    1280,
+    900
+  ]
+}

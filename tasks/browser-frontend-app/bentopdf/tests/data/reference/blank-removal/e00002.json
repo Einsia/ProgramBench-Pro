@@ -1,0 +1,125 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        0,
+        1182,
+        24
+      ],
+      "ref": "edc784a70",
+      "tag": "div",
+      "text": "Click to select a file or drag and drop PDF file Your files never leave your device."
+    },
+    {
+      "bounds": [
+        1186,
+        59,
+        32,
+        32
+      ],
+      "ref": "ecf405c22",
+      "tag": "button",
+      "title": "Remove file"
+    },
+    {
+      "bounds": [
+        49,
+        171,
+        1182,
+        8
+      ],
+      "label": "Sensitivity: 80 %",
+      "ref": "eb552f036",
+      "tag": "input",
+      "type": "range",
+      "value": "80"
+    },
+    {
+      "bounds": [
+        49,
+        238,
+        1182,
+        48
+      ],
+      "ref": "e5f9a9147",
+      "tag": "button",
+      "text": "Detect Blank Pages"
+    },
+    {
+      "bounds": [
+        58,
+        395,
+        282,
+        391
+      ],
+      "ref": "ec8511e8f",
+      "tag": "div",
+      "text": "2"
+    },
+    {
+      "bounds": [
+        352,
+        395,
+        282,
+        391
+      ],
+      "ref": "ec55c1a0d",
+      "tag": "div",
+      "text": "4"
+    },
+    {
+      "bounds": [
+        49,
+        811,
+        1182,
+        48
+      ],
+      "ref": "e2ea86fb3",
+      "tag": "button",
+      "text": "Remove Selected Blank Pages"
+    },
+    {
+      "bounds": [
+        473,
+        472,
+        334,
+        40
+      ],
+      "ref": "e2a50e308",
+      "tag": "button",
+      "text": "OK"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "blank-pages.pdf",
+      "ref": "dc6bc28485ea5",
+      "size": 1404
+    }
+  ],
+  "inputs": [
+    "blank-pages.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›Remove Blank Pages\nRemove Blank Pages\n\nAutomatically detect and delete blank pages.\n\nClick to select a file or drag and drop\n\nPDF file\n\nYour files never leave your device.\n\nblank-pages.pdf\n\n3.3 KB • 4 pages\n\nSensitivity: 80%\n\nHigher = stricter, only purely blank pages. Lower = allows pages with some content.\n\nDetect Blank Pages\nDetected Blank Pages\n\nFound 2 blank page(s). Click on a page to deselect it.\n\n2\n4\nRemove Selected Blank Pages\nSuccess\n\nRemoved 2 blank page(s) successfully!\n\nOK\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/remove-blank-pages.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

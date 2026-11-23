@@ -1,0 +1,17 @@
+**
+!Dockerfile
+!.dockerignore
+!*.py
+!*.md
+!evaluation/
+!evaluation/*.py
+!reference/
+!reference/*.py
+!test.sh
+!docker-compose.yaml
+!result-schema.json
+!data/
+!data/**
+
+**/__pycache__
+**/*.pyc

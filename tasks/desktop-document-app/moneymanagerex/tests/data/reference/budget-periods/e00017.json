@@ -1,0 +1,265 @@
+{
+  "focused": "e8d2c534a",
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        1024
+      ],
+      "name": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),",
+      "ref": "e93ed40b7",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        25
+      ],
+      "name": "",
+      "ref": "e37b0c28a",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        39,
+        25
+      ],
+      "name": "File",
+      "ref": "eae5e7196",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        39,
+        19,
+        75,
+        25
+      ],
+      "name": "Accounts",
+      "ref": "ecb5893cc",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        114,
+        19,
+        49,
+        25
+      ],
+      "name": "Tools",
+      "ref": "ec5eeafb2",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        163,
+        19,
+        48,
+        25
+      ],
+      "name": "View",
+      "ref": "eb0ba3d40",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        211,
+        19,
+        46,
+        25
+      ],
+      "name": "Help",
+      "ref": "ef594ac36",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        1,
+        995,
+        200,
+        6
+      ],
+      "name": "",
+      "ref": "ef36204a0",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        490,
+        348,
+        301,
+        328
+      ],
+      "name": "Budget Editor",
+      "ref": "eac97d214",
+      "role": "frame",
+      "states": [
+        "active",
+        "modal"
+      ]
+    },
+    {
+      "bounds": [
+        498,
+        375,
+        285,
+        198
+      ],
+      "name": "",
+      "ref": "e764c770d",
+      "role": "table"
+    },
+    {
+      "bounds": [
+        500,
+        376,
+        281,
+        21
+      ],
+      "name": "2026",
+      "ref": "e3bbf506b",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        500,
+        399,
+        281,
+        21
+      ],
+      "name": "2026-06",
+      "ref": "eae37361a",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        500,
+        422,
+        281,
+        21
+      ],
+      "name": "2027",
+      "ref": "e6f6f90db",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        500,
+        445,
+        281,
+        21
+      ],
+      "name": "2027-02",
+      "ref": "e52180806",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        496,
+        585,
+        90,
+        34
+      ],
+      "description": "Add a new budget year",
+      "name": "Add Year",
+      "ref": "ee79f8fa4",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        591,
+        585,
+        104,
+        34
+      ],
+      "description": "Add a new budget month",
+      "name": "Add Month",
+      "ref": "e8d2c534a",
+      "role": "push button",
+      "states": [
+        "focused"
+      ]
+    },
+    {
+      "bounds": [
+        700,
+        585,
+        85,
+        34
+      ],
+      "description": "Delete existing budget",
+      "name": "Delete",
+      "ref": "e04558db8",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        496,
+        629,
+        289,
+        2
+      ],
+      "name": "",
+      "ref": "ea973437b",
+      "role": "separator"
+    },
+    {
+      "bounds": [
+        610,
+        636,
+        85,
+        34
+      ],
+      "name": "OK",
+      "ref": "e5e34268d",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        700,
+        636,
+        85,
+        34
+      ],
+      "name": "Cancel",
+      "ref": "e1460cfce",
+      "role": "push button"
+    }
+  ],
+  "screen": [
+    1280,
+    1024
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": false,
+      "bounds": [
+        0,
+        38,
+        1280,
+        1005
+      ],
+      "ref": "w5b3c0310",
+      "title": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),"
+    },
+    {
+      "active": true,
+      "bounds": [
+        492,
+        388,
+        299,
+        307
+      ],
+      "ref": "w80b16e18",
+      "title": "Budget Editor"
+    }
+  ]
+}

@@ -1,0 +1,511 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "aria": "New file",
+      "bounds": [
+        4,
+        4,
+        38,
+        36
+      ],
+      "ref": "efd5d4d0f",
+      "tag": "button",
+      "title": "New file"
+    },
+    {
+      "aria": "New folder",
+      "bounds": [
+        42,
+        4,
+        38,
+        36
+      ],
+      "ref": "e5c7a31eb",
+      "tag": "button",
+      "title": "New folder"
+    },
+    {
+      "aria": "Delete",
+      "bounds": [
+        80,
+        4,
+        38,
+        36
+      ],
+      "ref": "eef9e44b9",
+      "tag": "button",
+      "title": "Delete"
+    },
+    {
+      "aria": "Rename",
+      "bounds": [
+        118,
+        4,
+        38,
+        36
+      ],
+      "ref": "e7563cf1f",
+      "tag": "button",
+      "title": "Rename"
+    },
+    {
+      "aria": "Close explorer",
+      "bounds": [
+        218,
+        4,
+        38,
+        36
+      ],
+      "ref": "eb7614965",
+      "tag": "button",
+      "title": "Close explorer"
+    },
+    {
+      "bounds": [
+        0,
+        44,
+        260,
+        23
+      ],
+      "ref": "e56d9da7f",
+      "tag": "div",
+      "text": "Trash"
+    },
+    {
+      "bounds": [
+        0,
+        67,
+        260,
+        23
+      ],
+      "ref": "ef97969d7",
+      "tag": "div",
+      "text": "Temp"
+    },
+    {
+      "bounds": [
+        0,
+        91,
+        260,
+        23
+      ],
+      "ref": "ef1debc3a",
+      "tag": "div",
+      "text": "Draft"
+    },
+    {
+      "bounds": [
+        0,
+        114,
+        260,
+        23
+      ],
+      "ref": "e955e0f4b",
+      "tag": "div",
+      "text": "Welcome file"
+    },
+    {
+      "aria": "Toggle explorer",
+      "bounds": [
+        264,
+        4,
+        38,
+        36
+      ],
+      "ref": "ec7f51653",
+      "tag": "button",
+      "title": "Toggle explorer"
+    },
+    {
+      "aria": "Toggle side bar",
+      "bounds": [
+        958,
+        4,
+        38,
+        36
+      ],
+      "ref": "ea06d0b6b",
+      "tag": "button",
+      "title": "Toggle side bar"
+    },
+    {
+      "bounds": [
+        787,
+        4,
+        75,
+        36
+      ],
+      "label": "Draft",
+      "ref": "e101ff43d",
+      "tag": "input",
+      "type": "text",
+      "value": "Draft"
+    },
+    {
+      "aria": "Synchronize now",
+      "bounds": [
+        871,
+        4,
+        34,
+        36
+      ],
+      "disabled": true,
+      "ref": "e480c8073",
+      "tag": "button",
+      "title": "Synchronize now"
+    },
+    {
+      "aria": "Publish now",
+      "bounds": [
+        915,
+        4,
+        34,
+        36
+      ],
+      "disabled": true,
+      "ref": "e2878dba3",
+      "tag": "button",
+      "title": "Publish now"
+    },
+    {
+      "aria": "Undo",
+      "bounds": [
+        314,
+        4,
+        34,
+        36
+      ],
+      "ref": "ed972f7af",
+      "tag": "button",
+      "title": "Undo"
+    },
+    {
+      "aria": "Redo",
+      "bounds": [
+        348,
+        4,
+        34,
+        36
+      ],
+      "disabled": true,
+      "ref": "ed30b390f",
+      "tag": "button",
+      "title": "Redo"
+    },
+    {
+      "aria": "Bold – Ctrl+Shift+B",
+      "bounds": [
+        390,
+        4,
+        34,
+        36
+      ],
+      "ref": "ea31dff83",
+      "tag": "button",
+      "title": "Bold – Ctrl+Shift+B"
+    },
+    {
+      "aria": "Italic – Ctrl+Shift+I",
+      "bounds": [
+        424,
+        4,
+        34,
+        36
+      ],
+      "ref": "ece8e9a2b",
+      "tag": "button",
+      "title": "Italic – Ctrl+Shift+I"
+    },
+    {
+      "aria": "Heading – Ctrl+Shift+H",
+      "bounds": [
+        458,
+        4,
+        34,
+        36
+      ],
+      "ref": "ee31adf97",
+      "tag": "button",
+      "title": "Heading – Ctrl+Shift+H"
+    },
+    {
+      "aria": "Strikethrough – Ctrl+Shift+S",
+      "bounds": [
+        492,
+        4,
+        34,
+        36
+      ],
+      "ref": "e504de92f",
+      "tag": "button",
+      "title": "Strikethrough – Ctrl+Shift+S"
+    },
+    {
+      "aria": "Unordered list – Ctrl+Shift+U",
+      "bounds": [
+        534,
+        4,
+        34,
+        36
+      ],
+      "ref": "e085fcfef",
+      "tag": "button",
+      "title": "Unordered list – Ctrl+Shift+U"
+    },
+    {
+      "aria": "Ordered list – Ctrl+Shift+O",
+      "bounds": [
+        568,
+        4,
+        34,
+        36
+      ],
+      "ref": "ef710c88b",
+      "tag": "button",
+      "title": "Ordered list – Ctrl+Shift+O"
+    },
+    {
+      "aria": "Check list – Ctrl+Shift+C",
+      "bounds": [
+        602,
+        4,
+        34,
+        36
+      ],
+      "ref": "e6821dd9b",
+      "tag": "button",
+      "title": "Check list – Ctrl+Shift+C"
+    },
+    {
+      "aria": "Blockquote – Ctrl+Shift+Q",
+      "bounds": [
+        644,
+        4,
+        34,
+        36
+      ],
+      "ref": "ee12273bf",
+      "tag": "button",
+      "title": "Blockquote – Ctrl+Shift+Q"
+    },
+    {
+      "aria": "Code – Ctrl+Shift+K",
+      "bounds": [
+        678,
+        4,
+        34,
+        36
+      ],
+      "ref": "e369da927",
+      "tag": "button",
+      "title": "Code – Ctrl+Shift+K"
+    },
+    {
+      "aria": "Table – Ctrl+Shift+T",
+      "bounds": [
+        712,
+        4,
+        34,
+        36
+      ],
+      "ref": "efe77f797",
+      "tag": "button",
+      "title": "Table – Ctrl+Shift+T"
+    },
+    {
+      "bounds": [
+        260,
+        44,
+        357,
+        456
+      ],
+      "editable": true,
+      "ref": "e4570f79c",
+      "tag": "pre",
+      "text": "A == marked == :smile: note.",
+      "value": "A ==marked== :smile: note.\n",
+      "value_truncated": false
+    },
+    {
+      "aria": "Toggle navigation bar",
+      "bounds": [
+        617,
+        47,
+        26,
+        26
+      ],
+      "ref": "e98fccd07",
+      "tag": "button",
+      "title": "Toggle navigation bar"
+    },
+    {
+      "aria": "Toggle side preview",
+      "bounds": [
+        617,
+        76,
+        26,
+        26
+      ],
+      "ref": "e594daaff",
+      "tag": "button",
+      "title": "Toggle side preview"
+    },
+    {
+      "aria": "Reader mode",
+      "bounds": [
+        617,
+        105,
+        26,
+        26
+      ],
+      "ref": "e2b927937",
+      "tag": "button",
+      "title": "Reader mode"
+    },
+    {
+      "aria": "Toggle focus mode",
+      "bounds": [
+        617,
+        793,
+        26,
+        26
+      ],
+      "ref": "eedaa47cb",
+      "tag": "button",
+      "title": "Toggle focus mode"
+    },
+    {
+      "aria": "Toggle scroll sync",
+      "bounds": [
+        617,
+        822,
+        26,
+        26
+      ],
+      "ref": "ed740000f",
+      "tag": "button",
+      "title": "Toggle scroll sync"
+    },
+    {
+      "aria": "Toggle status bar",
+      "bounds": [
+        617,
+        851,
+        26,
+        26
+      ],
+      "ref": "eac7847f7",
+      "tag": "button",
+      "title": "Toggle status bar"
+    },
+    {
+      "aria": "Main menu",
+      "bounds": [
+        1004,
+        4,
+        38,
+        36
+      ],
+      "ref": "ecddeaecf",
+      "tag": "button",
+      "title": "Main menu"
+    },
+    {
+      "aria": "Close side bar",
+      "bounds": [
+        1238,
+        4,
+        38,
+        36
+      ],
+      "ref": "ee7c9cd2f",
+      "tag": "button",
+      "title": "Close side bar"
+    },
+    {
+      "bounds": [
+        1010,
+        54,
+        260,
+        59
+      ],
+      "ref": "eb02ad6b9",
+      "tag": "label",
+      "text": "Import Markdown Import a plain text file."
+    },
+    {
+      "bounds": [
+        1010,
+        113,
+        260,
+        59
+      ],
+      "ref": "e04071529",
+      "tag": "label",
+      "text": "Import HTML Convert an HTML file to Markdown."
+    },
+    {
+      "bounds": [
+        1010,
+        194,
+        260,
+        59
+      ],
+      "ref": "e165d8242",
+      "tag": "a",
+      "text": "Export as Markdown Save plain text file."
+    },
+    {
+      "bounds": [
+        1010,
+        253,
+        260,
+        75
+      ],
+      "ref": "e2d881811",
+      "tag": "a",
+      "text": "Export as HTML Generate an HTML page from a template."
+    },
+    {
+      "bounds": [
+        1010,
+        328,
+        260,
+        75
+      ],
+      "ref": "e4c21c5e4",
+      "tag": "a",
+      "text": "sponsor Export as PDF Produce a PDF from an HTML template."
+    },
+    {
+      "bounds": [
+        1010,
+        403,
+        260,
+        59
+      ],
+      "ref": "e755dc7c4",
+      "tag": "a",
+      "text": "sponsor Export with Pandoc Convert to PDF, Word, EPUB..."
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "Draft.html",
+      "ref": "d1",
+      "size": 104
+    }
+  ],
+  "drawing": [],
+  "drawing_truncated": false,
+  "text": "A\nmarked\n😄 note.\nMarkdown\n27\nbytes\n4\nwords\n1\nlines\nLn 1, Col 0\nHTML\n14\ncharacters\n4\nwords\n1\nparagraphs\nImport/export",
+  "text_truncated": false,
+  "title": "StackEdit",
+  "url": "/",
+  "viewport": [
+    1280,
+    900
+  ]
+}

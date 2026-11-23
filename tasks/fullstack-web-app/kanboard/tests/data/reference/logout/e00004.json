@@ -1,0 +1,99 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        465,
+        82,
+        308,
+        28
+      ],
+      "focused": true,
+      "label": "Username",
+      "name": "username",
+      "ref": "e213",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        465,
+        138,
+        308,
+        28
+      ],
+      "label": "Password",
+      "name": "password",
+      "ref": "e214",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": ""
+    },
+    {
+      "bounds": [
+        469,
+        179,
+        13,
+        13
+      ],
+      "checked": true,
+      "label": "Remember Me",
+      "name": "remember_me",
+      "ref": "e215",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        465,
+        234,
+        81,
+        30
+      ],
+      "ref": "e216",
+      "role": null,
+      "tag": "button",
+      "text": "Sign in"
+    },
+    {
+      "bounds": [
+        465,
+        284,
+        128,
+        17
+      ],
+      "href": "/forgot-password",
+      "ref": "e217",
+      "role": null,
+      "tag": "a",
+      "text": "Forgot password?"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Username\n*\nPassword\n*\n Remember Me\n\n\nSign in\nForgot password?",
+  "text_truncated": false,
+  "title": "Login",
+  "url": "/login",
+  "viewport": [
+    1280,
+    900
+  ]
+}

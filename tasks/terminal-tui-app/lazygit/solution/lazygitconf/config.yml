@@ -1,0 +1,47 @@
+# Deployment configuration loaded through LG_CONFIG_FILE from the read-only installation. It removes first-run popups, the update check, background network activity and
+# animation, and disables every key that would start an editor, a shell, an opener, a diff tool or a browser.
+gui:
+  showRandomTip: false
+  colorScheme: dark
+  animateExplosion: false
+  mouseEvents: false
+  language: en
+  nerdFontsVersion: ""
+disableStartupPopups: true
+promptToReturnFromSubprocess: false
+confirmOnQuit: false
+notARepository: create
+update:
+  method: never
+git:
+  autoFetch: false
+  autoRefresh: false
+  autoDetectExternalChanges: false
+  autoForwardBranches: none
+os:
+  copyToClipboardCmd: 'printf "\033]52;c;$(printf {{text}} | base64 -w 0)\a" > /dev/tty'
+keybinding:
+  universal:
+    executeShellCommand: <disabled>
+    edit: <disabled>
+    openFile: <disabled>
+    editConfig: <disabled>
+    openDiffTool: <disabled>
+    optionMenu: <disabled>
+  files:
+    commitChangesWithEditor: <disabled>
+  commits:
+    renameCommitWithEditor: <disabled>
+    openInBrowser: <disabled>
+    openPullRequestInBrowser: <disabled>
+  branches:
+    createPullRequest: <disabled>
+    viewPullRequestOptions: <disabled>
+    openPullRequestInBrowser: <disabled>
+    viewGitFlowOptions: <disabled>
+  main:
+    editSelectHunk: <disabled>
+  status:
+    checkForUpdate: <disabled>
+  commitMessage:
+    commitMenu: <disabled>

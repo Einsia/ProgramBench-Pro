@@ -1,0 +1,324 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        559,
+        -44,
+        162,
+        36
+      ],
+      "href": "/feeds#main",
+      "offscreen": true,
+      "ref": "e210",
+      "role": null,
+      "tag": "a",
+      "text": "Skip to content"
+    },
+    {
+      "aria": "Home page",
+      "bounds": [
+        193,
+        10,
+        77,
+        19
+      ],
+      "href": "/unread",
+      "ref": "e211",
+      "role": null,
+      "tag": "a",
+      "text": "Mini\nflux"
+    },
+    {
+      "aria": "Unread, 1 unread entry",
+      "bounds": [
+        278,
+        12,
+        102,
+        16
+      ],
+      "href": "/unread",
+      "ref": "e212",
+      "role": null,
+      "tag": "a",
+      "text": "Unread (1)"
+    },
+    {
+      "bounds": [
+        395,
+        12,
+        78,
+        16
+      ],
+      "href": "/starred",
+      "ref": "e213",
+      "role": null,
+      "tag": "a",
+      "text": "Starred"
+    },
+    {
+      "bounds": [
+        488,
+        12,
+        78,
+        16
+      ],
+      "href": "/history",
+      "ref": "e214",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        581,
+        12,
+        70,
+        16
+      ],
+      "href": "/feeds",
+      "ref": "e215",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "aria": "Add feed",
+      "bounds": [
+        650,
+        12,
+        26,
+        16
+      ],
+      "href": "/subscribe",
+      "ref": "e216",
+      "role": null,
+      "tag": "a",
+      "text": "(+)",
+      "title": "Keyboard Shortcut: +"
+    },
+    {
+      "bounds": [
+        691,
+        12,
+        104,
+        16
+      ],
+      "href": "/categories",
+      "ref": "e217",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        810,
+        12,
+        70,
+        16
+      ],
+      "href": "/search",
+      "ref": "e218",
+      "role": null,
+      "tag": "a",
+      "text": "Search"
+    },
+    {
+      "bounds": [
+        894,
+        12,
+        87,
+        16
+      ],
+      "href": "/settings",
+      "ref": "e219",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        996,
+        10,
+        70,
+        18
+      ],
+      "ref": "e220",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "title": "Logged in as alice"
+    },
+    {
+      "bounds": [
+        193,
+        82,
+        66,
+        18
+      ],
+      "href": "/feeds",
+      "ref": "e221",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "bounds": [
+        284,
+        82,
+        95,
+        18
+      ],
+      "href": "/subscribe",
+      "ref": "e222",
+      "role": null,
+      "tag": "a",
+      "text": "Add feed"
+    },
+    {
+      "bounds": [
+        403,
+        82,
+        76,
+        18
+      ],
+      "href": "/export",
+      "ref": "e223",
+      "role": null,
+      "tag": "a",
+      "text": "Export"
+    },
+    {
+      "bounds": [
+        503,
+        82,
+        76,
+        18
+      ],
+      "href": "/import",
+      "ref": "e224",
+      "role": null,
+      "tag": "a",
+      "text": "Import"
+    },
+    {
+      "bounds": [
+        603,
+        81,
+        270,
+        18
+      ],
+      "ref": "e225",
+      "role": null,
+      "tag": "button",
+      "text": "Refresh all feeds in the background"
+    },
+    {
+      "bounds": [
+        199,
+        122,
+        125,
+        18
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e226",
+      "role": null,
+      "tag": "a",
+      "text": "Fragile Feed"
+    },
+    {
+      "aria": "Category: All",
+      "bounds": [
+        429,
+        125,
+        22,
+        14
+      ],
+      "href": "/category/1/entries",
+      "ref": "e227",
+      "role": null,
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        199,
+        146,
+        85,
+        12
+      ],
+      "href": "[external]",
+      "ref": "e228",
+      "role": null,
+      "tag": "a",
+      "text": "fragile.test",
+      "title": "http://fragile.test/"
+    },
+    {
+      "bounds": [
+        199,
+        167,
+        65,
+        16
+      ],
+      "ref": "e229",
+      "role": null,
+      "tag": "button",
+      "text": "Refresh"
+    },
+    {
+      "bounds": [
+        280,
+        169,
+        51,
+        15
+      ],
+      "href": "/feed/1/edit",
+      "ref": "e230",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        346,
+        167,
+        68,
+        16
+      ],
+      "ref": "e231",
+      "role": null,
+      "tag": "button",
+      "text": "Remove"
+    },
+    {
+      "bounds": [
+        429,
+        167,
+        111,
+        16
+      ],
+      "ref": "e232",
+      "role": null,
+      "tag": "button",
+      "text": "Mark all as read"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Skip to content\nMini\nflux\nUnread (1) Starred History Feeds (+) Categories Search Settings Logout\nFeeds (1)\nFeeds Add feed Export Import \nRefresh all feeds in the background\nFragile Feed ( \n1 unread entry\n1 / \n1 entry in total\n1 ) All\nfragile.test  Last check: just now  Next check: 59m59s\nRefresh Edit Remove Mark all as read\n1 error - Unable to detect feed format: parser: unable to detect feed format.",
+  "text_truncated": false,
+  "title": "Feeds (1) - Miniflux",
+  "url": "/feeds",
+  "viewport": [
+    1280,
+    900
+  ]
+}

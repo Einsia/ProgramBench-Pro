@@ -1,0 +1,427 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        4,
+        0,
+        48,
+        48
+      ],
+      "ref": "e11102633781375530811",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        52,
+        0,
+        48,
+        48
+      ],
+      "href": "/g/home",
+      "ref": "e6999663049315888676",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        52,
+        0,
+        48,
+        48
+      ],
+      "ref": "e11102632681863902600",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        964,
+        4,
+        214,
+        40
+      ],
+      "placeholder": "Press '/'",
+      "ref": "e8266481313866675366",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1178,
+        6,
+        98,
+        36
+      ],
+      "ref": "e18428108610740647529",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        0,
+        48,
+        255,
+        76
+      ],
+      "href": "/user/profile",
+      "ref": "e9026058544016782197",
+      "role": null,
+      "tag": "a",
+      "text": "Change Me\nFavorite Recipes"
+    },
+    {
+      "bounds": [
+        64,
+        84,
+        123,
+        28
+      ],
+      "href": "/user/073b8db4-0eca-49b4-8f85-d264d61fa114/favorites",
+      "ref": "e14013455441632128615",
+      "role": null,
+      "tag": "a",
+      "text": "Favorite Recipes"
+    },
+    {
+      "bounds": [
+        8,
+        137,
+        118,
+        44
+      ],
+      "expanded": false,
+      "ref": "e3474039823230350343",
+      "role": null,
+      "tag": "button",
+      "text": "Create",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        189,
+        239,
+        44
+      ],
+      "href": "/g/home",
+      "ref": "e18093976238526241986",
+      "role": "link",
+      "tag": "a",
+      "text": "Recipes"
+    },
+    {
+      "bounds": [
+        8,
+        233,
+        239,
+        44
+      ],
+      "href": "/g/home/recipes/finder",
+      "ref": "e7707295927814897631",
+      "role": "link",
+      "tag": "a",
+      "text": "Recipe Finder"
+    },
+    {
+      "bounds": [
+        8,
+        277,
+        239,
+        44
+      ],
+      "href": "/household/mealplan/planner/view",
+      "ref": "e15345382085259656294",
+      "role": "link",
+      "tag": "a",
+      "text": "Meal Planner"
+    },
+    {
+      "bounds": [
+        8,
+        321,
+        239,
+        44
+      ],
+      "href": "/shopping-lists",
+      "ref": "e1392928906823606240",
+      "role": "link",
+      "tag": "a",
+      "text": "Shopping Lists"
+    },
+    {
+      "bounds": [
+        8,
+        365,
+        239,
+        44
+      ],
+      "href": "/g/home/recipes/timeline",
+      "ref": "e14323894326858449786",
+      "role": "link",
+      "tag": "a",
+      "text": "Timeline"
+    },
+    {
+      "bounds": [
+        8,
+        409,
+        239,
+        44
+      ],
+      "href": "/g/home/cookbooks",
+      "ref": "e12188956910744264135",
+      "role": "link",
+      "tag": "a",
+      "text": "Cookbooks"
+    },
+    {
+      "bounds": [
+        8,
+        453,
+        239,
+        44
+      ],
+      "ref": "e18331291136850913378",
+      "role": "listitem",
+      "tag": "div",
+      "text": "Organizers"
+    },
+    {
+      "bounds": [
+        8,
+        800,
+        239,
+        44
+      ],
+      "ref": "e7515112489125091175",
+      "role": "listitem",
+      "tag": "div",
+      "text": "1\nAnnouncements"
+    },
+    {
+      "bounds": [
+        8,
+        848,
+        239,
+        44
+      ],
+      "expanded": false,
+      "ref": "e9453406036293201081",
+      "role": "listitem",
+      "tag": "div",
+      "text": "Settings"
+    },
+    {
+      "aria": "Private Household",
+      "bounds": [
+        429,
+        -104,
+        133,
+        40
+      ],
+      "checked": false,
+      "label": "Private Household",
+      "offscreen": true,
+      "proxy": true,
+      "ref": "e3783626205155853400",
+      "role": null,
+      "tag": "input",
+      "text": "Private Household",
+      "type": "checkbox",
+      "value": "true"
+    },
+    {
+      "bounds": [
+        433,
+        -16,
+        52,
+        20
+      ],
+      "href": "[external]",
+      "ref": "e17718561554466260587",
+      "role": null,
+      "tag": "a",
+      "text": "Docs"
+    },
+    {
+      "aria": "Lock recipe edits from other households",
+      "bounds": [
+        429,
+        28,
+        290,
+        40
+      ],
+      "checked": true,
+      "label": "Lock recipe edits from other households",
+      "proxy": true,
+      "ref": "e15652821030482449032",
+      "role": null,
+      "tag": "input",
+      "text": "Lock recipe edits from other households",
+      "type": "checkbox",
+      "value": "true"
+    },
+    {
+      "aria": "Show announcements from Mealie",
+      "bounds": [
+        429,
+        112,
+        251,
+        40
+      ],
+      "checked": true,
+      "label": "Show announcements from Mealie",
+      "proxy": true,
+      "ref": "e2181461938646160598",
+      "role": null,
+      "tag": "input",
+      "text": "Show announcements from Mealie",
+      "type": "checkbox",
+      "value": "true"
+    },
+    {
+      "bounds": [
+        441,
+        216,
+        694,
+        48
+      ],
+      "expanded": false,
+      "ref": "e3717947076161487906",
+      "role": "combobox",
+      "tag": "div",
+      "text": "Sunday\nFirst day of the week"
+    },
+    {
+      "aria": "Allow users outside of your group to see your recipes",
+      "bounds": [
+        429,
+        423,
+        384,
+        40
+      ],
+      "checked": false,
+      "label": "Allow users outside of your group to see your recipes",
+      "proxy": true,
+      "ref": "e3729049548082260823",
+      "role": null,
+      "tag": "input",
+      "text": "Allow users outside of your group to see your recipes",
+      "type": "checkbox",
+      "value": "true"
+    },
+    {
+      "aria": "Show nutrition information",
+      "bounds": [
+        429,
+        531,
+        189,
+        40
+      ],
+      "checked": true,
+      "label": "Show nutrition information",
+      "proxy": true,
+      "ref": "e7526815104779437001",
+      "role": null,
+      "tag": "input",
+      "text": "Show nutrition information",
+      "type": "checkbox",
+      "value": "true"
+    },
+    {
+      "aria": "Show recipe assets",
+      "bounds": [
+        429,
+        619,
+        141,
+        40
+      ],
+      "checked": true,
+      "label": "Show recipe assets",
+      "proxy": true,
+      "ref": "e407384503619450904",
+      "role": null,
+      "tag": "input",
+      "text": "Show recipe assets",
+      "type": "checkbox",
+      "value": "true"
+    },
+    {
+      "aria": "Default to landscape view",
+      "bounds": [
+        429,
+        687,
+        186,
+        40
+      ],
+      "checked": false,
+      "label": "Default to landscape view",
+      "proxy": true,
+      "ref": "e14959803288827654534",
+      "role": null,
+      "tag": "input",
+      "text": "Default to landscape view",
+      "type": "checkbox",
+      "value": "true"
+    },
+    {
+      "aria": "Disable users from commenting on recipes",
+      "bounds": [
+        429,
+        755,
+        309,
+        40
+      ],
+      "checked": false,
+      "label": "Disable users from commenting on recipes",
+      "proxy": true,
+      "ref": "e1389931187831418037",
+      "role": null,
+      "tag": "input",
+      "text": "Disable users from commenting on recipes",
+      "type": "checkbox",
+      "value": "true"
+    },
+    {
+      "bounds": [
+        1044,
+        840,
+        100,
+        36
+      ],
+      "ref": "e9707048278508923054",
+      "role": null,
+      "tag": "button",
+      "text": "Update"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    1383
+  ],
+  "scroll": [
+    0,
+    483
+  ],
+  "text": "Mealie\nLogout\nChange Me\nFavorite Recipes\nCreate\nRecipes\nRecipe Finder\nMeal Planner\nShopping Lists\nTimeline\nCookbooks\nOrganizers\n1\nAnnouncements\nSettings\nHousehold Settings\nThese items are shared within your household. Editing one of them will change it for the whole household!\nHousehold Preferences\nPrivate Household\n\nSetting your household to private will disable all public view options. This overrides any individual public view settings\n\nDocs\nLock recipe edits from other households\n\nWhen enabled only users in your household can edit recipes created by your household\n\nShow announcements from Mealie\n\nWhether or not you want to allow users to see announcements from Mealie. When enabled users can still opt-out from seeing them in their user settings\n\nSunday\nFirst day of the week\nHousehold Recipe Preferences\n\nThese are the default settings when a new recipe is created in your household. These can be changed for individual recipes in the recipe settings menu.\n\nAllow users outside of your group to see your recipes\n\nWhen enabled you can use a public share link to share specific recipes without authorizing the user. When disabled, you can only share recipes with users who are in your group or with a pre-generated private link\n\nShow nutrition information\n\nWhen enabled the nutrition information will be shown on the recipe if available. If there is no nutrition information available, the nutrition information will not be shown\n\nShow recipe assets\n\nWhen enabled the recipe assets will be shown on the recipe if available\n\nDefault to landscape view\n\nWhen enabled the recipe header section will be shown in landscape view\n\nDisable users from commenting on recipes\n\nHides the comment section on the recipe page and disables commenting\n\nUpdate",
+  "text_truncated": false,
+  "title": "Household",
+  "url": "/household/",
+  "viewport": [
+    1280,
+    900
+  ]
+}

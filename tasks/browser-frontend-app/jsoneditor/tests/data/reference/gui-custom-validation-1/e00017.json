@@ -1,0 +1,95 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        13,
+        157,
+        26,
+        26
+      ],
+      "ref": "e546c927e",
+      "tag": "button",
+      "title": "Format JSON data, with proper indentation and line feeds (Ctrl+I)"
+    },
+    {
+      "bounds": [
+        43,
+        157,
+        26,
+        26
+      ],
+      "ref": "e9b780019",
+      "tag": "button",
+      "title": "Compact JSON data, remove all whitespaces (Ctrl+Shift+I)"
+    },
+    {
+      "bounds": [
+        73,
+        157,
+        26,
+        26
+      ],
+      "ref": "ea12a318a",
+      "tag": "button",
+      "title": "Sort contents"
+    },
+    {
+      "bounds": [
+        103,
+        157,
+        26,
+        26
+      ],
+      "ref": "e35050c81",
+      "tag": "button",
+      "title": "Filter, sort, or transform contents"
+    },
+    {
+      "bounds": [
+        133,
+        157,
+        26,
+        26
+      ],
+      "ref": "e877cc316",
+      "tag": "button",
+      "title": "Repair JSON: fix quotes and escape characters, remove comments and JSONP notation, turn JavaScript objects into JSON."
+    },
+    {
+      "bounds": [
+        171,
+        157,
+        54,
+        26
+      ],
+      "ref": "e51ebe93a",
+      "tag": "button",
+      "text": "Text ▾",
+      "title": "Switch Editor Mode"
+    },
+    {
+      "bounds": [
+        9,
+        188,
+        598,
+        437
+      ],
+      "ref": "e57dd875f",
+      "tag": "textarea",
+      "value": "{\"customers\": [{\"name\": \"Joe\"}]}"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "drawing": [],
+  "drawing_truncated": false,
+  "text": "Asynchronous custom validation\nThis example demonstrates how to run asynchronous custom validation on a JSON object. The names are checked asynchronously and the results \"come in\" half a second later. Known names in this example are 'Joe', 'Harry', 'Megan'. For other names, a validation error will be displayed.\nLn:\n13\nCol:\n2\n126\ncharacters selected",
+  "text_truncated": false,
+  "title": "JSONEditor | Custom validation (asynchronous)",
+  "url": "/examples/19_custom_validation_async.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

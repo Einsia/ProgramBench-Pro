@@ -1,0 +1,196 @@
+[
+  [
+    -1,
+    {
+      "/CPDFJSONformatversion": { "I": 2 },
+      "/CPDFJSONcontentparsed": true,
+      "/CPDFJSONstreamdataincluded": true,
+      "/CPDFJSONmajorpdfversion": { "I": 1 },
+      "/CPDFJSONminorpdfversion": { "I": 4 }
+    }
+  ],
+  [
+    0,
+    {
+      "/Size": { "I": 10 },
+      "/Root": 13,
+      "/Info": 8,
+      "/ID": [ "I>½ò4™ÇooÑEª\nÌˆ\u0004", "I>½ò4™ÇooÑEª\nÌˆ\u0004" ]
+    }
+  ],
+  [ 1, { "/F1": 2, "/F2": 3, "/F3": 4, "/F4": 5 } ],
+  [
+    2,
+    {
+      "/BaseFont": { "N": "/Helvetica" },
+      "/Encoding": { "N": "/WinAnsiEncoding" },
+      "/Name": { "N": "/F1" },
+      "/Subtype": { "N": "/Type1" },
+      "/Type": { "N": "/Font" }
+    }
+  ],
+  [
+    3,
+    {
+      "/BaseFont": { "N": "/Helvetica-Bold" },
+      "/Encoding": { "N": "/WinAnsiEncoding" },
+      "/Name": { "N": "/F2" },
+      "/Subtype": { "N": "/Type1" },
+      "/Type": { "N": "/Font" }
+    }
+  ],
+  [
+    4,
+    {
+      "/BaseFont": { "N": "/Times-Roman" },
+      "/Encoding": { "N": "/WinAnsiEncoding" },
+      "/Name": { "N": "/F3" },
+      "/Subtype": { "N": "/Type1" },
+      "/Type": { "N": "/Font" }
+    }
+  ],
+  [
+    5,
+    {
+      "/BaseFont": { "N": "/Courier" },
+      "/Encoding": { "N": "/WinAnsiEncoding" },
+      "/Name": { "N": "/F4" },
+      "/Subtype": { "N": "/Type1" },
+      "/Type": { "N": "/Font" }
+    }
+  ],
+  [
+    8,
+    {
+      "/Author": "Ada Finch",
+      "/CreationDate": "D:20000101000000+00'00'",
+      "/Creator": "Fixture Studio",
+      "/Keywords": "harbor, survey, charts",
+      "/ModDate": "D:20000101000000+00'00'",
+      "/Producer": "ReportLab PDF Library - www.reportlab.com",
+      "/Subject": "Coastal survey",
+      "/Title": "Harbor field notes",
+      "/Trapped": { "N": "/False" }
+    }
+  ],
+  [
+    10,
+    {
+      "S": [
+        {},
+        [
+          [
+            { "F": 1.0 },
+            { "F": 0.0 },
+            { "F": 0.0 },
+            { "F": 1.0 },
+            { "F": 0.0 },
+            { "F": 0.0 },
+            "cm"
+          ],
+          [ "BT" ],
+          [ "/F1", { "F": 12.0 }, "Tf" ],
+          [ { "F": 14.4 }, "TL" ],
+          [ "ET" ],
+          [ { "F": 0.0 }, { "F": 0.0 }, { "F": 0.0 }, "rg" ],
+          [ "BT" ],
+          [ "/F2", { "F": 20.0 }, "Tf" ],
+          [ { "F": 24.0 }, "TL" ],
+          [ "ET" ],
+          [ "BT" ],
+          [
+            { "F": 1.0 },
+            { "F": 0.0 },
+            { "F": 0.0 },
+            { "F": 1.0 },
+            { "F": 32.0 },
+            { "F": 546.0 },
+            "Tm"
+          ],
+          [ "Harbor Map", "Tj" ],
+          [ "T*" ],
+          [ "ET" ],
+          [ "BT" ],
+          [ "/F3", { "F": 12.0 }, "Tf" ],
+          [ { "F": 14.4 }, "TL" ],
+          [ "ET" ],
+          [ "BT" ],
+          [
+            { "F": 1.0 },
+            { "F": 0.0 },
+            { "F": 0.0 },
+            { "F": 1.0 },
+            { "F": 32.0 },
+            { "F": 518.0 },
+            "Tm"
+          ],
+          [ "Harbor survey 2026 - station 1", "Tj" ],
+          [ "T*" ],
+          [ "ET" ],
+          [ { "F": 0.8 }, { "F": 0.15 }, { "F": 0.1 }, "rg" ],
+          [ "n" ],
+          [
+            { "F": 32.0 }, { "F": 40.0 }, { "F": 100.0 }, { "F": 52.0 }, "re"
+          ],
+          [ "f*" ],
+          [ { "F": 0.0 }, { "F": 0.0 }, { "F": 0.0 }, "RG" ],
+          [ { "F": 2.0 }, "w" ],
+          [ "n" ],
+          [ { "F": 32.0 }, { "F": 120.0 }, "m" ],
+          [ { "F": 388.0 }, { "F": 145.0 }, "l" ],
+          [ "S" ],
+          [ "BT" ],
+          [ "/F4", { "F": 10.0 }, "Tf" ],
+          [ { "F": 12.0 }, "TL" ],
+          [ "ET" ],
+          [ { "F": 0.0 }, { "F": 0.0 }, { "F": 0.0 }, "rg" ],
+          [ "BT" ],
+          [
+            { "F": 1.0 },
+            { "F": 0.0 },
+            { "F": 0.0 },
+            { "F": 1.0 },
+            { "F": 32.0 },
+            { "F": 105.0 },
+            "Tm"
+          ],
+          [ "Anchor 1 - 42 meters", "Tj" ],
+          [ "T*" ],
+          [ "ET" ]
+        ]
+      ]
+    }
+  ],
+  [
+    11, { "/Type": { "N": "/Pages" }, "/Kids": [ 12 ], "/Count": { "I": 1 } }
+  ],
+  [
+    12,
+    {
+      "/Type": { "N": "/Page" },
+      "/Parent": 11,
+      "/Resources": {
+        "/Font": 1,
+        "/ProcSet": [
+          { "N": "/PDF" },
+          { "N": "/Text" },
+          { "N": "/ImageB" },
+          { "N": "/ImageC" },
+          { "N": "/ImageI" }
+        ]
+      },
+      "/MediaBox": [ { "I": 0 }, { "I": 0 }, { "I": 420 }, { "I": 594 } ],
+      "/Rotate": { "I": 0 },
+      "/Trans": {},
+      "/Contents": [ 10 ]
+    }
+  ],
+  [
+    13,
+    {
+      "/Pages": 11,
+      "/PageMode": { "N": "/UseNone" },
+      "/Type": { "N": "/Catalog" }
+    }
+  ]
+]

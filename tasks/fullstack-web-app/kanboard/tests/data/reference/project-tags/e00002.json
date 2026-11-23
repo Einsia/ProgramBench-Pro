@@ -1,0 +1,482 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e881",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e882",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/project/1/tags",
+      "ref": "e883",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/project/1/tags",
+      "ref": "e884",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "aria": "Configure this project",
+      "bounds": [
+        10,
+        48,
+        29,
+        17
+      ],
+      "href": "/project/1/tags",
+      "ref": "e885",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Configure this project"
+    },
+    {
+      "bounds": [
+        53,
+        49,
+        81,
+        16
+      ],
+      "href": "/project/1/overview/status%3Aopen",
+      "ref": "e886",
+      "role": null,
+      "tag": "a",
+      "text": "Overview",
+      "title": "Keyboard shortcut: \"v o\""
+    },
+    {
+      "bounds": [
+        155,
+        49,
+        60,
+        16
+      ],
+      "href": "/board/1/search/status%3Aopen",
+      "ref": "e887",
+      "role": null,
+      "tag": "a",
+      "text": "Board",
+      "title": "Keyboard shortcut: \"v b\""
+    },
+    {
+      "bounds": [
+        236,
+        49,
+        44,
+        16
+      ],
+      "href": "/list/1/search/status%3Aopen",
+      "ref": "e888",
+      "role": null,
+      "tag": "a",
+      "text": "List",
+      "title": "Keyboard shortcut: \"v l\""
+    },
+    {
+      "aria": "Filter",
+      "bounds": [
+        299,
+        44,
+        850,
+        28
+      ],
+      "name": "search",
+      "placeholder": "Filter",
+      "ref": "e889",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "status:open"
+    },
+    {
+      "aria": "Default filters",
+      "bounds": [
+        1161,
+        49,
+        36,
+        16
+      ],
+      "href": "/project/1/tags",
+      "ref": "e890",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Default filters"
+    },
+    {
+      "aria": "Custom filters",
+      "bounds": [
+        1221,
+        49,
+        36,
+        16
+      ],
+      "href": "/project/1/tags",
+      "ref": "e891",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "User filters"
+    },
+    {
+      "bounds": [
+        23,
+        89,
+        68,
+        17
+      ],
+      "href": "/project/1",
+      "ref": "e892",
+      "role": null,
+      "tag": "a",
+      "text": "Summary"
+    },
+    {
+      "bounds": [
+        23,
+        125,
+        98,
+        17
+      ],
+      "href": "/project/1/customer-filters",
+      "ref": "e893",
+      "role": null,
+      "tag": "a",
+      "text": "Custom filters"
+    },
+    {
+      "bounds": [
+        23,
+        161,
+        80,
+        17
+      ],
+      "href": "/project/1/edit",
+      "ref": "e894",
+      "role": null,
+      "tag": "a",
+      "text": "Edit project"
+    },
+    {
+      "bounds": [
+        23,
+        197,
+        142,
+        17
+      ],
+      "href": "/project/1/predefined-contents",
+      "ref": "e895",
+      "role": null,
+      "tag": "a",
+      "text": "Predefined contents"
+    },
+    {
+      "bounds": [
+        23,
+        233,
+        98,
+        17
+      ],
+      "href": "/project/1/share",
+      "ref": "e896",
+      "role": null,
+      "tag": "a",
+      "text": "Public access"
+    },
+    {
+      "bounds": [
+        23,
+        269,
+        87,
+        17
+      ],
+      "href": "/project/1/notifications",
+      "ref": "e897",
+      "role": null,
+      "tag": "a",
+      "text": "Notifications"
+    },
+    {
+      "bounds": [
+        23,
+        305,
+        84,
+        17
+      ],
+      "href": "/project/1/integrations",
+      "ref": "e898",
+      "role": null,
+      "tag": "a",
+      "text": "Integrations"
+    },
+    {
+      "bounds": [
+        23,
+        341,
+        63,
+        17
+      ],
+      "href": "/project/1/columns",
+      "ref": "e899",
+      "role": null,
+      "tag": "a",
+      "text": "Columns"
+    },
+    {
+      "bounds": [
+        23,
+        377,
+        77,
+        17
+      ],
+      "href": "/project/1/swimlanes",
+      "ref": "e900",
+      "role": null,
+      "tag": "a",
+      "text": "Swimlanes"
+    },
+    {
+      "bounds": [
+        23,
+        413,
+        77,
+        17
+      ],
+      "href": "/project/1/categories",
+      "ref": "e901",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        23,
+        449,
+        34,
+        17
+      ],
+      "href": "/project/1/tags",
+      "ref": "e902",
+      "role": null,
+      "tag": "a",
+      "text": "Tags"
+    },
+    {
+      "bounds": [
+        23,
+        485,
+        87,
+        17
+      ],
+      "href": "/project/1/permissions",
+      "ref": "e903",
+      "role": null,
+      "tag": "a",
+      "text": "Permissions"
+    },
+    {
+      "bounds": [
+        23,
+        521,
+        94,
+        17
+      ],
+      "href": "/project/1/custom-roles",
+      "ref": "e904",
+      "role": null,
+      "tag": "a",
+      "text": "Custom roles"
+    },
+    {
+      "bounds": [
+        23,
+        557,
+        126,
+        17
+      ],
+      "href": "/project/1/actions",
+      "ref": "e905",
+      "role": null,
+      "tag": "a",
+      "text": "Automatic actions"
+    },
+    {
+      "bounds": [
+        23,
+        593,
+        67,
+        17
+      ],
+      "href": "/project/1/duplicate",
+      "ref": "e906",
+      "role": null,
+      "tag": "a",
+      "text": "Duplicate"
+    },
+    {
+      "bounds": [
+        23,
+        629,
+        182,
+        52
+      ],
+      "href": "/project/1/import/tasks",
+      "ref": "e907",
+      "role": null,
+      "tag": "a",
+      "text": "Import tasks from another project"
+    },
+    {
+      "bounds": [
+        23,
+        700,
+        123,
+        17
+      ],
+      "href": "/project/1/disable",
+      "ref": "e908",
+      "role": null,
+      "tag": "a",
+      "text": "Close this project"
+    },
+    {
+      "bounds": [
+        23,
+        736,
+        60,
+        17
+      ],
+      "href": "/project/1/remove",
+      "ref": "e909",
+      "role": null,
+      "tag": "a",
+      "text": "Remove"
+    },
+    {
+      "bounds": [
+        250,
+        112,
+        113,
+        17
+      ],
+      "href": "/?controller=ProjectTagController&action=create&project_id=1",
+      "ref": "e910",
+      "role": null,
+      "tag": "a",
+      "text": "Add new tag"
+    },
+    {
+      "bounds": [
+        254,
+        194,
+        29,
+        16
+      ],
+      "href": "/project/1/tags",
+      "ref": "e911",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        254,
+        229,
+        29,
+        16
+      ],
+      "href": "/project/1/tags",
+      "ref": "e912",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        265,
+        345,
+        13,
+        13
+      ],
+      "checked": true,
+      "label": "Enable global tags for this project",
+      "name": "enable_global_tags",
+      "ref": "e913",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        261,
+        382,
+        66,
+        30
+      ],
+      "ref": "e914",
+      "role": null,
+      "tag": "button",
+      "text": "Save"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Website > Project tags management\n \n \nA\nOverview Board List\nSummary\nCustom filters\nEdit project\nPredefined contents\nPublic access\nNotifications\nIntegrations\nColumns\nSwimlanes\nCategories\nTags\nPermissions\nCustom roles\nAutomatic actions\nDuplicate\nImport tasks from another project\nClose this project\nRemove\nProject tags\nAdd new tag\nTag\tColor\n\n backend\t Blue\n\n design\t\nGlobal tags\n Enable global tags for this project\nSave",
+  "text_truncated": false,
+  "title": "Website > Project tags management",
+  "url": "/project/1/tags",
+  "viewport": [
+    1280,
+    900
+  ]
+}

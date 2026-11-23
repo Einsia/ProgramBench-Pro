@@ -1,0 +1,814 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e1889",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e1890",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/task/1",
+      "ref": "e1891",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/task/1",
+      "ref": "e1892",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "aria": "Configure this project",
+      "bounds": [
+        10,
+        48,
+        29,
+        17
+      ],
+      "href": "/task/1",
+      "ref": "e1893",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Configure this project"
+    },
+    {
+      "bounds": [
+        53,
+        49,
+        81,
+        16
+      ],
+      "href": "/project/1/overview/status%3Aopen",
+      "ref": "e1894",
+      "role": null,
+      "tag": "a",
+      "text": "Overview",
+      "title": "Keyboard shortcut: \"v o\""
+    },
+    {
+      "bounds": [
+        155,
+        49,
+        60,
+        16
+      ],
+      "href": "/board/1/search/status%3Aopen",
+      "ref": "e1895",
+      "role": null,
+      "tag": "a",
+      "text": "Board",
+      "title": "Keyboard shortcut: \"v b\""
+    },
+    {
+      "bounds": [
+        236,
+        49,
+        44,
+        16
+      ],
+      "href": "/list/1/search/status%3Aopen",
+      "ref": "e1896",
+      "role": null,
+      "tag": "a",
+      "text": "List",
+      "title": "Keyboard shortcut: \"v l\""
+    },
+    {
+      "aria": "Filter",
+      "bounds": [
+        299,
+        44,
+        850,
+        28
+      ],
+      "name": "search",
+      "placeholder": "Filter",
+      "ref": "e1897",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "status:open"
+    },
+    {
+      "aria": "Default filters",
+      "bounds": [
+        1161,
+        49,
+        36,
+        16
+      ],
+      "href": "/task/1",
+      "ref": "e1898",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Default filters"
+    },
+    {
+      "aria": "Custom filters",
+      "bounds": [
+        1221,
+        49,
+        36,
+        16
+      ],
+      "href": "/task/1",
+      "ref": "e1899",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "User filters"
+    },
+    {
+      "bounds": [
+        10,
+        125,
+        92,
+        17
+      ],
+      "href": "/task/1",
+      "ref": "e1900",
+      "role": null,
+      "tag": "a",
+      "text": "Summary"
+    },
+    {
+      "bounds": [
+        10,
+        161,
+        128,
+        17
+      ],
+      "href": "/task/1/activity",
+      "ref": "e1901",
+      "role": null,
+      "tag": "a",
+      "text": "Activity stream"
+    },
+    {
+      "bounds": [
+        10,
+        197,
+        101,
+        17
+      ],
+      "href": "/task/1/transitions",
+      "ref": "e1902",
+      "role": null,
+      "tag": "a",
+      "text": "Transitions"
+    },
+    {
+      "bounds": [
+        10,
+        233,
+        88,
+        17
+      ],
+      "href": "/task/1/analytics",
+      "ref": "e1903",
+      "role": null,
+      "tag": "a",
+      "text": "Analytics"
+    },
+    {
+      "bounds": [
+        10,
+        320,
+        112,
+        17
+      ],
+      "href": "/task/1/edit",
+      "ref": "e1904",
+      "role": null,
+      "tag": "a",
+      "text": "Edit the task"
+    },
+    {
+      "bounds": [
+        10,
+        356,
+        132,
+        17
+      ],
+      "href": "/task/1/recurrence/edit",
+      "ref": "e1905",
+      "role": null,
+      "tag": "a",
+      "text": "Edit recurrence"
+    },
+    {
+      "bounds": [
+        10,
+        392,
+        130,
+        17
+      ],
+      "href": "/task/1/subtask/create",
+      "ref": "e1906",
+      "role": null,
+      "tag": "a",
+      "text": "Add a sub-task"
+    },
+    {
+      "bounds": [
+        10,
+        428,
+        137,
+        17
+      ],
+      "href": "/task/1/internal-link/create",
+      "ref": "e1907",
+      "role": null,
+      "tag": "a",
+      "text": "Add internal link"
+    },
+    {
+      "bounds": [
+        10,
+        464,
+        142,
+        17
+      ],
+      "href": "/task/1/external-link/find",
+      "ref": "e1908",
+      "role": null,
+      "tag": "a",
+      "text": "Add external link"
+    },
+    {
+      "bounds": [
+        10,
+        500,
+        136,
+        17
+      ],
+      "href": "/task/1/comment/create",
+      "ref": "e1909",
+      "role": null,
+      "tag": "a",
+      "text": "Add a comment"
+    },
+    {
+      "bounds": [
+        10,
+        536,
+        157,
+        17
+      ],
+      "href": "/task/1/file/create",
+      "ref": "e1910",
+      "role": null,
+      "tag": "a",
+      "text": "Attach a document"
+    },
+    {
+      "bounds": [
+        10,
+        572,
+        148,
+        17
+      ],
+      "href": "/task/1/file/screenshot",
+      "ref": "e1911",
+      "role": null,
+      "tag": "a",
+      "text": "Add a screenshot"
+    },
+    {
+      "bounds": [
+        10,
+        608,
+        90,
+        17
+      ],
+      "href": "/task/1/duplicate",
+      "ref": "e1912",
+      "role": null,
+      "tag": "a",
+      "text": "Duplicate"
+    },
+    {
+      "bounds": [
+        10,
+        644,
+        161,
+        17
+      ],
+      "href": "/task/1/copy-to-project/1",
+      "ref": "e1913",
+      "role": null,
+      "tag": "a",
+      "text": "Duplicate to project"
+    },
+    {
+      "bounds": [
+        10,
+        680,
+        133,
+        17
+      ],
+      "href": "/task/1/move-to-project/1",
+      "ref": "e1914",
+      "role": null,
+      "tag": "a",
+      "text": "Move to project"
+    },
+    {
+      "bounds": [
+        10,
+        716,
+        125,
+        17
+      ],
+      "href": "/task/1/email/create",
+      "ref": "e1915",
+      "role": null,
+      "tag": "a",
+      "text": "Send by email"
+    },
+    {
+      "bounds": [
+        10,
+        752,
+        122,
+        17
+      ],
+      "href": "/task/1/position/show",
+      "ref": "e1916",
+      "role": null,
+      "tag": "a",
+      "text": "Move position"
+    },
+    {
+      "bounds": [
+        10,
+        788,
+        128,
+        17
+      ],
+      "href": "/task/1/close",
+      "ref": "e1917",
+      "role": null,
+      "tag": "a",
+      "text": "Close this task"
+    },
+    {
+      "bounds": [
+        10,
+        824,
+        83,
+        17
+      ],
+      "href": "/task/1/remove/redirect/board",
+      "ref": "e1918",
+      "role": null,
+      "tag": "a",
+      "text": "Remove"
+    },
+    {
+      "bounds": [
+        893,
+        134,
+        92,
+        17
+      ],
+      "href": "/task/1/assign-to-me/91248a305f4060d57166b5e0f864905c3270836e3ac101600d3c673859fff860",
+      "ref": "e1919",
+      "role": null,
+      "tag": "a",
+      "text": "Assign to me"
+    },
+    {
+      "bounds": [
+        1123,
+        134,
+        68,
+        17
+      ],
+      "href": "/task/1/start/bdbcf713352147bf8440cdd1444fdd11f7b727ab68fd3b4ce4d2c32d165e61d2",
+      "ref": "e1920",
+      "role": null,
+      "tag": "a",
+      "text": "Start now"
+    },
+    {
+      "bounds": [
+        250,
+        250,
+        1020,
+        22
+      ],
+      "ref": "e1921",
+      "role": null,
+      "tag": "summary",
+      "text": "Description"
+    },
+    {
+      "bounds": [
+        250,
+        282,
+        1020,
+        22
+      ],
+      "ref": "e1922",
+      "role": null,
+      "tag": "summary",
+      "text": "Sub-Tasks"
+    },
+    {
+      "aria": "Change subtask position",
+      "bounds": [
+        254,
+        363,
+        14,
+        18
+      ],
+      "ref": "e1923",
+      "role": "button",
+      "tag": "i",
+      "text": "",
+      "title": "Change subtask position"
+    },
+    {
+      "bounds": [
+        272,
+        363,
+        29,
+        16
+      ],
+      "href": "/task/1",
+      "ref": "e1924",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        301,
+        363,
+        171,
+        18
+      ],
+      "href": "/?controller=SubtaskStatusController&action=change&project_id=1&task_id=1&subtask_id=1&user_id=0&fragment=table&csrf_token=2757d8a5d2abf5733876db0df2a91ba983415c5280113819e37b089e8c9037db",
+      "ref": "e1925",
+      "role": null,
+      "tag": "a",
+      "text": "Write announcement",
+      "title": "Subtask completed"
+    },
+    {
+      "aria": "Change subtask position",
+      "bounds": [
+        254,
+        398,
+        14,
+        18
+      ],
+      "ref": "e1926",
+      "role": "button",
+      "tag": "i",
+      "text": "",
+      "title": "Change subtask position"
+    },
+    {
+      "bounds": [
+        272,
+        398,
+        29,
+        16
+      ],
+      "href": "/task/1",
+      "ref": "e1927",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        301,
+        398,
+        166,
+        18
+      ],
+      "href": "/?controller=SubtaskStatusController&action=change&project_id=1&task_id=1&subtask_id=2&user_id=0&fragment=table&csrf_token=3d535133f72e54fdb4c807fa434fdb446215d42bc43b726c4471f0a189d8825b",
+      "ref": "e1928",
+      "role": null,
+      "tag": "a",
+      "text": "Update screenshots",
+      "title": "Subtask not started"
+    },
+    {
+      "bounds": [
+        250,
+        450,
+        1020,
+        22
+      ],
+      "ref": "e1929",
+      "role": null,
+      "tag": "summary",
+      "text": "Internal links"
+    },
+    {
+      "bounds": [
+        250,
+        482,
+        1020,
+        22
+      ],
+      "ref": "e1930",
+      "role": null,
+      "tag": "summary",
+      "text": "External links"
+    },
+    {
+      "bounds": [
+        250,
+        514,
+        1020,
+        22
+      ],
+      "ref": "e1931",
+      "role": null,
+      "tag": "summary",
+      "text": "Attachments"
+    },
+    {
+      "bounds": [
+        250,
+        546,
+        1020,
+        22
+      ],
+      "ref": "e1932",
+      "role": null,
+      "tag": "summary",
+      "text": "Comments"
+    },
+    {
+      "bounds": [
+        947,
+        585,
+        109,
+        15
+      ],
+      "href": "/task/1/comment/create",
+      "ref": "e1933",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1060,
+        585,
+        106,
+        15
+      ],
+      "href": "/?controller=CommentController&action=toggleSorting&task_id=1&csrf_token=3438b5080810ae9276d3498dc18cfa3dc21bceb064ee3b149004ad17f7f8140e",
+      "ref": "e1934",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1169,
+        585,
+        101,
+        15
+      ],
+      "href": "/?controller=CommentMailController&action=create&task_id=1",
+      "ref": "e1935",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        250,
+        611,
+        85,
+        17
+      ],
+      "href": "/task/1",
+      "ref": "e1936",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        345,
+        611,
+        24,
+        17
+      ],
+      "href": "/task/1",
+      "ref": "e1937",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        378,
+        611,
+        24,
+        17
+      ],
+      "href": "/task/1",
+      "ref": "e1938",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        412,
+        611,
+        24,
+        17
+      ],
+      "href": "/task/1",
+      "ref": "e1939",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        446,
+        611,
+        24,
+        17
+      ],
+      "href": "/task/1",
+      "ref": "e1940",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        479,
+        611,
+        24,
+        17
+      ],
+      "href": "/task/1",
+      "ref": "e1941",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        513,
+        611,
+        24,
+        17
+      ],
+      "href": "/task/1",
+      "ref": "e1942",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        546,
+        611,
+        24,
+        17
+      ],
+      "href": "/task/1",
+      "ref": "e1943",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "aria": "New comment",
+      "bounds": [
+        250,
+        629,
+        710,
+        100
+      ],
+      "name": "comment",
+      "placeholder": "Write your text in Markdown",
+      "ref": "e1944",
+      "required": true,
+      "role": null,
+      "tag": "textarea",
+      "text": "",
+      "type": "textarea",
+      "value": ""
+    },
+    {
+      "bounds": [
+        250,
+        761,
+        236,
+        21
+      ],
+      "name": "visibility",
+      "options": [
+        {
+          "disabled": false,
+          "label": "Standard users",
+          "selected": true,
+          "value": "app-user"
+        },
+        {
+          "disabled": false,
+          "label": "Application managers or more",
+          "selected": false,
+          "value": "app-manager"
+        },
+        {
+          "disabled": false,
+          "label": "Administrators",
+          "selected": false,
+          "value": "app-admin"
+        }
+      ],
+      "ref": "e1945",
+      "role": null,
+      "tag": "select",
+      "text": "",
+      "value": "app-user"
+    },
+    {
+      "bounds": [
+        250,
+        802,
+        66,
+        30
+      ],
+      "ref": "e1946",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Website\n \n \nA\nOverview Board List\nTask #1\nSummary\nActivity stream\nTransitions\nAnalytics\nActions\nEdit the task\nEdit recurrence\nAdd a sub-task\nAdd internal link\nAdd external link\nAdd a comment\nAttach a document\nAdd a screenshot\nDuplicate\nDuplicate to project\nMove to project\nSend by email\nMove position\nClose this task\nRemove\nPrepare launch\nStatus: open\nPriority: 0\nSwimlane: Default swimlane\nColumn: Backlog\nPosition: 1\nAssignee: not assigned - Assign to me\nCreator: admin\nStarted: Start now\nCreated: 04/14/2026 08:00\nModified: 04/14/2026 08:00\nMoved: 04/14/2026 08:00\nDescription\nSub-Tasks\nTitle\tAssignee\tTime tracking\n\n \nWrite announcement\n\tBob Builder\t\n\n \nUpdate screenshots\n\t\t\nInternal links\nExternal links\nAttachments\nComments",
+  "text_truncated": false,
+  "title": "Website, #1 - Prepare launch",
+  "url": "/task/1",
+  "viewport": [
+    1280,
+    900
+  ]
+}

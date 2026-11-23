@@ -1,0 +1,235 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e190",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "aria": "Display another project",
+      "bounds": [
+        836,
+        7,
+        273,
+        24
+      ],
+      "placeholder": "Display another project",
+      "ref": "e191",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/2/notifications/web",
+      "ref": "e192",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/dashboard/2/projects",
+      "ref": "e193",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/dashboard/2/projects",
+      "ref": "e194",
+      "role": null,
+      "tag": "a",
+      "text": "BB"
+    },
+    {
+      "bounds": [
+        10,
+        49,
+        174,
+        17
+      ],
+      "href": "/project/create/personal",
+      "ref": "e195",
+      "role": null,
+      "tag": "a",
+      "text": "New personal project"
+    },
+    {
+      "bounds": [
+        203,
+        49,
+        171,
+        17
+      ],
+      "href": "/projects",
+      "ref": "e196",
+      "role": null,
+      "tag": "a",
+      "text": "Project management"
+    },
+    {
+      "bounds": [
+        394,
+        49,
+        152,
+        17
+      ],
+      "href": "/my-activity",
+      "ref": "e197",
+      "role": null,
+      "tag": "a",
+      "text": "My activity stream"
+    },
+    {
+      "bounds": [
+        23,
+        96,
+        67,
+        17
+      ],
+      "href": "/dashboard/2",
+      "ref": "e198",
+      "role": null,
+      "tag": "a",
+      "text": "Overview"
+    },
+    {
+      "bounds": [
+        23,
+        132,
+        82,
+        17
+      ],
+      "href": "/dashboard/2/projects",
+      "ref": "e199",
+      "role": null,
+      "tag": "a",
+      "text": "My projects"
+    },
+    {
+      "bounds": [
+        23,
+        168,
+        63,
+        17
+      ],
+      "href": "/dashboard/2/tasks",
+      "ref": "e200",
+      "role": null,
+      "tag": "a",
+      "text": "My tasks"
+    },
+    {
+      "bounds": [
+        23,
+        204,
+        89,
+        17
+      ],
+      "href": "/dashboard/2/subtasks",
+      "ref": "e201",
+      "role": null,
+      "tag": "a",
+      "text": "My subtasks"
+    },
+    {
+      "bounds": [
+        250,
+        87,
+        124,
+        25
+      ],
+      "href": "/dashboard/2/projects",
+      "ref": "e202",
+      "role": null,
+      "tag": "a",
+      "text": "My projects"
+    },
+    {
+      "bounds": [
+        1214,
+        135,
+        42,
+        28
+      ],
+      "href": "/dashboard/2/projects",
+      "ref": "e203",
+      "role": null,
+      "tag": "a",
+      "text": "Sort"
+    },
+    {
+      "bounds": [
+        254,
+        168,
+        30,
+        15
+      ],
+      "href": "/dashboard/2/projects",
+      "ref": "e204",
+      "role": null,
+      "tag": "a",
+      "text": "#1"
+    },
+    {
+      "bounds": [
+        288,
+        168,
+        49,
+        15
+      ],
+      "href": "/board/1",
+      "ref": "e205",
+      "role": null,
+      "tag": "a",
+      "text": "Website"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Projects overview for Bob Builder\n \n \nBB\nNew personal project Project management My activity stream\nOverview\nMy projects\nMy tasks\nMy subtasks\nMy projects (1)\n1 project\nSort \n#1 \n Website\nadmin\n ",
+  "text_truncated": false,
+  "title": "Projects overview for Bob Builder",
+  "url": "/dashboard/2/projects",
+  "viewport": [
+    1280,
+    900
+  ]
+}

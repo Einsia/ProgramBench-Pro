@@ -1,0 +1,63 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        146,
+        135,
+        24
+      ],
+      "ref": "e3005f4e3",
+      "tag": "button",
+      "text": "Back to Tools"
+    },
+    {
+      "bounds": [
+        49,
+        310,
+        1182,
+        128
+      ],
+      "ref": "e44a6b7a9",
+      "tag": "div",
+      "text": "Upload base PDF"
+    },
+    {
+      "bounds": [
+        49,
+        482,
+        1182,
+        128
+      ],
+      "ref": "eec599a01",
+      "tag": "div",
+      "text": "Upload overlay/underlay PDF"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "inputs": [
+    "report.pdf",
+    "single.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nPDF Overlay\n\nOverlay or underlay pages from one PDF onto another.\n\nBase PDF\n\nUpload base PDF\n\nOverlay / Underlay PDF\n\nUpload overlay/underlay PDF\n\nYour files never leave your device.\n\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/overlay-pdf.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

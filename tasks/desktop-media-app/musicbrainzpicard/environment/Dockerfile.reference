@@ -1,0 +1,20 @@
+FROM program-bench-musicbrainzpicard-base:1.0.0
+# Install the application package and the shared desktop runtime.
+COPY solution /tmp/application-package
+COPY environment/runtime/ /opt/blackbox/runtime/
+# Installation files are immutable; application state uses the supplied private directories.
+RUN SOLUTION_DIR=/app/solution bash /tmp/application-package/solve.sh && rm -rf /tmp/application-package && \
+    chown -R root:root /app/solution && \
+    find /app/solution -type f ! -perm /111 -exec chmod 0444 {} + && \
+    find /app/solution -type f -perm /111 -exec chmod 0555 {} + && \
+    find /app/solution -type d -exec chmod 0711 {} + && \
+    chmod -R u=rwX,go=rX /opt/blackbox/runtime && \
+    mkdir -p /reference /blackbox && chown -R root:root /reference /blackbox
+# Python's import finder enumerates the release root and directories containing
+# Picard modules; source, test and documentation directories otherwise stay 0711.
+RUN chmod 0755 /app/solution/picard-3.0.3 && \
+    find /app/solution/picard-3.0.3/picard -type f -name '*.py' -printf '%h\0' | sort -zu | xargs -0 chmod 0755
+ENV PYTHONDONTWRITEBYTECODE=1 LANG=C.UTF-8 LC_ALL=C.UTF-8 TZ=UTC TMPDIR=/tmp
+USER root
+ENTRYPOINT ["/usr/bin/tini", "--", "python3", "-I", "-B", "/opt/blackbox/runtime/reference_entrypoint.py"]
+CMD ["python3", "-B", "-I", "/opt/blackbox/runtime/broker.py", "--user", "agent", "--socket-mode", "0600", "--log-dir", "/reference/logs"]

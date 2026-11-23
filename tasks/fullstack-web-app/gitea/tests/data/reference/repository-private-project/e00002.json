@@ -1,0 +1,448 @@
+{
+  "controls": [
+    {
+      "aria": "Dashboard",
+      "bounds": [
+        10,
+        7,
+        56,
+        36
+      ],
+      "href": "/",
+      "ref": "e654",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        71,
+        7,
+        76,
+        36
+      ],
+      "href": "/issues",
+      "ref": "e655",
+      "role": null,
+      "tag": "a",
+      "text": "Issues"
+    },
+    {
+      "bounds": [
+        152,
+        7,
+        135,
+        36
+      ],
+      "href": "/pulls",
+      "ref": "e656",
+      "role": null,
+      "tag": "a",
+      "text": "Pull Requests"
+    },
+    {
+      "bounds": [
+        293,
+        7,
+        110,
+        36
+      ],
+      "href": "/milestones",
+      "ref": "e657",
+      "role": null,
+      "tag": "a",
+      "text": "Milestones"
+    },
+    {
+      "bounds": [
+        408,
+        7,
+        85,
+        36
+      ],
+      "href": "/explore/repos",
+      "ref": "e658",
+      "role": null,
+      "tag": "a",
+      "text": "Explore"
+    },
+    {
+      "aria": "Notifications",
+      "bounds": [
+        1094,
+        7,
+        42,
+        36
+      ],
+      "href": "/notifications",
+      "ref": "e659",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Notifications"
+    },
+    {
+      "aria": "Create…",
+      "bounds": [
+        1141,
+        7,
+        60,
+        36
+      ],
+      "expanded": false,
+      "ref": "e660",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Create…"
+    },
+    {
+      "aria": "Profile and Settings…",
+      "bounds": [
+        1207,
+        7,
+        64,
+        36
+      ],
+      "expanded": false,
+      "ref": "e661",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Profile and Settings…"
+    },
+    {
+      "bounds": [
+        64,
+        69,
+        54,
+        20
+      ],
+      "href": "/alice",
+      "ref": "e662",
+      "role": null,
+      "tag": "a",
+      "text": "alice"
+    },
+    {
+      "bounds": [
+        136,
+        69,
+        162,
+        20
+      ],
+      "href": "/alice/private-project",
+      "ref": "e663",
+      "role": null,
+      "tag": "a",
+      "text": "private-project"
+    },
+    {
+      "aria": "RSS Feed",
+      "bounds": [
+        935,
+        62,
+        47,
+        33
+      ],
+      "href": "/alice/private-project.rss",
+      "ref": "e664",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "RSS Feed"
+    },
+    {
+      "aria": "Unwatch",
+      "bounds": [
+        989,
+        62,
+        105,
+        33
+      ],
+      "ref": "e665",
+      "role": null,
+      "tag": "button",
+      "text": "Unwatch"
+    },
+    {
+      "bounds": [
+        1093,
+        62,
+        32,
+        33
+      ],
+      "href": "/alice/private-project/watchers",
+      "ref": "e666",
+      "role": null,
+      "tag": "a",
+      "text": "1"
+    },
+    {
+      "aria": "Star",
+      "bounds": [
+        1132,
+        62,
+        82,
+        33
+      ],
+      "ref": "e667",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        1213,
+        62,
+        32,
+        33
+      ],
+      "href": "/alice/private-project/stars",
+      "ref": "e668",
+      "role": null,
+      "tag": "a",
+      "text": "0"
+    },
+    {
+      "bounds": [
+        32,
+        99,
+        79,
+        41
+      ],
+      "href": "/alice/private-project",
+      "ref": "e669",
+      "role": null,
+      "tag": "a",
+      "text": "Code"
+    },
+    {
+      "bounds": [
+        111,
+        99,
+        95,
+        41
+      ],
+      "href": "/alice/private-project/issues",
+      "ref": "e670",
+      "role": null,
+      "tag": "a",
+      "text": "Issues"
+    },
+    {
+      "bounds": [
+        206,
+        99,
+        104,
+        41
+      ],
+      "href": "/alice/private-project/actions",
+      "ref": "e671",
+      "role": null,
+      "tag": "a",
+      "text": "Actions"
+    },
+    {
+      "bounds": [
+        310,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/private-project/packages",
+      "ref": "e672",
+      "role": null,
+      "tag": "a",
+      "text": "Packages"
+    },
+    {
+      "bounds": [
+        422,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/private-project/projects",
+      "ref": "e673",
+      "role": null,
+      "tag": "a",
+      "text": "Projects"
+    },
+    {
+      "bounds": [
+        534,
+        99,
+        79,
+        41
+      ],
+      "href": "/alice/private-project/wiki",
+      "ref": "e674",
+      "role": null,
+      "tag": "a",
+      "text": "Wiki"
+    },
+    {
+      "bounds": [
+        1136,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/private-project/settings",
+      "ref": "e675",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        500,
+        217,
+        35,
+        16
+      ],
+      "href": "[external]",
+      "ref": "e676",
+      "role": null,
+      "tag": "a",
+      "text": "Help"
+    },
+    {
+      "bounds": [
+        46,
+        250,
+        84,
+        30
+      ],
+      "href": "/alice/private-project/_new/main/",
+      "ref": "e677",
+      "role": null,
+      "tag": "a",
+      "text": "New File"
+    },
+    {
+      "bounds": [
+        138,
+        250,
+        108,
+        30
+      ],
+      "href": "/alice/private-project/_upload/main/",
+      "ref": "e678",
+      "role": null,
+      "tag": "a",
+      "text": "Upload File"
+    },
+    {
+      "bounds": [
+        254,
+        250,
+        53,
+        30
+      ],
+      "ref": "e679",
+      "role": null,
+      "tag": "button",
+      "text": "HTTP"
+    },
+    {
+      "bounds": [
+        306,
+        250,
+        892,
+        30
+      ],
+      "ref": "e680",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "http://127.0.0.1:3000/alice/private-project.git"
+    },
+    {
+      "aria": "Copy URL",
+      "bounds": [
+        1198,
+        250,
+        36,
+        30
+      ],
+      "ref": "e681",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Copy URL"
+    },
+    {
+      "bounds": [
+        20,
+        872,
+        134,
+        20
+      ],
+      "href": "[external]",
+      "ref": "e682",
+      "role": null,
+      "tag": "a",
+      "text": "Powered by Gitea"
+    },
+    {
+      "bounds": [
+        1063,
+        874,
+        76,
+        16
+      ],
+      "expanded": false,
+      "ref": "e683",
+      "role": "menu",
+      "tag": "div",
+      "text": "English"
+    },
+    {
+      "bounds": [
+        1145,
+        872,
+        76,
+        20
+      ],
+      "href": "/assets/licenses.txt",
+      "ref": "e684",
+      "role": null,
+      "tag": "a",
+      "text": "Licenses"
+    },
+    {
+      "bounds": [
+        1226,
+        872,
+        34,
+        20
+      ],
+      "href": "/api/swagger",
+      "ref": "e685",
+      "role": null,
+      "tag": "a",
+      "text": "API"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Issues\nPull Requests\nMilestones\nExplore\n \nalice\n/\nprivate-project\nPrivate\nUnwatch\n1\nStar\n0\nCode\nIssues\nActions\nPackages\nProjects\nWiki\nSettings\nQuick Guide\nClone this repository Need help cloning? Visit Help.\nNew File\nUpload File\nHTTP\nCreating a new repository on the command line\ntouch README.md\ngit init\ngit checkout -b main\ngit add README.md\ngit commit -m \"first commit\"\ngit remote add origin http://127.0.0.1:3000/alice/private-project.git\ngit push -u origin main\nPushing an existing repository from the command line\ngit remote add origin http://127.0.0.1:3000/alice/private-project.git\ngit push -u origin main\nPowered by Gitea\nPage:\n24ms\nTemplate:\n3ms\nEnglish\nLicenses\nAPI",
+  "text_truncated": false,
+  "title": "alice/private-project - private-project - Gitea",
+  "url": "/alice/private-project",
+  "viewport": [
+    1280,
+    900
+  ]
+}

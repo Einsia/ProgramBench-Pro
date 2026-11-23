@@ -1,0 +1,711 @@
+{
+  "focused": null,
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        1024
+      ],
+      "name": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),",
+      "ref": "e93ed40b7",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        25
+      ],
+      "name": "",
+      "ref": "e37b0c28a",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        39,
+        25
+      ],
+      "name": "File",
+      "ref": "eae5e7196",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        39,
+        19,
+        75,
+        25
+      ],
+      "name": "Accounts",
+      "ref": "ecb5893cc",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        114,
+        19,
+        49,
+        25
+      ],
+      "name": "Tools",
+      "ref": "ec5eeafb2",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        163,
+        19,
+        48,
+        25
+      ],
+      "name": "View",
+      "ref": "eb0ba3d40",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        211,
+        19,
+        46,
+        25
+      ],
+      "name": "Help",
+      "ref": "ef594ac36",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        1,
+        995,
+        200,
+        6
+      ],
+      "name": "",
+      "ref": "ef36204a0",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        314,
+        8,
+        651,
+        1008
+      ],
+      "name": "Settings",
+      "ref": "eb693f295",
+      "role": "frame",
+      "states": [
+        "active",
+        "modal"
+      ]
+    },
+    {
+      "bounds": [
+        433,
+        48,
+        511,
+        239
+      ],
+      "name": "New Transaction",
+      "ref": "e0749dc7d",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        693,
+        203,
+        182,
+        34
+      ],
+      "name": "Last Used",
+      "ref": "e804c970d",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        693,
+        71,
+        182,
+        34
+      ],
+      "name": "None",
+      "ref": "eb87a1862",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        693,
+        115,
+        182,
+        34
+      ],
+      "name": "None",
+      "ref": "e91460071",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        693,
+        159,
+        182,
+        34
+      ],
+      "name": "Last used for payee",
+      "ref": "edd15c792",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        693,
+        247,
+        182,
+        34
+      ],
+      "name": "Follow Up",
+      "ref": "ed168dbeb",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        439,
+        79,
+        84,
+        17
+      ],
+      "name": "Default Date",
+      "ref": "e36aa4449",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        439,
+        123,
+        92,
+        17
+      ],
+      "name": "Default Payee",
+      "ref": "e31f1f765",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        439,
+        167,
+        244,
+        17
+      ],
+      "name": "Default Deposit/Withdrawal Category",
+      "ref": "ea0349385",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        439,
+        211,
+        168,
+        17
+      ],
+      "name": "Default Transfer Category",
+      "ref": "e4f506b72",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        439,
+        255,
+        94,
+        17
+      ],
+      "name": "Default Status",
+      "ref": "e3afb9d3b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        433,
+        48,
+        124,
+        17
+      ],
+      "name": "New Transaction",
+      "ref": "ea6dfbd7a",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        433,
+        297,
+        511,
+        156
+      ],
+      "name": "Transaction",
+      "ref": "e8dfd0132",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        439,
+        320,
+        318,
+        21
+      ],
+      "description": "Select whether to use the original transaction date or current date when copying/pasting transactions",
+      "name": "Use Original Date when Pasting Transactions",
+      "ref": "e5302019f",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        439,
+        351,
+        345,
+        21
+      ],
+      "description": "Select whether to use the original transaction date or current date when duplicating transactions",
+      "name": "Use Original Date when Duplicating Transactions",
+      "ref": "e8bc2dd55",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        439,
+        382,
+        416,
+        21
+      ],
+      "description": "Select whether to use the original state or default state when duplicating or copy and paste transactions",
+      "name": "Use Original State when Duplicating or Pasting Transactions",
+      "ref": "e6f6841c1",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        439,
+        421,
+        119,
+        17
+      ],
+      "name": "Transaction Sound",
+      "ref": "e9d6bb5bf",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        568,
+        413,
+        100,
+        34
+      ],
+      "description": "Select whether to use sounds when entering transactions",
+      "name": "None",
+      "ref": "ebebaa4c7",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        433,
+        297,
+        87,
+        17
+      ],
+      "name": "Transaction",
+      "ref": "e94b248b1",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        433,
+        463,
+        511,
+        399
+      ],
+      "name": "Transaction/Budget",
+      "ref": "ea1e80eaa",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        439,
+        486,
+        236,
+        21
+      ],
+      "name": "View Budgets as Financial Years",
+      "ref": "e42061bbf",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        439,
+        517,
+        296,
+        21
+      ],
+      "name": "View Budgets with 'transfer' transactions",
+      "ref": "e4a141402",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        439,
+        548,
+        330,
+        21
+      ],
+      "name": "View Budget Category Report with Summaries",
+      "ref": "e085bcc7b",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        439,
+        579,
+        317,
+        21
+      ],
+      "description": "If monthly budget exists then use this to override the yearly budget; otherwise combine them",
+      "name": "Override yearly budget with monthly budget",
+      "ref": "e39e888bb",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        439,
+        610,
+        404,
+        21
+      ],
+      "description": "Yearly budget will be reduced by the amount budgeted monthly.\nTotal estimate for the year will be reported as either the yearly budget OR the sum of the monthly budgets, whichever is greater.",
+      "name": "Subtract monthly budgets from yearly budget in reporting",
+      "ref": "ea990ee0b",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        439,
+        649,
+        135,
+        17
+      ],
+      "name": "Budget Offset (days)",
+      "ref": "e7dc59381",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        589,
+        641,
+        116,
+        34
+      ],
+      "description": "Adjusts the first day of month (normally 1st) for budget calculations",
+      "name": "",
+      "ref": "e0d315e76",
+      "role": "spin button",
+      "states": [
+        "editable"
+      ],
+      "text": "0",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        439,
+        693,
+        121,
+        17
+      ],
+      "name": "First Day of Month",
+      "ref": "e6df3595c",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        589,
+        685,
+        116,
+        34
+      ],
+      "description": "Adjusts the first day of month for reporting",
+      "name": "",
+      "ref": "ee459e120",
+      "role": "spin button",
+      "states": [
+        "editable"
+      ],
+      "text": "1",
+      "value": 1.0
+    },
+    {
+      "bounds": [
+        439,
+        737,
+        93,
+        17
+      ],
+      "name": "First Weekday",
+      "ref": "e32130902",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        589,
+        729,
+        93,
+        34
+      ],
+      "description": "Adjusts the first day of week for filtering and reporting",
+      "name": "Sunday",
+      "ref": "ed6ebe39c",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        439,
+        773,
+        199,
+        21
+      ],
+      "name": "Ignore Future Transactions",
+      "ref": "e8addb38e",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        439,
+        804,
+        319,
+        21
+      ],
+      "name": "Use 'Time' in transaction recording/reporting",
+      "ref": "e3d56e2e7",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        439,
+        835,
+        333,
+        21
+      ],
+      "name": "Sort Date identically to Sequence Number (SN)",
+      "ref": "e116c6b81",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        433,
+        463,
+        146,
+        17
+      ],
+      "name": "Transaction/Budget",
+      "ref": "ed0e8ff45",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        433,
+        872,
+        511,
+        63
+      ],
+      "name": "Transaction Colors",
+      "ref": "ec046bd67",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        439,
+        895,
+        30,
+        34
+      ],
+      "name": "1",
+      "ref": "e9799d02e",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        479,
+        895,
+        30,
+        34
+      ],
+      "name": "2",
+      "ref": "e602cb131",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        519,
+        895,
+        30,
+        34
+      ],
+      "name": "3",
+      "ref": "ea88a0ed2",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        559,
+        895,
+        30,
+        34
+      ],
+      "name": "4",
+      "ref": "e439e743a",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        599,
+        895,
+        30,
+        34
+      ],
+      "name": "5",
+      "ref": "e368c0953",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        639,
+        895,
+        30,
+        34
+      ],
+      "name": "6",
+      "ref": "ead8ae62c",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        679,
+        895,
+        30,
+        34
+      ],
+      "name": "7",
+      "ref": "e3fe1f7c7",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        719,
+        895,
+        85,
+        34
+      ],
+      "name": "Default",
+      "ref": "e8e89ff8e",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        433,
+        872,
+        140,
+        17
+      ],
+      "name": "Transaction Colors",
+      "ref": "e104ff8a7",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        325,
+        955,
+        629,
+        2
+      ],
+      "name": "",
+      "ref": "eee02b912",
+      "role": "separator"
+    },
+    {
+      "bounds": [
+        502,
+        967,
+        85,
+        34
+      ],
+      "name": "OK",
+      "ref": "e5511204c",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        597,
+        967,
+        85,
+        34
+      ],
+      "name": "Apply",
+      "ref": "e66f03ad0",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        692,
+        967,
+        85,
+        34
+      ],
+      "name": "Cancel",
+      "ref": "e37b2f021",
+      "role": "push button"
+    }
+  ],
+  "screen": [
+    1280,
+    1024
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": false,
+      "bounds": [
+        0,
+        38,
+        1280,
+        1005
+      ],
+      "ref": "w5b3c0310",
+      "title": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),"
+    },
+    {
+      "active": true,
+      "bounds": [
+        316,
+        48,
+        649,
+        983
+      ],
+      "ref": "wd7fc1b2f",
+      "title": "Settings"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+**
+!Dockerfile
+!requirements.txt
+!constraints.txt
+!runtime/
+!runtime/*.py
+**/__pycache__/
+**/*.pyc
+
+!runtime/*.json
+
+!runtime/*.txt
+!agent_runtime/
+!agent_runtime/*.py

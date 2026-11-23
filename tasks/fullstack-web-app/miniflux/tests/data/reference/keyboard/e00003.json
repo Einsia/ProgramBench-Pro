@@ -1,0 +1,467 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        559,
+        -44,
+        162,
+        36
+      ],
+      "href": "/unread#main",
+      "offscreen": true,
+      "ref": "e259",
+      "role": null,
+      "tag": "a",
+      "text": "Skip to content"
+    },
+    {
+      "aria": "Home page",
+      "bounds": [
+        193,
+        10,
+        77,
+        19
+      ],
+      "href": "/unread",
+      "ref": "e260",
+      "role": null,
+      "tag": "a",
+      "text": "Mini\nflux"
+    },
+    {
+      "aria": "Unread, 3 unread entries",
+      "bounds": [
+        278,
+        12,
+        102,
+        16
+      ],
+      "href": "/unread",
+      "ref": "e261",
+      "role": null,
+      "tag": "a",
+      "text": "Unread (3)"
+    },
+    {
+      "bounds": [
+        395,
+        12,
+        78,
+        16
+      ],
+      "href": "/starred",
+      "ref": "e262",
+      "role": null,
+      "tag": "a",
+      "text": "Starred"
+    },
+    {
+      "bounds": [
+        488,
+        12,
+        78,
+        16
+      ],
+      "href": "/history",
+      "ref": "e263",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        581,
+        12,
+        70,
+        16
+      ],
+      "href": "/feeds",
+      "ref": "e264",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "aria": "Add feed",
+      "bounds": [
+        650,
+        12,
+        26,
+        16
+      ],
+      "href": "/subscribe",
+      "ref": "e265",
+      "role": null,
+      "tag": "a",
+      "text": "(+)",
+      "title": "Keyboard Shortcut: +"
+    },
+    {
+      "bounds": [
+        691,
+        12,
+        104,
+        16
+      ],
+      "href": "/categories",
+      "ref": "e266",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        810,
+        12,
+        70,
+        16
+      ],
+      "href": "/search",
+      "ref": "e267",
+      "role": null,
+      "tag": "a",
+      "text": "Search"
+    },
+    {
+      "bounds": [
+        894,
+        12,
+        87,
+        16
+      ],
+      "href": "/settings",
+      "ref": "e268",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        996,
+        10,
+        70,
+        18
+      ],
+      "ref": "e269",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "title": "Logged in as alice"
+    },
+    {
+      "bounds": [
+        193,
+        81,
+        181,
+        18
+      ],
+      "ref": "e270",
+      "role": null,
+      "tag": "button",
+      "text": "Mark this page as read"
+    },
+    {
+      "bounds": [
+        398,
+        81,
+        132,
+        18
+      ],
+      "ref": "e271",
+      "role": null,
+      "tag": "button",
+      "text": "Mark all as read"
+    },
+    {
+      "bounds": [
+        199,
+        150,
+        58,
+        18
+      ],
+      "href": "/unread/entry/3",
+      "ref": "e272",
+      "role": null,
+      "tag": "a",
+      "text": "Key 1"
+    },
+    {
+      "bounds": [
+        265,
+        153,
+        22,
+        14
+      ],
+      "href": "/category/1/entries",
+      "ref": "e273",
+      "role": null,
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        199,
+        174,
+        85,
+        12
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e274",
+      "role": null,
+      "tag": "a",
+      "text": "Keyboard Feed",
+      "title": "http://keys.test/"
+    },
+    {
+      "bounds": [
+        199,
+        195,
+        95,
+        16
+      ],
+      "ref": "e275",
+      "role": null,
+      "tag": "button",
+      "text": "Mark as read",
+      "title": "Change entry status"
+    },
+    {
+      "bounds": [
+        309,
+        195,
+        43,
+        16
+      ],
+      "ref": "e276",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        369,
+        197,
+        120,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e277",
+      "role": null,
+      "tag": "a",
+      "text": "External link"
+    },
+    {
+      "bounds": [
+        199,
+        244,
+        58,
+        18
+      ],
+      "href": "/unread/entry/2",
+      "ref": "e278",
+      "role": null,
+      "tag": "a",
+      "text": "Key 2"
+    },
+    {
+      "bounds": [
+        265,
+        247,
+        22,
+        14
+      ],
+      "href": "/category/1/entries",
+      "ref": "e279",
+      "role": null,
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        199,
+        268,
+        85,
+        12
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e280",
+      "role": null,
+      "tag": "a",
+      "text": "Keyboard Feed",
+      "title": "http://keys.test/"
+    },
+    {
+      "bounds": [
+        199,
+        289,
+        95,
+        16
+      ],
+      "ref": "e281",
+      "role": null,
+      "tag": "button",
+      "text": "Mark as read",
+      "title": "Change entry status"
+    },
+    {
+      "bounds": [
+        309,
+        289,
+        43,
+        16
+      ],
+      "ref": "e282",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        369,
+        291,
+        120,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e283",
+      "role": null,
+      "tag": "a",
+      "text": "External link"
+    },
+    {
+      "bounds": [
+        199,
+        338,
+        58,
+        18
+      ],
+      "href": "/unread/entry/1",
+      "ref": "e284",
+      "role": null,
+      "tag": "a",
+      "text": "Key 3"
+    },
+    {
+      "bounds": [
+        265,
+        341,
+        22,
+        14
+      ],
+      "href": "/category/1/entries",
+      "ref": "e285",
+      "role": null,
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        199,
+        362,
+        85,
+        12
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e286",
+      "role": null,
+      "tag": "a",
+      "text": "Keyboard Feed",
+      "title": "http://keys.test/"
+    },
+    {
+      "bounds": [
+        199,
+        383,
+        95,
+        16
+      ],
+      "ref": "e287",
+      "role": null,
+      "tag": "button",
+      "text": "Mark as read",
+      "title": "Change entry status"
+    },
+    {
+      "bounds": [
+        309,
+        383,
+        43,
+        16
+      ],
+      "ref": "e288",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        369,
+        385,
+        120,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e289",
+      "role": null,
+      "tag": "a",
+      "text": "External link"
+    },
+    {
+      "bounds": [
+        193,
+        430,
+        181,
+        18
+      ],
+      "ref": "e290",
+      "role": null,
+      "tag": "button",
+      "text": "Mark this page as read"
+    },
+    {
+      "bounds": [
+        599,
+        473,
+        134,
+        20
+      ],
+      "href": "/unread",
+      "ref": "e291",
+      "role": null,
+      "tag": "a",
+      "text": "Back to top"
+    },
+    {
+      "aria": "Close",
+      "bounds": [
+        372,
+        10,
+        24,
+        32
+      ],
+      "focused": true,
+      "ref": "e292",
+      "role": null,
+      "tag": "button",
+      "text": "x"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Skip to content\nMini\nflux\nUnread (3) Starred History Feeds (+) Categories Search Settings Logout\nUnread (3)\n3 unread entries\nMark this page as read Mark all as read\nFirst\nPrevious\nNext \nLast \nKey 1 All\nKeyboard Feed  1 year ago  1 minute read\nMark as read Star External link\nKey 2 All\nKeyboard Feed  1 year ago  1 minute read\nMark as read Star External link\nKey 3 All\nKeyboard Feed  1 year ago  1 minute read\nMark as read Star External link\nMark this page as read\nFirst\nPrevious\nBack to top\nNext \nLast \nx\nKeyboard Shortcuts\n\nSections Navigation\n\nGo to unread = g + u\nGo to starred = g + b\nGo to history = g + h\nGo to feeds = g + f\nGo to categories = g + c\nGo to settings = g + s\nShow keyboard shortcuts = ?\nAdd feed = +\n\nItems Navigation\n\nGo to previous item = p, k, ⏴\nGo to next item = n, j, ⏵\nGo to feed = F\nGo to top item = g + g\nGo to bottom item = G\n\nPages Navigation\n\nGo to previous page = h\nGo to next page = l\n\nActions\n\nOpen selected item = o, Enter\nOpen original link = v\nOpen original link in current tab = V\nOpen comments link = c\nOpen comments link in current tab = C\nToggle read/unread, focus next = m\nToggle read/unread, focus previous = M\nMark current page as read = A\nDownload original content = d\nToggle starred = f\nSave entry = s\nToggle open/close entry attachments = a\nScroll item to top = z + t\nRefresh all feeds in the background = R\nRemove this feed = #\nSet focus on search form = /\nClose modal dialog = Esc",
+  "text_truncated": false,
+  "title": "Unread (3) - Miniflux",
+  "url": "/unread",
+  "viewport": [
+    1280,
+    900
+  ]
+}

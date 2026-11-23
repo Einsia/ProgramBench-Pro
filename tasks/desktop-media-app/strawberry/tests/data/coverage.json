@@ -1,0 +1,202 @@
+{
+  "counts": {
+    "assertions": 1963,
+    "backend": 1865,
+    "checkpoints": 403,
+    "features": 22,
+    "frontend": 98,
+    "gui_episodes": 38,
+    "program_episodes": 37,
+    "episodes": 75
+  },
+  "features": {
+    "audio-analysis": {
+      "assertions": 4,
+      "episodes": [
+        "gui-loudness-analysis"
+      ]
+    },
+    "collection": {
+      "assertions": 5,
+      "episodes": [
+        "gui-collection"
+      ]
+    },
+    "command-line": {
+      "assertions": 51,
+      "episodes": [
+        "program-command-line"
+      ]
+    },
+    "cover-art": {
+      "assertions": 12,
+      "episodes": [
+        "gui-cover-manager",
+        "gui-local-cover"
+      ]
+    },
+    "editing": {
+      "assertions": 10,
+      "episodes": [
+        "gui-playlist-history"
+      ]
+    },
+    "equalizer": {
+      "assertions": 5,
+      "episodes": [
+        "gui-equalizer"
+      ]
+    },
+    "file-organization": {
+      "assertions": 8,
+      "episodes": [
+        "gui-organize-files",
+        "gui-organize-copy-overwrite"
+      ]
+    },
+    "malformed-media": {
+      "assertions": 16,
+      "episodes": [
+        "program-invalid-flac",
+        "program-invalid-mp3",
+        "program-invalid-ogg",
+        "program-invalid-wav"
+      ]
+    },
+    "media-metadata": {
+      "assertions": 1262,
+      "episodes": [
+        "program-metadata-flac",
+        "program-metadata-ogg",
+        "program-metadata-opus",
+        "program-metadata-mp3",
+        "program-metadata-aac",
+        "program-metadata-alac",
+        "program-metadata-wav",
+        "program-metadata-aiff",
+        "program-metadata-wavpack",
+        "program-metadata-asf",
+        "program-metadata-speex",
+        "program-metadata-ogg-flac",
+        "program-metadata-tta",
+        "program-metadata-variants-flac",
+        "program-metadata-variants-mp3",
+        "program-metadata-variants-ogg",
+        "program-metadata-variants-aac",
+        "program-metadata-variants-wav"
+      ]
+    },
+    "persistence": {
+      "assertions": 9,
+      "episodes": [
+        "program-persistence"
+      ]
+    },
+    "playback": {
+      "assertions": 146,
+      "episodes": [
+        "gui-open-playback",
+        "program-player-properties",
+        "program-transport",
+        "program-playback-lifecycle"
+      ]
+    },
+    "playback-modes": {
+      "assertions": 10,
+      "episodes": [
+        "gui-repeat-shuffle"
+      ]
+    },
+    "playlist-formats": {
+      "assertions": 274,
+      "episodes": [
+        "gui-playlist-export-m3u",
+        "gui-playlist-export-pls",
+        "gui-playlist-export-xspf",
+        "gui-playlist-path-modes",
+        "gui-save-all-playlists",
+        "program-playlist-m3u",
+        "program-playlist-m3u8",
+        "program-playlist-pls",
+        "program-playlist-xspf",
+        "program-playlist-asxini",
+        "program-playlist-cue",
+        "program-playlist-asx",
+        "program-playlist-wpl"
+      ]
+    },
+    "playlist-management": {
+      "assertions": 77,
+      "episodes": [
+        "gui-remove-duplicates",
+        "gui-playlist-tabs",
+        "program-track-list",
+        "program-playlists-interface"
+      ]
+    },
+    "queue": {
+      "assertions": 2,
+      "episodes": [
+        "gui-queue"
+      ]
+    },
+    "search": {
+      "assertions": 4,
+      "episodes": [
+        "gui-playlist-search"
+      ]
+    },
+    "settings": {
+      "assertions": 5,
+      "episodes": [
+        "gui-settings"
+      ]
+    },
+    "smart-playlists": {
+      "assertions": 21,
+      "episodes": [
+        "gui-smart-playlist",
+        "gui-smart-predicates",
+        "gui-dynamic-playlist",
+        "gui-smart-playlist-edit-delete"
+      ]
+    },
+    "sorting": {
+      "assertions": 6,
+      "episodes": [
+        "gui-playlist-sort"
+      ]
+    },
+    "tag-editing": {
+      "assertions": 10,
+      "episodes": [
+        "gui-tag-editing"
+      ]
+    },
+    "transcoding": {
+      "assertions": 22,
+      "episodes": [
+        "gui-transcode-wav",
+        "gui-transcode-mp3",
+        "gui-transcode-opus",
+        "gui-transcode-flac",
+        "gui-transcode-alac",
+        "gui-transcode-aac",
+        "gui-transcode-vorbis",
+        "gui-transcode-speex",
+        "gui-transcode-wavpack",
+        "gui-transcode-asf",
+        "gui-transcode-ogg-flac"
+      ]
+    },
+    "volume": {
+      "assertions": 4,
+      "episodes": [
+        "gui-volume"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

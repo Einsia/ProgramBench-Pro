@@ -1,0 +1,36 @@
+FROM program-bench-darktable-base:1.0.0
+# Install the reference product and the shared runtime.
+COPY solution /tmp/standard-solution
+COPY environment/runtime/ /opt/blackbox/runtime/
+# The reference installation is read-only to the product user.
+RUN SOLUTION_DIR=/app/solution bash /tmp/standard-solution/solve.sh && rm -rf /tmp/standard-solution && \
+    chown -R root:root /app/solution && \
+    find /app/solution -type d -exec chmod 0711 {} + && \
+    find /app/solution -type f -perm /111 -exec chmod 0555 {} + && \
+    find /app/solution -type f ! -perm /111 -exec chmod 0444 {} + && \
+    chmod -R u=rwX,go=rX /opt/blackbox/runtime && \
+    mkdir -p /reference /blackbox && chown -R root:root /reference /blackbox
+# darktable validates its shared-data and module roots by opening those directories.
+RUN chmod 0755 /app/solution/runtime/usr/share /app/solution/runtime/usr/share/darktable \
+      /app/solution/runtime/usr/lib/x86_64-linux-gnu/darktable
+# Image processing, lighttable and image I/O modules are discovered by directory enumeration.
+RUN chmod 0755 /app/solution/runtime/usr/lib/x86_64-linux-gnu/darktable/plugins \
+      /app/solution/runtime/usr/lib/x86_64-linux-gnu/darktable/plugins/lighttable \
+      /app/solution/runtime/usr/lib/x86_64-linux-gnu/darktable/plugins/imageio/format \
+      /app/solution/runtime/usr/lib/x86_64-linux-gnu/darktable/plugins/imageio/storage
+# The view loader discovers lighttable, darkroom and other view modules here.
+RUN chmod 0755 /app/solution/runtime/usr/lib/x86_64-linux-gnu/darktable/views
+# Preferences enumerate installed languages, themes, styles and watermark documents.
+RUN chmod 0755 /app/solution/runtime/usr/share/locale /app/solution/runtime/usr/share/darktable/themes \
+      /app/solution/runtime/usr/share/darktable/styles /app/solution/runtime/usr/share/darktable/watermarks
+# The launcher discovers the versioned camera drivers; libgphoto enumerates each driver directory.
+RUN find /app/solution/runtime/usr/lib/libgphoto2 /app/solution/runtime/usr/lib/libgphoto2_port \
+      -type d -exec chmod 0755 {} +
+# GIO discovers its installed extension modules by listing this directory.
+RUN chmod 0755 /app/solution/runtime/usr/lib/gio/modules
+# Lensfun enumerates its installed camera/lens database XML files in the versioned directory.
+RUN chmod 0755 /app/solution/runtime/usr/share/lensfun/version_1
+ENV PYTHONDONTWRITEBYTECODE=1 LANG=C.UTF-8 LC_ALL=C.UTF-8 TZ=UTC TMPDIR=/tmp
+USER root
+ENTRYPOINT ["/usr/bin/tini", "--", "python3", "-I", "-B", "/opt/blackbox/runtime/reference_entrypoint.py"]
+CMD ["python3", "-B", "-I", "/opt/blackbox/runtime/broker.py", "--user", "agent", "--socket-mode", "0600", "--log-dir", "/reference/logs"]

@@ -1,0 +1,2296 @@
+{
+  "focused": "ee60064c4",
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        19,
+        1440,
+        881
+      ],
+      "name": "Hydrogen 1.2.7 - Samples [edited-0002.h2song]",
+      "ref": "e734dd942",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        1,
+        42,
+        1424,
+        50
+      ],
+      "name": "",
+      "ref": "ebfb99fda",
+      "role": "image"
+    },
+    {
+      "bounds": [
+        14,
+        52,
+        146,
+        22
+      ],
+      "name": "",
+      "ref": "ec000d798",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ],
+      "text": "00:00:00.000"
+    },
+    {
+      "bounds": [
+        23,
+        75,
+        33,
+        9
+      ],
+      "name": "Hrs",
+      "ref": "eb9dec1d6",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        54,
+        75,
+        33,
+        9
+      ],
+      "name": "Min",
+      "ref": "e065a0153",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        84,
+        75,
+        33,
+        9
+      ],
+      "name": "Sec",
+      "ref": "e1f33784a",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        120,
+        75,
+        34,
+        9
+      ],
+      "name": "1/1000",
+      "ref": "ece6e80f1",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        167,
+        60,
+        25,
+        19
+      ],
+      "description": "Rewind\nMIDI: <<_PREVIOUS_BAR not bound",
+      "name": "",
+      "ref": "e09dcb771",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        194,
+        60,
+        25,
+        19
+      ],
+      "description": "Record\nMIDI: RECORD_READY not bound",
+      "name": "",
+      "ref": "ea6866380",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        221,
+        60,
+        30,
+        21
+      ],
+      "description": "Play/ Pause\nMIDI: PLAY/PAUSE_TOGGLE not bound",
+      "name": "",
+      "ref": "ea8f96f89",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        253,
+        60,
+        25,
+        19
+      ],
+      "description": "Stop\nMIDI: STOP not bound",
+      "name": "",
+      "ref": "e465c91d8",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        280,
+        60,
+        25,
+        19
+      ],
+      "description": "Fast Forward\nMIDI: >>_NEXT_BAR not bound",
+      "name": "",
+      "ref": "e3f0ebd54",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        309,
+        60,
+        25,
+        19
+      ],
+      "description": "Loop song",
+      "name": "",
+      "ref": "e9efc0e65",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        191,
+        48,
+        59,
+        11
+      ],
+      "description": "Pattern Mode",
+      "name": "Pattern",
+      "ref": "e3cb58535",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        264,
+        48,
+        59,
+        11
+      ],
+      "description": "Song Mode",
+      "name": "Song",
+      "ref": "ec9e7f0cb",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        345,
+        45,
+        13,
+        42
+      ],
+      "description": "Toggle the BeatCounter Panel",
+      "name": "B\nC",
+      "ref": "ea98a3fb1",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        396,
+        76,
+        26,
+        10
+      ],
+      "name": "BPM",
+      "ref": "edc824a11",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        396,
+        46,
+        95,
+        30
+      ],
+      "description": "Alter the Playback Speed",
+      "name": "",
+      "ref": "eeed682c6",
+      "role": "spin button",
+      "text": "120",
+      "value": 120.0
+    },
+    {
+      "bounds": [
+        366,
+        47,
+        24,
+        28
+      ],
+      "description": "Switch metronome on/off\nMIDI: TOGGLE_METRONOME not bound",
+      "name": "",
+      "ref": "e143376b6",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        527,
+        59,
+        45,
+        9
+      ],
+      "name": "MIDI-In",
+      "ref": "e9127895b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        576,
+        59,
+        30,
+        9
+      ],
+      "name": "CPU",
+      "ref": "e7f252fac",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        629,
+        45,
+        88,
+        23
+      ],
+      "description": "Show mixer",
+      "name": "Mixer",
+      "ref": "e58d749a0",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        717,
+        45,
+        168,
+        23
+      ],
+      "description": "Show Instrument Rack",
+      "name": "Instrument Rack",
+      "ref": "ef3d87454",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        629,
+        69,
+        255,
+        18
+      ],
+      "name": "",
+      "ref": "e0ddb2871",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": " /app/candidate-state/session/ins"
+    },
+    {
+      "bounds": [
+        1,
+        96,
+        1424,
+        873
+      ],
+      "name": "",
+      "ref": "ec8bb2bc0",
+      "role": "split pane"
+    },
+    {
+      "bounds": [
+        1,
+        391,
+        170,
+        20
+      ],
+      "description": "Loaded Soundlibrary",
+      "name": "",
+      "ref": "eff520aa4",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        184,
+        392,
+        33,
+        17
+      ],
+      "name": "Size",
+      "ref": "ead6756d2",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        219,
+        391,
+        62,
+        20
+      ],
+      "name": "",
+      "ref": "e51770504",
+      "role": "spin button",
+      "text": "4",
+      "value": 4.0
+    },
+    {
+      "bounds": [
+        283,
+        394,
+        4,
+        13
+      ],
+      "description": "You can use the '/' inside the pattern size spin boxes to switch back and forth.",
+      "name": "/",
+      "ref": "e941eddaa",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        289,
+        391,
+        48,
+        20
+      ],
+      "name": "",
+      "ref": "eb6493475",
+      "role": "spin button",
+      "text": "4",
+      "value": 4.0
+    },
+    {
+      "bounds": [
+        345,
+        392,
+        29,
+        17
+      ],
+      "name": "Res",
+      "ref": "e0bf9b72b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        376,
+        392,
+        223,
+        18
+      ],
+      "name": "1/8 - eighth",
+      "ref": "ee704d8fc",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        0,
+        0,
+        756,
+        25
+      ],
+      "name": "1/4 - quarter",
+      "ref": "e247a33d9",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        25,
+        756,
+        25
+      ],
+      "name": "1/8 - eighth",
+      "ref": "ee663e4be",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        50,
+        756,
+        25
+      ],
+      "name": "1/16 - sixteenth",
+      "ref": "e38be73d7",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        75,
+        756,
+        25
+      ],
+      "name": "1/32 - thirty-second",
+      "ref": "eaf1168e5",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        100,
+        756,
+        25
+      ],
+      "name": "1/64 - sixty-fourth",
+      "ref": "e9cb1eed7",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        125,
+        640,
+        2
+      ],
+      "description": "separator",
+      "name": "",
+      "ref": "e487bee31",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        127,
+        756,
+        25
+      ],
+      "name": "1/4T - quarter triplet",
+      "ref": "e1cbc23a5",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        152,
+        756,
+        25
+      ],
+      "name": "1/8T - eighth triplet",
+      "ref": "e4272fca3",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        177,
+        756,
+        25
+      ],
+      "name": "1/16T - sixteenth triplet",
+      "ref": "e14c4927f",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        202,
+        756,
+        25
+      ],
+      "name": "1/32T - thirty-second triplet",
+      "ref": "e9a17cda9",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        227,
+        640,
+        2
+      ],
+      "description": "separator",
+      "name": "",
+      "ref": "e44b1d06d",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        229,
+        756,
+        25
+      ],
+      "name": "off",
+      "ref": "ed5315138",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        605,
+        392,
+        38,
+        17
+      ],
+      "name": "Hear",
+      "ref": "e3a8bae26",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        645,
+        392,
+        21,
+        18
+      ],
+      "description": "Hear new notes",
+      "name": "",
+      "ref": "ea812c1bc",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        674,
+        392,
+        48,
+        17
+      ],
+      "name": "Quant",
+      "ref": "effe00851",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        724,
+        392,
+        21,
+        18
+      ],
+      "description": "Quantize keyboard/midi events to grid",
+      "name": "",
+      "ref": "e6b0e3eb5",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        753,
+        392,
+        42,
+        17
+      ],
+      "name": "Input",
+      "ref": "e81c6fd31",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        797,
+        392,
+        25,
+        18
+      ],
+      "description": "Show piano roll editor",
+      "name": "",
+      "ref": "ebe4c01a2",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1,
+        413,
+        181,
+        25
+      ],
+      "name": "Samples",
+      "ref": "e1bf21fef",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        11,
+        440,
+        145,
+        21
+      ],
+      "name": "Ramp",
+      "ref": "e9cfbbd6b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        146,
+        439,
+        18,
+        20
+      ],
+      "description": "Mute instrument",
+      "name": "M",
+      "ref": "eb7efaa87",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        164,
+        439,
+        18,
+        20
+      ],
+      "description": "Solo",
+      "name": "S",
+      "ref": "e0ae98e34",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        11,
+        461,
+        145,
+        21
+      ],
+      "name": "Tone",
+      "ref": "eb1dd8299",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        146,
+        460,
+        18,
+        20
+      ],
+      "description": "Mute instrument",
+      "name": "M",
+      "ref": "e860e6e7d",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        164,
+        460,
+        18,
+        20
+      ],
+      "description": "Solo",
+      "name": "S",
+      "ref": "eab7ca9f4",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        1116,
+        438,
+        14,
+        416
+      ],
+      "name": "",
+      "ref": "e496bc897",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        1,
+        895,
+        181,
+        18
+      ],
+      "description": "Select note properties",
+      "name": "Velocity",
+      "ref": "eb1b625fc",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        0,
+        0,
+        756,
+        25
+      ],
+      "name": "Velocity",
+      "ref": "e5c6092d6",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        25,
+        756,
+        25
+      ],
+      "name": "Pan",
+      "ref": "ec65036a8",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        50,
+        756,
+        25
+      ],
+      "name": "Lead and Lag",
+      "ref": "eec5866ab",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        75,
+        756,
+        25
+      ],
+      "name": "NoteKey",
+      "ref": "eeccf5242",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        100,
+        756,
+        25
+      ],
+      "name": "Probability",
+      "ref": "ea24482b9",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        1135,
+        389,
+        145,
+        24
+      ],
+      "description": "Show Instrument editor",
+      "name": "Instrument",
+      "ref": "e06e4fa79",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        1280,
+        389,
+        145,
+        24
+      ],
+      "description": "Show sound library",
+      "name": "Sound Library",
+      "ref": "edfd7c458",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        1139,
+        417,
+        141,
+        22
+      ],
+      "description": "Show instrument properties",
+      "name": "General",
+      "ref": "e4ccd6bac",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        1280,
+        417,
+        140,
+        22
+      ],
+      "description": "Show layers properties",
+      "name": "Layers",
+      "ref": "e2e0e45be",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        1140,
+        448,
+        279,
+        27
+      ],
+      "name": "Main",
+      "ref": "e00416140",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1398,
+        452,
+        18,
+        18
+      ],
+      "name": "",
+      "ref": "e72b19e6d",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1140,
+        748,
+        92,
+        18
+      ],
+      "name": "Load Layer",
+      "ref": "eaa1849f7",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1232,
+        748,
+        94,
+        18
+      ],
+      "name": "Delete Layer",
+      "ref": "e7b696267",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1326,
+        748,
+        92,
+        18
+      ],
+      "name": "Edit Layer",
+      "ref": "e52b4cb69",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1188,
+        787,
+        36,
+        16
+      ],
+      "name": "",
+      "ref": "e5cea4862",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ],
+      "text": "1.00"
+    },
+    {
+      "bounds": [
+        1229,
+        785,
+        44,
+        26
+      ],
+      "description": "Layer gain: 1.00\n\nRange: [0.00, 5.00]",
+      "name": "",
+      "ref": "ea0ea7c25",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1185,
+        804,
+        44,
+        10
+      ],
+      "name": "L. Gain",
+      "ref": "ee410d23b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1286,
+        787,
+        36,
+        16
+      ],
+      "name": "",
+      "ref": "efc58dc56",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ],
+      "text": "1.00"
+    },
+    {
+      "bounds": [
+        1326,
+        785,
+        44,
+        26
+      ],
+      "description": "Component volume: 1.00\n\nRange: [0.00, 5.00]",
+      "name": "",
+      "ref": "e560983d0",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1282,
+        804,
+        44,
+        10
+      ],
+      "name": "C. Gain",
+      "ref": "ed1b03ddd",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1205,
+        837,
+        28,
+        16
+      ],
+      "name": "",
+      "ref": "e86fe2976",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ],
+      "text": "0"
+    },
+    {
+      "bounds": [
+        1290,
+        837,
+        28,
+        16
+      ],
+      "name": "",
+      "ref": "ec1f46972",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ],
+      "text": "0"
+    },
+    {
+      "bounds": [
+        1152,
+        856,
+        45,
+        10
+      ],
+      "name": "Pitch",
+      "ref": "e5a55acc4",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1240,
+        835,
+        44,
+        26
+      ],
+      "description": "Layer pitch (Coarse): 0.00\n\nRange: [-24.00, 24.00]",
+      "name": "",
+      "ref": "ec2d2e80c",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1196,
+        856,
+        44,
+        10
+      ],
+      "name": "Coarse",
+      "ref": "e3df0a2da",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1326,
+        835,
+        44,
+        26
+      ],
+      "description": "Layer pitch (Fine): 0.00\n\nRange: [-50.00, 50.00]",
+      "name": "",
+      "ref": "e190f3b64",
+      "role": "filler"
+    },
+    {
+      "bounds": [
+        1282,
+        856,
+        44,
+        10
+      ],
+      "name": "Fine",
+      "ref": "eec2ca232",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1211,
+        876,
+        207,
+        18
+      ],
+      "description": "Select selection algorithm",
+      "name": "First in Velocity",
+      "ref": "ed4c6c1a4",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        0,
+        0,
+        756,
+        25
+      ],
+      "name": "First in Velocity",
+      "ref": "e8ad6e5e5",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        25,
+        756,
+        25
+      ],
+      "name": "Round Robin",
+      "ref": "e6e5cdbdb",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        50,
+        756,
+        25
+      ],
+      "name": "Random",
+      "ref": "e060444ea",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        1142,
+        880,
+        70,
+        10
+      ],
+      "name": "Sample Sel.",
+      "ref": "e5edfcfa7",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        95,
+        100,
+        98,
+        17
+      ],
+      "description": "Enable the Timeline for custom tempo changes",
+      "name": "Timeline",
+      "ref": "eec532022",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        3,
+        121,
+        61,
+        21
+      ],
+      "description": "Clear pattern sequence",
+      "name": "Clear",
+      "ref": "edbac9db7",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        65,
+        121,
+        25,
+        21
+      ],
+      "description": "Create new pattern",
+      "name": "",
+      "ref": "e1af2880c",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        91,
+        132,
+        25,
+        10
+      ],
+      "description": "Move the selected pattern down",
+      "name": "",
+      "ref": "e84ad29e7",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        91,
+        121,
+        25,
+        10
+      ],
+      "description": "Move the selected pattern up",
+      "name": "",
+      "ref": "e6f7b690c",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        117,
+        121,
+        25,
+        21
+      ],
+      "description": "Select mode",
+      "name": "",
+      "ref": "e9a3c3c45",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        143,
+        121,
+        25,
+        21
+      ],
+      "description": "Lock the Pattern Editor to only show and follow the pattern recorded notes will be inserted into while in Song Mode.",
+      "name": "",
+      "ref": "ec6af53e6",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        169,
+        121,
+        25,
+        21
+      ],
+      "description": "selected pattern mode",
+      "name": "",
+      "ref": "e4d2f239a",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        201,
+        96,
+        1210,
+        50
+      ],
+      "name": "",
+      "ref": "eb390b4f4",
+      "role": "layered pane"
+    },
+    {
+      "bounds": [
+        1411,
+        146,
+        14,
+        224
+      ],
+      "name": "",
+      "ref": "e7616d7ca",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        201,
+        370,
+        19,
+        15
+      ],
+      "description": "View playback track",
+      "name": "P",
+      "ref": "ea969700e",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        220,
+        370,
+        19,
+        15
+      ],
+      "description": "View timeline",
+      "name": "T",
+      "ref": "e583bdd4c",
+      "role": "check box",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        239,
+        370,
+        1134,
+        14
+      ],
+      "name": "",
+      "ref": "e800cf3ae",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        1373,
+        370,
+        19,
+        15
+      ],
+      "name": "",
+      "ref": "efc303223",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1392,
+        370,
+        19,
+        15
+      ],
+      "name": "",
+      "ref": "e33bdd3af",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1425,
+        42,
+        14,
+        857
+      ],
+      "name": "",
+      "ref": "e4b43ad68",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1440,
+        22
+      ],
+      "name": "",
+      "ref": "e917d87bf",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        6,
+        19,
+        57,
+        22
+      ],
+      "name": "Project",
+      "ref": "eaa76d1eb",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        69,
+        19,
+        45,
+        22
+      ],
+      "name": "Undo",
+      "ref": "e891dc96b",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        120,
+        19,
+        72,
+        22
+      ],
+      "name": "Drumkits",
+      "ref": "ec2d1660c",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        198,
+        19,
+        93,
+        22
+      ],
+      "name": "Instruments",
+      "ref": "e74729c43",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        297,
+        19,
+        42,
+        22
+      ],
+      "name": "View",
+      "ref": "e3f47c2dd",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        345,
+        19,
+        62,
+        22
+      ],
+      "name": "Options",
+      "ref": "e9214f542",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        413,
+        19,
+        54,
+        22
+      ],
+      "name": "Debug",
+      "ref": "eeedb0229",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        473,
+        19,
+        35,
+        22
+      ],
+      "name": "Info",
+      "ref": "e1a83c4ba",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        289,
+        203,
+        863,
+        510
+      ],
+      "name": "SampleEditor tone440.wav",
+      "ref": "e97060754",
+      "role": "dialog",
+      "states": [
+        "active"
+      ]
+    },
+    {
+      "bounds": [
+        299,
+        517,
+        843,
+        53
+      ],
+      "name": "",
+      "ref": "ebffca45b",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        300,
+        518,
+        841,
+        20
+      ],
+      "name": "\"Rubberband Audio Processor\" : Change the tempo (sample length) and pitch of audio.",
+      "ref": "ebc5e9998",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        300,
+        544,
+        161,
+        25
+      ],
+      "name": "Sample length to beat:",
+      "ref": "e7a11ce3a",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        467,
+        544,
+        61,
+        25
+      ],
+      "name": "2",
+      "ref": "e54dd524e",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        468,
+        1,
+        175,
+        25
+      ],
+      "name": "off",
+      "ref": "ef464b828",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        26,
+        175,
+        25
+      ],
+      "name": "1/64",
+      "ref": "ec1dda7f1",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        51,
+        175,
+        25
+      ],
+      "name": "1/32",
+      "ref": "e3039f86c",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        76,
+        175,
+        25
+      ],
+      "name": "1/16",
+      "ref": "e01695c13",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        101,
+        175,
+        25
+      ],
+      "name": "1/8",
+      "ref": "e01c5d7b4",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        126,
+        175,
+        25
+      ],
+      "name": "1/4",
+      "ref": "efb117095",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        151,
+        175,
+        25
+      ],
+      "name": "1/2",
+      "ref": "e3307cbe5",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        176,
+        175,
+        25
+      ],
+      "name": "1",
+      "ref": "e392f5f2a",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        201,
+        175,
+        25
+      ],
+      "name": "2",
+      "ref": "ee60064c4",
+      "role": "list item",
+      "states": [
+        "focused",
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        468,
+        226,
+        175,
+        25
+      ],
+      "name": "3",
+      "ref": "e05a608e0",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        251,
+        175,
+        25
+      ],
+      "name": "4",
+      "ref": "e94898bda",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        276,
+        175,
+        25
+      ],
+      "name": "5",
+      "ref": "e8760b934",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        301,
+        175,
+        25
+      ],
+      "name": "6",
+      "ref": "eff36fe75",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        326,
+        175,
+        25
+      ],
+      "name": "7",
+      "ref": "efe5ea6b6",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        351,
+        175,
+        25
+      ],
+      "name": "8",
+      "ref": "e4a604f48",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        376,
+        175,
+        25
+      ],
+      "name": "9",
+      "ref": "ede42b511",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        401,
+        175,
+        25
+      ],
+      "name": "10",
+      "ref": "e09d23b06",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        426,
+        175,
+        25
+      ],
+      "name": "11",
+      "ref": "edb6e594b",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        451,
+        175,
+        25
+      ],
+      "name": "12",
+      "ref": "e4e9a1714",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        476,
+        175,
+        25
+      ],
+      "name": "13",
+      "ref": "ea2bf6247",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        501,
+        175,
+        25
+      ],
+      "name": "14",
+      "ref": "e0b6572d8",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        526,
+        175,
+        25
+      ],
+      "name": "15",
+      "ref": "ed1252f97",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        551,
+        175,
+        25
+      ],
+      "name": "16",
+      "ref": "e2639a6fd",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        576,
+        175,
+        25
+      ],
+      "name": "17",
+      "ref": "ef7ce74c8",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        601,
+        175,
+        25
+      ],
+      "name": "18",
+      "ref": "e13f69246",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        626,
+        175,
+        25
+      ],
+      "name": "19",
+      "ref": "e9b0fe195",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        651,
+        175,
+        25
+      ],
+      "name": "20",
+      "ref": "e8d8e4b38",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        676,
+        175,
+        25
+      ],
+      "name": "21",
+      "ref": "e7a69209b",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        701,
+        175,
+        25
+      ],
+      "name": "22",
+      "ref": "efb7053ee",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        726,
+        175,
+        25
+      ],
+      "name": "23",
+      "ref": "ecbbb4f8d",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        751,
+        175,
+        25
+      ],
+      "name": "24",
+      "ref": "eec22a6dc",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        776,
+        175,
+        25
+      ],
+      "name": "25",
+      "ref": "e2417eb89",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        801,
+        175,
+        25
+      ],
+      "name": "26",
+      "ref": "e44898004",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        826,
+        175,
+        25
+      ],
+      "name": "27",
+      "ref": "e00fb05d5",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        851,
+        175,
+        25
+      ],
+      "name": "28",
+      "ref": "e77136aa2",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        468,
+        876,
+        175,
+        25
+      ],
+      "name": "29",
+      "ref": "e49b57bc7",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        534,
+        544,
+        150,
+        25
+      ],
+      "name": "RB-Ratio 2",
+      "ref": "e81492f3b",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        690,
+        544,
+        158,
+        25
+      ],
+      "name": "Pitch (Semitone,Cent)",
+      "ref": "e6d0e5f53",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        854,
+        544,
+        74,
+        25
+      ],
+      "description": "Pitch the sample in semitones, cents",
+      "name": "",
+      "ref": "e13ee6fc6",
+      "role": "spin button",
+      "text": "12.00",
+      "value": 12.0
+    },
+    {
+      "bounds": [
+        1019,
+        544,
+        77,
+        25
+      ],
+      "name": "Crispness:",
+      "ref": "ecfb5c4a4",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1102,
+        544,
+        39,
+        25
+      ],
+      "description": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }",
+      "name": "4",
+      "ref": "e2df50df5",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        0,
+        0,
+        756,
+        25
+      ],
+      "name": "0",
+      "ref": "e25efa1ad",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        25,
+        756,
+        25
+      ],
+      "name": "1",
+      "ref": "e7ea05c19",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        50,
+        756,
+        25
+      ],
+      "name": "2",
+      "ref": "e18ce02c4",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        75,
+        756,
+        25
+      ],
+      "name": "3",
+      "ref": "e88528825",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        100,
+        756,
+        25
+      ],
+      "name": "4",
+      "ref": "e98ac4afe",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        125,
+        756,
+        25
+      ],
+      "name": "5",
+      "ref": "e58c276dc",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        299,
+        576,
+        115,
+        27
+      ],
+      "name": "Apply Changes",
+      "ref": "e2464b22b",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        433,
+        576,
+        40,
+        27
+      ],
+      "name": "Play",
+      "ref": "ede18929b",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        492,
+        576,
+        152,
+        27
+      ],
+      "name": "Play original sample",
+      "ref": "e8e5ba802",
+      "role": "push button",
+      "states": [
+        "focused"
+      ]
+    },
+    {
+      "bounds": [
+        650,
+        576,
+        300,
+        27
+      ],
+      "name": "new sample length: 22050 frames",
+      "ref": "ef2192a74",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1040,
+        577,
+        102,
+        25
+      ],
+      "description": "fade-out type",
+      "name": "volume",
+      "ref": "e5c764984",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        0,
+        0,
+        756,
+        25
+      ],
+      "name": "volume",
+      "ref": "e0234bd9e",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        25,
+        756,
+        25
+      ],
+      "name": "panorama",
+      "ref": "e54ec0fe5",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        299,
+        484,
+        36,
+        27
+      ],
+      "name": "Start",
+      "ref": "e33b70031",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        341,
+        485,
+        100,
+        25
+      ],
+      "description": "Adjust sample start frame",
+      "name": "",
+      "ref": "e7162d09a",
+      "role": "spin button",
+      "text": "0",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        502,
+        484,
+        34,
+        27
+      ],
+      "name": "Loop",
+      "ref": "e4eb3d599",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        542,
+        485,
+        100,
+        25
+      ],
+      "description": "Adjust sample loop begin frame",
+      "name": "",
+      "ref": "e5ecc49eb",
+      "role": "spin button",
+      "text": "0",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        648,
+        484,
+        29,
+        27
+      ],
+      "name": "Loop\nmode",
+      "ref": "ef13791c6",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        683,
+        485,
+        95,
+        25
+      ],
+      "description": "set processing",
+      "name": "forward",
+      "ref": "e8000b72e",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        0,
+        0,
+        756,
+        25
+      ],
+      "name": "forward",
+      "ref": "e16b6658d",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        25,
+        756,
+        25
+      ],
+      "name": "reverse",
+      "ref": "ea346c9eb",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        0,
+        50,
+        756,
+        25
+      ],
+      "name": "pingpong",
+      "ref": "e28ef75d5",
+      "role": "list item"
+    },
+    {
+      "bounds": [
+        784,
+        484,
+        30,
+        27
+      ],
+      "name": "Loop\nCount",
+      "ref": "ef04f0967",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        820,
+        485,
+        73,
+        25
+      ],
+      "description": "loops",
+      "name": "",
+      "ref": "e5e05b49e",
+      "role": "spin button",
+      "text": "0",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        954,
+        484,
+        27,
+        27
+      ],
+      "name": "End",
+      "ref": "ecb3b25b9",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        987,
+        485,
+        100,
+        25
+      ],
+      "description": "Adjust sample end & loop end frame",
+      "name": "",
+      "ref": "e57e8a9a1",
+      "role": "spin button",
+      "text": "22050",
+      "value": 22050.0
+    },
+    {
+      "bounds": [
+        1093,
+        484,
+        49,
+        27
+      ],
+      "name": "Close",
+      "ref": "e89d3c516",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        302,
+        213,
+        624,
+        265
+      ],
+      "name": "",
+      "ref": "e35521eb9",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        935,
+        213,
+        180,
+        265
+      ],
+      "name": "",
+      "ref": "ecf499b4b",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        1124,
+        213,
+        15,
+        265
+      ],
+      "name": "",
+      "ref": "e6d142dd1",
+      "role": "slider",
+      "value": 1.0
+    },
+    {
+      "bounds": [
+        299,
+        609,
+        843,
+        94
+      ],
+      "name": "",
+      "ref": "ea378dcd9",
+      "role": "frame"
+    }
+  ],
+  "screen": [
+    1440,
+    900
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": false,
+      "bounds": [
+        0,
+        38,
+        1440,
+        881
+      ],
+      "ref": "w6e480533",
+      "title": "Hydrogen 1.2.7 - Samples [edited-0002.h2song]"
+    },
+    {
+      "active": true,
+      "bounds": [
+        290,
+        223,
+        863,
+        510
+      ],
+      "ref": "w215ef83c",
+      "title": "SampleEditor tone440.wav"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+services:
+  main:
+    image: program-bench-lmms-agent:1.0.0
+    pull_policy: never
+    cap_drop: [ALL]
+    cap_add: [CHOWN, FOWNER, DAC_OVERRIDE, SETUID, SETGID, KILL]
+    security_opt: [no-new-privileges:true]
+    environment:
+      TMPDIR: /tmp
+      PYTHONDONTWRITEBYTECODE: "1"
+    volumes:
+      - "${LMMS_RPC_STORAGE:-blackbox-rpc}:/blackbox:ro"
+      - "${LMMS_AGENT_TMP:-agent-tmp}:/tmp"
+  blackbox:
+    image: program-bench-lmms-reference:1.0.0
+    pull_policy: never
+    network_mode: none
+    cap_drop: [ALL]
+    cap_add: [CHOWN, FOWNER, DAC_OVERRIDE, SETUID, SETGID, KILL]
+    security_opt: [no-new-privileges:true]
+    cpus: 2
+    mem_limit: 8g
+    pids_limit: 2048
+    shm_size: 256m
+    environment:
+      TMPDIR: /tmp
+      PYTHONDONTWRITEBYTECODE: "1"
+    volumes:
+      - "${LMMS_REFERENCE_STORAGE:-reference-state}:/reference"
+      - "${LMMS_REFERENCE_TMP:-reference-tmp}:/tmp"
+      - "${LMMS_RPC_STORAGE:-blackbox-rpc}:/blackbox"
+volumes:
+  blackbox-rpc:
+  agent-tmp:
+  reference-state:
+  reference-tmp:

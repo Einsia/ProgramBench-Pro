@@ -1,0 +1,301 @@
+{
+  "focused": "e764c770d",
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        1024
+      ],
+      "name": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),",
+      "ref": "e93ed40b7",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        25
+      ],
+      "name": "",
+      "ref": "e37b0c28a",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        39,
+        25
+      ],
+      "name": "File",
+      "ref": "eae5e7196",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        39,
+        19,
+        75,
+        25
+      ],
+      "name": "Accounts",
+      "ref": "ecb5893cc",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        114,
+        19,
+        49,
+        25
+      ],
+      "name": "Tools",
+      "ref": "ec5eeafb2",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        163,
+        19,
+        48,
+        25
+      ],
+      "name": "View",
+      "ref": "eb0ba3d40",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        211,
+        19,
+        46,
+        25
+      ],
+      "name": "Help",
+      "ref": "ef594ac36",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        1,
+        995,
+        200,
+        6
+      ],
+      "name": "",
+      "ref": "ef36204a0",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        374,
+        347,
+        532,
+        330
+      ],
+      "name": "Custom Field Manager",
+      "ref": "e4fe4286c",
+      "role": "frame",
+      "states": [
+        "active",
+        "modal"
+      ]
+    },
+    {
+      "bounds": [
+        386,
+        378,
+        508,
+        229
+      ],
+      "name": "",
+      "ref": "e764c770d",
+      "role": "table",
+      "states": [
+        "focused"
+      ]
+    },
+    {
+      "bounds": [
+        386,
+        378,
+        103,
+        25
+      ],
+      "name": "Attribute of",
+      "ref": "e4117ee7e",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        489,
+        378,
+        58,
+        25
+      ],
+      "name": "Name",
+      "ref": "e1ae3f41b",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        547,
+        378,
+        51,
+        25
+      ],
+      "name": "Type",
+      "ref": "e22337e5d",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        598,
+        378,
+        444,
+        25
+      ],
+      "name": "Properties",
+      "ref": "e714d6c33",
+      "role": "table column header",
+      "visible": [
+        598,
+        378,
+        297,
+        25
+      ]
+    },
+    {
+      "bounds": [
+        388,
+        404,
+        99,
+        21
+      ],
+      "name": "Transaction",
+      "ref": "ebb951eaa",
+      "role": "table cell",
+      "states": [
+        "focused",
+        "selected",
+        "active"
+      ]
+    },
+    {
+      "bounds": [
+        491,
+        404,
+        54,
+        21
+      ],
+      "name": "Project",
+      "ref": "ec5a2d812",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        549,
+        404,
+        47,
+        21
+      ],
+      "name": "String",
+      "ref": "e1027df03",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        600,
+        404,
+        440,
+        21
+      ],
+      "name": "{\"Tooltip\":\"Project reference\",\"RegEx\":\"^.+$\",\"Default\":\"General\"}",
+      "ref": "e28ec3db6",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ],
+      "visible": [
+        600,
+        404,
+        295,
+        21
+      ]
+    },
+    {
+      "bounds": [
+        386,
+        601,
+        508,
+        6
+      ],
+      "name": "",
+      "ref": "e52cb7247",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        583,
+        628,
+        85,
+        34
+      ],
+      "name": "Close",
+      "ref": "e9321be90",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        678,
+        632,
+        18,
+        26
+      ],
+      "description": "Other tools",
+      "name": "",
+      "ref": "ec130a0be",
+      "role": "push button"
+    }
+  ],
+  "screen": [
+    1280,
+    1024
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": false,
+      "bounds": [
+        0,
+        38,
+        1280,
+        1005
+      ],
+      "ref": "w5b3c0310",
+      "title": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),"
+    },
+    {
+      "active": true,
+      "bounds": [
+        376,
+        387,
+        530,
+        305
+      ],
+      "ref": "weebc418a",
+      "title": "Custom Field Manager"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "task": "svgedit",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "SVG-edit",
+    "version": "7.4.2",
+    "homepage": "https://github.com/SVG-Edit/svgedit",
+    "repository": "https://github.com/SVG-Edit/svgedit",
+    "license": "MIT AND Apache-2.0 AND ISC AND LGPL-3.0-or-later AND X11"
+  },
+  "downloads": [
+    {
+      "file": "svgedit-7.4.2.tgz",
+      "url": "https://registry.npmjs.org/svgedit/-/svgedit-7.4.2.tgz",
+      "sha256": "249cc66750a5b4ac39fc79ee8723ab71b581c48946aaea1ee58054fd91db98a7"
+    }
+  ],
+  "bundled": [],
+  "modifications": "Product assets are unchanged. The static server and runtime apply the serving and navigation policies described in configuration.",
+  "configuration": "Serve package/dist/editor from the npm archive at / and /index.html with the default extensions. Only storagePrompt=true or storagePrompt=false queries are accepted. Browser storage holds drawings and preferences. Static resources use an allowlist and CSP; external requests, frames and filesystem picker APIs are unavailable.",
+  "notes": {
+    "npm_package": "svgedit@7.4.2 (npm)",
+    "npm_integrity": "sha512-/Y0lxyfeFpA3cVU54Nj1GNEDGc6c52ztMuorgsNYLxXOVzWCGbNJweOvOrMoMnHvx9zfSd97O+OKe62/rI6GnQ==",
+    "source_availability": "The archive contains package/src, package/packages/svgcanvas and source maps with sourcesContent of every bundled module.",
+    "component_licenses": "LICENSES and NOTICE explain the npm license expression and the licenses of bundled modules."
+  }
+}

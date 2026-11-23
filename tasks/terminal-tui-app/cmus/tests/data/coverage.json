@@ -1,0 +1,319 @@
+{
+  "counts": {
+    "assertions": 1543,
+    "backend": 1410,
+    "checkpoints": 1250,
+    "features": 22,
+    "frontend": 133,
+    "gui_episodes": 66,
+    "program_episodes": 126,
+    "episodes": 192
+  },
+  "features": {
+    "bindings": {
+      "assertions": 71,
+      "episodes": [
+        "keybindings-01",
+        "keybindings-02",
+        "binding-edit-01",
+        "gui-custom-binding"
+      ]
+    },
+    "browser": {
+      "assertions": 13,
+      "episodes": [
+        "gui-browser",
+        "browser-delete",
+        "browser-navigation-update",
+        "gui-browser-delete"
+      ]
+    },
+    "cli": {
+      "assertions": 3,
+      "episodes": [
+        "command-line"
+      ]
+    },
+    "configuration": {
+      "assertions": 3,
+      "episodes": [
+        "source-config"
+      ]
+    },
+    "console": {
+      "assertions": 19,
+      "episodes": [
+        "console-editing",
+        "console-completion",
+        "native-information",
+        "native-command-aliases"
+      ]
+    },
+    "decoding": {
+      "assertions": 38,
+      "episodes": [
+        "audio-formats-01",
+        "pcm-formats-01",
+        "cue-sheet",
+        "decoder-priority"
+      ]
+    },
+    "display": {
+      "assertions": 42,
+      "episodes": [
+        "themes-01",
+        "gui-console-display"
+      ]
+    },
+    "editing": {
+      "assertions": 16,
+      "episodes": [
+        "edit-queue-remove-selected",
+        "edit-queue-move-down",
+        "edit-queue-move-up",
+        "edit-queue-remove-marked",
+        "edit-queue-invert-marks",
+        "edit-queue-unmark",
+        "edit-queue-move-marked-after",
+        "edit-queue-move-marked-before",
+        "edit-playlist-remove-selected",
+        "edit-playlist-move-down",
+        "edit-playlist-move-up",
+        "edit-playlist-remove-marked",
+        "edit-playlist-invert-marks",
+        "edit-playlist-unmark",
+        "edit-playlist-move-marked-after",
+        "edit-playlist-move-marked-before"
+      ]
+    },
+    "errors": {
+      "assertions": 40,
+      "episodes": [
+        "command-errors-01",
+        "command-errors-02"
+      ]
+    },
+    "filters": {
+      "assertions": 195,
+      "episodes": [
+        "filter-expression-01",
+        "filter-expression-02",
+        "filter-expression-03",
+        "filter-expression-04",
+        "filter-expression-05",
+        "named-filters-01",
+        "live-filters-01",
+        "gui-filter-0",
+        "gui-filter-1",
+        "gui-filter-2",
+        "gui-filter-3",
+        "gui-filter-4",
+        "gui-filter-5",
+        "gui-live-0",
+        "gui-live-1",
+        "gui-live-2",
+        "gui-live-3",
+        "gui-named-filter",
+        "filter-editor",
+        "gui-filter-edit"
+      ]
+    },
+    "format": {
+      "assertions": 178,
+      "episodes": [
+        "format-fields-01",
+        "format-fields-02",
+        "format-fields-03",
+        "format-conditions-01",
+        "format-conditions-02",
+        "format-conditions-03",
+        "format-extra-grammar",
+        "album-format-aggregates",
+        "format-current-bitrate"
+      ]
+    },
+    "library": {
+      "assertions": 11,
+      "episodes": [
+        "duplicates-true",
+        "duplicates-false",
+        "add-filter-jazz",
+        "add-filter-long",
+        "add-filter-tagged",
+        "gui-library-edit"
+      ]
+    },
+    "metadata": {
+      "assertions": 75,
+      "episodes": [
+        "metadata-rich",
+        "metadata-variants-01",
+        "metadata-empty-title",
+        "metadata-unicode-composed",
+        "metadata-unicode-decomposed",
+        "metadata-symbols",
+        "metadata-track-slash",
+        "metadata-leading-zero",
+        "metadata-full-date",
+        "metadata-compilation-va",
+        "metadata-albumartist-override",
+        "metadata-cache",
+        "selective-cache"
+      ]
+    },
+    "navigation": {
+      "assertions": 50,
+      "episodes": [
+        "navigation-search-01",
+        "gui-view-1",
+        "gui-view-2",
+        "gui-view-3",
+        "gui-view-4",
+        "gui-view-5",
+        "gui-view-6",
+        "gui-view-7",
+        "paging-navigation",
+        "gui-paging"
+      ]
+    },
+    "persistence": {
+      "assertions": 43,
+      "episodes": [
+        "settings-persistence",
+        "restart-content",
+        "startup-views",
+        "playlist-environment"
+      ]
+    },
+    "playback": {
+      "assertions": 110,
+      "episodes": [
+        "volume-01",
+        "player-controls-01",
+        "gui-play-0",
+        "gui-play-1",
+        "gui-play-2",
+        "gui-play-3",
+        "gui-volume",
+        "end-continue-on",
+        "end-continue-off",
+        "end-repeat-off",
+        "end-repeat-on",
+        "end-album-stop",
+        "end-album-continue",
+        "end-artist-scope",
+        "end-album-scope",
+        "end-sorted-order",
+        "end-tree-order",
+        "end-repeat-current",
+        "end-queue-true",
+        "end-queue-false",
+        "end-playlist-source",
+        "random-order-effects",
+        "audio-file-output"
+      ]
+    },
+    "playlists": {
+      "assertions": 67,
+      "episodes": [
+        "playlist-import-01",
+        "playlist-management",
+        "playlist-roundtrip-01",
+        "extended-export",
+        "gui-playlist-0",
+        "gui-playlist-1",
+        "gui-playlist-2",
+        "named-playlist-io",
+        "gui-native-import"
+      ]
+    },
+    "queue": {
+      "assertions": 28,
+      "episodes": [
+        "random-queue",
+        "gui-queue-0",
+        "gui-queue-1",
+        "gui-queue-2",
+        "gui-queue-3"
+      ]
+    },
+    "search": {
+      "assertions": 22,
+      "episodes": [
+        "gui-search-0",
+        "gui-search-1",
+        "gui-search-2",
+        "gui-search-3",
+        "gui-search-4",
+        "gui-search-5",
+        "gui-search-6",
+        "gui-search-7"
+      ]
+    },
+    "selection": {
+      "assertions": 33,
+      "episodes": [
+        "copy-marked-library-artist",
+        "copy-marked-library-genre",
+        "copy-marked-library-duration",
+        "copy-marked-library-untagged",
+        "copy-marked-playlist-artist",
+        "copy-marked-playlist-genre",
+        "copy-marked-playlist-duration",
+        "copy-marked-playlist-untagged",
+        "gui-marked-edit-0",
+        "gui-marked-edit-1",
+        "gui-marked-edit-2",
+        "selection-queue-copy"
+      ]
+    },
+    "settings": {
+      "assertions": 388,
+      "episodes": [
+        "booleans-01",
+        "booleans-02",
+        "booleans-03",
+        "booleans-04",
+        "enums-01",
+        "enums-02",
+        "numeric-01",
+        "numeric-02",
+        "display-settings-01",
+        "display-settings-02",
+        "defaults-01",
+        "defaults-02",
+        "defaults-03",
+        "gui-mode-0",
+        "gui-mode-1",
+        "gui-mode-2",
+        "gui-mode-3",
+        "gui-mode-4",
+        "gui-mode-5",
+        "gui-mode-6",
+        "gui-mode-7",
+        "settings-editor",
+        "gui-settings-edit"
+      ]
+    },
+    "sorting": {
+      "assertions": 98,
+      "episodes": [
+        "library-sort-01",
+        "library-sort-02",
+        "playlist-sort-01",
+        "gui-sort-0",
+        "gui-sort-1",
+        "gui-sort-2",
+        "gui-sort-3",
+        "gui-sort-4",
+        "gui-sort-5",
+        "gui-sort-6",
+        "gui-sort-7",
+        "sort-media-properties"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

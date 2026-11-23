@@ -1,0 +1,248 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        105,
+        0,
+        267,
+        167
+      ],
+      "ref": "canvas0",
+      "tag": "canvas"
+    },
+    {
+      "bounds": [
+        507,
+        0,
+        267,
+        167
+      ],
+      "ref": "canvas1",
+      "tag": "canvas"
+    },
+    {
+      "bounds": [
+        909,
+        0,
+        267,
+        167
+      ],
+      "ref": "canvas2",
+      "tag": "canvas"
+    },
+    {
+      "bounds": [
+        105,
+        221,
+        267,
+        274
+      ],
+      "ref": "canvas3",
+      "tag": "canvas"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        170,
+        157,
+        32,
+        32
+      ],
+      "ref": "e633d455b",
+      "tag": "button",
+      "text": "-"
+    },
+    {
+      "bounds": [
+        206,
+        157,
+        64,
+        32
+      ],
+      "ref": "e0b16d0df",
+      "tag": "input",
+      "type": "number",
+      "value": "30"
+    },
+    {
+      "bounds": [
+        274,
+        157,
+        32,
+        32
+      ],
+      "ref": "e8e8769e1",
+      "tag": "button",
+      "text": "+"
+    },
+    {
+      "bounds": [
+        572,
+        157,
+        32,
+        32
+      ],
+      "ref": "e633d455bx2",
+      "tag": "button",
+      "text": "-"
+    },
+    {
+      "bounds": [
+        608,
+        157,
+        64,
+        32
+      ],
+      "ref": "e0b16d0dfx2",
+      "tag": "input",
+      "type": "number",
+      "value": "30"
+    },
+    {
+      "bounds": [
+        676,
+        157,
+        32,
+        32
+      ],
+      "ref": "e8e8769e1x2",
+      "tag": "button",
+      "text": "+"
+    },
+    {
+      "bounds": [
+        974,
+        157,
+        32,
+        32
+      ],
+      "ref": "e633d455bx3",
+      "tag": "button",
+      "text": "-"
+    },
+    {
+      "bounds": [
+        1010,
+        157,
+        64,
+        32
+      ],
+      "ref": "e0b16d0dfx3",
+      "tag": "input",
+      "type": "number",
+      "value": "30"
+    },
+    {
+      "bounds": [
+        1078,
+        157,
+        32,
+        32
+      ],
+      "ref": "e8e8769e1x3",
+      "tag": "button",
+      "text": "+"
+    },
+    {
+      "bounds": [
+        170,
+        485,
+        32,
+        32
+      ],
+      "ref": "e633d455bx4",
+      "tag": "button",
+      "text": "-"
+    },
+    {
+      "bounds": [
+        206,
+        485,
+        64,
+        32
+      ],
+      "ref": "e0b16d0dfx4",
+      "tag": "input",
+      "type": "number",
+      "value": "30"
+    },
+    {
+      "bounds": [
+        274,
+        485,
+        32,
+        32
+      ],
+      "ref": "e8e8769e1x4",
+      "tag": "button",
+      "text": "+"
+    },
+    {
+      "bounds": [
+        49,
+        557,
+        1182,
+        48
+      ],
+      "ref": "e79325653",
+      "tag": "button",
+      "text": "Apply Rotations"
+    },
+    {
+      "bounds": [
+        473,
+        472,
+        334,
+        40
+      ],
+      "ref": "e2a50e308",
+      "tag": "button",
+      "text": "OK"
+    },
+    {
+      "bounds": [
+        1170,
+        809,
+        94,
+        34
+      ],
+      "expanded": false,
+      "ref": "ebda396fc",
+      "tag": "button",
+      "text": "English"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "report.pdf",
+      "ref": "d6466e450a16b",
+      "size": 5174
+    }
+  ],
+  "inputs": [
+    "mixed.pdf",
+    "report.pdf",
+    "single.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›Rotate by Custom Degrees\nRotate by Custom Degrees\n\nRotate pages by any custom angle.\n\nClick to select a file or drag and drop\n\nA single PDF file\n\nYour files never leave your device.\n\nreport.pdf\n3.7 KB • 4 pages\nBATCH ROTATION\n−\n+\nApply to All\n1\n-\n+\n2\n-\n+\n3\n-\n+\n4\n-\n+\nApply Rotations\nSuccess\n\nRotations applied successfully!\n\nOK\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/rotate-custom.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

@@ -1,0 +1,45 @@
+schema_version = "1.4"
+artifacts = [{ source = "/app/solution" }]
+
+[task]
+name = "program-bench/taskwarriortui"
+version = "1.0.0"
+description = "Reconstruct taskwarrior-tui 0.27.0, a terminal task manager backed by Taskwarrior 3.3.0, from black-box observation."
+keywords = ["task-management", "todo", "terminal", "ratatui", "taskwarrior"]
+
+[metadata]
+category = "terminal-tui-app"
+upstream = "kdheepak/taskwarrior-tui 0.27.0"
+license = "MIT"
+interface = "terminal UI (PTY); Taskwarrior command line"
+network_boundary = "agent: no network except hosts allowed with --allow-agent-host (Harbor egress sidecar); reference and verifier: Compose network_mode:none; restricted Unix socket RPC to the black-box runtime"
+
+[agent]
+timeout_sec = 28800
+user = "agent"
+
+[environment]
+docker_image = "program-bench-taskwarriortui-agent:1.0.0"
+build_timeout_sec = 600
+cpus = 4
+memory_mb = 16384
+storage_mb = 20480
+network_mode = "no-network"
+
+[environment.healthcheck]
+command = "blackbox-health"
+interval_sec = 1
+timeout_sec = 5
+retries = 60
+
+[verifier]
+timeout_sec = 208200
+environment_mode = "separate"
+
+[verifier.environment]
+docker_image = "program-bench-taskwarriortui-verifier:1.0.0"
+cpus = 4
+memory_mb = 8192
+storage_mb = 20480
+network_mode = "no-network"
+build_timeout_sec = 600

@@ -1,0 +1,655 @@
+{
+  "base_style": [
+    "fg=brightwhite",
+    "bg=262626"
+  ],
+  "cursor": {
+    "column": 63,
+    "hidden": false,
+    "row": 1
+  },
+  "process": "running",
+  "screen": [
+    "00|1 alpha beta gamma                                          |1 edited",
+    "01|2 the teh quick fox                                         |2 other file",
+    "02|3 third line here                                           |3",
+    "03|4 fourth line                                               |",
+    "04|5 fifth line                                                |",
+    "05|6                                                           |",
+    "06|                                                            |",
+    "07|                                                            |",
+    "08|                                                            |",
+    "09|                                                            |",
+    "10|                                                            |",
+    "11|                                                            |",
+    "12|                                                            |",
+    "13|                                                            |",
+    "14|                                                            |",
+    "15|                                                            |",
+    "16|                                                            |",
+    "17|                                                            |",
+    "18|                                                            |",
+    "19|                                                            |",
+    "20|                                                            |",
+    "21|                                                            |",
+    "22|                                                            |",
+    "23|                                                            |",
+    "24|                                                            |",
+    "25|                                                            |",
+    "26|                                                            |",
+    "27|                                                            |",
+    "28|                                                            |",
+    "29|                                                            |",
+    "30|                                                            |",
+    "31|                                                            |",
+    "32|                                                            |",
+    "33|                                                            |",
+    "34|notes.txt (1,1) | ft:unknown | unix | utf-8Alt-g: bindings, |other.txt (2,1) | ft:unknown | unix | utf-8Alt-g: bindings,",
+    "35|Saved other.txt"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 0,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "1 "
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 0,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        61,
+        63
+      ],
+      "row": 0,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "1 "
+    },
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 1,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "2 "
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 1,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        61,
+        63
+      ],
+      "row": 1,
+      "style": [
+        "fg=a8a8a8",
+        "bg=262626"
+      ],
+      "text": "2 "
+    },
+    {
+      "columns": [
+        63,
+        120
+      ],
+      "row": 1,
+      "style": [
+        "fg=brightwhite",
+        "bg=303030"
+      ],
+      "text": "other file                                               "
+    },
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 2,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "3 "
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 2,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        61,
+        63
+      ],
+      "row": 2,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "3 "
+    },
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 3,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "4 "
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 3,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 4,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "5 "
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 4,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 5,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "6 "
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 5,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 6,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 7,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 8,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 9,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 10,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 11,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 12,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 13,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 14,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 15,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 16,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 17,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 18,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 19,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 20,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 21,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 22,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 23,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 24,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 25,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 26,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 27,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 28,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 29,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 30,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 31,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 32,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 33,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        0,
+        60
+      ],
+      "row": 34,
+      "style": [
+        "fg=262626",
+        "bg=brightwhite"
+      ],
+      "text": "notes.txt (1,1) | ft:unknown | unix | utf-8Alt-g: bindings, "
+    },
+    {
+      "columns": [
+        60,
+        61
+      ],
+      "row": 34,
+      "style": [
+        "reverse",
+        "fg=brightwhite",
+        "bg=262626"
+      ],
+      "text": "|"
+    },
+    {
+      "columns": [
+        61,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "fg=262626",
+        "bg=brightwhite"
+      ],
+      "text": "other.txt (2,1) | ft:unknown | unix | utf-8Alt-g: bindings,"
+    }
+  ]
+}

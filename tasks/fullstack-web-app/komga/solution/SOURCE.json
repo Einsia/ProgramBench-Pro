@@ -1,0 +1,24 @@
+{
+  "task": "komga",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "Komga",
+    "version": "1.29.2",
+    "homepage": "https://komga.org/",
+    "repository": "https://github.com/gotson/komga",
+    "license": "MIT"
+  },
+  "downloads": [
+    {
+      "file": "komga.jar",
+      "url": "https://github.com/gotson/komga/releases/download/1.29.2/komga-1.29.2.jar",
+      "sha256": "42fcaac29cbd00199c5c16f1b25882bd5a7cebc695d761f04f4532d08a22063f"
+    }
+  ],
+  "bundled": [],
+  "modifications": "none; local startup and initialization scripts configure the unmodified upstream program",
+  "configuration": "Fresh instances are unclaimed. Java 17 runs the service on HOST/PORT with configuration, database, indexes and bounded logs under DATA_DIR and temporary files under TMPDIR. Startup library scanning is disabled; management exposure is limited to health/info. The runtime confines file operations to the public exchange directories and disallows executable/deployment setting changes.",
+  "notes": {
+    "source": "https://github.com/gotson/komga/tree/1.29.2"
+  }
+}

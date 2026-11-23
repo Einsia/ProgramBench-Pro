@@ -1,0 +1,679 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        376,
+        77,
+        904,
+        823
+      ],
+      "ref": "canvas0",
+      "tag": "svg"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        0,
+        9,
+        82,
+        53
+      ],
+      "ref": "e75fe0e2a",
+      "tag": "a"
+    },
+    {
+      "bounds": [
+        1140,
+        16,
+        112,
+        36
+      ],
+      "ref": "eed4bab7b",
+      "tag": "button",
+      "text": "Share"
+    },
+    {
+      "bounds": [
+        0,
+        88,
+        32,
+        32
+      ],
+      "disabled": true,
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        36,
+        85,
+        90,
+        37
+      ],
+      "ref": "e0aa301ad",
+      "role": "tab",
+      "selected": true,
+      "tag": "div",
+      "text": "Tables (4)"
+    },
+    {
+      "bounds": [
+        134,
+        85,
+        84,
+        37
+      ],
+      "ref": "ed8ae1a6e",
+      "role": "tab",
+      "selected": false,
+      "tag": "div",
+      "text": "Views (0)"
+    },
+    {
+      "bounds": [
+        226,
+        85,
+        112,
+        37
+      ],
+      "ref": "ea3347fc6",
+      "role": "tab",
+      "selected": false,
+      "tag": "div",
+      "text": "Relationships (1)"
+    },
+    {
+      "bounds": [
+        342,
+        88,
+        32,
+        32
+      ],
+      "ref": "ea0fc21fdx2",
+      "tag": "button"
+    },
+    {
+      "aria": "TreeSelect",
+      "bounds": [
+        8,
+        135,
+        238,
+        32
+      ],
+      "expanded": false,
+      "ref": "e999b5ea4",
+      "role": "combobox",
+      "tag": "div",
+      "text": "Search...",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        254,
+        135,
+        112,
+        32
+      ],
+      "ref": "ede343483",
+      "tag": "button",
+      "text": "Add table"
+    },
+    {
+      "bounds": [
+        8,
+        171,
+        358,
+        48
+      ],
+      "ref": "e77b15262",
+      "role": "button",
+      "tag": "div",
+      "text": "users"
+    },
+    {
+      "bounds": [
+        16,
+        171,
+        342,
+        43
+      ],
+      "expanded": false,
+      "ref": "e77b15262x2",
+      "role": "button",
+      "tag": "div",
+      "text": "users"
+    },
+    {
+      "bounds": [
+        302,
+        181,
+        24,
+        24
+      ],
+      "ref": "ea0fc21fdx3",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        8,
+        223,
+        358,
+        48
+      ],
+      "ref": "e9210f36d",
+      "role": "button",
+      "tag": "div",
+      "text": "posts"
+    },
+    {
+      "bounds": [
+        16,
+        223,
+        342,
+        43
+      ],
+      "expanded": false,
+      "ref": "e9210f36dx2",
+      "role": "button",
+      "tag": "div",
+      "text": "posts"
+    },
+    {
+      "bounds": [
+        302,
+        233,
+        24,
+        24
+      ],
+      "ref": "ea0fc21fdx4",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        8,
+        275,
+        358,
+        48
+      ],
+      "ref": "ebdbdb331",
+      "role": "button",
+      "tag": "div",
+      "text": "tags"
+    },
+    {
+      "bounds": [
+        16,
+        275,
+        342,
+        43
+      ],
+      "expanded": false,
+      "ref": "ebdbdb331x2",
+      "role": "button",
+      "tag": "div",
+      "text": "tags"
+    },
+    {
+      "bounds": [
+        302,
+        285,
+        24,
+        24
+      ],
+      "ref": "ea0fc21fdx5",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        8,
+        327,
+        358,
+        48
+      ],
+      "ref": "e0d3862ac",
+      "role": "button",
+      "tag": "div",
+      "text": "post_tags"
+    },
+    {
+      "bounds": [
+        16,
+        327,
+        342,
+        43
+      ],
+      "expanded": false,
+      "ref": "e0d3862acx2",
+      "role": "button",
+      "tag": "div",
+      "text": "post_tags"
+    },
+    {
+      "bounds": [
+        302,
+        337,
+        24,
+        24
+      ],
+      "ref": "ea0fc21fdx6",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        20,
+        825,
+        29,
+        16
+      ],
+      "ref": "ec66cb417",
+      "tag": "div",
+      "text": "4",
+      "title": "Tables"
+    },
+    {
+      "bounds": [
+        61,
+        824,
+        31,
+        18
+      ],
+      "ref": "e76f83114",
+      "tag": "div",
+      "text": "1",
+      "title": "Relationships"
+    },
+    {
+      "bounds": [
+        217,
+        823,
+        83,
+        20
+      ],
+      "ref": "e2152f4c5",
+      "tag": "button",
+      "text": "Structure"
+    },
+    {
+      "bounds": [
+        299,
+        823,
+        61,
+        20
+      ],
+      "ref": "e7cfe6d9f",
+      "tag": "button",
+      "text": "Code"
+    },
+    {
+      "bounds": [
+        8,
+        855,
+        358,
+        40
+      ],
+      "expanded": false,
+      "ref": "ef121d4d8",
+      "role": "button",
+      "tag": "div",
+      "text": "Problems 0"
+    },
+    {
+      "bounds": [
+        623,
+        342,
+        5,
+        5
+      ],
+      "ref": "ea0fc21fdx7",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        623,
+        360,
+        5,
+        5
+      ],
+      "ref": "ea0fc21fdx8",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        768,
+        342,
+        5,
+        5
+      ],
+      "ref": "ea0fc21fdx9",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        768,
+        360,
+        5,
+        5
+      ],
+      "ref": "ea0fc21fdx10",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        768,
+        379,
+        5,
+        5
+      ],
+      "ref": "ea0fc21fdx11",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        768,
+        397,
+        5,
+        5
+      ],
+      "ref": "ea0fc21fdx12",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        913,
+        342,
+        5,
+        5
+      ],
+      "ref": "ea0fc21fdx13",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        913,
+        360,
+        5,
+        5
+      ],
+      "ref": "ea0fc21fdx14",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        768,
+        492,
+        5,
+        5
+      ],
+      "ref": "ea0fc21fdx15",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        768,
+        510,
+        5,
+        5
+      ],
+      "ref": "ea0fc21fdx16",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        549,
+        842,
+        34,
+        36
+      ],
+      "ref": "ea0fc21fdx17",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        655,
+        842,
+        34,
+        36
+      ],
+      "ref": "ea0fc21fdx18",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        706,
+        846,
+        36,
+        28
+      ],
+      "disabled": true,
+      "ref": "ea0fc21fdx19",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        742,
+        846,
+        36,
+        28
+      ],
+      "disabled": true,
+      "ref": "ea0fc21fdx20",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        795,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx21",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        837,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx22",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        879,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx23",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        921,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx24",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        980,
+        841,
+        39,
+        36
+      ],
+      "ref": "ea0fc21fdx25",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1036,
+        844,
+        40,
+        32
+      ],
+      "ref": "ea0fc21fdx26",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1093,
+        841,
+        34,
+        36
+      ],
+      "ref": "ea0fc21fdx27",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1144,
+        841,
+        36,
+        36
+      ],
+      "ref": "ea0fc21fdx28",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        583,
+        446,
+        240,
+        36
+      ],
+      "ref": "ea5cde05c",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "Fit window / Reset Ctrl+Alt+W"
+    },
+    {
+      "bounds": [
+        583,
+        491,
+        240,
+        36
+      ],
+      "ref": "e7fc708a6",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "25 %"
+    },
+    {
+      "bounds": [
+        583,
+        527,
+        240,
+        36
+      ],
+      "ref": "e35fbc8fa",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "50 %"
+    },
+    {
+      "bounds": [
+        583,
+        563,
+        240,
+        36
+      ],
+      "ref": "e78dd614f",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "75 %"
+    },
+    {
+      "bounds": [
+        583,
+        599,
+        240,
+        36
+      ],
+      "ref": "e1227a74a",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "100 %"
+    },
+    {
+      "bounds": [
+        583,
+        635,
+        240,
+        36
+      ],
+      "ref": "e6356f81f",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "125 %"
+    },
+    {
+      "bounds": [
+        583,
+        671,
+        240,
+        36
+      ],
+      "ref": "e487266ef",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "150 %"
+    },
+    {
+      "bounds": [
+        583,
+        707,
+        240,
+        36
+      ],
+      "ref": "ec0ccf37f",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "200 %"
+    },
+    {
+      "bounds": [
+        583,
+        743,
+        240,
+        36
+      ],
+      "ref": "e4bd7e270",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "300 %"
+    },
+    {
+      "bounds": [
+        583,
+        788,
+        240,
+        48
+      ],
+      "label": "300 %",
+      "placeholder": "Zoom",
+      "ref": "e9e2321fe",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "%",
+      "type": "text",
+      "value": ""
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "text": "Diagrams\n/\nBlog\nFile\nEdit\nView\nSettings\nHelp\nLast saved 11/1/2026, 10:26:04 AM\nfk_posts_user_id_users\nn\n1\nusers\nid\nINT\nname\nVARCHAR(60)\nposts\nid\nINT\nuser_id\nINT\ntitle\n?\nVARCHAR(120)\nbody\n?\nTEXT(2000)\ntags\nid\nINT\nlabel\n?\nVARCHAR(30)\npost_tags\npost_id\nINT\ntag_id\nINT\nTransform\npan x\npan y\nscale\n0.00\n0.00\n0.5000\nView Box\nleft\ntop\nwidth\nheight\n-904.00\n-823.00\n1808.00\n1646.00\nCursor Coordinates\nSpace\nx\ny\nScreen\n654.75\n77.00\nDiagram\n405.50\n-669.00\n50\n%",
+  "text_truncated": false,
+  "title": "Editor | drawDB",
+  "url": "/editor/diagrams/5b9ad0e8-59fa-46d2-a165-270db33abaf9",
+  "viewport": [
+    1280,
+    900
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "base_style": [
+    "fg=brightwhite",
+    "bg=262626"
+  ],
+  "cursor": {
+    "column": 2,
+    "hidden": false,
+    "row": 0
+  },
+  "process": "running",
+  "screen": [
+    "00|1 alpha beta gamma",
+    "01|2 the teh quick fox",
+    "02|3 third line here",
+    "03|4 fourth line",
+    "04|5 fifth line",
+    "05|6",
+    "06|",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|",
+    "12|",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|",
+    "19|",
+    "20|",
+    "21|",
+    "22|",
+    "23|",
+    "24|",
+    "25|",
+    "26|",
+    "27|",
+    "28|",
+    "29|",
+    "30|",
+    "31|",
+    "32|",
+    "33|",
+    "34|copy.txt (1,1) | ft:unknown | unix | utf-8                                                 Alt-g: bindings, Ctrl-g: help",
+    "35|Saved copy.txt"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 0,
+      "style": [
+        "fg=a8a8a8",
+        "bg=262626"
+      ],
+      "text": "1 "
+    },
+    {
+      "columns": [
+        2,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "fg=brightwhite",
+        "bg=303030"
+      ],
+      "text": "alpha beta gamma                                                                                                      "
+    },
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 1,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "2 "
+    },
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 2,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "3 "
+    },
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 3,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "4 "
+    },
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 4,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "5 "
+    },
+    {
+      "columns": [
+        0,
+        2
+      ],
+      "row": 5,
+      "style": [
+        "fg=a8a8a8",
+        "bg=303030"
+      ],
+      "text": "6 "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "fg=262626",
+        "bg=brightwhite"
+      ],
+      "text": "copy.txt (1,1) | ft:unknown | unix | utf-8                                                 Alt-g: bindings, Ctrl-g: help"
+    }
+  ]
+}

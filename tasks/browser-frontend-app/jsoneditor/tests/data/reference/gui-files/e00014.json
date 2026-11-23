@@ -1,0 +1,383 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        427,
+        73,
+        86,
+        16
+      ],
+      "ref": "e0f0aa337",
+      "tag": "a",
+      "text": "FileReader.js"
+    },
+    {
+      "bounds": [
+        545,
+        73,
+        76,
+        16
+      ],
+      "ref": "ec1f2ef1d",
+      "tag": "a",
+      "text": "FileSaver.js"
+    },
+    {
+      "bounds": [
+        173,
+        120,
+        253,
+        21
+      ],
+      "file": true,
+      "label": "Load a JSON document:",
+      "ref": "ebe902d2d",
+      "tag": "input",
+      "type": "file"
+    },
+    {
+      "bounds": [
+        173,
+        156,
+        46,
+        21
+      ],
+      "label": "Save a JSON document:",
+      "ref": "eee98df9c",
+      "tag": "input",
+      "text": "Save",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        13,
+        196,
+        26,
+        26
+      ],
+      "ref": "ee02b9e8c",
+      "tag": "button",
+      "title": "Expand all fields"
+    },
+    {
+      "bounds": [
+        43,
+        196,
+        26,
+        26
+      ],
+      "ref": "e85e63fcb",
+      "tag": "button",
+      "title": "Collapse all fields"
+    },
+    {
+      "bounds": [
+        73,
+        196,
+        26,
+        26
+      ],
+      "ref": "ea12a318a",
+      "tag": "button",
+      "title": "Sort contents"
+    },
+    {
+      "bounds": [
+        103,
+        196,
+        26,
+        26
+      ],
+      "ref": "e35050c81",
+      "tag": "button",
+      "title": "Filter, sort, or transform contents"
+    },
+    {
+      "bounds": [
+        141,
+        196,
+        26,
+        26
+      ],
+      "disabled": true,
+      "ref": "ebbb5bcf1",
+      "tag": "button",
+      "title": "Undo last action (Ctrl+Z)"
+    },
+    {
+      "bounds": [
+        171,
+        196,
+        26,
+        26
+      ],
+      "disabled": true,
+      "ref": "e0a2b66da",
+      "tag": "button",
+      "title": "Redo (Ctrl+Shift+Z)"
+    },
+    {
+      "bounds": [
+        320,
+        197,
+        18,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e1d35618c",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        339,
+        198,
+        126,
+        18
+      ],
+      "context": "Search fields and values",
+      "ref": "e3b24d854",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        466,
+        197,
+        16,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e44fcfed4",
+      "tag": "button",
+      "title": "Next result (Enter)"
+    },
+    {
+      "bounds": [
+        482,
+        197,
+        16,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e0ed8f5b1",
+      "tag": "button",
+      "title": "Previous result (Shift + Enter)"
+    },
+    {
+      "bounds": [
+        33,
+        253,
+        24,
+        24
+      ],
+      "ref": "ebb03648e",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        57,
+        253,
+        24,
+        24
+      ],
+      "ref": "e8f71e697",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        132,
+        254,
+        31,
+        22
+      ],
+      "ref": "e33f28a0f",
+      "tag": "div",
+      "text": "[4]",
+      "title": "array containing 4 items"
+    },
+    {
+      "bounds": [
+        9,
+        277,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3a",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        277,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex2",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        138,
+        278,
+        38,
+        22
+      ],
+      "ref": "ee4eaa14a",
+      "tag": "div",
+      "text": "1",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        9,
+        301,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax2",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        301,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex3",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        138,
+        302,
+        38,
+        22
+      ],
+      "ref": "e9e1f44f7",
+      "tag": "div",
+      "text": "two",
+      "value": "two"
+    },
+    {
+      "bounds": [
+        9,
+        325,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax3",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        325,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex4",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        141,
+        328,
+        13,
+        13
+      ],
+      "checked": false,
+      "ref": "ecd10f8cf",
+      "tag": "input",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        158,
+        326,
+        48,
+        22
+      ],
+      "ref": "e7c472c12",
+      "tag": "div",
+      "text": "false",
+      "value": "false"
+    },
+    {
+      "bounds": [
+        9,
+        349,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax4",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        349,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex5",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        138,
+        350,
+        40,
+        22
+      ],
+      "ref": "e83401d28",
+      "tag": "div",
+      "text": "null",
+      "value": "null"
+    }
+  ],
+  "controls_truncated": false,
+  "dialogs": [
+    {
+      "answer": "accepted",
+      "message": "Save as...",
+      "text": "data.json",
+      "type": "prompt"
+    }
+  ],
+  "downloads": [
+    {
+      "filename": "data.json",
+      "ref": "d7f733ecb149c3708",
+      "size": 20
+    }
+  ],
+  "drawing": [],
+  "drawing_truncated": false,
+  "inputs": [
+    "array.json",
+    "object.json",
+    "unicode.json"
+  ],
+  "text": "Load and save JSON documents\nThis examples uses HTML5 to load/save local files. Powered by\nand\n.\nOnly supported on modern browsers (Chrome, FireFox, IE10+, Safari 6.1+, Opera 15+).\nLoad a JSON document:\nSave a JSON document:\nSelect a node...\narray\n0\n:\n1\n:\n2\n:\n3\n:",
+  "text_truncated": false,
+  "title": "JSONEditor | Load and save",
+  "url": "/examples/04_load_and_save.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

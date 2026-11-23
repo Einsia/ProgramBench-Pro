@@ -1,0 +1,581 @@
+{
+  "cursor": {
+    "column": 0,
+    "hidden": true,
+    "row": 35
+  },
+  "process": "running",
+  "screen": [
+    "00|Newsboat 2.45.0 - Help",
+    "01|r               reload                  Reload currently selected feed",
+    "02|R               reload-all              Reload all feeds",
+    "03|^R              reload-urls             Reload the list of URLs from the configuration",
+    "04|",
+    "05|Unbound functions:",
+    "06|",
+    "07|~",
+    "08|~",
+    "09|~",
+    "10|~",
+    "11|~",
+    "12|~",
+    "13|~",
+    "14|~",
+    "15|~",
+    "16|~",
+    "17|~",
+    "18|~",
+    "19|~",
+    "20|~",
+    "21|~",
+    "22|~",
+    "23|~",
+    "24|~",
+    "25|~",
+    "26|~",
+    "27|~",
+    "28|~",
+    "29|~",
+    "30|~",
+    "31|~",
+    "32|~",
+    "33|~",
+    "34|q:Quit /:Search ^F:Clear",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": "Newsboat 2.45.0 - Help                                                                                                  "
+    },
+    {
+      "columns": [
+        16,
+        22
+      ],
+      "row": 1,
+      "style": [
+        "bold",
+        "fg=black",
+        "bg=brown"
+      ],
+      "text": "reload"
+    },
+    {
+      "columns": [
+        40,
+        46
+      ],
+      "row": 1,
+      "style": [
+        "bold",
+        "fg=black",
+        "bg=brown"
+      ],
+      "text": "Reload"
+    },
+    {
+      "columns": [
+        16,
+        22
+      ],
+      "row": 2,
+      "style": [
+        "bold",
+        "fg=black",
+        "bg=brown"
+      ],
+      "text": "reload"
+    },
+    {
+      "columns": [
+        40,
+        46
+      ],
+      "row": 2,
+      "style": [
+        "bold",
+        "fg=black",
+        "bg=brown"
+      ],
+      "text": "Reload"
+    },
+    {
+      "columns": [
+        16,
+        22
+      ],
+      "row": 3,
+      "style": [
+        "bold",
+        "fg=black",
+        "bg=brown"
+      ],
+      "text": "reload"
+    },
+    {
+      "columns": [
+        40,
+        46
+      ],
+      "row": 3,
+      "style": [
+        "bold",
+        "fg=black",
+        "bg=brown"
+      ],
+      "text": "Reload"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 7,
+      "style": [
+        "bold",
+        "fg=blue"
+      ],
+      "text": "~"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 8,
+      "style": [
+        "bold",
+        "fg=blue"
+      ],
+      "text": "~"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 9,
+      "style": [
+        "bold",
+        "fg=blue"
+      ],
+      "text": "~"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 10,
+      "style": [
+        "bold",
+        "fg=blue"
+      ],
+      "text": "~"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 11,
+      "style": [
+        "bold",
+        "fg=blue"
+      ],
+      "text": "~"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 12,
+      "style": [
+        "bold",
+        "fg=blue"
+      ],
+      "text": "~"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 13,
+      "style": [
+        "bold",
+        "fg=blue"
+      ],
+      "text": "~"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 14,
+      "style": [
+        "bold",
+        "fg=blue"
+      ],
+      "text": "~"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 15,
+      "style": [
+        "bold",
+        "fg=blue"
+      ],
+      "text": "~"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 16,
+      "style": [
+        "bold",
+        "fg=blue"
+      ],
+      "text": "~"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 17,
+      "style": [
+        "bold",
+        "fg=blue"
+      ],
+      "text": "~"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 18,
+      "style": [
+        "bold",
+        "fg=blue"
+      ],
+      "text": "~"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 19,
+      "style": [
+        "bold",
+        "fg=blue"
+      ],
+      "text": "~"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 20,
+      "style": [
+        "bold",
+        "fg=blue"
+      ],
+      "text": "~"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 21,
+      "style": [
+        "bold",
+        "fg=blue"
+      ],
+      "text": "~"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 22,
+      "style": [
+        "bold",
+        "fg=blue"
+      ],
+      "text": "~"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 23,
+      "style": [
+        "bold",
+        "fg=blue"
+      ],
+      "text": "~"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 24,
+      "style": [
+        "bold",
+        "fg=blue"
+      ],
+      "text": "~"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 25,
+      "style": [
+        "bold",
+        "fg=blue"
+      ],
+      "text": "~"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 26,
+      "style": [
+        "bold",
+        "fg=blue"
+      ],
+      "text": "~"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 27,
+      "style": [
+        "bold",
+        "fg=blue"
+      ],
+      "text": "~"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 28,
+      "style": [
+        "bold",
+        "fg=blue"
+      ],
+      "text": "~"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 29,
+      "style": [
+        "bold",
+        "fg=blue"
+      ],
+      "text": "~"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 30,
+      "style": [
+        "bold",
+        "fg=blue"
+      ],
+      "text": "~"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 31,
+      "style": [
+        "bold",
+        "fg=blue"
+      ],
+      "text": "~"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 32,
+      "style": [
+        "bold",
+        "fg=blue"
+      ],
+      "text": "~"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 33,
+      "style": [
+        "bold",
+        "fg=blue"
+      ],
+      "text": "~"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": "q"
+    },
+    {
+      "columns": [
+        1,
+        2
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        2,
+        6
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Quit"
+    },
+    {
+      "columns": [
+        6,
+        8
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": " /"
+    },
+    {
+      "columns": [
+        8,
+        9
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        9,
+        15
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Search"
+    },
+    {
+      "columns": [
+        15,
+        18
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": " ^F"
+    },
+    {
+      "columns": [
+        18,
+        19
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        19,
+        24
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Clear"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "reference_paths": [
+    "/app/solution/cmus/bin/cmus",
+    "/app/solution/cmus/bin/cmus-remote",
+    "/app/solution/cmus/lib/cmus"
+  ],
+  "shared_solution_files": [
+    {
+      "file": "LICENSE",
+      "reason": "Public upstream license text; also permitted with system dependencies or the public user documentation."
+    }
+  ]
+}

@@ -1,0 +1,692 @@
+{
+  "controls": [
+    {
+      "aria": "Dashboard",
+      "bounds": [
+        10,
+        7,
+        56,
+        36
+      ],
+      "href": "/",
+      "ref": "e758",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        71,
+        7,
+        76,
+        36
+      ],
+      "href": "/issues",
+      "ref": "e759",
+      "role": null,
+      "tag": "a",
+      "text": "Issues"
+    },
+    {
+      "bounds": [
+        152,
+        7,
+        135,
+        36
+      ],
+      "href": "/pulls",
+      "ref": "e760",
+      "role": null,
+      "tag": "a",
+      "text": "Pull Requests"
+    },
+    {
+      "bounds": [
+        293,
+        7,
+        110,
+        36
+      ],
+      "href": "/milestones",
+      "ref": "e761",
+      "role": null,
+      "tag": "a",
+      "text": "Milestones"
+    },
+    {
+      "bounds": [
+        408,
+        7,
+        85,
+        36
+      ],
+      "href": "/explore/repos",
+      "ref": "e762",
+      "role": null,
+      "tag": "a",
+      "text": "Explore"
+    },
+    {
+      "aria": "Notifications",
+      "bounds": [
+        1094,
+        7,
+        42,
+        36
+      ],
+      "href": "/notifications",
+      "ref": "e763",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Notifications"
+    },
+    {
+      "aria": "Create…",
+      "bounds": [
+        1141,
+        7,
+        60,
+        36
+      ],
+      "expanded": false,
+      "ref": "e764",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Create…"
+    },
+    {
+      "aria": "Profile and Settings…",
+      "bounds": [
+        1207,
+        7,
+        64,
+        36
+      ],
+      "expanded": false,
+      "ref": "e765",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Profile and Settings…"
+    },
+    {
+      "bounds": [
+        64,
+        69,
+        54,
+        20
+      ],
+      "href": "/alice",
+      "ref": "e766",
+      "role": null,
+      "tag": "a",
+      "text": "alice"
+    },
+    {
+      "bounds": [
+        136,
+        69,
+        97,
+        20
+      ],
+      "href": "/alice/workbench",
+      "ref": "e767",
+      "role": null,
+      "tag": "a",
+      "text": "workbench"
+    },
+    {
+      "aria": "RSS Feed",
+      "bounds": [
+        815,
+        62,
+        47,
+        33
+      ],
+      "href": "/alice/workbench.rss",
+      "ref": "e768",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "RSS Feed"
+    },
+    {
+      "aria": "Unwatch",
+      "bounds": [
+        869,
+        62,
+        105,
+        33
+      ],
+      "ref": "e769",
+      "role": null,
+      "tag": "button",
+      "text": "Unwatch"
+    },
+    {
+      "bounds": [
+        973,
+        62,
+        32,
+        33
+      ],
+      "href": "/alice/workbench/watchers",
+      "ref": "e770",
+      "role": null,
+      "tag": "a",
+      "text": "1"
+    },
+    {
+      "aria": "Star",
+      "bounds": [
+        1012,
+        62,
+        82,
+        33
+      ],
+      "ref": "e771",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        1093,
+        62,
+        32,
+        33
+      ],
+      "href": "/alice/workbench/stars",
+      "ref": "e772",
+      "role": null,
+      "tag": "a",
+      "text": "0"
+    },
+    {
+      "bounds": [
+        1132,
+        62,
+        82,
+        33
+      ],
+      "ref": "e773",
+      "role": null,
+      "tag": "a",
+      "text": "Fork"
+    },
+    {
+      "bounds": [
+        1213,
+        62,
+        32,
+        33
+      ],
+      "href": "/alice/workbench/forks",
+      "ref": "e774",
+      "role": null,
+      "tag": "a",
+      "text": "0"
+    },
+    {
+      "bounds": [
+        32,
+        99,
+        79,
+        41
+      ],
+      "href": "/alice/workbench",
+      "ref": "e775",
+      "role": null,
+      "tag": "a",
+      "text": "Code"
+    },
+    {
+      "bounds": [
+        111,
+        99,
+        126,
+        41
+      ],
+      "href": "/alice/workbench/issues",
+      "ref": "e776",
+      "role": null,
+      "tag": "a",
+      "text": "Issues\n2"
+    },
+    {
+      "bounds": [
+        237,
+        99,
+        154,
+        41
+      ],
+      "href": "/alice/workbench/pulls",
+      "ref": "e777",
+      "role": null,
+      "tag": "a",
+      "text": "Pull Requests"
+    },
+    {
+      "bounds": [
+        391,
+        99,
+        104,
+        41
+      ],
+      "href": "/alice/workbench/actions",
+      "ref": "e778",
+      "role": null,
+      "tag": "a",
+      "text": "Actions"
+    },
+    {
+      "bounds": [
+        495,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/workbench/packages",
+      "ref": "e779",
+      "role": null,
+      "tag": "a",
+      "text": "Packages"
+    },
+    {
+      "bounds": [
+        607,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/workbench/projects",
+      "ref": "e780",
+      "role": null,
+      "tag": "a",
+      "text": "Projects"
+    },
+    {
+      "bounds": [
+        719,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/workbench/releases",
+      "ref": "e781",
+      "role": null,
+      "tag": "a",
+      "text": "Releases"
+    },
+    {
+      "bounds": [
+        831,
+        99,
+        79,
+        41
+      ],
+      "href": "/alice/workbench/wiki",
+      "ref": "e782",
+      "role": null,
+      "tag": "a",
+      "text": "Wiki"
+    },
+    {
+      "bounds": [
+        909,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/workbench/activity",
+      "ref": "e783",
+      "role": null,
+      "tag": "a",
+      "text": "Activity"
+    },
+    {
+      "bounds": [
+        1136,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/workbench/settings",
+      "ref": "e784",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        33,
+        156,
+        77,
+        33
+      ],
+      "href": "/alice/workbench/labels",
+      "ref": "e785",
+      "role": null,
+      "tag": "a",
+      "text": "Labels"
+    },
+    {
+      "bounds": [
+        110,
+        156,
+        108,
+        33
+      ],
+      "href": "/alice/workbench/milestones",
+      "ref": "e786",
+      "role": null,
+      "tag": "a",
+      "text": "Milestones"
+    },
+    {
+      "bounds": [
+        225,
+        155,
+        863,
+        35
+      ],
+      "maxlength": "255",
+      "name": "q",
+      "placeholder": "Search...",
+      "ref": "e787",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "search",
+      "value": "Alpha"
+    },
+    {
+      "aria": "Search...",
+      "bounds": [
+        1088,
+        155,
+        38,
+        35
+      ],
+      "ref": "e788",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1134,
+        155,
+        111,
+        35
+      ],
+      "href": "/alice/workbench/issues/new",
+      "ref": "e789",
+      "role": null,
+      "tag": "a",
+      "text": "New Issue"
+    },
+    {
+      "bounds": [
+        32,
+        220,
+        15,
+        15
+      ],
+      "checked": false,
+      "ref": "e790",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "title": "Check/Uncheck all items",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        62,
+        210,
+        94,
+        33
+      ],
+      "href": "/alice/workbench/issues?q=Alpha&type=all&sort=&state=all&labels=&milestone=0&project=0&assignee=0&poster=0&archived=false",
+      "ref": "e791",
+      "role": null,
+      "tag": "a",
+      "text": "1 Open"
+    },
+    {
+      "bounds": [
+        156,
+        210,
+        108,
+        33
+      ],
+      "href": "/alice/workbench/issues?q=Alpha&type=all&sort=&state=closed&labels=&milestone=0&project=0&assignee=0&poster=0&archived=false",
+      "ref": "e792",
+      "role": null,
+      "tag": "a",
+      "text": "0 Closed"
+    },
+    {
+      "bounds": [
+        556,
+        206,
+        86,
+        38
+      ],
+      "expanded": false,
+      "ref": "e793",
+      "role": "combobox",
+      "tag": "div",
+      "text": "Label"
+    },
+    {
+      "bounds": [
+        647,
+        206,
+        119,
+        38
+      ],
+      "expanded": false,
+      "ref": "e794",
+      "role": "combobox",
+      "tag": "div",
+      "text": "Milestone"
+    },
+    {
+      "bounds": [
+        771,
+        206,
+        102,
+        38
+      ],
+      "expanded": false,
+      "ref": "e795",
+      "role": "combobox",
+      "tag": "div",
+      "text": "Project"
+    },
+    {
+      "aria": "Shows a maximum of 30 users",
+      "bounds": [
+        878,
+        206,
+        94,
+        38
+      ],
+      "expanded": false,
+      "ref": "e796",
+      "role": "combobox",
+      "tag": "div",
+      "text": "Author",
+      "title": "Shows a maximum of 30 users"
+    },
+    {
+      "bounds": [
+        977,
+        206,
+        111,
+        38
+      ],
+      "expanded": false,
+      "ref": "e797",
+      "role": "combobox",
+      "tag": "div",
+      "text": "Assignee"
+    },
+    {
+      "bounds": [
+        1093,
+        206,
+        77,
+        38
+      ],
+      "expanded": false,
+      "ref": "e798",
+      "role": "menu",
+      "tag": "div",
+      "text": "Type"
+    },
+    {
+      "bounds": [
+        1175,
+        207,
+        73,
+        35
+      ],
+      "expanded": false,
+      "ref": "e799",
+      "role": "menu",
+      "tag": "div",
+      "text": "Sort"
+    },
+    {
+      "aria": "Check/Uncheck \"Alpha open\"",
+      "bounds": [
+        32,
+        255,
+        15,
+        15
+      ],
+      "checked": false,
+      "ref": "e800",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        93,
+        256,
+        96,
+        20
+      ],
+      "href": "/alice/workbench/issues/1",
+      "ref": "e801",
+      "role": null,
+      "tag": "a",
+      "text": "Alpha open"
+    },
+    {
+      "bounds": [
+        93,
+        276,
+        17,
+        20
+      ],
+      "href": "/alice/workbench/issues/1",
+      "ref": "e802",
+      "role": null,
+      "tag": "a",
+      "text": "#1"
+    },
+    {
+      "bounds": [
+        217,
+        276,
+        42,
+        20
+      ],
+      "href": "/alice",
+      "ref": "e803",
+      "role": null,
+      "tag": "a",
+      "text": "alice"
+    },
+    {
+      "bounds": [
+        20,
+        872,
+        134,
+        20
+      ],
+      "href": "[external]",
+      "ref": "e804",
+      "role": null,
+      "tag": "a",
+      "text": "Powered by Gitea"
+    },
+    {
+      "bounds": [
+        1063,
+        874,
+        76,
+        16
+      ],
+      "expanded": false,
+      "ref": "e805",
+      "role": "menu",
+      "tag": "div",
+      "text": "English"
+    },
+    {
+      "bounds": [
+        1145,
+        872,
+        76,
+        20
+      ],
+      "href": "/assets/licenses.txt",
+      "ref": "e806",
+      "role": null,
+      "tag": "a",
+      "text": "Licenses"
+    },
+    {
+      "bounds": [
+        1226,
+        872,
+        34,
+        20
+      ],
+      "href": "/api/swagger",
+      "ref": "e807",
+      "role": null,
+      "tag": "a",
+      "text": "API"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Issues\nPull Requests\nMilestones\nExplore\n \nalice\n/\nworkbench\nUnwatch\n1\nStar\n0\nFork\n0\nCode\nIssues\n2\nPull Requests\nActions\nPackages\nProjects\nReleases\nWiki\nActivity\nSettings\nLabels\nMilestones\nNew Issue\n1 Open\n0 Closed\nLabel\nMilestone\nProject\nAuthor\nAssignee\nType\nSort\n \nAlpha open\n#1\nopened\nby\nalice\nPowered by Gitea\nPage:\n19ms\nTemplate:\n3ms\nEnglish\nLicenses\nAPI",
+  "text_truncated": false,
+  "title": "Issues - workbench - Gitea",
+  "url": "/alice/workbench/issues?state=open&q=Alpha",
+  "viewport": [
+    1280,
+    900
+  ]
+}

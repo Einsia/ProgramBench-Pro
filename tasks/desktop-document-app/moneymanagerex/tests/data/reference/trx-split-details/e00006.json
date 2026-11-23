@@ -1,0 +1,1255 @@
+{
+  "focused": "e1460cfce",
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        1024
+      ],
+      "name": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),",
+      "ref": "e93ed40b7",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        25
+      ],
+      "name": "",
+      "ref": "e37b0c28a",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        39,
+        25
+      ],
+      "name": "File",
+      "ref": "eae5e7196",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        39,
+        19,
+        75,
+        25
+      ],
+      "name": "Accounts",
+      "ref": "ecb5893cc",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        114,
+        19,
+        49,
+        25
+      ],
+      "name": "Tools",
+      "ref": "ec5eeafb2",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        163,
+        19,
+        48,
+        25
+      ],
+      "name": "View",
+      "ref": "eb0ba3d40",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        211,
+        19,
+        46,
+        25
+      ],
+      "name": "Help",
+      "ref": "ef594ac36",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        1,
+        995,
+        200,
+        6
+      ],
+      "name": "",
+      "ref": "ef36204a0",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        210,
+        90,
+        627,
+        19
+      ],
+      "name": "Account View: Everyday Checking",
+      "ref": "e49d5bef7",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        215,
+        116,
+        617,
+        17
+      ],
+      "name": "Account Bal: $7729.25     Reconciled Bal: $9523.50     Diff: $-1794.25     Filtered Flow: $5229.25",
+      "ref": "e95b26cd8",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        228,
+        160,
+        232,
+        34
+      ],
+      "name": "All",
+      "ref": "e421afc68",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        470,
+        160,
+        75,
+        34
+      ],
+      "name": "",
+      "ref": "e8461f29a",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "01/01/70"
+    },
+    {
+      "bounds": [
+        578,
+        160,
+        75,
+        34
+      ],
+      "name": "",
+      "ref": "e6c4015a2",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "12/31/99"
+    },
+    {
+      "bounds": [
+        686,
+        160,
+        182,
+        34
+      ],
+      "name": "Filter…",
+      "ref": "e25674430",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        870,
+        164,
+        18,
+        26
+      ],
+      "description": "Reset filter",
+      "name": "",
+      "ref": "eaab53f36",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        910,
+        160,
+        34,
+        34
+      ],
+      "description": "Click to show scheduled transactions. This feature works best with filter choices that extend into the future (e.g., Current Month).",
+      "name": "",
+      "ref": "e820caca7",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        964,
+        168,
+        159,
+        17
+      ],
+      "name": "Sorted by:  Date ▲ / ID ▲",
+      "ref": "e0d9e0696",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1246,
+        164,
+        18,
+        26
+      ],
+      "description": "Reconcile",
+      "name": "",
+      "ref": "e0e5f9013",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        209,
+        889,
+        1069,
+        6
+      ],
+      "name": "",
+      "ref": "ebb2474a5",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        486,
+        901,
+        85,
+        34
+      ],
+      "description": "Delete all selected transactions",
+      "name": "Delete",
+      "ref": "eca189d0d",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        210,
+        901,
+        85,
+        34
+      ],
+      "description": "New Transaction",
+      "name": "New",
+      "ref": "e6532e991",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        297,
+        901,
+        85,
+        34
+      ],
+      "description": "Edit all selected transactions",
+      "name": "Edit",
+      "ref": "e8893bccc",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        384,
+        901,
+        100,
+        34
+      ],
+      "description": "Duplicate selected transaction",
+      "name": "Duplicate",
+      "ref": "eaf10e85f",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        573,
+        901,
+        85,
+        34
+      ],
+      "description": "Enter Next Scheduled Transaction Occurrence",
+      "name": "Enter",
+      "ref": "e8efc1548",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        660,
+        901,
+        85,
+        34
+      ],
+      "description": "Skip Next Scheduled Transaction Occurrence",
+      "name": "Skip",
+      "ref": "ef1b879e6",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        747,
+        901,
+        30,
+        34
+      ],
+      "description": "Open attachments",
+      "name": "",
+      "ref": "e1be4572e",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        783,
+        902,
+        246,
+        34
+      ],
+      "description": "Enter any string to find it in the nearest transaction data\n\nTip: Wildcard characters such as the question mark (?) and the asterisk (*) can be used in search criteria.\nThe question mark (?) is used t",
+      "name": "Search",
+      "ref": "e13af45b1",
+      "role": "text",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        792,
+        911,
+        16,
+        16
+      ],
+      "name": "edit-find-symbolic",
+      "ref": "e32b24130",
+      "role": "icon",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1035,
+        906,
+        53,
+        17
+      ],
+      "name": "Monday",
+      "ref": "e41b3768c",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        210,
+        939,
+        1067,
+        60
+      ],
+      "description": "Click to copy to clipboard",
+      "name": "June split shop\nfood\nlamp",
+      "ref": "ee3fac490",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        273,
+        204,
+        734,
+        617
+      ],
+      "name": "Split Transaction",
+      "ref": "e1ddcb7e5",
+      "role": "frame",
+      "states": [
+        "active",
+        "modal"
+      ]
+    },
+    {
+      "bounds": [
+        285,
+        235,
+        250,
+        17
+      ],
+      "name": "Category",
+      "ref": "e34304dee",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        545,
+        235,
+        58,
+        17
+      ],
+      "name": "Amount",
+      "ref": "e656f6991",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        655,
+        235,
+        30,
+        17
+      ],
+      "name": "Tags",
+      "ref": "e76e2b126",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        285,
+        262,
+        250,
+        34
+      ],
+      "name": "",
+      "ref": "eda8372fc",
+      "role": "combo box",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        285,
+        262,
+        214,
+        34
+      ],
+      "name": "",
+      "ref": "ec45cbc57",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ],
+      "text": "Food:Groceries"
+    },
+    {
+      "bounds": [
+        545,
+        262,
+        100,
+        34
+      ],
+      "name": "",
+      "ref": "e646092b5",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ],
+      "text": "80.20"
+    },
+    {
+      "bounds": [
+        863,
+        262,
+        37,
+        34
+      ],
+      "name": "",
+      "ref": "e4444281d",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        910,
+        262,
+        85,
+        34
+      ],
+      "description": "food",
+      "name": "Notes",
+      "ref": "e18279d66",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        285,
+        306,
+        250,
+        34
+      ],
+      "name": "",
+      "ref": "e93f1c51d",
+      "role": "combo box",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        285,
+        306,
+        214,
+        34
+      ],
+      "name": "",
+      "ref": "e91308ee9",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ],
+      "text": "Homeneeds:Furnishing"
+    },
+    {
+      "bounds": [
+        545,
+        306,
+        100,
+        34
+      ],
+      "name": "",
+      "ref": "e5f136440",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ],
+      "text": "25.00"
+    },
+    {
+      "bounds": [
+        863,
+        306,
+        37,
+        34
+      ],
+      "name": "",
+      "ref": "e40b2ea24",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        910,
+        306,
+        85,
+        34
+      ],
+      "description": "lamp",
+      "name": "Notes",
+      "ref": "ea160f2cf",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        285,
+        350,
+        250,
+        34
+      ],
+      "name": "",
+      "ref": "e254c085d",
+      "role": "combo box",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        285,
+        350,
+        214,
+        34
+      ],
+      "name": "",
+      "ref": "ef2b661b3",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ],
+      "text": "Bills:Water"
+    },
+    {
+      "bounds": [
+        545,
+        350,
+        100,
+        34
+      ],
+      "name": "",
+      "ref": "eeb305f09",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ],
+      "text": "9.80"
+    },
+    {
+      "bounds": [
+        863,
+        350,
+        37,
+        34
+      ],
+      "name": "",
+      "ref": "e6a47f875",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        910,
+        350,
+        85,
+        34
+      ],
+      "name": "Notes",
+      "ref": "e1be90922",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        285,
+        394,
+        250,
+        34
+      ],
+      "name": "",
+      "ref": "ef3083dd3",
+      "role": "combo box",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        285,
+        394,
+        214,
+        34
+      ],
+      "name": "",
+      "ref": "e19fcc188",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        545,
+        394,
+        100,
+        34
+      ],
+      "name": "",
+      "ref": "e66413f7e",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        863,
+        394,
+        37,
+        34
+      ],
+      "name": "",
+      "ref": "ea3902cf5",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        910,
+        394,
+        85,
+        34
+      ],
+      "name": "Notes",
+      "ref": "e13cbd908",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        285,
+        438,
+        250,
+        34
+      ],
+      "name": "",
+      "ref": "ea7336f6f",
+      "role": "combo box",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        285,
+        438,
+        214,
+        34
+      ],
+      "name": "",
+      "ref": "e1570b3b1",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        545,
+        438,
+        100,
+        34
+      ],
+      "name": "",
+      "ref": "e328a51b3",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        863,
+        438,
+        37,
+        34
+      ],
+      "name": "",
+      "ref": "e32fe4824",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        910,
+        438,
+        85,
+        34
+      ],
+      "name": "Notes",
+      "ref": "ea68fbe87",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        285,
+        482,
+        250,
+        34
+      ],
+      "name": "",
+      "ref": "e665e0f8b",
+      "role": "combo box",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        285,
+        482,
+        214,
+        34
+      ],
+      "name": "",
+      "ref": "e61804f40",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        545,
+        482,
+        100,
+        34
+      ],
+      "name": "",
+      "ref": "e6c53acc7",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        863,
+        482,
+        37,
+        34
+      ],
+      "name": "",
+      "ref": "e551e28dc",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        910,
+        482,
+        85,
+        34
+      ],
+      "name": "Notes",
+      "ref": "e1017a21a",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        285,
+        526,
+        250,
+        34
+      ],
+      "name": "",
+      "ref": "e11d679cb",
+      "role": "combo box",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        285,
+        526,
+        214,
+        34
+      ],
+      "name": "",
+      "ref": "e244a633a",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        545,
+        526,
+        100,
+        34
+      ],
+      "name": "",
+      "ref": "e15fde7c1",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        863,
+        526,
+        37,
+        34
+      ],
+      "name": "",
+      "ref": "e9c9b0688",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        910,
+        526,
+        85,
+        34
+      ],
+      "name": "Notes",
+      "ref": "eb1980e3e",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        285,
+        570,
+        250,
+        34
+      ],
+      "name": "",
+      "ref": "e27b3f88f",
+      "role": "combo box",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        285,
+        570,
+        214,
+        34
+      ],
+      "name": "",
+      "ref": "ed26eebaf",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        545,
+        570,
+        100,
+        34
+      ],
+      "name": "",
+      "ref": "e4ace0813",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        863,
+        570,
+        37,
+        34
+      ],
+      "name": "",
+      "ref": "edd8308b9",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        910,
+        570,
+        85,
+        34
+      ],
+      "name": "Notes",
+      "ref": "e2ec0a98f",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        285,
+        614,
+        250,
+        34
+      ],
+      "name": "",
+      "ref": "e77db6c83",
+      "role": "combo box",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        285,
+        614,
+        214,
+        34
+      ],
+      "name": "",
+      "ref": "ed180ba1c",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        545,
+        614,
+        100,
+        34
+      ],
+      "name": "",
+      "ref": "e1a779703",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        863,
+        614,
+        37,
+        34
+      ],
+      "name": "",
+      "ref": "edb1f4fbf",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        910,
+        614,
+        85,
+        34
+      ],
+      "name": "Notes",
+      "ref": "ecfa071ee",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        285,
+        658,
+        250,
+        34
+      ],
+      "name": "",
+      "ref": "e6a2b2c63",
+      "role": "combo box",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        285,
+        658,
+        214,
+        34
+      ],
+      "name": "",
+      "ref": "e7325d9c2",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        545,
+        658,
+        100,
+        34
+      ],
+      "name": "",
+      "ref": "e885a2901",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        863,
+        658,
+        37,
+        34
+      ],
+      "name": "",
+      "ref": "e7b3d964b",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        910,
+        658,
+        85,
+        34
+      ],
+      "name": "Notes",
+      "ref": "ece738058",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        310,
+        713,
+        92,
+        34
+      ],
+      "name": "Add Split",
+      "ref": "eb19cc3fc",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        407,
+        713,
+        121,
+        34
+      ],
+      "name": "Remove Split",
+      "ref": "ec1f926c0",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        902,
+        713,
+        36,
+        17
+      ],
+      "name": "Total:",
+      "ref": "e796f7e4c",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        943,
+        713,
+        53,
+        17
+      ],
+      "name": "$115.00",
+      "ref": "ef76c35bb",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        550,
+        767,
+        85,
+        34
+      ],
+      "name": "OK",
+      "ref": "e5e34268d",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        645,
+        767,
+        85,
+        34
+      ],
+      "name": "Cancel",
+      "ref": "e1460cfce",
+      "role": "push button",
+      "states": [
+        "focused"
+      ]
+    }
+  ],
+  "screen": [
+    1280,
+    1024
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": false,
+      "bounds": [
+        0,
+        38,
+        1280,
+        1005
+      ],
+      "ref": "w5b3c0310",
+      "title": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),"
+    },
+    {
+      "active": true,
+      "bounds": [
+        275,
+        244,
+        732,
+        592
+      ],
+      "ref": "w48414d4a",
+      "title": "Split Transaction"
+    }
+  ]
+}

@@ -1,0 +1,541 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        376,
+        77,
+        904,
+        823
+      ],
+      "ref": "canvas0",
+      "tag": "svg"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        0,
+        9,
+        82,
+        53
+      ],
+      "ref": "e75fe0e2a",
+      "tag": "a"
+    },
+    {
+      "bounds": [
+        98,
+        12,
+        20,
+        20
+      ],
+      "ref": "e6d7dc954",
+      "tag": "img",
+      "title": "MySQL diagram"
+    },
+    {
+      "bounds": [
+        1140,
+        16,
+        112,
+        36
+      ],
+      "ref": "eed4bab7b",
+      "tag": "button",
+      "text": "Share"
+    },
+    {
+      "bounds": [
+        0,
+        88,
+        32,
+        32
+      ],
+      "disabled": true,
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        36,
+        85,
+        90,
+        37
+      ],
+      "ref": "eb0c70eb6",
+      "role": "tab",
+      "selected": true,
+      "tag": "div",
+      "text": "Tables (3)"
+    },
+    {
+      "bounds": [
+        134,
+        85,
+        84,
+        37
+      ],
+      "ref": "ed8ae1a6e",
+      "role": "tab",
+      "selected": false,
+      "tag": "div",
+      "text": "Views (0)"
+    },
+    {
+      "bounds": [
+        226,
+        85,
+        112,
+        37
+      ],
+      "ref": "ea3347fc6",
+      "role": "tab",
+      "selected": false,
+      "tag": "div",
+      "text": "Relationships (1)"
+    },
+    {
+      "bounds": [
+        342,
+        88,
+        32,
+        32
+      ],
+      "ref": "ea0fc21fdx2",
+      "tag": "button"
+    },
+    {
+      "aria": "TreeSelect",
+      "bounds": [
+        8,
+        135,
+        238,
+        32
+      ],
+      "expanded": false,
+      "ref": "e999b5ea4",
+      "role": "combobox",
+      "tag": "div",
+      "text": "Search...",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        254,
+        135,
+        112,
+        32
+      ],
+      "ref": "ede343483",
+      "tag": "button",
+      "text": "Add table"
+    },
+    {
+      "bounds": [
+        8,
+        171,
+        358,
+        48
+      ],
+      "ref": "ecc0096d3",
+      "role": "button",
+      "tag": "div",
+      "text": "customers"
+    },
+    {
+      "bounds": [
+        16,
+        171,
+        342,
+        43
+      ],
+      "expanded": false,
+      "ref": "ecc0096d3x2",
+      "role": "button",
+      "tag": "div",
+      "text": "customers"
+    },
+    {
+      "bounds": [
+        302,
+        181,
+        24,
+        24
+      ],
+      "ref": "ea0fc21fdx3",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        8,
+        223,
+        358,
+        48
+      ],
+      "ref": "e03898d4d",
+      "role": "button",
+      "tag": "div",
+      "text": "orders"
+    },
+    {
+      "bounds": [
+        16,
+        223,
+        342,
+        43
+      ],
+      "expanded": false,
+      "ref": "e03898d4dx2",
+      "role": "button",
+      "tag": "div",
+      "text": "orders"
+    },
+    {
+      "bounds": [
+        302,
+        233,
+        24,
+        24
+      ],
+      "ref": "ea0fc21fdx4",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        8,
+        275,
+        358,
+        48
+      ],
+      "ref": "e379c6728",
+      "role": "button",
+      "tag": "div",
+      "text": "products"
+    },
+    {
+      "bounds": [
+        16,
+        275,
+        342,
+        43
+      ],
+      "expanded": false,
+      "ref": "e379c6728x2",
+      "role": "button",
+      "tag": "div",
+      "text": "products"
+    },
+    {
+      "bounds": [
+        302,
+        285,
+        24,
+        24
+      ],
+      "ref": "ea0fc21fdx5",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        20,
+        825,
+        29,
+        16
+      ],
+      "ref": "edd4620e2",
+      "tag": "div",
+      "text": "3",
+      "title": "Tables"
+    },
+    {
+      "bounds": [
+        61,
+        824,
+        31,
+        18
+      ],
+      "ref": "e76f83114",
+      "tag": "div",
+      "text": "1",
+      "title": "Relationships"
+    },
+    {
+      "bounds": [
+        217,
+        823,
+        83,
+        20
+      ],
+      "ref": "e2152f4c5",
+      "tag": "button",
+      "text": "Structure"
+    },
+    {
+      "bounds": [
+        299,
+        823,
+        61,
+        20
+      ],
+      "ref": "e7cfe6d9f",
+      "tag": "button",
+      "text": "Code"
+    },
+    {
+      "bounds": [
+        8,
+        855,
+        358,
+        40
+      ],
+      "expanded": false,
+      "ref": "ef121d4d8",
+      "role": "button",
+      "tag": "div",
+      "text": "Problems 0"
+    },
+    {
+      "bounds": [
+        418,
+        195,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx6",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        418,
+        232,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx7",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        418,
+        269,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx8",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        418,
+        306,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx9",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        708,
+        195,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx10",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        708,
+        232,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx11",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        708,
+        269,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx12",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        708,
+        306,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx13",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        998,
+        195,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx14",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        998,
+        232,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx15",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        998,
+        269,
+        10,
+        10
+      ],
+      "ref": "ea0fc21fdx16",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        549,
+        842,
+        34,
+        36
+      ],
+      "ref": "ea0fc21fdx17",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        655,
+        842,
+        34,
+        36
+      ],
+      "ref": "ea0fc21fdx18",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        706,
+        846,
+        36,
+        28
+      ],
+      "disabled": true,
+      "ref": "ea0fc21fdx19",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        742,
+        846,
+        36,
+        28
+      ],
+      "disabled": true,
+      "ref": "ea0fc21fdx20",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        795,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx21",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        837,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx22",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        879,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx23",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        921,
+        843,
+        42,
+        34
+      ],
+      "ref": "ea0fc21fdx24",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        980,
+        841,
+        39,
+        36
+      ],
+      "ref": "ea0fc21fdx25",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1036,
+        844,
+        40,
+        32
+      ],
+      "ref": "ea0fc21fdx26",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1093,
+        841,
+        34,
+        36
+      ],
+      "ref": "ea0fc21fdx27",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1144,
+        841,
+        36,
+        36
+      ],
+      "ref": "ea0fc21fdx28",
+      "tag": "button"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "text": "Diagrams\n/\nShop\nFile\nEdit\nView\nSettings\nHelp\nLast saved 11/1/2026, 9:57:36 AM\nfk_orders_customer_id_customers\nn\n1\ncustomers\nid\nINTEGER\nemail\nVARCHAR(120)\nvip\n?\nBOOLEAN\ncredit\n?\nDECIMAL(10,2)\norders\nid\nINTEGER\ncustomer_id\nINTEGER\nstatus\n?\nENUM\nplaced\n?\nDATETIME\nproducts\nid\nINTEGER\nname\nVARCHAR(80)\nprice\n?\nDECIMAL(8,2)\n100\n%",
+  "text_truncated": false,
+  "title": "Editor | drawDB",
+  "url": "/editor/diagrams/f37373f1-9933-4aeb-865e-ee585b708631",
+  "viewport": [
+    1280,
+    900
+  ]
+}

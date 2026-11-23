@@ -1,0 +1,233 @@
+{
+  "counts": {
+    "assertions": 3377,
+    "backend": 3275,
+    "checkpoints": 3302,
+    "features": 31,
+    "frontend": 102,
+    "gui_episodes": 47,
+    "program_episodes": 14,
+    "episodes": 61
+  },
+  "features": {
+    "accounts": {
+      "assertions": 321,
+      "episodes": [
+        "protocol-accounts"
+      ]
+    },
+    "authentication": {
+      "assertions": 4,
+      "episodes": [
+        "login-username",
+        "login-email",
+        "login-invalid-password"
+      ]
+    },
+    "comments": {
+      "assertions": 4,
+      "episodes": [
+        "duplicate-comments"
+      ]
+    },
+    "coverage_gaps": {
+      "assertions": 17,
+      "episodes": [
+        "protocol-coverage_gaps"
+      ]
+    },
+    "discovery": {
+      "assertions": 3,
+      "episodes": [
+        "explore-directories"
+      ]
+    },
+    "files": {
+      "assertions": 14,
+      "episodes": [
+        "file-lifecycle-plain",
+        "file-lifecycle-unicode"
+      ]
+    },
+    "git": {
+      "assertions": 300,
+      "episodes": [
+        "protocol-git"
+      ]
+    },
+    "git_write": {
+      "assertions": 6,
+      "episodes": [
+        "protocol-git_write"
+      ]
+    },
+    "issue-organization": {
+      "assertions": 6,
+      "episodes": [
+        "labels-milestones"
+      ]
+    },
+    "issue-query": {
+      "assertions": 5,
+      "episodes": [
+        "issue-search-filter",
+        "issue-label-milestone-filter"
+      ]
+    },
+    "issues": {
+      "assertions": 693,
+      "episodes": [
+        "protocol-issues",
+        "issue-lifecycle-plain",
+        "issue-lifecycle-unicode",
+        "issue-lifecycle-markdown",
+        "issue-lifecycle-escaped"
+      ]
+    },
+    "large-files": {
+      "assertions": 3,
+      "episodes": [
+        "lfs-view-alice",
+        "lfs-view-carol"
+      ]
+    },
+    "notifications": {
+      "assertions": 57,
+      "episodes": [
+        "protocol-notifications"
+      ]
+    },
+    "organizations": {
+      "assertions": 263,
+      "episodes": [
+        "protocol-organizations",
+        "organization-public",
+        "organization-private"
+      ]
+    },
+    "packages": {
+      "assertions": 7,
+      "episodes": [
+        "package-browsing-deletion"
+      ]
+    },
+    "packages_lfs": {
+      "assertions": 214,
+      "episodes": [
+        "protocol-packages_lfs"
+      ]
+    },
+    "permissions": {
+      "assertions": 548,
+      "episodes": [
+        "protocol-permissions",
+        "access-public-anonymous",
+        "access-private-bob",
+        "access-private-read",
+        "access-private-write",
+        "access-private-admin"
+      ]
+    },
+    "persistence": {
+      "assertions": 4,
+      "episodes": [
+        "restart-visible-state"
+      ]
+    },
+    "profile": {
+      "assertions": 4,
+      "episodes": [
+        "profile-settings"
+      ]
+    },
+    "protocol_persistence": {
+      "assertions": 9,
+      "episodes": [
+        "protocol-protocol_persistence"
+      ]
+    },
+    "pull-requests": {
+      "assertions": 16,
+      "episodes": [
+        "pull-approval-merge",
+        "pull-rejection-resolution"
+      ]
+    },
+    "pull_review_episodes": {
+      "assertions": 30,
+      "episodes": [
+        "protocol-pull_review_episodes"
+      ]
+    },
+    "pulls": {
+      "assertions": 205,
+      "episodes": [
+        "protocol-pulls"
+      ]
+    },
+    "registration": {
+      "assertions": 4,
+      "episodes": [
+        "register-valid",
+        "register-duplicate"
+      ]
+    },
+    "releases": {
+      "assertions": 123,
+      "episodes": [
+        "protocol-releases",
+        "release-stable",
+        "release-draft",
+        "release-prerelease"
+      ]
+    },
+    "repositories": {
+      "assertions": 415,
+      "episodes": [
+        "protocol-repositories",
+        "repository-public-project",
+        "repository-private-project",
+        "repository-template-project"
+      ]
+    },
+    "repository-configuration": {
+      "assertions": 10,
+      "episodes": [
+        "configuration-archived",
+        "configuration-has-issues",
+        "configuration-has-wiki",
+        "configuration-has-pull-requests",
+        "configuration-has-releases"
+      ]
+    },
+    "repository-settings": {
+      "assertions": 4,
+      "episodes": [
+        "repository-settings"
+      ]
+    },
+    "repository-social": {
+      "assertions": 4,
+      "episodes": [
+        "star-watch"
+      ]
+    },
+    "teams": {
+      "assertions": 4,
+      "episodes": [
+        "team-readers",
+        "team-maintainers"
+      ]
+    },
+    "wiki": {
+      "assertions": 80,
+      "episodes": [
+        "protocol-wiki",
+        "wiki-lifecycle"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

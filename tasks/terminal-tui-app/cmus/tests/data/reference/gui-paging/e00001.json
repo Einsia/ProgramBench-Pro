@@ -1,0 +1,102 @@
+{
+  "cursor": {
+    "column": 0,
+    "hidden": true,
+    "row": 1
+  },
+  "process": "running",
+  "screen": [
+    "00| Library - 60 tracks (02:00) sorted by filename",
+    "01|Track-00",
+    "02|Track-01",
+    "03|Track-02",
+    "04|Track-03",
+    "05|Track-04",
+    "06|Track-05",
+    "07|Track-06",
+    "08|Track-07",
+    "09|Track-08",
+    "10|Track-09",
+    "11|Track-10",
+    "12|Track-11",
+    "13|Track-12",
+    "14|Track-13",
+    "15|Track-14",
+    "16|Track-15",
+    "17|Track-16",
+    "18|Track-17",
+    "19|Track-18",
+    "20|Track-19",
+    "21|Track-20",
+    "22|Track-21",
+    "23|Track-22",
+    "24|Track-23",
+    "25|Track-24",
+    "26|Track-25",
+    "27|Track-26",
+    "28|Track-27",
+    "29|Track-28",
+    "30|Track-29",
+    "31|Track-30",
+    "32|Track-31",
+    "33|",
+    "34| . 00:00                                                                                            library | 0% | C",
+    "35|\"\""
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": " Library - 60 tracks (02:00) sorted by filename                                                                         "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 1,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Track-00                                                                                                                "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "fg=black",
+        "bg=white"
+      ],
+      "text": " . 00:00                                                                                            library | 0% | C    "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 35,
+      "style": [
+        "bold",
+        "fg=brown"
+      ],
+      "text": "\"\"                                                                                                                      "
+    }
+  ]
+}

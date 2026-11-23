@@ -1,0 +1,441 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        559,
+        -44,
+        162,
+        36
+      ],
+      "href": "/feed/1/entries/all#main",
+      "offscreen": true,
+      "ref": "e465",
+      "role": null,
+      "tag": "a",
+      "text": "Skip to content"
+    },
+    {
+      "aria": "Home page",
+      "bounds": [
+        193,
+        10,
+        77,
+        19
+      ],
+      "href": "/unread",
+      "ref": "e466",
+      "role": null,
+      "tag": "a",
+      "text": "Mini\nflux"
+    },
+    {
+      "aria": "Unread, 2 unread entries",
+      "bounds": [
+        278,
+        12,
+        102,
+        16
+      ],
+      "href": "/unread",
+      "ref": "e467",
+      "role": null,
+      "tag": "a",
+      "text": "Unread (2)"
+    },
+    {
+      "bounds": [
+        395,
+        12,
+        78,
+        16
+      ],
+      "href": "/starred",
+      "ref": "e468",
+      "role": null,
+      "tag": "a",
+      "text": "Starred"
+    },
+    {
+      "bounds": [
+        488,
+        12,
+        78,
+        16
+      ],
+      "href": "/history",
+      "ref": "e469",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        581,
+        12,
+        70,
+        16
+      ],
+      "href": "/feeds",
+      "ref": "e470",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "aria": "Add feed",
+      "bounds": [
+        650,
+        12,
+        26,
+        16
+      ],
+      "href": "/subscribe",
+      "ref": "e471",
+      "role": null,
+      "tag": "a",
+      "text": "(+)",
+      "title": "Keyboard Shortcut: +"
+    },
+    {
+      "bounds": [
+        691,
+        12,
+        104,
+        16
+      ],
+      "href": "/categories",
+      "ref": "e472",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        810,
+        12,
+        70,
+        16
+      ],
+      "href": "/search",
+      "ref": "e473",
+      "role": null,
+      "tag": "a",
+      "text": "Search"
+    },
+    {
+      "bounds": [
+        894,
+        12,
+        87,
+        16
+      ],
+      "href": "/settings",
+      "ref": "e474",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        996,
+        10,
+        70,
+        18
+      ],
+      "ref": "e475",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "title": "Logged in as alice"
+    },
+    {
+      "bounds": [
+        193,
+        49,
+        144,
+        27
+      ],
+      "href": "[external]",
+      "ref": "e476",
+      "role": null,
+      "tag": "a",
+      "text": "Alpha Feed",
+      "title": "http://alpha.test/"
+    },
+    {
+      "bounds": [
+        193,
+        81,
+        181,
+        18
+      ],
+      "ref": "e477",
+      "role": null,
+      "tag": "button",
+      "text": "Mark this page as read"
+    },
+    {
+      "bounds": [
+        398,
+        81,
+        132,
+        18
+      ],
+      "ref": "e478",
+      "role": null,
+      "tag": "button",
+      "text": "Mark all as read"
+    },
+    {
+      "bounds": [
+        555,
+        82,
+        248,
+        18
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e479",
+      "role": null,
+      "tag": "a",
+      "text": "Show only unread entries"
+    },
+    {
+      "bounds": [
+        828,
+        81,
+        74,
+        18
+      ],
+      "ref": "e480",
+      "role": null,
+      "tag": "button",
+      "text": "Refresh"
+    },
+    {
+      "bounds": [
+        926,
+        82,
+        56,
+        18
+      ],
+      "href": "/feed/1/edit",
+      "ref": "e481",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        193,
+        110,
+        143,
+        18
+      ],
+      "ref": "e482",
+      "role": null,
+      "tag": "button",
+      "text": "Remove this feed"
+    },
+    {
+      "bounds": [
+        199,
+        179,
+        96,
+        18
+      ],
+      "href": "/feed/1/entry/2",
+      "ref": "e483",
+      "role": null,
+      "tag": "a",
+      "text": "Alpha one"
+    },
+    {
+      "aria": "Category: All",
+      "bounds": [
+        304,
+        182,
+        22,
+        14
+      ],
+      "href": "/category/1/entries",
+      "ref": "e484",
+      "role": null,
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        199,
+        203,
+        65,
+        12
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e485",
+      "role": null,
+      "tag": "a",
+      "text": "Alpha Feed",
+      "title": "http://alpha.test/"
+    },
+    {
+      "bounds": [
+        199,
+        224,
+        109,
+        16
+      ],
+      "ref": "e486",
+      "role": null,
+      "tag": "button",
+      "text": "Mark as unread",
+      "title": "Change entry status"
+    },
+    {
+      "bounds": [
+        324,
+        224,
+        43,
+        16
+      ],
+      "ref": "e487",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        383,
+        226,
+        120,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e488",
+      "role": null,
+      "tag": "a",
+      "text": "External link"
+    },
+    {
+      "bounds": [
+        199,
+        273,
+        96,
+        18
+      ],
+      "href": "/feed/1/entry/1",
+      "ref": "e489",
+      "role": null,
+      "tag": "a",
+      "text": "Alpha two"
+    },
+    {
+      "aria": "Category: All",
+      "bounds": [
+        304,
+        276,
+        22,
+        14
+      ],
+      "href": "/category/1/entries",
+      "ref": "e490",
+      "role": null,
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        199,
+        297,
+        65,
+        12
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e491",
+      "role": null,
+      "tag": "a",
+      "text": "Alpha Feed",
+      "title": "http://alpha.test/"
+    },
+    {
+      "bounds": [
+        199,
+        318,
+        109,
+        16
+      ],
+      "ref": "e492",
+      "role": null,
+      "tag": "button",
+      "text": "Mark as unread",
+      "title": "Change entry status"
+    },
+    {
+      "bounds": [
+        324,
+        318,
+        43,
+        16
+      ],
+      "ref": "e493",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        383,
+        320,
+        120,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e494",
+      "role": null,
+      "tag": "a",
+      "text": "External link"
+    },
+    {
+      "bounds": [
+        193,
+        365,
+        181,
+        18
+      ],
+      "ref": "e495",
+      "role": null,
+      "tag": "button",
+      "text": "Mark this page as read"
+    },
+    {
+      "bounds": [
+        599,
+        407,
+        134,
+        20
+      ],
+      "href": "/feed/1/entries/all",
+      "ref": "e496",
+      "role": null,
+      "tag": "a",
+      "text": "Back to top"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Skip to content\nMini\nflux\nUnread (2) Starred History Feeds (+) Categories Search Settings Logout\nAlpha Feed (2)\n2 entries in total\nMark this page as read Mark all as read Show only unread entries Refresh Edit Remove this feed\nFirst\nPrevious\nNext \nLast \nAlpha one All\nAlpha Feed  1 year ago  1 minute read\nMark as unread Star External link\nAlpha two All\nAlpha Feed  1 year ago  1 minute read\nMark as unread Star External link\nMark this page as read\nFirst\nPrevious\nBack to top\nNext \nLast ",
+  "text_truncated": false,
+  "title": "Alpha Feed (2) - Miniflux",
+  "url": "/feed/1/entries/all",
+  "viewport": [
+    1280,
+    900
+  ]
+}

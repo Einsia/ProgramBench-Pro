@@ -1,0 +1,29 @@
+{
+  "reference_paths": [
+    "/app/solution/upstream/bin/gnumeric-1.12.62",
+    "/app/solution/upstream/bin/ssconvert",
+    "/app/solution/upstream/bin/ssgrep",
+    "/app/solution/upstream/bin/ssdiff",
+    "/app/solution/upstream/bin/ssindex",
+    "/app/solution/upstream/lib/libspreadsheet-1.12.62.so",
+    "/app/solution/upstream/lib/libgoffice-0.10.so"
+  ],
+  "shared_solution_files": [
+    {
+      "file": "LICENSE",
+      "reason": "Unmodified third-party license/attribution text may also accompany a system or development dependency; contains no implementation."
+    },
+    {
+      "file": "LICENSES/gpl-3.0.txt",
+      "reason": "Unmodified third-party license/attribution text may also accompany a system or development dependency; contains no implementation."
+    },
+    {
+      "file": "LICENSES/gnumeric.txt",
+      "reason": "Unmodified third-party license/attribution text may also accompany a system or development dependency; contains no implementation."
+    },
+    {
+      "file": "LICENSES/goffice.txt",
+      "reason": "Unmodified third-party license/attribution text may also accompany a system or development dependency; contains no implementation."
+    }
+  ]
+}

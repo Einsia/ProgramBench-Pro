@@ -1,0 +1,415 @@
+{
+  "focused": null,
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        1024
+      ],
+      "name": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),",
+      "ref": "e93ed40b7",
+      "role": "frame",
+      "states": [
+        "active"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        25
+      ],
+      "name": "",
+      "ref": "e37b0c28a",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        39,
+        25
+      ],
+      "name": "File",
+      "ref": "eae5e7196",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        39,
+        19,
+        75,
+        25
+      ],
+      "name": "Accounts",
+      "ref": "ecb5893cc",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        114,
+        19,
+        49,
+        25
+      ],
+      "name": "Tools",
+      "ref": "ec5eeafb2",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        163,
+        19,
+        48,
+        25
+      ],
+      "name": "View",
+      "ref": "eb0ba3d40",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        211,
+        19,
+        46,
+        25
+      ],
+      "name": "Help",
+      "ref": "ef594ac36",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        1,
+        105,
+        200,
+        896
+      ],
+      "description": "Scheduled Transactions",
+      "name": "",
+      "ref": "e469ef34c",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        1,
+        995,
+        200,
+        6
+      ],
+      "name": "",
+      "ref": "ef36204a0",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        210,
+        90,
+        624,
+        19
+      ],
+      "name": "Account View: Everyday Checking",
+      "ref": "e49d5bef7",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        215,
+        116,
+        614,
+        17
+      ],
+      "name": "Account Bal: $7749.05     Reconciled Bal: $9523.50     Diff: $-1774.45     Filtered Flow: $-187.75",
+      "ref": "e6a51b434",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        228,
+        160,
+        232,
+        34
+      ],
+      "name": "All",
+      "ref": "e421afc68",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        470,
+        160,
+        75,
+        34
+      ],
+      "name": "",
+      "ref": "e8461f29a",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "01/01/70"
+    },
+    {
+      "bounds": [
+        578,
+        160,
+        75,
+        34
+      ],
+      "name": "",
+      "ref": "e6c4015a2",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "12/31/99"
+    },
+    {
+      "bounds": [
+        686,
+        160,
+        182,
+        34
+      ],
+      "description": "Label: Everyday Checking\nStatus: Follow Up",
+      "name": "Filter…",
+      "ref": "e25674430",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        870,
+        164,
+        18,
+        26
+      ],
+      "description": "Reset filter",
+      "name": "",
+      "ref": "eaab53f36",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        910,
+        160,
+        34,
+        34
+      ],
+      "description": "Click to show scheduled transactions. This feature works best with filter choices that extend into the future (e.g., Current Month).",
+      "name": "",
+      "ref": "e820caca7",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        964,
+        168,
+        159,
+        17
+      ],
+      "name": "Sorted by:  Date ▲ / ID ▲",
+      "ref": "e0d9e0696",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1246,
+        164,
+        18,
+        26
+      ],
+      "description": "Reconcile",
+      "name": "",
+      "ref": "e0e5f9013",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        209,
+        880,
+        1069,
+        15
+      ],
+      "name": "",
+      "ref": "ebb2474a5",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        486,
+        901,
+        85,
+        34
+      ],
+      "description": "Delete all selected transactions",
+      "name": "Delete",
+      "ref": "eca189d0d",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        210,
+        901,
+        85,
+        34
+      ],
+      "description": "New Transaction",
+      "name": "New",
+      "ref": "e6532e991",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        297,
+        901,
+        85,
+        34
+      ],
+      "description": "Edit all selected transactions",
+      "name": "Edit",
+      "ref": "e8893bccc",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        384,
+        901,
+        100,
+        34
+      ],
+      "description": "Duplicate selected transaction",
+      "name": "Duplicate",
+      "ref": "eaf10e85f",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        573,
+        901,
+        85,
+        34
+      ],
+      "description": "Enter Next Scheduled Transaction Occurrence",
+      "name": "Enter",
+      "ref": "e8efc1548",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        660,
+        901,
+        85,
+        34
+      ],
+      "description": "Skip Next Scheduled Transaction Occurrence",
+      "name": "Skip",
+      "ref": "ef1b879e6",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        747,
+        901,
+        30,
+        34
+      ],
+      "description": "Open attachments",
+      "name": "",
+      "ref": "e1be4572e",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        783,
+        902,
+        246,
+        34
+      ],
+      "description": "Enter any string to find it in the nearest transaction data\n\nTip: Wildcard characters such as the question mark (?) and the asterisk (*) can be used in search criteria.\nThe question mark (?) is used t",
+      "name": "Search",
+      "ref": "e13af45b1",
+      "role": "text",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        792,
+        911,
+        16,
+        16
+      ],
+      "name": "edit-find-symbolic",
+      "ref": "e32b24130",
+      "role": "icon",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        1035,
+        906,
+        242,
+        31
+      ],
+      "name": "",
+      "ref": "e36d72781",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        210,
+        939,
+        1067,
+        60
+      ],
+      "description": "Click to copy to clipboard",
+      "name": "",
+      "ref": "efc4c7278",
+      "role": "label"
+    }
+  ],
+  "screen": [
+    1280,
+    1024
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": true,
+      "bounds": [
+        0,
+        38,
+        1280,
+        1005
+      ],
+      "ref": "w5b3c0310",
+      "title": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),"
+    }
+  ]
+}

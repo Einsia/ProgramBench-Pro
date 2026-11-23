@@ -1,0 +1,99 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        12,
+        8,
+        250,
+        30
+      ],
+      "href": "/",
+      "ref": "e1323279754",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        442,
+        138,
+        397,
+        38
+      ],
+      "focused": true,
+      "label": "Username",
+      "name": "username",
+      "ref": "e4184115068",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        442,
+        220,
+        397,
+        38
+      ],
+      "label": "Password",
+      "ref": "e3333209465",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": ""
+    },
+    {
+      "bounds": [
+        466,
+        266,
+        99,
+        33
+      ],
+      "checked": false,
+      "label": "Remember Me",
+      "name": "remember_me",
+      "proxy": true,
+      "ref": "e1800250413",
+      "role": null,
+      "tag": "input",
+      "text": "Remember Me",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        442,
+        316,
+        47,
+        38
+      ],
+      "ref": "e3583452514",
+      "role": null,
+      "tag": "button",
+      "text": "OK"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Login\nUsername\nPassword\nRemember Me\nOK",
+  "text_truncated": false,
+  "title": "Login | Grocy",
+  "url": "/login",
+  "viewport": [
+    1280,
+    900
+  ]
+}

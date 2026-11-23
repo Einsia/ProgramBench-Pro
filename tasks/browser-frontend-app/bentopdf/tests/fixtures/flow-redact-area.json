@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "nodes": [
+    {
+      "id": "in",
+      "type": "PDFInputNode",
+      "controls": {},
+      "position": {
+        "x": 40,
+        "y": 40
+      }
+    },
+    {
+      "id": "0",
+      "type": "RedactNode",
+      "controls": {
+        "redactMode": "area",
+        "x0": 28,
+        "y0": 20,
+        "x1": 220,
+        "y1": 65,
+        "fillColor": "#000000"
+      },
+      "position": {
+        "x": 340,
+        "y": 40
+      }
+    },
+    {
+      "id": "out",
+      "type": "DownloadNode",
+      "controls": {
+        "filename": "flow-output"
+      },
+      "position": {
+        "x": 600,
+        "y": 40
+      }
+    }
+  ],
+  "connections": [
+    {
+      "id": "e0",
+      "source": "in",
+      "sourceOutput": "pdf",
+      "target": "0",
+      "targetInput": "pdf"
+    },
+    {
+      "id": "e1",
+      "source": "0",
+      "sourceOutput": "pdf",
+      "target": "out",
+      "targetInput": "pdf"
+    }
+  ]
+}

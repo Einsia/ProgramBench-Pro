@@ -1,0 +1,264 @@
+{
+  "counts": {
+    "assertions": 1868,
+    "backend": 1729,
+    "checkpoints": 1676,
+    "features": 25,
+    "frontend": 139,
+    "gui_episodes": 33,
+    "program_episodes": 89,
+    "episodes": 122
+  },
+  "features": {
+    "analyser": {
+      "assertions": 23,
+      "episodes": [
+        "password-strength-analyser",
+        "gui-stats"
+      ]
+    },
+    "builder": {
+      "assertions": 65,
+      "episodes": [
+        "benchmark-builder",
+        "gui-benchmark"
+      ]
+    },
+    "calculator": {
+      "assertions": 119,
+      "episodes": [
+        "ipv4-subnet-calculator",
+        "ipv4-range-expander",
+        "math-evaluator",
+        "chmod-calculator",
+        "eta-calculator",
+        "gui-network",
+        "gui-math"
+      ]
+    },
+    "checker": {
+      "assertions": 6,
+      "episodes": [
+        "pdf-signature-checker"
+      ]
+    },
+    "converter": {
+      "assertions": 418,
+      "episodes": [
+        "base64-string-converter",
+        "text-to-binary",
+        "text-to-unicode",
+        "text-to-nato-alphabet",
+        "roman-numeral-converter",
+        "integer-base-converter",
+        "case-converter",
+        "yaml-to-json-converter",
+        "json-to-yaml-converter",
+        "json-to-toml",
+        "toml-to-json",
+        "toml-to-yaml",
+        "yaml-to-toml",
+        "xml-to-json",
+        "json-to-xml",
+        "json-minify",
+        "json-to-csv",
+        "ipv4-address-converter",
+        "list-converter",
+        "string-obfuscator",
+        "date-time-converter",
+        "color-converter",
+        "markdown-to-html",
+        "docker-run-to-docker-compose-converter",
+        "base64-file-converter",
+        "gui-converters",
+        "gui-conversion",
+        "gui-date",
+        "gui-numbers",
+        "gui-format"
+      ]
+    },
+    "crypto": {
+      "assertions": 132,
+      "episodes": [
+        "hash-text",
+        "hmac-generator",
+        "bcrypt",
+        "encryption",
+        "gui-crypto",
+        "gui-hash"
+      ]
+    },
+    "decoder": {
+      "assertions": 9,
+      "episodes": [
+        "safelink-decoder"
+      ]
+    },
+    "development": {
+      "assertions": 31,
+      "episodes": [
+        "json-prettify",
+        "yaml-prettify",
+        "xml-formatter"
+      ]
+    },
+    "diff": {
+      "assertions": 66,
+      "episodes": [
+        "json-diff",
+        "text-diff",
+        "gui-json-diff"
+      ]
+    },
+    "editor": {
+      "assertions": 56,
+      "episodes": [
+        "html-wysiwyg-editor"
+      ]
+    },
+    "encoder": {
+      "assertions": 24,
+      "episodes": [
+        "gui-encode",
+        "gui-url",
+        "gui-binary",
+        "gui-nato"
+      ]
+    },
+    "formatter": {
+      "assertions": 40,
+      "episodes": [
+        "sql-prettify",
+        "gui-sql"
+      ]
+    },
+    "generator": {
+      "assertions": 312,
+      "episodes": [
+        "mac-address-generator",
+        "ipv6-ula-generator",
+        "random-port-generator",
+        "lorem-ipsum-generator",
+        "uuid-generator",
+        "ulid-generator",
+        "token-generator",
+        "bip39-generator",
+        "otp-code-generator-and-validator",
+        "crontab-generator",
+        "meta-tag-generator",
+        "qr-code-generator",
+        "wifi-qr-code-generator",
+        "svg-placeholder-generator",
+        "rsa-key-pair-generator",
+        "gui-generators",
+        "gui-downloads"
+      ]
+    },
+    "lookup": {
+      "assertions": 20,
+      "episodes": [
+        "mac-address-lookup"
+      ]
+    },
+    "math": {
+      "assertions": 17,
+      "episodes": [
+        "percentage-calculator",
+        "gui-percentage"
+      ]
+    },
+    "measurement": {
+      "assertions": 17,
+      "episodes": [
+        "temperature-converter",
+        "gui-temperature"
+      ]
+    },
+    "normalizer": {
+      "assertions": 24,
+      "episodes": [
+        "email-normalizer",
+        "gui-text-tools"
+      ]
+    },
+    "parser": {
+      "assertions": 86,
+      "episodes": [
+        "phone-parser-and-formatter",
+        "user-agent-parser",
+        "url-parser",
+        "jwt-parser",
+        "gui-parsers"
+      ]
+    },
+    "reference": {
+      "assertions": 144,
+      "episodes": [
+        "http-status-codes",
+        "keycode-info",
+        "device-information",
+        "git-memo",
+        "regex-memo",
+        "mime-types",
+        "emoji-picker",
+        "gui-reference",
+        "gui-keys"
+      ]
+    },
+    "shell": {
+      "assertions": 130,
+      "episodes": [
+        "home-favourites",
+        "menu-categories",
+        "command-palette",
+        "language",
+        "about-page",
+        "gui-favorites",
+        "gui-menu",
+        "gui-palette",
+        "gui-language",
+        "gui-theme"
+      ]
+    },
+    "tester": {
+      "assertions": 46,
+      "episodes": [
+        "regex-tester",
+        "gui-regex"
+      ]
+    },
+    "text": {
+      "assertions": 10,
+      "episodes": [
+        "numeronym-generator",
+        "text-statistics"
+      ]
+    },
+    "timer": {
+      "assertions": 17,
+      "episodes": [
+        "chronometer",
+        "gui-timer"
+      ]
+    },
+    "validator": {
+      "assertions": 30,
+      "episodes": [
+        "iban-validator-and-parser",
+        "gui-validators"
+      ]
+    },
+    "web": {
+      "assertions": 26,
+      "episodes": [
+        "basic-auth-generator",
+        "url-encoder",
+        "html-entities",
+        "slugify-string"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

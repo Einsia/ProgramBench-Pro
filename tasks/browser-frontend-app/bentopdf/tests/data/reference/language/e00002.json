@@ -1,0 +1,171 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        384,
+        241,
+        512,
+        50
+      ],
+      "placeholder": "Rechercher un outil (ex. « scinder », « organiser »...)",
+      "ref": "e5392364d",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        864,
+        254,
+        24,
+        24
+      ],
+      "ref": "eb325aab6",
+      "tag": "button",
+      "title": "Keyboard Shortcuts"
+    },
+    {
+      "bounds": [
+        32,
+        355,
+        1216,
+        46
+      ],
+      "ref": "e1beef488",
+      "tag": "button",
+      "text": "Outils populaires"
+    },
+    {
+      "bounds": [
+        32,
+        417,
+        224,
+        230
+      ],
+      "ref": "edb4e1bb9",
+      "tag": "a",
+      "text": "Modifier le texte d'un PDF Cliquer sur un paragraphe et le modifier directement, avec remise en page instantanée, polices et styles."
+    },
+    {
+      "bounds": [
+        280,
+        417,
+        224,
+        230
+      ],
+      "ref": "ec2f18986",
+      "tag": "a",
+      "text": "Constructeur de workflow PDF Créez des pipelines de traitement PDF personnalisés avec un éditeur de nœuds visuel."
+    },
+    {
+      "bounds": [
+        528,
+        417,
+        224,
+        230
+      ],
+      "ref": "e38382053",
+      "tag": "a",
+      "text": "Outil PDF tout-en-un Fusionner, scinder, organiser, supprimer, faire pivoter, ajouter des pages vierges, extraire et dupliquer dans une interface unifiée."
+    },
+    {
+      "bounds": [
+        776,
+        417,
+        224,
+        230
+      ],
+      "ref": "e003b275a",
+      "tag": "a",
+      "text": "Fusionner des PDF Assembler plusieurs PDF en un seul fichier, tout en conservant les signets."
+    },
+    {
+      "bounds": [
+        1024,
+        417,
+        224,
+        230
+      ],
+      "ref": "e5f676514",
+      "tag": "a",
+      "text": "Scinder un PDF Extraire une plage de pages dans un nouveau PDF."
+    },
+    {
+      "bounds": [
+        32,
+        671,
+        224,
+        206
+      ],
+      "ref": "ef954f2ba",
+      "tag": "a",
+      "text": "Compresser un PDF Réduire la taille du fichier PDF."
+    },
+    {
+      "bounds": [
+        280,
+        671,
+        224,
+        206
+      ],
+      "ref": "e15148d43",
+      "tag": "a",
+      "text": "Éditeur PDF Annoter, surligner, masquer, commenter, ajouter des formes ou images, rechercher et afficher des PDF."
+    },
+    {
+      "bounds": [
+        528,
+        671,
+        224,
+        206
+      ],
+      "ref": "e9f194fe2",
+      "tag": "a",
+      "text": "JPG vers PDF Créer un PDF à partir d’une ou plusieurs images JPG."
+    },
+    {
+      "bounds": [
+        776,
+        671,
+        224,
+        206
+      ],
+      "ref": "e89a4cdfa",
+      "tag": "a",
+      "text": "Signer un PDF Dessiner, saisir ou importer votre signature."
+    },
+    {
+      "bounds": [
+        1024,
+        671,
+        224,
+        206
+      ],
+      "ref": "ee3a27b46",
+      "tag": "a",
+      "text": "Rogner un PDF Ajuster les marges de chaque page du PDF."
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "text": "BentoPDF\nOutils PDF\n\nSélectionnez un outil pour commencer\n\nCtrl + K\nOutils populaires\nModifier le texte d'un PDF\n\nCliquer sur un paragraphe et le modifier directement, avec remise en page instantanée, polices et styles.\n\nConstructeur de workflow PDF\n\nCréez des pipelines de traitement PDF personnalisés avec un éditeur de nœuds visuel.\n\nOutil PDF tout-en-un\n\nFusionner, scinder, organiser, supprimer, faire pivoter, ajouter des pages vierges, extraire et dupliquer dans une interface unifiée.\n\nFusionner des PDF\n\nAssembler plusieurs PDF en un seul fichier, tout en conservant les signets.\n\nScinder un PDF\n\nExtraire une plage de pages dans un nouveau PDF.\n\nCompresser un PDF\n\nRéduire la taille du fichier PDF.\n\nÉditeur PDF\n\nAnnoter, surligner, masquer, commenter, ajouter des formes ou images, rechercher et afficher des PDF.\n\nJPG vers PDF\n\nCréer un PDF à partir d’une ou plusieurs images JPG.\n\nSigner un PDF\n\nDessiner, saisir ou importer votre signature.\n\nRogner un PDF\n\nAjuster les marges de chaque page du PDF.\n\nExtraire des pages\n\nEnregistrer une sélection de pages dans de nouveaux fichiers.\n\nDupliquer et organiser\n\nDupliquer, réorganiser et supprimer des pages.\n\nSupprimer des pages\n\nRetirer des pages spécifiques du document.\n\nÉditer et annoter\nÉditeur PDF\n\nAnnoter, surligner, masquer, commenter, ajouter des formes ou images, rechercher et afficher des PDF.\n\nModifier le texte d'un PDF\n\nCliquer sur un paragraphe et le modifier directement, avec remise en page instantanée, polices et styles.\n\nModifier les signets\n\nAjouter, modifier, importer, supprimer et extraire des signets PDF.\n\nTable des matières\n\nGénérer une table des matières à partir des signets du PDF.\n\nNuméros de page\n\nInsérer une numérotation dans le document.\n\nAjouter des étiquettes de page\n\nAppliquer des étiquettes de page PDF avec chiffres romains, préfixes et valeurs de départ personnalisées.\n\nNumérotation Bates\n\nAjouter des numéros Bates séquentiels sur un ou plusieurs fichiers PDF.\n\nAjouter un filigrane\n\nApposer un texte ou une image sur les pages du PDF.\n\nEn-tête et pied de page\n\nAjouter du texte en haut et en bas des pages.\n\nInverser les couleurs\n\nCréer une version « mode sombre » du PDF.\n\nEffet scanner\n\nDonnez à votre PDF l'apparence d'un document scanné.\n\nAjuster les couleurs\n\nAffinez la luminosité, le contraste, la saturation et plus dans votre PDF.\n\nCouleur de fond\n\nModifier la couleur de fond du PDF.\n\nChanger la couleur du texte\n\nModifier la couleur du texte dans le PDF.\n\nSigner un PDF\n\nDessiner, saisir ou importer votre signature.\n\nAjouter des tampons\n\nAjouter des tampons image via la barre d’annotations.\n\nSupprimer les annotations\n\nRetirer les commentaires, surlignages et liens.\n\nRogner un PDF\n\nAjuster les marges de chaque page du PDF.\n\nRemplir un formulaire PDF\n\nRemplir des formulaires directement dans le navigateur, y compris les formulaires XFA.\n\nCréer un formulaire PDF\n\nCréer des formulaires PDF interactifs avec des champs glisser-déposer.\n\nSupprimer les pages blanches\n\nDétecter et supprimer automatiquement les pages vides.\n\nConvertir en PDF\nImages vers PDF\n\nConvertir un JPG, PNG, BMP, GIF, TIFF, PNM, PGM, PBM, PPM, PAM, JXR, JPX, JP2, PSD, SVG, HEIC, WebP en PDF.\n\nJPG vers PDF\n\nCréer un PDF à partir d’une ou plusieurs images JPG.\n\nPNG vers PDF\n\nCréer un PDF à partir d’une ou plusieurs images PNG.\n\nWebP vers PDF\n\nCréer un PDF à partir d’une ou plusieurs images WebP.\n\nSVG vers PDF\n\nCréer un PDF à partir d’une ou plusieurs images SVG.\n\nBMP vers PDF\n\nCréer un PDF à partir d’une ou plusieurs images BMP.\n\nHEIC vers PDF\n\nCréer un PDF à partir d’une ou plusieurs images HEIC.\n\nTIFF vers PDF\n\nCréer un PDF à partir d’une ou plusieurs images TIFF.\n\nTexte vers PDF\n\nConvertir un fichier texte en PDF.\n\nMarkdown vers PDF\n\nÉcrire ou coller du Markdown et l’exporter en PDF avec une mise en forme soignée.\n\nJSON vers PDF\n\nConvertir des fichiers JSON en PDF.\n\nODT vers PDF\n\nConvertir des fichiers OpenDocument Text au format PDF. Prend en charge plusieurs fichiers.\n\nCSV vers PDF\n\nConvertir des fichiers tableur CSV au format PDF. Prend en charge plusieurs fichiers.\n\nRTF vers PDF\n\nConvertir des documents Rich Text Format en PDF. Prend en charge plusieurs fichiers.\n\nWord vers PDF\n\nConvertir des documents Word (DOCX, DOC, ODT, RTF) au format PDF. Prend en charge plusieurs fichiers.\n\nExcel vers PDF\n\nConvertir des feuilles de calcul Excel (XLSX, XLS, ODS, CSV) au format PDF. Prend en charge plusieurs fichiers.\n\nPowerPoint vers PDF\n\nConvertir des présentations PowerPoint (PPTX, PPT, ODP) au format PDF. Prend en charge plusieurs fichiers.\n\nXPS vers PDF\n\nConvertir des documents XPS/OXPS au format PDF. Prend en charge plusieurs fichiers.\n\nMOBI vers PDF\n\nConvertir des livres numériques MOBI au format PDF. Prend en charge plusieurs fichiers.\n\nEPUB vers PDF\n\nConvertir des livres numériques EPUB au format PDF. Prend en charge plusieurs fichiers.\n\nFB2 vers PDF\n\nConvertir des livres numériques FictionBook (FB2) au format PDF. Prend en charge plusieurs fichiers.\n\nCBZ vers PDF\n\nConvertir des archives de bandes dessinées (CBZ/CBR) au format PDF. Prend en charge plusieurs fichiers.\n\nWPD vers PDF\n\nConvertir des documents WordPerfect (WPD) au format PDF. Prend en charge plusieurs fichiers.\n\nWPS vers PDF\n\nConvertir des documents WPS Office au format PDF. Prend en charge plusieurs fichiers.\n\nXML vers PDF\n\nConvertir des documents XML au format PDF. Prend en charge plusieurs fichiers.\n\nPages vers PDF\n\nConvertir des documents Apple Pages au format PDF. Prend en charge plusieurs fichiers.\n\nODG vers PDF\n\nConvertir des fichiers OpenDocument Graphics (ODG) au format PDF. Prend en charge plusieurs fichiers.\n\nODS vers PDF\n\nConvertir des fichiers OpenDocument Spreadsheet (ODS) au format PDF. Prend en charge plusieurs fichiers.\n\nODP vers PDF\n\nConvertir des fichiers OpenDocument Presentation (ODP) au format PDF. Prend en charge plusieurs fichiers.\n\nPUB vers PDF\n\nConvertir des fichiers Microsoft Publisher (PUB) au format PDF. Prend en charge plusieurs fichiers.\n\nVSD vers PDF\n\nConvertir des fichiers Microsoft Visio (VSD, VSDX) au format PDF. Prend en charge plusieurs fichiers.\n\nPSD vers PDF\n\nConvertir des fichiers Adobe Photoshop (PSD) au format PDF. Prend en charge plusieurs fichiers.\n\nEmail vers PDF\n\nConvertir des fichiers email (EML, MSG) au format PDF. Prend en charge les exports Outlook et les formats email standards.\n\nConvertir depuis le PDF\nPDF vers JPG\n\nConvertir chaque page du PDF en image JPG.\n\nPDF vers PNG\n\nConvertir chaque page du PDF en image PNG.\n\nPDF vers WebP\n\nConvertir chaque page du PDF en image WebP.\n\nPDF vers BMP\n\nConvertir chaque page du PDF en image BMP.\n\nPDF vers TIFF\n\nConvertir chaque page du PDF en image TIFF.\n\nPDF en CBZ\n\nConvertir un PDF en fichier CBZ (archive de bande dessinée) pour les lecteurs de comics.\n\nPDF vers SVG\n\nConvertir chaque page d’un fichier PDF en graphique vectoriel évolutif (SVG) pour une qualité parfaite à toutes les tailles.\n\nPDF vers CSV\n\nExtraire les tableaux d’un PDF et les convertir au format CSV.\n\nPDF vers Excel\n\nExtraire les tableaux d’un PDF et les convertir au format Excel (XLSX).\n\nPDF en niveaux de gris\n\nConvertir toutes les couleurs en noir et blanc.\n\nPDF vers JSON\n\nConvertir des fichiers PDF en JSON.\n\nPDF vers Word\n\nConvertir des fichiers PDF en documents Word modifiables.\n\nExtraire les images\n\nExtraire toutes les images intégrées de vos fichiers PDF.\n\nPDF vers Markdown\n\nConvertir le texte et les tableaux PDF au format Markdown.\n\nPréparer le PDF pour l'IA\n\nExtraire le contenu PDF en JSON LlamaIndex pour les pipelines RAG/LLM.\n\nPDF vers texte\n\nExtraire le texte des fichiers PDF et l’enregistrer en texte brut (.txt). Prend en charge plusieurs fichiers.\n\nOrganiser et gérer\nOCR PDF\n\nRendre un PDF consultable et copiable.\n\nFusionner des PDF\n\nAssembler plusieurs PDF en un seul fichier, tout en conservant les signets.\n\nAlterner et mélanger les pages\n\nFusionner des PDF en alternant les pages de chaque fichier, tout en conservant les signets.\n\nAssembler un scan recto/verso\n\nRéorganiser un PDF numérisé en deux blocs (tous les rectos, puis tous les versos) dans le bon ordre recto/verso.\n\nDupliquer et organiser\n\nDupliquer, réorganiser et supprimer des pages.\n\nSuperposition PDF\n\nSuperposer ou placer en arrière-plan les pages d'un PDF sur un autre.\n\nAjouter des pièces jointes\n\nIntégrer un ou plusieurs fichiers dans le PDF.\n\nExtraire les pièces jointes\n\nExtraire tous les fichiers intégrés des PDF dans une archive ZIP.\n\nGérer les pièces jointes\n\nAfficher ou supprimer les pièces jointes du PDF.\n\nOutil PDF tout-en-un\n\nFusionner, scinder, organiser, supprimer, faire pivoter, ajouter des pages vierges, extraire et dupliquer dans une interface unifiée.\n\nCalques PDF (OCG)\n\nAfficher, basculer, ajouter et supprimer les calques OCG de votre PDF.\n\nExtraire les tableaux PDF\n\nExtraire les tableaux des fichiers PDF et les exporter en CSV, JSON ou Markdown.\n\nScinder un PDF\n\nExtraire une plage de pages dans un nouveau PDF.\n\nDiviser les pages\n\nDiviser les pages horizontalement ou verticalement.\n\nExtraire des pages\n\nEnregistrer une sélection de pages dans de nouveaux fichiers.\n\nSupprimer des pages\n\nRetirer des pages spécifiques du document.\n\nAjouter une page vierge\n\nInsérer une page vide à n’importe quel endroit du PDF.\n\nInverser l’ordre des pages\n\nRenverser l’ordre de toutes les pages du document.\n\nFaire pivoter un PDF\n\nTourner les pages par incréments de 90°.\n\nRotation par angle personnalisé\n\nFaire pivoter les pages selon un angle personnalisé.\n\nPDF N-up\n\nAfficher plusieurs pages sur une seule feuille.\n\nLivret PDF\n\nRéorganiser les pages pour l’impression recto verso en livret. Pliez et agrafez pour créer un livret.\n\nCombiner en une seule page\n\nAssembler toutes les pages en un défilement continu.\n\nAfficher les métadonnées\n\nConsulter les propriétés internes du PDF.\n\nModifier les métadonnées\n\nChanger l’auteur, le titre et autres propriétés.\n\nPDF vers ZIP\n\nRegrouper plusieurs fichiers PDF dans une archive ZIP.\n\nComparer des PDF\n\nComparer deux PDF côte à côte.\n\nPosteriser un PDF\n\nDécouper une grande page en plusieurs pages plus petites.\n\nOptimiser et réparer\nCompresser un PDF\n\nRéduire la taille du fichier PDF.\n\nPDF vers PDF/A\n\nConvertir un PDF en PDF/A pour l'archivage à long terme.\n\nUniformiser la taille des pages\n\nStandardiser toutes les pages à un format identique.\n\nOptimiser pour le web\n\nOptimiser le PDF pour un affichage rapide en ligne.\n\nDimensions des pages\n\nAnalyser la taille, l’orientation et les unités des pages.\n\nSupprimer les restrictions\n\nSupprimer les protections par mot de passe et restrictions de sécurité des PDF signés.\n\nRéparer un PDF\n\nRécupérer les données de fichiers PDF corrompus ou endommagés.\n\nRastériser le PDF\n\nConvertir un PDF en PDF basé sur des images. Aplatir les calques et supprimer le texte sélectionnable.\n\nRedresser un PDF\n\nRedresser automatiquement les pages scannées inclinées à l’aide d’OpenCV.\n\nPolices en contours\n\nConvertir toutes les polices en contours vectoriels pour un rendu cohérent sur tous les appareils.\n\nSécuriser les PDF\nProtect PDF\n\nPassword protect a PDF with strong AES encryption.\n\nNettoyer un PDF\n\nSupprimer les métadonnées, annotations, scripts et autres éléments sensibles.\n\nUnlock PDF\n\nRemove the password from a PDF so it opens freely.\n\nAplatir le PDF\n\nRendre les champs de formulaire et annotations non modifiables.\n\nSupprimer les métadonnées\n\nEffacer les données cachées du PDF.\n\nModifier les autorisations\n\nDéfinir ou modifier les permissions utilisateur du PDF.\n\nSignature numérique PDF\n\nAjouter une signature numérique cryptographique à votre PDF à l’aide de certificats X.509. Prend en charge les formats PKCS#12 (.pfx, .p12) et PEM. Votre clé privée ne quitte jamais votre navigateur.\n\nValider la signature PDF\n\nVérifier les signatures numériques de vos fichiers PDF. Contrôlez la validité du certificat, consultez les informations du signataire et confirmez l’intégrité du document. Tout le traitement s’effectue dans votre navigateur.\n\nHorodater un PDF\n\nAjoutez un horodatage RFC 3161 à votre PDF via",
+  "text_truncated": true,
+  "title": "BentoPDF - Outils PDF",
+  "url": "/fr/index.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "task": "drawdb",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "drawDB",
+    "version": "1.8.2",
+    "homepage": "https://github.com/drawdb-io/drawdb",
+    "repository": "https://github.com/drawdb-io/drawdb",
+    "license": "AGPL-3.0-only AND MIT AND Apache-2.0 AND ISC AND BSD-3-Clause AND Zlib AND MPL-2.0 AND Unlicense AND 0BSD"
+  },
+  "downloads": [
+    {
+      "file": "drawdb-1.8.2-source.tar.gz",
+      "url": "https://github.com/drawdb-io/drawdb/archive/refs/tags/v1.8.2.tar.gz",
+      "sha256": "044ddeba7d1a777c0d088397c9c5c63af13a88723de91748ae979bd06d6da3f2"
+    }
+  ],
+  "bundled": [
+    {
+      "file": "drawdb-1.8.2-dist.tar.gz",
+      "built_from": "Unmodified /usr/share/nginx/html layer of the official ghcr.io/drawdb-io/drawdb:v1.8.2 linux/amd64 image, produced by the upstream release workflow from tag v1.8.2. The corresponding tag source is included via downloads."
+    }
+  ],
+  "modifications": "Product assets are unchanged. The static server and runtime apply the serving and navigation policies described in configuration.",
+  "configuration": "server.py serves the files of the image layer byte for byte, answers /config.js as the release image does when no backend is configured (window.__DRAWDB_CONFIG__ = { backendUrl: \"\", gistBackendUrl: \"\" };) and answers index.html for every other path, as the image's nginx configuration (try_files $uri /index.html) does. No product file is modified. The static server applies CSP to the actual documents; the runtime checks final documents and restricts script navigation.",
+  "notes": {
+    "container_image": "ghcr.io/drawdb-io/drawdb:v1.8.2",
+    "image_index": "sha256:9e370f4f6facf6da04b2576606fde3c0d2debdd56f479a4b5adb61fc2262fcab",
+    "image_manifest": "sha256:6a55d0a633ba9f003df53579cb0d1d650fddaecf8e47f93e990a633f663c937c",
+    "image_layer": "sha256:d75037aa1890aa74545341ba64396f618c1fab42641109d31843986c16e618a1",
+    "source_commit": "e4e696f2d2b1a17ac99ad1d062927582ff994a3c",
+    "source_availability": "drawdb-1.8.2-source.tar.gz is the complete corresponding source of the build (the tag archive, with package-lock.json pinning every bundled dependency).",
+    "shared_browser_resources": "Bootstrap Icons 1.11.1, Font Awesome Free 6.5.2 and Monaco Editor 0.52.2 are mirrored npm resources available to every runtime target."
+  }
+}

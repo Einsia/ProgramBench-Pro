@@ -1,0 +1,199 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e223",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Tableau de bord"
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/2/notifications/web",
+      "ref": "e224",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Mes notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/dashboard",
+      "ref": "e225",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/dashboard",
+      "ref": "e226",
+      "role": null,
+      "tag": "a",
+      "text": "BB"
+    },
+    {
+      "bounds": [
+        10,
+        49,
+        207,
+        17
+      ],
+      "href": "/project/create/personal",
+      "ref": "e227",
+      "role": null,
+      "tag": "a",
+      "text": "Nouveau projet personnel"
+    },
+    {
+      "bounds": [
+        236,
+        49,
+        161,
+        17
+      ],
+      "href": "/projects",
+      "ref": "e228",
+      "role": null,
+      "tag": "a",
+      "text": "Gestion des projets"
+    },
+    {
+      "bounds": [
+        417,
+        49,
+        150,
+        17
+      ],
+      "href": "/my-activity",
+      "ref": "e229",
+      "role": null,
+      "tag": "a",
+      "text": "Mon flux d'activité"
+    },
+    {
+      "bounds": [
+        23,
+        96,
+        114,
+        17
+      ],
+      "href": "/dashboard/2",
+      "ref": "e230",
+      "role": null,
+      "tag": "a",
+      "text": "Vue d'ensemble"
+    },
+    {
+      "bounds": [
+        23,
+        132,
+        83,
+        17
+      ],
+      "href": "/dashboard/2/projects",
+      "ref": "e231",
+      "role": null,
+      "tag": "a",
+      "text": "Mes projets"
+    },
+    {
+      "bounds": [
+        23,
+        168,
+        82,
+        17
+      ],
+      "href": "/dashboard/2/tasks",
+      "ref": "e232",
+      "role": null,
+      "tag": "a",
+      "text": "Mes tâches"
+    },
+    {
+      "bounds": [
+        23,
+        204,
+        121,
+        17
+      ],
+      "href": "/dashboard/2/subtasks",
+      "ref": "e233",
+      "role": null,
+      "tag": "a",
+      "text": "Mes sous-tâches"
+    },
+    {
+      "aria": "Rechercher",
+      "bounds": [
+        250,
+        87,
+        959,
+        28
+      ],
+      "name": "search",
+      "placeholder": "Rechercher",
+      "ref": "e234",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "aria": "Filtres par défaut",
+      "bounds": [
+        1221,
+        92,
+        36,
+        16
+      ],
+      "href": "/dashboard",
+      "ref": "e235",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Filtres par défaut"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Tableau de bord pour Bob Builder\n \n \nBB\nNouveau projet personnel Gestion des projets Mon flux d'activité\nVue d'ensemble\nMes projets\nMes tâches\nMes sous-tâches\n\nIl n'y a rien d'assigné pour vous.",
+  "text_truncated": false,
+  "title": "Tableau de bord pour Bob Builder",
+  "url": "/dashboard",
+  "viewport": [
+    1280,
+    900
+  ]
+}

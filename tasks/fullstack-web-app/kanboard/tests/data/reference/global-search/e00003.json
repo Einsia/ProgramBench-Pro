@@ -1,0 +1,202 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e278",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "aria": "Display another project",
+      "bounds": [
+        836,
+        7,
+        273,
+        24
+      ],
+      "placeholder": "Display another project",
+      "ref": "e279",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e280",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/?controller=SearchController&action=index&search=Alpha",
+      "ref": "e281",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/?controller=SearchController&action=index&search=Alpha",
+      "ref": "e282",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "bounds": [
+        10,
+        49,
+        180,
+        17
+      ],
+      "href": "/search/activity",
+      "ref": "e283",
+      "role": null,
+      "tag": "a",
+      "text": "Activity stream search"
+    },
+    {
+      "aria": "Search",
+      "bounds": [
+        10,
+        87,
+        1199,
+        28
+      ],
+      "name": "search",
+      "placeholder": "Search",
+      "ref": "e284",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "Alpha"
+    },
+    {
+      "aria": "Default filters",
+      "bounds": [
+        1221,
+        92,
+        36,
+        16
+      ],
+      "href": "/?controller=SearchController&action=index&search=Alpha",
+      "ref": "e285",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Default filters"
+    },
+    {
+      "bounds": [
+        1214,
+        136,
+        42,
+        28
+      ],
+      "href": "/?controller=SearchController&action=index&search=Alpha",
+      "ref": "e286",
+      "role": null,
+      "tag": "a",
+      "text": "Sort"
+    },
+    {
+      "bounds": [
+        18,
+        169,
+        30,
+        15
+      ],
+      "href": "/?controller=SearchController&action=index&search=Alpha",
+      "ref": "e287",
+      "role": null,
+      "tag": "a",
+      "text": "#5"
+    },
+    {
+      "bounds": [
+        52,
+        169,
+        79,
+        15
+      ],
+      "href": "/task/5",
+      "ref": "e288",
+      "role": null,
+      "tag": "a",
+      "text": "Alpha mobile"
+    },
+    {
+      "bounds": [
+        18,
+        235,
+        30,
+        15
+      ],
+      "href": "/?controller=SearchController&action=index&search=Alpha",
+      "ref": "e289",
+      "role": null,
+      "tag": "a",
+      "text": "#1"
+    },
+    {
+      "bounds": [
+        52,
+        235,
+        103,
+        15
+      ],
+      "href": "/task/1",
+      "ref": "e290",
+      "role": null,
+      "tag": "a",
+      "text": "Alpha homepage"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Search tasks (2)\n \n \nA\nActivity stream search\n2 tasks\nSort \n#5 \n Alpha mobile\nMobile App > Default swimlane > Backlog\n(\nPosition\n1) \nTask age in days\n<15m \nDays in this column\n<15m \nTask priority\nP0\n#1 \n Alpha homepage\nWebsite > Default swimlane > Backlog\nBB\nBob Builder\n(\nPosition\n1) \nTask age in days\n<15m \nDays in this column\n<15m \nTask priority\nP0",
+  "text_truncated": false,
+  "title": "Search tasks (2)",
+  "url": "/?controller=SearchController&action=index&search=Alpha",
+  "viewport": [
+    1280,
+    900
+  ]
+}

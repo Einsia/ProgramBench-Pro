@@ -1,0 +1,1532 @@
+{
+  "focused": "e6809e32f",
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        881
+      ],
+      "name": "My Library - Zotero",
+      "ref": "ead4bdb1d",
+      "role": "frame",
+      "states": [
+        "active"
+      ],
+      "text": "￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼"
+    },
+    {
+      "bounds": [
+        8,
+        19,
+        1154,
+        36
+      ],
+      "name": "",
+      "ref": "eeb2247d8",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        19,
+        210,
+        36
+      ],
+      "name": "Application",
+      "ref": "e5c0c6bd6",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        8,
+        19,
+        36,
+        36
+      ],
+      "name": "File",
+      "ref": "eae5e7196",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        44,
+        19,
+        39,
+        36
+      ],
+      "name": "Edit",
+      "ref": "e9280c15b",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        83,
+        19,
+        45,
+        36
+      ],
+      "name": "View",
+      "ref": "e2cb9b4a8",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        128,
+        19,
+        46,
+        36
+      ],
+      "name": "Tools",
+      "ref": "ec5a466a3",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        133,
+        60,
+        205,
+        25
+      ],
+      "name": "RTF Scan",
+      "ref": "e0eb3fe74",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        133,
+        94,
+        205,
+        25
+      ],
+      "name": "Install Browser Connector…",
+      "ref": "ed54eb4c5",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        133,
+        119,
+        205,
+        25
+      ],
+      "name": "Plugins",
+      "ref": "e27482050",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        133,
+        144,
+        205,
+        25
+      ],
+      "name": "Developer",
+      "ref": "edb77fe16",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        133,
+        178,
+        205,
+        25
+      ],
+      "name": "Manage Attachments",
+      "ref": "e98e2128f",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        343,
+        179,
+        266,
+        25
+      ],
+      "name": "Convert Linked Files to Stored Files…",
+      "ref": "ebdbced08",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        343,
+        204,
+        266,
+        25
+      ],
+      "name": "Normalize Attachment Titles…",
+      "ref": "e9c7fca9b",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        174,
+        19,
+        44,
+        36
+      ],
+      "name": "Help",
+      "ref": "ef594ac36",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        0,
+        55,
+        1207,
+        36
+      ],
+      "name": "",
+      "ref": "ef0a88b3f",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        55,
+        1199,
+        36
+      ],
+      "name": "",
+      "ref": "e5435fdac",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        9,
+        59,
+        200,
+        28
+      ],
+      "name": "",
+      "ref": "e6f6dda1a",
+      "role": "section",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        35,
+        64,
+        168,
+        18
+      ],
+      "name": "My Library",
+      "ref": "e14c014a2",
+      "role": "section"
+    },
+    {
+      "bounds": [
+        1211,
+        59,
+        28,
+        28
+      ],
+      "name": "List all tabs",
+      "ref": "e82983a32",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1248,
+        59,
+        28,
+        28
+      ],
+      "name": "Sync with zotero.org",
+      "ref": "ebd38ba1b",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        92,
+        200,
+        41
+      ],
+      "name": "",
+      "ref": "e30e37922",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        8,
+        98,
+        28,
+        28
+      ],
+      "name": "New Collection…",
+      "ref": "eaf37dda1",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        156,
+        98,
+        28,
+        28
+      ],
+      "name": "Filter Collections",
+      "ref": "e7bbd7881",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        133,
+        200,
+        567
+      ],
+      "name": "",
+      "ref": "e6cae55ac",
+      "role": "section",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        0,
+        133,
+        200,
+        567
+      ],
+      "name": "Collections",
+      "ref": "e3fc109d8",
+      "role": "tree",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        0,
+        133,
+        200,
+        567
+      ],
+      "name": "",
+      "ref": "eb7fe2a2b",
+      "role": "section",
+      "text": "￼￼￼￼￼￼"
+    },
+    {
+      "bounds": [
+        8,
+        133,
+        184,
+        28
+      ],
+      "name": "My Library",
+      "ref": "e19545fd2",
+      "role": "tree item",
+      "states": [
+        "selected",
+        "expanded",
+        "active"
+      ],
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        133,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e5b982c1c",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        44,
+        138,
+        144,
+        18
+      ],
+      "name": "",
+      "ref": "e949e16e3",
+      "role": "section",
+      "text": "My Library"
+    },
+    {
+      "bounds": [
+        8,
+        161,
+        184,
+        28
+      ],
+      "name": "Recently Read",
+      "ref": "e97dca4d1",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        161,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e4b31b13a",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        166,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "e6527c2eb",
+      "role": "section",
+      "text": "Recently Read"
+    },
+    {
+      "bounds": [
+        8,
+        189,
+        184,
+        28
+      ],
+      "name": "My Publications",
+      "ref": "e8018da65",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        189,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e60ce88f8",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        194,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "e1cd9ec22",
+      "role": "section",
+      "text": "My Publications"
+    },
+    {
+      "bounds": [
+        8,
+        217,
+        184,
+        28
+      ],
+      "name": "Duplicate Items",
+      "ref": "ec080f737",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        217,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e1a9174ab",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        222,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "e9a440bd6",
+      "role": "section",
+      "text": "Duplicate Items"
+    },
+    {
+      "bounds": [
+        8,
+        245,
+        184,
+        28
+      ],
+      "name": "Unfiled Items",
+      "ref": "ebc78b9cf",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        245,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "ed3a9131c",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        250,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "e6881de92",
+      "role": "section",
+      "text": "Unfiled Items"
+    },
+    {
+      "bounds": [
+        8,
+        273,
+        184,
+        28
+      ],
+      "name": "Trash",
+      "ref": "e3a1da046",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        273,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "eedbb7f7a",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        278,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "ea2ad079a",
+      "role": "section",
+      "text": "Trash"
+    },
+    {
+      "bounds": [
+        0,
+        700,
+        200,
+        200
+      ],
+      "name": "",
+      "ref": "e57aa693b",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        0,
+        700,
+        200,
+        200
+      ],
+      "name": "",
+      "ref": "e8e529781",
+      "role": "section",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        0,
+        700,
+        200,
+        163
+      ],
+      "name": "",
+      "ref": "e7ef021d1",
+      "role": "section",
+      "text": "No tags to display"
+    },
+    {
+      "bounds": [
+        8,
+        870,
+        144,
+        24
+      ],
+      "name": "Filter Tags",
+      "ref": "e59a38a2f",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        156,
+        870,
+        36,
+        24
+      ],
+      "name": "Actions",
+      "ref": "ec1ed66a8",
+      "role": "push button",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        200,
+        92,
+        723,
+        41
+      ],
+      "name": "",
+      "ref": "e32ed8ff3",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        208,
+        98,
+        40,
+        28
+      ],
+      "name": "New Item",
+      "ref": "ed2f311e2",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        256,
+        98,
+        28,
+        28
+      ],
+      "name": "Add Item(s) by Identifier",
+      "ref": "ea6d01f8f",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        292,
+        98,
+        40,
+        28
+      ],
+      "name": "Add Attachment",
+      "ref": "ef952ec7e",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        340,
+        98,
+        40,
+        28
+      ],
+      "name": "New Note",
+      "ref": "e553c0457",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        615,
+        98,
+        36,
+        28
+      ],
+      "name": "Quick Search mode",
+      "ref": "ef94081cc",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        655,
+        99,
+        227,
+        26
+      ],
+      "description": "All Fields & Tags",
+      "name": "Quick Search",
+      "ref": "e8b8992fe",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        885,
+        98,
+        28,
+        28
+      ],
+      "name": "Advanced Search",
+      "ref": "e9d5a1225",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        200,
+        133,
+        723,
+        767
+      ],
+      "name": "",
+      "ref": "e33b3cb16",
+      "role": "section",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        200,
+        133,
+        723,
+        767
+      ],
+      "name": "Items",
+      "ref": "e86693c48",
+      "role": "tree",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        200,
+        133,
+        723,
+        30
+      ],
+      "name": "",
+      "ref": "ed5511ba1",
+      "role": "section",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        139,
+        525,
+        17
+      ],
+      "name": "",
+      "ref": "e694c5b64",
+      "role": "section",
+      "text": "Title"
+    },
+    {
+      "bounds": [
+        749,
+        139,
+        126,
+        17
+      ],
+      "name": "",
+      "ref": "e8ed6218b",
+      "role": "section",
+      "text": "Creator"
+    },
+    {
+      "bounds": [
+        883,
+        140,
+        32,
+        16
+      ],
+      "name": "Attachments",
+      "ref": "efdc5d7d7",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        200,
+        167,
+        723,
+        733
+      ],
+      "name": "",
+      "ref": "e340087f0",
+      "role": "section",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        167,
+        707,
+        28
+      ],
+      "name": "Quantum Gardening. Journal Article. Lovelace Has PDF attachment. Has PDF attachment",
+      "ref": "e0095fb87",
+      "role": "tree item",
+      "states": [
+        "expanded"
+      ],
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        173,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "e63c25d20",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        173,
+        489,
+        17
+      ],
+      "name": "Quantum Gardening. Journal Article.",
+      "ref": "ebacb452c",
+      "role": "section",
+      "text": "Quantum Gardening"
+    },
+    {
+      "bounds": [
+        741,
+        173,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "e0a3db963",
+      "role": "section",
+      "text": "Lovelace"
+    },
+    {
+      "bounds": [
+        883,
+        167,
+        32,
+        28
+      ],
+      "name": "Has PDF attachment",
+      "ref": "e81fa99c4",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        892,
+        174,
+        14,
+        14
+      ],
+      "name": "Has PDF attachment.",
+      "ref": "ef5762a9f",
+      "role": "section"
+    },
+    {
+      "bounds": [
+        208,
+        195,
+        707,
+        28
+      ],
+      "name": "PDF. Attachment.",
+      "ref": "e6809e32f",
+      "role": "tree item",
+      "states": [
+        "focused",
+        "selected",
+        "active"
+      ],
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        201,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "e041ad9e5",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        260,
+        201,
+        473,
+        17
+      ],
+      "name": "PDF. Attachment.",
+      "ref": "eb22341e3",
+      "role": "section",
+      "text": "PDF"
+    },
+    {
+      "bounds": [
+        931,
+        96,
+        304,
+        27
+      ],
+      "name": "Title",
+      "ref": "ef7a8c8b0",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        931,
+        96,
+        304,
+        27
+      ],
+      "name": "Title",
+      "ref": "e94a73ef1",
+      "role": "entry",
+      "states": [
+        "editable"
+      ],
+      "text": "PDF"
+    },
+    {
+      "bounds": [
+        923,
+        133,
+        320,
+        767
+      ],
+      "name": "Item Details",
+      "ref": "e55679017",
+      "role": "section",
+      "text": "￼￼￼￼￼￼￼￼￼￼￼￼"
+    },
+    {
+      "bounds": [
+        931,
+        137,
+        304,
+        24
+      ],
+      "name": "Attachment Info",
+      "ref": "ecfda2e0c",
+      "role": "push button",
+      "states": [
+        "expanded"
+      ],
+      "text": "Attachment Info￼￼￼"
+    },
+    {
+      "bounds": [
+        1215,
+        139,
+        20,
+        20
+      ],
+      "name": "Collapse Attachment Info section",
+      "ref": "e2fe130a4",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        931,
+        163,
+        304,
+        436
+      ],
+      "name": "Preview",
+      "ref": "e41fb466e",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        931,
+        165,
+        304,
+        430
+      ],
+      "name": "",
+      "ref": "ed5b257c0",
+      "role": "internal frame"
+    },
+    {
+      "bounds": [
+        931,
+        165,
+        304,
+        430
+      ],
+      "name": "Zotero Reader",
+      "ref": "e6b55e261",
+      "role": "document web",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        931,
+        165,
+        304,
+        430
+      ],
+      "name": "",
+      "ref": "e8c92b51a",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        931,
+        165,
+        304,
+        430
+      ],
+      "name": "",
+      "ref": "ed4ad34b1",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        931,
+        165,
+        304,
+        430
+      ],
+      "name": "",
+      "ref": "e7541d9e7",
+      "role": "internal frame"
+    },
+    {
+      "bounds": [
+        931,
+        165,
+        304,
+        430
+      ],
+      "name": "PDF.js viewer",
+      "ref": "e76780218",
+      "role": "document web",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        931,
+        165,
+        304,
+        430
+      ],
+      "name": "",
+      "ref": "ed48ef235",
+      "role": "section",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        930,
+        165,
+        305,
+        430
+      ],
+      "name": "",
+      "ref": "e92496efe",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        930,
+        165,
+        305,
+        430
+      ],
+      "name": "",
+      "ref": "ee19b1a56",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        930,
+        158,
+        305,
+        437
+      ],
+      "name": "",
+      "ref": "edb016bf5",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        933,
+        164,
+        300,
+        425
+      ],
+      "name": "Page ⁨1⁩",
+      "ref": "ec3539c8c",
+      "role": "landmark",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        931,
+        603,
+        304,
+        24
+      ],
+      "name": "",
+      "ref": "e9f954a06",
+      "role": "section",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        931,
+        603,
+        59,
+        24
+      ],
+      "name": "",
+      "ref": "eab13d63c",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        931,
+        606,
+        59,
+        21
+      ],
+      "name": "Title",
+      "ref": "e4ac8e49d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        998,
+        603,
+        237,
+        24
+      ],
+      "name": "Title",
+      "ref": "efb6bba2f",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        998,
+        603,
+        237,
+        24
+      ],
+      "name": "Title",
+      "ref": "eb768fce1",
+      "role": "entry",
+      "states": [
+        "editable"
+      ],
+      "text": "PDF"
+    },
+    {
+      "bounds": [
+        931,
+        629,
+        304,
+        23
+      ],
+      "name": "",
+      "ref": "ec4f11976",
+      "role": "section",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        931,
+        629,
+        59,
+        23
+      ],
+      "name": "",
+      "ref": "edd6a8810",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        931,
+        632,
+        59,
+        20
+      ],
+      "name": "Filename",
+      "ref": "e467a3e22",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        998,
+        629,
+        211,
+        23
+      ],
+      "name": "Filename",
+      "ref": "e0ac0042f",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        998,
+        629,
+        211,
+        23
+      ],
+      "name": "Filename",
+      "ref": "e10963100",
+      "role": "entry",
+      "states": [
+        "editable"
+      ],
+      "text": "notes.pdf"
+    },
+    {
+      "bounds": [
+        1213,
+        629,
+        22,
+        22
+      ],
+      "name": "Rename File to Match Parent Item",
+      "ref": "e7116141e",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        931,
+        654,
+        304,
+        23
+      ],
+      "name": "",
+      "ref": "e1c3cfc41",
+      "role": "section",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        931,
+        654,
+        59,
+        23
+      ],
+      "name": "",
+      "ref": "e428dee24",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        931,
+        657,
+        59,
+        20
+      ],
+      "name": "Pages",
+      "ref": "e48daed2d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        998,
+        654,
+        237,
+        23
+      ],
+      "name": "Pages",
+      "ref": "e45500d14",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        998,
+        654,
+        237,
+        23
+      ],
+      "name": "Pages",
+      "ref": "e7259569d",
+      "role": "entry",
+      "text": "1"
+    },
+    {
+      "bounds": [
+        931,
+        679,
+        304,
+        24
+      ],
+      "name": "",
+      "ref": "eb5d7c0d2",
+      "role": "section",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        931,
+        679,
+        59,
+        24
+      ],
+      "name": "",
+      "ref": "eb0ff4de0",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        931,
+        682,
+        59,
+        21
+      ],
+      "name": "Modified",
+      "ref": "e2bcfa33a",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        998,
+        679,
+        237,
+        24
+      ],
+      "name": "Modified",
+      "ref": "e86a49d7b",
+      "role": "unknown"
+    },
+    {
+      "bounds": [
+        998,
+        679,
+        237,
+        24
+      ],
+      "name": "Modified",
+      "ref": "e74fc650d",
+      "role": "entry",
+      "text": "1/1/2024, 12:00:00 AM"
+    },
+    {
+      "bounds": [
+        931,
+        705,
+        304,
+        22
+      ],
+      "name": "",
+      "ref": "ee179c50e",
+      "role": "section",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        931,
+        705,
+        59,
+        22
+      ],
+      "name": "",
+      "ref": "e0a03213f",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        931,
+        708,
+        59,
+        19
+      ],
+      "name": "Indexed",
+      "ref": "edffe08f3",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        998,
+        708,
+        211,
+        19
+      ],
+      "name": "",
+      "ref": "e3d642b52",
+      "role": "section",
+      "text": "Yes"
+    },
+    {
+      "bounds": [
+        1213,
+        705,
+        22,
+        22
+      ],
+      "name": "Reindex Item",
+      "ref": "e934f40f6",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        931,
+        739,
+        304,
+        24
+      ],
+      "name": "0 Tags",
+      "ref": "e1ff15547",
+      "role": "push button",
+      "text": "0 Tags￼￼￼￼"
+    },
+    {
+      "bounds": [
+        1195,
+        741,
+        20,
+        20
+      ],
+      "name": "Add",
+      "ref": "e9a07aaf5",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1215,
+        741,
+        20,
+        20
+      ],
+      "name": "Expand Tags section",
+      "ref": "e475444b1",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        931,
+        775,
+        304,
+        24
+      ],
+      "name": "0 Related",
+      "ref": "ec949539f",
+      "role": "push button",
+      "text": "0 Related￼￼￼￼"
+    },
+    {
+      "bounds": [
+        1195,
+        777,
+        20,
+        20
+      ],
+      "name": "Add",
+      "ref": "e33cae1c0",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1215,
+        777,
+        20,
+        20
+      ],
+      "name": "Expand Related section",
+      "ref": "e590bccc1",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1243,
+        92,
+        37,
+        808
+      ],
+      "name": "",
+      "ref": "e5a4bf7df",
+      "role": "page tab list"
+    },
+    {
+      "bounds": [
+        1248,
+        98,
+        28,
+        28
+      ],
+      "name": "Toggle Item Pane",
+      "ref": "e6d693178",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1248,
+        139,
+        28,
+        96
+      ],
+      "name": "Item Details",
+      "ref": "e372f452f",
+      "role": "page tab",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        1248,
+        248,
+        28,
+        28
+      ],
+      "name": "Locate",
+      "ref": "e88bf86cd",
+      "role": "push button"
+    }
+  ],
+  "screen": [
+    1280,
+    900
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": true,
+      "bounds": [
+        0,
+        38,
+        1280,
+        881
+      ],
+      "ref": "wdde7c1e4",
+      "title": "My Library - Zotero"
+    }
+  ]
+}

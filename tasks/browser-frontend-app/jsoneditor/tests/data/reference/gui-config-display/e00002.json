@@ -1,0 +1,143 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        33,
+        119,
+        24,
+        24
+      ],
+      "ref": "ebb03648e",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        57,
+        119,
+        24,
+        24
+      ],
+      "ref": "e8f71e697",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        140,
+        120,
+        31,
+        22
+      ],
+      "ref": "e18b741d1",
+      "tag": "div",
+      "text": "{2}",
+      "title": "object containing 2 items"
+    },
+    {
+      "bounds": [
+        9,
+        143,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3a",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        143,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex2",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        106,
+        144,
+        56,
+        22
+      ],
+      "ref": "e840fed28",
+      "tag": "div",
+      "text": "target",
+      "value": "target"
+    },
+    {
+      "bounds": [
+        173,
+        144,
+        48,
+        22
+      ],
+      "ref": "e9e75105f",
+      "tag": "div",
+      "text": "After",
+      "value": "After"
+    },
+    {
+      "bounds": [
+        9,
+        167,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax2",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        167,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex3",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        106,
+        168,
+        40,
+        22
+      ],
+      "ref": "ee2deb1f4",
+      "tag": "div",
+      "text": "keep",
+      "value": "keep"
+    },
+    {
+      "bounds": [
+        156,
+        168,
+        38,
+        22
+      ],
+      "ref": "ea6d548ec",
+      "tag": "div",
+      "text": "7",
+      "value": "7"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "drawing": [],
+  "drawing_truncated": false,
+  "text": "Switch editor mode using the mode box. Note that the mode can be changed programmatically as well using the method\neditor.setMode(mode)\n, try it in the console of your browser.\nobject\n►\ntarget\nobject\n:",
+  "text_truncated": false,
+  "title": "JSONEditor | Switch mode",
+  "url": "/",
+  "viewport": [
+    1280,
+    900
+  ]
+}

@@ -1,0 +1,1080 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        559,
+        -44,
+        162,
+        36
+      ],
+      "href": "/feed/1/edit#main",
+      "offscreen": true,
+      "ref": "e1246",
+      "role": null,
+      "tag": "a",
+      "text": "Skip to content"
+    },
+    {
+      "aria": "Home page",
+      "bounds": [
+        193,
+        10,
+        77,
+        19
+      ],
+      "href": "/unread",
+      "ref": "e1247",
+      "role": null,
+      "tag": "a",
+      "text": "Mini\nflux"
+    },
+    {
+      "aria": "Unread, 1 unread entry",
+      "bounds": [
+        278,
+        12,
+        102,
+        16
+      ],
+      "href": "/unread",
+      "ref": "e1248",
+      "role": null,
+      "tag": "a",
+      "text": "Unread (1)"
+    },
+    {
+      "bounds": [
+        395,
+        12,
+        78,
+        16
+      ],
+      "href": "/starred",
+      "ref": "e1249",
+      "role": null,
+      "tag": "a",
+      "text": "Starred"
+    },
+    {
+      "bounds": [
+        488,
+        12,
+        78,
+        16
+      ],
+      "href": "/history",
+      "ref": "e1250",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        581,
+        12,
+        70,
+        16
+      ],
+      "href": "/feeds",
+      "ref": "e1251",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "aria": "Add feed",
+      "bounds": [
+        650,
+        12,
+        26,
+        16
+      ],
+      "href": "/subscribe",
+      "ref": "e1252",
+      "role": null,
+      "tag": "a",
+      "text": "(+)",
+      "title": "Keyboard Shortcut: +"
+    },
+    {
+      "bounds": [
+        691,
+        12,
+        104,
+        16
+      ],
+      "href": "/categories",
+      "ref": "e1253",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        810,
+        12,
+        70,
+        16
+      ],
+      "href": "/search",
+      "ref": "e1254",
+      "role": null,
+      "tag": "a",
+      "text": "Search"
+    },
+    {
+      "bounds": [
+        894,
+        12,
+        87,
+        16
+      ],
+      "href": "/settings",
+      "ref": "e1255",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        996,
+        10,
+        70,
+        18
+      ],
+      "ref": "e1256",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "title": "Logged in as alice"
+    },
+    {
+      "bounds": [
+        193,
+        82,
+        66,
+        18
+      ],
+      "href": "/feeds",
+      "ref": "e1257",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "bounds": [
+        284,
+        82,
+        85,
+        18
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e1258",
+      "role": null,
+      "tag": "a",
+      "text": "Entries"
+    },
+    {
+      "bounds": [
+        393,
+        82,
+        85,
+        18
+      ],
+      "href": "/feed/1/edit",
+      "ref": "e1259",
+      "role": null,
+      "tag": "a",
+      "text": "Refresh"
+    },
+    {
+      "bounds": [
+        202,
+        160,
+        67,
+        19
+      ],
+      "focused": true,
+      "label": "Category",
+      "name": "category_id",
+      "options": [
+        {
+          "disabled": false,
+          "label": "All",
+          "selected": false,
+          "value": "1"
+        },
+        {
+          "disabled": false,
+          "label": "Archive",
+          "selected": true,
+          "value": "4"
+        }
+      ],
+      "ref": "e1260",
+      "role": null,
+      "tag": "select",
+      "text": "All\nArchive",
+      "value": "4"
+    },
+    {
+      "bounds": [
+        202,
+        217,
+        250,
+        28
+      ],
+      "label": "Title",
+      "name": "title",
+      "ref": "e1261",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "Renamed Feed"
+    },
+    {
+      "bounds": [
+        202,
+        278,
+        250,
+        28
+      ],
+      "label": "Site URL",
+      "name": "site_url",
+      "placeholder": "https://domain.tld/",
+      "ref": "e1262",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": "http://editable.test/"
+    },
+    {
+      "bounds": [
+        202,
+        339,
+        250,
+        28
+      ],
+      "label": "Feed URL",
+      "name": "feed_url",
+      "placeholder": "https://domain.tld/",
+      "ref": "e1263",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": "http://editable.test/feed.xml"
+    },
+    {
+      "bounds": [
+        202,
+        400,
+        350,
+        158
+      ],
+      "label": "Description",
+      "name": "description",
+      "ref": "e1264",
+      "role": null,
+      "tag": "textarea",
+      "text": "",
+      "type": "textarea",
+      "value": "Fixture feed"
+    },
+    {
+      "bounds": [
+        202,
+        583,
+        13,
+        13
+      ],
+      "checked": false,
+      "label": "Hide entries in global unread list",
+      "name": "hide_globally",
+      "ref": "e1265",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        202,
+        616,
+        13,
+        13
+      ],
+      "checked": false,
+      "label": "No media player (audio/video)",
+      "name": "no_media_player",
+      "ref": "e1266",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        202,
+        649,
+        13,
+        13
+      ],
+      "checked": false,
+      "label": "Do not refresh this feed",
+      "name": "disabled",
+      "ref": "e1267",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        202,
+        682,
+        79,
+        29
+      ],
+      "ref": "e1268",
+      "role": null,
+      "tag": "button",
+      "text": "Update"
+    },
+    {
+      "bounds": [
+        202,
+        789,
+        250,
+        28
+      ],
+      "label": "Feed Username",
+      "name": "feed_username",
+      "ref": "e1269",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        202,
+        850,
+        250,
+        28
+      ],
+      "label": "Feed Password",
+      "name": "feed_password",
+      "ref": "e1270",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        202,
+        911,
+        250,
+        28
+      ],
+      "label": "Override Default User Agent",
+      "name": "user_agent",
+      "offscreen": true,
+      "placeholder": "Mozilla/5.0 (compatible; Miniflux/2.3.4; +https://miniflux.app)",
+      "ref": "e1271",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        202,
+        972,
+        250,
+        28
+      ],
+      "label": "Proxy URL",
+      "name": "proxy_url",
+      "offscreen": true,
+      "ref": "e1272",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": ""
+    },
+    {
+      "bounds": [
+        202,
+        1033,
+        250,
+        28
+      ],
+      "label": "Set Cookies",
+      "name": "cookie",
+      "offscreen": true,
+      "ref": "e1273",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        202,
+        1081,
+        13,
+        13
+      ],
+      "checked": false,
+      "label": "Fetch original content",
+      "name": "crawler",
+      "offscreen": true,
+      "ref": "e1274",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        202,
+        1114,
+        13,
+        13
+      ],
+      "checked": false,
+      "label": "Ignore entry updates",
+      "name": "ignore_entry_updates",
+      "offscreen": true,
+      "ref": "e1275",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        202,
+        1147,
+        13,
+        13
+      ],
+      "checked": false,
+      "label": "Ignore HTTP cache",
+      "name": "ignore_http_cache",
+      "offscreen": true,
+      "ref": "e1276",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        202,
+        1180,
+        13,
+        13
+      ],
+      "checked": false,
+      "label": "Allow self-signed or invalid certificates",
+      "name": "allow_self_signed_certificates",
+      "offscreen": true,
+      "ref": "e1277",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        202,
+        1213,
+        13,
+        13
+      ],
+      "checked": false,
+      "label": "Disable HTTP/2 to avoid fingerprinting",
+      "name": "disable_http2",
+      "offscreen": true,
+      "ref": "e1278",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        202,
+        1246,
+        79,
+        29
+      ],
+      "offscreen": true,
+      "ref": "e1279",
+      "role": null,
+      "tag": "button",
+      "text": "Update"
+    },
+    {
+      "aria": "Documentation: Scraper Rules",
+      "bounds": [
+        336,
+        1330,
+        18,
+        18
+      ],
+      "href": "[external]",
+      "offscreen": true,
+      "ref": "e1280",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        202,
+        1353,
+        350,
+        54
+      ],
+      "label": "Scraper Rules",
+      "name": "scraper_rules",
+      "offscreen": true,
+      "ref": "e1281",
+      "role": null,
+      "tag": "textarea",
+      "text": "",
+      "type": "textarea",
+      "value": "article"
+    },
+    {
+      "aria": "Documentation: Content Rewrite Rules",
+      "bounds": [
+        413,
+        1422,
+        18,
+        18
+      ],
+      "href": "[external]",
+      "offscreen": true,
+      "ref": "e1282",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        202,
+        1445,
+        350,
+        54
+      ],
+      "label": "Content Rewrite Rules",
+      "name": "rewrite_rules",
+      "offscreen": true,
+      "ref": "e1283",
+      "role": null,
+      "tag": "textarea",
+      "text": "",
+      "type": "textarea",
+      "value": "add_dynamic_image"
+    },
+    {
+      "aria": "Documentation: URL Rewrite Rules",
+      "bounds": [
+        375,
+        1515,
+        18,
+        18
+      ],
+      "href": "[external]",
+      "offscreen": true,
+      "ref": "e1284",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        202,
+        1538,
+        350,
+        54
+      ],
+      "label": "URL Rewrite Rules",
+      "name": "urlrewrite_rules",
+      "offscreen": true,
+      "ref": "e1285",
+      "role": null,
+      "tag": "textarea",
+      "text": "",
+      "type": "textarea",
+      "value": ""
+    },
+    {
+      "aria": "Documentation: Regex-Based Blocking Filters",
+      "bounds": [
+        480,
+        1607,
+        18,
+        18
+      ],
+      "href": "[external]",
+      "offscreen": true,
+      "ref": "e1286",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        202,
+        1630,
+        350,
+        28
+      ],
+      "label": "Regex-Based Blocking Filters",
+      "name": "blocklist_rules",
+      "offscreen": true,
+      "ref": "e1287",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "(?i)sponsored"
+    },
+    {
+      "aria": "Documentation: Regex-Based Keep Filters",
+      "bounds": [
+        442,
+        1668,
+        18,
+        18
+      ],
+      "href": "[external]",
+      "offscreen": true,
+      "ref": "e1288",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        202,
+        1691,
+        350,
+        28
+      ],
+      "label": "Regex-Based Keep Filters",
+      "name": "keeplist_rules",
+      "offscreen": true,
+      "ref": "e1289",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "aria": "Documentation: Entry Blocking Rules",
+      "bounds": [
+        404,
+        1729,
+        18,
+        18
+      ],
+      "href": "[external]",
+      "offscreen": true,
+      "ref": "e1290",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        202,
+        1752,
+        350,
+        188
+      ],
+      "label": "Entry Blocking Rules",
+      "name": "block_filter_entry_rules",
+      "offscreen": true,
+      "ref": "e1291",
+      "role": null,
+      "tag": "textarea",
+      "text": "",
+      "type": "textarea",
+      "value": ""
+    },
+    {
+      "aria": "Documentation: Entry Allow Rules",
+      "bounds": [
+        375,
+        1955,
+        18,
+        18
+      ],
+      "href": "[external]",
+      "offscreen": true,
+      "ref": "e1292",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        202,
+        1978,
+        350,
+        188
+      ],
+      "label": "Entry Allow Rules",
+      "name": "keep_filter_entry_rules",
+      "offscreen": true,
+      "ref": "e1293",
+      "role": null,
+      "tag": "textarea",
+      "text": "",
+      "type": "textarea",
+      "value": ""
+    },
+    {
+      "bounds": [
+        202,
+        2191,
+        79,
+        29
+      ],
+      "offscreen": true,
+      "ref": "e1294",
+      "role": null,
+      "tag": "button",
+      "text": "Update"
+    },
+    {
+      "bounds": [
+        202,
+        2275,
+        876,
+        18
+      ],
+      "offscreen": true,
+      "ref": "e1295",
+      "role": null,
+      "tag": "summary",
+      "text": "Apprise"
+    },
+    {
+      "bounds": [
+        202,
+        2316,
+        250,
+        28
+      ],
+      "name": "apprise_service_urls",
+      "offscreen": true,
+      "ref": "e1296",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        202,
+        2293,
+        876,
+        18
+      ],
+      "offscreen": true,
+      "ref": "e1297",
+      "role": null,
+      "tag": "summary",
+      "text": "Ntfy"
+    },
+    {
+      "bounds": [
+        202,
+        2321,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "ntfy_enabled",
+      "offscreen": true,
+      "ref": "e1298",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        202,
+        2367,
+        250,
+        28
+      ],
+      "name": "ntfy_topic",
+      "offscreen": true,
+      "ref": "e1299",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "aria": "Documentation: Ntfy priority",
+      "bounds": [
+        336,
+        2405,
+        18,
+        18
+      ],
+      "href": "[external]",
+      "offscreen": true,
+      "ref": "e1300",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        202,
+        2423,
+        153,
+        19
+      ],
+      "name": "ntfy_priority",
+      "offscreen": true,
+      "options": [
+        {
+          "disabled": false,
+          "label": "5 - Ntfy max priority",
+          "selected": false,
+          "value": "5"
+        },
+        {
+          "disabled": false,
+          "label": "4 - Ntfy high priority",
+          "selected": false,
+          "value": "4"
+        },
+        {
+          "disabled": false,
+          "label": "3 - Ntfy default priority",
+          "selected": true,
+          "value": "3"
+        },
+        {
+          "disabled": false,
+          "label": "2 - Ntfy low priority",
+          "selected": false,
+          "value": "2"
+        },
+        {
+          "disabled": false,
+          "label": "1 - Ntfy min priority",
+          "selected": false,
+          "value": "1"
+        }
+      ],
+      "ref": "e1301",
+      "role": null,
+      "tag": "select",
+      "text": "",
+      "value": "3"
+    },
+    {
+      "bounds": [
+        202,
+        2311,
+        876,
+        18
+      ],
+      "offscreen": true,
+      "ref": "e1302",
+      "role": null,
+      "tag": "summary",
+      "text": "Pushover"
+    },
+    {
+      "bounds": [
+        202,
+        2339,
+        13,
+        13
+      ],
+      "checked": false,
+      "name": "pushover_enabled",
+      "offscreen": true,
+      "ref": "e1303",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "aria": "Documentation: Pushover message priority",
+      "bounds": [
+        452,
+        2362,
+        18,
+        18
+      ],
+      "href": "[external]",
+      "offscreen": true,
+      "ref": "e1304",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        202,
+        2380,
+        136,
+        19
+      ],
+      "name": "pushover_priority",
+      "offscreen": true,
+      "options": [
+        {
+          "disabled": false,
+          "label": "2 - Max priority",
+          "selected": false,
+          "value": "2"
+        },
+        {
+          "disabled": false,
+          "label": "1 - High priority",
+          "selected": false,
+          "value": "1"
+        },
+        {
+          "disabled": false,
+          "label": "0 - Default priority",
+          "selected": true,
+          "value": "0"
+        },
+        {
+          "disabled": false,
+          "label": "-1 - Low priority",
+          "selected": false,
+          "value": "-1"
+        },
+        {
+          "disabled": false,
+          "label": "-2 - Minimal priority",
+          "selected": false,
+          "value": "-2"
+        }
+      ],
+      "ref": "e1305",
+      "role": null,
+      "tag": "select",
+      "text": "",
+      "value": "0"
+    },
+    {
+      "bounds": [
+        202,
+        2329,
+        876,
+        18
+      ],
+      "offscreen": true,
+      "ref": "e1306",
+      "role": null,
+      "tag": "summary",
+      "text": "Webhook"
+    },
+    {
+      "bounds": [
+        202,
+        2370,
+        250,
+        28
+      ],
+      "name": "webhook_url",
+      "offscreen": true,
+      "ref": "e1307",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "url",
+      "value": ""
+    },
+    {
+      "bounds": [
+        202,
+        2357,
+        79,
+        29
+      ],
+      "offscreen": true,
+      "ref": "e1308",
+      "role": null,
+      "tag": "button",
+      "text": "Update"
+    },
+    {
+      "bounds": [
+        208,
+        2515,
+        154,
+        18
+      ],
+      "href": "/feed/1/edit",
+      "offscreen": true,
+      "ref": "e1309",
+      "role": null,
+      "tag": "a",
+      "text": "Remove this feed"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    2572
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Skip to content\nMini\nflux\nUnread (1) Starred History Feeds (+) Categories Search Settings Logout\nRenamed Feed\nFeeds Entries Refresh\nGeneral\nCategory\nAll\nArchive\nTitle\nSite URL\nFeed URL\nDescription\n Hide entries in global unread list\n No media player (audio/video)\n Do not refresh this feed\nUpdate\nNetwork Settings\nFeed Username\nFeed Password\nOverride Default User Agent\nProxy URL\nSet Cookies\n Fetch original content\n Ignore entry updates\n Ignore HTTP cache\n Allow self-signed or invalid certificates\n Disable HTTP/2 to avoid fingerprinting\nUpdate\nRules\nScraper Rules\n \nContent Rewrite Rules\n \nURL Rewrite Rules\n \nRegex-Based Blocking Filters\n \nRegex-Based Keep Filters\n \nEntry Blocking Rules\n \nEntry Allow Rules\n \nUpdate\nThird-Party Services\nApprise\nNtfy\nPushover\nWebhook\nUpdate\nLast check: just now\nETag header: None\nLastModified header: None\nRemove this feed",
+  "text_truncated": false,
+  "title": "Edit Feed: Renamed Feed - Miniflux",
+  "url": "/feed/1/edit",
+  "viewport": [
+    1280,
+    900
+  ]
+}

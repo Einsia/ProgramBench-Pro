@@ -1,0 +1,368 @@
+{
+  "counts": {
+    "assertions": 820,
+    "backend": 709,
+    "checkpoints": 397,
+    "features": 26,
+    "frontend": 111,
+    "gui_episodes": 91,
+    "program_episodes": 130,
+    "episodes": 221
+  },
+  "features": {
+    "bisect": {
+      "assertions": 16,
+      "episodes": [
+        "bisect",
+        "bisect-menus",
+        "gui-bisect-skip",
+        "gui-bisect"
+      ]
+    },
+    "branches": {
+      "assertions": 76,
+      "episodes": [
+        "new-branch",
+        "gui-new-branch",
+        "gui-merge",
+        "gui-rebase",
+        "gui-cherry-pick",
+        "merge-variants",
+        "branch-more",
+        "checkout-by-name",
+        "gui-checkout-by-name",
+        "gui-branch-from-commit",
+        "merge-remote-menu",
+        "detached-branch",
+        "gui-fast-forward-merge",
+        "gui-squash-merge",
+        "gui-branch-delete",
+        "gui-rename-branch",
+        "gui-delete-branch-range",
+        "gui-unset-upstream",
+        "move-unpushed-branch",
+        "branch-reset-actions",
+        "branch-force-checkout",
+        "branch-upstream-tag",
+        "branch-delete-both",
+        "branch-sort",
+        "branch-invalid-double-dot",
+        "branch-invalid-lock-suffix",
+        "branch-invalid-tilde",
+        "branch-invalid-colon",
+        "branch-invalid-trailing-slash"
+      ]
+    },
+    "cli": {
+      "assertions": 4,
+      "episodes": [
+        "cli"
+      ]
+    },
+    "clipboard": {
+      "assertions": 18,
+      "episodes": [
+        "clipboard",
+        "clipboard-menu",
+        "clipboard-branch",
+        "clipboard-more",
+        "clipboard-commit",
+        "clipboard-file"
+      ]
+    },
+    "commits": {
+      "assertions": 108,
+      "episodes": [
+        "commit-from-interface",
+        "gui-amend",
+        "gui-squash",
+        "gui-drop",
+        "gui-revert",
+        "gui-tag",
+        "gui-reset-hard",
+        "commit-message",
+        "range-ops",
+        "commit-files",
+        "commit-moves",
+        "commit-edits",
+        "autosquash",
+        "gui-move-commit-down",
+        "gui-reword-body",
+        "revert-commit",
+        "gui-commit-without-hook",
+        "range-fixup",
+        "gui-set-author",
+        "gui-co-author",
+        "gui-commit-body",
+        "gui-move-commit-up",
+        "gui-reset-soft",
+        "gui-checkout-commit",
+        "gui-reword",
+        "gui-fixup",
+        "gui-drop-range",
+        "gui-mixed-reset",
+        "message-paragraphs",
+        "message-unicode",
+        "message-quotes",
+        "message-trailers",
+        "select-branch-commits"
+      ]
+    },
+    "conflicts": {
+      "assertions": 45,
+      "episodes": [
+        "conflicts",
+        "gui-conflict-both",
+        "gui-merge-conflict",
+        "gui-resolve-merge",
+        "gui-conflict-theirs",
+        "cherry-pick-conflict",
+        "rebase-conflict",
+        "stash-pop-conflict"
+      ]
+    },
+    "diff": {
+      "assertions": 9,
+      "episodes": [
+        "diff-context",
+        "diff-whitespace",
+        "diff-rename-threshold",
+        "diff-two-refs"
+      ]
+    },
+    "discard": {
+      "assertions": 28,
+      "episodes": [
+        "gui-discard-file",
+        "discard-dir",
+        "gui-discard-unstaged",
+        "gui-discard-untracked",
+        "gui-discard-dir",
+        "gui-nuke",
+        "workspace-reset-actions"
+      ]
+    },
+    "file-formats": {
+      "assertions": 114,
+      "episodes": [
+        "file-empty",
+        "file-binary",
+        "file-utf8-content",
+        "file-utf8-name",
+        "file-spaces",
+        "file-apostrophe",
+        "file-double-quote",
+        "file-leading-dash",
+        "file-glob-literal",
+        "file-nested",
+        "file-dotfile",
+        "file-executable",
+        "file-symlink",
+        "file-crlf",
+        "file-no-newline",
+        "file-tabs",
+        "file-long-line",
+        "file-mode-only",
+        "file-deletion",
+        "file-rename"
+      ]
+    },
+    "files": {
+      "assertions": 38,
+      "episodes": [
+        "amend-popup",
+        "status-filter-pick",
+        "gui-collapse-all",
+        "status-filter-more",
+        "gui-filter-tracked",
+        "gui-amend-from-files",
+        "gui-ignore",
+        "gui-exclude",
+        "ignore-rule-suffix",
+        "ignore-rule-directory",
+        "ignore-rule-negated",
+        "ignore-rule-root-only",
+        "ignore-rule-question"
+      ]
+    },
+    "menus": {
+      "assertions": 61,
+      "episodes": [
+        "menus",
+        "menu-popups",
+        "menu-popups-2",
+        "menu-popups-3",
+        "menu-popups-4",
+        "menu-popups-5"
+      ]
+    },
+    "navigation": {
+      "assertions": 22,
+      "episodes": [
+        "list-jumps",
+        "panel-focus",
+        "gui-jump-to-oldest",
+        "focus-main",
+        "file-tree-navigation",
+        "commit-page-navigation",
+        "screen-modes"
+      ]
+    },
+    "patch": {
+      "assertions": 9,
+      "episodes": [
+        "custom-patch-actions",
+        "custom-patch-reapply"
+      ]
+    },
+    "rebase": {
+      "assertions": 44,
+      "episodes": [
+        "rebase-todo-keys",
+        "rebase-abort",
+        "mark-base",
+        "rebase-branch",
+        "gui-rebase-interactive-branch",
+        "gui-rebase-fixup",
+        "gui-rebase-onto",
+        "gui-rebase-start",
+        "gui-rebase-drop",
+        "gui-rebase-squash",
+        "gui-rebase-abort",
+        "todo-pick",
+        "todo-reorder"
+      ]
+    },
+    "reflog": {
+      "assertions": 11,
+      "episodes": [
+        "reflog-reset",
+        "reflog-detach",
+        "gui-reflog-checkout",
+        "gui-reflog-reset"
+      ]
+    },
+    "remotes": {
+      "assertions": 11,
+      "episodes": [
+        "remote-popups",
+        "remote-delete",
+        "gui-remote-branch-delete",
+        "gui-add-remote"
+      ]
+    },
+    "search": {
+      "assertions": 29,
+      "episodes": [
+        "filter-search",
+        "filter-panels",
+        "gui-filter-files",
+        "gui-search-commits",
+        "search-matches",
+        "gui-search-next-match"
+      ]
+    },
+    "staging": {
+      "assertions": 27,
+      "episodes": [
+        "stage-unstage",
+        "gui-stage-file",
+        "diff-staging",
+        "gui-stage-hunk",
+        "staging-kinds",
+        "staging-range",
+        "gui-stage-line",
+        "gui-stage-range",
+        "gui-stage-dir"
+      ]
+    },
+    "startup": {
+      "assertions": 5,
+      "episodes": [
+        "initial-empty"
+      ]
+    },
+    "stash": {
+      "assertions": 41,
+      "episodes": [
+        "gui-stash-all",
+        "gui-stash-pop",
+        "stash-variants",
+        "gui-stash-files",
+        "stash-file-checkout",
+        "gui-stash-keep-index",
+        "gui-stash-untracked",
+        "gui-stash-apply",
+        "gui-stash-drop",
+        "gui-stash-branch",
+        "gui-rename-stash",
+        "gui-stash-staged"
+      ]
+    },
+    "state": {
+      "assertions": 4,
+      "episodes": [
+        "state-file",
+        "command-log-state"
+      ]
+    },
+    "submodules": {
+      "assertions": 17,
+      "episodes": [
+        "submodules",
+        "gui-submodule",
+        "submodule-management",
+        "submodule-update"
+      ]
+    },
+    "sync": {
+      "assertions": 27,
+      "episodes": [
+        "sync",
+        "sync-more",
+        "force-push",
+        "gui-upstream-hard-reset",
+        "gui-force-push",
+        "gui-pull",
+        "gui-push-new-upstream",
+        "gui-fetch",
+        "gui-fast-forward"
+      ]
+    },
+    "tags": {
+      "assertions": 27,
+      "episodes": [
+        "tags-force",
+        "tag-push",
+        "gui-tag-push",
+        "gui-tag-commits",
+        "tag-prompt",
+        "gui-tag-delete",
+        "gui-tag-checkout",
+        "gui-tag-from-tab",
+        "tag-annotation",
+        "tag-delete-remote"
+      ]
+    },
+    "undo": {
+      "assertions": 16,
+      "episodes": [
+        "undo-redo-drop",
+        "undo-redo-reset",
+        "undo-redo-checkout"
+      ]
+    },
+    "worktrees": {
+      "assertions": 13,
+      "episodes": [
+        "worktree-popups",
+        "gui-worktree-remove",
+        "gui-worktree-create",
+        "worktree-management"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

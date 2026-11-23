@@ -1,0 +1,638 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "aria": "Toggle explorer",
+      "bounds": [
+        4,
+        4,
+        38,
+        36
+      ],
+      "ref": "ec7f51653",
+      "tag": "button",
+      "title": "Toggle explorer"
+    },
+    {
+      "aria": "Toggle side bar",
+      "bounds": [
+        958,
+        4,
+        38,
+        36
+      ],
+      "ref": "ea06d0b6b",
+      "tag": "button",
+      "title": "Toggle side bar"
+    },
+    {
+      "bounds": [
+        716,
+        4,
+        146,
+        36
+      ],
+      "label": "Welcome file",
+      "ref": "ea114dae2",
+      "tag": "input",
+      "type": "text",
+      "value": "Welcome file"
+    },
+    {
+      "aria": "Synchronize now",
+      "bounds": [
+        871,
+        4,
+        34,
+        36
+      ],
+      "disabled": true,
+      "ref": "e480c8073",
+      "tag": "button",
+      "title": "Synchronize now"
+    },
+    {
+      "aria": "Publish now",
+      "bounds": [
+        915,
+        4,
+        34,
+        36
+      ],
+      "disabled": true,
+      "ref": "e2878dba3",
+      "tag": "button",
+      "title": "Publish now"
+    },
+    {
+      "aria": "Undo",
+      "bounds": [
+        54,
+        4,
+        34,
+        36
+      ],
+      "ref": "ed972f7af",
+      "tag": "button",
+      "title": "Undo"
+    },
+    {
+      "aria": "Redo",
+      "bounds": [
+        88,
+        4,
+        34,
+        36
+      ],
+      "disabled": true,
+      "ref": "ed30b390f",
+      "tag": "button",
+      "title": "Redo"
+    },
+    {
+      "aria": "Bold – Ctrl+Shift+B",
+      "bounds": [
+        130,
+        4,
+        34,
+        36
+      ],
+      "ref": "ea31dff83",
+      "tag": "button",
+      "title": "Bold – Ctrl+Shift+B"
+    },
+    {
+      "aria": "Italic – Ctrl+Shift+I",
+      "bounds": [
+        164,
+        4,
+        34,
+        36
+      ],
+      "ref": "ece8e9a2b",
+      "tag": "button",
+      "title": "Italic – Ctrl+Shift+I"
+    },
+    {
+      "aria": "Heading – Ctrl+Shift+H",
+      "bounds": [
+        198,
+        4,
+        34,
+        36
+      ],
+      "ref": "ee31adf97",
+      "tag": "button",
+      "title": "Heading – Ctrl+Shift+H"
+    },
+    {
+      "aria": "Strikethrough – Ctrl+Shift+S",
+      "bounds": [
+        232,
+        4,
+        34,
+        36
+      ],
+      "ref": "e504de92f",
+      "tag": "button",
+      "title": "Strikethrough – Ctrl+Shift+S"
+    },
+    {
+      "aria": "Unordered list – Ctrl+Shift+U",
+      "bounds": [
+        274,
+        4,
+        34,
+        36
+      ],
+      "ref": "e085fcfef",
+      "tag": "button",
+      "title": "Unordered list – Ctrl+Shift+U"
+    },
+    {
+      "aria": "Ordered list – Ctrl+Shift+O",
+      "bounds": [
+        308,
+        4,
+        34,
+        36
+      ],
+      "ref": "ef710c88b",
+      "tag": "button",
+      "title": "Ordered list – Ctrl+Shift+O"
+    },
+    {
+      "aria": "Check list – Ctrl+Shift+C",
+      "bounds": [
+        342,
+        4,
+        34,
+        36
+      ],
+      "ref": "e6821dd9b",
+      "tag": "button",
+      "title": "Check list – Ctrl+Shift+C"
+    },
+    {
+      "aria": "Blockquote – Ctrl+Shift+Q",
+      "bounds": [
+        384,
+        4,
+        34,
+        36
+      ],
+      "ref": "ee12273bf",
+      "tag": "button",
+      "title": "Blockquote – Ctrl+Shift+Q"
+    },
+    {
+      "aria": "Code – Ctrl+Shift+K",
+      "bounds": [
+        418,
+        4,
+        34,
+        36
+      ],
+      "ref": "e369da927",
+      "tag": "button",
+      "title": "Code – Ctrl+Shift+K"
+    },
+    {
+      "aria": "Table – Ctrl+Shift+T",
+      "bounds": [
+        452,
+        4,
+        34,
+        36
+      ],
+      "ref": "efe77f797",
+      "tag": "button",
+      "title": "Table – Ctrl+Shift+T"
+    },
+    {
+      "aria": "Link – Ctrl+Shift+L",
+      "bounds": [
+        486,
+        4,
+        34,
+        36
+      ],
+      "ref": "ea7c140a7",
+      "tag": "button",
+      "title": "Link – Ctrl+Shift+L"
+    },
+    {
+      "aria": "Image – Ctrl+Shift+G",
+      "bounds": [
+        520,
+        4,
+        34,
+        36
+      ],
+      "ref": "eedcb6ccf",
+      "tag": "button",
+      "title": "Image – Ctrl+Shift+G"
+    },
+    {
+      "bounds": [
+        0,
+        44,
+        487,
+        513
+      ],
+      "editable": true,
+      "ref": "ec6631218",
+      "tag": "pre",
+      "text": "Harbor notes A short document.",
+      "value": "Harbor notes\n\nA short document.\n",
+      "value_truncated": false
+    },
+    {
+      "aria": "Toggle navigation bar",
+      "bounds": [
+        487,
+        47,
+        26,
+        26
+      ],
+      "ref": "e98fccd07",
+      "tag": "button",
+      "title": "Toggle navigation bar"
+    },
+    {
+      "aria": "Toggle side preview",
+      "bounds": [
+        487,
+        76,
+        26,
+        26
+      ],
+      "ref": "e594daaff",
+      "tag": "button",
+      "title": "Toggle side preview"
+    },
+    {
+      "aria": "Reader mode",
+      "bounds": [
+        487,
+        105,
+        26,
+        26
+      ],
+      "ref": "e2b927937",
+      "tag": "button",
+      "title": "Reader mode"
+    },
+    {
+      "aria": "Toggle focus mode",
+      "bounds": [
+        487,
+        793,
+        26,
+        26
+      ],
+      "ref": "eedaa47cb",
+      "tag": "button",
+      "title": "Toggle focus mode"
+    },
+    {
+      "aria": "Toggle scroll sync",
+      "bounds": [
+        487,
+        822,
+        26,
+        26
+      ],
+      "ref": "ed740000f",
+      "tag": "button",
+      "title": "Toggle scroll sync"
+    },
+    {
+      "aria": "Toggle status bar",
+      "bounds": [
+        487,
+        851,
+        26,
+        26
+      ],
+      "ref": "eac7847f7",
+      "tag": "button",
+      "title": "Toggle status bar"
+    },
+    {
+      "aria": "Close side bar",
+      "bounds": [
+        1238,
+        4,
+        38,
+        36
+      ],
+      "ref": "ee7c9cd2f",
+      "tag": "button",
+      "title": "Close side bar"
+    },
+    {
+      "bounds": [
+        1010,
+        100,
+        260,
+        75
+      ],
+      "ref": "e2a1273a0",
+      "tag": "a",
+      "text": "Sign in with Google Sync your main workspace and unlock functionalities."
+    },
+    {
+      "bounds": [
+        1010,
+        175,
+        260,
+        59
+      ],
+      "ref": "e28ef6723",
+      "tag": "a",
+      "text": "1 Workspaces Switch to another workspace."
+    },
+    {
+      "bounds": [
+        1010,
+        255,
+        260,
+        59
+      ],
+      "ref": "ea4664127",
+      "tag": "a",
+      "text": "Synchronize Sync your files in the Cloud."
+    },
+    {
+      "bounds": [
+        1010,
+        315,
+        260,
+        59
+      ],
+      "ref": "e36ab2c16",
+      "tag": "a",
+      "text": "Publish Export your files to the web."
+    },
+    {
+      "bounds": [
+        1010,
+        374,
+        260,
+        59
+      ],
+      "ref": "ec5eeb6a3",
+      "tag": "a",
+      "text": "History Track and restore file revisions."
+    },
+    {
+      "bounds": [
+        1010,
+        434,
+        260,
+        75
+      ],
+      "ref": "ed5ac8829",
+      "tag": "a",
+      "text": "File properties Add metadata and configure extensions."
+    },
+    {
+      "bounds": [
+        1010,
+        530,
+        260,
+        44
+      ],
+      "ref": "e0fe426bc",
+      "tag": "a",
+      "text": "Table of contents"
+    },
+    {
+      "bounds": [
+        1010,
+        573,
+        260,
+        44
+      ],
+      "ref": "eb1ee917c",
+      "tag": "a",
+      "text": "Markdown cheat sheet"
+    },
+    {
+      "bounds": [
+        1010,
+        638,
+        260,
+        44
+      ],
+      "ref": "e30682a01",
+      "tag": "a",
+      "text": "Import/export"
+    },
+    {
+      "bounds": [
+        1010,
+        682,
+        260,
+        44
+      ],
+      "ref": "ea416aa86",
+      "tag": "a",
+      "text": "Print"
+    },
+    {
+      "bounds": [
+        1010,
+        747,
+        260,
+        75
+      ],
+      "ref": "e404a4a1b",
+      "tag": "a",
+      "text": "2/93 Badges List application features and earned badges."
+    },
+    {
+      "bounds": [
+        1010,
+        822,
+        260,
+        75
+      ],
+      "ref": "e2b113931",
+      "tag": "a",
+      "text": "0 Accounts Manage access to your external accounts."
+    },
+    {
+      "bounds": [
+        1010,
+        897,
+        260,
+        3
+      ],
+      "ref": "ed99311bf",
+      "tag": "a",
+      "text": "5 Templates Configure Handlebars templates for your exports."
+    },
+    {
+      "aria": "Close modal",
+      "bounds": [
+        850,
+        48,
+        32,
+        32
+      ],
+      "ref": "e6ad5941f",
+      "tag": "button",
+      "title": "Close modal"
+    },
+    {
+      "bounds": [
+        440,
+        90,
+        200,
+        50
+      ],
+      "ref": "e5b29b9dc",
+      "role": "tab",
+      "tag": "div",
+      "text": "Simple properties"
+    },
+    {
+      "bounds": [
+        640,
+        90,
+        200,
+        50
+      ],
+      "ref": "e5522280f",
+      "role": "tab",
+      "tag": "div",
+      "text": "YAML properties"
+    },
+    {
+      "bounds": [
+        441,
+        284,
+        398,
+        38
+      ],
+      "label": "Preset",
+      "options": [
+        {
+          "label": "commonmark",
+          "selected": false,
+          "value": "commonmark"
+        },
+        {
+          "label": "default",
+          "selected": true,
+          "value": "default"
+        },
+        {
+          "label": "gfm",
+          "selected": false,
+          "value": "gfm"
+        },
+        {
+          "label": "zero",
+          "selected": false,
+          "value": "zero"
+        }
+      ],
+      "ref": "e6fee15ed",
+      "tag": "select",
+      "value": "default"
+    },
+    {
+      "bounds": [
+        441,
+        466,
+        398,
+        38
+      ],
+      "label": "Title",
+      "ref": "e71ed2e0e",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        441,
+        546,
+        398,
+        38
+      ],
+      "label": "Author",
+      "ref": "e5b42bb55",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        441,
+        627,
+        398,
+        38
+      ],
+      "label": "Tags — comma-separated",
+      "ref": "e2d4e6a48",
+      "tag": "input",
+      "type": "text",
+      "value": "harbor, tide"
+    },
+    {
+      "bounds": [
+        441,
+        707,
+        398,
+        38
+      ],
+      "label": "Categories — comma-separated",
+      "ref": "e3015f59b",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        441,
+        788,
+        398,
+        38
+      ],
+      "label": "Excerpt",
+      "ref": "effcad87b",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        441,
+        868,
+        398,
+        32
+      ],
+      "label": "Featured image",
+      "ref": "e754861f1",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "drawing": [],
+  "drawing_truncated": false,
+  "text": "Harbor notes\nA short document.\nMarkdown\n32\nbytes\n5\nwords\n3\nlines\nLn 3, Col 17\nHTML\n26\ncharacters\n5\nwords\n2\nparagraphs\nMenu\nMain workspace\nnot synced.\nExtensions\nConfigure the Markdown engine.\nPreset\nMetadata\nAdd info to your publications (Wordpress, Blogger...).\nTitle\nAuthor\nTags\n— comma-separated\nCategories\n— comma-separated\nExcerpt\nFeatured image",
+  "text_truncated": false,
+  "title": "StackEdit",
+  "url": "/",
+  "viewport": [
+    1280,
+    900
+  ]
+}

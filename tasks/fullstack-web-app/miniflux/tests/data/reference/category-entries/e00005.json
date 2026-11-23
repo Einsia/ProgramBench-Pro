@@ -1,0 +1,298 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        559,
+        -44,
+        162,
+        36
+      ],
+      "href": "/category/4/feeds#main",
+      "offscreen": true,
+      "ref": "e395",
+      "role": null,
+      "tag": "a",
+      "text": "Skip to content"
+    },
+    {
+      "aria": "Home page",
+      "bounds": [
+        193,
+        10,
+        77,
+        19
+      ],
+      "href": "/unread",
+      "ref": "e396",
+      "role": null,
+      "tag": "a",
+      "text": "Mini\nflux"
+    },
+    {
+      "aria": "Unread, 3 unread entries",
+      "bounds": [
+        278,
+        12,
+        102,
+        16
+      ],
+      "href": "/unread",
+      "ref": "e397",
+      "role": null,
+      "tag": "a",
+      "text": "Unread (3)"
+    },
+    {
+      "bounds": [
+        395,
+        12,
+        78,
+        16
+      ],
+      "href": "/starred",
+      "ref": "e398",
+      "role": null,
+      "tag": "a",
+      "text": "Starred"
+    },
+    {
+      "bounds": [
+        488,
+        12,
+        78,
+        16
+      ],
+      "href": "/history",
+      "ref": "e399",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        581,
+        12,
+        70,
+        16
+      ],
+      "href": "/feeds",
+      "ref": "e400",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "aria": "Add feed",
+      "bounds": [
+        650,
+        12,
+        26,
+        16
+      ],
+      "href": "/subscribe",
+      "ref": "e401",
+      "role": null,
+      "tag": "a",
+      "text": "(+)",
+      "title": "Keyboard Shortcut: +"
+    },
+    {
+      "bounds": [
+        691,
+        12,
+        104,
+        16
+      ],
+      "href": "/categories",
+      "ref": "e402",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        810,
+        12,
+        70,
+        16
+      ],
+      "href": "/search",
+      "ref": "e403",
+      "role": null,
+      "tag": "a",
+      "text": "Search"
+    },
+    {
+      "bounds": [
+        894,
+        12,
+        87,
+        16
+      ],
+      "href": "/settings",
+      "ref": "e404",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        996,
+        10,
+        70,
+        18
+      ],
+      "ref": "e405",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "title": "Logged in as alice"
+    },
+    {
+      "bounds": [
+        193,
+        82,
+        85,
+        18
+      ],
+      "href": "/category/4/entries",
+      "ref": "e406",
+      "role": null,
+      "tag": "a",
+      "text": "Entries"
+    },
+    {
+      "bounds": [
+        303,
+        82,
+        56,
+        18
+      ],
+      "href": "/category/4/edit",
+      "ref": "e407",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        384,
+        81,
+        270,
+        18
+      ],
+      "ref": "e408",
+      "role": null,
+      "tag": "button",
+      "text": "Refresh all feeds in the background"
+    },
+    {
+      "bounds": [
+        199,
+        122,
+        96,
+        18
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e409",
+      "role": null,
+      "tag": "a",
+      "text": "Work Feed"
+    },
+    {
+      "aria": "Category: Work",
+      "bounds": [
+        400,
+        125,
+        29,
+        14
+      ],
+      "href": "/category/4/entries",
+      "ref": "e410",
+      "role": null,
+      "tag": "a",
+      "text": "Work"
+    },
+    {
+      "bounds": [
+        199,
+        146,
+        65,
+        12
+      ],
+      "href": "[external]",
+      "ref": "e411",
+      "role": null,
+      "tag": "a",
+      "text": "work.test",
+      "title": "http://work.test/"
+    },
+    {
+      "bounds": [
+        199,
+        167,
+        65,
+        16
+      ],
+      "ref": "e412",
+      "role": null,
+      "tag": "button",
+      "text": "Refresh"
+    },
+    {
+      "bounds": [
+        280,
+        169,
+        51,
+        15
+      ],
+      "href": "/feed/1/edit",
+      "ref": "e413",
+      "role": null,
+      "tag": "a",
+      "text": "Edit"
+    },
+    {
+      "bounds": [
+        346,
+        167,
+        68,
+        16
+      ],
+      "ref": "e414",
+      "role": null,
+      "tag": "button",
+      "text": "Remove"
+    },
+    {
+      "bounds": [
+        429,
+        167,
+        111,
+        16
+      ],
+      "ref": "e415",
+      "role": null,
+      "tag": "button",
+      "text": "Mark all as read"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Skip to content\nMini\nflux\nUnread (3) Starred History Feeds (+) Categories Search Settings Logout\nWork > Feeds (1)\nThere is 1 feed.\nEntries Edit \nRefresh all feeds in the background\nWork Feed ( \n2 unread entries\n2 / \n2 entries in total\n2 ) Work\nwork.test  Last check: just now\nRefresh Edit Remove Mark all as read",
+  "text_truncated": false,
+  "title": "Work > Feeds (1) - Miniflux",
+  "url": "/category/4/feeds",
+  "viewport": [
+    1280,
+    900
+  ]
+}

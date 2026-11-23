@@ -1,0 +1,141 @@
+{
+  "cursor": {
+    "column": 0,
+    "hidden": true,
+    "row": 0
+  },
+  "process": "running",
+  "screen": [
+    "00|Newsboat 2.45.0 - Help",
+    "01|<ENTER>         open                    Open feed/article",
+    "02|q               quit                    Return to previous dialog/Quit",
+    "03|Q               hard-quit               Quit program, no confirmation",
+    "04|r               reload                  Reload currently selected feed",
+    "05|R               reload-all              Reload all feeds",
+    "06|A               mark-feed-read          Mark feed read",
+    "07|C               mark-all-feeds-read     Mark all feeds read",
+    "08|J               next                    Go to next entry",
+    "09|K               prev                    Go to previous entry",
+    "10|n               next-unread             Go to next unread article",
+    "11|p               prev-unread             Go to previous unread article",
+    "12|^K              random-unread           Go to a random unread article",
+    "13|o               open-in-browser         Open URL of article, feed, or entry in URL view",
+    "14|?               help                    Open help dialog",
+    "15|l               toggle-show-read-feeds  Toggle show read feeds/articles",
+    "16|^T              clear-tag               Clear current tag",
+    "17|t               set-tag                 Select tag",
+    "18|/               open-search             Open search dialog",
+    "19|^R              reload-urls             Reload the list of URLs from the configuration",
+    "20|^L              redraw                  Redraw screen",
+    "21|:               cmdline                 Open the commandline",
+    "22|F               set-filter              Set a filter",
+    "23|f               select-filter           Select a predefined filter",
+    "24|^F              clear-filter            Clear currently set filter",
+    "25|,               macro-prefix            Call a macro",
+    "26|E               edit-urls               Edit subscribed URLs",
+    "27|v               view-dialogs            View list of open dialogs",
+    "28|^V              next-dialog             Go to next dialog",
+    "29|^G              prev-dialog             Go to previous dialog",
+    "30|g               sort                    Sort current list",
+    "31|G               rev-sort                Sort current list (reverse)",
+    "32|1               cmd-one                 Start cmdline with 1",
+    "33|2               cmd-two                 Start cmdline with 2",
+    "34|q:Quit /:Search",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": "Newsboat 2.45.0 - Help                                                                                                  "
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": "q"
+    },
+    {
+      "columns": [
+        1,
+        2
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        2,
+        6
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Quit"
+    },
+    {
+      "columns": [
+        6,
+        8
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": " /"
+    },
+    {
+      "columns": [
+        8,
+        9
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        9,
+        15
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Search"
+    }
+  ]
+}

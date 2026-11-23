@@ -1,0 +1,816 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        260,
+        8,
+        48,
+        48
+      ],
+      "ref": "e3565697427",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        308,
+        8,
+        956,
+        48
+      ],
+      "expanded": false,
+      "ref": "e3932625320",
+      "role": "combobox",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "bounds": [
+        348,
+        16,
+        900,
+        32
+      ],
+      "placeholder": "Search",
+      "ref": "e3492990951",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        8,
+        73,
+        240,
+        40
+      ],
+      "href": "/dashboard",
+      "ref": "e4053023811",
+      "role": null,
+      "tag": "a",
+      "text": "Home"
+    },
+    {
+      "bounds": [
+        8,
+        117,
+        240,
+        40
+      ],
+      "href": "/libraries/all",
+      "ref": "e2922887771",
+      "role": null,
+      "tag": "a",
+      "text": "Libraries"
+    },
+    {
+      "bounds": [
+        168,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3616030284",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        204,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3666363141",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        161,
+        240,
+        40
+      ],
+      "href": "/libraries/0S3GGPB95TMP6",
+      "ref": "e358385297",
+      "role": null,
+      "tag": "a",
+      "text": "Comics"
+    },
+    {
+      "bounds": [
+        204,
+        163,
+        36,
+        36
+      ],
+      "ref": "e3699918379",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        205,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e1184854462",
+      "role": "button",
+      "tag": "div",
+      "text": "Import"
+    },
+    {
+      "bounds": [
+        8,
+        245,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e2070932497",
+      "role": "button",
+      "tag": "div",
+      "text": "Media"
+    },
+    {
+      "bounds": [
+        8,
+        285,
+        240,
+        40
+      ],
+      "href": "/history",
+      "ref": "e3700334507",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        8,
+        329,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e3104230938",
+      "role": "button",
+      "tag": "div",
+      "text": "Server"
+    },
+    {
+      "bounds": [
+        8,
+        369,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e1456337507",
+      "role": "button",
+      "tag": "div",
+      "text": "My Account"
+    },
+    {
+      "bounds": [
+        8,
+        453,
+        240,
+        40
+      ],
+      "href": "/next",
+      "ref": "e108006909",
+      "role": null,
+      "tag": "a",
+      "text": "Try the new UI"
+    },
+    {
+      "bounds": [
+        72,
+        530,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e3679130362",
+      "role": "button",
+      "tag": "div",
+      "text": "Theme\nSystem"
+    },
+    {
+      "bounds": [
+        129,
+        530,
+        83,
+        26
+      ],
+      "label": "Theme",
+      "ref": "e2293683443",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        72,
+        594,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e918547495",
+      "role": "button",
+      "tag": "div",
+      "text": "Translation\nEnglish"
+    },
+    {
+      "bounds": [
+        128,
+        594,
+        84,
+        26
+      ],
+      "label": "Translation",
+      "ref": "e965999643",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        604,
+        78,
+        86,
+        36
+      ],
+      "href": "/libraries/all/series",
+      "ref": "e500207629",
+      "role": null,
+      "tag": "a",
+      "text": "SERIES"
+    },
+    {
+      "bounds": [
+        697,
+        78,
+        86,
+        36
+      ],
+      "href": "/libraries/all/books",
+      "ref": "e1890257787",
+      "role": null,
+      "tag": "a",
+      "text": "BOOKS"
+    },
+    {
+      "bounds": [
+        791,
+        78,
+        140,
+        36
+      ],
+      "href": "/libraries/all/collections",
+      "ref": "e3141257572",
+      "role": null,
+      "tag": "a",
+      "text": "COLLECTIONS"
+    },
+    {
+      "bounds": [
+        939,
+        78,
+        121,
+        36
+      ],
+      "href": "/libraries/all/readlists",
+      "ref": "e483480077",
+      "role": null,
+      "tag": "a",
+      "text": "READ LISTS"
+    },
+    {
+      "bounds": [
+        1180,
+        72,
+        48,
+        48
+      ],
+      "ref": "e1115114814",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1228,
+        72,
+        48,
+        48
+      ],
+      "ref": "e1165447671",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        376,
+        140,
+        28,
+        28
+      ],
+      "ref": "e3968817607",
+      "role": null,
+      "tag": "button",
+      "text": "ALL",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        404,
+        140,
+        28,
+        28
+      ],
+      "disabled": true,
+      "ref": "e2944025376",
+      "role": null,
+      "tag": "button",
+      "text": "#",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        432,
+        140,
+        28,
+        28
+      ],
+      "ref": "e4239154749",
+      "role": null,
+      "tag": "button",
+      "text": "A",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        460,
+        140,
+        28,
+        28
+      ],
+      "ref": "e981713691",
+      "role": null,
+      "tag": "button",
+      "text": "B",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        488,
+        140,
+        28,
+        28
+      ],
+      "ref": "e3246027165",
+      "role": null,
+      "tag": "button",
+      "text": "C",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        516,
+        140,
+        28,
+        28
+      ],
+      "ref": "e2119025676",
+      "role": null,
+      "tag": "button",
+      "text": "D",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        544,
+        140,
+        28,
+        28
+      ],
+      "ref": "e3437466514",
+      "role": null,
+      "tag": "button",
+      "text": "E",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        572,
+        140,
+        28,
+        28
+      ],
+      "ref": "e2608372120",
+      "role": null,
+      "tag": "button",
+      "text": "F",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        600,
+        140,
+        28,
+        28
+      ],
+      "disabled": true,
+      "ref": "e1999093106",
+      "role": null,
+      "tag": "button",
+      "text": "G",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        628,
+        140,
+        28,
+        28
+      ],
+      "disabled": true,
+      "ref": "e2251906380",
+      "role": null,
+      "tag": "button",
+      "text": "H",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        656,
+        140,
+        28,
+        28
+      ],
+      "disabled": true,
+      "ref": "e3570347218",
+      "role": null,
+      "tag": "button",
+      "text": "I",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        684,
+        140,
+        28,
+        28
+      ],
+      "disabled": true,
+      "ref": "e2627820224",
+      "role": null,
+      "tag": "button",
+      "text": "J",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        712,
+        140,
+        28,
+        28
+      ],
+      "disabled": true,
+      "ref": "e2137196690",
+      "role": null,
+      "tag": "button",
+      "text": "K",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        740,
+        140,
+        28,
+        28
+      ],
+      "disabled": true,
+      "ref": "e1394721196",
+      "role": null,
+      "tag": "button",
+      "text": "L",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        768,
+        140,
+        28,
+        28
+      ],
+      "disabled": true,
+      "ref": "e990084274",
+      "role": null,
+      "tag": "button",
+      "text": "M",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        796,
+        140,
+        28,
+        28
+      ],
+      "disabled": true,
+      "ref": "e4119669321",
+      "role": null,
+      "tag": "button",
+      "text": "N",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        824,
+        140,
+        28,
+        28
+      ],
+      "disabled": true,
+      "ref": "e3817212971",
+      "role": null,
+      "tag": "button",
+      "text": "O",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        852,
+        140,
+        28,
+        28
+      ],
+      "disabled": true,
+      "ref": "e3952786237",
+      "role": null,
+      "tag": "button",
+      "text": "P",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        880,
+        140,
+        28,
+        28
+      ],
+      "disabled": true,
+      "ref": "e3333756811",
+      "role": null,
+      "tag": "button",
+      "text": "Q",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        908,
+        140,
+        28,
+        28
+      ],
+      "disabled": true,
+      "ref": "e2269481561",
+      "role": null,
+      "tag": "button",
+      "text": "R",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        936,
+        140,
+        28,
+        28
+      ],
+      "disabled": true,
+      "ref": "e4109337563",
+      "role": null,
+      "tag": "button",
+      "text": "S",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        964,
+        140,
+        28,
+        28
+      ],
+      "disabled": true,
+      "ref": "e834359557",
+      "role": null,
+      "tag": "button",
+      "text": "T",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        992,
+        140,
+        28,
+        28
+      ],
+      "disabled": true,
+      "ref": "e172747163",
+      "role": null,
+      "tag": "button",
+      "text": "U",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1020,
+        140,
+        28,
+        28
+      ],
+      "disabled": true,
+      "ref": "e3403439209",
+      "role": null,
+      "tag": "button",
+      "text": "V",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1048,
+        140,
+        28,
+        28
+      ],
+      "disabled": true,
+      "ref": "e2827421243",
+      "role": null,
+      "tag": "button",
+      "text": "W",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1076,
+        140,
+        28,
+        28
+      ],
+      "disabled": true,
+      "ref": "e968373094",
+      "role": null,
+      "tag": "button",
+      "text": "X",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1104,
+        140,
+        28,
+        28
+      ],
+      "disabled": true,
+      "ref": "e2307602284",
+      "role": null,
+      "tag": "button",
+      "text": "Y",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1132,
+        140,
+        28,
+        28
+      ],
+      "disabled": true,
+      "ref": "e4251140474",
+      "role": null,
+      "tag": "button",
+      "text": "Z",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        276,
+        388,
+        150,
+        56
+      ],
+      "href": "/series/0S3GGPBDNTRDR",
+      "ref": "e210593488",
+      "role": null,
+      "tag": "a",
+      "text": "Atlas"
+    },
+    {
+      "bounds": [
+        442,
+        388,
+        150,
+        56
+      ],
+      "href": "/series/0S3GGPBD5TJ5X",
+      "ref": "e204370472",
+      "role": null,
+      "tag": "a",
+      "text": "Beacon"
+    },
+    {
+      "bounds": [
+        608,
+        388,
+        150,
+        56
+      ],
+      "href": "/series/0S3GGPBDXTYP3",
+      "ref": "e3770094300",
+      "role": null,
+      "tag": "a",
+      "text": "Café 漫画"
+    },
+    {
+      "bounds": [
+        774,
+        388,
+        150,
+        56
+      ],
+      "href": "/series/0S3GGPBDSTTFQ",
+      "ref": "e1927500774",
+      "role": null,
+      "tag": "a",
+      "text": "Delta"
+    },
+    {
+      "bounds": [
+        940,
+        388,
+        150,
+        56
+      ],
+      "href": "/series/0S3GGPBDNTRDM",
+      "ref": "e1395462915",
+      "role": null,
+      "tag": "a",
+      "text": "Evergreen"
+    },
+    {
+      "bounds": [
+        1106,
+        388,
+        150,
+        56
+      ],
+      "href": "/series/0S3GGPBDHTMZ9",
+      "ref": "e2318703899",
+      "role": null,
+      "tag": "a",
+      "text": "Folio"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Komga\nHome\nLibraries\nComics\nImport\nMedia\nHistory\nServer\nMy Account\nLog Out\nTry the new UI\nTheme\nSystem\nTranslation\nEnglish\nPinned Libraries\n6\nSERIES\nBOOKS\nCOLLECTIONS\nREAD LISTS\nALL\n#\nA\nB\nC\nD\nE\nF\nG\nH\nI\nJ\nK\nL\nM\nN\nO\nP\nQ\nR\nS\nT\nU\nV\nW\nX\nY\nZ\n3\nAtlas\n3 books\n3\nBeacon\n3 books\n3\nCafé 漫画\n3 books\n3\nDelta\n3 books\n3\nEvergreen\n3 books\n3\nFolio\n3 books",
+  "text_truncated": false,
+  "title": "Komga",
+  "url": "/libraries/all/series",
+  "viewport": [
+    1280,
+    900
+  ]
+}

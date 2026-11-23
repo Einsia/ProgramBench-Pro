@@ -1,0 +1,279 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        260,
+        8,
+        48,
+        48
+      ],
+      "ref": "e3565697427",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        308,
+        8,
+        956,
+        48
+      ],
+      "expanded": false,
+      "ref": "e3932625320",
+      "role": "combobox",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "bounds": [
+        348,
+        16,
+        900,
+        32
+      ],
+      "placeholder": "Search",
+      "ref": "e3492990951",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        8,
+        73,
+        240,
+        40
+      ],
+      "href": "/dashboard",
+      "ref": "e4053023811",
+      "role": null,
+      "tag": "a",
+      "text": "Home"
+    },
+    {
+      "bounds": [
+        8,
+        117,
+        240,
+        40
+      ],
+      "href": "/libraries/all",
+      "ref": "e2922887771",
+      "role": null,
+      "tag": "a",
+      "text": "Libraries"
+    },
+    {
+      "bounds": [
+        204,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3616030284",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        161,
+        240,
+        40
+      ],
+      "expanded": true,
+      "ref": "e1902642659",
+      "role": "button",
+      "tag": "div",
+      "text": "My Account"
+    },
+    {
+      "bounds": [
+        8,
+        205,
+        240,
+        40
+      ],
+      "href": "/account/me",
+      "ref": "e1832644104",
+      "role": null,
+      "tag": "a",
+      "text": "Details"
+    },
+    {
+      "bounds": [
+        8,
+        249,
+        240,
+        40
+      ],
+      "href": "/account/api-keys",
+      "ref": "e3434617794",
+      "role": null,
+      "tag": "a",
+      "text": "API Keys"
+    },
+    {
+      "bounds": [
+        8,
+        293,
+        240,
+        40
+      ],
+      "href": "/account/settings-ui",
+      "ref": "e3070605652",
+      "role": null,
+      "tag": "a",
+      "text": "User Interface"
+    },
+    {
+      "bounds": [
+        8,
+        337,
+        240,
+        40
+      ],
+      "href": "/account/authentication-activity",
+      "ref": "e2381268501",
+      "role": null,
+      "tag": "a",
+      "text": "Authentication Activity"
+    },
+    {
+      "bounds": [
+        8,
+        421,
+        240,
+        40
+      ],
+      "href": "/next",
+      "ref": "e24118814",
+      "role": null,
+      "tag": "a",
+      "text": "Try the new UI"
+    },
+    {
+      "bounds": [
+        72,
+        498,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e3595242267",
+      "role": "button",
+      "tag": "div",
+      "text": "Theme\nSystem"
+    },
+    {
+      "bounds": [
+        129,
+        498,
+        83,
+        26
+      ],
+      "label": "Theme",
+      "ref": "e2344016300",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        72,
+        562,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e935325114",
+      "role": "button",
+      "tag": "div",
+      "text": "Translation\nEnglish"
+    },
+    {
+      "bounds": [
+        128,
+        562,
+        84,
+        26
+      ],
+      "label": "Translation",
+      "ref": "e882111548",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1005,
+        341,
+        46,
+        32
+      ],
+      "expanded": false,
+      "ref": "e774637397",
+      "role": "button",
+      "tag": "div",
+      "text": "20"
+    },
+    {
+      "aria": "$vuetify.dataFooter.prevPage",
+      "bounds": [
+        1162,
+        339,
+        36,
+        36
+      ],
+      "disabled": true,
+      "ref": "e2614132362",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "aria": "$vuetify.dataFooter.nextPage",
+      "bounds": [
+        1212,
+        339,
+        36,
+        36
+      ],
+      "disabled": true,
+      "ref": "e3276183839",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Komga\nHome\nLibraries\nMy Account\nDetails\nAPI Keys\nUser Interface\nAuthentication Activity\nLog Out\nTry the new UI\nTheme\nSystem\nTranslation\nEnglish\nIPgroup\tUser Agentgroup\tSuccessgroup\tSourcegroup\tAPI Keygroup\tErrorgroup\tDate Time1\n127.0.0.1\tpython-httpx/0.28.1\t\tPassword\t\t\tNov 1, 2026, 10:48 AM\n127.0.0.1\tMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36\t\tPassword\t\t\tNov 1, 2026, 10:48 AM\n127.0.0.1\tMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36\t\tPassword\t\t\tNov 1, 2026, 10:48 AM\nRows per page:\n20\n1-3 of 3",
+  "text_truncated": false,
+  "title": "Komga",
+  "url": "/account/authentication-activity",
+  "viewport": [
+    1280,
+    900
+  ]
+}

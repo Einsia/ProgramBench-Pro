@@ -1,0 +1,222 @@
+{
+  "counts": {
+    "assertions": 1798,
+    "backend": 1660,
+    "checkpoints": 319,
+    "features": 18,
+    "frontend": 138,
+    "gui_episodes": 71,
+    "program_episodes": 44,
+    "episodes": 115
+  },
+  "features": {
+    "access": {
+      "assertions": 11,
+      "episodes": [
+        "api-auth"
+      ]
+    },
+    "attachments": {
+      "assertions": 21,
+      "episodes": [
+        "attach-file",
+        "attach-link-file",
+        "attach-web-link",
+        "attach-standalone-parent",
+        "attach-rename",
+        "attach-titles"
+      ]
+    },
+    "children": {
+      "assertions": 30,
+      "episodes": [
+        "api-children"
+      ]
+    },
+    "citation": {
+      "assertions": 540,
+      "episodes": [
+        "bibliography-rtf",
+        "bibliography-html",
+        "bibliography-clipboard",
+        "quick-copy",
+        "rtf-scan",
+        "report",
+        "api-cite-options",
+        "api-cite-apa",
+        "api-cite-chicago-shortened-notes-bibliography",
+        "api-cite-chicago-notes-bibliography",
+        "api-cite-chicago-author-date",
+        "api-cite-modern-language-association",
+        "api-cite-ieee",
+        "api-cite-nature",
+        "api-cite-american-medical-association",
+        "api-cite-american-chemical-society",
+        "api-cite-american-political-science-association",
+        "api-cite-american-sociological-association",
+        "api-cite-elsevier-harvard",
+        "api-cite-harvard-cite-them-right",
+        "api-cite-mhra-notes",
+        "api-cite-nlm-citation-sequence"
+      ]
+    },
+    "collections": {
+      "assertions": 69,
+      "episodes": [
+        "collection-create",
+        "collection-rename-move",
+        "collection-membership",
+        "collection-delete",
+        "collection-subitems",
+        "collection-undo",
+        "collection-trash",
+        "collection-copy",
+        "my-publications",
+        "api-collections"
+      ]
+    },
+    "export": {
+      "assertions": 491,
+      "episodes": [
+        "export-library-bibtex",
+        "export-collection-ris",
+        "export-items-csljson",
+        "export-rdf-notes",
+        "export-cff-endnote",
+        "api-export-include",
+        "api-export-bibtex",
+        "api-export-biblatex",
+        "api-export-ris",
+        "api-export-csljson",
+        "api-export-mods",
+        "api-export-refer",
+        "api-export-rdf-zotero",
+        "api-export-rdf-bibliontology",
+        "api-export-rdf-dc",
+        "api-export-tei",
+        "api-export-csv",
+        "api-export-coins",
+        "api-export-wikipedia",
+        "api-export-bookmarks"
+      ]
+    },
+    "import": {
+      "assertions": 34,
+      "episodes": [
+        "import-bibtex",
+        "import-ris",
+        "import-csljson-mods",
+        "import-medline-refer",
+        "import-clipboard",
+        "import-rdf-endnote"
+      ]
+    },
+    "items": {
+      "assertions": 206,
+      "episodes": [
+        "item-create-book",
+        "item-create-article",
+        "item-creators",
+        "item-type-change",
+        "item-text-fields",
+        "item-dates",
+        "item-duplicate",
+        "item-merge",
+        "item-related",
+        "items-edit-multiple",
+        "item-create-section",
+        "api-type-items",
+        "api-validation",
+        "api-writes"
+      ]
+    },
+    "notes": {
+      "assertions": 14,
+      "episodes": [
+        "note-child",
+        "note-standalone",
+        "note-format",
+        "export-note"
+      ]
+    },
+    "persistence": {
+      "assertions": 7,
+      "episodes": [
+        "api-persistence"
+      ]
+    },
+    "query": {
+      "assertions": 110,
+      "episodes": [
+        "api-query",
+        "api-list-options"
+      ]
+    },
+    "reader": {
+      "assertions": 27,
+      "episodes": [
+        "reader-annotate",
+        "reader-underline",
+        "reader-navigation",
+        "note-from-annotations",
+        "reader-export-pdf",
+        "reader-markup"
+      ]
+    },
+    "schema": {
+      "assertions": 90,
+      "episodes": [
+        "api-schema"
+      ]
+    },
+    "search": {
+      "assertions": 64,
+      "episodes": [
+        "search-quick",
+        "search-advanced-save",
+        "search-saved-edit",
+        "search-result-types",
+        "api-searches"
+      ]
+    },
+    "settings": {
+      "assertions": 10,
+      "episodes": [
+        "settings-file-renaming",
+        "settings-cite"
+      ]
+    },
+    "tags": {
+      "assertions": 41,
+      "episodes": [
+        "tags-item",
+        "tags-rename-delete",
+        "tags-color",
+        "tags-filter",
+        "tags-automatic",
+        "api-tags"
+      ]
+    },
+    "trash": {
+      "assertions": 22,
+      "episodes": [
+        "item-trash",
+        "item-undo",
+        "api-trash"
+      ]
+    },
+    "view": {
+      "assertions": 11,
+      "episodes": [
+        "view-columns",
+        "view-layout",
+        "settings-item-pane",
+        "views-unfiled",
+        "view-density-note-font"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

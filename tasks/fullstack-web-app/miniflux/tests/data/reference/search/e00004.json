@@ -1,0 +1,308 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        559,
+        -44,
+        162,
+        36
+      ],
+      "href": "/search?q=quantum&unread=1#main",
+      "offscreen": true,
+      "ref": "e443",
+      "role": null,
+      "tag": "a",
+      "text": "Skip to content"
+    },
+    {
+      "aria": "Home page",
+      "bounds": [
+        193,
+        10,
+        77,
+        19
+      ],
+      "href": "/unread",
+      "ref": "e444",
+      "role": null,
+      "tag": "a",
+      "text": "Mini\nflux"
+    },
+    {
+      "aria": "Unread, 2 unread entries",
+      "bounds": [
+        278,
+        12,
+        102,
+        16
+      ],
+      "href": "/unread",
+      "ref": "e445",
+      "role": null,
+      "tag": "a",
+      "text": "Unread (2)"
+    },
+    {
+      "bounds": [
+        395,
+        12,
+        78,
+        16
+      ],
+      "href": "/starred",
+      "ref": "e446",
+      "role": null,
+      "tag": "a",
+      "text": "Starred"
+    },
+    {
+      "bounds": [
+        488,
+        12,
+        78,
+        16
+      ],
+      "href": "/history",
+      "ref": "e447",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        581,
+        12,
+        70,
+        16
+      ],
+      "href": "/feeds",
+      "ref": "e448",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "aria": "Add feed",
+      "bounds": [
+        650,
+        12,
+        26,
+        16
+      ],
+      "href": "/subscribe",
+      "ref": "e449",
+      "role": null,
+      "tag": "a",
+      "text": "(+)",
+      "title": "Keyboard Shortcut: +"
+    },
+    {
+      "bounds": [
+        691,
+        12,
+        104,
+        16
+      ],
+      "href": "/categories",
+      "ref": "e450",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        810,
+        12,
+        70,
+        16
+      ],
+      "href": "/search",
+      "ref": "e451",
+      "role": null,
+      "tag": "a",
+      "text": "Search"
+    },
+    {
+      "bounds": [
+        894,
+        12,
+        87,
+        16
+      ],
+      "href": "/settings",
+      "ref": "e452",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        996,
+        10,
+        70,
+        18
+      ],
+      "ref": "e453",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "title": "Logged in as alice"
+    },
+    {
+      "aria": "Search",
+      "bounds": [
+        193,
+        88,
+        250,
+        28
+      ],
+      "name": "q",
+      "placeholder": "Search…",
+      "ref": "e454",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "search",
+      "value": "quantum"
+    },
+    {
+      "bounds": [
+        455,
+        87,
+        78,
+        29
+      ],
+      "ref": "e455",
+      "role": null,
+      "tag": "button",
+      "text": "Search"
+    },
+    {
+      "bounds": [
+        193,
+        125,
+        13,
+        13
+      ],
+      "checked": true,
+      "label": "Show only unread entries",
+      "name": "unread",
+      "ref": "e456",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        199,
+        174,
+        240,
+        18
+      ],
+      "href": "/search/entry/3?q=quantum&unread=1",
+      "ref": "e457",
+      "role": null,
+      "tag": "a",
+      "text": "Lab Notes\nQuantum computing basics"
+    },
+    {
+      "bounds": [
+        448,
+        177,
+        22,
+        14
+      ],
+      "href": "/category/1/entries",
+      "ref": "e458",
+      "role": null,
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        199,
+        198,
+        59,
+        12
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e459",
+      "role": null,
+      "tag": "a",
+      "text": "Lab Notes",
+      "title": "http://lab.test/"
+    },
+    {
+      "bounds": [
+        199,
+        219,
+        95,
+        16
+      ],
+      "ref": "e460",
+      "role": null,
+      "tag": "button",
+      "text": "Mark as read",
+      "title": "Change entry status"
+    },
+    {
+      "bounds": [
+        309,
+        219,
+        43,
+        16
+      ],
+      "ref": "e461",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        369,
+        221,
+        120,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e462",
+      "role": null,
+      "tag": "a",
+      "text": "External link"
+    },
+    {
+      "bounds": [
+        599,
+        270,
+        134,
+        20
+      ],
+      "href": "/search?q=quantum&unread=1",
+      "ref": "e463",
+      "role": null,
+      "tag": "a",
+      "text": "Back to top"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Skip to content\nMini\nflux\nUnread (2) Starred History Feeds (+) Categories Search Settings Logout\nSearch Results (1)\nSearch\nShow only unread entries\nFirst\nPrevious\nNext \nLast \nLab Notes\nQuantum computing basics All\nLab Notes  1 year ago  1 minute read\nMark as read Star External link\nFirst\nPrevious\nBack to top\nNext \nLast ",
+  "text_truncated": false,
+  "title": "Search Results (1) - Miniflux",
+  "url": "/search?q=quantum&unread=1",
+  "viewport": [
+    1280,
+    900
+  ]
+}

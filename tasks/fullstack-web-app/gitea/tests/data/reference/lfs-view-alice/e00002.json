@@ -1,0 +1,718 @@
+{
+  "controls": [
+    {
+      "aria": "Dashboard",
+      "bounds": [
+        10,
+        7,
+        56,
+        36
+      ],
+      "href": "/",
+      "ref": "e233",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        71,
+        7,
+        76,
+        36
+      ],
+      "href": "/issues",
+      "ref": "e234",
+      "role": null,
+      "tag": "a",
+      "text": "Issues"
+    },
+    {
+      "bounds": [
+        152,
+        7,
+        135,
+        36
+      ],
+      "href": "/pulls",
+      "ref": "e235",
+      "role": null,
+      "tag": "a",
+      "text": "Pull Requests"
+    },
+    {
+      "bounds": [
+        293,
+        7,
+        110,
+        36
+      ],
+      "href": "/milestones",
+      "ref": "e236",
+      "role": null,
+      "tag": "a",
+      "text": "Milestones"
+    },
+    {
+      "bounds": [
+        408,
+        7,
+        85,
+        36
+      ],
+      "href": "/explore/repos",
+      "ref": "e237",
+      "role": null,
+      "tag": "a",
+      "text": "Explore"
+    },
+    {
+      "aria": "Notifications",
+      "bounds": [
+        1094,
+        7,
+        42,
+        36
+      ],
+      "href": "/notifications",
+      "ref": "e238",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Notifications"
+    },
+    {
+      "aria": "Create…",
+      "bounds": [
+        1141,
+        7,
+        60,
+        36
+      ],
+      "expanded": false,
+      "ref": "e239",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Create…"
+    },
+    {
+      "aria": "Profile and Settings…",
+      "bounds": [
+        1207,
+        7,
+        64,
+        36
+      ],
+      "expanded": false,
+      "ref": "e240",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Profile and Settings…"
+    },
+    {
+      "bounds": [
+        64,
+        69,
+        54,
+        20
+      ],
+      "href": "/alice",
+      "ref": "e241",
+      "role": null,
+      "tag": "a",
+      "text": "alice"
+    },
+    {
+      "bounds": [
+        136,
+        69,
+        151,
+        20
+      ],
+      "href": "/alice/pbp-lfs-public",
+      "ref": "e242",
+      "role": null,
+      "tag": "a",
+      "text": "pbp-lfs-public"
+    },
+    {
+      "aria": "RSS Feed",
+      "bounds": [
+        815,
+        62,
+        47,
+        33
+      ],
+      "href": "/alice/pbp-lfs-public.rss",
+      "ref": "e243",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "RSS Feed"
+    },
+    {
+      "aria": "Unwatch",
+      "bounds": [
+        869,
+        62,
+        105,
+        33
+      ],
+      "ref": "e244",
+      "role": null,
+      "tag": "button",
+      "text": "Unwatch"
+    },
+    {
+      "bounds": [
+        973,
+        62,
+        32,
+        33
+      ],
+      "href": "/alice/pbp-lfs-public/watchers",
+      "ref": "e245",
+      "role": null,
+      "tag": "a",
+      "text": "1"
+    },
+    {
+      "aria": "Star",
+      "bounds": [
+        1012,
+        62,
+        82,
+        33
+      ],
+      "ref": "e246",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        1093,
+        62,
+        32,
+        33
+      ],
+      "href": "/alice/pbp-lfs-public/stars",
+      "ref": "e247",
+      "role": null,
+      "tag": "a",
+      "text": "0"
+    },
+    {
+      "bounds": [
+        1132,
+        62,
+        82,
+        33
+      ],
+      "ref": "e248",
+      "role": null,
+      "tag": "a",
+      "text": "Fork"
+    },
+    {
+      "bounds": [
+        1213,
+        62,
+        32,
+        33
+      ],
+      "href": "/alice/pbp-lfs-public/forks",
+      "ref": "e249",
+      "role": null,
+      "tag": "a",
+      "text": "0"
+    },
+    {
+      "bounds": [
+        32,
+        99,
+        79,
+        41
+      ],
+      "href": "/alice/pbp-lfs-public",
+      "ref": "e250",
+      "role": null,
+      "tag": "a",
+      "text": "Code"
+    },
+    {
+      "bounds": [
+        111,
+        99,
+        95,
+        41
+      ],
+      "href": "/alice/pbp-lfs-public/issues",
+      "ref": "e251",
+      "role": null,
+      "tag": "a",
+      "text": "Issues"
+    },
+    {
+      "bounds": [
+        206,
+        99,
+        154,
+        41
+      ],
+      "href": "/alice/pbp-lfs-public/pulls",
+      "ref": "e252",
+      "role": null,
+      "tag": "a",
+      "text": "Pull Requests"
+    },
+    {
+      "bounds": [
+        360,
+        99,
+        104,
+        41
+      ],
+      "href": "/alice/pbp-lfs-public/actions",
+      "ref": "e253",
+      "role": null,
+      "tag": "a",
+      "text": "Actions"
+    },
+    {
+      "bounds": [
+        464,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/pbp-lfs-public/packages",
+      "ref": "e254",
+      "role": null,
+      "tag": "a",
+      "text": "Packages"
+    },
+    {
+      "bounds": [
+        576,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/pbp-lfs-public/projects",
+      "ref": "e255",
+      "role": null,
+      "tag": "a",
+      "text": "Projects"
+    },
+    {
+      "bounds": [
+        688,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/pbp-lfs-public/releases",
+      "ref": "e256",
+      "role": null,
+      "tag": "a",
+      "text": "Releases"
+    },
+    {
+      "bounds": [
+        800,
+        99,
+        79,
+        41
+      ],
+      "href": "/alice/pbp-lfs-public/wiki",
+      "ref": "e257",
+      "role": null,
+      "tag": "a",
+      "text": "Wiki"
+    },
+    {
+      "bounds": [
+        878,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/pbp-lfs-public/activity",
+      "ref": "e258",
+      "role": null,
+      "tag": "a",
+      "text": "Activity"
+    },
+    {
+      "bounds": [
+        1136,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/pbp-lfs-public/settings",
+      "ref": "e259",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        33,
+        205,
+        238,
+        42
+      ],
+      "href": "/alice/pbp-lfs-public/settings",
+      "ref": "e260",
+      "role": null,
+      "tag": "a",
+      "text": "Repository"
+    },
+    {
+      "bounds": [
+        33,
+        247,
+        238,
+        42
+      ],
+      "href": "/alice/pbp-lfs-public/settings/collaboration",
+      "ref": "e261",
+      "role": null,
+      "tag": "a",
+      "text": "Collaborators"
+    },
+    {
+      "bounds": [
+        33,
+        289,
+        238,
+        42
+      ],
+      "href": "/alice/pbp-lfs-public/settings/hooks",
+      "ref": "e262",
+      "role": null,
+      "tag": "a",
+      "text": "Webhooks"
+    },
+    {
+      "bounds": [
+        33,
+        331,
+        238,
+        42
+      ],
+      "href": "/alice/pbp-lfs-public/settings/branches",
+      "ref": "e263",
+      "role": null,
+      "tag": "a",
+      "text": "Branches"
+    },
+    {
+      "bounds": [
+        33,
+        373,
+        238,
+        42
+      ],
+      "href": "/alice/pbp-lfs-public/settings/tags",
+      "ref": "e264",
+      "role": null,
+      "tag": "a",
+      "text": "Tags"
+    },
+    {
+      "bounds": [
+        33,
+        415,
+        238,
+        42
+      ],
+      "href": "/alice/pbp-lfs-public/settings/keys",
+      "ref": "e265",
+      "role": null,
+      "tag": "a",
+      "text": "Deploy Keys"
+    },
+    {
+      "bounds": [
+        33,
+        457,
+        238,
+        42
+      ],
+      "href": "/alice/pbp-lfs-public/settings/lfs",
+      "ref": "e266",
+      "role": null,
+      "tag": "a",
+      "text": "LFS"
+    },
+    {
+      "bounds": [
+        33,
+        499,
+        238,
+        42
+      ],
+      "ref": "e267",
+      "role": null,
+      "tag": "summary",
+      "text": "Actions"
+    },
+    {
+      "bounds": [
+        33,
+        545,
+        238,
+        26
+      ],
+      "href": "/alice/pbp-lfs-public/settings/actions/runners",
+      "ref": "e268",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        33,
+        571,
+        238,
+        26
+      ],
+      "href": "/alice/pbp-lfs-public/settings/actions/secrets",
+      "ref": "e269",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        33,
+        597,
+        238,
+        26
+      ],
+      "href": "/alice/pbp-lfs-public/settings/actions/variables",
+      "ref": "e270",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1010,
+        166,
+        58,
+        26
+      ],
+      "href": "/alice/pbp-lfs-public/settings/lfs/locks",
+      "ref": "e271",
+      "role": null,
+      "tag": "a",
+      "text": "Locks"
+    },
+    {
+      "bounds": [
+        1075,
+        166,
+        159,
+        26
+      ],
+      "href": "/alice/pbp-lfs-public/settings/lfs/pointers",
+      "ref": "e272",
+      "role": null,
+      "tag": "a",
+      "text": "Find pointer files"
+    },
+    {
+      "bounds": [
+        298,
+        208,
+        128,
+        38
+      ],
+      "href": "/alice/pbp-lfs-public/settings/lfs/show/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "ref": "e273",
+      "role": null,
+      "tag": "a",
+      "text": "e3b0c44298",
+      "title": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bounds": [
+        1038,
+        208,
+        145,
+        38
+      ],
+      "href": "/alice/pbp-lfs-public/settings/lfs/find?oid=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855&size=0",
+      "ref": "e274",
+      "role": null,
+      "tag": "a",
+      "text": "Find commits"
+    },
+    {
+      "bounds": [
+        1195,
+        207,
+        40,
+        40
+      ],
+      "ref": "e275",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        298,
+        261,
+        128,
+        38
+      ],
+      "href": "/alice/pbp-lfs-public/settings/lfs/show/e722fff60131326ce443e563559fa81d6eaeca61114de218fd0596ddca164f12",
+      "ref": "e276",
+      "role": null,
+      "tag": "a",
+      "text": "e722fff601",
+      "title": "e722fff60131326ce443e563559fa81d6eaeca61114de218fd0596ddca164f12"
+    },
+    {
+      "bounds": [
+        1038,
+        261,
+        145,
+        38
+      ],
+      "href": "/alice/pbp-lfs-public/settings/lfs/find?oid=e722fff60131326ce443e563559fa81d6eaeca61114de218fd0596ddca164f12&size=17",
+      "ref": "e277",
+      "role": null,
+      "tag": "a",
+      "text": "Find commits"
+    },
+    {
+      "bounds": [
+        1195,
+        260,
+        40,
+        40
+      ],
+      "ref": "e278",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        298,
+        314,
+        128,
+        38
+      ],
+      "href": "/alice/pbp-lfs-public/settings/lfs/show/f3a25aa93aa2fbba28d79260535bbd6a5eb0fc1c24a8b0f04e12b484c1dfe363",
+      "ref": "e279",
+      "role": null,
+      "tag": "a",
+      "text": "f3a25aa93a",
+      "title": "f3a25aa93aa2fbba28d79260535bbd6a5eb0fc1c24a8b0f04e12b484c1dfe363"
+    },
+    {
+      "bounds": [
+        1038,
+        314,
+        145,
+        38
+      ],
+      "href": "/alice/pbp-lfs-public/settings/lfs/find?oid=f3a25aa93aa2fbba28d79260535bbd6a5eb0fc1c24a8b0f04e12b484c1dfe363&size=768",
+      "ref": "e280",
+      "role": null,
+      "tag": "a",
+      "text": "Find commits"
+    },
+    {
+      "bounds": [
+        1195,
+        313,
+        40,
+        40
+      ],
+      "ref": "e281",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        20,
+        872,
+        134,
+        20
+      ],
+      "href": "[external]",
+      "ref": "e282",
+      "role": null,
+      "tag": "a",
+      "text": "Powered by Gitea"
+    },
+    {
+      "bounds": [
+        1063,
+        874,
+        76,
+        16
+      ],
+      "expanded": false,
+      "ref": "e283",
+      "role": "menu",
+      "tag": "div",
+      "text": "English"
+    },
+    {
+      "bounds": [
+        1145,
+        872,
+        76,
+        20
+      ],
+      "href": "/assets/licenses.txt",
+      "ref": "e284",
+      "role": null,
+      "tag": "a",
+      "text": "Licenses"
+    },
+    {
+      "bounds": [
+        1226,
+        872,
+        34,
+        20
+      ],
+      "href": "/api/swagger",
+      "ref": "e285",
+      "role": null,
+      "tag": "a",
+      "text": "API"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Issues\nPull Requests\nMilestones\nExplore\n \nalice\n/\npbp-lfs-public\nUnwatch\n1\nStar\n0\nFork\n0\nCode\nIssues\nPull Requests\nActions\nPackages\nProjects\nReleases\nWiki\nActivity\nSettings\nSettings\nRepository\nCollaborators\nWebhooks\nBranches\nTags\nDeploy Keys\nLFS\nActions\nLFS files stored in this repository (Total: 3)\nLocks\n Find pointer files\ne3b0c44298\t0 B\t\tFind commits \n\ne722fff601\t17 B\t\tFind commits \n\nf3a25aa93a\t768 B\t\tFind commits \nPowered by Gitea\nPage:\n17ms\nTemplate:\n3ms\nEnglish\nLicenses\nAPI",
+  "text_truncated": false,
+  "title": "LFS - pbp-lfs-public - Gitea",
+  "url": "/alice/pbp-lfs-public/settings/lfs",
+  "viewport": [
+    1280,
+    900
+  ]
+}

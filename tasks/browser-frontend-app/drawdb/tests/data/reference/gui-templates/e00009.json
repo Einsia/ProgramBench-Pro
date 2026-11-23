@@ -1,0 +1,83 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        81,
+        284,
+        350,
+        192
+      ],
+      "ref": "canvas0",
+      "tag": "svg"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        80,
+        20,
+        209,
+        48
+      ],
+      "ref": "e75fe0e2a",
+      "tag": "a"
+    },
+    {
+      "bounds": [
+        80,
+        201,
+        129,
+        52
+      ],
+      "ref": "ea5203f69",
+      "role": "tab",
+      "selected": false,
+      "tag": "div",
+      "text": "Default templates"
+    },
+    {
+      "bounds": [
+        233,
+        201,
+        124,
+        52
+      ],
+      "ref": "e5bc056a7",
+      "role": "tab",
+      "selected": true,
+      "tag": "div",
+      "text": "Your templates"
+    },
+    {
+      "bounds": [
+        379,
+        488,
+        32,
+        34
+      ],
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        97,
+        530,
+        318,
+        34
+      ],
+      "ref": "e4ddd1e11",
+      "tag": "button",
+      "text": "Delete"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "text": "Templates\nDatabase schema templates\nA compilation of database entity relationship diagrams to give you a quick start or inspire your application's architecture.\nShop",
+  "text_truncated": false,
+  "title": "Templates | drawDB",
+  "url": "/templates",
+  "viewport": [
+    1280,
+    900
+  ]
+}

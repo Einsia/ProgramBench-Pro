@@ -1,0 +1,45 @@
+schema_version = "1.4"
+artifacts = [{ source = "/app/solution" }]
+
+[task]
+name = "program-bench/komga"
+version = "1.0.0"
+description = "Reconstruct Komga 1.29.2, a comic book and ebook media server, from black-box observation."
+keywords = ["comics", "ebooks", "media-library", "web", "java", "opds"]
+
+[metadata]
+category = "fullstack-web-app"
+upstream = "gotson/komga 1.29.2"
+license = "MIT"
+interface = "browser GUI; REST API; OPDS, Kobo and KOReader protocols; exchange files; media uploads and downloads"
+network_boundary = "agent: no network except hosts allowed with --allow-agent-host (Harbor egress sidecar); reference and verifier: Compose network_mode:none; restricted Unix socket RPC to the black-box runtime"
+
+[agent]
+timeout_sec = 28800
+user = "agent"
+
+[environment]
+docker_image = "program-bench-komga-agent:1.0.0"
+build_timeout_sec = 600
+cpus = 4
+memory_mb = 16384
+storage_mb = 20480
+network_mode = "no-network"
+
+[environment.healthcheck]
+command = "blackbox-health"
+interval_sec = 1
+timeout_sec = 5
+retries = 60
+
+[verifier]
+timeout_sec = 139800
+environment_mode = "separate"
+
+[verifier.environment]
+docker_image = "program-bench-komga-verifier:1.0.0"
+cpus = 4
+memory_mb = 8192
+storage_mb = 20480
+network_mode = "no-network"
+build_timeout_sec = 600

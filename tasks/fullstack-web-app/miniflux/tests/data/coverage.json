@@ -1,0 +1,217 @@
+{
+  "counts": {
+    "assertions": 1111,
+    "backend": 1014,
+    "checkpoints": 1033,
+    "features": 27,
+    "frontend": 97,
+    "gui_episodes": 44,
+    "program_episodes": 21,
+    "episodes": 65
+  },
+  "features": {
+    "about": {
+      "assertions": 1,
+      "episodes": [
+        "about"
+      ]
+    },
+    "api-keys": {
+      "assertions": 4,
+      "episodes": [
+        "api-keys"
+      ]
+    },
+    "authentication": {
+      "assertions": 6,
+      "episodes": [
+        "login-valid",
+        "login-invalid",
+        "logout"
+      ]
+    },
+    "categories": {
+      "assertions": 54,
+      "episodes": [
+        "protocol-categories",
+        "categories",
+        "category-entries"
+      ]
+    },
+    "content-processing": {
+      "assertions": 143,
+      "episodes": [
+        "protocol-content-sanitize",
+        "protocol-content-rewrite",
+        "protocol-content-urls",
+        "protocol-content-filters",
+        "protocol-content-scraper"
+      ]
+    },
+    "discovery": {
+      "assertions": 23,
+      "episodes": [
+        "protocol-discovery"
+      ]
+    },
+    "entries": {
+      "assertions": 89,
+      "episodes": [
+        "protocol-entries"
+      ]
+    },
+    "feed-parsing": {
+      "assertions": 180,
+      "episodes": [
+        "protocol-parse-rss",
+        "protocol-parse-atom",
+        "protocol-parse-json",
+        "protocol-parse-rdf"
+      ]
+    },
+    "feed-settings": {
+      "assertions": 16,
+      "episodes": [
+        "edit-feed",
+        "refresh-feed",
+        "remove-feed",
+        "feed-errors",
+        "refresh-all"
+      ]
+    },
+    "feeds": {
+      "assertions": 119,
+      "episodes": [
+        "protocol-feeds"
+      ]
+    },
+    "fetch": {
+      "assertions": 24,
+      "episodes": [
+        "protocol-fetch"
+      ]
+    },
+    "fever": {
+      "assertions": 30,
+      "episodes": [
+        "protocol-fever"
+      ]
+    },
+    "greader": {
+      "assertions": 62,
+      "episodes": [
+        "protocol-greader"
+      ]
+    },
+    "icons": {
+      "assertions": 24,
+      "episodes": [
+        "protocol-icons"
+      ]
+    },
+    "integrations": {
+      "assertions": 27,
+      "episodes": [
+        "protocol-integrations"
+      ]
+    },
+    "keyboard-shortcuts": {
+      "assertions": 3,
+      "episodes": [
+        "keyboard"
+      ]
+    },
+    "media": {
+      "assertions": 9,
+      "episodes": [
+        "protocol-media"
+      ]
+    },
+    "opml": {
+      "assertions": 25,
+      "episodes": [
+        "protocol-opml",
+        "opml-file",
+        "opml-url",
+        "opml-export"
+      ]
+    },
+    "persistence": {
+      "assertions": 15,
+      "episodes": [
+        "protocol-persistence",
+        "restart-visible-state"
+      ]
+    },
+    "reading": {
+      "assertions": 30,
+      "episodes": [
+        "read-entry",
+        "list-actions",
+        "feed-mark-read",
+        "fetch-original",
+        "tags-attachments",
+        "entry-pictures",
+        "pagination"
+      ]
+    },
+    "refresh": {
+      "assertions": 15,
+      "episodes": [
+        "protocol-refresh"
+      ]
+    },
+    "search": {
+      "assertions": 27,
+      "episodes": [
+        "protocol-search",
+        "search"
+      ]
+    },
+    "sessions": {
+      "assertions": 1,
+      "episodes": [
+        "sessions"
+      ]
+    },
+    "settings": {
+      "assertions": 35,
+      "episodes": [
+        "settings-appearance",
+        "settings-password",
+        "settings-reading",
+        "settings-filters",
+        "settings-home",
+        "settings-validation",
+        "settings-effects"
+      ]
+    },
+    "sharing": {
+      "assertions": 5,
+      "episodes": [
+        "share-entry"
+      ]
+    },
+    "subscriptions": {
+      "assertions": 17,
+      "episodes": [
+        "subscribe-feed",
+        "subscribe-discovery",
+        "subscribe-options",
+        "subscription-errors",
+        "subscribe-credentials"
+      ]
+    },
+    "users": {
+      "assertions": 127,
+      "episodes": [
+        "protocol-users",
+        "users-admin",
+        "users-denied"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

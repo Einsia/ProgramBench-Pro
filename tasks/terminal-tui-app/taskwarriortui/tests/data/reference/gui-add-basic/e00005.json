@@ -1,0 +1,198 @@
+{
+  "cursor": {
+    "column": 36,
+    "hidden": true,
+    "row": 35
+  },
+  "process": "running",
+  "screen": [
+    "00| Tasks   Projects   Timesheet   Calendar                                                                     next [none]",
+    "01|  ID Age P Project     Tag  Description                                                                           Urg",
+    "02|",
+    "03|   3 5w  M                  Gamma task                                                                            4.12",
+    "04|   2 5w    Beta        beta Beta task                                                                             2.02",
+    "05|•  5 0s    Home.Garage diy  Buy paint                                                                             1.80",
+    "06|   1 6w    Alpha            Alpha task                                                                            1.23",
+    "07|   4 0s                     Call grandma                                                                          0.00",
+    "08|",
+    "09|",
+    "10|",
+    "11|",
+    "12|",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────",
+    "19|",
+    "20|Name          Value",
+    "21|------------- ----------------------------------------------",
+    "22|ID            5",
+    "23|Description   Buy paint",
+    "24|Status        Pending",
+    "25|Project       Home.Garage",
+    "26|Entered       2026-05-13 10:00:00 ()",
+    "27|Last modified 2026-05-13 10:00:00 ()",
+    "28|Tags          diy",
+    "29|Virtual tags  LATEST PENDING PROJECT READY TAGGED UNBLOCKED",
+    "30|UUID          428c2e60-c3e6-4907-abbb-adbae78654ca",
+    "31|Urgency       1.8",
+    "32|",
+    "33|----------- ------ - ---- - ------",
+    "34|Filter Tasks",
+    "35|status:pending -WAITING limit:page"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        1,
+        6
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "reverse"
+      ],
+      "text": "Tasks"
+    },
+    {
+      "columns": [
+        6,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "reverse"
+      ],
+      "text": "   Projects   Timesheet   Calendar                                                                     next [none]"
+    },
+    {
+      "columns": [
+        0,
+        4
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "  ID"
+    },
+    {
+      "columns": [
+        5,
+        8
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Age"
+    },
+    {
+      "columns": [
+        9,
+        10
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "P"
+    },
+    {
+      "columns": [
+        11,
+        22
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Project    "
+    },
+    {
+      "columns": [
+        23,
+        27
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Tag "
+    },
+    {
+      "columns": [
+        28,
+        113
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Description                                                                          "
+    },
+    {
+      "columns": [
+        114,
+        118
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Urg "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 4,
+      "style": [
+        "fg=00af5f",
+        "bg=1c1c1c"
+      ],
+      "text": "   2 5w    Beta        beta Beta task                                                                             2.02"
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 5,
+      "style": [
+        "bold",
+        "fg=00af5f"
+      ],
+      "text": "•  5 0s    Home.Garage diy  Buy paint                                                                             1.80"
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 6,
+      "style": [
+        "bg=1c1c1c"
+      ],
+      "text": "   1 6w    Alpha            Alpha task                                                                            1.23"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "reverse"
+      ],
+      "text": "Filter Tasks                                                                                                            "
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+# The runtime's only third-party Python dependencies (terminal emulation). Transitive pins in constraints.txt.
+# VisiData and its two pure-Python libraries are installed unmodified from pinned wheels by solution/solve.sh.
+pyte==0.8.2
+wcwidth==0.9.3

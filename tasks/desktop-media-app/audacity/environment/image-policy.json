@@ -1,0 +1,16 @@
+{
+  "reference_paths": [
+    "/app/solution/runtime/bin/audacity",
+    "/app/solution/runtime/lib/audacity/modules/mod-script-pipe.so"
+  ],
+  "shared_solution_files": [
+    {
+      "file": "LICENSE",
+      "reason": "Unmodified license/copyright text for Audacity; the same legal text may accompany common system libraries."
+    },
+    {
+      "file": "LICENSES/Audacity-components.txt",
+      "reason": "Unmodified license/copyright text for Audacity-components; the same legal text may accompany common system libraries."
+    }
+  ]
+}

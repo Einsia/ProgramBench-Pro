@@ -1,0 +1,158 @@
+{
+  "counts": {
+    "assertions": 838,
+    "backend": 602,
+    "checkpoints": 445,
+    "features": 18,
+    "frontend": 236,
+    "gui_episodes": 37,
+    "program_episodes": 14,
+    "episodes": 51
+  },
+  "features": {
+    "arrange": {
+      "assertions": 130,
+      "episodes": [
+        "gui-align",
+        "gui-align-relative",
+        "gui-flip-convert",
+        "gui-arrange",
+        "gui-context-menu",
+        "gui-clipboard",
+        "gui-links"
+      ]
+    },
+    "document": {
+      "assertions": 18,
+      "episodes": [
+        "gui-document"
+      ]
+    },
+    "drawing": {
+      "assertions": 87,
+      "episodes": [
+        "draw-tools",
+        "gui-draw-shapes",
+        "gui-draw-lines",
+        "gui-polystar",
+        "gui-shape-library",
+        "gui-shape-library-2"
+      ]
+    },
+    "errors": {
+      "assertions": 10,
+      "episodes": [
+        "gui-errors"
+      ]
+    },
+    "export": {
+      "assertions": 27,
+      "episodes": [
+        "gui-export"
+      ]
+    },
+    "files": {
+      "assertions": 29,
+      "episodes": [
+        "drop-import",
+        "gui-files",
+        "gui-save"
+      ]
+    },
+    "geometry": {
+      "assertions": 32,
+      "episodes": [
+        "gui-geometry",
+        "gui-identity"
+      ]
+    },
+    "import": {
+      "assertions": 91,
+      "episodes": [
+        "import-structure",
+        "import-elements",
+        "import-content"
+      ]
+    },
+    "keyboard-editing": {
+      "assertions": 139,
+      "episodes": [
+        "keyboard-move",
+        "keyboard-rotate",
+        "keyboard-edit",
+        "keyboard-group",
+        "keyboard-undo"
+      ]
+    },
+    "layers": {
+      "assertions": 24,
+      "episodes": [
+        "gui-layers",
+        "gui-layers-more"
+      ]
+    },
+    "paths": {
+      "assertions": 14,
+      "episodes": [
+        "gui-path-edit"
+      ]
+    },
+    "persistence": {
+      "assertions": 17,
+      "episodes": [
+        "save-persist",
+        "gui-persistence"
+      ]
+    },
+    "preferences": {
+      "assertions": 17,
+      "episodes": [
+        "gui-preferences"
+      ]
+    },
+    "selection": {
+      "assertions": 48,
+      "episodes": [
+        "pointer-edit",
+        "pointer-resize",
+        "gui-selection"
+      ]
+    },
+    "source": {
+      "assertions": 7,
+      "episodes": [
+        "gui-source"
+      ]
+    },
+    "style": {
+      "assertions": 88,
+      "episodes": [
+        "gui-eyedropper",
+        "gui-paint-fill",
+        "gui-paint-stroke",
+        "gui-gradients",
+        "gui-stroke-style",
+        "gui-effects",
+        "gui-markers"
+      ]
+    },
+    "text": {
+      "assertions": 55,
+      "episodes": [
+        "text-keys",
+        "gui-font-family",
+        "gui-text-font",
+        "gui-text-layout"
+      ]
+    },
+    "view": {
+      "assertions": 5,
+      "episodes": [
+        "gui-view"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

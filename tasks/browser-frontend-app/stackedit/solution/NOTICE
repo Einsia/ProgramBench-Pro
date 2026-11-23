@@ -1,0 +1,127 @@
+StackEdit 5.15.4
+================================================
+
+Upstream: https://github.com/benweet/stackedit (Apache-2.0)
+Official release: https://www.npmjs.com/package/stackedit/v/5.15.4
+Official image: docker.io/benweet/stackedit:v5.15.4
+
+The unmodified npm source release is stackedit-5.15.4.tgz. The unmodified
+final build layer of the official image is docker-build-layer.tar.gz;
+its opt/stackedit/dist directory contains the production app, assets, and
+source maps with the corresponding bundled module sources. SOURCE.json
+records the image manifest and archive digests. The built JavaScript, CSS,
+fonts and entry document are served byte for byte; no product code is patched.
+server.py and start.sh are local serving and launch scripts. The serving
+policy omits source maps, service workers, alternative entry pages, directory
+listings and configuration files, and applies Content Security Policy.
+Runtime restrictions are documented in the runtime help.
+
+Redistribution notices
+----------------------
+StackEdit's license is LICENSE; it is also preserved in LICENSES/Apache-2.0.txt. Dependencies' original
+notices are under LICENSES/third-party; they are taken from the exact npm
+install in the official image, or the corresponding package/source release.
+For delegate, good-listener and select, the distributed package README
+provides the MIT grant link and Zeno Rocha attribution; the MIT terms are
+included with that attribution. markdown-it-imsize declares MIT and author
+tatsy; its full MIT terms and attribution are included. Babel and regenerator
+notices come from their upstream source repositories. The original module
+source is also in the image build layer's source maps.
+Lato fonts use OFL-1.1; Roboto Mono uses Apache-2.0. normalize-scss is used
+under its MIT option, and linkify-it under its MIT option where dual-licensed.
+The entities package's BSD-like notice is the two-clause BSD license.
+
+Bundled modules (name, version, declared license)
+------------------------------------------------
+@braintree/sanitize-url 3.1.0: MIT
+abcjs 5.2.0: MIT
+babel-polyfill 6.26.0: MIT
+babel-runtime 6.26.0: MIT
+base64-js 1.2.1: MIT
+bezier-easing 1.1.1: MIT
+buffer 4.9.1: MIT
+clipboard 1.7.1: MIT
+core-js 2.5.3: MIT
+css-loader 0.28.11: MIT
+d3 5.16.0: BSD-3-Clause
+d3-array 1.2.4: BSD-3-Clause
+d3-axis 1.0.12: BSD-3-Clause
+d3-brush 1.1.6: BSD-3-Clause
+d3-chord 1.0.6: BSD-3-Clause
+d3-collection 1.0.7: BSD-3-Clause
+d3-color 1.4.1: BSD-3-Clause
+d3-contour 1.3.2: BSD-3-Clause
+d3-dispatch 1.0.6: BSD-3-Clause
+d3-drag 1.2.5: BSD-3-Clause
+d3-dsv 1.2.0: BSD-3-Clause
+d3-ease 1.0.7: BSD-3-Clause
+d3-fetch 1.2.0: BSD-3-Clause
+d3-force 1.2.1: BSD-3-Clause
+d3-format 1.4.5: BSD-3-Clause
+d3-geo 1.12.1: BSD-3-Clause
+d3-hierarchy 1.1.9: BSD-3-Clause
+d3-interpolate 1.4.0: BSD-3-Clause
+d3-path 1.0.9: BSD-3-Clause
+d3-polygon 1.0.6: BSD-3-Clause
+d3-quadtree 1.0.7: BSD-3-Clause
+d3-random 1.1.2: BSD-3-Clause
+d3-scale 2.2.2: BSD-3-Clause
+d3-scale-chromatic 1.5.0: BSD-3-Clause
+d3-selection 1.4.2: BSD-3-Clause
+d3-shape 1.3.7: BSD-3-Clause
+d3-time 1.1.0: BSD-3-Clause
+d3-time-format 2.3.0: BSD-3-Clause
+d3-timer 1.0.10: BSD-3-Clause
+d3-transition 1.3.2: BSD-3-Clause
+d3-voronoi 1.1.4: BSD-3-Clause
+d3-zoom 1.8.3: BSD-3-Clause
+dagre 0.8.5: MIT
+dagre-d3 0.6.4: MIT
+delegate 3.2.0: MIT
+diff-match-patch 1.0.0: http://www.apache.org/licenses/LICENSE-2.0
+entities 1.1.1: BSD-like
+entity-decode 2.0.2: MIT
+esprima 4.0.1: BSD-2-Clause
+file-saver 1.3.8: MIT
+good-listener 1.2.2: MIT
+graphlib 2.1.8: MIT
+handlebars 4.0.11: MIT
+ieee754 1.1.8: BSD-3-Clause
+indexeddbshim 3.8.0: (MIT OR Apache-2.0)
+isarray 1.0.0: MIT
+js-yaml 3.12.0: MIT
+katex 0.13.0: MIT
+khroma 1.3.0: MIT
+linkify-it 2.0.3: MIT
+markdown-it 8.4.2: MIT
+markdown-it-abbr 1.0.4: MIT
+markdown-it-deflist 2.0.3: MIT
+markdown-it-emoji 1.4.0: MIT
+markdown-it-footnote 3.0.1: MIT
+markdown-it-imsize 2.0.1: MIT
+markdown-it-mark 2.0.0: MIT
+markdown-it-pandoc-renderer 1.2.0: ISC
+markdown-it-sub 1.0.0: MIT
+markdown-it-sup 1.0.0: MIT
+mdurl 1.0.1: MIT
+mermaid 8.9.2: MIT
+moment-mini 2.24.0: MIT
+mousetrap 1.6.1: Apache-2.0
+normalize-scss 7.0.1: (MIT OR GPL-2.0)
+offline-plugin 5.0.5: MIT
+path-browserify 0.0.0: MIT
+prismjs 1.9.0: MIT
+process 0.11.10: MIT
+punycode 1.3.2: MIT
+regenerator-runtime 0.10.5: MIT
+select 1.1.2: MIT
+setimmediate 1.0.5: MIT
+stylis 3.5.4: MIT
+timers-browserify 2.0.4: [{'type': 'MIT', 'url': 'https://github.com/jryans/timers-browserify/blob/master/LICENSE.md'}]
+tiny-emitter 2.0.2: MIT
+turndown 4.0.2: MIT
+uc.micro 1.0.5: MIT
+vue 2.5.17: MIT
+vue-loader 15.4.0: MIT
+vue-style-loader 4.1.2: MIT
+vuex 3.0.1: MIT

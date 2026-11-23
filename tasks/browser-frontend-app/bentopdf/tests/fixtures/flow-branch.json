@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "nodes": [
+    {
+      "id": "in",
+      "type": "PDFInputNode",
+      "controls": {},
+      "position": {
+        "x": 40,
+        "y": 40
+      }
+    },
+    {
+      "id": "rotate",
+      "type": "RotateNode",
+      "controls": {
+        "angle": "180"
+      },
+      "position": {
+        "x": 340,
+        "y": 40
+      }
+    },
+    {
+      "id": "reverse",
+      "type": "ReversePagesNode",
+      "controls": {},
+      "position": {
+        "x": 340,
+        "y": 300
+      }
+    },
+    {
+      "id": "out1",
+      "type": "DownloadNode",
+      "controls": {
+        "filename": "rotated"
+      },
+      "position": {
+        "x": 640,
+        "y": 40
+      }
+    },
+    {
+      "id": "out2",
+      "type": "DownloadNode",
+      "controls": {
+        "filename": "reversed"
+      },
+      "position": {
+        "x": 640,
+        "y": 300
+      }
+    }
+  ],
+  "connections": [
+    {
+      "id": "e0",
+      "source": "in",
+      "sourceOutput": "pdf",
+      "target": "rotate",
+      "targetInput": "pdf"
+    },
+    {
+      "id": "e1",
+      "source": "in",
+      "sourceOutput": "pdf",
+      "target": "reverse",
+      "targetInput": "pdf"
+    },
+    {
+      "id": "e2",
+      "source": "rotate",
+      "sourceOutput": "pdf",
+      "target": "out1",
+      "targetInput": "pdf"
+    },
+    {
+      "id": "e3",
+      "source": "reverse",
+      "sourceOutput": "pdf",
+      "target": "out2",
+      "targetInput": "pdf"
+    }
+  ]
+}

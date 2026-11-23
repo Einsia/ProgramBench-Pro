@@ -1,0 +1,174 @@
+{
+  "cursor": {
+    "column": 34,
+    "hidden": true,
+    "row": 35
+  },
+  "process": "running",
+  "screen": [
+    "00| Tasks   Projects   Timesheet   Calendar                                                                  waiting [none]",
+    "01|  ID Age Project Wait Remaining Due        Description",
+    "02|",
+    "03|•  7 10d Travel  -2w  2w        2026-07-01 Renew passport",
+    "04|",
+    "05|",
+    "06|",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|",
+    "12|",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────",
+    "19|",
+    "20|Name          Value",
+    "21|------------- ------------------------------------",
+    "22|ID            7",
+    "23|Description   Renew passport",
+    "24|Status        Waiting",
+    "25|Project       Travel",
+    "26|Entered       2026-05-03 08:00:00 (10d)",
+    "27|Waiting until 2026-06-01 00:00:00",
+    "28|Due           2026-07-01 00:00:00",
+    "29|Last modified 2026-05-13 10:00:00 ()",
+    "30|Virtual tags  PROJECT UNBLOCKED WAITING YEAR",
+    "31|UUID          00000007-0000-4000-8000-000000000007",
+    "32|Urgency       0.45",
+    "33|",
+    "34|Filter Tasks",
+    "35|+WAITING"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        1,
+        6
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "reverse"
+      ],
+      "text": "Tasks"
+    },
+    {
+      "columns": [
+        6,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "reverse"
+      ],
+      "text": "   Projects   Timesheet   Calendar                                                                  waiting [none]"
+    },
+    {
+      "columns": [
+        0,
+        4
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "  ID"
+    },
+    {
+      "columns": [
+        5,
+        8
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Age"
+    },
+    {
+      "columns": [
+        9,
+        16
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Project"
+    },
+    {
+      "columns": [
+        17,
+        21
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Wait"
+    },
+    {
+      "columns": [
+        22,
+        31
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Remaining"
+    },
+    {
+      "columns": [
+        32,
+        42
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Due       "
+    },
+    {
+      "columns": [
+        43,
+        118
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Description                                                                "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 3,
+      "style": [
+        "bold"
+      ],
+      "text": "•  7 10d Travel  -2w  2w        2026-07-01 Renew passport                                                             "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "reverse"
+      ],
+      "text": "Filter Tasks                                                                                                            "
+    }
+  ]
+}

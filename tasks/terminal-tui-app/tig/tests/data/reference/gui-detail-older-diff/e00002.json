@@ -1,0 +1,257 @@
+{
+  "base_style": [
+    "fg=brown"
+  ],
+  "cursor": {
+    "column": 119,
+    "hidden": true,
+    "row": 34
+  },
+  "process": "running",
+  "screen": [
+    "00|commit 2f964a1e901fdd133306652b85cdc1f63060e3de",
+    "01|Refs: [archive], v1.0-1-g2f964a1",
+    "02|Author:     Bea Meadow <bea@example.test>",
+    "03|AuthorDate: Tue Jan 2 12:00:00 2024 +0000",
+    "04|Commit:     Jordan Example <jordan@example.test>",
+    "05|CommitDate: Tue Jan 2 12:00:00 2024 +0000",
+    "06|",
+    "07|    Document river access",
+    "08|---",
+    "09| notes.txt | 2 +-",
+    "10| 1 file changed, 1 insertion(+), 1 deletion(-)",
+    "11|",
+    "12|diff --git a/notes.txt b/notes.txt",
+    "13|index a9e195b..6e2de33 100644",
+    "14|--- a/notes.txt",
+    "15|+++ b/notes.txt",
+    "16|@@ -1,3 +1,3 @@",
+    "17| oak tree",
+    "18|-river bank",
+    "19|+river bank with footpath",
+    "20| stone bridge",
+    "21|",
+    "22|",
+    "23|",
+    "24|",
+    "25|",
+    "26|",
+    "27|",
+    "28|",
+    "29|",
+    "30|",
+    "31|",
+    "32|",
+    "33|",
+    "34|[diff] 2f964a1e901fdd133306652b85cdc1f63060e3de - line 1 of 21                                                      100%",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        47
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=green"
+      ],
+      "text": "commit 2f964a1e901fdd133306652b85cdc1f63060e3de"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 1,
+      "style": [
+        "fg=red"
+      ],
+      "text": "Refs: [archive], v1.0-1-g2f964a1                                                                                        "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 2,
+      "style": [
+        "fg=cyan"
+      ],
+      "text": "Author:     Bea Meadow <bea@example.test>                                                                               "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 4,
+      "style": [
+        "fg=magenta"
+      ],
+      "text": "Commit:     Jordan Example <jordan@example.test>                                                                        "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 7,
+      "style": [
+        "default"
+      ],
+      "text": "    Document river access                                                                                               "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 8,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "---                                                                                                                     "
+    },
+    {
+      "columns": [
+        0,
+        11
+      ],
+      "row": 9,
+      "style": [
+        "fg=blue"
+      ],
+      "text": " notes.txt "
+    },
+    {
+      "columns": [
+        11,
+        15
+      ],
+      "row": 9,
+      "style": [
+        "default"
+      ],
+      "text": "| 2 "
+    },
+    {
+      "columns": [
+        15,
+        16
+      ],
+      "row": 9,
+      "style": [
+        "fg=green"
+      ],
+      "text": "+"
+    },
+    {
+      "columns": [
+        16,
+        120
+      ],
+      "row": 9,
+      "style": [
+        "fg=red"
+      ],
+      "text": "-                                                                                                       "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 10,
+      "style": [
+        "default"
+      ],
+      "text": " 1 file changed, 1 insertion(+), 1 deletion(-)                                                                          "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 13,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "index a9e195b..6e2de33 100644                                                                                           "
+    },
+    {
+      "columns": [
+        0,
+        15
+      ],
+      "row": 16,
+      "style": [
+        "fg=magenta"
+      ],
+      "text": "@@ -1,3 +1,3 @@"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 17,
+      "style": [
+        "default"
+      ],
+      "text": " oak tree                                                                                                               "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 18,
+      "style": [
+        "fg=red"
+      ],
+      "text": "-river bank                                                                                                             "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 19,
+      "style": [
+        "fg=green"
+      ],
+      "text": "+river bank with footpath                                                                                               "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 20,
+      "style": [
+        "default"
+      ],
+      "text": " stone bridge                                                                                                           "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "[diff] 2f964a1e901fdd133306652b85cdc1f63060e3de - line 1 of 21                                                      100%"
+    }
+  ]
+}

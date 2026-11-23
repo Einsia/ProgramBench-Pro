@@ -1,0 +1,683 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        49,
+        95,
+        1011,
+        765
+      ],
+      "ref": "canvas0",
+      "tag": "svg"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        1,
+        84,
+        32,
+        30
+      ],
+      "pressed": true,
+      "ref": "e4ad40b8f",
+      "tag": "se-button",
+      "title": "Select Tool"
+    },
+    {
+      "bounds": [
+        1,
+        118,
+        32,
+        30
+      ],
+      "ref": "e529b5b83",
+      "tag": "se-button",
+      "title": "Zoom Tool [Z/Alt+wheels]"
+    },
+    {
+      "bounds": [
+        1,
+        152,
+        32,
+        30
+      ],
+      "ref": "e8a59bcf6",
+      "tag": "se-button",
+      "title": "Panning [Space / mouse wheel + drag]"
+    },
+    {
+      "bounds": [
+        1,
+        186,
+        32,
+        30
+      ],
+      "ref": "e9e703e03",
+      "tag": "se-button",
+      "title": "Pencil Tool [Q]"
+    },
+    {
+      "bounds": [
+        1,
+        220,
+        32,
+        30
+      ],
+      "ref": "e7922eb03",
+      "tag": "se-button",
+      "title": "Line Tool [L]"
+    },
+    {
+      "bounds": [
+        1,
+        254,
+        32,
+        30
+      ],
+      "ref": "e74e638e6",
+      "tag": "se-button",
+      "title": "Path Tool [P]"
+    },
+    {
+      "bounds": [
+        1,
+        288,
+        32,
+        30
+      ],
+      "ref": "e95d758c4",
+      "tag": "se-flyingbutton",
+      "title": "Square/Rect Tool"
+    },
+    {
+      "bounds": [
+        1,
+        322,
+        32,
+        30
+      ],
+      "ref": "ee5c8be71",
+      "tag": "se-flyingbutton",
+      "title": "Ellipse/Circle Tool"
+    },
+    {
+      "bounds": [
+        1,
+        356,
+        32,
+        30
+      ],
+      "ref": "e5d35491a",
+      "tag": "se-button",
+      "title": "Text Tool [T]"
+    },
+    {
+      "bounds": [
+        1,
+        390,
+        32,
+        30
+      ],
+      "ref": "ee5f8c52b",
+      "tag": "se-explorerbutton",
+      "title": "Shape library [null]"
+    },
+    {
+      "bounds": [
+        1,
+        424,
+        32,
+        30
+      ],
+      "ref": "ea6ffeec0",
+      "tag": "se-flyingbutton",
+      "title": "Polygone/Star Tool"
+    },
+    {
+      "bounds": [
+        1,
+        458,
+        32,
+        30
+      ],
+      "ref": "e2661fa88",
+      "tag": "se-button",
+      "title": "Image Tool"
+    },
+    {
+      "bounds": [
+        1,
+        492,
+        32,
+        30
+      ],
+      "ref": "e1a3813d9",
+      "tag": "se-button",
+      "title": "Connect two objects"
+    },
+    {
+      "bounds": [
+        1,
+        526,
+        32,
+        30
+      ],
+      "ref": "ed46529f5",
+      "tag": "se-button",
+      "title": "Eye Dropper Tool [ctrl+I]"
+    },
+    {
+      "bounds": [
+        34,
+        870,
+        94,
+        20
+      ],
+      "ref": "e71091cee",
+      "tag": "se-zoom",
+      "text": "▲ ▼",
+      "title": "Change zoom level",
+      "type": "text",
+      "value": "100.0"
+    },
+    {
+      "bounds": [
+        128,
+        868,
+        56,
+        24
+      ],
+      "ref": "e8f03bd1a",
+      "tag": "se-colorpicker",
+      "title": "Change fill color"
+    },
+    {
+      "bounds": [
+        184,
+        868,
+        56,
+        24
+      ],
+      "ref": "e98d70855",
+      "tag": "se-colorpicker",
+      "title": "Change stroke color"
+    },
+    {
+      "bounds": [
+        242,
+        870,
+        32,
+        22
+      ],
+      "context": "Change stroke width by 1, shift-click to change by 0.1",
+      "ref": "efff041d2",
+      "tag": "input",
+      "type": "text",
+      "value": "5"
+    },
+    {
+      "bounds": [
+        281,
+        870,
+        13,
+        11
+      ],
+      "context": "Change stroke width by 1, shift-click to change by 0.1",
+      "ref": "e7df04495",
+      "tag": "button",
+      "text": "▲"
+    },
+    {
+      "bounds": [
+        281,
+        882,
+        13,
+        11
+      ],
+      "context": "Change stroke width by 1, shift-click to change by 0.1",
+      "ref": "e591bc0f3",
+      "tag": "button",
+      "text": "▼"
+    },
+    {
+      "bounds": [
+        299,
+        861,
+        24,
+        30
+      ],
+      "label": "▲ ▼",
+      "options": [
+        {
+          "label": "—",
+          "selected": true,
+          "value": "none"
+        },
+        {
+          "label": "...",
+          "selected": false,
+          "value": "2,2"
+        },
+        {
+          "label": "--",
+          "selected": false,
+          "value": "5,5"
+        },
+        {
+          "label": "-.",
+          "selected": false,
+          "value": "5,2,2,2"
+        },
+        {
+          "label": "-..",
+          "selected": false,
+          "value": "5,2,2,2,2,2"
+        }
+      ],
+      "ref": "ed569ac81",
+      "tag": "se-select",
+      "title": "Change stroke dash style",
+      "value": "none"
+    },
+    {
+      "bounds": [
+        323,
+        869,
+        22,
+        22
+      ],
+      "context": "properties.linejoin_miter",
+      "ref": "e8d5137b0",
+      "tag": "div",
+      "title": "Linejoin: Miter"
+    },
+    {
+      "bounds": [
+        345,
+        869,
+        22,
+        22
+      ],
+      "context": "properties.linecap_butt",
+      "ref": "e68cd6cc2",
+      "tag": "div",
+      "title": "Linecap: Butt"
+    },
+    {
+      "bounds": [
+        399,
+        870,
+        32,
+        22
+      ],
+      "context": "Change selected item opacity",
+      "ref": "e493e3f3f",
+      "tag": "input",
+      "type": "text",
+      "value": "100"
+    },
+    {
+      "bounds": [
+        438,
+        870,
+        13,
+        11
+      ],
+      "context": "Change selected item opacity",
+      "ref": "e43361464",
+      "tag": "button",
+      "text": "▲"
+    },
+    {
+      "bounds": [
+        438,
+        882,
+        13,
+        11
+      ],
+      "context": "Change selected item opacity",
+      "ref": "efab66416",
+      "tag": "button",
+      "text": "▼"
+    },
+    {
+      "bounds": [
+        612,
+        869,
+        638,
+        23
+      ],
+      "ref": "e414e90d9",
+      "tag": "div",
+      "title": "Click to change fill color, shift-click to change stroke color"
+    },
+    {
+      "bounds": [
+        1250,
+        873,
+        14,
+        14
+      ],
+      "ref": "e644ca8fa",
+      "tag": "button",
+      "text": "▼",
+      "title": "Show whole palette"
+    },
+    {
+      "bounds": [
+        170,
+        0,
+        32,
+        40
+      ],
+      "ref": "e85ce5e57",
+      "tag": "se-button",
+      "title": "Edit Source [U]"
+    },
+    {
+      "bounds": [
+        202,
+        0,
+        32,
+        40
+      ],
+      "ref": "e8dafd810",
+      "tag": "se-button",
+      "title": "Wireframe Mode [F]"
+    },
+    {
+      "bounds": [
+        234,
+        0,
+        32,
+        40
+      ],
+      "ref": "e193ef195",
+      "tag": "se-button",
+      "title": "Show/Hide Grid"
+    },
+    {
+      "bounds": [
+        266,
+        0,
+        32,
+        40
+      ],
+      "ref": "edf6ca10c",
+      "tag": "se-button",
+      "title": "Enable/Disable Layer View [Ctrl+Shift+L]"
+    },
+    {
+      "bounds": [
+        301,
+        0,
+        32,
+        40
+      ],
+      "ref": "e6dc00f5b",
+      "tag": "se-button",
+      "title": "Undo [ctrl+Z]"
+    },
+    {
+      "bounds": [
+        333,
+        0,
+        32,
+        40
+      ],
+      "disabled": true,
+      "ref": "e63632950",
+      "tag": "se-button",
+      "title": "Redo [ctrl+Y]"
+    },
+    {
+      "bounds": [
+        1060,
+        450,
+        12,
+        60
+      ],
+      "ref": "ecd2b7877",
+      "tag": "se-text",
+      "text": "Panel",
+      "title": "Click to open side panel"
+    },
+    {
+      "bounds": [
+        1086,
+        95,
+        18,
+        20
+      ],
+      "ref": "efc2cca78",
+      "tag": "se-button",
+      "title": "New Layer"
+    },
+    {
+      "bounds": [
+        1104,
+        95,
+        18,
+        20
+      ],
+      "ref": "e0fc5715d",
+      "tag": "se-button",
+      "title": "Delete Layer"
+    },
+    {
+      "bounds": [
+        1122,
+        95,
+        18,
+        20
+      ],
+      "ref": "e36276a86",
+      "tag": "se-button",
+      "title": "Rename Layer"
+    },
+    {
+      "bounds": [
+        1140,
+        95,
+        18,
+        20
+      ],
+      "ref": "e3baf046e",
+      "tag": "se-button",
+      "title": "Move Layer Up"
+    },
+    {
+      "bounds": [
+        1158,
+        95,
+        18,
+        20
+      ],
+      "ref": "e48312399",
+      "tag": "se-button",
+      "title": "Move Layer Down"
+    },
+    {
+      "bounds": [
+        1176,
+        95,
+        18,
+        20
+      ],
+      "ref": "e2d15ab9e",
+      "tag": "se-button",
+      "title": "More options"
+    },
+    {
+      "bounds": [
+        1077,
+        117,
+        25,
+        17
+      ],
+      "ref": "ee1eb33e9",
+      "tag": "td"
+    },
+    {
+      "bounds": [
+        1101,
+        117,
+        107,
+        17
+      ],
+      "ref": "e5bee99a5",
+      "tag": "td",
+      "text": "Notes"
+    },
+    {
+      "bounds": [
+        1077,
+        134,
+        25,
+        17
+      ],
+      "ref": "ee1eb33e9x2",
+      "tag": "td"
+    },
+    {
+      "bounds": [
+        1101,
+        134,
+        107,
+        17
+      ],
+      "ref": "e243c3099",
+      "tag": "td",
+      "text": "Sky"
+    },
+    {
+      "bounds": [
+        1075,
+        186,
+        205,
+        31
+      ],
+      "disabled": true,
+      "label": "Move elements to:",
+      "options": [
+        {
+          "label": "Notes",
+          "selected": true,
+          "value": "Notes"
+        },
+        {
+          "label": "Sky",
+          "selected": false,
+          "value": "Sky"
+        }
+      ],
+      "ref": "e6d092ce2",
+      "tag": "se-select",
+      "text": "Move elements to:",
+      "title": "Move selected elements to a different layer",
+      "value": "Notes"
+    },
+    {
+      "bounds": [
+        3,
+        2,
+        92,
+        31
+      ],
+      "ref": "eb4df12b3",
+      "tag": "button",
+      "text": "SVG-Edit"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "drawing": [
+    {
+      "canvas": "canvas0",
+      "container": "svg#canvasBackground",
+      "items": [
+        {
+          "bounds": [
+            334,
+            237,
+            640,
+            480
+          ],
+          "fill": "#FFF",
+          "height": "100%",
+          "kind": "rect",
+          "stroke": "#000",
+          "width": "100%",
+          "x": "0",
+          "y": "0"
+        }
+      ]
+    },
+    {
+      "canvas": "canvas0",
+      "container": "svg#svgcontent > g.layer \"Sky\"",
+      "items": [
+        {
+          "bounds": [
+            334,
+            237,
+            640,
+            200
+          ],
+          "fill": "#9fd3ff",
+          "height": "200",
+          "id": "ys",
+          "kind": "rect",
+          "width": "640",
+          "x": "0",
+          "y": "0"
+        }
+      ]
+    },
+    {
+      "canvas": "canvas0",
+      "container": "svg#svgcontent > g.layer \"Notes\"",
+      "items": [
+        {
+          "bounds": [
+            394,
+            332,
+            68,
+            31
+          ],
+          "font-size": "28",
+          "id": "yn",
+          "kind": "text",
+          "text": "North",
+          "x": "60",
+          "y": "120"
+        },
+        {
+          "bounds": [
+            754,
+            297,
+            120,
+            70
+          ],
+          "fill": "#ffffff",
+          "height": "70",
+          "id": "yr",
+          "kind": "rect",
+          "width": "120",
+          "x": "420",
+          "y": "60"
+        }
+      ]
+    }
+  ],
+  "drawing_truncated": false,
+  "text": "untitled.svg\nLayers\n_",
+  "text_truncated": false,
+  "title": "SVG-edit",
+  "url": "/",
+  "viewport": [
+    1280,
+    900
+  ]
+}

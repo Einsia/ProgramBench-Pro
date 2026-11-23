@@ -1,0 +1,13 @@
+{
+  "reference_paths": [
+    "/app/solution/vdpkg/visidata",
+    "/app/solution/vdpkg/dateutil",
+    "/app/solution/vdpkg/six.pyc"
+  ],
+  "shared_solution_files": [
+    {
+      "file": "LICENSE",
+      "reason": "The GPL licence text is also installed for general system packages; it contains no product implementation."
+    }
+  ]
+}

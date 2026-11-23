@@ -1,0 +1,734 @@
+{
+  "cursor": {
+    "column": 0,
+    "hidden": true,
+    "row": 1
+  },
+  "process": "running",
+  "screen": [
+    "00|Newsboat 2.45.0 - Articles in feed 'Long feed' (75 unread, 75 total) - file://feeds/long.xml",
+    "01|  42 N  Jan 15   3.0K  Article 42",
+    "02|  43 N  Jan 16   3.0K  Article 43",
+    "03|  44 N  Jan 17   3.0K  Article 44",
+    "04|  45 N  Jan 18   3.0K  Article 45",
+    "05|  46 N  Jan 19   3.0K  Article 46",
+    "06|  47 N  Jan 20   3.0K  Article 47",
+    "07|  48 N  Jan 21   3.0K  Article 48",
+    "08|  49 N  Jan 22   3.0K  Article 49",
+    "09|  50 N  Jan 23   3.0K  Article 50",
+    "10|  51 N  Jan 24   3.0K  Article 51",
+    "11|  52 N  Jan 25   3.0K  Article 52",
+    "12|  53 N  Jan 26   3.0K  Article 53",
+    "13|  54 N  Jan 27   3.0K  Article 54",
+    "14|  55 N  Jan 28   3.0K  Article 55",
+    "15|  56 N  Jan 01   3.0K  Article 56",
+    "16|  57 N  Jan 02   3.0K  Article 57",
+    "17|  58 N  Jan 03   3.0K  Article 58",
+    "18|  59 N  Jan 04   3.0K  Article 59",
+    "19|  60 N  Jan 05   3.0K  Article 60",
+    "20|  61 N  Jan 06   3.0K  Article 61",
+    "21|  62 N  Jan 07   3.0K  Article 62",
+    "22|  63 N  Jan 08   3.0K  Article 63",
+    "23|  64 N  Jan 09   3.0K  Article 64",
+    "24|  65 N  Jan 10   3.0K  Article 65",
+    "25|  66 N  Jan 11   3.0K  Article 66",
+    "26|  67 N  Jan 12   3.0K  Article 67",
+    "27|  68 N  Jan 13   3.0K  Article 68",
+    "28|  69 N  Jan 14   3.0K  Article 69",
+    "29|  70 N  Jan 15   3.0K  Article 70",
+    "30|  71 N  Jan 16   3.0K  Article 71",
+    "31|  72 N  Jan 17   3.0K  Article 72",
+    "32|  73 N  Jan 18   3.0K  Article 73",
+    "33|  74 N  Jan 19   3.0K  Article 74",
+    "34|q:Quit ENTER:Open s:Save r:Reload n:Next Unread A:Mark All Read /:Search ?:Help",
+    "35|"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": "Newsboat 2.45.0 - Articles in feed 'Long feed' (75 unread, 75 total) - file://feeds/long.xml                            "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 1,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": "  42 N  Jan 15   3.0K  Article 42                                                                                       "
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 2,
+      "style": [
+        "bold"
+      ],
+      "text": "  43 N  Jan 16   3.0K  Article 43"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 3,
+      "style": [
+        "bold"
+      ],
+      "text": "  44 N  Jan 17   3.0K  Article 44"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 4,
+      "style": [
+        "bold"
+      ],
+      "text": "  45 N  Jan 18   3.0K  Article 45"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 5,
+      "style": [
+        "bold"
+      ],
+      "text": "  46 N  Jan 19   3.0K  Article 46"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 6,
+      "style": [
+        "bold"
+      ],
+      "text": "  47 N  Jan 20   3.0K  Article 47"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 7,
+      "style": [
+        "bold"
+      ],
+      "text": "  48 N  Jan 21   3.0K  Article 48"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 8,
+      "style": [
+        "bold"
+      ],
+      "text": "  49 N  Jan 22   3.0K  Article 49"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 9,
+      "style": [
+        "bold"
+      ],
+      "text": "  50 N  Jan 23   3.0K  Article 50"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 10,
+      "style": [
+        "bold"
+      ],
+      "text": "  51 N  Jan 24   3.0K  Article 51"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 11,
+      "style": [
+        "bold"
+      ],
+      "text": "  52 N  Jan 25   3.0K  Article 52"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 12,
+      "style": [
+        "bold"
+      ],
+      "text": "  53 N  Jan 26   3.0K  Article 53"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 13,
+      "style": [
+        "bold"
+      ],
+      "text": "  54 N  Jan 27   3.0K  Article 54"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 14,
+      "style": [
+        "bold"
+      ],
+      "text": "  55 N  Jan 28   3.0K  Article 55"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 15,
+      "style": [
+        "bold"
+      ],
+      "text": "  56 N  Jan 01   3.0K  Article 56"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 16,
+      "style": [
+        "bold"
+      ],
+      "text": "  57 N  Jan 02   3.0K  Article 57"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 17,
+      "style": [
+        "bold"
+      ],
+      "text": "  58 N  Jan 03   3.0K  Article 58"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 18,
+      "style": [
+        "bold"
+      ],
+      "text": "  59 N  Jan 04   3.0K  Article 59"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 19,
+      "style": [
+        "bold"
+      ],
+      "text": "  60 N  Jan 05   3.0K  Article 60"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 20,
+      "style": [
+        "bold"
+      ],
+      "text": "  61 N  Jan 06   3.0K  Article 61"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 21,
+      "style": [
+        "bold"
+      ],
+      "text": "  62 N  Jan 07   3.0K  Article 62"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 22,
+      "style": [
+        "bold"
+      ],
+      "text": "  63 N  Jan 08   3.0K  Article 63"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 23,
+      "style": [
+        "bold"
+      ],
+      "text": "  64 N  Jan 09   3.0K  Article 64"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 24,
+      "style": [
+        "bold"
+      ],
+      "text": "  65 N  Jan 10   3.0K  Article 65"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 25,
+      "style": [
+        "bold"
+      ],
+      "text": "  66 N  Jan 11   3.0K  Article 66"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 26,
+      "style": [
+        "bold"
+      ],
+      "text": "  67 N  Jan 12   3.0K  Article 67"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 27,
+      "style": [
+        "bold"
+      ],
+      "text": "  68 N  Jan 13   3.0K  Article 68"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 28,
+      "style": [
+        "bold"
+      ],
+      "text": "  69 N  Jan 14   3.0K  Article 69"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 29,
+      "style": [
+        "bold"
+      ],
+      "text": "  70 N  Jan 15   3.0K  Article 70"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 30,
+      "style": [
+        "bold"
+      ],
+      "text": "  71 N  Jan 16   3.0K  Article 71"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 31,
+      "style": [
+        "bold"
+      ],
+      "text": "  72 N  Jan 17   3.0K  Article 72"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 32,
+      "style": [
+        "bold"
+      ],
+      "text": "  73 N  Jan 18   3.0K  Article 73"
+    },
+    {
+      "columns": [
+        0,
+        33
+      ],
+      "row": 33,
+      "style": [
+        "bold"
+      ],
+      "text": "  74 N  Jan 19   3.0K  Article 74"
+    },
+    {
+      "columns": [
+        0,
+        1
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": "q"
+    },
+    {
+      "columns": [
+        1,
+        2
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        2,
+        6
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Quit"
+    },
+    {
+      "columns": [
+        6,
+        12
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": " ENTER"
+    },
+    {
+      "columns": [
+        12,
+        13
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        13,
+        17
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Open"
+    },
+    {
+      "columns": [
+        17,
+        19
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": " s"
+    },
+    {
+      "columns": [
+        19,
+        20
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        20,
+        24
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Save"
+    },
+    {
+      "columns": [
+        24,
+        26
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": " r"
+    },
+    {
+      "columns": [
+        26,
+        27
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        27,
+        33
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Reload"
+    },
+    {
+      "columns": [
+        33,
+        35
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": " n"
+    },
+    {
+      "columns": [
+        35,
+        36
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        36,
+        47
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Next Unread"
+    },
+    {
+      "columns": [
+        47,
+        49
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": " A"
+    },
+    {
+      "columns": [
+        49,
+        50
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        50,
+        63
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Mark All Read"
+    },
+    {
+      "columns": [
+        63,
+        65
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": " /"
+    },
+    {
+      "columns": [
+        65,
+        66
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        66,
+        72
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Search"
+    },
+    {
+      "columns": [
+        72,
+        74
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=brown",
+        "bg=blue"
+      ],
+      "text": " ?"
+    },
+    {
+      "columns": [
+        74,
+        75
+      ],
+      "row": 34,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": ":"
+    },
+    {
+      "columns": [
+        75,
+        79
+      ],
+      "row": 34,
+      "style": [
+        "fg=white",
+        "bg=blue"
+      ],
+      "text": "Help"
+    }
+  ]
+}

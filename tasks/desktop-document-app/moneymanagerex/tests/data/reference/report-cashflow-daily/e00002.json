@@ -1,0 +1,208 @@
+{
+  "focused": null,
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        1024
+      ],
+      "name": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),",
+      "ref": "e93ed40b7",
+      "role": "frame",
+      "states": [
+        "active"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        25
+      ],
+      "name": "",
+      "ref": "e37b0c28a",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        39,
+        25
+      ],
+      "name": "File",
+      "ref": "eae5e7196",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        39,
+        19,
+        75,
+        25
+      ],
+      "name": "Accounts",
+      "ref": "ecb5893cc",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        114,
+        19,
+        49,
+        25
+      ],
+      "name": "Tools",
+      "ref": "ec5eeafb2",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        163,
+        19,
+        48,
+        25
+      ],
+      "name": "View",
+      "ref": "eb0ba3d40",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        211,
+        19,
+        46,
+        25
+      ],
+      "name": "Help",
+      "ref": "ef594ac36",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        1,
+        995,
+        200,
+        6
+      ],
+      "name": "",
+      "ref": "ef36204a0",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        210,
+        97,
+        1,
+        17
+      ],
+      "name": "",
+      "ref": "eedce4bb5",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        214,
+        96,
+        78,
+        19
+      ],
+      "name": "Accounts:",
+      "ref": "ea68a979c",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        299,
+        89,
+        177,
+        34
+      ],
+      "name": "All Accounts",
+      "ref": "eac23b57e",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        508,
+        96,
+        118,
+        19
+      ],
+      "name": "Future Months:",
+      "ref": "edda7875f",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        633,
+        89,
+        116,
+        34
+      ],
+      "name": "",
+      "ref": "e303fc60e",
+      "role": "spin button",
+      "states": [
+        "editable"
+      ],
+      "text": "12",
+      "value": 12.0
+    },
+    {
+      "bounds": [
+        781,
+        96,
+        49,
+        19
+      ],
+      "name": "Chart:",
+      "ref": "e82b9fc26",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        837,
+        89,
+        76,
+        34
+      ],
+      "name": "Show",
+      "ref": "e1862c95f",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        946,
+        97,
+        331,
+        17
+      ],
+      "name": "",
+      "ref": "e33aaf48e",
+      "role": "label"
+    }
+  ],
+  "screen": [
+    1280,
+    1024
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": true,
+      "bounds": [
+        0,
+        38,
+        1280,
+        1005
+      ],
+      "ref": "w5b3c0310",
+      "title": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),"
+    }
+  ]
+}

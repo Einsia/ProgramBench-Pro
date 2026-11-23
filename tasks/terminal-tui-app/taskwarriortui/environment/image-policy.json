@@ -1,0 +1,12 @@
+{
+  "reference_paths": [
+    "/app/solution/bin/task",
+    "/app/solution/bin/taskwarrior-tui"
+  ],
+  "shared_solution_files": [
+    {
+      "file": "LICENSES/libfaketime.txt",
+      "reason": "The same GPL text accompanies the shared libfaketime clock library in the base image."
+    }
+  ]
+}

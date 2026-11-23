@@ -1,0 +1,22 @@
+CherryTree 1.7.2: license, source and configuration
+
+The unmodified Debian 13 amd64 release package is obtained from:
+https://github.com/giuspen/cherrytree/releases/download/v1.7.2/cherrytree_1.7.2-2.Debian13_amd64.deb
+SOURCE.json records its SHA-256 digest. solve.sh unpacks the package with
+dpkg-deb; package maintainer scripts are not run and product files are not patched.
+
+CherryTree is licensed under GPL-3.0-or-later. LICENSE contains the complete
+GNU GPL version 3. LICENSES/cherrytree.txt preserves the package copyright and
+component notices. The original notices also remain in the extracted package.
+The corresponding source for version 1.7.2 is available at:
+https://github.com/giuspen/cherrytree/releases/download/v1.7.2/cherrytree_1.7.2.tar.xz
+Its digest is recorded in SOURCE.json.
+
+The local start.sh, launch.py and solve.sh adapt the runtime configuration:
+English labels, state under DATA_DIR, no timed autosave, no start dialog or
+online version check, and an inert embedded-terminal shell. launch.py applies
+Landlock before starting the product, restricting readable resources, executable
+programs and writable instance/exchange directories. It refuses to start if
+Landlock cannot be established. These launchers are separate from upstream code.
+
+This task is not affiliated with or endorsed by the CherryTree authors.

@@ -1,0 +1,34 @@
+{
+  "task": "micro",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "micro",
+    "version": "2.0.15",
+    "homepage": "https://micro-editor.github.io",
+    "repository": "https://github.com/micro-editor/micro",
+    "license": "MIT AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND MPL-2.0"
+  },
+  "downloads": [
+    {
+      "file": "micro-2.0.15-linux64-static.tar.gz",
+      "url": "https://github.com/micro-editor/micro/releases/download/v2.0.15/micro-2.0.15-linux64-static.tar.gz",
+      "sha256": "267d238eac1e26ed053d13d4d48bd421b87f9eb538b604f0b2f74a85598b6cc2"
+    }
+  ],
+  "bundled": [],
+  "modifications": "No upstream source or binary changes. Separate launch.py applies Landlock and seccomp restrictions and prevents user Lua loading.",
+  "configuration": "The runtime launches the editor in DATA_DIR/workspace with configuration at DATA_DIR/config. User Lua locations are replaced by dangling links before startup; built-in functionality remains. Landlock allows data access only to the instance and terminal, and only the editor binary may execute. seccomp blocks execve. Installed executables remain root-owned mode 0555. Before confinement the launcher creates mode-0111 executable copies under private TMPDIR; Landlock permits executing those copies and denies access to the installed implementation.",
+  "notes": {
+    "corresponding_source": {
+      "version": "2.0.15",
+      "url": "https://github.com/micro-editor/micro/archive/refs/tags/v2.0.15.tar.gz",
+      "sha256": "612c775321c268c8f9e1767505ff378bca9b9ab66f5c41b69ecb2464ecf15084"
+    },
+    "licenses": "LICENSE and LICENSES/dependencies.txt",
+    "mpl_component": {
+      "name": "layeh.com/gopher-luar",
+      "version": "1.0.11",
+      "url": "https://github.com/layeh/gopher-luar/tree/v1.0.11"
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "cursor": {
+    "column": 34,
+    "hidden": true,
+    "row": 35
+  },
+  "process": "running",
+  "screen": [
+    "00| Tasks   Projects   Timesheet   Calendar                                                                completed [none]",
+    "01|  ID Created    Completed  Age Description",
+    "02|",
+    "03|•  0 2026-05-13 2026-05-13 0s  Cleaned garage",
+    "04|",
+    "05|",
+    "06|",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|",
+    "12|",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────",
+    "19|",
+    "20|Name          Value",
+    "21|------------- ------------------------------------",
+    "22|ID            -",
+    "23|Description   Cleaned garage",
+    "24|Status        Completed",
+    "25|Entered       2026-05-13 10:00:00 ()",
+    "26|End           2026-05-13 10:00:00",
+    "27|Last modified 2026-05-13 10:00:00 ()",
+    "28|Virtual tags  COMPLETED UNBLOCKED",
+    "29|UUID          688e95bc-0f69-4fb6-b585-bc2c7c175e1b",
+    "30|Urgency       0",
+    "31|",
+    "32|Date                Modification",
+    "33|------------------- ------------------------------------",
+    "34|Filter Tasks",
+    "35|status:completed -WAITING"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        1,
+        6
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "reverse"
+      ],
+      "text": "Tasks"
+    },
+    {
+      "columns": [
+        6,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "reverse"
+      ],
+      "text": "   Projects   Timesheet   Calendar                                                                completed [none]"
+    },
+    {
+      "columns": [
+        0,
+        4
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "  ID"
+    },
+    {
+      "columns": [
+        5,
+        15
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Created   "
+    },
+    {
+      "columns": [
+        16,
+        26
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Completed "
+    },
+    {
+      "columns": [
+        27,
+        30
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Age"
+    },
+    {
+      "columns": [
+        31,
+        118
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Description                                                                            "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 3,
+      "style": [
+        "bold"
+      ],
+      "text": "•  0 2026-05-13 2026-05-13 0s  Cleaned garage                                                                         "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "reverse"
+      ],
+      "text": "Filter Tasks                                                                                                            "
+    }
+  ]
+}

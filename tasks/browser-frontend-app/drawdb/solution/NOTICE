@@ -1,0 +1,363 @@
+drawDB 1.8.2 — reference distribution
+=====================================
+
+What is distributed here
+------------------------
+drawdb-1.8.2-dist.tar.gz is the static build of drawDB 1.8.2 exactly as the
+release image ghcr.io/drawdb-io/drawdb:v1.8.2 ships it: the image layer that
+holds /usr/share/nginx/html (sha256 d75037aa1890aa74545341ba64396f618c1fab42641109d31843986c16e618a1).
+drawDB's own release workflow (.github/workflows/docker.yml) builds that image
+from the tag v1.8.2 (annotated "Release v1.8.2").
+
+drawdb-1.8.2-source.tar.gz is the GitHub archive of the tag v1.8.2
+(https://github.com/drawdb-io/drawdb/archive/refs/tags/v1.8.2.tar.gz,
+sha256 044ddeba7d1a777c0d088397c9c5c63af13a88723de91748ae979bd06d6da3f2):
+the complete corresponding source of the build, with package-lock.json
+pinning every dependency the build bundles.
+Homepage and source repository: https://github.com/drawdb-io/drawdb
+
+server.py and start.sh are task-authored: they serve the files of the image
+layer unchanged, answer /config.js as the release image does when no backend
+is configured, and answer index.html for every other path (as the image's
+nginx configuration does). No product file is modified.
+
+License of drawDB
+-----------------
+drawDB is distributed under the GNU Affero General Public License version 3
+(LICENSE, the LICENSE file of the tag). The
+corresponding source of the served program is drawdb-1.8.2-source.tar.gz,
+distributed alongside it.
+
+Packages the page loads from public CDNs
+----------------------------------------
+index.html of the build loads Bootstrap Icons 1.11.1 and Font Awesome Free
+6.5.2 from public CDNs, and the code editor loads Monaco Editor 0.52.2 from
+a CDN. These packages are not part of this directory: the task's base image
+holds their npm releases (with their own license files) and the black-box
+runtime answers the CDN addresses from that copy. Bootstrap Icons: MIT.
+Font Awesome Free: icons CC BY 4.0, fonts SIL OFL 1.1, code MIT. Monaco
+Editor: MIT (with its ThirdPartyNotices.txt).
+
+Third-party modules of the build
+--------------------------------
+The build bundles modules of drawDB's production dependencies. The table lists
+the whole production dependency closure of package-lock.json (the modules the
+build can bundle) with the license each release declares. Each module's own
+license files, taken from the npm release named here (integrity-checked
+against package-lock.json), are in LICENSES/third-party/<module>@<version>/
+(a "/" in a scoped name is written "__"). The standard texts of the licenses
+named below are in LICENSES/ (MIT, Apache-2.0, ISC, BSD-3-Clause, Zlib,
+MPL-2.0, Unlicense, 0BSD).
+
+  module                                             version  license
+  @babel/runtime                                     7.28.6   MIT
+  @dagrejs/dagre                                     3.1.1    MIT
+  @dagrejs/graphlib                                  4.0.5    MIT
+  @dbml/core                                         3.13.9   Apache-2.0
+  @dbml/parse                                        3.13.9   Apache-2.0
+  @dnd-kit/accessibility                             3.1.1    MIT
+  @dnd-kit/core                                      6.3.1    MIT
+  @dnd-kit/sortable                                  10.0.0   MIT
+  @dnd-kit/utilities                                 3.2.2    MIT
+  @douyinfe/semi-animation                           2.85.0   MIT
+  @douyinfe/semi-animation-react                     2.85.0   MIT
+  @douyinfe/semi-animation-styled                    2.85.0   MIT
+  @douyinfe/semi-foundation                          2.85.0   MIT
+  @douyinfe/semi-icons                               2.85.0   MIT
+  @douyinfe/semi-illustrations                       2.85.0   MIT
+  @douyinfe/semi-json-viewer-core                    2.85.0   MIT
+  @douyinfe/semi-theme-default                       2.85.0   MIT
+  @douyinfe/semi-ui                                  2.85.0   MIT
+  @dnd-kit/sortable                                  7.0.2    MIT
+  @emotion/is-prop-valid                             0.8.8    MIT
+  @emotion/memoize                                   0.7.4    MIT
+  @lexical/clipboard                                 0.12.6   MIT
+  @lexical/code                                      0.12.6   MIT
+  @lexical/dragon                                    0.12.6   MIT
+  @lexical/hashtag                                   0.12.6   MIT
+  @lexical/history                                   0.12.6   MIT
+  @lexical/html                                      0.12.6   MIT
+  @lexical/link                                      0.12.6   MIT
+  @lexical/list                                      0.12.6   MIT
+  @lexical/mark                                      0.12.6   MIT
+  @lexical/markdown                                  0.12.6   MIT
+  @lexical/offset                                    0.12.6   MIT
+  @lexical/overflow                                  0.12.6   MIT
+  @lexical/plain-text                                0.12.6   MIT
+  @lexical/react                                     0.12.6   MIT
+  @lexical/rich-text                                 0.12.6   MIT
+  @lexical/selection                                 0.12.6   MIT
+  @lexical/table                                     0.12.6   MIT
+  @lexical/text                                      0.12.6   MIT
+  @lexical/utils                                     0.12.6   MIT
+  @lexical/yjs                                       0.12.6   MIT
+  @mdx-js/mdx                                        3.1.0    MIT
+  @monaco-editor/loader                              1.5.0    MIT
+  @monaco-editor/react                               4.7.0    MIT
+  @swc/helpers                                       0.5.17   Apache-2.0
+  @types/debug                                       4.1.12   MIT
+  @types/estree                                      1.0.8    MIT
+  @types/estree-jsx                                  1.0.5    MIT
+  @types/hast                                        3.0.4    MIT
+  @types/mdast                                       4.0.4    MIT
+  @types/mdx                                         2.0.13   MIT
+  @types/ms                                          2.1.0    MIT
+  @types/pako                                        2.0.4    MIT
+  @types/pegjs                                       0.10.6   MIT
+  @types/prop-types                                  15.7.15  MIT
+  @types/raf                                         3.4.3    MIT
+  @types/react                                       18.3.24  MIT
+  @types/trusted-types                               2.0.7    MIT
+  @types/unist                                       3.0.3    MIT
+  @ungap/structured-clone                            1.3.0    ISC
+  @vercel/analytics                                  1.5.0    MPL-2.0
+  acorn                                              8.15.0   MIT
+  acorn-jsx                                          5.3.2    MIT
+  agent-base                                         6.0.2    MIT (no license file in the release; standard text in LICENSES/)
+  antlr4                                             4.13.2   BSD-3-Clause (no license file in the release; standard text in LICENSES/)
+  astring                                            1.9.0    MIT
+  async-validator                                    3.5.2    MIT
+  asynckit                                           0.4.0    MIT
+  axios                                              1.18.0   MIT
+  bail                                               2.0.2    MIT
+  base64-arraybuffer                                 1.0.2    MIT
+  bezier-easing                                      2.1.0    MIT
+  big-integer                                        1.6.52   Unlicense
+  call-bind-apply-helpers                            1.0.2    MIT
+  canvg                                              3.0.11   MIT
+  ccount                                             2.0.1    MIT
+  character-entities                                 2.0.2    MIT
+  character-entities-html4                           2.1.0    MIT
+  character-entities-legacy                          3.0.0    MIT
+  character-reference-invalid                        2.0.1    MIT
+  classnames                                         2.5.1    MIT
+  clsx                                               2.1.1    MIT
+  collapse-white-space                               2.1.0    MIT
+  combined-stream                                    1.0.8    MIT
+  comma-separated-tokens                             2.0.3    MIT
+  compute-scroll-into-view                           1.0.20   MIT
+  cookie                                             1.1.1    MIT
+  copy-text-to-clipboard                             2.2.0    MIT
+  core-js                                            3.45.1   MIT
+  core-util-is                                       1.0.3    MIT
+  css-line-break                                     2.1.0    MIT
+  csstype                                            3.1.3    MIT
+  date-fns                                           2.30.0   MIT
+  date-fns-tz                                        1.3.8    MIT
+  debug                                              4.4.1    MIT
+  decode-named-character-reference                   1.2.0    MIT
+  delayed-stream                                     1.0.0    MIT
+  dequal                                             2.0.3    MIT
+  devlop                                             1.1.0    MIT
+  dexie                                              3.2.7    Apache-2.0
+  dexie-react-hooks                                  1.1.7    Apache-2.0
+  dompurify                                          3.4.13   (MPL-2.0 OR Apache-2.0), used under Apache-2.0
+  dunder-proto                                       1.0.1    MIT
+  es-define-property                                 1.0.1    MIT
+  es-errors                                          1.3.0    MIT
+  es-object-atoms                                    1.1.1    MIT
+  es-set-tostringtag                                 2.1.0    MIT
+  esast-util-from-estree                             2.0.0    MIT
+  esast-util-from-js                                 2.0.1    MIT
+  estree-util-attach-comments                        3.0.0    MIT
+  estree-util-build-jsx                              3.0.1    MIT
+  estree-util-is-identifier-name                     3.0.0    MIT
+  estree-util-scope                                  1.0.0    MIT
+  estree-util-to-js                                  2.0.0    MIT
+  estree-util-visit                                  2.0.0    MIT
+  estree-walker                                      3.0.3    MIT
+  extend                                             3.0.2    MIT
+  fast-copy                                          3.0.2    MIT
+  fast-png                                           6.4.0    MIT
+  pako                                               2.1.0    (MIT AND Zlib)
+  fflate                                             0.8.3    MIT
+  file-saver                                         2.0.5    MIT
+  follow-redirects                                   1.16.0   MIT
+  form-data                                          4.0.6    MIT
+  framer-motion                                      10.18.0  MIT
+  function-bind                                      1.1.2    MIT
+  get-intrinsic                                      1.3.0    MIT
+  get-proto                                          1.0.1    MIT
+  gopd                                               1.2.0    MIT
+  has-symbols                                        1.1.0    MIT
+  has-tostringtag                                    1.0.2    MIT
+  hasown                                             2.0.4    MIT
+  hast-util-to-estree                                3.1.3    MIT
+  hast-util-to-jsx-runtime                           2.3.6    MIT
+  hast-util-whitespace                               3.0.0    MIT
+  html-parse-stringify                               3.0.1    MIT (no license file in the release; standard text in LICENSES/)
+  html-to-image                                      1.11.11  MIT
+  html2canvas                                        1.4.1    MIT
+  https-proxy-agent                                  5.0.1    MIT (no license file in the release; standard text in LICENSES/)
+  i18next                                            23.16.8  MIT
+  i18next-browser-languagedetector                   8.2.0    MIT
+  immediate                                          3.0.6    MIT
+  inherits                                           2.0.4    ISC
+  inline-style-parser                                0.2.4    MIT
+  iobuffer                                           5.4.0    MIT
+  is-alphabetical                                    2.0.1    MIT
+  is-alphanumerical                                  2.0.1    MIT
+  is-decimal                                         2.0.1    MIT
+  is-hexadecimal                                     2.0.1    MIT
+  is-plain-obj                                       4.1.0    MIT
+  isarray                                            1.0.0    MIT (no license file in the release; standard text in LICENSES/)
+  isomorphic.js                                      0.2.5    MIT
+  js-tokens                                          4.0.0    MIT
+  jsonc-parser                                       3.3.1    MIT
+  jsonschema                                         1.5.0    MIT
+  jspdf                                              4.2.1    MIT
+  jszip                                              3.10.1   (MIT OR GPL-3.0-or-later), used under MIT
+  lexical                                            0.12.6   MIT
+  lib0                                               0.2.114  MIT
+  lie                                                3.3.0    MIT
+  lodash                                             4.18.1   MIT
+  lodash-es                                          4.18.1   MIT
+  lodash.debounce                                    4.0.8    MIT
+  longest-streak                                     3.1.0    MIT
+  loose-envify                                       1.4.0    MIT
+  lottie-web                                         5.13.0   MIT
+  luxon                                              3.7.1    MIT
+  markdown-extensions                                2.0.0    MIT
+  markdown-table                                     3.0.4    MIT
+  math-intrinsics                                    1.1.0    MIT
+  mdast-util-find-and-replace                        3.0.2    MIT
+  escape-string-regexp                               5.0.0    MIT
+  mdast-util-from-markdown                           2.0.2    MIT
+  mdast-util-gfm                                     3.1.0    MIT
+  mdast-util-gfm-autolink-literal                    2.0.1    MIT
+  mdast-util-gfm-footnote                            2.1.0    MIT
+  mdast-util-gfm-strikethrough                       2.0.0    MIT
+  mdast-util-gfm-table                               2.0.0    MIT
+  mdast-util-gfm-task-list-item                      2.0.0    MIT
+  mdast-util-mdx                                     3.0.0    MIT
+  mdast-util-mdx-expression                          2.0.1    MIT
+  mdast-util-mdx-jsx                                 3.2.0    MIT
+  mdast-util-mdxjs-esm                               2.0.1    MIT
+  mdast-util-phrasing                                4.1.0    MIT
+  mdast-util-to-hast                                 13.2.1   MIT
+  mdast-util-to-markdown                             2.1.2    MIT
+  mdast-util-to-string                               4.0.0    MIT
+  memoize-one                                        5.2.1    MIT
+  micromark                                          4.0.2    MIT
+  micromark-core-commonmark                          2.0.3    MIT
+  micromark-extension-gfm                            3.0.0    MIT
+  micromark-extension-gfm-autolink-literal           2.1.0    MIT
+  micromark-extension-gfm-footnote                   2.1.0    MIT
+  micromark-extension-gfm-strikethrough              2.1.0    MIT
+  micromark-extension-gfm-table                      2.1.1    MIT
+  micromark-extension-gfm-tagfilter                  2.0.0    MIT
+  micromark-extension-gfm-task-list-item             2.1.0    MIT
+  micromark-extension-mdx-expression                 3.0.1    MIT
+  micromark-extension-mdx-jsx                        3.0.2    MIT
+  micromark-extension-mdx-md                         2.0.0    MIT
+  micromark-extension-mdxjs                          3.0.0    MIT
+  micromark-extension-mdxjs-esm                      3.0.0    MIT
+  micromark-factory-destination                      2.0.1    MIT
+  micromark-factory-label                            2.0.1    MIT
+  micromark-factory-mdx-expression                   2.0.3    MIT
+  micromark-factory-space                            2.0.1    MIT
+  micromark-factory-title                            2.0.1    MIT
+  micromark-factory-whitespace                       2.0.1    MIT
+  micromark-util-character                           2.1.1    MIT
+  micromark-util-chunked                             2.0.1    MIT
+  micromark-util-classify-character                  2.0.1    MIT
+  micromark-util-combine-extensions                  2.0.1    MIT
+  micromark-util-decode-numeric-character-reference  2.0.2    MIT
+  micromark-util-decode-string                       2.0.1    MIT
+  micromark-util-encode                              2.0.1    MIT
+  micromark-util-events-to-acorn                     2.0.3    MIT
+  micromark-util-html-tag-name                       2.0.1    MIT
+  micromark-util-normalize-identifier                2.0.1    MIT
+  micromark-util-resolve-all                         2.0.1    MIT
+  micromark-util-sanitize-uri                        2.0.1    MIT
+  micromark-util-subtokenize                         2.1.0    MIT
+  micromark-util-symbol                              2.0.1    MIT
+  micromark-util-types                               2.0.2    MIT
+  mime-db                                            1.52.0   MIT
+  mime-types                                         2.1.35   MIT
+  monaco-editor                                      0.52.2   MIT
+  ms                                                 2.1.3    MIT
+  nanoid                                             5.1.16   MIT
+  node-sql-parser                                    5.4.0    Apache-2.0
+  object-assign                                      4.1.1    MIT
+  oracle-sql-parser                                  0.1.0    MIT
+  pako                                               1.0.11   (MIT AND Zlib)
+  parse-entities                                     4.0.2    MIT
+  @types/unist                                       2.0.11   MIT
+  parsimmon                                          1.18.1   MIT
+  performance-now                                    2.1.0    MIT
+  pluralize                                          8.0.0    MIT
+  prismjs                                            1.30.0   MIT
+  process-nextick-args                               2.0.1    MIT
+  prop-types                                         15.8.1   MIT
+  property-information                               7.1.0    MIT
+  proxy-from-env                                     2.1.0    MIT
+  raf                                                3.4.1    MIT
+  react                                              18.3.1   MIT
+  react-dom                                          18.3.1   MIT
+  react-error-boundary                               3.1.4    MIT
+  react-hotkeys-hook                                 4.6.2    MIT
+  react-i18next                                      14.1.3   MIT
+  react-is                                           16.13.1  MIT
+  react-resizable                                    3.0.5    MIT
+  react-draggable                                    4.5.0    MIT
+  react-router                                       7.18.2   MIT
+  react-router-dom                                   7.18.2   MIT
+  react-tweet                                        3.3.1    MIT
+  react-window                                       1.8.11   MIT
+  readable-stream                                    2.3.8    MIT
+  recma-build-jsx                                    1.0.0    MIT
+  recma-jsx                                          1.0.1    MIT
+  recma-parse                                        1.0.0    MIT
+  recma-stringify                                    1.0.0    MIT
+  regenerator-runtime                                0.13.11  MIT
+  rehype-recma                                       1.0.0    MIT
+  remark-gfm                                         4.0.1    MIT
+  remark-mdx                                         3.1.0    MIT
+  remark-parse                                       11.0.0   MIT
+  remark-rehype                                      11.1.2   MIT
+  remark-stringify                                   11.0.0   MIT
+  rgbcolor                                           1.0.1    MIT (or the terms of FEEL-FREE.md)
+  safe-buffer                                        5.1.2    MIT
+  scheduler                                          0.23.2   MIT
+  scroll-into-view-if-needed                         2.2.31   MIT
+  set-cookie-parser                                  2.7.2    MIT
+  setimmediate                                       1.0.5    MIT
+  source-map                                         0.7.6    BSD-3-Clause
+  space-separated-tokens                             2.0.2    MIT
+  stackblur-canvas                                   2.7.0    MIT
+  state-local                                        1.0.7    MIT
+  string_decoder                                     1.1.1    MIT
+  stringify-entities                                 4.0.4    MIT
+  style-to-js                                        1.1.17   MIT
+  style-to-object                                    1.0.9    MIT
+  svg-pathdata                                       6.0.3    MIT
+  swr                                                2.3.6    MIT
+  text-segmentation                                  1.0.3    MIT
+  trim-lines                                         3.0.1    MIT
+  trough                                             2.2.0    MIT
+  tslib                                              2.8.1    0BSD
+  unified                                            11.0.5   MIT
+  unist-util-is                                      6.0.0    MIT
+  unist-util-position                                5.0.0    MIT
+  unist-util-position-from-estree                    2.0.0    MIT
+  unist-util-stringify-position                      4.0.0    MIT
+  unist-util-visit                                   5.0.0    MIT
+  unist-util-visit-parents                           6.0.1    MIT
+  use-sync-external-store                            1.5.0    MIT
+  usehooks-ts                                        3.1.1    MIT
+  util-deprecate                                     1.0.2    MIT
+  utility-types                                      3.11.0   MIT
+  utrie                                              1.0.2    MIT
+  uuid                                               14.0.1   MIT
+  vfile                                              6.0.3    MIT
+  vfile-message                                      4.0.3    MIT
+  void-elements                                      3.1.0    MIT
+  yjs                                                13.6.27  MIT
+  zwitch                                             2.0.4    MIT
+
+Serving policy
+--------------
+The static wrapper adds Content-Security-Policy headers to the actual served
+documents, restricting scripts to application resources and the required
+browser libraries. File bytes and the product build remain unchanged.

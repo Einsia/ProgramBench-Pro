@@ -1,0 +1,32 @@
+IT-Tools 2024.10.22-7ca5933 — reference distribution
+====================================================
+
+What is distributed here
+------------------------
+it-tools-2024.10.22-7ca5933.zip is the unmodified release archive of IT-Tools v2024.10.22-7ca5933
+(https://github.com/CorentinTh/it-tools/releases/download/v2024.10.22-7ca5933/it-tools-2024.10.22-7ca5933.zip,
+sha256 eef276d675db6053bdc65cd8482a566785561c70eed5035a0e05b0e627b0989d). It holds the built static site (dist/).
+server.py and start.sh are task-authored: they serve the files of dist/ unchanged from the archive; no product file
+is modified.
+
+License
+-------
+IT-Tools is distributed under the GNU General Public License, version 3 (LICENSE; copyright Corentin Thomasset and
+contributors). The product's About page says MIT, but the repository's LICENSE file, its package.json ("GNU GPLv3")
+and the GitHub license metadata (GPL-3.0) all state GPL-3.0, which is the licence that applies here. Third-party
+libraries bundled into the built files keep their own licence notices inside those files.
+
+Corresponding source
+--------------------
+The complete corresponding source of the release is the git archive of the tag v2024.10.22-7ca5933 (commit
+5732483fc24a6e6818839060bdf3cc7d9d324b9f):
+https://github.com/CorentinTh/it-tools/archive/refs/tags/v2024.10.22-7ca5933.tar.gz
+(sha256 462f31140ef535ade19aa8c808084a5e13e58e4f0391850acb326cdb9244b759). A copy, it-tools-v2024.10.22-7ca5933-source.tar.gz,
+is kept next to this file in the task's solution directory of the repository. It contains the sources, the lockfile
+and the build configuration from which the archive above was built.
+
+Serving policy
+--------------
+The static wrapper adds Content-Security-Policy headers to the actual served
+documents, restricting scripts to application resources and the required
+browser libraries. File bytes and the product build remain unchanged.

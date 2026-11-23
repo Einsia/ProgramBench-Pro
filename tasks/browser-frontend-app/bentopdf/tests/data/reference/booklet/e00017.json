@@ -1,0 +1,436 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        66,
+        778,
+        1150,
+        122
+      ],
+      "ref": "canvas0",
+      "tag": "canvas"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        0,
+        1182,
+        24
+      ],
+      "ref": "e899963c5",
+      "tag": "div",
+      "text": "Click to select a file or drag and drop A single PDF file Your files never leave your device."
+    },
+    {
+      "bounds": [
+        1203,
+        64,
+        16,
+        16
+      ],
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        66,
+        299,
+        545,
+        20
+      ],
+      "checked": true,
+      "label": "No rotation",
+      "name": "rotation",
+      "ref": "e207beed0",
+      "tag": "label",
+      "text": "No rotation",
+      "type": "radio",
+      "value": "none"
+    },
+    {
+      "bounds": [
+        66,
+        327,
+        545,
+        20
+      ],
+      "checked": false,
+      "label": "Rotate clockwise (90°)",
+      "name": "rotation",
+      "ref": "ec38ce332",
+      "tag": "label",
+      "text": "Rotate clockwise (90°)",
+      "type": "radio",
+      "value": "90cw"
+    },
+    {
+      "bounds": [
+        66,
+        355,
+        545,
+        20
+      ],
+      "checked": false,
+      "label": "Rotate counter-clockwise (90°)",
+      "name": "rotation",
+      "ref": "e28290530",
+      "tag": "label",
+      "text": "Rotate counter-clockwise (90°)",
+      "type": "radio",
+      "value": "90ccw"
+    },
+    {
+      "bounds": [
+        66,
+        383,
+        545,
+        20
+      ],
+      "checked": false,
+      "label": "Alternate (odd→CW, even→CCW)",
+      "name": "rotation",
+      "ref": "ea2b7255e",
+      "tag": "label",
+      "text": "Alternate (odd→CW, even→CCW)",
+      "type": "radio",
+      "value": "alternate"
+    },
+    {
+      "bounds": [
+        669,
+        295,
+        545,
+        41
+      ],
+      "label": "Paper Size",
+      "options": [
+        {
+          "label": "Letter (8.5\" × 11\")",
+          "selected": false,
+          "value": "Letter"
+        },
+        {
+          "label": "Legal (8.5\" × 14\")",
+          "selected": false,
+          "value": "Legal"
+        },
+        {
+          "label": "Tabloid (11\" × 17\")",
+          "selected": false,
+          "value": "Tabloid"
+        },
+        {
+          "label": "Ledger (17\" × 11\")",
+          "selected": false,
+          "value": "Ledger"
+        },
+        {
+          "label": "Executive (7.25\" × 10.5\")",
+          "selected": false,
+          "value": "Executive"
+        },
+        {
+          "label": "Folio (8.5\" × 13\")",
+          "selected": false,
+          "value": "Folio"
+        },
+        {
+          "label": "4A0 (1682 × 2378 mm)",
+          "selected": false,
+          "value": "4A0"
+        },
+        {
+          "label": "2A0 (1189 × 1682 mm)",
+          "selected": false,
+          "value": "2A0"
+        },
+        {
+          "label": "A0 (841 × 1189 mm)",
+          "selected": false,
+          "value": "A0"
+        },
+        {
+          "label": "A1 (594 × 841 mm)",
+          "selected": false,
+          "value": "A1"
+        },
+        {
+          "label": "A2 (420 × 594 mm)",
+          "selected": false,
+          "value": "A2"
+        },
+        {
+          "label": "A3 (297 × 420 mm)",
+          "selected": true,
+          "value": "A3"
+        },
+        {
+          "label": "A4 (210 × 297 mm)",
+          "selected": false,
+          "value": "A4"
+        },
+        {
+          "label": "A5 (148 × 210 mm)",
+          "selected": false,
+          "value": "A5"
+        },
+        {
+          "label": "A6 (105 × 148 mm)",
+          "selected": false,
+          "value": "A6"
+        },
+        {
+          "label": "B0 (1000 × 1414 mm)",
+          "selected": false,
+          "value": "B0"
+        },
+        {
+          "label": "B1 (707 × 1000 mm)",
+          "selected": false,
+          "value": "B1"
+        },
+        {
+          "label": "B2 (500 × 707 mm)",
+          "selected": false,
+          "value": "B2"
+        },
+        {
+          "label": "B3 (353 × 500 mm)",
+          "selected": false,
+          "value": "B3"
+        },
+        {
+          "label": "B4 (250 × 353 mm)",
+          "selected": false,
+          "value": "B4"
+        },
+        {
+          "label": "B5 (176 × 250 mm)",
+          "selected": false,
+          "value": "B5"
+        },
+        {
+          "label": "C0 (917 × 1297 mm)",
+          "selected": false,
+          "value": "C0"
+        },
+        {
+          "label": "C1 (648 × 917 mm)",
+          "selected": false,
+          "value": "C1"
+        },
+        {
+          "label": "C2 (458 × 648 mm)",
+          "selected": false,
+          "value": "C2"
+        },
+        {
+          "label": "C3 (324 × 458 mm)",
+          "selected": false,
+          "value": "C3"
+        },
+        {
+          "label": "C4 (229 × 324 mm)",
+          "selected": false,
+          "value": "C4"
+        },
+        {
+          "label": "C5 (162 × 229 mm)",
+          "selected": false,
+          "value": "C5"
+        },
+        {
+          "label": "C6 (114 × 162 mm)",
+          "selected": false,
+          "value": "C6"
+        },
+        {
+          "label": "C7 (81 × 114 mm)",
+          "selected": false,
+          "value": "C7"
+        }
+      ],
+      "ref": "efc820c85",
+      "tag": "select",
+      "value": "A3"
+    },
+    {
+      "bounds": [
+        669,
+        384,
+        545,
+        20
+      ],
+      "checked": false,
+      "label": "1×2 (Booklet)",
+      "name": "grid-mode",
+      "ref": "e0ce11cc0",
+      "tag": "label",
+      "text": "1×2 (Booklet)",
+      "type": "radio",
+      "value": "1x2"
+    },
+    {
+      "bounds": [
+        669,
+        412,
+        545,
+        20
+      ],
+      "checked": true,
+      "label": "2×2",
+      "name": "grid-mode",
+      "ref": "e449b0ac0",
+      "tag": "label",
+      "text": "2×2",
+      "type": "radio",
+      "value": "2x2"
+    },
+    {
+      "bounds": [
+        669,
+        440,
+        545,
+        20
+      ],
+      "checked": false,
+      "label": "2×4",
+      "name": "grid-mode",
+      "ref": "e5c123108",
+      "tag": "label",
+      "text": "2×4",
+      "type": "radio",
+      "value": "2x4"
+    },
+    {
+      "bounds": [
+        669,
+        468,
+        545,
+        20
+      ],
+      "checked": false,
+      "label": "4×4",
+      "name": "grid-mode",
+      "ref": "e0d61c7c8",
+      "tag": "label",
+      "text": "4×4",
+      "type": "radio",
+      "value": "4x4"
+    },
+    {
+      "bounds": [
+        669,
+        536,
+        545,
+        20
+      ],
+      "checked": true,
+      "label": "Auto (best for layout)",
+      "name": "orientation",
+      "ref": "ea7536860",
+      "tag": "label",
+      "text": "Auto (best for layout)",
+      "type": "radio",
+      "value": "auto"
+    },
+    {
+      "bounds": [
+        669,
+        564,
+        545,
+        20
+      ],
+      "checked": false,
+      "label": "Portrait",
+      "name": "orientation",
+      "ref": "e91b52178",
+      "tag": "label",
+      "text": "Portrait",
+      "type": "radio",
+      "value": "portrait"
+    },
+    {
+      "bounds": [
+        669,
+        592,
+        545,
+        20
+      ],
+      "checked": false,
+      "label": "Landscape",
+      "name": "orientation",
+      "ref": "efd8fc83a",
+      "tag": "label",
+      "text": "Landscape",
+      "type": "radio",
+      "value": "landscape"
+    },
+    {
+      "bounds": [
+        49,
+        653,
+        567,
+        48
+      ],
+      "ref": "eead4fd01",
+      "tag": "button",
+      "text": "Generate Preview"
+    },
+    {
+      "bounds": [
+        632,
+        653,
+        599,
+        48
+      ],
+      "ref": "e0f35178c",
+      "tag": "button",
+      "text": "Create Booklet"
+    },
+    {
+      "bounds": [
+        473,
+        472,
+        334,
+        40
+      ],
+      "ref": "e2a50e308",
+      "tag": "button",
+      "text": "OK"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "bookmarks.pdf",
+      "ref": "dd23d0d7ca447",
+      "size": 6616
+    }
+  ],
+  "inputs": [
+    "bookmarks.pdf",
+    "report.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›PDF Booklet\nPDF Booklet\n\nRearrange pages for double-sided booklet printing. Fold and staple to create a booklet.\n\nClick to select a file or drag and drop\n\nA single PDF file\n\nYour files never leave your device.\n\nbookmarks.pdf\n5.5 KB • 6 pages\n\nHow it works:\n\nUpload a PDF file.\nPages will be rearranged in booklet order.\nPrint double-sided, flip on short edge, fold and staple.\nSource Rotation\nNo rotation\nRotate clockwise (90°)\nRotate counter-clockwise (90°)\nAlternate (odd→CW, even→CCW)\nPaper Size\nLetter (8.5\" × 11\")\nLegal (8.5\" × 14\")\nTabloid (11\" × 17\")\nLedger (17\" × 11\")\nExecutive (7.25\" × 10.5\")\nFolio (8.5\" × 13\")\n4A0 (1682 × 2378 mm)\n2A0 (1189 × 1682 mm)\nA0 (841 × 1189 mm)\nA1 (594 × 841 mm)\nA2 (420 × 594 mm)\nA3 (297 × 420 mm)\nA4 (210 × 297 mm)\nA5 (148 × 210 mm)\nA6 (105 × 148 mm)\nB0 (1000 × 1414 mm)\nB1 (707 × 1000 mm)\nB2 (500 × 707 mm)\nB3 (353 × 500 mm)\nB4 (250 × 353 mm)\nB5 (176 × 250 mm)\nC0 (917 × 1297 mm)\nC1 (648 × 917 mm)\nC2 (458 × 648 mm)\nC3 (324 × 458 mm)\nC4 (229 × 324 mm)\nC5 (162 × 229 mm)\nC6 (114 × 162 mm)\nC7 (81 × 114 mm)\nGrid Mode\n1×2 (Booklet)\n2×2\n2×4\n4×4\nOrientation\nAuto (best for layout)\nPortrait\nLandscape\n Generate Preview\nCreate Booklet\n\n6 pages → 2 output sheets\n\nSuccess\n\nBooklet created with 2 sheets!\n\nOK\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/pdf-booklet.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

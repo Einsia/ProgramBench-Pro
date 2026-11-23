@@ -1,0 +1,539 @@
+{
+  "controls": [
+    {
+      "aria": "Skip to content",
+      "bounds": [
+        16,
+        -80,
+        145,
+        39
+      ],
+      "offscreen": true,
+      "ref": "e282",
+      "role": null,
+      "tag": "button",
+      "text": "SKIP TO CONTENT",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        5,
+        0,
+        48,
+        48
+      ],
+      "ref": "e283",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Close menu",
+      "type": "button"
+    },
+    {
+      "aria": "Refresh",
+      "bounds": [
+        1072,
+        0,
+        48,
+        48
+      ],
+      "ref": "e284",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Refresh",
+      "type": "button"
+    },
+    {
+      "aria": "Now Playing",
+      "bounds": [
+        1120,
+        2,
+        44,
+        44
+      ],
+      "ref": "e285",
+      "role": null,
+      "tag": "button",
+      "text": "0",
+      "title": "Now Playing",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1164,
+        2,
+        44,
+        44
+      ],
+      "ref": "e286",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Activity",
+      "type": "button"
+    },
+    {
+      "aria": "Settings",
+      "bounds": [
+        1208,
+        0,
+        48,
+        48
+      ],
+      "ref": "e287",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Settings",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        0,
+        56,
+        240,
+        36
+      ],
+      "ref": "e288",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "Albums"
+    },
+    {
+      "bounds": [
+        0,
+        92,
+        240,
+        36
+      ],
+      "href": "/app/#/album/all",
+      "ref": "e289",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        0,
+        128,
+        240,
+        36
+      ],
+      "href": "/app/#/album/random",
+      "ref": "e290",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Random"
+    },
+    {
+      "bounds": [
+        0,
+        164,
+        240,
+        36
+      ],
+      "href": "/app/#/album/starred",
+      "ref": "e291",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Favourites"
+    },
+    {
+      "bounds": [
+        0,
+        200,
+        240,
+        36
+      ],
+      "href": "/app/#/album/topRated",
+      "ref": "e292",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Top Rated"
+    },
+    {
+      "bounds": [
+        0,
+        236,
+        240,
+        36
+      ],
+      "href": "/app/#/album/recentlyAdded",
+      "ref": "e293",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Recently Added"
+    },
+    {
+      "bounds": [
+        0,
+        272,
+        240,
+        36
+      ],
+      "href": "/app/#/album/recentlyPlayed",
+      "ref": "e294",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Recently Played"
+    },
+    {
+      "bounds": [
+        0,
+        308,
+        240,
+        36
+      ],
+      "href": "/app/#/album/mostPlayed",
+      "ref": "e295",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Most Played"
+    },
+    {
+      "bounds": [
+        0,
+        344,
+        240,
+        36
+      ],
+      "href": "/app/#/artist",
+      "ref": "e296",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Artists"
+    },
+    {
+      "bounds": [
+        0,
+        380,
+        240,
+        36
+      ],
+      "href": "/app/#/song",
+      "ref": "e297",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Songs"
+    },
+    {
+      "bounds": [
+        0,
+        416,
+        240,
+        36
+      ],
+      "href": "/app/#/radio",
+      "ref": "e298",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Radios"
+    },
+    {
+      "bounds": [
+        0,
+        452,
+        240,
+        36
+      ],
+      "href": "/app/#/share",
+      "ref": "e299",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Shares"
+    },
+    {
+      "bounds": [
+        0,
+        489,
+        240,
+        38
+      ],
+      "ref": "e300",
+      "role": "menuitem",
+      "tag": "li",
+      "text": "Playlists"
+    },
+    {
+      "bounds": [
+        0,
+        527,
+        240,
+        36
+      ],
+      "href": "/app/#/playlist/64khbkbNiWtKjB9B20Gceu/show",
+      "ref": "e301",
+      "role": "menuitem",
+      "tag": "a",
+      "text": "Favourites"
+    },
+    {
+      "bounds": [
+        245,
+        72,
+        221,
+        40
+      ],
+      "name": "name",
+      "placeholder": "Search",
+      "ref": "e302",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "aria": "Quick Scan",
+      "bounds": [
+        933,
+        80,
+        121,
+        31
+      ],
+      "ref": "e303",
+      "role": null,
+      "tag": "button",
+      "text": "QUICK SCAN",
+      "type": "button"
+    },
+    {
+      "aria": "Full Scan",
+      "bounds": [
+        1055,
+        80,
+        111,
+        31
+      ],
+      "ref": "e304",
+      "role": null,
+      "tag": "button",
+      "text": "FULL SCAN",
+      "type": "button"
+    },
+    {
+      "aria": "Create",
+      "bounds": [
+        1166,
+        80,
+        91,
+        31
+      ],
+      "href": "/app/#/library/create",
+      "ref": "e305",
+      "role": "button",
+      "tag": "a",
+      "text": "CREATE"
+    },
+    {
+      "aria": "Unselect",
+      "bounds": [
+        260,
+        114,
+        26,
+        28
+      ],
+      "ref": "e306",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Unselect",
+      "type": "button"
+    },
+    {
+      "aria": "Quick Scan",
+      "bounds": [
+        1000,
+        112,
+        121,
+        31
+      ],
+      "ref": "e307",
+      "role": null,
+      "tag": "button",
+      "text": "QUICK SCAN",
+      "type": "button"
+    },
+    {
+      "aria": "Full Scan",
+      "bounds": [
+        1121,
+        112,
+        111,
+        31
+      ],
+      "ref": "e308",
+      "role": null,
+      "tag": "button",
+      "text": "FULL SCAN",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        261,
+        135,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e309",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        313,
+        135,
+        64,
+        24
+      ],
+      "ref": "e310",
+      "role": "button",
+      "tag": "span",
+      "text": "Name",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        449,
+        135,
+        29,
+        24
+      ],
+      "ref": "e311",
+      "role": "button",
+      "tag": "span",
+      "text": "Path",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        538,
+        135,
+        140,
+        24
+      ],
+      "ref": "e312",
+      "role": "button",
+      "tag": "span",
+      "text": "Default for New Users",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        742,
+        135,
+        40,
+        24
+      ],
+      "ref": "e313",
+      "role": "button",
+      "tag": "span",
+      "text": "Songs",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        830,
+        135,
+        48,
+        24
+      ],
+      "ref": "e314",
+      "role": "button",
+      "tag": "span",
+      "text": "Albums",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        929,
+        135,
+        83,
+        24
+      ],
+      "ref": "e315",
+      "role": "button",
+      "tag": "span",
+      "text": "Missing Files",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        1051,
+        135,
+        62,
+        24
+      ],
+      "ref": "e316",
+      "role": "button",
+      "tag": "span",
+      "text": "Total Size",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        1168,
+        135,
+        64,
+        24
+      ],
+      "ref": "e317",
+      "role": "button",
+      "tag": "span",
+      "text": "Last Scan",
+      "title": "Sort"
+    },
+    {
+      "bounds": [
+        261,
+        173,
+        24,
+        24
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e318",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1105,
+        216,
+        48,
+        30
+      ],
+      "ref": "e319",
+      "role": "button",
+      "tag": "div",
+      "text": "15"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "SKIP TO CONTENT\nNavidrome - Libraries\n0\nAlbums\nAll\nRandom\nFavourites\nTop Rated\nRecently Added\nRecently Played\nMost Played\nArtists\nSongs\nRadios\nShares\nPlaylists\nFavourites\n​\n\n \nQUICK SCAN\nFULL SCAN\nCREATE\n0 items selected\nQUICK SCAN\nFULL SCAN\n\t\nName\n\t\nPath\n\t\nDefault for New Users\n\t\nSongs\n\t\nAlbums\n\t\nMissing Files\n\t\nTotal Size\n\t\nLast Scan\n\n\n\tMusic Library\t/music\t\n\t15\t7\t0\t213.45 KB\t11/1/2026\n\nItems per page:\n\n15\n\n1-1 of 1",
+  "text_truncated": false,
+  "title": "Navidrome",
+  "url": "/app/#/library",
+  "viewport": [
+    1280,
+    900
+  ]
+}

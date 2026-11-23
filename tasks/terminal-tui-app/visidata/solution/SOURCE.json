@@ -1,0 +1,55 @@
+{
+  "task": "visidata",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "VisiData",
+    "version": "3.4",
+    "homepage": "https://www.visidata.org",
+    "repository": "https://github.com/saulpw/visidata",
+    "license": "GPL-3.0-only"
+  },
+  "downloads": [
+    {
+      "file": "visidata-3.4-py3-none-any.whl",
+      "url": "https://files.pythonhosted.org/packages/52/0a/23878c577da6227faa79c26ec80567e2998f8eb655d61295b18a2f163509/visidata-3.4-py3-none-any.whl",
+      "sha256": "9b88473c7bfb5a1752bea5870cc6edd3474cf529ac16c0e465d3ec0014ea99fb"
+    },
+    {
+      "file": "python_dateutil-3.0.0-py2.py3-none-any.whl",
+      "url": "https://files.pythonhosted.org/packages/5a/17/cebee01d1c0c1441174cf0456ddc91b280d79acb65340c05e41d77866ee8/python_dateutil-3.0.0-py2.py3-none-any.whl",
+      "sha256": "3c79630202e4152c6add678446984236efe4f57e84d8e892aab0637bab82e9fd"
+    },
+    {
+      "file": "six-1.17.0-py2.py3-none-any.whl",
+      "url": "https://files.pythonhosted.org/packages/b7/ce/149a00dd41f10bc29e5921b496af8b574d8413afcd5e30dfa0ed46c2cc5e/six-1.17.0-py2.py3-none-any.whl",
+      "sha256": "4721f391ed90541fddacab5acf947aa0d3dc7d27b2e1e8eda2be8970586c3274"
+    }
+  ],
+  "bundled": [],
+  "modifications": "Upstream wheel files are extracted without source edits and compiled to Python bytecode. The separate launcher changes the in-memory command table, expression evaluation/compilation, conditional-format evaluation and traceback rendering; guard.py supplies the restricted expression namespace. Landlock and seccomp enforce additional process boundaries.",
+  "configuration": "The application starts in DATA_DIR/workspace, uses private state under DATA_DIR, and runs with -N so user configuration and plugins are not loaded. The launcher disables external programs, arbitrary Python commands, system clipboard operations, process inspection and network access. Interactive and batch invocations use the same guard and confinement. Input history is DATA_DIR/.local/share/visidata/input_history.jsonl.",
+  "notes": {
+    "dependencies": [
+      {
+        "name": "python-dateutil",
+        "version": "3.0.0",
+        "license": "Apache-2.0 OR BSD-3-Clause",
+        "license_file": "LICENSES/python-dateutil.txt"
+      },
+      {
+        "name": "six",
+        "version": "1.17.0",
+        "license": "MIT",
+        "license_file": "LICENSES/six.txt"
+      }
+    ],
+    "corresponding_source": {
+      "version": "3.4",
+      "wheel_url": "https://files.pythonhosted.org/packages/52/0a/23878c577da6227faa79c26ec80567e2998f8eb655d61295b18a2f163509/visidata-3.4-py3-none-any.whl",
+      "sdist_url": "https://files.pythonhosted.org/packages/eb/dd/682ac00672daf1325a3174d5cb5f32b9d9a2aeb42d3baa18e669278308d0/visidata-3.4.tar.gz",
+      "repository": "https://github.com/saulpw/visidata",
+      "description": "The retained upstream wheel contains the complete visidata Python sources used by solve.sh. The upstream source distribution is also available at sdist_url."
+    },
+    "installation": "solve.sh extracts the three pinned wheels into vdpkg, byte-compiles with the system Python, and removes extracted .py files. The VisiData wheel remains as corresponding source; dependency licence texts remain in LICENSES."
+  }
+}

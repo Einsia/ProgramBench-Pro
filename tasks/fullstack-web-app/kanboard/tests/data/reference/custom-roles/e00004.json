@@ -1,0 +1,652 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e966",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e967",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/project/1/permissions",
+      "ref": "e968",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/project/1/permissions",
+      "ref": "e969",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "aria": "Configure this project",
+      "bounds": [
+        10,
+        48,
+        29,
+        17
+      ],
+      "href": "/project/1/permissions",
+      "ref": "e970",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Configure this project"
+    },
+    {
+      "bounds": [
+        53,
+        49,
+        81,
+        16
+      ],
+      "href": "/project/1/overview/status%3Aopen",
+      "ref": "e971",
+      "role": null,
+      "tag": "a",
+      "text": "Overview",
+      "title": "Keyboard shortcut: \"v o\""
+    },
+    {
+      "bounds": [
+        155,
+        49,
+        60,
+        16
+      ],
+      "href": "/board/1/search/status%3Aopen",
+      "ref": "e972",
+      "role": null,
+      "tag": "a",
+      "text": "Board",
+      "title": "Keyboard shortcut: \"v b\""
+    },
+    {
+      "bounds": [
+        236,
+        49,
+        44,
+        16
+      ],
+      "href": "/list/1/search/status%3Aopen",
+      "ref": "e973",
+      "role": null,
+      "tag": "a",
+      "text": "List",
+      "title": "Keyboard shortcut: \"v l\""
+    },
+    {
+      "aria": "Filter",
+      "bounds": [
+        299,
+        44,
+        850,
+        28
+      ],
+      "name": "search",
+      "placeholder": "Filter",
+      "ref": "e974",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "status:open"
+    },
+    {
+      "aria": "Default filters",
+      "bounds": [
+        1161,
+        49,
+        36,
+        16
+      ],
+      "href": "/project/1/permissions",
+      "ref": "e975",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Default filters"
+    },
+    {
+      "aria": "Custom filters",
+      "bounds": [
+        1221,
+        49,
+        36,
+        16
+      ],
+      "href": "/project/1/permissions",
+      "ref": "e976",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "User filters"
+    },
+    {
+      "bounds": [
+        23,
+        89,
+        68,
+        17
+      ],
+      "href": "/project/1",
+      "ref": "e977",
+      "role": null,
+      "tag": "a",
+      "text": "Summary"
+    },
+    {
+      "bounds": [
+        23,
+        125,
+        98,
+        17
+      ],
+      "href": "/project/1/customer-filters",
+      "ref": "e978",
+      "role": null,
+      "tag": "a",
+      "text": "Custom filters"
+    },
+    {
+      "bounds": [
+        23,
+        161,
+        80,
+        17
+      ],
+      "href": "/project/1/edit",
+      "ref": "e979",
+      "role": null,
+      "tag": "a",
+      "text": "Edit project"
+    },
+    {
+      "bounds": [
+        23,
+        197,
+        142,
+        17
+      ],
+      "href": "/project/1/predefined-contents",
+      "ref": "e980",
+      "role": null,
+      "tag": "a",
+      "text": "Predefined contents"
+    },
+    {
+      "bounds": [
+        23,
+        233,
+        98,
+        17
+      ],
+      "href": "/project/1/share",
+      "ref": "e981",
+      "role": null,
+      "tag": "a",
+      "text": "Public access"
+    },
+    {
+      "bounds": [
+        23,
+        269,
+        87,
+        17
+      ],
+      "href": "/project/1/notifications",
+      "ref": "e982",
+      "role": null,
+      "tag": "a",
+      "text": "Notifications"
+    },
+    {
+      "bounds": [
+        23,
+        305,
+        84,
+        17
+      ],
+      "href": "/project/1/integrations",
+      "ref": "e983",
+      "role": null,
+      "tag": "a",
+      "text": "Integrations"
+    },
+    {
+      "bounds": [
+        23,
+        341,
+        63,
+        17
+      ],
+      "href": "/project/1/columns",
+      "ref": "e984",
+      "role": null,
+      "tag": "a",
+      "text": "Columns"
+    },
+    {
+      "bounds": [
+        23,
+        377,
+        77,
+        17
+      ],
+      "href": "/project/1/swimlanes",
+      "ref": "e985",
+      "role": null,
+      "tag": "a",
+      "text": "Swimlanes"
+    },
+    {
+      "bounds": [
+        23,
+        413,
+        77,
+        17
+      ],
+      "href": "/project/1/categories",
+      "ref": "e986",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        23,
+        449,
+        34,
+        17
+      ],
+      "href": "/project/1/tags",
+      "ref": "e987",
+      "role": null,
+      "tag": "a",
+      "text": "Tags"
+    },
+    {
+      "bounds": [
+        23,
+        485,
+        87,
+        17
+      ],
+      "href": "/project/1/permissions",
+      "ref": "e988",
+      "role": null,
+      "tag": "a",
+      "text": "Permissions"
+    },
+    {
+      "bounds": [
+        23,
+        521,
+        94,
+        17
+      ],
+      "href": "/project/1/custom-roles",
+      "ref": "e989",
+      "role": null,
+      "tag": "a",
+      "text": "Custom roles"
+    },
+    {
+      "bounds": [
+        23,
+        557,
+        126,
+        17
+      ],
+      "href": "/project/1/actions",
+      "ref": "e990",
+      "role": null,
+      "tag": "a",
+      "text": "Automatic actions"
+    },
+    {
+      "bounds": [
+        23,
+        593,
+        67,
+        17
+      ],
+      "href": "/project/1/duplicate",
+      "ref": "e991",
+      "role": null,
+      "tag": "a",
+      "text": "Duplicate"
+    },
+    {
+      "bounds": [
+        23,
+        629,
+        182,
+        52
+      ],
+      "href": "/project/1/import/tasks",
+      "ref": "e992",
+      "role": null,
+      "tag": "a",
+      "text": "Import tasks from another project"
+    },
+    {
+      "bounds": [
+        23,
+        700,
+        123,
+        17
+      ],
+      "href": "/project/1/disable",
+      "ref": "e993",
+      "role": null,
+      "tag": "a",
+      "text": "Close this project"
+    },
+    {
+      "bounds": [
+        23,
+        736,
+        60,
+        17
+      ],
+      "href": "/project/1/remove",
+      "ref": "e994",
+      "role": null,
+      "tag": "a",
+      "text": "Remove"
+    },
+    {
+      "aria": "Role",
+      "bounds": [
+        764,
+        171,
+        140,
+        21
+      ],
+      "options": [
+        {
+          "disabled": false,
+          "label": "Project Manager",
+          "selected": true,
+          "value": "project-manager"
+        },
+        {
+          "disabled": false,
+          "label": "Project Member",
+          "selected": false,
+          "value": "project-member"
+        },
+        {
+          "disabled": false,
+          "label": "Project Viewer",
+          "selected": false,
+          "value": "project-viewer"
+        },
+        {
+          "disabled": false,
+          "label": "Reviewer",
+          "selected": false,
+          "value": "Reviewer"
+        }
+      ],
+      "ref": "e995",
+      "role": null,
+      "tag": "select",
+      "text": "Project Manager\nProject Member\nProject Viewer\nReviewer",
+      "value": "project-manager"
+    },
+    {
+      "aria": "Role",
+      "bounds": [
+        764,
+        209,
+        140,
+        21
+      ],
+      "options": [
+        {
+          "disabled": false,
+          "label": "Project Manager",
+          "selected": false,
+          "value": "project-manager"
+        },
+        {
+          "disabled": false,
+          "label": "Project Member",
+          "selected": false,
+          "value": "project-member"
+        },
+        {
+          "disabled": false,
+          "label": "Project Viewer",
+          "selected": false,
+          "value": "project-viewer"
+        },
+        {
+          "disabled": false,
+          "label": "Reviewer",
+          "selected": true,
+          "value": "Reviewer"
+        }
+      ],
+      "ref": "e996",
+      "role": null,
+      "tag": "select",
+      "text": "Project Manager\nProject Member\nProject Viewer\nReviewer",
+      "value": "Reviewer"
+    },
+    {
+      "bounds": [
+        1120,
+        209,
+        83,
+        17
+      ],
+      "href": "/?controller=ProjectPermissionController&action=removeUser&project_id=1&user_id=2&csrf_token=40df6bca1c11280f1f6165e33e48b0e0e66542411613e2379aaa7180e34f7959",
+      "ref": "e997",
+      "role": null,
+      "tag": "a",
+      "text": "Remove"
+    },
+    {
+      "bounds": [
+        311,
+        270,
+        308,
+        28
+      ],
+      "label": "Name Group Name",
+      "name": "name",
+      "placeholder": "Enter user name...",
+      "ref": "e998",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "title": "Enter user name...",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "aria": "Role",
+      "bounds": [
+        639,
+        273,
+        140,
+        21
+      ],
+      "name": "role",
+      "options": [
+        {
+          "disabled": false,
+          "label": "Project Manager",
+          "selected": false,
+          "value": "project-manager"
+        },
+        {
+          "disabled": false,
+          "label": "Project Member",
+          "selected": true,
+          "value": "project-member"
+        },
+        {
+          "disabled": false,
+          "label": "Project Viewer",
+          "selected": false,
+          "value": "project-viewer"
+        },
+        {
+          "disabled": false,
+          "label": "Reviewer",
+          "selected": false,
+          "value": "Reviewer"
+        }
+      ],
+      "ref": "e999",
+      "role": null,
+      "tag": "select",
+      "text": "Project Manager\nProject Member\nProject Viewer\nReviewer",
+      "value": "project-member"
+    },
+    {
+      "bounds": [
+        798,
+        268,
+        56,
+        30
+      ],
+      "disabled": true,
+      "ref": "e1000",
+      "role": null,
+      "tag": "button",
+      "text": "Add"
+    },
+    {
+      "bounds": [
+        360,
+        426,
+        308,
+        28
+      ],
+      "name": "name",
+      "placeholder": "Enter group name...",
+      "ref": "e1001",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "title": "Enter group name...",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "aria": "Role",
+      "bounds": [
+        688,
+        429,
+        140,
+        21
+      ],
+      "name": "role",
+      "options": [
+        {
+          "disabled": false,
+          "label": "Project Manager",
+          "selected": false,
+          "value": "project-manager"
+        },
+        {
+          "disabled": false,
+          "label": "Project Member",
+          "selected": true,
+          "value": "project-member"
+        },
+        {
+          "disabled": false,
+          "label": "Project Viewer",
+          "selected": false,
+          "value": "project-viewer"
+        },
+        {
+          "disabled": false,
+          "label": "Reviewer",
+          "selected": false,
+          "value": "Reviewer"
+        }
+      ],
+      "ref": "e1002",
+      "role": null,
+      "tag": "select",
+      "text": "Project Manager\nProject Member\nProject Viewer\nReviewer",
+      "value": "project-member"
+    },
+    {
+      "bounds": [
+        847,
+        424,
+        56,
+        30
+      ],
+      "disabled": true,
+      "ref": "e1003",
+      "role": null,
+      "tag": "button",
+      "text": "Add"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Website > Project Permissions\n \n \nA\nOverview Board List\nSummary\nCustom filters\nEdit project\nPredefined contents\nPublic access\nNotifications\nIntegrations\nColumns\nSwimlanes\nCategories\nTags\nPermissions\nCustom roles\nAutomatic actions\nDuplicate\nImport tasks from another project\nClose this project\nRemove\nAllowed Users\nUser\tRole\tActions\nadmin\t\nProject Manager\nProject Member\nProject Viewer\nReviewer\n\t\nBob Builder\t\nProject Manager\nProject Member\nProject Viewer\nReviewer\n\tRemove\nName  \nProject Manager\nProject Member\nProject Viewer\nReviewer\n Add\nAllowed Groups\nNo group has been allowed.\nGroup Name  \nProject Manager\nProject Member\nProject Viewer\nReviewer\n Add",
+  "text_truncated": false,
+  "title": "Website > Project Permissions",
+  "url": "/project/1/permissions",
+  "viewport": [
+    1280,
+    900
+  ]
+}

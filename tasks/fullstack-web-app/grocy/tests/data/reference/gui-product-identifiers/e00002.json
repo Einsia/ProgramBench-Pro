@@ -1,0 +1,1510 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        12,
+        10,
+        250,
+        30
+      ],
+      "href": "/",
+      "ref": "e1323279754",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        0,
+        48,
+        250,
+        41
+      ],
+      "href": "/stockoverview",
+      "ref": "e1053475070",
+      "role": null,
+      "tag": "a",
+      "text": "Stock overview"
+    },
+    {
+      "bounds": [
+        0,
+        89,
+        250,
+        41
+      ],
+      "href": "/shoppinglist",
+      "ref": "e3484720244",
+      "role": null,
+      "tag": "a",
+      "text": "Shopping list"
+    },
+    {
+      "bounds": [
+        0,
+        132,
+        250,
+        41
+      ],
+      "href": "/recipes",
+      "ref": "e3605665942",
+      "role": null,
+      "tag": "a",
+      "text": "Recipes"
+    },
+    {
+      "bounds": [
+        0,
+        173,
+        250,
+        41
+      ],
+      "href": "/mealplan",
+      "ref": "e2044783333",
+      "role": null,
+      "tag": "a",
+      "text": "Meal plan"
+    },
+    {
+      "bounds": [
+        0,
+        216,
+        250,
+        41
+      ],
+      "href": "/choresoverview",
+      "ref": "e3381809840",
+      "role": null,
+      "tag": "a",
+      "text": "Chores overview"
+    },
+    {
+      "bounds": [
+        0,
+        257,
+        250,
+        41
+      ],
+      "href": "/tasks",
+      "ref": "e3412285266",
+      "role": null,
+      "tag": "a",
+      "text": "Tasks"
+    },
+    {
+      "bounds": [
+        0,
+        298,
+        250,
+        41
+      ],
+      "href": "/batteriesoverview",
+      "ref": "e1339919142",
+      "role": null,
+      "tag": "a",
+      "text": "Batteries overview"
+    },
+    {
+      "bounds": [
+        0,
+        339,
+        250,
+        41
+      ],
+      "href": "/equipment",
+      "ref": "e3517608074",
+      "role": null,
+      "tag": "a",
+      "text": "Equipment"
+    },
+    {
+      "bounds": [
+        0,
+        382,
+        250,
+        41
+      ],
+      "href": "/calendar",
+      "ref": "e2087124146",
+      "role": null,
+      "tag": "a",
+      "text": "Calendar"
+    },
+    {
+      "bounds": [
+        0,
+        425,
+        250,
+        41
+      ],
+      "href": "/purchase",
+      "ref": "e337229804",
+      "role": null,
+      "tag": "a",
+      "text": "Purchase"
+    },
+    {
+      "bounds": [
+        0,
+        466,
+        250,
+        41
+      ],
+      "href": "/consume",
+      "ref": "e2179824942",
+      "role": null,
+      "tag": "a",
+      "text": "Consume"
+    },
+    {
+      "bounds": [
+        0,
+        507,
+        250,
+        41
+      ],
+      "href": "/transfer",
+      "ref": "e3647083400",
+      "role": null,
+      "tag": "a",
+      "text": "Transfer"
+    },
+    {
+      "bounds": [
+        0,
+        548,
+        250,
+        41
+      ],
+      "href": "/inventory",
+      "ref": "e2792827466",
+      "role": null,
+      "tag": "a",
+      "text": "Inventory"
+    },
+    {
+      "bounds": [
+        0,
+        589,
+        250,
+        41
+      ],
+      "href": "/choretracking",
+      "ref": "e2922941790",
+      "role": null,
+      "tag": "a",
+      "text": "Chore tracking"
+    },
+    {
+      "bounds": [
+        0,
+        630,
+        250,
+        41
+      ],
+      "href": "/batterytracking",
+      "ref": "e1450042086",
+      "role": null,
+      "tag": "a",
+      "text": "Battery tracking"
+    },
+    {
+      "bounds": [
+        0,
+        673,
+        250,
+        41
+      ],
+      "href": "/product/1#sub-nav-manage-master-data",
+      "ref": "e761715877",
+      "role": null,
+      "tag": "a",
+      "text": "Manage master data"
+    },
+    {
+      "bounds": [
+        0,
+        852,
+        250,
+        49
+      ],
+      "ref": "e1866405181",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1039,
+        8,
+        113,
+        33
+      ],
+      "href": "/product/1",
+      "ref": "e977631619",
+      "role": null,
+      "tag": "a",
+      "text": "admin"
+    },
+    {
+      "bounds": [
+        1152,
+        8,
+        64,
+        33
+      ],
+      "href": "/product/1",
+      "ref": "e270618320",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1216,
+        8,
+        64,
+        33
+      ],
+      "href": "/product/1",
+      "ref": "e287395939",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1051,
+        56,
+        106,
+        35
+      ],
+      "href": "/stockentries?embedded&product=1",
+      "ref": "e4090721122",
+      "role": null,
+      "tag": "a",
+      "text": "Stock entries"
+    },
+    {
+      "bounds": [
+        1165,
+        56,
+        107,
+        35
+      ],
+      "href": "/stockjournal?embedded&product=1",
+      "ref": "e3590830032",
+      "role": null,
+      "tag": "a",
+      "text": "Stock journal"
+    },
+    {
+      "bounds": [
+        261,
+        138,
+        493,
+        38
+      ],
+      "focused": true,
+      "label": "Name",
+      "name": "name",
+      "ref": "e1164989244",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "Rice"
+    },
+    {
+      "bounds": [
+        285,
+        192,
+        48,
+        33
+      ],
+      "checked": true,
+      "label": "Active",
+      "name": "active",
+      "proxy": true,
+      "ref": "e1968277196",
+      "role": null,
+      "tag": "input",
+      "text": "Active",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        261,
+        270,
+        458,
+        38
+      ],
+      "ref": "e3936847315",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        684,
+        274,
+        32,
+        31
+      ],
+      "ref": "e2808760440",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "aria": "Font Size",
+      "bounds": [
+        267,
+        358,
+        47,
+        30
+      ],
+      "ref": "e403639094",
+      "role": null,
+      "tag": "button",
+      "text": "13",
+      "title": "Font Size",
+      "type": "button"
+    },
+    {
+      "aria": "Bold (CTRL+B)",
+      "bounds": [
+        319,
+        358,
+        36,
+        31
+      ],
+      "ref": "e3025988926",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Bold (CTRL+B)",
+      "type": "button"
+    },
+    {
+      "aria": "Underline (CTRL+U)",
+      "bounds": [
+        354,
+        358,
+        36,
+        31
+      ],
+      "ref": "e3091057374",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Underline (CTRL+U)",
+      "type": "button"
+    },
+    {
+      "aria": "Remove Font Style (CTRL+\\)",
+      "bounds": [
+        388,
+        358,
+        36,
+        31
+      ],
+      "ref": "e871874729",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Remove Font Style (CTRL+\\)",
+      "type": "button"
+    },
+    {
+      "aria": "Recent Color",
+      "bounds": [
+        429,
+        358,
+        36,
+        31
+      ],
+      "ref": "e2436654594",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Recent Color",
+      "type": "button"
+    },
+    {
+      "aria": "More Color",
+      "bounds": [
+        464,
+        358,
+        20,
+        31
+      ],
+      "ref": "e3798025684",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "More Color",
+      "type": "button"
+    },
+    {
+      "aria": "Unordered list (CTRL+SHIFT+NUM7)",
+      "bounds": [
+        489,
+        358,
+        36,
+        31
+      ],
+      "ref": "e2805121923",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Unordered list (CTRL+SHIFT+NUM7)",
+      "type": "button"
+    },
+    {
+      "aria": "Ordered list (CTRL+SHIFT+NUM8)",
+      "bounds": [
+        524,
+        358,
+        36,
+        31
+      ],
+      "ref": "e1320324631",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Ordered list (CTRL+SHIFT+NUM8)",
+      "type": "button"
+    },
+    {
+      "aria": "Paragraph",
+      "bounds": [
+        558,
+        358,
+        46,
+        31
+      ],
+      "ref": "e1343365434",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Paragraph",
+      "type": "button"
+    },
+    {
+      "aria": "Table",
+      "bounds": [
+        609,
+        358,
+        46,
+        31
+      ],
+      "ref": "e3268889188",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Table",
+      "type": "button"
+    },
+    {
+      "aria": "Link (CTRL+K)",
+      "bounds": [
+        267,
+        394,
+        36,
+        31
+      ],
+      "ref": "e791746050",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Link (CTRL+K)",
+      "type": "button"
+    },
+    {
+      "aria": "Picture",
+      "bounds": [
+        302,
+        394,
+        36,
+        31
+      ],
+      "ref": "e16952998",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Picture",
+      "type": "button"
+    },
+    {
+      "aria": "Video",
+      "bounds": [
+        337,
+        394,
+        36,
+        31
+      ],
+      "ref": "e3143992143",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Video",
+      "type": "button"
+    },
+    {
+      "aria": "Code View",
+      "bounds": [
+        377,
+        394,
+        36,
+        31
+      ],
+      "ref": "e4092259770",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Code View",
+      "type": "button"
+    },
+    {
+      "aria": "Full Screen",
+      "bounds": [
+        412,
+        394,
+        36,
+        31
+      ],
+      "ref": "e2116699623",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Full Screen",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        262,
+        431,
+        491,
+        300
+      ],
+      "ref": "e2536785337",
+      "role": "textbox",
+      "tag": "div",
+      "text": "",
+      "value": "\n"
+    },
+    {
+      "bounds": [
+        261,
+        787,
+        493,
+        38
+      ],
+      "label": "Default location Due date type",
+      "name": "location_id",
+      "options": [
+        {
+          "disabled": false,
+          "label": "",
+          "selected": false,
+          "value": ""
+        },
+        {
+          "disabled": false,
+          "label": "Freezer",
+          "selected": false,
+          "value": "4"
+        },
+        {
+          "disabled": false,
+          "label": "Fridge",
+          "selected": false,
+          "value": "2"
+        },
+        {
+          "disabled": false,
+          "label": "Pantry",
+          "selected": true,
+          "value": "3"
+        }
+      ],
+      "ref": "e120683378",
+      "required": true,
+      "role": null,
+      "tag": "select",
+      "text": "Freezer\nFridge\nPantry",
+      "value": "3"
+    },
+    {
+      "bounds": [
+        261,
+        869,
+        493,
+        38
+      ],
+      "label": "Default consume location",
+      "name": "default_consume_location_id",
+      "options": [
+        {
+          "disabled": false,
+          "label": "",
+          "selected": true,
+          "value": ""
+        },
+        {
+          "disabled": false,
+          "label": "Freezer",
+          "selected": false,
+          "value": "4"
+        },
+        {
+          "disabled": false,
+          "label": "Fridge",
+          "selected": false,
+          "value": "2"
+        },
+        {
+          "disabled": false,
+          "label": "Pantry",
+          "selected": false,
+          "value": "3"
+        }
+      ],
+      "ref": "e1924544324",
+      "role": null,
+      "tag": "select",
+      "text": "Freezer\nFridge\nPantry",
+      "value": ""
+    },
+    {
+      "bounds": [
+        285,
+        907,
+        114,
+        33
+      ],
+      "checked": false,
+      "label": "Move on open",
+      "name": "move_on_open",
+      "offscreen": true,
+      "proxy": true,
+      "ref": "e785654040",
+      "role": null,
+      "tag": "input",
+      "text": "Move on open",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        261,
+        985,
+        458,
+        38
+      ],
+      "offscreen": true,
+      "ref": "e1487471496",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        261,
+        1067,
+        419,
+        38
+      ],
+      "label": "Minimum stock amount",
+      "min": "0.0000",
+      "name": "min_stock_amount",
+      "offscreen": true,
+      "ref": "e3234581074",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "0"
+    },
+    {
+      "bounds": [
+        285,
+        1109,
+        308,
+        33
+      ],
+      "checked": false,
+      "label": "Accumulate sub products min. stock amount",
+      "name": "cumulate_min_stock_amount_of_sub_products",
+      "offscreen": true,
+      "proxy": true,
+      "ref": "e3684180674",
+      "role": null,
+      "tag": "input",
+      "text": "Accumulate sub products min. stock amount",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        285,
+        1147,
+        204,
+        33
+      ],
+      "checked": true,
+      "label": "Treat opened as out of stock",
+      "name": "treat_opened_as_out_of_stock",
+      "offscreen": true,
+      "proxy": true,
+      "ref": "e271059680",
+      "role": null,
+      "tag": "input",
+      "text": "Treat opened as out of stock",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        285,
+        1209,
+        129,
+        33
+      ],
+      "checked": true,
+      "label": "Best before date",
+      "name": "due_type",
+      "offscreen": true,
+      "proxy": true,
+      "ref": "e3190129625",
+      "role": null,
+      "tag": "input",
+      "text": "Best before date",
+      "type": "radio",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        285,
+        1234,
+        121,
+        33
+      ],
+      "checked": false,
+      "label": "Expiration date",
+      "name": "due_type",
+      "offscreen": true,
+      "proxy": true,
+      "ref": "e1516547273",
+      "role": null,
+      "tag": "input",
+      "text": "Expiration date",
+      "type": "radio",
+      "value": "2"
+    },
+    {
+      "bounds": [
+        261,
+        1312,
+        419,
+        38
+      ],
+      "label": "Default due days",
+      "min": "-1",
+      "name": "default_best_before_days",
+      "offscreen": true,
+      "ref": "e460695150",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "30"
+    },
+    {
+      "bounds": [
+        261,
+        1394,
+        419,
+        38
+      ],
+      "label": "Default due days after opened",
+      "min": "0",
+      "name": "default_best_before_days_after_open",
+      "offscreen": true,
+      "ref": "e3129811584",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "0"
+    },
+    {
+      "bounds": [
+        261,
+        1477,
+        419,
+        38
+      ],
+      "label": "Default due days after freezing",
+      "min": "-1",
+      "name": "default_best_before_days_after_freezing",
+      "offscreen": true,
+      "ref": "e541328744",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "0"
+    },
+    {
+      "bounds": [
+        261,
+        1559,
+        419,
+        38
+      ],
+      "label": "Default due days after thawing",
+      "min": "0",
+      "name": "default_best_before_days_after_thawing",
+      "offscreen": true,
+      "ref": "e993500486",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "0"
+    },
+    {
+      "bounds": [
+        285,
+        1613,
+        155,
+        33
+      ],
+      "checked": false,
+      "label": "Should not be frozen",
+      "name": "should_not_be_frozen",
+      "offscreen": true,
+      "proxy": true,
+      "ref": "e2488586959",
+      "role": null,
+      "tag": "input",
+      "text": "Should not be frozen",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        261,
+        1691,
+        493,
+        38
+      ],
+      "label": "Product group",
+      "name": "product_group_id",
+      "offscreen": true,
+      "options": [
+        {
+          "disabled": false,
+          "label": "",
+          "selected": true,
+          "value": ""
+        }
+      ],
+      "ref": "e1424863680",
+      "role": null,
+      "tag": "select",
+      "text": "",
+      "value": ""
+    },
+    {
+      "bounds": [
+        261,
+        1773,
+        493,
+        38
+      ],
+      "label": "Quantity unit stock",
+      "name": "qu_id_stock",
+      "offscreen": true,
+      "options": [
+        {
+          "disabled": false,
+          "label": "",
+          "selected": false,
+          "value": ""
+        },
+        {
+          "disabled": false,
+          "label": "Item",
+          "selected": true,
+          "value": "4"
+        },
+        {
+          "disabled": false,
+          "label": "Pack",
+          "selected": false,
+          "value": "3"
+        },
+        {
+          "disabled": false,
+          "label": "Piece",
+          "selected": false,
+          "value": "2"
+        }
+      ],
+      "ref": "e1996668100",
+      "required": true,
+      "role": null,
+      "tag": "select",
+      "text": "Item\nPack\nPiece",
+      "value": "4"
+    },
+    {
+      "bounds": [
+        261,
+        1855,
+        493,
+        38
+      ],
+      "label": "Default quantity unit purchase",
+      "name": "qu_id_purchase",
+      "offscreen": true,
+      "options": [
+        {
+          "disabled": false,
+          "label": "",
+          "selected": false,
+          "value": ""
+        },
+        {
+          "disabled": false,
+          "label": "Item",
+          "selected": true,
+          "value": "4"
+        },
+        {
+          "disabled": false,
+          "label": "Pack",
+          "selected": false,
+          "value": "3"
+        },
+        {
+          "disabled": false,
+          "label": "Piece",
+          "selected": false,
+          "value": "2"
+        }
+      ],
+      "ref": "e2880460404",
+      "required": true,
+      "role": null,
+      "tag": "select",
+      "text": "Item\nPack\nPiece",
+      "value": "4"
+    },
+    {
+      "bounds": [
+        261,
+        1938,
+        493,
+        38
+      ],
+      "label": "Default quantity unit consume",
+      "name": "qu_id_consume",
+      "offscreen": true,
+      "options": [
+        {
+          "disabled": false,
+          "label": "",
+          "selected": false,
+          "value": ""
+        },
+        {
+          "disabled": false,
+          "label": "Item",
+          "selected": true,
+          "value": "4"
+        },
+        {
+          "disabled": false,
+          "label": "Pack",
+          "selected": false,
+          "value": "3"
+        },
+        {
+          "disabled": false,
+          "label": "Piece",
+          "selected": false,
+          "value": "2"
+        }
+      ],
+      "ref": "e4095053892",
+      "required": true,
+      "role": null,
+      "tag": "select",
+      "text": "Item\nPack\nPiece",
+      "value": "4"
+    },
+    {
+      "bounds": [
+        261,
+        2020,
+        493,
+        38
+      ],
+      "label": "Quantity unit for prices",
+      "name": "qu_id_price",
+      "offscreen": true,
+      "options": [
+        {
+          "disabled": false,
+          "label": "",
+          "selected": false,
+          "value": ""
+        },
+        {
+          "disabled": false,
+          "label": "Item",
+          "selected": true,
+          "value": "4"
+        },
+        {
+          "disabled": false,
+          "label": "Pack",
+          "selected": false,
+          "value": "3"
+        },
+        {
+          "disabled": false,
+          "label": "Piece",
+          "selected": false,
+          "value": "2"
+        }
+      ],
+      "ref": "e2095850966",
+      "required": true,
+      "role": null,
+      "tag": "select",
+      "text": "Item\nPack\nPiece",
+      "value": "4"
+    },
+    {
+      "bounds": [
+        285,
+        2074,
+        202,
+        33
+      ],
+      "checked": false,
+      "label": "Enable tare weight handling",
+      "name": "enable_tare_weight_handling",
+      "offscreen": true,
+      "proxy": true,
+      "ref": "e1561066220",
+      "role": null,
+      "tag": "input",
+      "text": "Enable tare weight handling",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        261,
+        2142,
+        419,
+        38
+      ],
+      "disabled": true,
+      "label": "Tare weight\nItem",
+      "min": "0.0000",
+      "name": "tare_weight",
+      "offscreen": true,
+      "ref": "e485722958",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "0"
+    },
+    {
+      "bounds": [
+        285,
+        2196,
+        347,
+        33
+      ],
+      "checked": false,
+      "label": "Disable stock fulfillment checking for this ingredient",
+      "name": "not_check_stock_fulfillment_for_recipes",
+      "offscreen": true,
+      "proxy": true,
+      "ref": "e2898935536",
+      "role": null,
+      "tag": "input",
+      "text": "Disable stock fulfillment checking for this ingredient",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        261,
+        2275,
+        419,
+        38
+      ],
+      "label": "Energy \nkcal / Item",
+      "min": "0.0000",
+      "name": "calories",
+      "offscreen": true,
+      "ref": "e2878559298",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        261,
+        2359,
+        419,
+        38
+      ],
+      "label": "Quick consume amount \nItem",
+      "min": "0.0001",
+      "name": "quick_consume_amount",
+      "offscreen": true,
+      "ref": "e2094626634",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        261,
+        2442,
+        419,
+        38
+      ],
+      "label": "Quick open amount \nItem",
+      "min": "0.0001",
+      "name": "quick_open_amount",
+      "offscreen": true,
+      "ref": "e3907385394",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        285,
+        2509,
+        82,
+        33
+      ],
+      "checked": true,
+      "label": "Unspecified",
+      "name": "default_purchase_price_type",
+      "offscreen": true,
+      "proxy": true,
+      "ref": "e1548672729",
+      "role": null,
+      "tag": "input",
+      "text": "Unspecified",
+      "type": "radio",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        285,
+        2534,
+        68,
+        33
+      ],
+      "checked": false,
+      "label": "Unit price",
+      "name": "default_purchase_price_type",
+      "offscreen": true,
+      "proxy": true,
+      "ref": "e2892278256",
+      "role": null,
+      "tag": "input",
+      "text": "Unit price",
+      "type": "radio",
+      "value": "2"
+    },
+    {
+      "bounds": [
+        285,
+        2560,
+        74,
+        33
+      ],
+      "checked": false,
+      "label": "Total price",
+      "name": "default_purchase_price_type",
+      "offscreen": true,
+      "proxy": true,
+      "ref": "e2087765750",
+      "role": null,
+      "tag": "input",
+      "text": "Total price",
+      "type": "radio",
+      "value": "3"
+    },
+    {
+      "bounds": [
+        285,
+        2609,
+        108,
+        33
+      ],
+      "checked": false,
+      "label": "Can't be opened",
+      "name": "disable_open",
+      "offscreen": true,
+      "proxy": true,
+      "ref": "e3443818591",
+      "role": null,
+      "tag": "input",
+      "text": "Can't be opened",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        285,
+        2658,
+        214,
+        33
+      ],
+      "checked": false,
+      "label": "Never show on stock overview",
+      "name": "hide_on_stock_overview",
+      "offscreen": true,
+      "proxy": true,
+      "ref": "e1270438637",
+      "role": null,
+      "tag": "input",
+      "text": "Never show on stock overview",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        285,
+        2708,
+        139,
+        33
+      ],
+      "checked": false,
+      "label": "Disable own stock",
+      "name": "no_own_stock",
+      "offscreen": true,
+      "proxy": true,
+      "ref": "e1882210916",
+      "role": null,
+      "tag": "input",
+      "text": "Disable own stock",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        261,
+        854,
+        140,
+        38
+      ],
+      "ref": "e2288944228",
+      "role": null,
+      "tag": "button",
+      "text": "Save & continue"
+    },
+    {
+      "bounds": [
+        404,
+        854,
+        204,
+        38
+      ],
+      "ref": "e2510289009",
+      "role": null,
+      "tag": "button",
+      "text": "Save & return to products"
+    },
+    {
+      "bounds": [
+        1229,
+        112,
+        43,
+        31
+      ],
+      "href": "/productbarcodes/new?embedded&product=1",
+      "ref": "e3513679254",
+      "role": null,
+      "tag": "a",
+      "text": "Add"
+    },
+    {
+      "bounds": [
+        788,
+        168,
+        15,
+        16
+      ],
+      "href": "/product/1",
+      "ref": "e304173558",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Table options"
+    },
+    {
+      "bounds": [
+        788,
+        195,
+        15,
+        16
+      ],
+      "href": "/product/1",
+      "ref": "e320951177",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Table options"
+    },
+    {
+      "bounds": [
+        788,
+        198,
+        32,
+        31
+      ],
+      "href": "/productbarcodes/1?embedded&product=1",
+      "ref": "e355535652",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        823,
+        198,
+        30,
+        31
+      ],
+      "href": "/product/1",
+      "ref": "e337728796",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1195,
+        256,
+        81,
+        31
+      ],
+      "href": "/product/1/grocycode?download=true",
+      "ref": "e3935409715",
+      "role": null,
+      "tag": "a",
+      "text": "Download"
+    },
+    {
+      "bounds": [
+        788,
+        403,
+        43,
+        31
+      ],
+      "href": "/quantityunitconversion/new?embedded&product=1",
+      "ref": "e3437617817",
+      "role": null,
+      "tag": "a",
+      "text": "Add"
+    },
+    {
+      "bounds": [
+        839,
+        403,
+        186,
+        31
+      ],
+      "href": "/quantityunitconversionsresolved?embedded&product=1",
+      "ref": "e1106739034",
+      "role": null,
+      "tag": "a",
+      "text": "Show resolved conversions",
+      "title": "This shows all to this product directly or indirectly related quantity units and their derived conversion factors"
+    },
+    {
+      "bounds": [
+        788,
+        447,
+        15,
+        16
+      ],
+      "href": "/product/1",
+      "ref": "e354506415",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Table options"
+    },
+    {
+      "bounds": [
+        788,
+        475,
+        15,
+        16
+      ],
+      "href": "/product/1",
+      "ref": "e371284034",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Table options"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    2869
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": " Stock overview\n Shopping list\n Recipes\n Meal plan\n Chores overview\n Tasks\n Batteries overview\n Equipment\n Calendar\n Purchase\n Consume\n Transfer\n Inventory\n Chore tracking\n Battery tracking\n Manage master data\n admin\nEdit product\nStock entries\nStock journal\nName\nActive\nParent product\nDescription\n13\n\n\n\n\nDefault location \nFreezer\nFridge\nPantry\nDefault consume location  \nFreezer\nFridge\nPantry\nMove on open \nDefault store\nMinimum stock amount\nAccumulate sub products min. stock amount  \nTreat opened as out of stock \nDue date type \nBest before date \nExpiration date \nDefault due days \nDefault due days after opened \nDefault due days after freezing \nDefault due days after thawing \nShould not be frozen \nProduct group \nQuantity unit stock  \nItem\nPack\nPiece\nDefault quantity unit purchase  \nItem\nPack\nPiece\nDefault quantity unit consume  \nItem\nPack\nPiece\nQuantity unit for prices  \nItem\nPack\nPiece\nEnable tare weight handling  \nTare weight\nItem\nDisable stock fulfillment checking for this ingredient  \nEnergy \nkcal / Item\nQuick consume amount \nItem\nQuick open amount \nItem\nDefault purchase price type \nUnspecified\nUnit price\nTotal price\nCan't be opened\nNever show on stock overview \nDisable own stock \nSave & continue Save & return to products\nBarcodes\nAdd\n\tBarcode\tStore\tQuantity unit\tAmount\n\t\nBarcode\n\t\nStore\n\t\nQuantity unit\n\t\nAmount\n\n \tRICE-2048\t\tItem\t\nGrocycode \n\nDownload\n\nProduct specific QU conversions\nAdd\nShow resolved conversions\n\tQuantity unit from\tQuantity unit to\tFactor\t\n\t\nQuantity unit from\n\t\nQuantity unit to\n\t\nFactor\n\t\n\nNo data available in table\nPicture\nNo file selected\n\nNo picture available",
+  "text_truncated": false,
+  "title": "Edit product | Grocy",
+  "url": "/product/1",
+  "viewport": [
+    1280,
+    900
+  ]
+}

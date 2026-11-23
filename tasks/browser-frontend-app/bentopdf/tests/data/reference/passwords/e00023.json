@@ -1,0 +1,106 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        0,
+        1182,
+        169
+      ],
+      "ref": "e6bfaf2b2",
+      "tag": "div",
+      "text": "Click to select a file or drag and drop Your files never leave your device."
+    },
+    {
+      "bounds": [
+        1203,
+        209,
+        16,
+        16
+      ],
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        49,
+        301,
+        1182,
+        46
+      ],
+      "label": "Owner Password (Optional)",
+      "placeholder": "Enter owner password if required",
+      "ref": "e2310b383",
+      "tag": "input",
+      "type": "password"
+    },
+    {
+      "bounds": [
+        49,
+        557,
+        1182,
+        48
+      ],
+      "ref": "ee09acaeb",
+      "tag": "button",
+      "text": "Remove Restrictions"
+    },
+    {
+      "bounds": [
+        473,
+        484,
+        334,
+        40
+      ],
+      "ref": "e2a50e308",
+      "tag": "button",
+      "text": "OK"
+    },
+    {
+      "bounds": [
+        1170,
+        809,
+        94,
+        34
+      ],
+      "expanded": false,
+      "ref": "ebda396fc",
+      "tag": "button",
+      "text": "English"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "restricted.pdf",
+      "ref": "d8176378340c1",
+      "size": 3339
+    }
+  ],
+  "inputs": [
+    "chapter-b.pdf",
+    "encrypted.pdf",
+    "report.pdf",
+    "restricted.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›Remove Restrictions\nRemove Restrictions\n\nRemove password protection and security restrictions associated with digitally signed PDF files.\n\nClick to select a file or drag and drop\n\nYour files never leave your device.\n\nrestricted.pdf\n4.8 KB\nOwner Password (Optional)\n\nLeave empty if the PDF has no owner password.\n\nWhat will be removed:\nPassword protection\nPrinting restrictions\nEditing restrictions\nCopying restrictions\nAll other security limitations\nRemove Restrictions\nSuccess\n\nPDF restrictions removed successfully! The file is now fully editable and printable.\n\nOK\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/remove-restrictions.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

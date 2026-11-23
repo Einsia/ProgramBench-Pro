@@ -1,0 +1,31 @@
+darktable 5.6.2 reference runtime
+
+The official Darktable-5.6.2-x86_64.AppImage is redistributed unmodified.
+Copyright Johannes Hanika and the darktable contributors. darktable is
+licensed under GPL-3.0-or-later; see the full text in LICENSE and the
+PhotoSwipe notice in LICENSES/PhotoSwipe.txt. This task is not affiliated with the darktable project.
+
+Upstream release:
+https://github.com/darktable-org/darktable/releases/tag/release-5.6.2
+
+The corresponding upstream source archive darktable-5.6.2.tar.xz is included
+here and is also available at:
+https://github.com/darktable-org/darktable/releases/download/release-5.6.2/darktable-5.6.2.tar.xz
+SHA-256: d2da92c670401d350b576431f21e58bee40348e1f5078201a8a1b8c270585834
+The source includes build scripts and third-party submodules. Bundled system
+libraries retain their respective licenses and notices.
+
+The task's installer extracts the AppImage without FUSE, replaces the Lua
+startup script with an empty script and removes bundled Lua scripts. Product
+binaries, libraries and image processing modules are unmodified. The Python
+launcher sets instance directories, first-run defaults, CPU thread limits
+and required Landlock filesystem/execution confinement. It requires enabled
+Landlock ABI 1 or newer and uses the filesystem rights supported by that ABI.
+File writes, creation and removal are restricted to the configured instance
+directories and the required /dev/null and /dev/shm paths. Execution is limited
+to the packaged application tree, /usr/bin/locale and the dynamic loader.
+ABI 1 denies cross-directory renames and hard links. On ABI 2 or newer, these
+operations are permitted only where the applicable Landlock path rules allow
+them. File truncation is restricted only on ABI 3 or newer; the launcher
+provides no truncation restriction on ABI 1 or 2. These task adapters are not
+part of upstream darktable.

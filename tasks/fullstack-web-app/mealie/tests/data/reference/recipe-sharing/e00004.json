@@ -1,0 +1,425 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        0,
+        0,
+        48,
+        48
+      ],
+      "href": "/g/home",
+      "ref": "e6999663049315888676",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        0,
+        0,
+        48,
+        48
+      ],
+      "ref": "e11102633781375530811",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        520,
+        108,
+        240,
+        48
+      ],
+      "checked": true,
+      "label": "Rating 0 of 5",
+      "name": "v-rating-v-0-0-0",
+      "proxy": true,
+      "ref": "e15439741913090764578",
+      "role": null,
+      "tag": "input",
+      "text": "Rating 0 of 5\nRating 1 of 5\nRating 2 of 5\nRating 3 of 5\nRating 4 of 5\nRating 5 of 5",
+      "type": "radio",
+      "value": "0"
+    },
+    {
+      "aria": "Rating 1 of 5",
+      "bounds": [
+        520,
+        108,
+        48,
+        48
+      ],
+      "ref": "e1495547221415265442",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        520,
+        108,
+        48,
+        48
+      ],
+      "checked": false,
+      "label": "Rating 1 of 5",
+      "name": "v-rating-v-0-0-0",
+      "proxy": true,
+      "ref": "e16121758487545394066",
+      "role": null,
+      "tag": "input",
+      "text": "Rating 1 of 5",
+      "type": "radio",
+      "value": "1"
+    },
+    {
+      "aria": "Rating 2 of 5",
+      "bounds": [
+        568,
+        108,
+        48,
+        48
+      ],
+      "ref": "e4130790483417565743",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        568,
+        108,
+        48,
+        48
+      ],
+      "checked": false,
+      "label": "Rating 2 of 5",
+      "name": "v-rating-v-0-0-0",
+      "proxy": true,
+      "ref": "e8289813673733004166",
+      "role": null,
+      "tag": "input",
+      "text": "Rating 2 of 5",
+      "type": "radio",
+      "value": "2"
+    },
+    {
+      "aria": "Rating 3 of 5",
+      "bounds": [
+        616,
+        108,
+        48,
+        48
+      ],
+      "ref": "e17458353295524891324",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        616,
+        108,
+        48,
+        48
+      ],
+      "checked": false,
+      "label": "Rating 3 of 5",
+      "name": "v-rating-v-0-0-0",
+      "proxy": true,
+      "ref": "e5295634744983295278",
+      "role": null,
+      "tag": "input",
+      "text": "Rating 3 of 5",
+      "type": "radio",
+      "value": "3"
+    },
+    {
+      "aria": "Rating 4 of 5",
+      "bounds": [
+        664,
+        108,
+        48,
+        48
+      ],
+      "ref": "e13129488726303698129",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        664,
+        108,
+        48,
+        48
+      ],
+      "checked": false,
+      "label": "Rating 4 of 5",
+      "name": "v-rating-v-0-0-0",
+      "proxy": true,
+      "ref": "e14104063738164533930",
+      "role": null,
+      "tag": "input",
+      "text": "Rating 4 of 5",
+      "type": "radio",
+      "value": "4"
+    },
+    {
+      "aria": "Rating 5 of 5",
+      "bounds": [
+        712,
+        108,
+        48,
+        48
+      ],
+      "ref": "e8736810944343549998",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        712,
+        108,
+        48,
+        48
+      ],
+      "checked": false,
+      "label": "Rating 5 of 5",
+      "name": "v-rating-v-0-0-0",
+      "proxy": true,
+      "ref": "e17113081487094207122",
+      "role": null,
+      "tag": "input",
+      "text": "Rating 5 of 5",
+      "type": "radio",
+      "value": "5"
+    },
+    {
+      "bounds": [
+        550,
+        232,
+        179,
+        44
+      ],
+      "ref": "e16371026428496499728",
+      "role": null,
+      "tag": "button",
+      "text": "Last Made\nNever",
+      "title": "I Made This",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        956,
+        301,
+        40,
+        40
+      ],
+      "ref": "e11102632681863902600",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Add to Favorites",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1000,
+        301,
+        40,
+        40
+      ],
+      "ref": "e11102635980398787233",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Open Timeline",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1044,
+        301,
+        40,
+        40
+      ],
+      "ref": "e11102634880887159022",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Edit",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1088,
+        301,
+        40,
+        40
+      ],
+      "expanded": false,
+      "ref": "e11102638179422043655",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        156,
+        369,
+        105,
+        28
+      ],
+      "expanded": false,
+      "ref": "e17930323392137177295",
+      "role": null,
+      "tag": "div",
+      "text": "As written",
+      "title": "Units"
+    },
+    {
+      "bounds": [
+        406,
+        409,
+        48,
+        48
+      ],
+      "ref": "e11102637079910415444",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        156,
+        460,
+        298,
+        47
+      ],
+      "ref": "e10475834782848747989",
+      "role": null,
+      "tag": "div",
+      "text": "1 Cup Flour"
+    },
+    {
+      "bounds": [
+        156,
+        461,
+        36,
+        36
+      ],
+      "checked": false,
+      "proxy": true,
+      "ref": "e1209064198207995387",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "true"
+    },
+    {
+      "bounds": [
+        997,
+        409,
+        127,
+        36
+      ],
+      "ref": "e773206124364125404",
+      "role": null,
+      "tag": "button",
+      "text": "Cook Mode",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        503,
+        592,
+        57,
+        17
+      ],
+      "href": "[external]",
+      "ref": "e12294234327046802232",
+      "role": null,
+      "tag": "a",
+      "text": "My Link"
+    },
+    {
+      "aria": "Keep Screen Awake",
+      "bounds": [
+        976,
+        708,
+        156,
+        56
+      ],
+      "checked": true,
+      "label": "Keep Screen Awake",
+      "proxy": true,
+      "ref": "e12317638812946335990",
+      "role": null,
+      "tag": "input",
+      "text": "Keep Screen Awake",
+      "type": "checkbox",
+      "value": "true"
+    },
+    {
+      "bounds": [
+        194,
+        870,
+        942,
+        64
+      ],
+      "placeholder": "Join the Conversation",
+      "ref": "e11980465735677841110",
+      "role": null,
+      "tag": "textarea",
+      "text": "",
+      "type": "textarea",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1056,
+        938,
+        80,
+        28
+      ],
+      "disabled": true,
+      "offscreen": true,
+      "ref": "e2152457825703979251",
+      "role": null,
+      "tag": "button",
+      "text": "Submit",
+      "type": "button"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    998
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Mealie\nShare Soup\nRating 0 of 5\nRating 1 of 5\nRating 2 of 5\nRating 3 of 5\nRating 4 of 5\nRating 5 of 5\n\nShare with a guest.\n\nLast Made\nNever\nAs written\nServes 1\nIngredients\n\n1 Cup Flour\n\nInstructions\nCook Mode\nStep: 1\n\nRecipe steps as well as other fields in the recipe page support markdown syntax.\n\nAdd a link\n\nMy Link\n\nKeep Screen Awake\n Comments\nSubmit",
+  "text_truncated": false,
+  "title": "Share Soup",
+  "url": "/g/home/shared/r/df62d1c2-0a0f-4a4d-93a1-5f7bcfaf8d0d",
+  "viewport": [
+    1280,
+    900
+  ]
+}

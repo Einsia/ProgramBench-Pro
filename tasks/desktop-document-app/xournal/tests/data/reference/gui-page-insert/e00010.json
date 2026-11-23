@@ -1,0 +1,1322 @@
+{
+  "focused": null,
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        900
+      ],
+      "name": "document-3.xopp - Xournal++",
+      "ref": "e4b8380e3",
+      "role": "frame",
+      "states": [
+        "active"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        44,
+        1280,
+        40
+      ],
+      "name": "",
+      "ref": "e3bfc6c51",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        4,
+        48,
+        33,
+        33
+      ],
+      "description": "Save",
+      "name": "",
+      "ref": "ee1708b4a",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        37,
+        48,
+        33,
+        33
+      ],
+      "description": "New Xournal",
+      "name": "",
+      "ref": "e5c47c2f2",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        70,
+        48,
+        33,
+        33
+      ],
+      "description": "Open file",
+      "name": "",
+      "ref": "e25149211",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        117,
+        48,
+        33,
+        33
+      ],
+      "description": "Export as PDF",
+      "name": "",
+      "ref": "e8bae41ee",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        150,
+        48,
+        33,
+        33
+      ],
+      "description": "Print",
+      "name": "",
+      "ref": "e6f61d3a9",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        197,
+        48,
+        33,
+        33
+      ],
+      "description": "Cut",
+      "name": "",
+      "ref": "e1766a934",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        230,
+        48,
+        33,
+        33
+      ],
+      "description": "Copy",
+      "name": "",
+      "ref": "e256d02e9",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        263,
+        48,
+        33,
+        33
+      ],
+      "description": "Paste",
+      "name": "",
+      "ref": "e3405d7db",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        310,
+        48,
+        33,
+        33
+      ],
+      "description": "Undo",
+      "name": "",
+      "ref": "e108b3bc8",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        343,
+        48,
+        33,
+        33
+      ],
+      "description": "Redo",
+      "name": "",
+      "ref": "e38eac643",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        390,
+        48,
+        33,
+        33
+      ],
+      "description": "Go to first page",
+      "name": "",
+      "ref": "e3588b9e4",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        423,
+        48,
+        33,
+        33
+      ],
+      "description": "Back",
+      "name": "",
+      "ref": "e8c1b7a0a",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        456,
+        48,
+        33,
+        33
+      ],
+      "description": "Next annotated page",
+      "name": "",
+      "ref": "e4763412e",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        489,
+        48,
+        33,
+        33
+      ],
+      "description": "Next",
+      "name": "",
+      "ref": "eb005e4fe",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        522,
+        48,
+        33,
+        33
+      ],
+      "description": "Go to last page",
+      "name": "",
+      "ref": "e269c58f6",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        555,
+        48,
+        32,
+        32
+      ],
+      "description": "Insert page",
+      "name": "",
+      "ref": "e93405f31",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        587,
+        48,
+        24,
+        32
+      ],
+      "name": "Menu",
+      "ref": "e7b286de8",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        612,
+        48,
+        33,
+        33
+      ],
+      "description": "Delete current page",
+      "name": "",
+      "ref": "e68c1fef7",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        659,
+        48,
+        33,
+        33
+      ],
+      "description": "Toggle fullscreen",
+      "name": "",
+      "ref": "ec8d05646",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        706,
+        48,
+        33,
+        33
+      ],
+      "description": "Record Audio / Stop Recording",
+      "name": "",
+      "ref": "ee67c1c60",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        739,
+        48,
+        33,
+        33
+      ],
+      "description": "Back",
+      "name": "",
+      "ref": "e0aac320e",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        772,
+        48,
+        33,
+        33
+      ],
+      "description": "Pause / Play",
+      "name": "",
+      "ref": "e6f39239f",
+      "role": "toggle button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        805,
+        48,
+        33,
+        33
+      ],
+      "description": "Stop",
+      "name": "",
+      "ref": "e8a66dc9b",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        838,
+        48,
+        33,
+        33
+      ],
+      "description": "Forward",
+      "name": "",
+      "ref": "ed72d0100",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        885,
+        48,
+        74,
+        33
+      ],
+      "description": "Font",
+      "name": "Sans",
+      "ref": "eab30d0f1",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        84,
+        1280,
+        40
+      ],
+      "name": "",
+      "ref": "e787b90b5",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        4,
+        88,
+        32,
+        32
+      ],
+      "description": "Pen",
+      "name": "",
+      "ref": "ee2d83e2b",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        36,
+        88,
+        24,
+        32
+      ],
+      "name": "Menu",
+      "ref": "e32bc2e97",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        61,
+        88,
+        32,
+        32
+      ],
+      "description": "Eraser",
+      "name": "",
+      "ref": "ed3ac604e",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        93,
+        88,
+        24,
+        32
+      ],
+      "name": "Menu",
+      "ref": "e81c48060",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        118,
+        88,
+        33,
+        33
+      ],
+      "description": "Highlighter",
+      "name": "",
+      "ref": "eab4e2303",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        151,
+        88,
+        32,
+        32
+      ],
+      "description": "Pen",
+      "name": "",
+      "ref": "e6398a5a2",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        183,
+        88,
+        24,
+        32
+      ],
+      "name": "Menu",
+      "ref": "ecb7fcf2b",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        208,
+        88,
+        32,
+        32
+      ],
+      "description": "Select Linear PDF Text",
+      "name": "",
+      "ref": "e7d8d235c",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        240,
+        88,
+        24,
+        32
+      ],
+      "name": "Menu",
+      "ref": "ecd528c69",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        265,
+        88,
+        33,
+        33
+      ],
+      "description": "Image",
+      "name": "",
+      "ref": "e0565fbf8",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        298,
+        88,
+        33,
+        33
+      ],
+      "description": "Text",
+      "name": "",
+      "ref": "e9f62f4ad",
+      "role": "toggle button",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        331,
+        88,
+        33,
+        33
+      ],
+      "description": "Add/Edit TeX",
+      "name": "",
+      "ref": "e907cae53",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        364,
+        88,
+        32,
+        32
+      ],
+      "description": "Draw Rectangle",
+      "name": "",
+      "ref": "eb97ce23f",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        396,
+        88,
+        24,
+        32
+      ],
+      "name": "Menu",
+      "ref": "e00640fb3",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        435,
+        88,
+        33,
+        33
+      ],
+      "description": "Rotation Snapping",
+      "name": "",
+      "ref": "ec3ff3592",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        468,
+        88,
+        33,
+        33
+      ],
+      "description": "Grid Snapping",
+      "name": "",
+      "ref": "e1f157850",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        515,
+        88,
+        32,
+        32
+      ],
+      "description": "Select Rectangle",
+      "name": "",
+      "ref": "e328c61bc",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        547,
+        88,
+        24,
+        32
+      ],
+      "name": "Menu",
+      "ref": "eabb49688",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        572,
+        88,
+        33,
+        33
+      ],
+      "description": "Vertical Space",
+      "name": "",
+      "ref": "e5cb33924",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        605,
+        88,
+        33,
+        33
+      ],
+      "description": "Hand",
+      "name": "",
+      "ref": "e5ba81efa",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        638,
+        88,
+        33,
+        33
+      ],
+      "description": "Setsquare",
+      "name": "",
+      "ref": "eb58b024e",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        671,
+        88,
+        33,
+        33
+      ],
+      "description": "Compass",
+      "name": "",
+      "ref": "e4f8cf485",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        718,
+        88,
+        33,
+        33
+      ],
+      "description": "Default Tool",
+      "name": "",
+      "ref": "ef4760066",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        765,
+        88,
+        33,
+        33
+      ],
+      "description": "Fine",
+      "name": "",
+      "ref": "e03df347a",
+      "role": "toggle button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        798,
+        88,
+        33,
+        33
+      ],
+      "description": "Medium",
+      "name": "",
+      "ref": "e26fdd431",
+      "role": "toggle button",
+      "states": [
+        "checked",
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        831,
+        88,
+        33,
+        33
+      ],
+      "description": "Thick",
+      "name": "",
+      "ref": "e783031d3",
+      "role": "toggle button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        878,
+        88,
+        33,
+        33
+      ],
+      "description": "Fill",
+      "name": "",
+      "ref": "e6b0286ad",
+      "role": "toggle button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        925,
+        88,
+        25,
+        33
+      ],
+      "description": "Black",
+      "name": "",
+      "ref": "ec74fdad2",
+      "role": "toggle button",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        950,
+        88,
+        25,
+        33
+      ],
+      "description": "Green",
+      "name": "",
+      "ref": "e0ad85536",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        975,
+        88,
+        25,
+        33
+      ],
+      "description": "Light Blue",
+      "name": "",
+      "ref": "ef4608cca",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1000,
+        88,
+        25,
+        33
+      ],
+      "description": "Light Green",
+      "name": "",
+      "ref": "e728f9c9f",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1025,
+        88,
+        25,
+        33
+      ],
+      "description": "Blue",
+      "name": "",
+      "ref": "e4336a0c7",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1050,
+        88,
+        25,
+        33
+      ],
+      "description": "Gray",
+      "name": "",
+      "ref": "ebb1232ae",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1075,
+        88,
+        25,
+        33
+      ],
+      "description": "Red",
+      "name": "",
+      "ref": "eae8bd635",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1100,
+        88,
+        25,
+        33
+      ],
+      "description": "Magenta",
+      "name": "",
+      "ref": "e57ffa914",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1125,
+        88,
+        25,
+        33
+      ],
+      "description": "Orange",
+      "name": "",
+      "ref": "eb5388a52",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1150,
+        88,
+        25,
+        33
+      ],
+      "description": "Yellow",
+      "name": "",
+      "ref": "ef684ec0d",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1175,
+        88,
+        25,
+        33
+      ],
+      "description": "White",
+      "name": "",
+      "ref": "e02681585",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1200,
+        88,
+        31,
+        33
+      ],
+      "description": "Select color",
+      "name": "",
+      "ref": "ea7fc4ae9",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        124,
+        1280,
+        723
+      ],
+      "name": "",
+      "ref": "ede12ab28",
+      "role": "split pane",
+      "value": 151.0
+    },
+    {
+      "bounds": [
+        4,
+        127,
+        35,
+        34
+      ],
+      "description": "Page Preview",
+      "name": "",
+      "ref": "ed28263fd",
+      "role": "toggle button",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        39,
+        127,
+        35,
+        34
+      ],
+      "description": "Layer Preview",
+      "name": "",
+      "ref": "e145410bc",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        74,
+        127,
+        36,
+        34
+      ],
+      "description": "Layerstack Preview",
+      "name": "",
+      "ref": "ea4660fa9",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        110,
+        127,
+        1,
+        34
+      ],
+      "name": "",
+      "ref": "e4c397e4b",
+      "role": "separator"
+    },
+    {
+      "bounds": [
+        111,
+        127,
+        36,
+        34
+      ],
+      "name": "",
+      "ref": "e1962fa3d",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        435,
+        114,
+        104
+      ],
+      "name": "",
+      "ref": "ee2109b9c",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        539,
+        114,
+        104
+      ],
+      "name": "",
+      "ref": "e3753b9d6",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        265,
+        113,
+        170
+      ],
+      "name": "",
+      "ref": "e2c44db06",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        95,
+        113,
+        170
+      ],
+      "name": "",
+      "ref": "ec29e2252",
+      "role": "push button",
+      "visible": [
+        0,
+        165,
+        113,
+        100
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        643,
+        113,
+        170
+      ],
+      "name": "",
+      "ref": "eb3bcc0d6",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        145,
+        165,
+        6,
+        648
+      ],
+      "name": "",
+      "ref": "e39aa2558",
+      "role": "scroll bar",
+      "value": 174.0
+    },
+    {
+      "bounds": [
+        0,
+        813,
+        35,
+        34
+      ],
+      "name": "",
+      "ref": "ea59613c1",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        35,
+        813,
+        35,
+        34
+      ],
+      "name": "",
+      "ref": "e67f61ca7",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        70,
+        813,
+        35,
+        34
+      ],
+      "name": "",
+      "ref": "eb93ea760",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        105,
+        813,
+        36,
+        34
+      ],
+      "name": "",
+      "ref": "e998b4529",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1274,
+        124,
+        6,
+        723
+      ],
+      "name": "",
+      "ref": "e61832ecf",
+      "role": "scroll bar",
+      "value": 3927.0
+    },
+    {
+      "bounds": [
+        0,
+        847,
+        1280,
+        53
+      ],
+      "name": "",
+      "ref": "e945d7a52",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        11,
+        851,
+        31,
+        45
+      ],
+      "name": "Page",
+      "ref": "eac409e56",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        50,
+        851,
+        94,
+        45
+      ],
+      "name": "",
+      "ref": "e12e48923",
+      "role": "spin button",
+      "states": [
+        "editable"
+      ],
+      "text": "6",
+      "value": 6.0
+    },
+    {
+      "bounds": [
+        152,
+        851,
+        29,
+        45
+      ],
+      "name": "of 6",
+      "ref": "ecdf24505",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        210,
+        851,
+        36,
+        45
+      ],
+      "name": "Layer",
+      "ref": "e48287568",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        254,
+        851,
+        56,
+        45
+      ],
+      "name": "Layer 1",
+      "ref": "e8494f905",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        311,
+        851,
+        22,
+        45
+      ],
+      "name": "Menu",
+      "ref": "e248a59cf",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        959,
+        851,
+        33,
+        46
+      ],
+      "description": "Paired pages",
+      "name": "",
+      "ref": "eb5ce5136",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        992,
+        851,
+        33,
+        46
+      ],
+      "description": "Presentation mode",
+      "name": "",
+      "ref": "eb88c3eba",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1025,
+        851,
+        33,
+        46
+      ],
+      "description": "Zoom to 100%",
+      "name": "",
+      "ref": "eda56b1a4",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1058,
+        851,
+        33,
+        46
+      ],
+      "description": "Zoom fit to screen",
+      "name": "",
+      "ref": "e81869683",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        1091,
+        851,
+        33,
+        46
+      ],
+      "description": "Zoom out",
+      "name": "",
+      "ref": "e4b0a40d5",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1124,
+        851,
+        120,
+        46
+      ],
+      "description": "100%",
+      "name": "",
+      "ref": "eb77a1d4d",
+      "role": "slider",
+      "value": -0.2326
+    },
+    {
+      "bounds": [
+        1244,
+        851,
+        33,
+        46
+      ],
+      "description": "Zoom in",
+      "name": "",
+      "ref": "e5c7ffa62",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        25
+      ],
+      "name": "",
+      "ref": "e39c60f63",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        39,
+        25
+      ],
+      "name": "File",
+      "ref": "ecf4a9943",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        39,
+        19,
+        41,
+        25
+      ],
+      "name": "Edit",
+      "ref": "e26965b07",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        80,
+        19,
+        48,
+        25
+      ],
+      "name": "View",
+      "ref": "e7fbcf470",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        128,
+        19,
+        87,
+        25
+      ],
+      "name": "Navigation",
+      "ref": "e64a4b560",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        215,
+        19,
+        61,
+        25
+      ],
+      "name": "Journal",
+      "ref": "eb9119ebc",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        276,
+        19,
+        49,
+        25
+      ],
+      "name": "Tools",
+      "ref": "e5c3ab388",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        325,
+        19,
+        56,
+        25
+      ],
+      "name": "Plugin",
+      "ref": "e8eba3d48",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        381,
+        19,
+        46,
+        25
+      ],
+      "name": "Help",
+      "ref": "e1a3a3576",
+      "role": "menu"
+    }
+  ],
+  "screen": [
+    1280,
+    900
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": true,
+      "bounds": [
+        0,
+        38,
+        1280,
+        881
+      ],
+      "ref": "w7abd8f1e",
+      "title": "document-3.xopp - Xournal++"
+    }
+  ]
+}

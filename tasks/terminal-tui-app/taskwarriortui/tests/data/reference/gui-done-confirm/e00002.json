@@ -1,0 +1,323 @@
+{
+  "cursor": {
+    "column": 37,
+    "hidden": true,
+    "row": 35
+  },
+  "process": "running",
+  "screen": [
+    "00| Tasks   Projects   Timesheet   Calendar                                                                     next [none]",
+    "01|  ID Active Age Deps P Project      Tag         S  Due Until Description                                         Urg",
+    "02|",
+    "03|   5        2d       L              errand,shop    14h       Buy groceries                                       19.24",
+    "04|   4 1h     1d       M Work.Code    code           8h        Review PR                                           18.35",
+    "05|   1        12d      H Home         bills          1d        Pay rent                                            15.94",
+    "06|   3        8d         Home.Repairs phone          -2d       Call plumber                                        11.98",
+    "07|• 10        2w       L              garden         6d        Water plants                                        8.49",
+    "08|  11        3mo        Music        hobby              7mo   Learn piano                                         2.30",
+    "09|   8        10w                                              Read book                                           1.20",
+    "10|   2        3w         Work                                  Write report                                        1.13",
+    "11|   6        11d        Travel                   6d           Plan trip                                           1.06",
+    "12|   9        7d  5                                            Fix bike                                            -4.96",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────",
+    "19|",
+    "20|Name          Value",
+    "21|------------- ---------------------------------------------------------------",
+    "22|ID            10",
+    "23|Description   Water plants",
+    "24|Status        Pending",
+    "25|Entered       2026-04-25 08:00:00 (2w)",
+    "26|Due           2026-05-20 00:00:00",
+    "27|Last modified 2026-05-13 10:00:00 ()",
+    "28|Tags          garden",
+    "29|Virtual tags  MONTH PENDING PRIORITY QUARTER READY TAGGED UDA UNBLOCKED YEAR",
+    "30|UUID          00000012-0000-4000-8000-000000000012",
+    "31|Urgency       8.489",
+    "32|Priority      L",
+    "33|",
+    "34|Filter Tasks",
+    "35|status:pending -WAITING limit:page"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        1,
+        6
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "reverse"
+      ],
+      "text": "Tasks"
+    },
+    {
+      "columns": [
+        6,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "reverse"
+      ],
+      "text": "   Projects   Timesheet   Calendar                                                                     next [none]"
+    },
+    {
+      "columns": [
+        0,
+        4
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "  ID"
+    },
+    {
+      "columns": [
+        5,
+        11
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Active"
+    },
+    {
+      "columns": [
+        12,
+        15
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Age"
+    },
+    {
+      "columns": [
+        16,
+        20
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Deps"
+    },
+    {
+      "columns": [
+        21,
+        22
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "P"
+    },
+    {
+      "columns": [
+        23,
+        35
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Project     "
+    },
+    {
+      "columns": [
+        36,
+        47
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Tag        "
+    },
+    {
+      "columns": [
+        48,
+        50
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "S "
+    },
+    {
+      "columns": [
+        51,
+        54
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Due"
+    },
+    {
+      "columns": [
+        55,
+        60
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Until"
+    },
+    {
+      "columns": [
+        61,
+        112
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Description                                        "
+    },
+    {
+      "columns": [
+        113,
+        118
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Urg  "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 3,
+      "style": [
+        "fg=cd0000",
+        "bg=ffffff"
+      ],
+      "text": "   5        2d       L              errand,shop    14h       Buy groceries                                       19.24"
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 4,
+      "style": [
+        "fg=ffffff",
+        "bg=d75f00"
+      ],
+      "text": "   4 1h     1d       M Work.Code    code           8h        Review PR                                           18.35"
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 5,
+      "style": [
+        "fg=cd0000"
+      ],
+      "text": "   1        12d      H Home         bills          1d        Pay rent                                            15.94"
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 6,
+      "style": [
+        "fg=ff0000",
+        "bg=1c1c1c"
+      ],
+      "text": "   3        8d         Home.Repairs phone          -2d       Call plumber                                        11.98"
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 7,
+      "style": [
+        "bold",
+        "fg=cd0000"
+      ],
+      "text": "• 10        2w       L              garden         6d        Water plants                                        8.49 "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 8,
+      "style": [
+        "fg=00af5f",
+        "bg=1c1c1c"
+      ],
+      "text": "  11        3mo        Music        hobby              7mo   Learn piano                                         2.30 "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 10,
+      "style": [
+        "bg=1c1c1c"
+      ],
+      "text": "   2        3w         Work                                  Write report                                        1.13 "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 11,
+      "style": [
+        "bg=00005f"
+      ],
+      "text": "   6        11d        Travel                   6d           Plan trip                                           1.06 "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 12,
+      "style": [
+        "fg=e5e5e5",
+        "bg=7f7f7f"
+      ],
+      "text": "   9        7d  5                                            Fix bike                                            -4.96"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "reverse"
+      ],
+      "text": "Filter Tasks                                                                                                            "
+    }
+  ]
+}

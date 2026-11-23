@@ -1,0 +1,173 @@
+{
+  "counts": {
+    "assertions": 852,
+    "backend": 807,
+    "checkpoints": 802,
+    "features": 21,
+    "frontend": 45,
+    "gui_episodes": 41,
+    "program_episodes": 10,
+    "episodes": 51
+  },
+  "features": {
+    "errors": {
+      "assertions": 10,
+      "episodes": [
+        "program-errors-01"
+      ]
+    },
+    "export": {
+      "assertions": 6,
+      "episodes": [
+        "export-musicxml",
+        "export-midi",
+        "export-mei"
+      ]
+    },
+    "export-audio": {
+      "assertions": 40,
+      "episodes": [
+        "program-export-audio-01"
+      ]
+    },
+    "formats": {
+      "assertions": 185,
+      "episodes": [
+        "program-formats-01",
+        "program-formats-02"
+      ]
+    },
+    "import-midi": {
+      "assertions": 25,
+      "episodes": [
+        "program-import-midi-01"
+      ]
+    },
+    "import-musicxml": {
+      "assertions": 174,
+      "episodes": [
+        "program-import-musicxml-01",
+        "program-import-musicxml-02"
+      ]
+    },
+    "instruments": {
+      "assertions": 2,
+      "episodes": [
+        "add-instrument"
+      ]
+    },
+    "jobs": {
+      "assertions": 37,
+      "episodes": [
+        "program-jobs-01"
+      ]
+    },
+    "layout": {
+      "assertions": 4,
+      "episodes": [
+        "concert-pitch",
+        "page-landscape"
+      ]
+    },
+    "lines": {
+      "assertions": 4,
+      "episodes": [
+        "slur",
+        "tie"
+      ]
+    },
+    "note-editing": {
+      "assertions": 20,
+      "episodes": [
+        "edit-sharpen",
+        "edit-duration",
+        "edit-accidental",
+        "edit-delete",
+        "edit-octave",
+        "edit-append",
+        "edit-lowered",
+        "tuplet",
+        "redo"
+      ]
+    },
+    "note-input": {
+      "assertions": 2,
+      "episodes": [
+        "note-input"
+      ]
+    },
+    "palettes": {
+      "assertions": 18,
+      "episodes": [
+        "palette-key",
+        "palette-time",
+        "palette-tempo",
+        "palette-clef",
+        "palette-accidental",
+        "palette-dynamic",
+        "palette-articulation",
+        "palette-barline",
+        "palette-repeat"
+      ]
+    },
+    "persistence": {
+      "assertions": 8,
+      "episodes": [
+        "persist-edit",
+        "recent-scores"
+      ]
+    },
+    "project-files": {
+      "assertions": 5,
+      "episodes": [
+        "open-and-save"
+      ]
+    },
+    "project-properties": {
+      "assertions": 6,
+      "episodes": [
+        "project-metadata",
+        "project-composer"
+      ]
+    },
+    "score-setup": {
+      "assertions": 2,
+      "episodes": [
+        "new-score"
+      ]
+    },
+    "structure": {
+      "assertions": 6,
+      "episodes": [
+        "insert-measure",
+        "remove-range",
+        "copy-paste"
+      ]
+    },
+    "text": {
+      "assertions": 4,
+      "episodes": [
+        "lyrics-entry",
+        "staff-text"
+      ]
+    },
+    "transpose": {
+      "assertions": 286,
+      "episodes": [
+        "program-transpose-01",
+        "program-transpose-02"
+      ]
+    },
+    "transposition": {
+      "assertions": 8,
+      "episodes": [
+        "transpose-dialog",
+        "transpose-down",
+        "transpose-keysig-off"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

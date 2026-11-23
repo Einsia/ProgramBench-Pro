@@ -1,0 +1,219 @@
+{
+  "cursor": {
+    "column": 43,
+    "hidden": true,
+    "row": 35
+  },
+  "process": "running",
+  "screen": [
+    "00| Tasks   Projects   Timesheet   Calendar                                                                     next [none]",
+    "01|  ID Age P Project     Tag  Due Description                                                                       Urg",
+    "02|",
+    "03|•  4 0s    Home.Garden      2d  Mow lawn                                                                          8.62",
+    "04|   3 5w  M                      Gamma task                                                                        4.12",
+    "05|   2 5w    Beta        beta     Beta task                                                                         2.02",
+    "06|   1 6w    Alpha                Alpha task                                                                        1.23",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|",
+    "12|",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────",
+    "19|",
+    "20|Name          Value",
+    "21|------------- -------------------------------------------------------------------",
+    "22|ID            4",
+    "23|Description   Mow lawn",
+    "24|Status        Pending",
+    "25|Project       Home.Garden",
+    "26|Entered       2026-05-13 10:00:00 ()",
+    "27|Due           2026-05-16 00:00:00",
+    "28|Last modified 2026-05-13 10:00:00 ()",
+    "29|Virtual tags  DUE LATEST MONTH PENDING PROJECT QUARTER READY UNBLOCKED WEEK YEAR",
+    "30|UUID          c221134c-1d9a-4c4e-81ca-49ec70dbe5f0",
+    "31|Urgency       8.619",
+    "32|",
+    "33|----------- ------ - ---- - ------",
+    "34|Filter Tasks",
+    "35|status:pending -WAITING limit:page"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        1,
+        6
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "reverse"
+      ],
+      "text": "Tasks"
+    },
+    {
+      "columns": [
+        6,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "reverse"
+      ],
+      "text": "   Projects   Timesheet   Calendar                                                                     next [none]"
+    },
+    {
+      "columns": [
+        0,
+        4
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "  ID"
+    },
+    {
+      "columns": [
+        5,
+        8
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Age"
+    },
+    {
+      "columns": [
+        9,
+        10
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "P"
+    },
+    {
+      "columns": [
+        11,
+        22
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Project    "
+    },
+    {
+      "columns": [
+        23,
+        27
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Tag "
+    },
+    {
+      "columns": [
+        28,
+        31
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Due"
+    },
+    {
+      "columns": [
+        32,
+        113
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Description                                                                      "
+    },
+    {
+      "columns": [
+        114,
+        118
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Urg "
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 3,
+      "style": [
+        "bold",
+        "fg=cd0000"
+      ],
+      "text": "•  4 0s    Home.Garden      2d  Mow lawn                                                                          8.62"
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 4,
+      "style": [
+        "bg=1c1c1c"
+      ],
+      "text": "   3 5w  M                      Gamma task                                                                        4.12"
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 5,
+      "style": [
+        "fg=00af5f"
+      ],
+      "text": "   2 5w    Beta        beta     Beta task                                                                         2.02"
+    },
+    {
+      "columns": [
+        0,
+        118
+      ],
+      "row": 6,
+      "style": [
+        "bg=1c1c1c"
+      ],
+      "text": "   1 6w    Alpha                Alpha task                                                                        1.23"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "reverse"
+      ],
+      "text": "Filter Tasks                                                                                                            "
+    }
+  ]
+}

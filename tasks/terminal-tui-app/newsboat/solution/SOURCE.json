@@ -1,0 +1,180 @@
+{
+  "task": "newsboat",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "Newsboat",
+    "version": "2.45",
+    "homepage": "https://newsboat.org/",
+    "repository": "https://github.com/newsboat/newsboat",
+    "license": "MIT"
+  },
+  "downloads": [],
+  "bundled": [
+    {
+      "file": "newsboat-runtime-2.45.tar.gz",
+      "built_from": "Newsboat 2.45 source from https://newsboat.org/releases/2.45/newsboat-2.45.tar.xz; built on Ubuntu 24.04 with GCC 14 and Rust 1.94.0 using cargo fetch --locked and make newsboat. The binary is stripped and its RPATH set to $ORIGIN/../lib. Ubuntu shared libraries are copied, stripped and assigned a local library search path; pbsandbox.so is compiled from the accompanying pbsandbox.c. Component package/source versions are in notes."
+    }
+  ],
+  "modifications": "No upstream Newsboat source changes. Binary stripping and RPATH changes; a separate LD_PRELOAD library applies filesystem and process restrictions.",
+  "configuration": "HOME and the working directory are DATA_DIR. The runtime supplies a local starter subscription. Newsboat uses its native configuration; Landlock confines data access to the instance and terminal devices, and seccomp disables execution of external programs. Local feed files and an offline loopback feed server are available.",
+  "notes": {
+    "source": {
+      "url": "https://newsboat.org/releases/2.45/newsboat-2.45.tar.xz",
+      "version": "2.45",
+      "sha256": "defe303d2518f3c4241780a9165e8750e9984e3f10aa341b7dde107579e34b3d"
+    },
+    "build": {
+      "base_image": "ubuntu:24.04@sha256:68ee22004a9109b44973313b02ff7b1de250f1de0f5ecb628d73f579aaff33ac",
+      "compiler": "g++-14 (Ubuntu 14.2.0)",
+      "rust": "rust-1.94.0-x86_64-unknown-linux-gnu.tar.xz (sha256 e8fa4185f3ef6ae32725ff638b1ecdbff28f5d651dc0b3111e2539350d03b15a)",
+      "dependencies": "libsqlite3-dev libcurl4-openssl-dev libssl-dev libxml2-dev libstfl-dev libjson-c-dev libncursesw5-dev gettext pkg-config zlib1g-dev (upstream docker/ubuntu_24.04-build-tools.dockerfile)",
+      "command": "cargo fetch --locked && make newsboat; strip --strip-unneeded; patchelf --set-rpath '$ORIGIN/../lib'",
+      "sandbox_command": "cc -shared -fPIC -O2 -Wl,--build-id=none pbsandbox.c -o pbsandbox.so -ldl"
+    },
+    "bundled_archive_sha256": "b72a9045b2cb1f8fd107b5acbc96a2fbba5de6250ac18bc17555d3f3be46fcec",
+    "libraries": {
+      "libcurl.so.4": {
+        "package": "libcurl4t64",
+        "version": "8.5.0-2ubuntu10.16",
+        "source_package": "curl",
+        "source_version": "8.5.0-2ubuntu10.16",
+        "license_file": "LICENSES/curl.txt"
+      },
+      "libxml2.so.2": {
+        "package": "libxml2",
+        "version": "2.9.14+dfsg-1.3ubuntu3.10",
+        "source_package": "libxml2",
+        "source_version": "2.9.14+dfsg-1.3ubuntu3.10",
+        "license_file": "LICENSES/libxml2.txt"
+      },
+      "libstfl.so.0": {
+        "package": "libstfl0",
+        "version": "0.22-3build9",
+        "source_package": "stfl",
+        "source_version": "0.22-3build9",
+        "license_file": "LICENSES/stfl.txt"
+      },
+      "libjson-c.so.5": {
+        "package": "libjson-c5",
+        "version": "0.17-1build1",
+        "source_package": "json-c",
+        "source_version": "0.17-1build1",
+        "license_file": "LICENSES/json-c.txt"
+      },
+      "libnghttp2.so.14": {
+        "package": "libnghttp2-14",
+        "version": "1.59.0-1ubuntu0.4",
+        "source_package": "nghttp2",
+        "source_version": "1.59.0-1ubuntu0.4",
+        "license_file": "LICENSES/nghttp2.txt"
+      },
+      "librtmp.so.1": {
+        "package": "librtmp1",
+        "version": "2.4+20151223.gitfa8646d.1-2build7",
+        "source_package": "rtmpdump",
+        "source_version": "2.4+20151223.gitfa8646d.1-2build7",
+        "license_file": "LICENSES/rtmpdump.txt"
+      },
+      "libssh.so.4": {
+        "package": "libssh-4",
+        "version": "0.10.6-2ubuntu0.5",
+        "source_package": "libssh",
+        "source_version": "0.10.6-2ubuntu0.5",
+        "license_file": "LICENSES/libssh.txt"
+      },
+      "libpsl.so.5": {
+        "package": "libpsl5t64",
+        "version": "0.21.2-1.1build1",
+        "source_package": "libpsl",
+        "source_version": "0.21.2-1.1build1",
+        "license_file": "LICENSES/libpsl.txt"
+      },
+      "libgssapi_krb5.so.2": {
+        "package": "libgssapi-krb5-2",
+        "version": "1.20.1-6ubuntu2.10",
+        "source_package": "krb5",
+        "source_version": "1.20.1-6ubuntu2.10",
+        "license_file": "LICENSES/krb5.txt"
+      },
+      "libldap.so.2": {
+        "package": "libldap2",
+        "version": "2.6.10+dfsg-0ubuntu0.24.04.1",
+        "source_package": "openldap",
+        "source_version": "2.6.10+dfsg-0ubuntu0.24.04.1",
+        "license_file": "LICENSES/openldap.txt"
+      },
+      "liblber.so.2": {
+        "package": "libldap2",
+        "version": "2.6.10+dfsg-0ubuntu0.24.04.1",
+        "source_package": "openldap",
+        "source_version": "2.6.10+dfsg-0ubuntu0.24.04.1",
+        "license_file": "LICENSES/openldap.txt"
+      },
+      "libbrotlidec.so.1": {
+        "package": "libbrotli1",
+        "version": "1.1.0-2ubuntu0.1",
+        "source_package": "brotli",
+        "source_version": "1.1.0-2ubuntu0.1",
+        "license_file": "LICENSES/brotli.txt"
+      },
+      "libicuuc.so.74": {
+        "package": "libicu74",
+        "version": "74.2-1ubuntu3.1",
+        "source_package": "icu",
+        "source_version": "74.2-1ubuntu3.1",
+        "license_file": "LICENSES/icu.txt"
+      },
+      "libkrb5.so.3": {
+        "package": "libkrb5-3",
+        "version": "1.20.1-6ubuntu2.10",
+        "source_package": "krb5",
+        "source_version": "1.20.1-6ubuntu2.10",
+        "license_file": "LICENSES/krb5.txt"
+      },
+      "libk5crypto.so.3": {
+        "package": "libk5crypto3",
+        "version": "1.20.1-6ubuntu2.10",
+        "source_package": "krb5",
+        "source_version": "1.20.1-6ubuntu2.10",
+        "license_file": "LICENSES/krb5.txt"
+      },
+      "libkrb5support.so.0": {
+        "package": "libkrb5support0",
+        "version": "1.20.1-6ubuntu2.10",
+        "source_package": "krb5",
+        "source_version": "1.20.1-6ubuntu2.10",
+        "license_file": "LICENSES/krb5.txt"
+      },
+      "libsasl2.so.2": {
+        "package": "libsasl2-2",
+        "version": "2.1.28+dfsg1-5ubuntu3.1",
+        "source_package": "cyrus-sasl2",
+        "source_version": "2.1.28+dfsg1-5ubuntu3.1",
+        "license_file": "LICENSES/cyrus-sasl2.txt"
+      },
+      "libbrotlicommon.so.1": {
+        "package": "libbrotli1",
+        "version": "1.1.0-2ubuntu0.1",
+        "source_package": "brotli",
+        "source_version": "1.1.0-2ubuntu0.1",
+        "license_file": "LICENSES/brotli.txt"
+      },
+      "libicudata.so.74": {
+        "package": "libicu74",
+        "version": "74.2-1ubuntu3.1",
+        "source_package": "icu",
+        "source_version": "74.2-1ubuntu3.1",
+        "license_file": "LICENSES/icu.txt"
+      },
+      "libkeyutils.so.1": {
+        "package": "libkeyutils1",
+        "version": "1.6.3-3build1",
+        "source_package": "keyutils",
+        "source_version": "1.6.3-3build1",
+        "license_file": "LICENSES/keyutils.txt"
+      }
+    },
+    "dependency_notices": "LICENSES/newsboat-dependencies.txt",
+    "library_sources": "https://archive.ubuntu.com/ubuntu/pool/ (source packages and versions listed in libraries)"
+  }
+}

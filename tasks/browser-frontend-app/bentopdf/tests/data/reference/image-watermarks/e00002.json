@@ -1,0 +1,257 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        139,
+        0,
+        658,
+        637
+      ],
+      "ref": "canvas0",
+      "tag": "canvas"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        965,
+        42,
+        278,
+        50
+      ],
+      "file": true,
+      "label": "Watermark Image",
+      "ref": "ed06c152a",
+      "tag": "input",
+      "type": "file"
+    },
+    {
+      "bounds": [
+        965,
+        143,
+        278,
+        8
+      ],
+      "label": "Scale: 60 %",
+      "ref": "ee7d980d9",
+      "tag": "input",
+      "type": "range",
+      "value": "60"
+    },
+    {
+      "bounds": [
+        965,
+        209,
+        278,
+        8
+      ],
+      "label": "Opacity: 0.7",
+      "ref": "ee7e4023e",
+      "tag": "input",
+      "type": "range",
+      "value": "0.7"
+    },
+    {
+      "bounds": [
+        965,
+        275,
+        278,
+        8
+      ],
+      "label": "Angle: 0 °",
+      "ref": "e1010fc67",
+      "tag": "input",
+      "type": "range",
+      "value": "0"
+    },
+    {
+      "bounds": [
+        965,
+        336,
+        89,
+        28
+      ],
+      "ref": "ef59a1ee2",
+      "tag": "button",
+      "text": "Top Left"
+    },
+    {
+      "bounds": [
+        1060,
+        336,
+        89,
+        28
+      ],
+      "ref": "eba82a287",
+      "tag": "button",
+      "text": "Top"
+    },
+    {
+      "bounds": [
+        1154,
+        336,
+        89,
+        28
+      ],
+      "ref": "e4e82cd8d",
+      "tag": "button",
+      "text": "Top Right"
+    },
+    {
+      "bounds": [
+        965,
+        370,
+        89,
+        28
+      ],
+      "ref": "e6c521c33",
+      "tag": "button",
+      "text": "Left"
+    },
+    {
+      "bounds": [
+        1060,
+        370,
+        89,
+        28
+      ],
+      "ref": "e8e6399cf",
+      "tag": "button",
+      "text": "Center"
+    },
+    {
+      "bounds": [
+        1154,
+        370,
+        89,
+        28
+      ],
+      "ref": "ef8495522",
+      "tag": "button",
+      "text": "Right"
+    },
+    {
+      "bounds": [
+        965,
+        404,
+        89,
+        28
+      ],
+      "ref": "e7724054c",
+      "tag": "button",
+      "text": "Bottom Left"
+    },
+    {
+      "bounds": [
+        1060,
+        404,
+        89,
+        28
+      ],
+      "ref": "ee8962751",
+      "tag": "button",
+      "text": "Bottom"
+    },
+    {
+      "bounds": [
+        1154,
+        404,
+        89,
+        28
+      ],
+      "ref": "ede7b649f",
+      "tag": "button",
+      "text": "Bottom Right"
+    },
+    {
+      "bounds": [
+        977,
+        466,
+        13,
+        16
+      ],
+      "checked": false,
+      "label": "Flatten watermark",
+      "ref": "e6dbee56e",
+      "tag": "input",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        1002,
+        467,
+        122,
+        18
+      ],
+      "ref": "efad32332",
+      "tag": "label",
+      "text": "Flatten watermark"
+    },
+    {
+      "bounds": [
+        965,
+        570,
+        278,
+        48
+      ],
+      "ref": "e6ed7965d",
+      "tag": "button",
+      "text": "Add Watermark"
+    },
+    {
+      "bounds": [
+        473,
+        472,
+        334,
+        40
+      ],
+      "ref": "e2a50e308",
+      "tag": "button",
+      "text": "OK"
+    },
+    {
+      "bounds": [
+        1170,
+        809,
+        94,
+        34
+      ],
+      "expanded": false,
+      "ref": "ebda396fc",
+      "tag": "button",
+      "text": "English"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "single.pdf",
+      "ref": "dc17c5114d563",
+      "size": 2820
+    }
+  ],
+  "inputs": [
+    "single.pdf",
+    "stamp.png"
+  ],
+  "text": "BentoPDF\nChange File\nsingle.pdf (1.9 KB, 1 pages)\nPreview\n/ 1\nDrag watermark to position\nText\nImage\nLayout\nSingle\nTiled\n\nTiled repeats the watermark across the whole page.\n\nApply to all pages\nPage Range\n\nUse \"all\" or specify pages, e.g. 1-3, 5, 7-9\n\nWatermark Image\nScale: 60%\nOpacity: 0.7\nAngle: 0°\nPosition\nTop Left\nTop\nTop Right\nLeft\nCenter\nRight\nBottom Left\nBottom\nBottom Right\nFlatten watermark\n\nBakes the watermark into page pixels, making it tamper-resistant. Text will no longer be selectable.\n\nAdd Watermark\nSuccess\n\nWatermark added successfully!\n\nOK\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/add-watermark.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        50,
+        0,
+        836,
+        761
+      ],
+      "ref": "canvas0",
+      "tag": "canvas"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        911,
+        31,
+        320,
+        16
+      ],
+      "label": "Gamma 1.0",
+      "ref": "eeeccecc4",
+      "tag": "input",
+      "type": "range",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        911,
+        95,
+        320,
+        16
+      ],
+      "label": "Sepia 0",
+      "ref": "e5a755456",
+      "tag": "input",
+      "type": "range",
+      "value": "0"
+    },
+    {
+      "bounds": [
+        49,
+        786,
+        1182,
+        48
+      ],
+      "ref": "eddc42807",
+      "tag": "button",
+      "text": "Apply Color Adjustments"
+    },
+    {
+      "bounds": [
+        473,
+        472,
+        334,
+        40
+      ],
+      "ref": "e2a50e308",
+      "tag": "button",
+      "text": "OK"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "color.pdf",
+      "ref": "d4f5650e42f45",
+      "size": 18425
+    }
+  ],
+  "inputs": [
+    "color.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›Adjust Colors\nAdjust Colors\n\nFine-tune brightness, contrast, saturation and more in your PDF.\n\nClick to select a file or drag and drop\n\nA single PDF file\n\nYour files never leave your device.\n\ncolor.pdf\n3.8 KB • 1 Page\nColor Settings\nReset\nBrightness\n0\nContrast\n0\nSaturation\n-70\nHue Shift\n0°\nTemperature\n0\nTint\n0\nGamma\n1.0\nSepia\n0\nApply Color Adjustments\nSuccess\n\nColor adjustments applied successfully!\n\nOK\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/adjust-colors.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

@@ -1,0 +1,11 @@
+Table keepers {
+  id integer [pk, increment]
+  name varchar(80) [not null]
+}
+
+Table animals {
+  id integer [pk, increment]
+  keeper_id integer [ref: > keepers.id]
+  species varchar(60) [not null, note: 'common name']
+  born date
+}

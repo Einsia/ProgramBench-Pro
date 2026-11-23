@@ -1,0 +1,461 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "aria": "Close 0_single.pdf",
+      "bounds": [
+        66,
+        51,
+        163,
+        38
+      ],
+      "ref": "e711e291c",
+      "role": "tab",
+      "selected": true,
+      "tag": "div",
+      "text": "0_single.pdf"
+    },
+    {
+      "aria": "Open File",
+      "bounds": [
+        233,
+        57,
+        26,
+        26
+      ],
+      "ref": "e7e08455f",
+      "tag": "button",
+      "title": "Open File"
+    },
+    {
+      "aria": "Document Menu",
+      "bounds": [
+        66,
+        97,
+        32,
+        32
+      ],
+      "ref": "ebc474dd4",
+      "tag": "button"
+    },
+    {
+      "aria": "Sidebar",
+      "bounds": [
+        115,
+        97,
+        32,
+        32
+      ],
+      "ref": "ec1cfacdc",
+      "tag": "button"
+    },
+    {
+      "aria": "Page Settings",
+      "bounds": [
+        155,
+        97,
+        32,
+        32
+      ],
+      "ref": "ebb41f6c4",
+      "tag": "button"
+    },
+    {
+      "aria": "Set zoom",
+      "bounds": [
+        204,
+        101,
+        32,
+        24
+      ],
+      "name": "zoom",
+      "ref": "ea2d2571d",
+      "tag": "input",
+      "type": "text",
+      "value": "86"
+    },
+    {
+      "aria": "Zoom Menu",
+      "bounds": [
+        244,
+        97,
+        32,
+        32
+      ],
+      "ref": "ebd11e27e",
+      "tag": "button"
+    },
+    {
+      "aria": "Zoom Out",
+      "bounds": [
+        276,
+        97,
+        32,
+        32
+      ],
+      "ref": "e9a3852d5",
+      "tag": "button"
+    },
+    {
+      "aria": "Zoom In",
+      "bounds": [
+        308,
+        97,
+        32,
+        32
+      ],
+      "ref": "e584e873e",
+      "tag": "button"
+    },
+    {
+      "aria": "Toggle Pan Mode",
+      "bounds": [
+        357,
+        97,
+        32,
+        32
+      ],
+      "ref": "ed70ff8c2",
+      "tag": "button"
+    },
+    {
+      "aria": "Toggle Pointer Mode",
+      "bounds": [
+        397,
+        97,
+        32,
+        32
+      ],
+      "ref": "e450dce34",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        641,
+        97,
+        50,
+        32
+      ],
+      "ref": "ef7ab19cb",
+      "tag": "button",
+      "text": "View"
+    },
+    {
+      "bounds": [
+        698,
+        97,
+        83,
+        32
+      ],
+      "ref": "e5bcb430e",
+      "tag": "button",
+      "text": "Annotate"
+    },
+    {
+      "bounds": [
+        790,
+        97,
+        66,
+        32
+      ],
+      "ref": "e3bcb26b8",
+      "tag": "button",
+      "text": "Shapes"
+    },
+    {
+      "bounds": [
+        864,
+        97,
+        66,
+        32
+      ],
+      "ref": "ec5f9838b",
+      "tag": "button",
+      "text": "Redact"
+    },
+    {
+      "aria": "Search",
+      "bounds": [
+        1142,
+        97,
+        32,
+        32
+      ],
+      "ref": "eacd3d71e",
+      "tag": "button"
+    },
+    {
+      "aria": "Comment",
+      "bounds": [
+        1182,
+        97,
+        32,
+        32
+      ],
+      "ref": "e2d5d7c39",
+      "tag": "button"
+    },
+    {
+      "aria": "Highlight",
+      "bounds": [
+        335,
+        146,
+        32,
+        32
+      ],
+      "ref": "ec22ba0a0",
+      "tag": "button"
+    },
+    {
+      "aria": "Strikethrough",
+      "bounds": [
+        375,
+        146,
+        32,
+        32
+      ],
+      "ref": "e6b3f25ef",
+      "tag": "button"
+    },
+    {
+      "aria": "Underline",
+      "bounds": [
+        415,
+        146,
+        32,
+        32
+      ],
+      "ref": "e7b989d94",
+      "tag": "button"
+    },
+    {
+      "aria": "Squiggly",
+      "bounds": [
+        455,
+        146,
+        32,
+        32
+      ],
+      "ref": "e3d621d5d",
+      "tag": "button"
+    },
+    {
+      "aria": "Ink",
+      "bounds": [
+        495,
+        146,
+        32,
+        32
+      ],
+      "ref": "e5e98e5c8",
+      "tag": "button"
+    },
+    {
+      "aria": "Ink Highlighter",
+      "bounds": [
+        535,
+        146,
+        32,
+        32
+      ],
+      "ref": "ede90d143",
+      "tag": "button"
+    },
+    {
+      "aria": "Text",
+      "bounds": [
+        575,
+        146,
+        32,
+        32
+      ],
+      "ref": "e3d587639",
+      "tag": "button"
+    },
+    {
+      "aria": "Insert Text",
+      "bounds": [
+        615,
+        146,
+        32,
+        32
+      ],
+      "ref": "ee6109294",
+      "tag": "button"
+    },
+    {
+      "aria": "Replace Text",
+      "bounds": [
+        655,
+        146,
+        32,
+        32
+      ],
+      "ref": "ee3301cfd",
+      "tag": "button"
+    },
+    {
+      "aria": "Comment",
+      "bounds": [
+        695,
+        146,
+        32,
+        32
+      ],
+      "ref": "e2d5d7c39x2",
+      "tag": "button"
+    },
+    {
+      "aria": "Callout",
+      "bounds": [
+        735,
+        146,
+        32,
+        32
+      ],
+      "ref": "ea6031f54",
+      "tag": "button"
+    },
+    {
+      "aria": "Stamp",
+      "bounds": [
+        775,
+        146,
+        32,
+        32
+      ],
+      "ref": "e6294bfdb",
+      "tag": "button"
+    },
+    {
+      "aria": "Annotation Style",
+      "bounds": [
+        824,
+        146,
+        32,
+        32
+      ],
+      "ref": "ecd20e92e",
+      "tag": "button"
+    },
+    {
+      "aria": "Undo",
+      "bounds": [
+        873,
+        146,
+        32,
+        32
+      ],
+      "ref": "ee423413c",
+      "tag": "button"
+    },
+    {
+      "aria": "Redo",
+      "bounds": [
+        913,
+        146,
+        32,
+        32
+      ],
+      "ref": "e61267e72",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        582,
+        349,
+        137,
+        103
+      ],
+      "ref": "ee28b3622",
+      "tag": "div"
+    },
+    {
+      "aria": "Comment",
+      "bounds": [
+        580,
+        464,
+        32,
+        32
+      ],
+      "ref": "e2d5d7c39x3",
+      "tag": "button"
+    },
+    {
+      "aria": "Add Link",
+      "bounds": [
+        616,
+        464,
+        32,
+        32
+      ],
+      "ref": "ee7ddceab",
+      "tag": "button"
+    },
+    {
+      "aria": "Annotation Style",
+      "bounds": [
+        652,
+        464,
+        32,
+        32
+      ],
+      "ref": "ecd20e92ex2",
+      "tag": "button"
+    },
+    {
+      "aria": "Delete selected annotation",
+      "bounds": [
+        688,
+        464,
+        32,
+        32
+      ],
+      "ref": "e3643f42b",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        49,
+        741,
+        1182,
+        48
+      ],
+      "ref": "e7dfd5b33",
+      "tag": "button",
+      "text": "Download Edited PDF"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "single.pdf",
+      "ref": "dc17c5114d563",
+      "size": 3769
+    }
+  ],
+  "inputs": [
+    "harbor.p12",
+    "single.pdf",
+    "stamp.png"
+  ],
+  "text": "BentoPDF\nBack to Tools\nPDF Editor\n\nAnnotate, highlight, redact, comment, add shapes/images, search, and view PDFs.\n\nClick to select a file or drag and drop\n\nPDF file\n\nYour files never leave your device.\n\nsingle.pdf\n1.9 KB\nDownload Edited PDF\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/edit-pdf.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

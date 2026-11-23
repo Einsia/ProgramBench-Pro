@@ -1,0 +1,351 @@
+{
+  "counts": {
+    "assertions": 1938,
+    "backend": 1740,
+    "checkpoints": 338,
+    "features": 46,
+    "frontend": 198,
+    "gui_episodes": 88,
+    "program_episodes": 16,
+    "episodes": 104
+  },
+  "features": {
+    "background-options": {
+      "assertions": 212,
+      "episodes": [
+        "cli-background-options"
+      ]
+    },
+    "clipboard": {
+      "assertions": 13,
+      "episodes": [
+        "gui-copy-paste",
+        "gui-cut-paste"
+      ]
+    },
+    "compatibility": {
+      "assertions": 77,
+      "episodes": [
+        "cli-compatibility"
+      ]
+    },
+    "documents": {
+      "assertions": 10,
+      "episodes": [
+        "gui-open-rich"
+      ]
+    },
+    "drawing": {
+      "assertions": 24,
+      "episodes": [
+        "gui-pen-widths",
+        "gui-line-styles",
+        "gui-highlighter",
+        "gui-default-tool",
+        "gui-drawing-guides"
+      ]
+    },
+    "drawing-guides": {
+      "assertions": 6,
+      "episodes": [
+        "gui-guides-drawing"
+      ]
+    },
+    "eraser": {
+      "assertions": 15,
+      "episodes": [
+        "gui-eraser-standard",
+        "gui-eraser-delete-strokes",
+        "gui-eraser-whiteout"
+      ]
+    },
+    "errors": {
+      "assertions": 4,
+      "episodes": [
+        "gui-open-error"
+      ]
+    },
+    "export": {
+      "assertions": 24,
+      "episodes": [
+        "gui-export-pdf",
+        "gui-export-png",
+        "gui-export-svg",
+        "gui-export-xoj"
+      ]
+    },
+    "history": {
+      "assertions": 7,
+      "episodes": [
+        "gui-delete-history"
+      ]
+    },
+    "image-background": {
+      "assertions": 50,
+      "episodes": [
+        "cli-image-background"
+      ]
+    },
+    "images": {
+      "assertions": 13,
+      "episodes": [
+        "gui-image-insert",
+        "gui-image-transparency"
+      ]
+    },
+    "input-errors": {
+      "assertions": 8,
+      "episodes": [
+        "cli-input-errors"
+      ]
+    },
+    "layer-ranges": {
+      "assertions": 52,
+      "episodes": [
+        "cli-layer-ranges"
+      ]
+    },
+    "layers": {
+      "assertions": 38,
+      "episodes": [
+        "gui-layer-add",
+        "gui-layer-rename-delete",
+        "gui-layer-merge",
+        "gui-multilayer-select",
+        "gui-layer-visibility",
+        "gui-layer-transfer",
+        "gui-multilayer-lasso"
+      ]
+    },
+    "lifecycle": {
+      "assertions": 22,
+      "episodes": [
+        "gui-save-restart",
+        "gui-recovery",
+        "gui-unsaved-cancel",
+        "gui-discard-recent",
+        "gui-overwrite",
+        "gui-save-on-quit"
+      ]
+    },
+    "mouse-mapping": {
+      "assertions": 4,
+      "episodes": [
+        "gui-mouse-button-map"
+      ]
+    },
+    "native-references": {
+      "assertions": 122,
+      "episodes": [
+        "cli-native-references"
+      ]
+    },
+    "navigation": {
+      "assertions": 13,
+      "episodes": [
+        "gui-navigation",
+        "gui-layer-navigation",
+        "gui-annotated-navigation"
+      ]
+    },
+    "object-order": {
+      "assertions": 16,
+      "episodes": [
+        "gui-stack-front",
+        "gui-stack-forward",
+        "gui-stack-backward",
+        "gui-stack-back"
+      ]
+    },
+    "option-errors": {
+      "assertions": 5,
+      "episodes": [
+        "cli-option-errors"
+      ]
+    },
+    "page-ranges": {
+      "assertions": 64,
+      "episodes": [
+        "cli-page-ranges"
+      ]
+    },
+    "page-templates": {
+      "assertions": 12,
+      "episodes": [
+        "gui-template-file"
+      ]
+    },
+    "pages": {
+      "assertions": 27,
+      "episodes": [
+        "gui-page-insert",
+        "gui-page-duplicate",
+        "gui-page-delete",
+        "gui-page-reorder"
+      ]
+    },
+    "palettes": {
+      "assertions": 4,
+      "episodes": [
+        "gui-palette-data"
+      ]
+    },
+    "paper": {
+      "assertions": 29,
+      "episodes": [
+        "gui-paper-format",
+        "gui-paper-backgrounds",
+        "gui-paper-color",
+        "gui-paper-custom",
+        "gui-page-template"
+      ]
+    },
+    "pdf": {
+      "assertions": 24,
+      "episodes": [
+        "gui-pdf-annotation",
+        "gui-append-pdf",
+        "gui-pdf-copy-highlight",
+        "gui-pdf-underline-strike",
+        "gui-pdf-rectangle-copy"
+      ]
+    },
+    "pdf-background": {
+      "assertions": 288,
+      "episodes": [
+        "cli-pdf-background"
+      ]
+    },
+    "pdf-import": {
+      "assertions": 28,
+      "episodes": [
+        "cli-pdf-import"
+      ]
+    },
+    "pdf-navigation": {
+      "assertions": 2,
+      "episodes": [
+        "gui-pdf-internal-navigation"
+      ]
+    },
+    "png-resolution": {
+      "assertions": 64,
+      "episodes": [
+        "cli-png-resolution"
+      ]
+    },
+    "preferences": {
+      "assertions": 2,
+      "episodes": [
+        "gui-preferences-persist"
+      ]
+    },
+    "progressive-layers": {
+      "assertions": 20,
+      "episodes": [
+        "cli-progressive-layers"
+      ]
+    },
+    "render-backgrounds": {
+      "assertions": 81,
+      "episodes": [
+        "cli-render-backgrounds"
+      ]
+    },
+    "render-images": {
+      "assertions": 30,
+      "episodes": [
+        "cli-render-images"
+      ]
+    },
+    "render-strokes": {
+      "assertions": 114,
+      "episodes": [
+        "cli-render-strokes"
+      ]
+    },
+    "render-text": {
+      "assertions": 270,
+      "episodes": [
+        "cli-render-text"
+      ]
+    },
+    "search": {
+      "assertions": 2,
+      "episodes": [
+        "gui-pdf-search"
+      ]
+    },
+    "selection": {
+      "assertions": 35,
+      "episodes": [
+        "gui-selection-move",
+        "gui-selection-color",
+        "gui-lasso",
+        "gui-vertical-space",
+        "gui-selection-resize",
+        "gui-selection-rotate",
+        "gui-selection-alternatives"
+      ]
+    },
+    "shapes": {
+      "assertions": 60,
+      "episodes": [
+        "gui-shape-rectangle",
+        "gui-shape-ellipse",
+        "gui-shape-arrow",
+        "gui-shape-double-arrow",
+        "gui-shape-coordinates",
+        "gui-shape-line",
+        "gui-filled-shape",
+        "gui-spline",
+        "gui-shape-recognition"
+      ]
+    },
+    "snapping": {
+      "assertions": 12,
+      "episodes": [
+        "gui-snapping-grid",
+        "gui-snapping-rotation"
+      ]
+    },
+    "stabilization": {
+      "assertions": 5,
+      "episodes": [
+        "gui-input-stabilization"
+      ]
+    },
+    "text": {
+      "assertions": 15,
+      "episodes": [
+        "gui-text-create",
+        "gui-text-edit",
+        "gui-text-font"
+      ]
+    },
+    "toolbar-customization": {
+      "assertions": 3,
+      "episodes": [
+        "gui-toolbar-custom"
+      ]
+    },
+    "view": {
+      "assertions": 9,
+      "episodes": [
+        "gui-view-zoom",
+        "gui-toolbar-layout",
+        "gui-sidebar-view",
+        "gui-page-view-modes"
+      ]
+    },
+    "view-layout": {
+      "assertions": 3,
+      "episodes": [
+        "gui-layout-directions"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

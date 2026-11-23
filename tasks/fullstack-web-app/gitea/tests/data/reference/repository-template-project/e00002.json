@@ -1,0 +1,730 @@
+{
+  "controls": [
+    {
+      "aria": "Dashboard",
+      "bounds": [
+        10,
+        7,
+        56,
+        36
+      ],
+      "href": "/",
+      "ref": "e717",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        71,
+        7,
+        76,
+        36
+      ],
+      "href": "/issues",
+      "ref": "e718",
+      "role": null,
+      "tag": "a",
+      "text": "Issues"
+    },
+    {
+      "bounds": [
+        152,
+        7,
+        135,
+        36
+      ],
+      "href": "/pulls",
+      "ref": "e719",
+      "role": null,
+      "tag": "a",
+      "text": "Pull Requests"
+    },
+    {
+      "bounds": [
+        293,
+        7,
+        110,
+        36
+      ],
+      "href": "/milestones",
+      "ref": "e720",
+      "role": null,
+      "tag": "a",
+      "text": "Milestones"
+    },
+    {
+      "bounds": [
+        408,
+        7,
+        85,
+        36
+      ],
+      "href": "/explore/repos",
+      "ref": "e721",
+      "role": null,
+      "tag": "a",
+      "text": "Explore"
+    },
+    {
+      "aria": "Notifications",
+      "bounds": [
+        1094,
+        7,
+        42,
+        36
+      ],
+      "href": "/notifications",
+      "ref": "e722",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Notifications"
+    },
+    {
+      "aria": "Create…",
+      "bounds": [
+        1141,
+        7,
+        60,
+        36
+      ],
+      "expanded": false,
+      "ref": "e723",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Create…"
+    },
+    {
+      "aria": "Profile and Settings…",
+      "bounds": [
+        1207,
+        7,
+        64,
+        36
+      ],
+      "expanded": false,
+      "ref": "e724",
+      "role": "menu",
+      "tag": "div",
+      "text": "",
+      "title": "Profile and Settings…"
+    },
+    {
+      "bounds": [
+        64,
+        69,
+        54,
+        20
+      ],
+      "href": "/alice",
+      "ref": "e725",
+      "role": null,
+      "tag": "a",
+      "text": "alice"
+    },
+    {
+      "bounds": [
+        136,
+        69,
+        173,
+        20
+      ],
+      "href": "/alice/template-project",
+      "ref": "e726",
+      "role": null,
+      "tag": "a",
+      "text": "template-project"
+    },
+    {
+      "aria": "RSS Feed",
+      "bounds": [
+        815,
+        62,
+        47,
+        33
+      ],
+      "href": "/alice/template-project.rss",
+      "ref": "e727",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "RSS Feed"
+    },
+    {
+      "aria": "Unwatch",
+      "bounds": [
+        869,
+        62,
+        105,
+        33
+      ],
+      "ref": "e728",
+      "role": null,
+      "tag": "button",
+      "text": "Unwatch"
+    },
+    {
+      "bounds": [
+        973,
+        62,
+        32,
+        33
+      ],
+      "href": "/alice/template-project/watchers",
+      "ref": "e729",
+      "role": null,
+      "tag": "a",
+      "text": "1"
+    },
+    {
+      "aria": "Star",
+      "bounds": [
+        1012,
+        62,
+        82,
+        33
+      ],
+      "ref": "e730",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        1093,
+        62,
+        32,
+        33
+      ],
+      "href": "/alice/template-project/stars",
+      "ref": "e731",
+      "role": null,
+      "tag": "a",
+      "text": "0"
+    },
+    {
+      "bounds": [
+        1132,
+        62,
+        82,
+        33
+      ],
+      "ref": "e732",
+      "role": null,
+      "tag": "a",
+      "text": "Fork"
+    },
+    {
+      "bounds": [
+        1213,
+        62,
+        32,
+        33
+      ],
+      "href": "/alice/template-project/forks",
+      "ref": "e733",
+      "role": null,
+      "tag": "a",
+      "text": "0"
+    },
+    {
+      "bounds": [
+        32,
+        99,
+        79,
+        41
+      ],
+      "href": "/alice/template-project",
+      "ref": "e734",
+      "role": null,
+      "tag": "a",
+      "text": "Code"
+    },
+    {
+      "bounds": [
+        111,
+        99,
+        95,
+        41
+      ],
+      "href": "/alice/template-project/issues",
+      "ref": "e735",
+      "role": null,
+      "tag": "a",
+      "text": "Issues"
+    },
+    {
+      "bounds": [
+        206,
+        99,
+        154,
+        41
+      ],
+      "href": "/alice/template-project/pulls",
+      "ref": "e736",
+      "role": null,
+      "tag": "a",
+      "text": "Pull Requests"
+    },
+    {
+      "bounds": [
+        360,
+        99,
+        104,
+        41
+      ],
+      "href": "/alice/template-project/actions",
+      "ref": "e737",
+      "role": null,
+      "tag": "a",
+      "text": "Actions"
+    },
+    {
+      "bounds": [
+        464,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/template-project/packages",
+      "ref": "e738",
+      "role": null,
+      "tag": "a",
+      "text": "Packages"
+    },
+    {
+      "bounds": [
+        576,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/template-project/projects",
+      "ref": "e739",
+      "role": null,
+      "tag": "a",
+      "text": "Projects"
+    },
+    {
+      "bounds": [
+        688,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/template-project/releases",
+      "ref": "e740",
+      "role": null,
+      "tag": "a",
+      "text": "Releases"
+    },
+    {
+      "bounds": [
+        800,
+        99,
+        79,
+        41
+      ],
+      "href": "/alice/template-project/wiki",
+      "ref": "e741",
+      "role": null,
+      "tag": "a",
+      "text": "Wiki"
+    },
+    {
+      "bounds": [
+        878,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/template-project/activity",
+      "ref": "e742",
+      "role": null,
+      "tag": "a",
+      "text": "Activity"
+    },
+    {
+      "bounds": [
+        1136,
+        99,
+        112,
+        41
+      ],
+      "href": "/alice/template-project/settings",
+      "ref": "e743",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        32,
+        182,
+        94,
+        14
+      ],
+      "ref": "e744",
+      "role": null,
+      "tag": "button",
+      "text": "Manage Topics"
+    },
+    {
+      "bounds": [
+        33,
+        204,
+        304,
+        30
+      ],
+      "href": "/alice/template-project/commits/branch/main",
+      "ref": "e745",
+      "role": null,
+      "tag": "a",
+      "text": "1\nCommit"
+    },
+    {
+      "bounds": [
+        337,
+        204,
+        304,
+        30
+      ],
+      "href": "/alice/template-project/branches",
+      "ref": "e746",
+      "role": null,
+      "tag": "a",
+      "text": "1\nBranch"
+    },
+    {
+      "bounds": [
+        640,
+        204,
+        304,
+        30
+      ],
+      "href": "/alice/template-project/tags",
+      "ref": "e747",
+      "role": null,
+      "tag": "a",
+      "text": "0\nTags"
+    },
+    {
+      "aria": "New Pull Request",
+      "bounds": [
+        142,
+        243,
+        38,
+        30
+      ],
+      "href": "/alice/template-project/compare/main...main",
+      "ref": "e748",
+      "role": "button",
+      "tag": "a",
+      "text": "",
+      "title": "New Pull Request"
+    },
+    {
+      "bounds": [
+        187,
+        243,
+        106,
+        30
+      ],
+      "href": "/alice/template-project/find/branch/main",
+      "ref": "e749",
+      "role": null,
+      "tag": "a",
+      "text": "Go to file"
+    },
+    {
+      "bounds": [
+        300,
+        243,
+        101,
+        30
+      ],
+      "expanded": false,
+      "ref": "e750",
+      "role": "menu",
+      "tag": "button",
+      "text": "Add File"
+    },
+    {
+      "bounds": [
+        408,
+        243,
+        165,
+        30
+      ],
+      "href": "/repo/create?template_id=1",
+      "ref": "e751",
+      "role": "button",
+      "tag": "a",
+      "text": "Use this template"
+    },
+    {
+      "bounds": [
+        580,
+        243,
+        115,
+        30
+      ],
+      "name": "q",
+      "placeholder": "Search code...",
+      "ref": "e752",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "aria": "Search...",
+      "bounds": [
+        695,
+        243,
+        38,
+        30
+      ],
+      "ref": "e753",
+      "role": null,
+      "tag": "button",
+      "text": ""
+    },
+    {
+      "bounds": [
+        741,
+        243,
+        53,
+        30
+      ],
+      "ref": "e754",
+      "role": null,
+      "tag": "button",
+      "text": "HTTP"
+    },
+    {
+      "bounds": [
+        793,
+        243,
+        382,
+        30
+      ],
+      "ref": "e755",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "http://127.0.0.1:3000/alice/template-project.git"
+    },
+    {
+      "aria": "Copy URL",
+      "bounds": [
+        1175,
+        243,
+        36,
+        30
+      ],
+      "ref": "e756",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "title": "Copy URL"
+    },
+    {
+      "aria": "More Operations",
+      "bounds": [
+        1210,
+        243,
+        38,
+        30
+      ],
+      "expanded": false,
+      "ref": "e757",
+      "role": "menu",
+      "tag": "button",
+      "text": "",
+      "title": "More Operations"
+    },
+    {
+      "bounds": [
+        71,
+        291,
+        109,
+        20
+      ],
+      "href": "/alice",
+      "ref": "e758",
+      "role": null,
+      "tag": "a",
+      "text": "Alice Example",
+      "title": "Alice Example"
+    },
+    {
+      "bounds": [
+        186,
+        288,
+        100,
+        25
+      ],
+      "href": "/alice/template-project/commit/69a2e2bd145daab85daeee7c97e7e5ac7e22b9d8",
+      "ref": "e759",
+      "role": null,
+      "tag": "a",
+      "text": "69a2e2bd14"
+    },
+    {
+      "bounds": [
+        292,
+        293,
+        118,
+        16
+      ],
+      "href": "/alice/template-project/commit/69a2e2bd145daab85daeee7c97e7e5ac7e22b9d8",
+      "ref": "e760",
+      "role": null,
+      "tag": "a",
+      "text": "Initial commit"
+    },
+    {
+      "bounds": [
+        75,
+        322,
+        76,
+        32
+      ],
+      "href": "/alice/template-project/src/branch/main/README.md",
+      "ref": "e761",
+      "role": null,
+      "tag": "a",
+      "text": "README.md",
+      "title": "README.md"
+    },
+    {
+      "bounds": [
+        429,
+        322,
+        118,
+        32
+      ],
+      "href": "/alice/template-project/commit/69a2e2bd145daab85daeee7c97e7e5ac7e22b9d8",
+      "ref": "e762",
+      "role": null,
+      "tag": "a",
+      "text": "Initial commit"
+    },
+    {
+      "bounds": [
+        67,
+        386,
+        70,
+        15
+      ],
+      "href": "/alice/template-project#readme",
+      "ref": "e763",
+      "role": null,
+      "tag": "a",
+      "text": "README.md"
+    },
+    {
+      "aria": "Edit File",
+      "bounds": [
+        1204,
+        378,
+        32,
+        32
+      ],
+      "href": "/alice/template-project/_edit/main//README.md",
+      "ref": "e764",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Edit File"
+    },
+    {
+      "bounds": [
+        44,
+        431,
+        20,
+        40
+      ],
+      "href": "/alice/template-project#template-project",
+      "ref": "e765",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        20,
+        872,
+        134,
+        20
+      ],
+      "href": "[external]",
+      "ref": "e766",
+      "role": null,
+      "tag": "a",
+      "text": "Powered by Gitea"
+    },
+    {
+      "bounds": [
+        1063,
+        874,
+        76,
+        16
+      ],
+      "expanded": false,
+      "ref": "e767",
+      "role": "menu",
+      "tag": "div",
+      "text": "English"
+    },
+    {
+      "bounds": [
+        1145,
+        872,
+        76,
+        20
+      ],
+      "href": "/assets/licenses.txt",
+      "ref": "e768",
+      "role": null,
+      "tag": "a",
+      "text": "Licenses"
+    },
+    {
+      "bounds": [
+        1226,
+        872,
+        34,
+        20
+      ],
+      "href": "/api/swagger",
+      "ref": "e769",
+      "role": null,
+      "tag": "a",
+      "text": "API"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Issues\nPull Requests\nMilestones\nExplore\n \nalice\n/\ntemplate-project\nTemplate\nUnwatch\n1\nStar\n0\nFork\n0\nCode\nIssues\nPull Requests\nActions\nPackages\nProjects\nReleases\nWiki\nActivity\nSettings\nRepository description café Ω\nManage Topics\n1\nCommit\n1\nBranch\n0\nTags\n28\nKiB\nmain\nGo to file\nAdd File\nUse this template\nHTTP\nAlice Example\n69a2e2bd14\nInitial commit\n\t\n README.md\tInitial commit\t\nREADME.md\ntemplate-project\n\nRepository description café Ω\n\nPowered by Gitea\nPage:\n35ms\nTemplate:\n8ms\nEnglish\nLicenses\nAPI",
+  "text_truncated": false,
+  "title": "alice/template-project: Repository description café Ω - template-project - Gitea",
+  "url": "/alice/template-project",
+  "viewport": [
+    1280,
+    900
+  ]
+}

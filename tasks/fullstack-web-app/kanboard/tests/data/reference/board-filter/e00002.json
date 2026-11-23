@@ -1,0 +1,392 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e391",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e392",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/?controller=BoardViewController&action=show&plugin=&project_id=1&search=assignee%3Abob",
+      "ref": "e393",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/?controller=BoardViewController&action=show&plugin=&project_id=1&search=assignee%3Abob",
+      "ref": "e394",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "aria": "Configure this project",
+      "bounds": [
+        10,
+        48,
+        29,
+        17
+      ],
+      "href": "/?controller=BoardViewController&action=show&plugin=&project_id=1&search=assignee%3Abob",
+      "ref": "e395",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Configure this project"
+    },
+    {
+      "bounds": [
+        53,
+        49,
+        81,
+        16
+      ],
+      "href": "/project/1/overview/assignee%3Abob",
+      "ref": "e396",
+      "role": null,
+      "tag": "a",
+      "text": "Overview",
+      "title": "Keyboard shortcut: \"v o\""
+    },
+    {
+      "bounds": [
+        155,
+        49,
+        63,
+        16
+      ],
+      "href": "/board/1/search/assignee%3Abob",
+      "ref": "e397",
+      "role": null,
+      "tag": "a",
+      "text": "Board",
+      "title": "Keyboard shortcut: \"v b\""
+    },
+    {
+      "bounds": [
+        240,
+        49,
+        44,
+        16
+      ],
+      "href": "/list/1/search/assignee%3Abob",
+      "ref": "e398",
+      "role": null,
+      "tag": "a",
+      "text": "List",
+      "title": "Keyboard shortcut: \"v l\""
+    },
+    {
+      "aria": "Filter",
+      "bounds": [
+        302,
+        44,
+        846,
+        28
+      ],
+      "name": "search",
+      "placeholder": "Filter",
+      "ref": "e399",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "assignee:bob"
+    },
+    {
+      "aria": "Default filters",
+      "bounds": [
+        1161,
+        49,
+        36,
+        16
+      ],
+      "href": "/?controller=BoardViewController&action=show&plugin=&project_id=1&search=assignee%3Abob",
+      "ref": "e400",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Default filters"
+    },
+    {
+      "aria": "Custom filters",
+      "bounds": [
+        1221,
+        49,
+        36,
+        16
+      ],
+      "href": "/?controller=BoardViewController&action=show&plugin=&project_id=1&search=assignee%3Abob",
+      "ref": "e401",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "User filters"
+    },
+    {
+      "bounds": [
+        19,
+        94,
+        32,
+        17
+      ],
+      "href": "/board/1/task/create/swimlane/1/column/1",
+      "ref": "e402",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Add a new task"
+    },
+    {
+      "bounds": [
+        56,
+        92,
+        79,
+        17
+      ],
+      "href": "/?controller=BoardViewController&action=show&plugin=&project_id=1&search=assignee%3Abob",
+      "ref": "e403",
+      "role": null,
+      "tag": "a",
+      "text": "Backlog"
+    },
+    {
+      "bounds": [
+        139,
+        92,
+        12,
+        17
+      ],
+      "href": "/?controller=BoardViewController&action=show&plugin=&project_id=1&search=assignee%3Abob",
+      "ref": "e404",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        334,
+        94,
+        32,
+        17
+      ],
+      "href": "/board/1/task/create/swimlane/1/column/2",
+      "ref": "e405",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Add a new task"
+    },
+    {
+      "bounds": [
+        371,
+        92,
+        64,
+        17
+      ],
+      "href": "/?controller=BoardViewController&action=show&plugin=&project_id=1&search=assignee%3Abob",
+      "ref": "e406",
+      "role": null,
+      "tag": "a",
+      "text": "Ready"
+    },
+    {
+      "bounds": [
+        649,
+        94,
+        32,
+        17
+      ],
+      "href": "/board/1/task/create/swimlane/1/column/3",
+      "ref": "e407",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Add a new task"
+    },
+    {
+      "bounds": [
+        685,
+        92,
+        148,
+        17
+      ],
+      "href": "/?controller=BoardViewController&action=show&plugin=&project_id=1&search=assignee%3Abob",
+      "ref": "e408",
+      "role": null,
+      "tag": "a",
+      "text": "Work in progress"
+    },
+    {
+      "bounds": [
+        837,
+        92,
+        12,
+        17
+      ],
+      "href": "/?controller=BoardViewController&action=show&plugin=&project_id=1&search=assignee%3Abob",
+      "ref": "e409",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        963,
+        94,
+        32,
+        17
+      ],
+      "href": "/board/1/task/create/swimlane/1/column/4",
+      "ref": "e410",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Add a new task"
+    },
+    {
+      "bounds": [
+        1000,
+        92,
+        56,
+        17
+      ],
+      "href": "/?controller=BoardViewController&action=show&plugin=&project_id=1&search=assignee%3Abob",
+      "ref": "e411",
+      "role": null,
+      "tag": "a",
+      "text": "Done"
+    },
+    {
+      "bounds": [
+        18,
+        133,
+        31,
+        16
+      ],
+      "href": "/?controller=BoardViewController&action=show&plugin=&project_id=1&search=assignee%3Abob",
+      "ref": "e412",
+      "role": null,
+      "tag": "a",
+      "text": "#1"
+    },
+    {
+      "bounds": [
+        53,
+        133,
+        22,
+        16
+      ],
+      "href": "/task/1/edit",
+      "ref": "e413",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        18,
+        154,
+        109,
+        16
+      ],
+      "href": "/task/1",
+      "ref": "e414",
+      "role": null,
+      "tag": "a",
+      "text": "Alpha homepage"
+    },
+    {
+      "bounds": [
+        648,
+        133,
+        31,
+        16
+      ],
+      "href": "/?controller=BoardViewController&action=show&plugin=&project_id=1&search=assignee%3Abob",
+      "ref": "e415",
+      "role": null,
+      "tag": "a",
+      "text": "#3"
+    },
+    {
+      "bounds": [
+        683,
+        133,
+        22,
+        16
+      ],
+      "href": "/task/3/edit",
+      "ref": "e416",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        648,
+        154,
+        121,
+        16
+      ],
+      "href": "/task/3",
+      "ref": "e417",
+      "role": null,
+      "tag": "a",
+      "text": "Gamma newsletter"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Website \n \n \nA\nOverview Board List\nBacklog  \nTask count\n1  (\nTotal number of tasks in this column across all swimlanes\n2)\n\t\nReady \n\t\nWork in progress  \nTask count\n1  (\nTotal number of tasks in this column across all swimlanes\n1)\n\t\nDone \n\n\n#1 \n  Bob Builder\nBB\nAlpha homepage\nTask age in days\n<15m \nDays in this column\n<15m \nTask priority\nP0\n\t\n\t\n#3 \n  Bob Builder\nBB\nGamma newsletter\nTask age in days\n<15m \nDays in this column\n<15m \nTask priority\nP0\n\t",
+  "text_truncated": false,
+  "title": "Website",
+  "url": "/?controller=BoardViewController&action=show&plugin=&project_id=1&search=assignee%3Abob",
+  "viewport": [
+    1280,
+    900
+  ]
+}

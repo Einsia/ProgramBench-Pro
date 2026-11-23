@@ -1,0 +1,223 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e563",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e564",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/users",
+      "ref": "e565",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/users",
+      "ref": "e566",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "bounds": [
+        10,
+        49,
+        91,
+        17
+      ],
+      "href": "/?controller=UserCreationController&action=show",
+      "ref": "e567",
+      "role": null,
+      "tag": "a",
+      "text": "New user"
+    },
+    {
+      "bounds": [
+        121,
+        49,
+        114,
+        17
+      ],
+      "href": "/?controller=UserInviteController&action=show",
+      "ref": "e568",
+      "role": null,
+      "tag": "a",
+      "text": "Invite people"
+    },
+    {
+      "bounds": [
+        254,
+        49,
+        69,
+        17
+      ],
+      "href": "/?controller=UserImportController&action=show",
+      "ref": "e569",
+      "role": null,
+      "tag": "a",
+      "text": "Import"
+    },
+    {
+      "bounds": [
+        343,
+        49,
+        132,
+        17
+      ],
+      "href": "/groups",
+      "ref": "e570",
+      "role": null,
+      "tag": "a",
+      "text": "View all groups"
+    },
+    {
+      "aria": "Search",
+      "bounds": [
+        10,
+        87,
+        308,
+        28
+      ],
+      "name": "search",
+      "placeholder": "Search",
+      "ref": "e571",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1214,
+        136,
+        42,
+        28
+      ],
+      "href": "/users",
+      "ref": "e572",
+      "role": null,
+      "tag": "a",
+      "text": "Sort"
+    },
+    {
+      "bounds": [
+        14,
+        169,
+        30,
+        15
+      ],
+      "href": "/users",
+      "ref": "e573",
+      "role": null,
+      "tag": "a",
+      "text": "#1"
+    },
+    {
+      "bounds": [
+        74,
+        169,
+        37,
+        15
+      ],
+      "href": "/user/show/1",
+      "ref": "e574",
+      "role": null,
+      "tag": "a",
+      "text": "admin"
+    },
+    {
+      "bounds": [
+        14,
+        223,
+        30,
+        15
+      ],
+      "href": "/users",
+      "ref": "e575",
+      "role": null,
+      "tag": "a",
+      "text": "#2"
+    },
+    {
+      "bounds": [
+        74,
+        223,
+        87,
+        15
+      ],
+      "href": "/user/show/2",
+      "ref": "e576",
+      "role": null,
+      "tag": "a",
+      "text": "Robert Builder"
+    },
+    {
+      "bounds": [
+        86,
+        244,
+        126,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e577",
+      "role": null,
+      "tag": "a",
+      "text": "robert@example.test"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Users (2)\n \n \nA\nNew user Invite people Import View all groups\n2 users\nSort \n#1 \n \nA\n admin\nAdministrator\n \n#2 \n \nRB\n Robert Builder\nUser bob robert@example.test\n  ",
+  "text_truncated": false,
+  "title": "Users (2)",
+  "url": "/users",
+  "viewport": [
+    1280,
+    900
+  ]
+}

@@ -1,0 +1,1018 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        55,
+        95,
+        1210,
+        765
+      ],
+      "ref": "canvas0",
+      "tag": "svg"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        4,
+        84,
+        32,
+        30
+      ],
+      "pressed": true,
+      "ref": "e4ad40b8f",
+      "tag": "se-button",
+      "title": "Select Tool"
+    },
+    {
+      "bounds": [
+        4,
+        118,
+        32,
+        30
+      ],
+      "ref": "e529b5b83",
+      "tag": "se-button",
+      "title": "Zoom Tool [Z/Alt+wheels]"
+    },
+    {
+      "bounds": [
+        4,
+        152,
+        32,
+        30
+      ],
+      "ref": "e8a59bcf6",
+      "tag": "se-button",
+      "title": "Panning [Space / mouse wheel + drag]"
+    },
+    {
+      "bounds": [
+        4,
+        186,
+        32,
+        30
+      ],
+      "ref": "e9e703e03",
+      "tag": "se-button",
+      "title": "Pencil Tool [Q]"
+    },
+    {
+      "bounds": [
+        4,
+        220,
+        32,
+        30
+      ],
+      "ref": "e7922eb03",
+      "tag": "se-button",
+      "title": "Line Tool [L]"
+    },
+    {
+      "bounds": [
+        4,
+        254,
+        32,
+        30
+      ],
+      "ref": "e74e638e6",
+      "tag": "se-button",
+      "title": "Path Tool [P]"
+    },
+    {
+      "bounds": [
+        4,
+        288,
+        32,
+        30
+      ],
+      "ref": "e95d758c4",
+      "tag": "se-flyingbutton",
+      "title": "Square/Rect Tool"
+    },
+    {
+      "bounds": [
+        4,
+        322,
+        32,
+        30
+      ],
+      "ref": "ee5c8be71",
+      "tag": "se-flyingbutton",
+      "title": "Ellipse/Circle Tool"
+    },
+    {
+      "bounds": [
+        4,
+        356,
+        32,
+        30
+      ],
+      "ref": "e5d35491a",
+      "tag": "se-button",
+      "title": "Text Tool [T]"
+    },
+    {
+      "bounds": [
+        4,
+        390,
+        32,
+        30
+      ],
+      "ref": "ee5f8c52b",
+      "tag": "se-explorerbutton",
+      "title": "Shape library [null]"
+    },
+    {
+      "bounds": [
+        4,
+        424,
+        32,
+        30
+      ],
+      "ref": "ea6ffeec0",
+      "tag": "se-flyingbutton",
+      "title": "Polygone/Star Tool"
+    },
+    {
+      "bounds": [
+        4,
+        458,
+        32,
+        30
+      ],
+      "ref": "e2661fa88",
+      "tag": "se-button",
+      "title": "Image Tool"
+    },
+    {
+      "bounds": [
+        4,
+        492,
+        32,
+        30
+      ],
+      "ref": "e1a3813d9",
+      "tag": "se-button",
+      "title": "Connect two objects"
+    },
+    {
+      "bounds": [
+        4,
+        526,
+        32,
+        30
+      ],
+      "ref": "ed46529f5",
+      "tag": "se-button",
+      "title": "Eye Dropper Tool [ctrl+I]"
+    },
+    {
+      "bounds": [
+        40,
+        870,
+        94,
+        20
+      ],
+      "ref": "e71091cee",
+      "tag": "se-zoom",
+      "text": "▲ ▼",
+      "title": "Change zoom level",
+      "type": "text",
+      "value": "100.0"
+    },
+    {
+      "bounds": [
+        134,
+        868,
+        56,
+        24
+      ],
+      "ref": "e8f03bd1a",
+      "tag": "se-colorpicker",
+      "title": "Change fill color"
+    },
+    {
+      "bounds": [
+        190,
+        868,
+        56,
+        24
+      ],
+      "ref": "e98d70855",
+      "tag": "se-colorpicker",
+      "title": "Change stroke color"
+    },
+    {
+      "bounds": [
+        248,
+        870,
+        32,
+        22
+      ],
+      "context": "Change stroke width by 1, shift-click to change by 0.1",
+      "ref": "efff041d2",
+      "tag": "input",
+      "type": "text",
+      "value": "4"
+    },
+    {
+      "bounds": [
+        287,
+        870,
+        13,
+        11
+      ],
+      "context": "Change stroke width by 1, shift-click to change by 0.1",
+      "ref": "e7df04495",
+      "tag": "button",
+      "text": "▲"
+    },
+    {
+      "bounds": [
+        287,
+        882,
+        13,
+        11
+      ],
+      "context": "Change stroke width by 1, shift-click to change by 0.1",
+      "ref": "e591bc0f3",
+      "tag": "button",
+      "text": "▼"
+    },
+    {
+      "bounds": [
+        305,
+        861,
+        24,
+        30
+      ],
+      "label": "▲ ▼",
+      "options": [
+        {
+          "label": "—",
+          "selected": true,
+          "value": "none"
+        },
+        {
+          "label": "...",
+          "selected": false,
+          "value": "2,2"
+        },
+        {
+          "label": "--",
+          "selected": false,
+          "value": "5,5"
+        },
+        {
+          "label": "-.",
+          "selected": false,
+          "value": "5,2,2,2"
+        },
+        {
+          "label": "-..",
+          "selected": false,
+          "value": "5,2,2,2,2,2"
+        }
+      ],
+      "ref": "ed569ac81",
+      "tag": "se-select",
+      "title": "Change stroke dash style",
+      "value": "none"
+    },
+    {
+      "bounds": [
+        329,
+        869,
+        22,
+        22
+      ],
+      "context": "properties.linejoin_miter",
+      "ref": "e8d5137b0",
+      "tag": "div",
+      "title": "Linejoin: Miter"
+    },
+    {
+      "bounds": [
+        351,
+        869,
+        22,
+        22
+      ],
+      "context": "properties.linecap_butt",
+      "ref": "e68cd6cc2",
+      "tag": "div",
+      "title": "Linecap: Butt"
+    },
+    {
+      "bounds": [
+        405,
+        870,
+        32,
+        22
+      ],
+      "context": "Change selected item opacity",
+      "ref": "e493e3f3f",
+      "tag": "input",
+      "type": "text",
+      "value": "100"
+    },
+    {
+      "bounds": [
+        444,
+        870,
+        13,
+        11
+      ],
+      "context": "Change selected item opacity",
+      "ref": "e43361464",
+      "tag": "button",
+      "text": "▲"
+    },
+    {
+      "bounds": [
+        444,
+        882,
+        13,
+        11
+      ],
+      "context": "Change selected item opacity",
+      "ref": "efab66416",
+      "tag": "button",
+      "text": "▼"
+    },
+    {
+      "bounds": [
+        612,
+        869,
+        638,
+        23
+      ],
+      "ref": "e414e90d9",
+      "tag": "div",
+      "title": "Click to change fill color, shift-click to change stroke color"
+    },
+    {
+      "bounds": [
+        1250,
+        873,
+        14,
+        14
+      ],
+      "ref": "e9ba43c79",
+      "tag": "button",
+      "text": "▼",
+      "title": "Show palette window"
+    },
+    {
+      "bounds": [
+        176,
+        0,
+        32,
+        40
+      ],
+      "ref": "e85ce5e57",
+      "tag": "se-button",
+      "title": "Edit Source [U]"
+    },
+    {
+      "bounds": [
+        208,
+        0,
+        32,
+        40
+      ],
+      "ref": "e8dafd810",
+      "tag": "se-button",
+      "title": "Wireframe Mode [F]"
+    },
+    {
+      "bounds": [
+        240,
+        0,
+        32,
+        40
+      ],
+      "ref": "e193ef195",
+      "tag": "se-button",
+      "title": "Show/Hide Grid"
+    },
+    {
+      "bounds": [
+        272,
+        0,
+        32,
+        40
+      ],
+      "ref": "edf6ca10c",
+      "tag": "se-button",
+      "title": "Enable/Disable Layer View [Ctrl+Shift+L]"
+    },
+    {
+      "bounds": [
+        307,
+        0,
+        32,
+        40
+      ],
+      "ref": "e6dc00f5b",
+      "tag": "se-button",
+      "title": "Undo [ctrl+Z]"
+    },
+    {
+      "bounds": [
+        339,
+        0,
+        32,
+        40
+      ],
+      "disabled": true,
+      "ref": "e63632950",
+      "tag": "se-button",
+      "title": "Redo [ctrl+Y]"
+    },
+    {
+      "bounds": [
+        374,
+        0,
+        32,
+        40
+      ],
+      "ref": "e6b0bff90",
+      "tag": "se-button",
+      "title": "Duplicate Element(s) [D]"
+    },
+    {
+      "bounds": [
+        406,
+        0,
+        32,
+        40
+      ],
+      "ref": "ecf9ae46d",
+      "tag": "se-button",
+      "title": "Delete Element(s) [Delete/Backspace]"
+    },
+    {
+      "bounds": [
+        441,
+        0,
+        32,
+        40
+      ],
+      "ref": "e4ec6c4d9",
+      "tag": "se-button",
+      "title": "Bring to Front [Ctrl+Shift+]]"
+    },
+    {
+      "bounds": [
+        473,
+        0,
+        32,
+        40
+      ],
+      "ref": "ea9bc4f7b",
+      "tag": "se-button",
+      "title": "Send to Back [Ctrl+Shift+[]"
+    },
+    {
+      "bounds": [
+        505,
+        0,
+        32,
+        40
+      ],
+      "ref": "e03fbc21c",
+      "tag": "se-button",
+      "title": "Convert to Path"
+    },
+    {
+      "bounds": [
+        537,
+        0,
+        32,
+        40
+      ],
+      "disabled": true,
+      "ref": "ef03cb44c",
+      "tag": "se-button",
+      "title": "Reorient path"
+    },
+    {
+      "bounds": [
+        569,
+        0,
+        32,
+        40
+      ],
+      "ref": "e517a24b6",
+      "tag": "se-button",
+      "title": "Make (hyper)link"
+    },
+    {
+      "bounds": [
+        604,
+        0,
+        32,
+        40
+      ],
+      "ref": "e25c825f3",
+      "tag": "se-button",
+      "title": "Flip Horizontally"
+    },
+    {
+      "bounds": [
+        636,
+        0,
+        32,
+        40
+      ],
+      "ref": "eeb034e41",
+      "tag": "se-button",
+      "title": "Flip Vertically"
+    },
+    {
+      "bounds": [
+        672,
+        5,
+        107,
+        30
+      ],
+      "context": "properties.id",
+      "label": "id",
+      "ref": "e9222620d",
+      "tag": "div",
+      "text": "id",
+      "title": "Identify the element",
+      "type": "text",
+      "value": "gr"
+    },
+    {
+      "bounds": [
+        781,
+        5,
+        123,
+        30
+      ],
+      "context": "properties.class",
+      "label": "class",
+      "ref": "ef028e5c3",
+      "tag": "div",
+      "text": "class",
+      "title": "Element class",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        937,
+        10,
+        32,
+        22
+      ],
+      "context": "Change rotation angle",
+      "ref": "e589aa3d1",
+      "tag": "input",
+      "type": "text",
+      "value": "0"
+    },
+    {
+      "bounds": [
+        977,
+        10,
+        13,
+        11
+      ],
+      "context": "Change rotation angle",
+      "ref": "e75ffc0d8",
+      "tag": "button",
+      "text": "▲"
+    },
+    {
+      "bounds": [
+        977,
+        22,
+        13,
+        11
+      ],
+      "context": "Change rotation angle",
+      "ref": "ef7cf626e",
+      "tag": "button",
+      "text": "▼"
+    },
+    {
+      "bounds": [
+        1027,
+        10,
+        32,
+        22
+      ],
+      "context": "Change gaussian blur value",
+      "ref": "e2f4eae47",
+      "tag": "input",
+      "type": "text",
+      "value": "0"
+    },
+    {
+      "bounds": [
+        1067,
+        10,
+        13,
+        11
+      ],
+      "context": "Change gaussian blur value",
+      "ref": "ebf359dc8",
+      "tag": "button",
+      "text": "▲"
+    },
+    {
+      "bounds": [
+        1067,
+        22,
+        13,
+        11
+      ],
+      "context": "Change gaussian blur value",
+      "ref": "e1a5cb376",
+      "tag": "button",
+      "text": "▼"
+    },
+    {
+      "bounds": [
+        1085,
+        10,
+        23,
+        22
+      ],
+      "context": "Align Element to Page",
+      "ref": "eb88951f6",
+      "tag": "img",
+      "title": "Align Right"
+    },
+    {
+      "bounds": [
+        1085,
+        34,
+        27,
+        30
+      ],
+      "context": "Align Element to Page",
+      "ref": "e62d504cb",
+      "tag": "se-list-item",
+      "title": "Align Left"
+    },
+    {
+      "bounds": [
+        1085,
+        64,
+        27,
+        30
+      ],
+      "context": "Align Element to Page",
+      "ref": "ee51ef793",
+      "tag": "se-list-item",
+      "title": "Align Center"
+    },
+    {
+      "bounds": [
+        1085,
+        94,
+        27,
+        30
+      ],
+      "context": "Align Element to Page",
+      "ref": "e391e2cb0",
+      "tag": "se-list-item",
+      "title": "Align Right"
+    },
+    {
+      "bounds": [
+        1085,
+        124,
+        27,
+        30
+      ],
+      "context": "Align Element to Page",
+      "ref": "ed6a74b09",
+      "tag": "se-list-item",
+      "title": "Align Top"
+    },
+    {
+      "bounds": [
+        1085,
+        154,
+        27,
+        30
+      ],
+      "context": "Align Element to Page",
+      "ref": "e60196f73",
+      "tag": "se-list-item",
+      "title": "Align Middle"
+    },
+    {
+      "bounds": [
+        1085,
+        184,
+        27,
+        30
+      ],
+      "context": "Align Element to Page",
+      "ref": "e14c85075",
+      "tag": "se-list-item",
+      "title": "Align Bottom"
+    },
+    {
+      "bounds": [
+        1085,
+        214,
+        27,
+        30
+      ],
+      "context": "Align Element to Page",
+      "ref": "e4bb57ed0",
+      "tag": "se-list-item",
+      "title": "tools.align_distrib_horiz"
+    },
+    {
+      "bounds": [
+        1085,
+        244,
+        27,
+        30
+      ],
+      "context": "Align Element to Page",
+      "ref": "ee21bb950",
+      "tag": "se-list-item",
+      "title": "tools.align_distrib_verti"
+    },
+    {
+      "bounds": [
+        1118,
+        10,
+        32,
+        22
+      ],
+      "context": "Change X coordinate",
+      "label": "x",
+      "ref": "eba2de971",
+      "tag": "input",
+      "type": "text",
+      "value": "438"
+    },
+    {
+      "bounds": [
+        1157,
+        10,
+        13,
+        11
+      ],
+      "context": "Change X coordinate",
+      "ref": "ebd2de85b",
+      "tag": "button",
+      "text": "▲"
+    },
+    {
+      "bounds": [
+        1157,
+        22,
+        13,
+        11
+      ],
+      "context": "Change X coordinate",
+      "ref": "e9b40f1dd",
+      "tag": "button",
+      "text": "▼"
+    },
+    {
+      "bounds": [
+        1185,
+        10,
+        32,
+        22
+      ],
+      "context": "Change Y coordinate",
+      "label": "y",
+      "ref": "e8fd9a19f",
+      "tag": "input",
+      "type": "text",
+      "value": "160"
+    },
+    {
+      "bounds": [
+        1224,
+        10,
+        13,
+        11
+      ],
+      "context": "Change Y coordinate",
+      "ref": "e1e97bef6",
+      "tag": "button",
+      "text": "▲"
+    },
+    {
+      "bounds": [
+        1224,
+        22,
+        13,
+        11
+      ],
+      "context": "Change Y coordinate",
+      "ref": "eb3ccc8f0",
+      "tag": "button",
+      "text": "▼"
+    },
+    {
+      "bounds": [
+        118,
+        50,
+        32,
+        22
+      ],
+      "context": "Change rectangle width",
+      "label": "w",
+      "ref": "ee05a76c5",
+      "tag": "input",
+      "type": "text",
+      "value": "200"
+    },
+    {
+      "bounds": [
+        157,
+        50,
+        13,
+        11
+      ],
+      "context": "Change rectangle width",
+      "ref": "e6d2c7358",
+      "tag": "button",
+      "text": "▲"
+    },
+    {
+      "bounds": [
+        157,
+        62,
+        13,
+        11
+      ],
+      "context": "Change rectangle width",
+      "ref": "ecae2f956",
+      "tag": "button",
+      "text": "▼"
+    },
+    {
+      "bounds": [
+        186,
+        50,
+        32,
+        22
+      ],
+      "context": "Change rectangle height",
+      "label": "h",
+      "ref": "eb6e0c1a3",
+      "tag": "input",
+      "type": "text",
+      "value": "120"
+    },
+    {
+      "bounds": [
+        225,
+        50,
+        13,
+        11
+      ],
+      "context": "Change rectangle height",
+      "ref": "efdf6e4e1",
+      "tag": "button",
+      "text": "▲"
+    },
+    {
+      "bounds": [
+        225,
+        62,
+        13,
+        11
+      ],
+      "context": "Change rectangle height",
+      "ref": "e7e74fd9b",
+      "tag": "button",
+      "text": "▼"
+    },
+    {
+      "bounds": [
+        275,
+        50,
+        32,
+        22
+      ],
+      "context": "Change Rectangle Corner Radius",
+      "ref": "e45c5e802",
+      "tag": "input",
+      "type": "text",
+      "value": "0"
+    },
+    {
+      "bounds": [
+        314,
+        50,
+        13,
+        11
+      ],
+      "context": "Change Rectangle Corner Radius",
+      "ref": "ecabd0e85",
+      "tag": "button",
+      "text": "▲"
+    },
+    {
+      "bounds": [
+        314,
+        62,
+        13,
+        11
+      ],
+      "context": "Change Rectangle Corner Radius",
+      "ref": "eb048ebd3",
+      "tag": "button",
+      "text": "▼"
+    },
+    {
+      "bounds": [
+        1265,
+        450,
+        12,
+        60
+      ],
+      "ref": "ecd2b7877",
+      "tag": "se-text",
+      "text": "Panel",
+      "title": "Click to open side panel"
+    },
+    {
+      "bounds": [
+        3,
+        2,
+        92,
+        31
+      ],
+      "ref": "eb4df12b3",
+      "tag": "button",
+      "text": "SVG-Edit"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "drawing": [
+    {
+      "canvas": "canvas0",
+      "container": "svg#canvasBackground",
+      "items": [
+        {
+          "bounds": [
+            340,
+            237,
+            640,
+            480
+          ],
+          "fill": "#FFF",
+          "height": "100%",
+          "kind": "rect",
+          "stroke": "#000",
+          "width": "100%",
+          "x": "0",
+          "y": "0"
+        }
+      ]
+    },
+    {
+      "canvas": "canvas0",
+      "container": "svg#svgcontent > g.layer \"Layer 1\"",
+      "items": [
+        {
+          "bounds": [
+            778,
+            397,
+            200,
+            120
+          ],
+          "fill": "#3366cc",
+          "height": "120",
+          "id": "gr",
+          "kind": "rect",
+          "stroke": "#1a1a1a",
+          "stroke-width": "4",
+          "width": "200",
+          "x": "438",
+          "y": "160"
+        }
+      ]
+    }
+  ],
+  "drawing_truncated": false,
+  "text": "untitled.svg\nx\ny\nw\nh",
+  "text_truncated": false,
+  "title": "SVG-edit",
+  "url": "/",
+  "viewport": [
+    1280,
+    900
+  ]
+}

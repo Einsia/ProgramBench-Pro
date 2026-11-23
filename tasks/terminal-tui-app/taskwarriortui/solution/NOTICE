@@ -1,0 +1,32 @@
+taskwarrior-tui 0.27.0 and Taskwarrior 3.3.0 — licences and sources
+
+taskwarrior-tui-x86_64-unknown-linux-gnu.tar.gz is the unmodified upstream
+release binary, obtained from:
+https://github.com/kdheepak/taskwarrior-tui/releases/download/v0.27.0/taskwarrior-tui-x86_64-unknown-linux-gnu.tar.gz
+Its MIT licence is LICENSE. Source for version 0.27.0 is available at:
+https://github.com/kdheepak/taskwarrior-tui/archive/refs/tags/v0.27.0.tar.gz
+
+taskwarrior-3.3.0-x86_64-linux-gnu.tar.gz is a local build of Taskwarrior 3.3.0
+from the unmodified source release:
+https://github.com/GothenburgBitFactory/taskwarrior/releases/download/v3.3.0/task-3.3.0.tar.gz
+The binary is stripped. SOURCE.json records its compiler, dependencies and
+build commands. Its MIT licence and the libshared licence are preserved in
+LICENSES/taskwarrior.txt and LICENSES/libshared.txt. Rust dependency versions,
+licences and complete licence texts are in LICENSES/rust-dependencies.txt.
+
+The shared runtime uses libfaketime 0.9.12 to provide a fixed wall clock.
+Its GPL version 2 text is LICENSES/libfaketime.txt. Complete corresponding
+source for this unmodified component is available at:
+https://github.com/wolfcw/libfaketime/archive/refs/tags/v0.9.12.tar.gz
+The Dockerfile verifies the archive checksum and builds it with make; the
+library and its COPYING file are installed under /usr/local/lib/faketime.
+
+start.sh, task, sandbox.py and solve.sh are separate launcher and packaging
+files. sandbox.py restricts process execution and filesystem access with
+Landlock; neither product's source is patched. This distribution is not
+affiliated with or endorsed by either upstream project.
+
+Installed executables have mode 0555. The launcher creates execute-only copies
+inside the private TMPDIR before applying Landlock; the running program can
+execute those copies but cannot read them or the installed implementation as
+data. These temporary copies contain unchanged upstream executable bytes.

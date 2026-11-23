@@ -1,0 +1,13 @@
+TASK = 'komga'
+VERSION = '1.0.0'
+REFERENCE = 'Komga 1.29.2'
+SURFACE = 'browser'
+RUNTIME = '/opt/blackbox/runtime'
+RUNTIME_COMMAND = ('python3', '-I', '-B', RUNTIME + '/broker.py')
+RUNTIME_ARGS = ()
+READY_SECONDS = 105
+SESSION = {'session':'main'}
+START = {'op':'open','path':'/'}
+OBSERVE = ('snapshot','screenshot')
+GUI_OPS = ('open','reload','back','click','fill','type','select','check','press','pointer','drag','wheel','scroll','upload','wait')
+GUIDE_NOTES = 'The snapshot includes offscreen controls. Scroll to inspect them. Library directories supplied in goals are already staged in the public exchange directory.'

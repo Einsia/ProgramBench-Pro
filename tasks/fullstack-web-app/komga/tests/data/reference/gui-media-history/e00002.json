@@ -1,0 +1,424 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        260,
+        8,
+        48,
+        48
+      ],
+      "ref": "e3565697427",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        308,
+        8,
+        956,
+        48
+      ],
+      "expanded": false,
+      "ref": "e3932625320",
+      "role": "combobox",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "bounds": [
+        348,
+        16,
+        900,
+        32
+      ],
+      "placeholder": "Search",
+      "ref": "e3492990951",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        8,
+        73,
+        240,
+        40
+      ],
+      "href": "/dashboard",
+      "ref": "e4053023811",
+      "role": null,
+      "tag": "a",
+      "text": "Home"
+    },
+    {
+      "bounds": [
+        8,
+        117,
+        240,
+        40
+      ],
+      "href": "/libraries/all",
+      "ref": "e2922887771",
+      "role": null,
+      "tag": "a",
+      "text": "Libraries"
+    },
+    {
+      "bounds": [
+        168,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3616030284",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        204,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3666363141",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        161,
+        240,
+        40
+      ],
+      "href": "/libraries/0S3GHJW4XRCHP",
+      "ref": "e2937426961",
+      "role": null,
+      "tag": "a",
+      "text": "Comics"
+    },
+    {
+      "bounds": [
+        204,
+        163,
+        36,
+        36
+      ],
+      "ref": "e3699918379",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        205,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e1184854462",
+      "role": "button",
+      "tag": "div",
+      "text": "Import"
+    },
+    {
+      "bounds": [
+        8,
+        245,
+        240,
+        40
+      ],
+      "expanded": true,
+      "ref": "e2070932497",
+      "role": "button",
+      "tag": "div",
+      "text": "Media"
+    },
+    {
+      "bounds": [
+        8,
+        289,
+        240,
+        40
+      ],
+      "href": "/media-management/analysis",
+      "ref": "e3865060836",
+      "role": null,
+      "tag": "a",
+      "text": "Media Analysis"
+    },
+    {
+      "bounds": [
+        8,
+        333,
+        240,
+        40
+      ],
+      "href": "/media-management/missing-posters",
+      "ref": "e3691918694",
+      "role": null,
+      "tag": "a",
+      "text": "Missing Posters"
+    },
+    {
+      "bounds": [
+        8,
+        377,
+        240,
+        40
+      ],
+      "href": "/media-management/duplicate-files",
+      "ref": "e1776215729",
+      "role": null,
+      "tag": "a",
+      "text": "Duplicate Files"
+    },
+    {
+      "bounds": [
+        8,
+        421,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e3378645154",
+      "role": "button",
+      "tag": "div",
+      "text": "Duplicate Pages"
+    },
+    {
+      "bounds": [
+        8,
+        461,
+        240,
+        40
+      ],
+      "href": "/history",
+      "ref": "e3767444983",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        8,
+        505,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e3037120462",
+      "role": "button",
+      "tag": "div",
+      "text": "Server"
+    },
+    {
+      "bounds": [
+        8,
+        545,
+        240,
+        40
+      ],
+      "expanded": false,
+      "ref": "e1523447983",
+      "role": "button",
+      "tag": "div",
+      "text": "My Account"
+    },
+    {
+      "bounds": [
+        8,
+        629,
+        240,
+        40
+      ],
+      "href": "/next",
+      "ref": "e4201642777",
+      "role": null,
+      "tag": "a",
+      "text": "Try the new UI"
+    },
+    {
+      "bounds": [
+        72,
+        706,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e3477798934",
+      "role": "button",
+      "tag": "div",
+      "text": "Theme\nSystem"
+    },
+    {
+      "bounds": [
+        129,
+        706,
+        83,
+        26
+      ],
+      "label": "Theme",
+      "ref": "e2495161966",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        72,
+        770,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e750624210",
+      "role": "button",
+      "tag": "div",
+      "text": "Translation\nEnglish"
+    },
+    {
+      "bounds": [
+        128,
+        770,
+        84,
+        26
+      ],
+      "label": "Translation",
+      "ref": "e3247211374",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        780,
+        100,
+        464,
+        48
+      ],
+      "expanded": false,
+      "ref": "e2073761522",
+      "role": "button",
+      "tag": "div",
+      "text": "Libraries"
+    },
+    {
+      "bounds": [
+        792,
+        108,
+        408,
+        32
+      ],
+      "label": "Libraries",
+      "ref": "e910711416",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        374,
+        254,
+        44,
+        16
+      ],
+      "href": "/book/0S3GHKMHHRDVM",
+      "ref": "e3372051871",
+      "role": null,
+      "tag": "a",
+      "text": "Broken"
+    },
+    {
+      "bounds": [
+        288,
+        298,
+        36,
+        36
+      ],
+      "ref": "e1199002909",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        1005,
+        300,
+        46,
+        32
+      ],
+      "expanded": false,
+      "ref": "e3173292461",
+      "role": "button",
+      "tag": "div",
+      "text": "20"
+    },
+    {
+      "aria": "$vuetify.dataFooter.prevPage",
+      "bounds": [
+        1162,
+        298,
+        36,
+        36
+      ],
+      "disabled": true,
+      "ref": "e2362026792",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "aria": "$vuetify.dataFooter.nextPage",
+      "bounds": [
+        1212,
+        298,
+        36,
+        36
+      ],
+      "disabled": true,
+      "ref": "e3258964935",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Komga\nHome\nLibraries\nComics\nImport\nMedia\nMedia Analysis\nMissing Posters\nDuplicate Files\nDuplicate Pages\nHistory\nServer\nMy Account\nLog Out\nTry the new UI\nTheme\nSystem\nTranslation\nEnglish\nError\nUnsupported\nLibraries\nLibrary\tName\tStatus1\tComment\tMedia Type\tURL\tSize\t\nComics\tBroken\tUnsupported\tMedia type is not supported\ttext/plain\t/exchange/inbox/Comics/Errors/Broken.cbz\t25 B\t\nRows per page:\n20\n1-1 of 1",
+  "text_truncated": false,
+  "title": "Komga",
+  "url": "/media-management/analysis",
+  "viewport": [
+    1280,
+    900
+  ]
+}

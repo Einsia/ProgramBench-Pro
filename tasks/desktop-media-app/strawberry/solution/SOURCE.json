@@ -1,0 +1,39 @@
+{
+  "task": "strawberry",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "Strawberry",
+    "version": "1.2.31",
+    "homepage": "https://www.strawberrymusicplayer.org/",
+    "repository": "https://github.com/strawberrymusicplayer/strawberry",
+    "license": "GPL-3.0-or-later"
+  },
+  "downloads": [
+    {
+      "file": "strawberry_1.2.31-noble_amd64.deb",
+      "url": "https://github.com/strawberrymusicplayer/strawberry/releases/download/1.2.31/strawberry_1.2.31-noble_amd64.deb",
+      "sha256": "68a6840d0ee60b22712f9535d07a6ca06780a1433e2f4256f76541b07dce24b0"
+    },
+    {
+      "file": "strawberry-1.2.31.tar.xz",
+      "url": "https://github.com/strawberrymusicplayer/strawberry/releases/download/1.2.31/strawberry-1.2.31.tar.xz",
+      "sha256": "cffc0cd453f3126a930b9e67f547e54d9fde0c8754fdead8185d2b2f5c68c037"
+    }
+  ],
+  "bundled": [
+    {
+      "file": "schema.sql",
+      "built_from": "Unmodified strawberry-1.2.31/data/schema/schema.sql copied from the official strawberry-1.2.31.tar.xz source release."
+    }
+  ],
+  "modifications": "The upstream executable and source archive are unchanged. A separate launcher initializes normal configuration and the upstream database schema, then executes the product. A separate process guard confines writes to profile/document directories and restricts child executables; upstream files remain unchanged.",
+  "configuration": "XDG configuration and data directories are below DATA_DIR. A fresh profile has one empty playlist, PBP_COLLECTION_DIR as its collection folder, and the first-run sponsorship message disabled; playback uses the supplied PulseAudio sink.",
+  "notes": {
+    "entrypoint": "start.sh",
+    "installer": "solve.sh",
+    "corresponding_source": "https://github.com/strawberrymusicplayer/strawberry/releases/download/1.2.31/strawberry-1.2.31.tar.xz",
+    "schema_version": 25,
+    "component_notices": "LICENSES/strawberry-package.txt and runtime/usr/share/doc/strawberry/copyright",
+    "process_isolation": "process_guard.c is compiled at installation; requires Linux Landlock. Native helper execution is limited to the installed runtime; Python applications cannot launch external executables."
+  }
+}

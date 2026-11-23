@@ -1,0 +1,447 @@
+{
+  "focused": null,
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        1024
+      ],
+      "name": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),",
+      "ref": "e93ed40b7",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        25
+      ],
+      "name": "",
+      "ref": "e37b0c28a",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        0,
+        19,
+        39,
+        25
+      ],
+      "name": "File",
+      "ref": "eae5e7196",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        39,
+        19,
+        75,
+        25
+      ],
+      "name": "Accounts",
+      "ref": "ecb5893cc",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        114,
+        19,
+        49,
+        25
+      ],
+      "name": "Tools",
+      "ref": "ec5eeafb2",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        163,
+        19,
+        48,
+        25
+      ],
+      "name": "View",
+      "ref": "eb0ba3d40",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        211,
+        19,
+        46,
+        25
+      ],
+      "name": "Help",
+      "ref": "ef594ac36",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        1,
+        105,
+        200,
+        896
+      ],
+      "description": "Credit Card Accounts",
+      "name": "",
+      "ref": "e469ef34c",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        1,
+        995,
+        200,
+        6
+      ],
+      "name": "",
+      "ref": "ef36204a0",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        365,
+        164,
+        550,
+        695
+      ],
+      "name": "Edit Account",
+      "ref": "e17f1f38d",
+      "role": "frame",
+      "states": [
+        "active",
+        "modal"
+      ]
+    },
+    {
+      "bounds": [
+        381,
+        207,
+        100,
+        17
+      ],
+      "name": "Account Name:",
+      "ref": "eef0f24ed",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        493,
+        199,
+        406,
+        34
+      ],
+      "description": "Enter the Name of the Account. This name can be renamed at any time.",
+      "name": "",
+      "ref": "e02244853",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "Rainy Day Savings"
+    },
+    {
+      "bounds": [
+        381,
+        251,
+        91,
+        17
+      ],
+      "name": "Account Type:",
+      "ref": "eff6eac7e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        493,
+        243,
+        406,
+        34
+      ],
+      "description": "Specify the account type to be created.",
+      "name": "Checking",
+      "ref": "e2c4383a1",
+      "role": "combo box",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        381,
+        295,
+        102,
+        17
+      ],
+      "name": "Account Status:",
+      "ref": "e5875754e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        493,
+        287,
+        406,
+        34
+      ],
+      "description": "Specify if this account has been closed. Closed accounts are inactive in most calculations, reporting etc.",
+      "name": "Closed",
+      "ref": "e20ba4493",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        381,
+        339,
+        102,
+        17
+      ],
+      "name": "Initial Balance:",
+      "ref": "eae064f54",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        493,
+        331,
+        406,
+        34
+      ],
+      "description": "Enter the initial balance in this account.",
+      "name": "",
+      "ref": "ef25b51a2",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "8000.00"
+    },
+    {
+      "bounds": [
+        381,
+        383,
+        94,
+        17
+      ],
+      "name": "Opening Date:",
+      "ref": "e1706e37d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        493,
+        375,
+        406,
+        34
+      ],
+      "description": "The date when the account was opened",
+      "name": "",
+      "ref": "ee74fa1b5",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        493,
+        375,
+        91,
+        34
+      ],
+      "name": "",
+      "ref": "eff0b9a81",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "01/01/2025"
+    },
+    {
+      "bounds": [
+        381,
+        427,
+        62,
+        17
+      ],
+      "name": "Currency:",
+      "ref": "ea73209cc",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        493,
+        419,
+        406,
+        34
+      ],
+      "description": "Specify the currency to be used by this account.",
+      "name": "US dollar",
+      "ref": "e016c74b9",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        493,
+        463,
+        136,
+        21
+      ],
+      "description": "Select whether this is an account that is used often. This is used to filter accounts display view.",
+      "name": "Favorite Account",
+      "ref": "e4eb6d468",
+      "role": "check box",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        376,
+        499,
+        528,
+        295
+      ],
+      "name": "",
+      "ref": "e4c17666b",
+      "role": "page tab list"
+    },
+    {
+      "bounds": [
+        397,
+        503,
+        38,
+        30
+      ],
+      "name": "Notes",
+      "ref": "e57ad79d6",
+      "role": "page tab",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        383,
+        543,
+        514,
+        244
+      ],
+      "description": "Enter user notes and details about this account.",
+      "name": "",
+      "ref": "eefa45a3b",
+      "role": "text",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        467,
+        503,
+        36,
+        30
+      ],
+      "name": "Other",
+      "ref": "e3e38d079",
+      "role": "page tab"
+    },
+    {
+      "bounds": [
+        535,
+        503,
+        68,
+        30
+      ],
+      "name": "Statement",
+      "ref": "ecd8ca383",
+      "role": "page tab"
+    },
+    {
+      "bounds": [
+        635,
+        503,
+        39,
+        30
+      ],
+      "name": "Credit",
+      "ref": "eb7a29c5d",
+      "role": "page tab"
+    },
+    {
+      "bounds": [
+        381,
+        813,
+        18,
+        26
+      ],
+      "name": "",
+      "ref": "edec3139a",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        409,
+        813,
+        18,
+        26
+      ],
+      "description": "Organize attachments of this account",
+      "name": "",
+      "ref": "e994112cf",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        457,
+        809,
+        85,
+        34
+      ],
+      "name": "OK",
+      "ref": "ee31e252e",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        552,
+        809,
+        85,
+        34
+      ],
+      "name": "Cancel",
+      "ref": "ec9075fcc",
+      "role": "push button"
+    }
+  ],
+  "screen": [
+    1280,
+    1024
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": false,
+      "bounds": [
+        0,
+        38,
+        1280,
+        1005
+      ],
+      "ref": "w5b3c0310",
+      "title": "ledger.mmb - Money Manager Ex (1.9.4 64-bit) Ubuntu 24.04.5 LTS (Noble Numbat), based on debian (noble),"
+    },
+    {
+      "active": true,
+      "bounds": [
+        367,
+        204,
+        548,
+        674
+      ],
+      "ref": "w72fa1eae",
+      "title": "Edit Account"
+    }
+  ]
+}

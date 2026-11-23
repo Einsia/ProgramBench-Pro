@@ -1,0 +1,273 @@
+{
+  "counts": {
+    "assertions": 1432,
+    "backend": 1308,
+    "checkpoints": 1224,
+    "features": 17,
+    "frontend": 124,
+    "gui_episodes": 120,
+    "program_episodes": 51,
+    "episodes": 171
+  },
+  "features": {
+    "analysis": {
+      "assertions": 148,
+      "episodes": [
+        "cmd-analysis",
+        "mx-aggregates",
+        "mx-pivots",
+        "mx-joins",
+        "sh-freq",
+        "sh-aggregates",
+        "ex-aggregates"
+      ]
+    },
+    "columns": {
+      "assertions": 154,
+      "episodes": [
+        "cmd-columns",
+        "vr-columns",
+        "ex-renaming",
+        "ex-nested",
+        "more-bulk",
+        "more-contract",
+        "gui-hide-id",
+        "gui-hide-name",
+        "gui-hide-city",
+        "gui-hide-qty",
+        "gui-hide-price",
+        "gui-hide-day",
+        "gui-hide-code",
+        "gui-key-name",
+        "gui-key-city",
+        "gui-key-qty",
+        "gui-key-price",
+        "gui-key-day",
+        "gui-key-code",
+        "gui-rename-name",
+        "gui-rename-city",
+        "gui-rename-qty",
+        "gui-rename-price"
+      ]
+    },
+    "conversion": {
+      "assertions": 154,
+      "episodes": [
+        "conv-savers",
+        "conv-options",
+        "conv-loaders",
+        "mx-roundtrip",
+        "sh-savers",
+        "vr-convert",
+        "more-formats"
+      ]
+    },
+    "editing": {
+      "assertions": 57,
+      "episodes": [
+        "tui-editing",
+        "gui-edit-name",
+        "gui-edit-city",
+        "gui-edit-amount",
+        "gui-expr-double",
+        "gui-expr-typed",
+        "gui-expr-upper",
+        "gui-expr-length",
+        "gui-delete-first",
+        "gui-delete-fourth",
+        "gui-delete-last",
+        "gui-add-first",
+        "gui-add-third",
+        "gui-copy-paste",
+        "gui-undo-delete",
+        "gui-redo-sort",
+        "gui-set-column",
+        "gui-unhide"
+      ]
+    },
+    "errors": {
+      "assertions": 9,
+      "episodes": [
+        "cmd-errors"
+      ]
+    },
+    "expressions": {
+      "assertions": 106,
+      "episodes": [
+        "cmd-expressions",
+        "mx-expressions"
+      ]
+    },
+    "files": {
+      "assertions": 12,
+      "episodes": [
+        "gui-open-pets",
+        "gui-open-sample",
+        "gui-open-mix",
+        "gui-open-grid"
+      ]
+    },
+    "history": {
+      "assertions": 5,
+      "episodes": [
+        "tui-history"
+      ]
+    },
+    "navigation": {
+      "assertions": 54,
+      "episodes": [
+        "tui-navigation",
+        "tui-moves",
+        "gui-nav-last-row",
+        "gui-nav-last-col",
+        "gui-nav-corner",
+        "gui-nav-cell-4-3",
+        "gui-nav-cell-5-2",
+        "gui-nav-cell-2-4",
+        "gui-nav-cell-9-6",
+        "gui-nav-letters",
+        "gui-nav-sample-end",
+        "gui-nav-pets-end",
+        "gui-nav-top-again",
+        "gui-nav-left-again",
+        "gui-nav-walk"
+      ]
+    },
+    "rows": {
+      "assertions": 145,
+      "episodes": [
+        "cmd-rows",
+        "vr-rows",
+        "ex-cells",
+        "more-rows-cols"
+      ]
+    },
+    "saving": {
+      "assertions": 18,
+      "episodes": [
+        "cmd-saving",
+        "mx-saving"
+      ]
+    },
+    "search": {
+      "assertions": 48,
+      "episodes": [
+        "tui-search",
+        "sh-search",
+        "gui-find-ber",
+        "gui-find-paris-next",
+        "gui-find-rome",
+        "gui-find-oslo-wrap",
+        "gui-find-berlin-back",
+        "gui-find-paris-prev",
+        "gui-find-name"
+      ]
+    },
+    "selection": {
+      "assertions": 176,
+      "episodes": [
+        "cmd-selection",
+        "tui-selection",
+        "mx-select-regex",
+        "mx-select-expr",
+        "gui-sel-first-three",
+        "gui-sel-odd-rows",
+        "gui-sel-last-two",
+        "gui-sel-toggle",
+        "gui-sel-regex-b",
+        "gui-sel-regex-r",
+        "gui-sel-regex-p",
+        "gui-sel-regex-o",
+        "gui-sel-regex-name",
+        "gui-sel-unselect-paris",
+        "gui-sel-unselect-rome",
+        "gui-sel-same-rome",
+        "gui-sel-same-paris",
+        "gui-sel-mix-code",
+        "gui-sel-mix-name",
+        "gui-sel-mix-city",
+        "gui-sel-clear",
+        "gui-sel-dup",
+        "gui-sel-delete"
+      ]
+    },
+    "session": {
+      "assertions": 9,
+      "episodes": [
+        "tui-session",
+        "gui-log-custom",
+        "gui-log-default"
+      ]
+    },
+    "sheets": {
+      "assertions": 96,
+      "episodes": [
+        "tui-sheets",
+        "more-sheets",
+        "gui-freq-city",
+        "gui-freq-qty",
+        "gui-freq-day",
+        "gui-freq-code",
+        "gui-freq-rows-mix",
+        "gui-freq-rows-grid",
+        "gui-transpose-grid",
+        "gui-transpose-pets",
+        "gui-pivot-sample",
+        "gui-pivot-pets",
+        "gui-columns-grid",
+        "gui-columns-pets",
+        "gui-columns-mix",
+        "gui-stack",
+        "gui-quit-sheet",
+        "gui-quit-all"
+      ]
+    },
+    "sorting": {
+      "assertions": 157,
+      "episodes": [
+        "cmd-sorting",
+        "tui-typing-sorting",
+        "mx-sorting",
+        "sh-sorting",
+        "ex-sorting",
+        "gui-sort-id-asc",
+        "gui-sort-id-des",
+        "gui-sort-name-asc",
+        "gui-sort-name-des",
+        "gui-sort-city-asc",
+        "gui-sort-city-des",
+        "gui-sort-qty-asc",
+        "gui-sort-qty-des",
+        "gui-sort-price-asc",
+        "gui-sort-price-des",
+        "gui-sort-day-asc",
+        "gui-sort-day-des",
+        "gui-sort-code-asc",
+        "gui-sort-code-des",
+        "gui-sort-qty-typed-asc",
+        "gui-sort-qty-typed-des",
+        "gui-sort-price-typed-asc",
+        "gui-sort-price-typed-des"
+      ]
+    },
+    "types": {
+      "assertions": 84,
+      "episodes": [
+        "cmd-types",
+        "sh-types",
+        "vr-formats",
+        "ex-types",
+        "gui-type-id-integer",
+        "gui-type-id-float",
+        "gui-type-qty-integer",
+        "gui-type-qty-float",
+        "gui-type-price-float",
+        "gui-type-price-currency",
+        "gui-type-day-date"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

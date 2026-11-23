@@ -1,0 +1,10 @@
+**
+!solution/
+!solution/**
+!environment/
+!environment/Dockerfile.reference
+!environment/runtime/
+!environment/runtime/*.py
+
+**/__pycache__
+**/*.pyc

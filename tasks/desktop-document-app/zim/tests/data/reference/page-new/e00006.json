@@ -1,0 +1,969 @@
+{
+  "focused": "e00704cfa",
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        900
+      ],
+      "name": "Work:Plan - Core",
+      "ref": "e42689ab5",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        1154,
+        -1,
+        1,
+        46
+      ],
+      "name": "",
+      "ref": "e592c745a",
+      "role": "separator"
+    },
+    {
+      "bounds": [
+        1161,
+        7,
+        34,
+        30
+      ],
+      "name": "Minimize",
+      "ref": "e4029fb5d",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1201,
+        7,
+        34,
+        30
+      ],
+      "name": "Restore",
+      "ref": "e73c6be38",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1241,
+        7,
+        34,
+        30
+      ],
+      "name": "Close",
+      "ref": "e46a9f3a7",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1070,
+        -1,
+        36,
+        46
+      ],
+      "description": "Toggle editable",
+      "name": "",
+      "ref": "e28a9e4a9",
+      "role": "toggle button",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        1112,
+        -1,
+        36,
+        46
+      ],
+      "description": "Search...",
+      "name": "Find",
+      "ref": "ea58bea2f",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        564,
+        13,
+        152,
+        17
+      ],
+      "name": "Work:Plan - Core",
+      "ref": "e7707ac71",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        5,
+        -1,
+        35,
+        46
+      ],
+      "description": "Go back",
+      "name": "Back",
+      "ref": "e96979b32",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        40,
+        -1,
+        35,
+        46
+      ],
+      "description": "Go to home page",
+      "name": "Home",
+      "ref": "e142836b8",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        75,
+        -1,
+        36,
+        46
+      ],
+      "description": "Go forward",
+      "name": "Forward",
+      "ref": "ed1509db3",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        46,
+        1280,
+        25
+      ],
+      "name": "",
+      "ref": "e5de91ee9",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        0,
+        46,
+        39,
+        25
+      ],
+      "name": "File",
+      "ref": "ed4b20189",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        39,
+        46,
+        41,
+        25
+      ],
+      "name": "Edit",
+      "ref": "e79d0ca26",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        80,
+        46,
+        48,
+        25
+      ],
+      "name": "View",
+      "ref": "eaacaa1f3",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        128,
+        46,
+        53,
+        25
+      ],
+      "name": "Insert",
+      "ref": "eeb806522",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        181,
+        46,
+        62,
+        25
+      ],
+      "name": "Format",
+      "ref": "ef6a271d3",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        243,
+        46,
+        60,
+        25
+      ],
+      "name": "Search",
+      "ref": "ed508a908",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        303,
+        46,
+        49,
+        25
+      ],
+      "name": "Tools",
+      "ref": "e77ddb564",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        352,
+        46,
+        34,
+        25
+      ],
+      "name": "Go",
+      "ref": "e0d3d5208",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        386,
+        46,
+        46,
+        25
+      ],
+      "name": "Help",
+      "ref": "ea3355b98",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        0,
+        71,
+        1280,
+        42
+      ],
+      "name": "",
+      "ref": "e75666fe6",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        4,
+        75,
+        37,
+        35
+      ],
+      "name": "Strong",
+      "ref": "ebfeb852a",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        41,
+        75,
+        37,
+        35
+      ],
+      "name": "Emphasis",
+      "ref": "ee8d87711",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        78,
+        75,
+        37,
+        35
+      ],
+      "name": "Mark",
+      "ref": "e9192236a",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        115,
+        75,
+        37,
+        35
+      ],
+      "name": "Strike",
+      "ref": "e93ca3ebb",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        152,
+        75,
+        37,
+        35
+      ],
+      "name": "Verbatim",
+      "ref": "e559494f3",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        189,
+        75,
+        37,
+        35
+      ],
+      "name": "Subscript",
+      "ref": "e18ee591c",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        226,
+        75,
+        37,
+        35
+      ],
+      "name": "Superscript",
+      "ref": "e9354245e",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        263,
+        75,
+        37,
+        35
+      ],
+      "name": "List...",
+      "ref": "e4e41f587",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        300,
+        75,
+        37,
+        35
+      ],
+      "name": "Heading...",
+      "ref": "e89e97ca7",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        337,
+        75,
+        37,
+        35
+      ],
+      "name": "Insert...",
+      "ref": "e6109c59a",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        388,
+        75,
+        37,
+        35
+      ],
+      "name": "Open Attachments Folder",
+      "ref": "e215c89ee",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        113,
+        1276,
+        787
+      ],
+      "name": "",
+      "ref": "e1f1b58ea",
+      "role": "split pane",
+      "value": 200.0
+    },
+    {
+      "bounds": [
+        0,
+        113,
+        164,
+        34
+      ],
+      "name": "Index",
+      "ref": "e2e7b7d1c",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        164,
+        113,
+        36,
+        34
+      ],
+      "name": "",
+      "ref": "ee22e9c08",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        147,
+        200,
+        753
+      ],
+      "name": "",
+      "ref": "e5598c1e0",
+      "role": "page tab list"
+    },
+    {
+      "bounds": [
+        1,
+        148,
+        198,
+        751
+      ],
+      "name": "",
+      "ref": "e3d90cfc5",
+      "role": "tree table"
+    },
+    {
+      "bounds": [
+        41,
+        149,
+        140,
+        21
+      ],
+      "name": "Café",
+      "ref": "e0f2d4ad8",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        185,
+        149,
+        12,
+        21
+      ],
+      "name": "1",
+      "ref": "e61a50e3c",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        41,
+        172,
+        140,
+        21
+      ],
+      "name": "Home",
+      "ref": "e2f1c5e25",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        185,
+        172,
+        12,
+        21
+      ],
+      "name": "",
+      "ref": "e90453d97",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        41,
+        195,
+        140,
+        21
+      ],
+      "name": "Journal",
+      "ref": "ecbf72b99",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        185,
+        195,
+        12,
+        21
+      ],
+      "name": "1",
+      "ref": "ea8232795",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        41,
+        218,
+        140,
+        21
+      ],
+      "name": "Notes",
+      "ref": "e0b88f930",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        185,
+        218,
+        12,
+        21
+      ],
+      "name": "",
+      "ref": "e06daca2f",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        41,
+        241,
+        140,
+        21
+      ],
+      "name": "Projects",
+      "ref": "e4be9aa51",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        185,
+        241,
+        12,
+        21
+      ],
+      "name": "2",
+      "ref": "e15c7331a",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        41,
+        264,
+        140,
+        21
+      ],
+      "name": "Work",
+      "ref": "ebd46c61b",
+      "role": "table cell",
+      "states": [
+        "expanded"
+      ]
+    },
+    {
+      "bounds": [
+        185,
+        264,
+        12,
+        21
+      ],
+      "name": "1",
+      "ref": "eb0bef834",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        59,
+        287,
+        122,
+        21
+      ],
+      "name": "Plan",
+      "ref": "ee6f57de9",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        185,
+        287,
+        12,
+        21
+      ],
+      "name": "",
+      "ref": "e3b7ae8d5",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        201,
+        113,
+        1075,
+        787
+      ],
+      "name": "",
+      "ref": "eee0457ad",
+      "role": "split pane",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        203,
+        115,
+        53,
+        34
+      ],
+      "name": "Home",
+      "ref": "ef8e4805c",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        256,
+        115,
+        47,
+        34
+      ],
+      "description": "Work:Plan",
+      "name": "Plan",
+      "ref": "e227b6dac",
+      "role": "toggle button",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        201,
+        151,
+        1075,
+        749
+      ],
+      "name": "",
+      "ref": "ed9a2b803",
+      "role": "split pane",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        201,
+        151,
+        1075,
+        749
+      ],
+      "name": "",
+      "ref": "e740d363f",
+      "role": "split pane",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        202,
+        152,
+        1073,
+        747
+      ],
+      "name": "",
+      "ref": "e3e519df7",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "Plan\nCreated Thursday 15 January 2026\n\n\nPlan text with a tag @urgent"
+    },
+    {
+      "bounds": [
+        1276,
+        113,
+        4,
+        17
+      ],
+      "name": "",
+      "ref": "e318e4941",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        438,
+        275,
+        437,
+        394
+      ],
+      "name": "Export",
+      "ref": "ed7202eff",
+      "role": "dialog",
+      "states": [
+        "modal"
+      ]
+    },
+    {
+      "bounds": [
+        451,
+        307,
+        231,
+        17
+      ],
+      "name": "Select the output file or folder",
+      "ref": "e80c9ad66",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        827,
+        307,
+        35,
+        17
+      ],
+      "name": "(3/3)",
+      "ref": "e921ff50e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        558,
+        462,
+        193,
+        34
+      ],
+      "name": "",
+      "ref": "eaa07adeb",
+      "role": "text",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        456,
+        462,
+        90,
+        34
+      ],
+      "name": "Index page:",
+      "ref": "e5498060f",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        763,
+        423,
+        82,
+        34
+      ],
+      "name": "Browse",
+      "ref": "ed1450473",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        558,
+        423,
+        193,
+        34
+      ],
+      "name": "",
+      "ref": "e4e1a91a3",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "/app/candidate-state/session/files/outbox/gui-export"
+    },
+    {
+      "bounds": [
+        456,
+        423,
+        90,
+        34
+      ],
+      "name": "Output folder:",
+      "ref": "e166a86cc",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        456,
+        401,
+        90,
+        17
+      ],
+      "name": "",
+      "ref": "edcd65056",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        456,
+        375,
+        401,
+        21
+      ],
+      "name": "Export all pages to a single file",
+      "ref": "ea1510d6f",
+      "role": "radio button"
+    },
+    {
+      "bounds": [
+        456,
+        349,
+        401,
+        21
+      ],
+      "name": "Export each page to a separate file",
+      "ref": "efcc98548",
+      "role": "radio button",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        446,
+        623,
+        86,
+        34
+      ],
+      "name": "Help",
+      "ref": "eaa1a9cae",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        601,
+        623,
+        86,
+        34
+      ],
+      "name": "Cancel",
+      "ref": "eec04372b",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        691,
+        623,
+        86,
+        34
+      ],
+      "name": "Back",
+      "ref": "ea3e9edb5",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        781,
+        623,
+        86,
+        34
+      ],
+      "name": "OK",
+      "ref": "ee2763eb0",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        496,
+        384,
+        289,
+        133
+      ],
+      "name": "Question",
+      "ref": "ef74a46ec",
+      "role": "alert",
+      "states": [
+        "active",
+        "modal"
+      ]
+    },
+    {
+      "bounds": [
+        544,
+        409,
+        48,
+        48
+      ],
+      "name": "Question",
+      "ref": "ea0387163",
+      "role": "icon"
+    },
+    {
+      "bounds": [
+        634,
+        409,
+        115,
+        17
+      ],
+      "name": "Export completed",
+      "ref": "e2a86812d",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        497,
+        482,
+        144,
+        34
+      ],
+      "name": "View Log",
+      "ref": "e752136ef",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        641,
+        482,
+        143,
+        34
+      ],
+      "name": "OK",
+      "ref": "e00704cfa",
+      "role": "push button",
+      "states": [
+        "focused"
+      ]
+    }
+  ],
+  "screen": [
+    1280,
+    900
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": false,
+      "bounds": [
+        0,
+        0,
+        1280,
+        900
+      ],
+      "ref": "wd6834f44",
+      "title": "Work:Plan - Core"
+    },
+    {
+      "active": false,
+      "bounds": [
+        440,
+        315,
+        435,
+        369
+      ],
+      "ref": "w086efcde",
+      "title": "Export"
+    },
+    {
+      "active": true,
+      "bounds": [
+        498,
+        424,
+        287,
+        112
+      ],
+      "ref": "wb38c6706",
+      "title": ""
+    }
+  ]
+}

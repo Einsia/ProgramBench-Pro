@@ -1,0 +1,30 @@
+MuseScore Studio 4.7.6
+
+The official x86_64 AppImage is obtained from:
+https://github.com/musescore/MuseScore/releases/tag/v4.7.6
+SOURCE.json identifies the release asset and its SHA-256. The executable,
+AppRun launcher and bundled libraries are unmodified. solve.sh unpacks the
+AppImage and replaces its example plugins, extensions and automation scripts
+with empty directories. The separate musescore_start.py launcher initializes
+the profile and retries one early desktop startup crash; it is not upstream
+MuseScore code.
+
+LICENSE contains the upstream GPL-3.0-only text and its font exception.
+LICENSES contains the unmodified component notices extracted from the AppImage,
+including MS Basic and the updater's libraries. The installed runtime also
+retains these notices in its original share/doc and updater directories.
+Bundled components retain their own licenses, including Qt and the soundfont.
+
+Corresponding MuseScore source is tag v4.7.6, commit
+96480d58445e3b24b230a3fe7d4725d639aa2eb3, of:
+https://github.com/musescore/MuseScore
+https://github.com/musescore/MuseScore/archive/refs/tags/v4.7.6.tar.gz
+The source tag includes the build configuration for this release. Component
+notices identify their respective upstream sources; Qt 6.10.2 source is
+available from https://download.qt.io/archive/qt/6.10/6.10.2/single/ .
+
+This distribution is not affiliated with or endorsed by MuseScore Limited.
+
+process_guard.c is a separate runtime boundary, compiled at installation. It
+uses Linux Landlock to confine writes and child-process execution. It does not
+modify upstream application files.

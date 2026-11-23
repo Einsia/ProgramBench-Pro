@@ -1,0 +1,962 @@
+{
+  "focused": "e4cd4afab",
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        0,
+        1280,
+        900
+      ],
+      "name": "Home - Core",
+      "ref": "ebe0632ac",
+      "role": "frame"
+    },
+    {
+      "bounds": [
+        1154,
+        -1,
+        1,
+        46
+      ],
+      "name": "",
+      "ref": "e592c745a",
+      "role": "separator"
+    },
+    {
+      "bounds": [
+        1161,
+        7,
+        34,
+        30
+      ],
+      "name": "Minimize",
+      "ref": "e4029fb5d",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1201,
+        7,
+        34,
+        30
+      ],
+      "name": "Restore",
+      "ref": "e73c6be38",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1241,
+        7,
+        34,
+        30
+      ],
+      "name": "Close",
+      "ref": "e46a9f3a7",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1070,
+        -1,
+        36,
+        46
+      ],
+      "description": "Toggle editable",
+      "name": "",
+      "ref": "e28a9e4a9",
+      "role": "toggle button",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        1112,
+        -1,
+        36,
+        46
+      ],
+      "description": "Search...",
+      "name": "Find",
+      "ref": "ea58bea2f",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        581,
+        13,
+        118,
+        17
+      ],
+      "name": "Home - Core",
+      "ref": "e32fd27fd",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        5,
+        -1,
+        35,
+        46
+      ],
+      "description": "Go back",
+      "name": "Back",
+      "ref": "e96979b32",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        40,
+        -1,
+        35,
+        46
+      ],
+      "description": "Go to home page",
+      "name": "Home",
+      "ref": "e142836b8",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        75,
+        -1,
+        36,
+        46
+      ],
+      "description": "Go forward",
+      "name": "Forward",
+      "ref": "ed1509db3",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        0,
+        46,
+        1280,
+        25
+      ],
+      "name": "",
+      "ref": "e5de91ee9",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        0,
+        46,
+        39,
+        25
+      ],
+      "name": "File",
+      "ref": "ed4b20189",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        39,
+        46,
+        41,
+        25
+      ],
+      "name": "Edit",
+      "ref": "e79d0ca26",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        80,
+        46,
+        48,
+        25
+      ],
+      "name": "View",
+      "ref": "eaacaa1f3",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        128,
+        46,
+        53,
+        25
+      ],
+      "name": "Insert",
+      "ref": "eeb806522",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        181,
+        46,
+        62,
+        25
+      ],
+      "name": "Format",
+      "ref": "ef6a271d3",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        243,
+        46,
+        60,
+        25
+      ],
+      "name": "Search",
+      "ref": "ed508a908",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        303,
+        46,
+        49,
+        25
+      ],
+      "name": "Tools",
+      "ref": "e77ddb564",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        352,
+        46,
+        34,
+        25
+      ],
+      "name": "Go",
+      "ref": "e0d3d5208",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        386,
+        46,
+        46,
+        25
+      ],
+      "name": "Help",
+      "ref": "ea3355b98",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        0,
+        71,
+        1280,
+        42
+      ],
+      "name": "",
+      "ref": "e75666fe6",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        4,
+        75,
+        37,
+        35
+      ],
+      "name": "Strong",
+      "ref": "ebfeb852a",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        41,
+        75,
+        37,
+        35
+      ],
+      "name": "Emphasis",
+      "ref": "ee8d87711",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        78,
+        75,
+        37,
+        35
+      ],
+      "name": "Mark",
+      "ref": "e9192236a",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        115,
+        75,
+        37,
+        35
+      ],
+      "name": "Strike",
+      "ref": "e93ca3ebb",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        152,
+        75,
+        37,
+        35
+      ],
+      "name": "Verbatim",
+      "ref": "e559494f3",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        189,
+        75,
+        37,
+        35
+      ],
+      "name": "Subscript",
+      "ref": "e18ee591c",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        226,
+        75,
+        37,
+        35
+      ],
+      "name": "Superscript",
+      "ref": "e9354245e",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        263,
+        75,
+        37,
+        35
+      ],
+      "name": "List...",
+      "ref": "e4e41f587",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        300,
+        75,
+        37,
+        35
+      ],
+      "name": "Heading...",
+      "ref": "e89e97ca7",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        337,
+        75,
+        37,
+        35
+      ],
+      "name": "Insert...",
+      "ref": "e6109c59a",
+      "role": "toggle button"
+    },
+    {
+      "bounds": [
+        388,
+        75,
+        37,
+        35
+      ],
+      "name": "Open Attachments Folder",
+      "ref": "e215c89ee",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        113,
+        1276,
+        787
+      ],
+      "name": "",
+      "ref": "e1f1b58ea",
+      "role": "split pane",
+      "value": 200.0
+    },
+    {
+      "bounds": [
+        0,
+        113,
+        164,
+        34
+      ],
+      "name": "Index",
+      "ref": "e2e7b7d1c",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        164,
+        113,
+        36,
+        34
+      ],
+      "name": "",
+      "ref": "ee22e9c08",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        147,
+        200,
+        753
+      ],
+      "name": "",
+      "ref": "e5598c1e0",
+      "role": "page tab list"
+    },
+    {
+      "bounds": [
+        1,
+        148,
+        198,
+        751
+      ],
+      "name": "",
+      "ref": "e3d90cfc5",
+      "role": "tree table"
+    },
+    {
+      "bounds": [
+        41,
+        149,
+        140,
+        21
+      ],
+      "name": "Café",
+      "ref": "e0f2d4ad8",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        185,
+        149,
+        12,
+        21
+      ],
+      "name": "1",
+      "ref": "e61a50e3c",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        41,
+        172,
+        140,
+        21
+      ],
+      "name": "Home",
+      "ref": "e2f1c5e25",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        185,
+        172,
+        12,
+        21
+      ],
+      "name": "",
+      "ref": "e90453d97",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        41,
+        195,
+        140,
+        21
+      ],
+      "name": "Journal",
+      "ref": "ecbf72b99",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        185,
+        195,
+        12,
+        21
+      ],
+      "name": "1",
+      "ref": "ea8232795",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        41,
+        218,
+        140,
+        21
+      ],
+      "name": "Notes",
+      "ref": "e0b88f930",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        185,
+        218,
+        12,
+        21
+      ],
+      "name": "",
+      "ref": "e06daca2f",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        41,
+        241,
+        140,
+        21
+      ],
+      "name": "Projects",
+      "ref": "e4be9aa51",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        185,
+        241,
+        12,
+        21
+      ],
+      "name": "2",
+      "ref": "e15c7331a",
+      "role": "table cell"
+    },
+    {
+      "bounds": [
+        201,
+        113,
+        1075,
+        787
+      ],
+      "name": "",
+      "ref": "eee0457ad",
+      "role": "split pane",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        203,
+        115,
+        57,
+        34
+      ],
+      "name": "Home",
+      "ref": "ef8e4805c",
+      "role": "toggle button",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        201,
+        151,
+        1075,
+        749
+      ],
+      "name": "",
+      "ref": "ed9a2b803",
+      "role": "split pane",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        201,
+        151,
+        1075,
+        749
+      ],
+      "name": "",
+      "ref": "e740d363f",
+      "role": "split pane",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        202,
+        152,
+        1071,
+        747
+      ],
+      "name": "",
+      "ref": "e3e519df7",
+      "role": "text",
+      "states": [
+        "editable"
+      ],
+      "text": "Home\nWelcome page with alpha and a link to Projects:Alpha and Notes.\nExternal https://example.org/x and tag @start.\n"
+    },
+    {
+      "bounds": [
+        1275,
+        151,
+        1,
+        749
+      ],
+      "name": "",
+      "ref": "e5a817d9e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1276,
+        113,
+        4,
+        17
+      ],
+      "name": "",
+      "ref": "e318e4941",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        387,
+        243,
+        507,
+        414
+      ],
+      "name": "Versions",
+      "ref": "eccee925f",
+      "role": "dialog",
+      "states": [
+        "active"
+      ]
+    },
+    {
+      "bounds": [
+        400,
+        275,
+        481,
+        326
+      ],
+      "name": "",
+      "ref": "e8ceefdb0",
+      "role": "split pane",
+      "value": 216.0
+    },
+    {
+      "bounds": [
+        400,
+        275,
+        481,
+        17
+      ],
+      "name": "Versions:",
+      "ref": "ec8607552",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        400,
+        297,
+        481,
+        21
+      ],
+      "name": "Complete notebook",
+      "ref": "ec3540437",
+      "role": "radio button",
+      "states": [
+        "checked"
+      ]
+    },
+    {
+      "bounds": [
+        400,
+        323,
+        63,
+        34
+      ],
+      "name": "Page:",
+      "ref": "efa06d850",
+      "role": "radio button"
+    },
+    {
+      "bounds": [
+        468,
+        323,
+        168,
+        34
+      ],
+      "name": "",
+      "ref": "e97ba6e24",
+      "role": "text",
+      "states": [
+        "editable",
+        "disabled"
+      ],
+      "text": ":Home"
+    },
+    {
+      "bounds": [
+        641,
+        323,
+        137,
+        34
+      ],
+      "name": "View Annotated",
+      "ref": "e1b576bec",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        400,
+        362,
+        481,
+        51
+      ],
+      "name": "Select a version to see changes between that version and the current\nstate. Or select multiple versions to see changes between those versions.",
+      "ref": "e694aaf64",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        401,
+        419,
+        479,
+        71
+      ],
+      "name": "",
+      "ref": "ee345ce31",
+      "role": "table"
+    },
+    {
+      "bounds": [
+        401,
+        419,
+        318,
+        25
+      ],
+      "name": "Rev",
+      "ref": "ecf8a50aa",
+      "role": "table column header"
+    },
+    {
+      "bounds": [
+        719,
+        419,
+        189,
+        25
+      ],
+      "name": "Date",
+      "ref": "e1a760557",
+      "role": "table column header",
+      "visible": [
+        719,
+        419,
+        162,
+        25
+      ]
+    },
+    {
+      "bounds": [
+        908,
+        419,
+        236,
+        25
+      ],
+      "name": "Author",
+      "ref": "e1575d50e",
+      "role": "table column header",
+      "visible": [
+        908,
+        419,
+        0,
+        25
+      ]
+    },
+    {
+      "bounds": [
+        403,
+        445,
+        314,
+        21
+      ],
+      "name": "47dd73b073390b02904213b95e1bff65a4d3fe77",
+      "ref": "eeabdb50e",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        721,
+        445,
+        185,
+        21
+      ],
+      "name": "2026-01-15 12:00:00 +0000",
+      "ref": "ef328e2e3",
+      "role": "table cell",
+      "states": [
+        "selected"
+      ],
+      "visible": [
+        721,
+        445,
+        160,
+        21
+      ]
+    },
+    {
+      "bounds": [
+        401,
+        484,
+        479,
+        6
+      ],
+      "name": "",
+      "ref": "ebc02da48",
+      "role": "scroll bar",
+      "value": 0.0
+    },
+    {
+      "bounds": [
+        400,
+        492,
+        481,
+        17
+      ],
+      "name": "Comment",
+      "ref": "e4513d3bd",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        401,
+        515,
+        479,
+        46
+      ],
+      "name": "",
+      "ref": "e4cd4afab",
+      "role": "text",
+      "states": [
+        "focused"
+      ],
+      "text": "Saved version from zim\n"
+    },
+    {
+      "bounds": [
+        449,
+        567,
+        144,
+        34
+      ],
+      "name": "Restore Version",
+      "ref": "eaa5c2a01",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        593,
+        567,
+        144,
+        34
+      ],
+      "name": "Show Changes",
+      "ref": "e21d168f7",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        737,
+        567,
+        144,
+        34
+      ],
+      "name": "Side by Side",
+      "ref": "efd9c4b70",
+      "role": "push button",
+      "states": [
+        "disabled"
+      ]
+    },
+    {
+      "bounds": [
+        796,
+        606,
+        85,
+        34
+      ],
+      "name": "Close",
+      "ref": "e17e7144f",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        400,
+        606,
+        85,
+        34
+      ],
+      "name": "Help",
+      "ref": "edf86b1bf",
+      "role": "push button"
+    }
+  ],
+  "screen": [
+    1280,
+    900
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": false,
+      "bounds": [
+        0,
+        0,
+        1280,
+        900
+      ],
+      "ref": "w9c3124c1",
+      "title": "Home - Core"
+    },
+    {
+      "active": true,
+      "bounds": [
+        389,
+        283,
+        505,
+        389
+      ],
+      "ref": "w2de501e8",
+      "title": "Versions"
+    }
+  ]
+}

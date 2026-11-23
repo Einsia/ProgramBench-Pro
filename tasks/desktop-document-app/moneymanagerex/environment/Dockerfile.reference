@@ -1,0 +1,18 @@
+FROM program-bench-moneymanagerex-base:1.0.0
+# The pinned reference package, installed by its own installer, and the black-box runtime: the same files the verifier
+# image installs to drive applications.
+COPY solution /solution
+COPY environment/runtime/ /opt/blackbox/runtime/
+RUN bash /solution/solve.sh && rm -rf /solution && \
+    chown -R root:root /app/solution && \
+    find /app/solution -type d -exec chmod 0711 {} + && \
+    find /app/solution -type f -perm /111 -exec chmod 0555 {} + && \
+    find /app/solution -type f ! -perm /111 -exec chmod 0444 {} + && \
+    chmod -R u=rwX,go=rX /opt/blackbox/runtime && \
+    mkdir -p /reference /blackbox && chown -R root:root /reference /blackbox
+# Money Manager Ex enumerates installed translations and built-in report/theme resources.
+RUN chmod 0755 /app/solution/mmex/usr/share/mmex /app/solution/mmex/usr/share/mmex/res/reports \
+    /app/solution/mmex/usr/share/mmex/res/themes
+USER root
+ENTRYPOINT ["/usr/bin/tini", "--", "python3", "-I", "-B", "/opt/blackbox/runtime/reference_entrypoint.py"]
+CMD ["python3", "-I", "-B", "/opt/blackbox/runtime/broker.py", "--user", "agent", "--socket-mode", "0600", "--log-dir", "/reference/logs"]

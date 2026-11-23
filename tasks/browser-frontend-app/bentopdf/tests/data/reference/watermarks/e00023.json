@@ -1,0 +1,207 @@
+{
+  "canvases": [
+    {
+      "bounds": [
+        139,
+        0,
+        658,
+        637
+      ],
+      "ref": "canvas0",
+      "tag": "canvas"
+    },
+    {
+      "bounds": [
+        139,
+        0,
+        658,
+        637
+      ],
+      "ref": "canvas1",
+      "tag": "canvas"
+    }
+  ],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        965,
+        42,
+        278,
+        42
+      ],
+      "label": "Text",
+      "placeholder": "CONFIDENTIAL",
+      "ref": "eba4ae689",
+      "tag": "input",
+      "type": "text",
+      "value": "DRAFT"
+    },
+    {
+      "bounds": [
+        965,
+        126,
+        133,
+        42
+      ],
+      "label": "Font Size",
+      "ref": "e5ab7ff58",
+      "tag": "input",
+      "type": "number",
+      "value": "32"
+    },
+    {
+      "bounds": [
+        1110,
+        126,
+        40,
+        40
+      ],
+      "label": "Color",
+      "ref": "ef1e16f2d",
+      "tag": "input",
+      "type": "color",
+      "value": "#888888"
+    },
+    {
+      "bounds": [
+        965,
+        222,
+        278,
+        8
+      ],
+      "label": "Opacity: 0.4",
+      "ref": "e3e69ad63",
+      "tag": "input",
+      "type": "range",
+      "value": "0.4"
+    },
+    {
+      "bounds": [
+        965,
+        288,
+        278,
+        8
+      ],
+      "label": "Angle: -45 °",
+      "ref": "e49d57013",
+      "tag": "input",
+      "type": "range",
+      "value": "-45"
+    },
+    {
+      "bounds": [
+        965,
+        358,
+        278,
+        8
+      ],
+      "label": "Horizontal gap: 25 %",
+      "ref": "e9ee35ea0",
+      "tag": "input",
+      "type": "range",
+      "value": "25"
+    },
+    {
+      "bounds": [
+        965,
+        424,
+        278,
+        8
+      ],
+      "label": "Vertical gap: 75 %",
+      "ref": "e0edb2bb3",
+      "tag": "input",
+      "type": "range",
+      "value": "75"
+    },
+    {
+      "bounds": [
+        977,
+        473,
+        13,
+        16
+      ],
+      "checked": false,
+      "label": "Flatten watermark",
+      "ref": "e6dbee56e",
+      "tag": "input",
+      "type": "checkbox",
+      "value": "on"
+    },
+    {
+      "bounds": [
+        1002,
+        474,
+        122,
+        18
+      ],
+      "ref": "efad32332",
+      "tag": "label",
+      "text": "Flatten watermark"
+    },
+    {
+      "bounds": [
+        965,
+        577,
+        278,
+        48
+      ],
+      "ref": "e6ed7965d",
+      "tag": "button",
+      "text": "Add Watermark"
+    },
+    {
+      "bounds": [
+        473,
+        472,
+        334,
+        40
+      ],
+      "ref": "e2a50e308",
+      "tag": "button",
+      "text": "OK"
+    },
+    {
+      "bounds": [
+        1170,
+        809,
+        94,
+        34
+      ],
+      "expanded": false,
+      "ref": "ebda396fc",
+      "tag": "button",
+      "text": "English"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "report.pdf",
+      "ref": "d6466e450a16b",
+      "size": 13331
+    }
+  ],
+  "inputs": [
+    "report.pdf"
+  ],
+  "text": "BentoPDF\nChange File\nreport.pdf (3.7 KB, 4 pages)\nPreview\n/ 4\nText\nImage\nLayout\nSingle\nTiled\n\nTiled repeats the watermark across the whole page.\n\nApply to all pages\nPage Range\n\nUse \"all\" or specify pages, e.g. 1-3, 5, 7-9\n\nText\nFont Size\nColor\nOpacity: 0.4\nAngle: -45°\nHorizontal gap: 25%\nVertical gap: 75%\nFlatten watermark\n\nBakes the watermark into page pixels, making it tamper-resistant. Text will no longer be selectable.\n\nAdd Watermark\nSuccess\n\nWatermark added successfully!\n\nOK\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/add-watermark.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

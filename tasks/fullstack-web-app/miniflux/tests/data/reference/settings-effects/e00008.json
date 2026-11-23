@@ -1,0 +1,311 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        559,
+        -44,
+        162,
+        36
+      ],
+      "href": "/unread/feed/2/entry/4#main",
+      "offscreen": true,
+      "ref": "e1476",
+      "role": null,
+      "tag": "a",
+      "text": "Skip to content"
+    },
+    {
+      "aria": "Home page",
+      "bounds": [
+        193,
+        10,
+        77,
+        19
+      ],
+      "href": "/unread",
+      "ref": "e1477",
+      "role": null,
+      "tag": "a",
+      "text": "Mini\nflux"
+    },
+    {
+      "aria": "Unread, 3 unread entries",
+      "bounds": [
+        278,
+        12,
+        102,
+        16
+      ],
+      "href": "/unread",
+      "ref": "e1478",
+      "role": null,
+      "tag": "a",
+      "text": "Unread (3)"
+    },
+    {
+      "bounds": [
+        395,
+        12,
+        78,
+        16
+      ],
+      "href": "/starred",
+      "ref": "e1479",
+      "role": null,
+      "tag": "a",
+      "text": "Starred"
+    },
+    {
+      "bounds": [
+        488,
+        12,
+        78,
+        16
+      ],
+      "href": "/history",
+      "ref": "e1480",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        581,
+        12,
+        70,
+        16
+      ],
+      "href": "/feeds",
+      "ref": "e1481",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "aria": "Add feed",
+      "bounds": [
+        650,
+        12,
+        26,
+        16
+      ],
+      "href": "/subscribe",
+      "ref": "e1482",
+      "role": null,
+      "tag": "a",
+      "text": "(+)",
+      "title": "Keyboard Shortcut: +"
+    },
+    {
+      "bounds": [
+        691,
+        12,
+        104,
+        16
+      ],
+      "href": "/categories",
+      "ref": "e1483",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        810,
+        12,
+        70,
+        16
+      ],
+      "href": "/search",
+      "ref": "e1484",
+      "role": null,
+      "tag": "a",
+      "text": "Search"
+    },
+    {
+      "bounds": [
+        894,
+        12,
+        87,
+        16
+      ],
+      "href": "/settings",
+      "ref": "e1485",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        996,
+        10,
+        70,
+        18
+      ],
+      "ref": "e1486",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "title": "Logged in as alice"
+    },
+    {
+      "bounds": [
+        195,
+        50,
+        211,
+        37
+      ],
+      "href": "[external]",
+      "ref": "e1487",
+      "role": null,
+      "tag": "a",
+      "text": "Episode one"
+    },
+    {
+      "bounds": [
+        195,
+        122,
+        131,
+        19
+      ],
+      "ref": "e1488",
+      "role": null,
+      "tag": "button",
+      "text": "Mark as unread",
+      "title": "Change entry status"
+    },
+    {
+      "bounds": [
+        351,
+        122,
+        49,
+        19
+      ],
+      "ref": "e1489",
+      "role": null,
+      "tag": "button",
+      "text": "Star"
+    },
+    {
+      "bounds": [
+        425,
+        122,
+        63,
+        19
+      ],
+      "ref": "e1490",
+      "role": null,
+      "tag": "button",
+      "text": "Share"
+    },
+    {
+      "bounds": [
+        512,
+        122,
+        91,
+        19
+      ],
+      "ref": "e1491",
+      "role": null,
+      "tag": "button",
+      "text": "Download",
+      "title": "Fetch original content"
+    },
+    {
+      "bounds": [
+        195,
+        166,
+        73,
+        18
+      ],
+      "href": "/feed/2/entries",
+      "ref": "e1492",
+      "role": null,
+      "tag": "a",
+      "text": "Pod Feed"
+    },
+    {
+      "bounds": [
+        285,
+        170,
+        21,
+        12
+      ],
+      "href": "/category/1/entries",
+      "ref": "e1493",
+      "role": null,
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        195,
+        204,
+        131,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e1494",
+      "role": null,
+      "tag": "a",
+      "text": "http://pod.test/1"
+    },
+    {
+      "bounds": [
+        193,
+        314,
+        894,
+        22
+      ],
+      "ref": "e1495",
+      "role": null,
+      "tag": "summary",
+      "text": "Attachments (1)"
+    },
+    {
+      "bounds": [
+        199,
+        352,
+        237,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e1496",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Download - 2.0 KiB"
+    },
+    {
+      "bounds": [
+        594,
+        395,
+        134,
+        20
+      ],
+      "href": "/unread/feed/2/entry/4",
+      "ref": "e1497",
+      "role": null,
+      "tag": "a",
+      "text": "Back to top"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Skip to content\nMini\nflux\nUnread (3) Starred History Feeds (+) Categories Search Settings Logout\nEpisode one\nMark as unread Star \nShare\n Download\nPod Feed All\nhttp://pod.test/1\n1 year ago · 1 minute read\nShow notes.\nAttachments (1)\nPrevious\nBack to top\nNext ",
+  "text_truncated": false,
+  "title": "Episode one - Miniflux",
+  "url": "/unread/feed/2/entry/4",
+  "viewport": [
+    1280,
+    900
+  ]
+}

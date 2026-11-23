@@ -1,0 +1,284 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e133",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e134",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/analytics/tasks/1",
+      "ref": "e135",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/analytics/tasks/1",
+      "ref": "e136",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "aria": "Configure this project",
+      "bounds": [
+        10,
+        48,
+        29,
+        17
+      ],
+      "href": "/analytics/tasks/1",
+      "ref": "e137",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Configure this project"
+    },
+    {
+      "bounds": [
+        53,
+        49,
+        81,
+        16
+      ],
+      "href": "/project/1/overview/status%3Aopen",
+      "ref": "e138",
+      "role": null,
+      "tag": "a",
+      "text": "Overview",
+      "title": "Keyboard shortcut: \"v o\""
+    },
+    {
+      "bounds": [
+        155,
+        49,
+        60,
+        16
+      ],
+      "href": "/board/1/search/status%3Aopen",
+      "ref": "e139",
+      "role": null,
+      "tag": "a",
+      "text": "Board",
+      "title": "Keyboard shortcut: \"v b\""
+    },
+    {
+      "bounds": [
+        236,
+        49,
+        44,
+        16
+      ],
+      "href": "/list/1/search/status%3Aopen",
+      "ref": "e140",
+      "role": null,
+      "tag": "a",
+      "text": "List",
+      "title": "Keyboard shortcut: \"v l\""
+    },
+    {
+      "aria": "Filter",
+      "bounds": [
+        299,
+        44,
+        850,
+        28
+      ],
+      "name": "search",
+      "placeholder": "Filter",
+      "ref": "e141",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "status:open"
+    },
+    {
+      "aria": "Default filters",
+      "bounds": [
+        1161,
+        49,
+        36,
+        16
+      ],
+      "href": "/analytics/tasks/1",
+      "ref": "e142",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Default filters"
+    },
+    {
+      "aria": "Custom filters",
+      "bounds": [
+        1221,
+        49,
+        36,
+        16
+      ],
+      "href": "/analytics/tasks/1",
+      "ref": "e143",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "User filters"
+    },
+    {
+      "bounds": [
+        23,
+        89,
+        115,
+        17
+      ],
+      "href": "/analytics/tasks/1",
+      "ref": "e144",
+      "role": null,
+      "tag": "a",
+      "text": "Task distribution"
+    },
+    {
+      "bounds": [
+        23,
+        125,
+        109,
+        17
+      ],
+      "href": "/analytics/users/1",
+      "ref": "e145",
+      "role": null,
+      "tag": "a",
+      "text": "User repartition"
+    },
+    {
+      "bounds": [
+        23,
+        161,
+        175,
+        17
+      ],
+      "href": "/analytics/cfd/1",
+      "ref": "e146",
+      "role": null,
+      "tag": "a",
+      "text": "Cumulative flow diagram"
+    },
+    {
+      "bounds": [
+        23,
+        197,
+        112,
+        17
+      ],
+      "href": "/analytics/burndown/1",
+      "ref": "e147",
+      "role": null,
+      "tag": "a",
+      "text": "Burndown chart"
+    },
+    {
+      "bounds": [
+        23,
+        233,
+        163,
+        52
+      ],
+      "href": "/analytics/average-time-column/1",
+      "ref": "e148",
+      "role": null,
+      "tag": "a",
+      "text": "Average time into each column"
+    },
+    {
+      "bounds": [
+        23,
+        304,
+        142,
+        17
+      ],
+      "href": "/analytics/lead-cycle-time/1",
+      "ref": "e149",
+      "role": null,
+      "tag": "a",
+      "text": "Lead and cycle time"
+    },
+    {
+      "bounds": [
+        23,
+        340,
+        173,
+        17
+      ],
+      "href": "/?controller=AnalyticController&action=timeComparison&project_id=1",
+      "ref": "e150",
+      "role": null,
+      "tag": "a",
+      "text": "Estimated vs actual time"
+    },
+    {
+      "bounds": [
+        23,
+        376,
+        201,
+        52
+      ],
+      "href": "/?controller=AnalyticController&action=estimatedVsActualByColumn&project_id=1",
+      "ref": "e151",
+      "role": null,
+      "tag": "a",
+      "text": "Estimated vs actual time per column"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Website > Task distribution\n \n \nA\nOverview Board List\nTask distribution\nUser repartition\nCumulative flow diagram\nBurndown chart\nAverage time into each column\nLead and cycle time\nEstimated vs actual time\nEstimated vs actual time per column\nTask distribution\n66.7%\n33.3%\n0\n-0.2\n0\n0.2\n0.4\n0.6\n0.8\n1\n1.2\n1.4\n1.6\n1.8\n2\n2.2\nBacklog\nReady\nWork in progress\nDone\nColumn\tNumber of tasks\tPercentage\nBacklog\t2\t66.67%\nReady\t0\t0.00%\nWork in progress\t1\t33.33%\nDone\t0\t0.00%",
+  "text_truncated": false,
+  "title": "Website > Task distribution",
+  "url": "/analytics/tasks/1",
+  "viewport": [
+    1280,
+    900
+  ]
+}

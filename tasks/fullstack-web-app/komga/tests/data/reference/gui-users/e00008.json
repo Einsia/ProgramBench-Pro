@@ -1,0 +1,276 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        260,
+        8,
+        48,
+        48
+      ],
+      "ref": "e3565697427",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        308,
+        8,
+        956,
+        48
+      ],
+      "expanded": false,
+      "ref": "e3932625320",
+      "role": "combobox",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "bounds": [
+        348,
+        16,
+        900,
+        32
+      ],
+      "placeholder": "Search",
+      "ref": "e3492990951",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        8,
+        73,
+        240,
+        40
+      ],
+      "href": "/dashboard",
+      "ref": "e4053023811",
+      "role": null,
+      "tag": "a",
+      "text": "Home"
+    },
+    {
+      "bounds": [
+        8,
+        117,
+        240,
+        40
+      ],
+      "href": "/libraries/all",
+      "ref": "e2922887771",
+      "role": null,
+      "tag": "a",
+      "text": "Libraries"
+    },
+    {
+      "bounds": [
+        204,
+        119,
+        36,
+        36
+      ],
+      "ref": "e3616030284",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        8,
+        161,
+        240,
+        40
+      ],
+      "href": "/libraries/0S3GHV39DCCER",
+      "ref": "e760696055",
+      "role": null,
+      "tag": "a",
+      "text": "Comics"
+    },
+    {
+      "bounds": [
+        8,
+        205,
+        240,
+        40
+      ],
+      "expanded": true,
+      "ref": "e1885865040",
+      "role": "button",
+      "tag": "div",
+      "text": "My Account"
+    },
+    {
+      "bounds": [
+        8,
+        249,
+        240,
+        40
+      ],
+      "href": "/account/me",
+      "ref": "e1815866485",
+      "role": null,
+      "tag": "a",
+      "text": "Details"
+    },
+    {
+      "bounds": [
+        8,
+        293,
+        240,
+        40
+      ],
+      "href": "/account/api-keys",
+      "ref": "e3451395413",
+      "role": null,
+      "tag": "a",
+      "text": "API Keys"
+    },
+    {
+      "bounds": [
+        8,
+        337,
+        240,
+        40
+      ],
+      "href": "/account/settings-ui",
+      "ref": "e300851300",
+      "role": null,
+      "tag": "a",
+      "text": "User Interface"
+    },
+    {
+      "bounds": [
+        8,
+        381,
+        240,
+        40
+      ],
+      "href": "/account/authentication-activity",
+      "ref": "e2364490882",
+      "role": null,
+      "tag": "a",
+      "text": "Authentication Activity"
+    },
+    {
+      "bounds": [
+        8,
+        465,
+        240,
+        40
+      ],
+      "href": "/next",
+      "ref": "e7341195",
+      "role": null,
+      "tag": "a",
+      "text": "Try the new UI"
+    },
+    {
+      "bounds": [
+        72,
+        542,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e3578464648",
+      "role": "button",
+      "tag": "div",
+      "text": "Theme\nSystem"
+    },
+    {
+      "bounds": [
+        129,
+        542,
+        83,
+        26
+      ],
+      "label": "Theme",
+      "ref": "e2327238681",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        72,
+        606,
+        168,
+        26
+      ],
+      "expanded": false,
+      "ref": "e952102733",
+      "role": "button",
+      "tag": "div",
+      "text": "Translation\nEnglish"
+    },
+    {
+      "bounds": [
+        128,
+        606,
+        84,
+        26
+      ],
+      "label": "Translation",
+      "ref": "e932444405",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        280,
+        128,
+        476,
+        32
+      ],
+      "ref": "e3620331723",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "web-reader@example.test"
+    },
+    {
+      "bounds": [
+        280,
+        302,
+        184,
+        36
+      ],
+      "ref": "e3680539465",
+      "role": null,
+      "tag": "button",
+      "text": "CHANGE PASSWORD",
+      "type": "button"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Komga\nHome\nLibraries\nComics\nMy Account\nDetails\nAPI Keys\nUser Interface\nAuthentication Activity\nLog Out\nTry the new UI\nTheme\nSystem\nTranslation\nEnglish\nEmail\nRoles\nFile download\nPage streaming\nUser\nCHANGE PASSWORD",
+  "text_truncated": false,
+  "title": "Komga",
+  "url": "/account/me",
+  "viewport": [
+    1280,
+    900
+  ]
+}

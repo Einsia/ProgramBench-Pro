@@ -1,0 +1,119 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        0,
+        1182,
+        79
+      ],
+      "ref": "e6bfaf2b2",
+      "tag": "div",
+      "text": "Click to select a file or drag and drop Your files never leave your device."
+    },
+    {
+      "bounds": [
+        1203,
+        119,
+        16,
+        16
+      ],
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        49,
+        211,
+        1182,
+        46
+      ],
+      "label": "User Password (Required)",
+      "placeholder": "Enter password to open PDF",
+      "ref": "e9bf5ec9a",
+      "tag": "input",
+      "type": "password"
+    },
+    {
+      "bounds": [
+        49,
+        321,
+        1182,
+        46
+      ],
+      "label": "Owner Password (Optional)",
+      "placeholder": "Enter password for permissions (optional)",
+      "ref": "e2310b383",
+      "tag": "input",
+      "type": "password"
+    },
+    {
+      "bounds": [
+        49,
+        557,
+        1182,
+        48
+      ],
+      "ref": "e7d30a957",
+      "tag": "button",
+      "text": "Encrypt PDF"
+    },
+    {
+      "bounds": [
+        473,
+        496,
+        334,
+        40
+      ],
+      "ref": "e2a50e308",
+      "tag": "button",
+      "text": "OK"
+    },
+    {
+      "bounds": [
+        1170,
+        809,
+        94,
+        34
+      ],
+      "expanded": false,
+      "ref": "ebda396fc",
+      "tag": "button",
+      "text": "English"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "chapter-b.pdf",
+      "ref": "da22b98aee2cf",
+      "size": 3974
+    }
+  ],
+  "inputs": [
+    "chapter-b.pdf",
+    "encrypted.pdf",
+    "report.pdf",
+    "restricted.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›Protect PDF\nProtect PDF\n\nPassword protect a PDF with strong AES encryption.\n\nClick to select a file or drag and drop\n\nYour files never leave your device.\n\nchapter-b.pdf\n2.9 KB\nUser Password (Required)\n\nThis password will be required to open the PDF.\n\nOwner Password (Optional)\n\nIf provided, usage restrictions will be applied. Leave empty for no restrictions.\n\nEncryption Details:\n256-bit AES encryption (highest security)\nUser password required to open PDF\nOwner password enables usage restrictions\nWithout owner password: no restrictions applied\nEncrypt PDF\nSuccess\n\nPDF encrypted successfully with 256-bit AES! Note: Without a separate owner password, the PDF has no usage restrictions.\n\nOK\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/protect-pdf.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

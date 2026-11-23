@@ -1,0 +1,125 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        41,
+        122,
+        135,
+        24
+      ],
+      "ref": "e3005f4e3",
+      "tag": "button",
+      "text": "Back to Tools"
+    },
+    {
+      "bounds": [
+        41,
+        171,
+        62,
+        18
+      ],
+      "ref": "e307a47db",
+      "tag": "a",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        41,
+        294,
+        104,
+        39
+      ],
+      "ref": "ef6742527",
+      "tag": "button",
+      "text": "Upload"
+    },
+    {
+      "bounds": [
+        190,
+        304,
+        40,
+        20
+      ],
+      "ref": "ee28b3622",
+      "tag": "div"
+    },
+    {
+      "bounds": [
+        275,
+        294,
+        129,
+        39
+      ],
+      "ref": "e6c36cd05",
+      "tag": "button",
+      "text": "Sync Scroll",
+      "title": "Toggle sync scroll"
+    },
+    {
+      "bounds": [
+        412,
+        294,
+        113,
+        39
+      ],
+      "ref": "e5ec257eb",
+      "tag": "button",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        533,
+        295,
+        129,
+        37
+      ],
+      "ref": "e0f01bf86",
+      "tag": "button",
+      "text": "Export PDF"
+    },
+    {
+      "bounds": [
+        42,
+        396,
+        588,
+        504
+      ],
+      "label": "Markdown",
+      "ref": "ec66ef621",
+      "tag": "textarea",
+      "value": "# Harbor field notes\n\nA **bold** survey and an *italic* note.\n\n- Cedar: 42 boats\n- Maple: 17 boats\n\n| Station | Boats |\n|---|---:|\n| Elm | 9 |\n\n> Safety first.\n"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "document.pdf",
+      "ref": "d5cf35f3f6ff8",
+      "size": 11281,
+      "type": "application/pdf"
+    }
+  ],
+  "inputs": [
+    "notes.md"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›Markdown to PDF\nMarkdown to PDF\n\nWrite or paste Markdown and export it as a beautifully formatted PDF.\n\nUpload\nSync Scroll\nSettings\nExport PDF\nMarkdown\nPreview\nHarbor field notes\n\nA bold survey and an italic note.\n\nCedar: 42 boats\nMaple: 17 boats\nStation\tBoats\nElm\t9\n\nSafety first.\n\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/markdown-to-pdf.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

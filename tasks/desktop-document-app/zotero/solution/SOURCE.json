@@ -1,0 +1,31 @@
+{
+  "task": "zotero",
+  "task_version": "1.0.0",
+  "software": {
+    "name": "Zotero",
+    "version": "10.0.6",
+    "homepage": "https://www.zotero.org/",
+    "repository": "https://github.com/zotero/zotero",
+    "license": "AGPL-3.0-or-later"
+  },
+  "downloads": [
+    {
+      "file": "Zotero-10.0.6_linux-x86_64.tar.xz",
+      "url": "https://download.zotero.org/client/release/10.0.6/Zotero-10.0.6_linux-x86_64.tar.xz",
+      "sha256": "246c2574a9ac526abeaf3027ffd22fc45536a5ab25f227bb1df932fca9cedd63"
+    }
+  ],
+  "bundled": [],
+  "modifications": "Pinned upstream release, unpacked unchanged; the launcher only writes the profile configuration and the granted local API key Local Gecko autoconfiguration locks developer/add-on preferences and internal attachment handlers; upstream program files are unchanged.",
+  "configuration": "launch.py keeps the profile in DATA_DIR/profile and the data directory in DATA_DIR/zotero; before every start it writes user.js (dataDir, httpServer.port=PORT, localAPI enabled; automatic translator and style updates, sync and its reminders, streaming, retraction checks, automatic metadata retrieval, app updates, the upgrade banner and first-run guidance off; en-US; reduced motion; devtools disabled, xpinstall off, no fallback launcher), adds PBP_API_KEY as a remembered key to localAPIKeys.json, changes to the outbox (PBP_OUTBOX) and runs zotero/zotero -profile DATA_DIR/profile -no-remote",
+  "notes": {
+    "corresponding_source": {
+      "repository": "https://github.com/zotero/zotero",
+      "tag": "10.0.6",
+      "commit": "536244c2771f590abab9c09a3c27e615e0b318ff",
+      "archive": "https://codeload.github.com/zotero/zotero/tar.gz/refs/tags/10.0.6",
+      "platform": "https://hg.mozilla.org/releases/mozilla-esr140 changeset bd396a1cf6b78bbba84520688be5dc9118e6bf4f",
+      "note": "Submodule commits and bundled third-party licences are listed in NOTICE"
+    }
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        16,
+        16,
+        135,
+        32
+      ],
+      "ref": "e49068c03",
+      "tag": "div",
+      "text": "BentoPDF"
+    },
+    {
+      "bounds": [
+        49,
+        0,
+        1182,
+        37
+      ],
+      "ref": "edc784a70",
+      "tag": "div",
+      "text": "Click to select a file or drag and drop PDF file Your files never leave your device."
+    },
+    {
+      "bounds": [
+        1203,
+        77,
+        16,
+        16
+      ],
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        66,
+        222,
+        372,
+        46
+      ],
+      "label": "Page Range (optional)",
+      "placeholder": "e.g., 1-3, 5",
+      "ref": "ea708db3f",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        454,
+        222,
+        372,
+        46
+      ],
+      "label": "Font Size",
+      "ref": "e5ab7ff58",
+      "tag": "input",
+      "type": "number",
+      "value": "10"
+    },
+    {
+      "bounds": [
+        842,
+        222,
+        40,
+        40
+      ],
+      "label": "Font Color",
+      "ref": "ea2444ba8",
+      "tag": "input",
+      "type": "color",
+      "value": "#000000"
+    },
+    {
+      "bounds": [
+        49,
+        373,
+        383,
+        46
+      ],
+      "label": "Header Left",
+      "ref": "e5bb239e6",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        448,
+        373,
+        383,
+        46
+      ],
+      "label": "Header Center",
+      "ref": "e796d53e2",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        848,
+        373,
+        383,
+        46
+      ],
+      "label": "Header Right",
+      "ref": "e79868fcd",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        49,
+        471,
+        383,
+        46
+      ],
+      "label": "Footer Left",
+      "ref": "e92cfc03c",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        448,
+        471,
+        383,
+        46
+      ],
+      "label": "Footer Center",
+      "ref": "e36984ff0",
+      "tag": "input",
+      "type": "text",
+      "value": "Internal Review"
+    },
+    {
+      "bounds": [
+        848,
+        471,
+        383,
+        46
+      ],
+      "label": "Footer Right",
+      "ref": "e2b4a2723",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        49,
+        557,
+        1182,
+        48
+      ],
+      "ref": "eebb90489",
+      "tag": "button",
+      "text": "Add Header & Footer"
+    },
+    {
+      "bounds": [
+        473,
+        472,
+        334,
+        40
+      ],
+      "ref": "e2a50e308",
+      "tag": "button",
+      "text": "OK"
+    },
+    {
+      "bounds": [
+        1170,
+        809,
+        94,
+        34
+      ],
+      "expanded": false,
+      "ref": "ebda396fc",
+      "tag": "button",
+      "text": "English"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "report.pdf",
+      "ref": "d6466e450a16b",
+      "size": 3197
+    }
+  ],
+  "inputs": [
+    "report.pdf"
+  ],
+  "text": "BentoPDF\nBack to Tools\nBentoPDF›Header & Footer\nHeader & Footer\n\nAdd text to the top and bottom of pages.\n\nClick to select a file or drag and drop\n\nPDF file\n\nYour files never leave your device.\n\nreport.pdf\n3.7 KB • 4 pages\nFormatting Options\nPage Range (optional)\n\nTotal pages: 4\n\nFont Size\nFont Color\nHeader Left\nHeader Center\nHeader Right\nFooter Left\nFooter Center\nFooter Right\nAdd Header & Footer\nSuccess\n\nHeader & Footer added successfully!\n\nOK\nBentoPDF\n\n© 2026 BentoPDF. All rights reserved.\n\nVersion 2.8.10\n\nEnglish",
+  "text_truncated": false,
+  "title": "BentoPDF - PDF Tools",
+  "url": "/header-footer.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

@@ -1,0 +1,765 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e726",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e727",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/project/1/edit",
+      "ref": "e728",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/project/1/edit",
+      "ref": "e729",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "aria": "Configure this project",
+      "bounds": [
+        10,
+        48,
+        29,
+        17
+      ],
+      "href": "/project/1/edit",
+      "ref": "e730",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Configure this project"
+    },
+    {
+      "bounds": [
+        53,
+        49,
+        81,
+        16
+      ],
+      "href": "/project/1/overview/status%3Aopen",
+      "ref": "e731",
+      "role": null,
+      "tag": "a",
+      "text": "Overview",
+      "title": "Keyboard shortcut: \"v o\""
+    },
+    {
+      "bounds": [
+        155,
+        49,
+        60,
+        16
+      ],
+      "href": "/board/1/search/status%3Aopen",
+      "ref": "e732",
+      "role": null,
+      "tag": "a",
+      "text": "Board",
+      "title": "Keyboard shortcut: \"v b\""
+    },
+    {
+      "bounds": [
+        236,
+        49,
+        44,
+        16
+      ],
+      "href": "/list/1/search/status%3Aopen",
+      "ref": "e733",
+      "role": null,
+      "tag": "a",
+      "text": "List",
+      "title": "Keyboard shortcut: \"v l\""
+    },
+    {
+      "aria": "Filter",
+      "bounds": [
+        299,
+        44,
+        850,
+        28
+      ],
+      "name": "search",
+      "placeholder": "Filter",
+      "ref": "e734",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "status:open"
+    },
+    {
+      "aria": "Default filters",
+      "bounds": [
+        1161,
+        49,
+        36,
+        16
+      ],
+      "href": "/project/1/edit",
+      "ref": "e735",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Default filters"
+    },
+    {
+      "aria": "Custom filters",
+      "bounds": [
+        1221,
+        49,
+        36,
+        16
+      ],
+      "href": "/project/1/edit",
+      "ref": "e736",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "User filters"
+    },
+    {
+      "bounds": [
+        23,
+        89,
+        68,
+        17
+      ],
+      "href": "/project/1",
+      "ref": "e737",
+      "role": null,
+      "tag": "a",
+      "text": "Summary"
+    },
+    {
+      "bounds": [
+        23,
+        125,
+        98,
+        17
+      ],
+      "href": "/project/1/customer-filters",
+      "ref": "e738",
+      "role": null,
+      "tag": "a",
+      "text": "Custom filters"
+    },
+    {
+      "bounds": [
+        23,
+        161,
+        80,
+        17
+      ],
+      "href": "/project/1/edit",
+      "ref": "e739",
+      "role": null,
+      "tag": "a",
+      "text": "Edit project"
+    },
+    {
+      "bounds": [
+        23,
+        197,
+        142,
+        17
+      ],
+      "href": "/project/1/predefined-contents",
+      "ref": "e740",
+      "role": null,
+      "tag": "a",
+      "text": "Predefined contents"
+    },
+    {
+      "bounds": [
+        23,
+        233,
+        98,
+        17
+      ],
+      "href": "/project/1/share",
+      "ref": "e741",
+      "role": null,
+      "tag": "a",
+      "text": "Public access"
+    },
+    {
+      "bounds": [
+        23,
+        269,
+        87,
+        17
+      ],
+      "href": "/project/1/notifications",
+      "ref": "e742",
+      "role": null,
+      "tag": "a",
+      "text": "Notifications"
+    },
+    {
+      "bounds": [
+        23,
+        305,
+        84,
+        17
+      ],
+      "href": "/project/1/integrations",
+      "ref": "e743",
+      "role": null,
+      "tag": "a",
+      "text": "Integrations"
+    },
+    {
+      "bounds": [
+        23,
+        341,
+        63,
+        17
+      ],
+      "href": "/project/1/columns",
+      "ref": "e744",
+      "role": null,
+      "tag": "a",
+      "text": "Columns"
+    },
+    {
+      "bounds": [
+        23,
+        377,
+        77,
+        17
+      ],
+      "href": "/project/1/swimlanes",
+      "ref": "e745",
+      "role": null,
+      "tag": "a",
+      "text": "Swimlanes"
+    },
+    {
+      "bounds": [
+        23,
+        413,
+        77,
+        17
+      ],
+      "href": "/project/1/categories",
+      "ref": "e746",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        23,
+        449,
+        34,
+        17
+      ],
+      "href": "/project/1/tags",
+      "ref": "e747",
+      "role": null,
+      "tag": "a",
+      "text": "Tags"
+    },
+    {
+      "bounds": [
+        23,
+        485,
+        87,
+        17
+      ],
+      "href": "/project/1/permissions",
+      "ref": "e748",
+      "role": null,
+      "tag": "a",
+      "text": "Permissions"
+    },
+    {
+      "bounds": [
+        23,
+        521,
+        94,
+        17
+      ],
+      "href": "/project/1/custom-roles",
+      "ref": "e749",
+      "role": null,
+      "tag": "a",
+      "text": "Custom roles"
+    },
+    {
+      "bounds": [
+        23,
+        557,
+        126,
+        17
+      ],
+      "href": "/project/1/actions",
+      "ref": "e750",
+      "role": null,
+      "tag": "a",
+      "text": "Automatic actions"
+    },
+    {
+      "bounds": [
+        23,
+        593,
+        67,
+        17
+      ],
+      "href": "/project/1/duplicate",
+      "ref": "e751",
+      "role": null,
+      "tag": "a",
+      "text": "Duplicate"
+    },
+    {
+      "bounds": [
+        23,
+        629,
+        182,
+        52
+      ],
+      "href": "/project/1/import/tasks",
+      "ref": "e752",
+      "role": null,
+      "tag": "a",
+      "text": "Import tasks from another project"
+    },
+    {
+      "bounds": [
+        23,
+        700,
+        123,
+        17
+      ],
+      "href": "/project/1/disable",
+      "ref": "e753",
+      "role": null,
+      "tag": "a",
+      "text": "Close this project"
+    },
+    {
+      "bounds": [
+        23,
+        736,
+        60,
+        17
+      ],
+      "href": "/project/1/remove",
+      "ref": "e754",
+      "role": null,
+      "tag": "a",
+      "text": "Remove"
+    },
+    {
+      "bounds": [
+        265,
+        183,
+        308,
+        28
+      ],
+      "focused": true,
+      "label": "Name",
+      "name": "name",
+      "ref": "e755",
+      "required": true,
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "Website Redesign"
+    },
+    {
+      "bounds": [
+        265,
+        239,
+        308,
+        28
+      ],
+      "label": "Email",
+      "name": "email",
+      "ref": "e756",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "email",
+      "value": "web@example.test"
+    },
+    {
+      "bounds": [
+        265,
+        315,
+        308,
+        28
+      ],
+      "label": "Identifier",
+      "maxlength": "50",
+      "name": "identifier",
+      "ref": "e757",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "WEB"
+    },
+    {
+      "bounds": [
+        265,
+        401,
+        85,
+        17
+      ],
+      "href": "/project/1/edit",
+      "ref": "e758",
+      "role": null,
+      "tag": "a",
+      "text": "Preview"
+    },
+    {
+      "bounds": [
+        360,
+        401,
+        24,
+        17
+      ],
+      "href": "/project/1/edit",
+      "ref": "e759",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        393,
+        401,
+        24,
+        17
+      ],
+      "href": "/project/1/edit",
+      "ref": "e760",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        427,
+        401,
+        24,
+        17
+      ],
+      "href": "/project/1/edit",
+      "ref": "e761",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        461,
+        401,
+        24,
+        17
+      ],
+      "href": "/project/1/edit",
+      "ref": "e762",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        494,
+        401,
+        24,
+        17
+      ],
+      "href": "/project/1/edit",
+      "ref": "e763",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        528,
+        401,
+        24,
+        17
+      ],
+      "href": "/project/1/edit",
+      "ref": "e764",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        561,
+        401,
+        24,
+        17
+      ],
+      "href": "/project/1/edit",
+      "ref": "e765",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        265,
+        419,
+        710,
+        260
+      ],
+      "name": "description",
+      "placeholder": "Write your text in Markdown",
+      "ref": "e766",
+      "role": null,
+      "tag": "textarea",
+      "text": "",
+      "type": "textarea",
+      "value": "Public site overhaul"
+    },
+    {
+      "bounds": [
+        269,
+        696,
+        13,
+        13
+      ],
+      "checked": false,
+      "label": "Task limits apply to each swimlane individually",
+      "name": "per_swimlane_task_limits",
+      "ref": "e767",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        265,
+        741,
+        78,
+        28
+      ],
+      "label": "Task limit",
+      "min": "0",
+      "name": "task_limit",
+      "ref": "e768",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "0"
+    },
+    {
+      "bounds": [
+        269,
+        830,
+        13,
+        13
+      ],
+      "checked": false,
+      "label": "Personal project",
+      "name": "is_private",
+      "ref": "e769",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        370,
+        877,
+        107,
+        21
+      ],
+      "label": "Project owner",
+      "name": "owner_id",
+      "options": [
+        {
+          "disabled": false,
+          "label": "Unassigned",
+          "selected": false,
+          "value": "0"
+        },
+        {
+          "disabled": false,
+          "label": "admin",
+          "selected": true,
+          "value": "1"
+        }
+      ],
+      "ref": "e770",
+      "role": null,
+      "tag": "select",
+      "text": "Unassigned\nadmin",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        265,
+        975,
+        158,
+        28
+      ],
+      "label": "Start date",
+      "name": "start_date",
+      "offscreen": true,
+      "placeholder": "04/14/2026",
+      "ref": "e771",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        265,
+        1031,
+        158,
+        28
+      ],
+      "label": "End date",
+      "name": "end_date",
+      "offscreen": true,
+      "placeholder": "04/14/2026",
+      "ref": "e772",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        265,
+        1135,
+        78,
+        28
+      ],
+      "label": "Default priority",
+      "name": "priority_default",
+      "offscreen": true,
+      "ref": "e773",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "0"
+    },
+    {
+      "bounds": [
+        265,
+        1191,
+        78,
+        28
+      ],
+      "label": "Lowest priority",
+      "name": "priority_start",
+      "offscreen": true,
+      "ref": "e774",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "0"
+    },
+    {
+      "bounds": [
+        265,
+        1247,
+        78,
+        28
+      ],
+      "label": "Highest priority",
+      "name": "priority_end",
+      "offscreen": true,
+      "ref": "e775",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "number",
+      "value": "3"
+    },
+    {
+      "bounds": [
+        250,
+        1306,
+        66,
+        30
+      ],
+      "offscreen": true,
+      "ref": "e776",
+      "role": null,
+      "tag": "button",
+      "text": "Save"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    1346
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Website Redesign > Edit project\n \n \nA\nOverview Board List\nSummary\nCustom filters\nEdit project\nPredefined contents\nPublic access\nNotifications\nIntegrations\nColumns\nSwimlanes\nCategories\nTags\nPermissions\nCustom roles\nAutomatic actions\nDuplicate\nImport tasks from another project\nClose this project\nRemove\nEdit project\nGeneral\nName\n*\nEmail\n\nThe project email is optional and could be used by several plugins.\n\nIdentifier\n\nThe project identifier is optional and must be alphanumeric, example: MYPROJECT.\n\nDescription\n Preview\n Task limits apply to each swimlane individually\nTask limit\nPermissions and ownership\n Personal project\n\nPersonal projects do not have users and groups management.\n\nProject owner \nUnassigned\nadmin\nDates\nStart date\nEnd date\nPriorities\nDefault priority\nLowest priority\nHighest priority\nSave",
+  "text_truncated": false,
+  "title": "Website Redesign > Edit project",
+  "url": "/project/1/edit",
+  "viewport": [
+    1280,
+    900
+  ]
+}

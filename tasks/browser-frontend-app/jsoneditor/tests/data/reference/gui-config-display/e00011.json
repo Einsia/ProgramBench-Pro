@@ -1,0 +1,343 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        13,
+        97,
+        26,
+        26
+      ],
+      "ref": "ee02b9e8c",
+      "tag": "button",
+      "title": "Expand all fields"
+    },
+    {
+      "bounds": [
+        43,
+        97,
+        26,
+        26
+      ],
+      "ref": "e85e63fcb",
+      "tag": "button",
+      "title": "Collapse all fields"
+    },
+    {
+      "bounds": [
+        73,
+        97,
+        26,
+        26
+      ],
+      "ref": "ea12a318a",
+      "tag": "button",
+      "title": "Sort contents"
+    },
+    {
+      "bounds": [
+        103,
+        97,
+        26,
+        26
+      ],
+      "ref": "e35050c81",
+      "tag": "button",
+      "title": "Filter, sort, or transform contents"
+    },
+    {
+      "bounds": [
+        141,
+        97,
+        26,
+        26
+      ],
+      "disabled": true,
+      "ref": "ebbb5bcf1",
+      "tag": "button",
+      "title": "Undo last action (Ctrl+Z)"
+    },
+    {
+      "bounds": [
+        171,
+        97,
+        26,
+        26
+      ],
+      "disabled": true,
+      "ref": "e0a2b66da",
+      "tag": "button",
+      "title": "Redo (Ctrl+Shift+Z)"
+    },
+    {
+      "bounds": [
+        320,
+        98,
+        18,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e1d35618c",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        339,
+        99,
+        126,
+        18
+      ],
+      "context": "Search fields and values",
+      "ref": "e3b24d854",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        466,
+        98,
+        16,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e44fcfed4",
+      "tag": "button",
+      "title": "Next result (Enter)"
+    },
+    {
+      "bounds": [
+        482,
+        98,
+        16,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e0ed8f5b1",
+      "tag": "button",
+      "title": "Previous result (Shift + Enter)"
+    },
+    {
+      "bounds": [
+        33,
+        154,
+        24,
+        24
+      ],
+      "ref": "ebb03648e",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        57,
+        154,
+        24,
+        24
+      ],
+      "ref": "e8f71e697",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        140,
+        155,
+        31,
+        22
+      ],
+      "ref": "eb2a9bdff",
+      "tag": "div",
+      "text": "{1}",
+      "title": "object containing 1 items"
+    },
+    {
+      "bounds": [
+        9,
+        178,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3a",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        33,
+        178,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex2",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        106,
+        179,
+        56,
+        22
+      ],
+      "ref": "e840fed28",
+      "tag": "div",
+      "text": "target",
+      "value": "target"
+    },
+    {
+      "bounds": [
+        173,
+        179,
+        38,
+        22
+      ],
+      "ref": "ed3b4219f",
+      "tag": "div",
+      "text": "42",
+      "value": "42"
+    },
+    {
+      "bounds": [
+        35,
+        204,
+        128,
+        24
+      ],
+      "ref": "e58b5153b",
+      "tag": "button",
+      "text": "Type",
+      "title": "Change the type of this field"
+    },
+    {
+      "bounds": [
+        35,
+        233,
+        128,
+        40
+      ],
+      "ref": "e4cee8f8c",
+      "tag": "button",
+      "text": "Detect value",
+      "title": "Field type \"auto\". The field type is automatically determined from the value and can be a string, number, boolean, or null."
+    },
+    {
+      "bounds": [
+        35,
+        273,
+        128,
+        24
+      ],
+      "ref": "ed1ac156f",
+      "tag": "button",
+      "text": "Array",
+      "title": "Field type \"array\". An array contains an ordered collection of values."
+    },
+    {
+      "bounds": [
+        35,
+        297,
+        128,
+        24
+      ],
+      "ref": "efb909b40",
+      "tag": "button",
+      "text": "Object",
+      "title": "Field type \"object\". An object contains an unordered set of key/value pairs."
+    },
+    {
+      "bounds": [
+        35,
+        321,
+        128,
+        24
+      ],
+      "ref": "e699778fb",
+      "tag": "button",
+      "text": "String",
+      "title": "Field type \"string\". Field type is not determined from the value, but always returned as string."
+    },
+    {
+      "bounds": [
+        35,
+        361,
+        96,
+        24
+      ],
+      "ref": "ecedfb5fb",
+      "tag": "button",
+      "text": "Append",
+      "title": "Append a new field with type 'auto' after this field (Ctrl+Shift+Ins)"
+    },
+    {
+      "bounds": [
+        131,
+        361,
+        32,
+        24
+      ],
+      "ref": "ed21670d4",
+      "tag": "button",
+      "title": "Select the type of the field to be appended"
+    },
+    {
+      "bounds": [
+        35,
+        385,
+        96,
+        24
+      ],
+      "ref": "e442a2ddf",
+      "tag": "button",
+      "text": "Insert",
+      "title": "Insert a new field with type 'auto' before this field (Ctrl+Ins)"
+    },
+    {
+      "bounds": [
+        131,
+        385,
+        32,
+        24
+      ],
+      "ref": "e6e8d6143",
+      "tag": "button",
+      "title": "Select the type of the field to be inserted"
+    },
+    {
+      "bounds": [
+        35,
+        409,
+        128,
+        24
+      ],
+      "ref": "e60db852c",
+      "tag": "button",
+      "text": "Duplicate",
+      "title": "Duplicate this field (Ctrl+D)"
+    },
+    {
+      "bounds": [
+        35,
+        433,
+        128,
+        24
+      ],
+      "ref": "e49f10dc1",
+      "tag": "button",
+      "text": "Remove",
+      "title": "Remove this field (Ctrl+Del)"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "drawing": [],
+  "drawing_truncated": false,
+  "text": "Switch editor mode using the mode box. Note that the mode can be changed programmatically as well using the method\neditor.setMode(mode)\n, try it in the console of your browser.\nobject\n►\ntarget\nobject\n:",
+  "text_truncated": false,
+  "title": "JSONEditor | Switch mode",
+  "url": "/",
+  "viewport": [
+    1280,
+    900
+  ]
+}

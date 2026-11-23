@@ -1,0 +1,1014 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        38,
+        13,
+        26,
+        26
+      ],
+      "ref": "ee02b9e8c",
+      "tag": "button",
+      "title": "Expand all fields"
+    },
+    {
+      "bounds": [
+        68,
+        13,
+        26,
+        26
+      ],
+      "ref": "e85e63fcb",
+      "tag": "button",
+      "title": "Collapse all fields"
+    },
+    {
+      "bounds": [
+        98,
+        13,
+        26,
+        26
+      ],
+      "ref": "ea12a318a",
+      "tag": "button",
+      "title": "Sort contents"
+    },
+    {
+      "bounds": [
+        128,
+        13,
+        26,
+        26
+      ],
+      "ref": "e35050c81",
+      "tag": "button",
+      "title": "Filter, sort, or transform contents"
+    },
+    {
+      "bounds": [
+        166,
+        13,
+        26,
+        26
+      ],
+      "disabled": true,
+      "ref": "ebbb5bcf1",
+      "tag": "button",
+      "title": "Undo last action (Ctrl+Z)"
+    },
+    {
+      "bounds": [
+        196,
+        13,
+        26,
+        26
+      ],
+      "disabled": true,
+      "ref": "e0a2b66da",
+      "tag": "button",
+      "title": "Redo (Ctrl+Shift+Z)"
+    },
+    {
+      "bounds": [
+        414,
+        14,
+        18,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e1d35618c",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        433,
+        15,
+        126,
+        20
+      ],
+      "context": "Search fields and values",
+      "ref": "e3b24d854",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        560,
+        14,
+        16,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e44fcfed4",
+      "tag": "button",
+      "title": "Next result (Enter)"
+    },
+    {
+      "bounds": [
+        576,
+        14,
+        16,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e0ed8f5b1",
+      "tag": "button",
+      "title": "Previous result (Shift + Enter)"
+    },
+    {
+      "bounds": [
+        58,
+        70,
+        24,
+        24
+      ],
+      "ref": "ebb03648e",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        82,
+        70,
+        24,
+        24
+      ],
+      "ref": "e8f71e697",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        166,
+        71,
+        31,
+        22
+      ],
+      "ref": "e18b741d1",
+      "tag": "div",
+      "text": "{2}",
+      "title": "object containing 2 items"
+    },
+    {
+      "bounds": [
+        34,
+        94,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3a",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        58,
+        94,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex2",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        106,
+        94,
+        24,
+        24
+      ],
+      "ref": "e8f71e697x2",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        131,
+        95,
+        132,
+        22
+      ],
+      "ref": "ef10c7d6f",
+      "tag": "div",
+      "text": "student_details",
+      "value": "student_details"
+    },
+    {
+      "bounds": [
+        265,
+        95,
+        31,
+        22
+      ],
+      "ref": "e4b214abd",
+      "tag": "div",
+      "text": "{4}",
+      "title": "object containing 4 items"
+    },
+    {
+      "bounds": [
+        34,
+        118,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax2",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        58,
+        118,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex3",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        130,
+        118,
+        24,
+        24
+      ],
+      "ref": "e8f71e697x3",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        155,
+        119,
+        40,
+        22
+      ],
+      "ref": "e460e207a",
+      "tag": "div",
+      "text": "name",
+      "value": "name"
+    },
+    {
+      "bounds": [
+        197,
+        119,
+        31,
+        22
+      ],
+      "ref": "e18b741d1x2",
+      "tag": "div",
+      "text": "{2}",
+      "title": "object containing 2 items"
+    },
+    {
+      "bounds": [
+        34,
+        142,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax3",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        58,
+        142,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex4",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        130,
+        142,
+        24,
+        24
+      ],
+      "ref": "e8f71e697x4",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        155,
+        143,
+        56,
+        22
+      ],
+      "ref": "eacda1451",
+      "tag": "div",
+      "text": "school",
+      "value": "school"
+    },
+    {
+      "bounds": [
+        214,
+        143,
+        31,
+        22
+      ],
+      "ref": "e18b741d1x3",
+      "tag": "div",
+      "text": "{2}",
+      "title": "object containing 2 items"
+    },
+    {
+      "bounds": [
+        34,
+        166,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax4",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        58,
+        166,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex5",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        155,
+        167,
+        65,
+        22
+      ],
+      "ref": "e811e32bd",
+      "tag": "div",
+      "text": "contact",
+      "value": "contact"
+    },
+    {
+      "bounds": [
+        230,
+        167,
+        56,
+        22
+      ],
+      "ref": "eb8dfb2e0",
+      "tag": "div",
+      "text": "434343",
+      "value": "434343"
+    },
+    {
+      "bounds": [
+        34,
+        190,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax5",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        58,
+        190,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex6",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        155,
+        191,
+        38,
+        22
+      ],
+      "ref": "eb6e67086",
+      "tag": "div",
+      "text": "age",
+      "value": "age"
+    },
+    {
+      "bounds": [
+        204,
+        191,
+        38,
+        22
+      ],
+      "ref": "ee19a0571",
+      "tag": "div",
+      "text": "39",
+      "value": "39"
+    },
+    {
+      "bounds": [
+        34,
+        214,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax6",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        58,
+        214,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex7",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        106,
+        214,
+        24,
+        24
+      ],
+      "ref": "e8f71e697x5",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        131,
+        215,
+        48,
+        22
+      ],
+      "ref": "e7395b79f",
+      "tag": "div",
+      "text": "marks",
+      "value": "marks"
+    },
+    {
+      "bounds": [
+        181,
+        215,
+        31,
+        22
+      ],
+      "ref": "e3bbf3c2b",
+      "tag": "div",
+      "text": "[3]",
+      "title": "array containing 3 items"
+    },
+    {
+      "bounds": [
+        683,
+        13,
+        26,
+        26
+      ],
+      "ref": "ee02b9e8cx2",
+      "tag": "button",
+      "title": "Expand all fields"
+    },
+    {
+      "bounds": [
+        713,
+        13,
+        26,
+        26
+      ],
+      "ref": "e85e63fcbx2",
+      "tag": "button",
+      "title": "Collapse all fields"
+    },
+    {
+      "bounds": [
+        743,
+        13,
+        26,
+        26
+      ],
+      "ref": "ea12a318ax2",
+      "tag": "button",
+      "title": "Sort contents"
+    },
+    {
+      "bounds": [
+        773,
+        13,
+        26,
+        26
+      ],
+      "ref": "e35050c81x2",
+      "tag": "button",
+      "title": "Filter, sort, or transform contents"
+    },
+    {
+      "bounds": [
+        811,
+        13,
+        26,
+        26
+      ],
+      "disabled": true,
+      "ref": "ebbb5bcf1x2",
+      "tag": "button",
+      "title": "Undo last action (Ctrl+Z)"
+    },
+    {
+      "bounds": [
+        841,
+        13,
+        26,
+        26
+      ],
+      "disabled": true,
+      "ref": "e0a2b66dax2",
+      "tag": "button",
+      "title": "Redo (Ctrl+Shift+Z)"
+    },
+    {
+      "bounds": [
+        1059,
+        14,
+        18,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e1d35618cx2",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        1078,
+        15,
+        126,
+        20
+      ],
+      "context": "Search fields and values",
+      "ref": "e3b24d854x2",
+      "tag": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1205,
+        14,
+        16,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e44fcfed4x2",
+      "tag": "button",
+      "title": "Next result (Enter)"
+    },
+    {
+      "bounds": [
+        1221,
+        14,
+        16,
+        24
+      ],
+      "context": "Search fields and values",
+      "ref": "e0ed8f5b1x2",
+      "tag": "button",
+      "title": "Previous result (Shift + Enter)"
+    },
+    {
+      "bounds": [
+        703,
+        70,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex8",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        727,
+        70,
+        24,
+        24
+      ],
+      "ref": "e8f71e697x6",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        810,
+        71,
+        31,
+        22
+      ],
+      "ref": "e18b741d1x4",
+      "tag": "div",
+      "text": "{2}",
+      "title": "object containing 2 items"
+    },
+    {
+      "bounds": [
+        679,
+        94,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax7",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        703,
+        94,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex9",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        751,
+        94,
+        24,
+        24
+      ],
+      "ref": "e8f71e697x7",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        776,
+        95,
+        48,
+        22
+      ],
+      "ref": "e7395b79fx2",
+      "tag": "div",
+      "text": "marks",
+      "value": "marks"
+    },
+    {
+      "bounds": [
+        826,
+        95,
+        31,
+        22
+      ],
+      "ref": "e0f67b9d3",
+      "tag": "div",
+      "text": "[2]",
+      "title": "array containing 2 items"
+    },
+    {
+      "bounds": [
+        679,
+        118,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax8",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        703,
+        118,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex10",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        751,
+        118,
+        24,
+        24
+      ],
+      "ref": "e8f71e697x8",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        776,
+        119,
+        132,
+        22
+      ],
+      "ref": "ef10c7d6fx2",
+      "tag": "div",
+      "text": "student_details",
+      "value": "student_details"
+    },
+    {
+      "bounds": [
+        910,
+        119,
+        31,
+        22
+      ],
+      "ref": "e4dd324c7",
+      "tag": "div",
+      "text": "{5}",
+      "title": "object containing 5 items"
+    },
+    {
+      "bounds": [
+        679,
+        142,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax9",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        703,
+        142,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex11",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        800,
+        143,
+        40,
+        22
+      ],
+      "ref": "e460e207ax2",
+      "tag": "div",
+      "text": "name",
+      "value": "name"
+    },
+    {
+      "bounds": [
+        850,
+        143,
+        65,
+        22
+      ],
+      "ref": "e7ff8653c",
+      "tag": "div",
+      "text": "foo bar",
+      "value": "foo bar"
+    },
+    {
+      "bounds": [
+        679,
+        166,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax10",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        703,
+        166,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex12",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        775,
+        166,
+        24,
+        24
+      ],
+      "ref": "e8f71e697x9",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        800,
+        167,
+        65,
+        22
+      ],
+      "ref": "e490710f5",
+      "tag": "div",
+      "text": "address",
+      "value": "address"
+    },
+    {
+      "bounds": [
+        867,
+        167,
+        31,
+        22
+      ],
+      "ref": "ecb501747",
+      "tag": "div",
+      "text": "{3}",
+      "title": "object containing 3 items"
+    },
+    {
+      "bounds": [
+        679,
+        190,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax11",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        703,
+        190,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex13",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        775,
+        190,
+        24,
+        24
+      ],
+      "ref": "e8f71e697x10",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        800,
+        191,
+        56,
+        22
+      ],
+      "ref": "eacda1451x2",
+      "tag": "div",
+      "text": "school",
+      "value": "school"
+    },
+    {
+      "bounds": [
+        858,
+        191,
+        31,
+        22
+      ],
+      "ref": "e18b741d1x5",
+      "tag": "div",
+      "text": "{2}",
+      "title": "object containing 2 items"
+    },
+    {
+      "bounds": [
+        679,
+        214,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax12",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        703,
+        214,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex14",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        800,
+        215,
+        38,
+        22
+      ],
+      "ref": "eb6e67086x2",
+      "tag": "div",
+      "text": "age",
+      "value": "age"
+    },
+    {
+      "bounds": [
+        848,
+        215,
+        38,
+        22
+      ],
+      "ref": "ee19a0571x2",
+      "tag": "div",
+      "text": "39",
+      "value": "39"
+    },
+    {
+      "bounds": [
+        679,
+        238,
+        24,
+        24
+      ],
+      "ref": "e4d1e7e3ax13",
+      "tag": "button",
+      "title": "Drag to move this field (Alt+Shift+Arrows)"
+    },
+    {
+      "bounds": [
+        703,
+        238,
+        24,
+        24
+      ],
+      "ref": "ebb03648ex15",
+      "tag": "button",
+      "title": "Click to open the actions menu (Ctrl+M)"
+    },
+    {
+      "bounds": [
+        775,
+        238,
+        24,
+        24
+      ],
+      "ref": "e8f71e697x11",
+      "tag": "button",
+      "title": "Click to expand/collapse this field (Ctrl+E). Ctrl+Click to expand/collapse including all childs."
+    },
+    {
+      "bounds": [
+        800,
+        239,
+        65,
+        22
+      ],
+      "ref": "e811e32bdx2",
+      "tag": "div",
+      "text": "contact",
+      "value": "contact"
+    },
+    {
+      "bounds": [
+        867,
+        239,
+        31,
+        22
+      ],
+      "ref": "e3bbf3c2bx2",
+      "tag": "div",
+      "text": "[3]",
+      "title": "array containing 3 items"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "drawing": [],
+  "drawing_truncated": false,
+  "text": "object\n►\nstudent_details\n►\nobject\n:\nSelect a node...\nobject\n:",
+  "text_truncated": false,
+  "title": "JSONEditor | Sync Node Expand",
+  "url": "/examples/25_sync_node_expand.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

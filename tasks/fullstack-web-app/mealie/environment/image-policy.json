@@ -1,0 +1,455 @@
+{
+  "reference_paths": [
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/__init__.py",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/__pycache__",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/alembic",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/app.py",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/assets",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/core/__init__.py",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/core/__pycache__",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/core/config.py",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/core/dependencies",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/core/exceptions.py",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/core/logger",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/core/release_checker.py",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/core/root_logger.py",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/core/security/__init__.py",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/core/security/__pycache__",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/core/security/hasher.py",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/core/security/providers/__pycache__",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/core/security/providers/auth_provider.py",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/core/security/providers/credentials_provider.py",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/core/security/providers/ldap_provider.py",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/core/security/providers/openid_provider.py",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/core/security/providers/reverse_proxy_provider.py",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/core/security/security.py",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/core/security/tokens.py",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/core/settings",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/db",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/frontend",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/lang",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/main.py",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/middleware",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/pkgs",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/repos",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/routes",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/schema",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/scripts",
+    "/app/solution/mealie/python/lib/python3.14/site-packages/mealie/services",
+    "/app/solution/mealie/python/bin/python3.14",
+    "/app/solution/mealie/python/lib/libpython3.14.so.1.0"
+  ],
+  "shared_solution_files": [
+    {
+      "file": "LICENSE",
+      "reason": "Unmodified public upstream license text can also accompany general development dependencies."
+    },
+    {
+      "file": "LICENSES/Python.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/alembic-1.20.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/annotated_doc-0.0.5.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/annotated_types-0.8.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/anyio-4.15.1.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/apprise-2.0.1.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/authlib-1.8.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/bcrypt-5.0.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/beautifulsoup4-4.15.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/certifi-2026.7.22.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/cffi-2.1.1.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/charset_normalizer-3.5.1.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/click-8.5.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/cloudpickle-3.1.2.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/cryptography-50.0.1.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/curl_cffi-0.16.3.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/defusedxml-0.7.1.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/extruct-0.18.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/fastapi-0.143.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/flexcache-0.3.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/flexparser-0.4.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/greenlet-3.5.6.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/h11-0.16.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/html2text-2025.4.15.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/html5lib-1.1.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/html_text-0.7.1.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/httpcore-1.0.9.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/httpcore2-2.13.1.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/httptools-0.8.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/httpx-0.28.1.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/httpx2-2.13.1.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/httpx_curl_cffi-0.1.5.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/idna-3.20.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/ingredient_parser_nlp-2.8.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/isodate-0.7.2.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/itsdangerous-2.2.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/jinja2-3.1.6.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/jiter-0.17.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/joblib-1.6.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/joserfc-1.7.5.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/lxml-6.1.3.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/lxml_html_clean-0.4.5.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/mako-1.4.3.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/markdown-3.11.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/markupsafe-3.0.3.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/mealie-3.29.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/mf2py-2.0.2.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/nltk-3.10.3.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/numpy-2.5.3.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/oauthlib-4.0.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/openai-3.29.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/opentelemetry_api-1.45.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/orjson-3.13.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/paho_mqtt-1.6.1.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/pillow-12.3.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/pillow_heif-1.8.1.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/pint-0.26.1.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/pip-26.2.1.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/platformdirs-4.12.2.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/psycopg2_binary-2.9.13.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/pyasn1-0.6.4.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/pyasn1_modules-0.4.2.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/pycparser-3.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/pydantic-2.14.1.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/pydantic_core-2.50.1.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/pydantic_settings-2.15.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/pyhumps-3.8.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/pyjwt-2.15.1.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/pyparsing-3.3.3.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/pyrdfa3-3.6.5.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/python_dateutil-2.9.0.post0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/python_dotenv-1.2.4.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/python_ldap-3.4.8.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/python_multipart-0.0.32.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/python_slugify-9.1.3.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/pyyaml-6.0.3.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/rapidfuzz-3.14.6.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/rdflib-7.6.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/recipe_scrapers-15.12.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/regex-2026.9.29.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/requests-2.34.2.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/requests_oauthlib-2.0.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/six-1.17.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/sniffio-1.3.1.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/soupsieve-2.10.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/sqlalchemy-2.0.54.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/starlette-1.7.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/text_unidecode-1.3.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/tqdm-4.70.1.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/truststore-0.10.4.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/typing_extensions-4.16.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/typing_inspection-0.4.4.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/tzdata-2026.5.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/urllib3-2.8.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/uvicorn-0.54.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/uvloop-0.22.1.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/w3lib-2.4.1.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/watchfiles-1.3.0.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/webencodings-0.6.1.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/websockets-17.1.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    },
+    {
+      "file": "LICENSES/yt_dlp-2026.8.19.txt",
+      "reason": "Public component license text retained for distribution; the same license can accompany a development dependency."
+    }
+  ],
+  "reference_path_notes": [
+    "Every Mealie application file remains covered except core/security/providers/__init__.py, which is exactly one newline and has no implementation. Excluding only this marker avoids matching generic Python marker files. The agent solution directory must still be empty."
+  ]
+}

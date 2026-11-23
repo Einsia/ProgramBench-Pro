@@ -1,0 +1,147 @@
+{
+  "canvases": [],
+  "controls": [
+    {
+      "bounds": [
+        13,
+        125,
+        26,
+        26
+      ],
+      "ref": "e546c927e",
+      "tag": "button",
+      "title": "Format JSON data, with proper indentation and line feeds (Ctrl+I)"
+    },
+    {
+      "bounds": [
+        43,
+        125,
+        26,
+        26
+      ],
+      "ref": "e9b780019",
+      "tag": "button",
+      "title": "Compact JSON data, remove all whitespaces (Ctrl+Shift+I)"
+    },
+    {
+      "bounds": [
+        73,
+        125,
+        26,
+        26
+      ],
+      "ref": "ea12a318a",
+      "tag": "button",
+      "title": "Sort contents"
+    },
+    {
+      "bounds": [
+        103,
+        125,
+        26,
+        26
+      ],
+      "ref": "e35050c81",
+      "tag": "button",
+      "title": "Filter, sort, or transform contents"
+    },
+    {
+      "bounds": [
+        133,
+        125,
+        26,
+        26
+      ],
+      "ref": "e877cc316",
+      "tag": "button",
+      "title": "Repair JSON: fix quotes and escape characters, remove comments and JSONP notation, turn JavaScript objects into JSON."
+    },
+    {
+      "bounds": [
+        171,
+        125,
+        54,
+        26
+      ],
+      "ref": "e51ebe93a",
+      "tag": "button",
+      "text": "Text ▾",
+      "title": "Switch Editor Mode"
+    },
+    {
+      "bounds": [
+        9,
+        156,
+        598,
+        333
+      ],
+      "ref": "e57dd875f",
+      "tag": "textarea",
+      "value": "{\n  \"team\": [\n    {\n      \"name\": \"Joe\",\n      \"age\": 17\n    },\n    {\n      \"name\": \"Sarah\",\n      \"age\": 13\n    },\n    {\n      \"name\": \"Jack\"\n    }\n  ]\n}"
+    },
+    {
+      "bounds": [
+        15,
+        493,
+        24,
+        24
+      ],
+      "ref": "ea0fc21fd",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        15,
+        527,
+        24,
+        24
+      ],
+      "ref": "ea0fc21fdx2",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        15,
+        561,
+        24,
+        24
+      ],
+      "ref": "ea0fc21fdx3",
+      "tag": "button"
+    },
+    {
+      "bounds": [
+        595,
+        594,
+        8,
+        26
+      ],
+      "ref": "e80ccbc05",
+      "tag": "span",
+      "text": "3"
+    },
+    {
+      "bounds": [
+        571,
+        595,
+        24,
+        24
+      ],
+      "ref": "e04c0daed",
+      "tag": "span",
+      "title": "3 schema validation error(s) found"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "drawing": [],
+  "drawing_truncated": false,
+  "text": "Custom validation\nThis example demonstrates how to run custom validation on a JSON object. The validation is available in all modes.\nLn 11\n.team[2]\nRequired property \"age\" missing\nLn 2\n.team\nA team must have 4 members\nLn 2\n.team\nA team must have at least one adult person (age >= 18)\nLn:\n1\nCol:\n1",
+  "text_truncated": false,
+  "title": "JSONEditor | Custom validation",
+  "url": "/examples/18_custom_validation.html",
+  "viewport": [
+    1280,
+    900
+  ]
+}

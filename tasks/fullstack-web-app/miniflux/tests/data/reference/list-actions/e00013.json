@@ -1,0 +1,285 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        559,
+        -44,
+        162,
+        36
+      ],
+      "href": "/history#main",
+      "offscreen": true,
+      "ref": "e1123",
+      "role": null,
+      "tag": "a",
+      "text": "Skip to content"
+    },
+    {
+      "aria": "Home page",
+      "bounds": [
+        193,
+        10,
+        77,
+        19
+      ],
+      "href": "/unread",
+      "ref": "e1124",
+      "role": null,
+      "tag": "a",
+      "text": "Mini\nflux"
+    },
+    {
+      "bounds": [
+        278,
+        12,
+        70,
+        16
+      ],
+      "href": "/unread",
+      "ref": "e1125",
+      "role": null,
+      "tag": "a",
+      "text": "Unread"
+    },
+    {
+      "bounds": [
+        363,
+        12,
+        78,
+        16
+      ],
+      "href": "/starred",
+      "ref": "e1126",
+      "role": null,
+      "tag": "a",
+      "text": "Starred"
+    },
+    {
+      "bounds": [
+        456,
+        12,
+        78,
+        16
+      ],
+      "href": "/history",
+      "ref": "e1127",
+      "role": null,
+      "tag": "a",
+      "text": "History"
+    },
+    {
+      "bounds": [
+        549,
+        12,
+        70,
+        16
+      ],
+      "href": "/feeds",
+      "ref": "e1128",
+      "role": null,
+      "tag": "a",
+      "text": "Feeds"
+    },
+    {
+      "aria": "Add feed",
+      "bounds": [
+        618,
+        12,
+        26,
+        16
+      ],
+      "href": "/subscribe",
+      "ref": "e1129",
+      "role": null,
+      "tag": "a",
+      "text": "(+)",
+      "title": "Keyboard Shortcut: +"
+    },
+    {
+      "bounds": [
+        659,
+        12,
+        104,
+        16
+      ],
+      "href": "/categories",
+      "ref": "e1130",
+      "role": null,
+      "tag": "a",
+      "text": "Categories"
+    },
+    {
+      "bounds": [
+        778,
+        12,
+        70,
+        16
+      ],
+      "href": "/search",
+      "ref": "e1131",
+      "role": null,
+      "tag": "a",
+      "text": "Search"
+    },
+    {
+      "bounds": [
+        862,
+        12,
+        87,
+        16
+      ],
+      "href": "/settings",
+      "ref": "e1132",
+      "role": null,
+      "tag": "a",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        964,
+        10,
+        70,
+        18
+      ],
+      "ref": "e1133",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "title": "Logged in as alice"
+    },
+    {
+      "bounds": [
+        193,
+        81,
+        109,
+        18
+      ],
+      "ref": "e1134",
+      "role": null,
+      "tag": "button",
+      "text": "Flush history"
+    },
+    {
+      "bounds": [
+        326,
+        82,
+        152,
+        18
+      ],
+      "href": "/shares",
+      "ref": "e1135",
+      "role": null,
+      "tag": "a",
+      "text": "Shared entries"
+    },
+    {
+      "bounds": [
+        199,
+        150,
+        67,
+        18
+      ],
+      "href": "/history/entry/4",
+      "ref": "e1136",
+      "role": null,
+      "tag": "a",
+      "text": "List 1"
+    },
+    {
+      "bounds": [
+        275,
+        153,
+        22,
+        14
+      ],
+      "href": "/category/1/entries",
+      "ref": "e1137",
+      "role": null,
+      "tag": "a",
+      "text": "All"
+    },
+    {
+      "bounds": [
+        199,
+        174,
+        59,
+        12
+      ],
+      "href": "/feed/1/entries",
+      "ref": "e1138",
+      "role": null,
+      "tag": "a",
+      "text": "List Feed",
+      "title": "http://listing.test/"
+    },
+    {
+      "bounds": [
+        199,
+        195,
+        109,
+        16
+      ],
+      "ref": "e1139",
+      "role": null,
+      "tag": "button",
+      "text": "Mark as unread",
+      "title": "Change entry status"
+    },
+    {
+      "bounds": [
+        324,
+        195,
+        58,
+        16
+      ],
+      "ref": "e1140",
+      "role": null,
+      "tag": "button",
+      "text": "Unstar"
+    },
+    {
+      "bounds": [
+        397,
+        197,
+        120,
+        15
+      ],
+      "href": "[external]",
+      "ref": "e1141",
+      "role": null,
+      "tag": "a",
+      "text": "External link"
+    },
+    {
+      "bounds": [
+        599,
+        246,
+        134,
+        20
+      ],
+      "href": "/history",
+      "ref": "e1142",
+      "role": null,
+      "tag": "a",
+      "text": "Back to top"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Skip to content\nMini\nflux\nUnread Starred History Feeds (+) Categories Search Settings Logout\nHistory (1)\n1 read entry\nFlush history Shared entries\nFirst\nPrevious\nNext \nLast \nList 1 All\nList Feed  1 year ago  1 minute read\nMark as unread Unstar External link\nFirst\nPrevious\nBack to top\nNext \nLast ",
+  "text_truncated": false,
+  "title": "History (1) - Miniflux",
+  "url": "/history",
+  "viewport": [
+    1280,
+    900
+  ]
+}

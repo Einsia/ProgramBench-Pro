@@ -1,0 +1,592 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        10,
+        5,
+        32,
+        27
+      ],
+      "href": "/dashboard",
+      "ref": "e904",
+      "role": null,
+      "tag": "a",
+      "text": "KB",
+      "title": "Dashboard"
+    },
+    {
+      "bounds": [
+        1167,
+        10,
+        24,
+        17
+      ],
+      "href": "/user/1/notifications/web",
+      "ref": "e905",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "My notifications"
+    },
+    {
+      "bounds": [
+        1195,
+        10,
+        36,
+        16
+      ],
+      "href": "/board/1",
+      "ref": "e906",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        1235,
+        9,
+        35,
+        20
+      ],
+      "href": "/board/1",
+      "ref": "e907",
+      "role": null,
+      "tag": "a",
+      "text": "A"
+    },
+    {
+      "aria": "Configure this project",
+      "bounds": [
+        10,
+        48,
+        29,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e908",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Configure this project"
+    },
+    {
+      "bounds": [
+        53,
+        49,
+        81,
+        16
+      ],
+      "href": "/project/1/overview/status%3Aopen",
+      "ref": "e909",
+      "role": null,
+      "tag": "a",
+      "text": "Overview",
+      "title": "Keyboard shortcut: \"v o\""
+    },
+    {
+      "bounds": [
+        155,
+        49,
+        63,
+        16
+      ],
+      "href": "/board/1/search/status%3Aopen",
+      "ref": "e910",
+      "role": null,
+      "tag": "a",
+      "text": "Board",
+      "title": "Keyboard shortcut: \"v b\""
+    },
+    {
+      "bounds": [
+        240,
+        49,
+        44,
+        16
+      ],
+      "href": "/list/1/search/status%3Aopen",
+      "ref": "e911",
+      "role": null,
+      "tag": "a",
+      "text": "List",
+      "title": "Keyboard shortcut: \"v l\""
+    },
+    {
+      "aria": "Filter",
+      "bounds": [
+        302,
+        44,
+        846,
+        28
+      ],
+      "name": "search",
+      "placeholder": "Filter",
+      "ref": "e912",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "status:open"
+    },
+    {
+      "aria": "Default filters",
+      "bounds": [
+        1161,
+        49,
+        36,
+        16
+      ],
+      "href": "/board/1",
+      "ref": "e913",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Default filters"
+    },
+    {
+      "aria": "Custom filters",
+      "bounds": [
+        1221,
+        49,
+        36,
+        16
+      ],
+      "href": "/board/1",
+      "ref": "e914",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "User filters"
+    },
+    {
+      "bounds": [
+        19,
+        94,
+        32,
+        17
+      ],
+      "href": "/board/1/task/create/swimlane/1/column/1",
+      "ref": "e915",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Add a new task"
+    },
+    {
+      "bounds": [
+        56,
+        92,
+        79,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e916",
+      "role": null,
+      "tag": "a",
+      "text": "Backlog"
+    },
+    {
+      "bounds": [
+        139,
+        92,
+        12,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e917",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        334,
+        94,
+        32,
+        17
+      ],
+      "href": "/board/1/task/create/swimlane/1/column/2",
+      "ref": "e918",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Add a new task"
+    },
+    {
+      "bounds": [
+        371,
+        92,
+        64,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e919",
+      "role": null,
+      "tag": "a",
+      "text": "Ready"
+    },
+    {
+      "bounds": [
+        439,
+        92,
+        12,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e920",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        649,
+        94,
+        32,
+        17
+      ],
+      "href": "/board/1/task/create/swimlane/1/column/3",
+      "ref": "e921",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Add a new task"
+    },
+    {
+      "bounds": [
+        685,
+        92,
+        148,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e922",
+      "role": null,
+      "tag": "a",
+      "text": "Work in progress"
+    },
+    {
+      "bounds": [
+        837,
+        92,
+        12,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e923",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        963,
+        94,
+        32,
+        17
+      ],
+      "href": "/board/1/task/create/swimlane/1/column/4",
+      "ref": "e924",
+      "role": null,
+      "tag": "a",
+      "text": "",
+      "title": "Add a new task"
+    },
+    {
+      "bounds": [
+        1000,
+        92,
+        56,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e925",
+      "role": null,
+      "tag": "a",
+      "text": "Done"
+    },
+    {
+      "bounds": [
+        18,
+        133,
+        31,
+        16
+      ],
+      "href": "/board/1",
+      "ref": "e926",
+      "role": null,
+      "tag": "a",
+      "text": "#2"
+    },
+    {
+      "bounds": [
+        53,
+        133,
+        22,
+        16
+      ],
+      "href": "/task/2/edit",
+      "ref": "e927",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        18,
+        154,
+        91,
+        16
+      ],
+      "href": "/task/2",
+      "ref": "e928",
+      "role": null,
+      "tag": "a",
+      "text": "Beta checkout"
+    },
+    {
+      "bounds": [
+        333,
+        133,
+        31,
+        16
+      ],
+      "href": "/board/1",
+      "ref": "e929",
+      "role": null,
+      "tag": "a",
+      "text": "#1"
+    },
+    {
+      "bounds": [
+        368,
+        133,
+        22,
+        16
+      ],
+      "href": "/task/1/edit",
+      "ref": "e930",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        333,
+        154,
+        109,
+        16
+      ],
+      "href": "/task/1",
+      "ref": "e931",
+      "role": null,
+      "tag": "a",
+      "text": "Alpha homepage"
+    },
+    {
+      "bounds": [
+        648,
+        133,
+        31,
+        16
+      ],
+      "href": "/board/1",
+      "ref": "e932",
+      "role": null,
+      "tag": "a",
+      "text": "#3"
+    },
+    {
+      "bounds": [
+        683,
+        133,
+        22,
+        16
+      ],
+      "href": "/task/3/edit",
+      "ref": "e933",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        648,
+        154,
+        121,
+        16
+      ],
+      "href": "/task/3",
+      "ref": "e934",
+      "role": null,
+      "tag": "a",
+      "text": "Gamma newsletter"
+    },
+    {
+      "bounds": [
+        1131,
+        18,
+        16,
+        17
+      ],
+      "href": "/board/1",
+      "ref": "e935",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        133,
+        68,
+        44,
+        17
+      ],
+      "href": "/export/tasks/1",
+      "ref": "e936",
+      "role": null,
+      "tag": "a",
+      "text": "Tasks"
+    },
+    {
+      "bounds": [
+        197,
+        68,
+        66,
+        17
+      ],
+      "href": "/export/subtasks/1",
+      "ref": "e937",
+      "role": null,
+      "tag": "a",
+      "text": "Subtasks"
+    },
+    {
+      "bounds": [
+        282,
+        68,
+        110,
+        17
+      ],
+      "href": "/export/transitions/1",
+      "ref": "e938",
+      "role": null,
+      "tag": "a",
+      "text": "Task transitions"
+    },
+    {
+      "bounds": [
+        412,
+        68,
+        158,
+        17
+      ],
+      "href": "/export/summary/1",
+      "ref": "e939",
+      "role": null,
+      "tag": "a",
+      "text": "Daily project summary"
+    },
+    {
+      "bounds": [
+        133,
+        170,
+        158,
+        28
+      ],
+      "label": "Start date",
+      "name": "from",
+      "placeholder": "04/14/2026",
+      "ref": "e940",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "04/01/2026"
+    },
+    {
+      "bounds": [
+        133,
+        226,
+        158,
+        28
+      ],
+      "label": "End date",
+      "name": "to",
+      "placeholder": "04/14/2026",
+      "ref": "e941",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "04/30/2026"
+    },
+    {
+      "bounds": [
+        137,
+        267,
+        13,
+        13
+      ],
+      "checked": false,
+      "label": "Add a BOM at the beginning of the file (required for Microsoft Excel)",
+      "name": "bom",
+      "ref": "e942",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "checkbox",
+      "value": "1"
+    },
+    {
+      "bounds": [
+        133,
+        304,
+        77,
+        30
+      ],
+      "focused": true,
+      "ref": "e943",
+      "role": null,
+      "tag": "button",
+      "text": "Export"
+    },
+    {
+      "bounds": [
+        234,
+        311,
+        46,
+        17
+      ],
+      "href": "/export/tasks/1",
+      "ref": "e944",
+      "role": null,
+      "tag": "a",
+      "text": "cancel"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [
+    {
+      "filename": "Tasks.csv",
+      "ref": "d0",
+      "url": "/export/tasks/1"
+    }
+  ],
+  "page_size": [
+    1280,
+    900
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "KB Website \n \n \nA\nOverview Board List\nBacklog  \nTask count\n1  (\nTotal number of tasks in this column across all swimlanes\n1)\n\t\nReady  \nTask count\n1  (\nTotal number of tasks in this column across all swimlanes\n1)\n\t\nWork in progress  \nTask count\n1  (\nTotal number of tasks in this column across all swimlanes\n1)\n\t\nDone \n\n\n#2 \n \nBeta checkout\n 04/10/2026 12:00\nTask age in days\n<15m \nDays in this column\n<15m \nTask priority\nP0\n\t\n#1 \n  Bob Builder\nBB\nAlpha homepage\nTime spent and estimated\n0/2h\n0% (0/1) \nTask age in days\n<15m \nDays in this column\n<15m \nTask priority\nP0\n\t\n#3 \n  Bob Builder\nBB\nGamma newsletter\n0% (0/1) \nTask age in days\n<15m \nDays in this column\n<15m \nTask priority\nP0\n\t\nWebsite > Tasks Export\nTasks Subtasks Task transitions Daily project summary\n\nThis report contains all tasks information for the given date range.\n\nStart date\nEnd date\n Add a BOM at the beginning of the file (required for Microsoft Excel)\nExport or cancel",
+  "text_truncated": false,
+  "title": "Website",
+  "url": "/board/1",
+  "viewport": [
+    1280,
+    900
+  ]
+}

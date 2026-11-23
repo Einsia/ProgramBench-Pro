@@ -1,0 +1,1464 @@
+{
+  "focused": "e03981bcc",
+  "nodes": [
+    {
+      "bounds": [
+        0,
+        19,
+        1280,
+        881
+      ],
+      "name": "My Library - Zotero",
+      "ref": "ead4bdb1d",
+      "role": "frame",
+      "states": [
+        "active"
+      ],
+      "text": "￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼"
+    },
+    {
+      "bounds": [
+        8,
+        19,
+        1154,
+        36
+      ],
+      "name": "",
+      "ref": "eeb2247d8",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        19,
+        210,
+        36
+      ],
+      "name": "Application",
+      "ref": "e5c0c6bd6",
+      "role": "menu bar"
+    },
+    {
+      "bounds": [
+        8,
+        19,
+        36,
+        36
+      ],
+      "name": "File",
+      "ref": "eae5e7196",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        44,
+        19,
+        39,
+        36
+      ],
+      "name": "Edit",
+      "ref": "e9280c15b",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        83,
+        19,
+        45,
+        36
+      ],
+      "name": "View",
+      "ref": "e2cb9b4a8",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        128,
+        19,
+        46,
+        36
+      ],
+      "name": "Tools",
+      "ref": "ec5a466a3",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        174,
+        19,
+        44,
+        36
+      ],
+      "name": "Help",
+      "ref": "ef594ac36",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        0,
+        55,
+        1207,
+        36
+      ],
+      "name": "",
+      "ref": "ef0a88b3f",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        55,
+        1199,
+        36
+      ],
+      "name": "",
+      "ref": "e5435fdac",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        9,
+        59,
+        200,
+        28
+      ],
+      "name": "",
+      "ref": "e6f6dda1a",
+      "role": "section",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        35,
+        64,
+        168,
+        18
+      ],
+      "name": "My Library",
+      "ref": "e14c014a2",
+      "role": "section"
+    },
+    {
+      "bounds": [
+        1211,
+        59,
+        28,
+        28
+      ],
+      "name": "List all tabs",
+      "ref": "e82983a32",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1248,
+        59,
+        28,
+        28
+      ],
+      "name": "Sync with zotero.org",
+      "ref": "ebd38ba1b",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        92,
+        200,
+        41
+      ],
+      "name": "",
+      "ref": "e30e37922",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        8,
+        98,
+        28,
+        28
+      ],
+      "name": "New Collection…",
+      "ref": "eaf37dda1",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        156,
+        98,
+        28,
+        28
+      ],
+      "name": "Filter Collections",
+      "ref": "e7bbd7881",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        0,
+        133,
+        200,
+        567
+      ],
+      "name": "",
+      "ref": "e6cae55ac",
+      "role": "section",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        0,
+        133,
+        200,
+        567
+      ],
+      "name": "Collections",
+      "ref": "e3fc109d8",
+      "role": "tree",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        0,
+        133,
+        200,
+        567
+      ],
+      "name": "",
+      "ref": "eb7fe2a2b",
+      "role": "section",
+      "text": "￼￼￼￼￼￼￼￼￼￼￼￼￼"
+    },
+    {
+      "bounds": [
+        8,
+        133,
+        184,
+        28
+      ],
+      "name": "My Library",
+      "ref": "e19545fd2",
+      "role": "tree item",
+      "states": [
+        "selected",
+        "expanded",
+        "active"
+      ],
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        133,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e5b982c1c",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        44,
+        138,
+        144,
+        18
+      ],
+      "name": "",
+      "ref": "e949e16e3",
+      "role": "section",
+      "text": "My Library"
+    },
+    {
+      "bounds": [
+        8,
+        161,
+        184,
+        28
+      ],
+      "name": "Recently Read",
+      "ref": "e97dca4d1",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        161,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e4b31b13a",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        166,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "e6527c2eb",
+      "role": "section",
+      "text": "Recently Read"
+    },
+    {
+      "bounds": [
+        8,
+        189,
+        184,
+        28
+      ],
+      "name": "Biology",
+      "ref": "ee33245cd",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        189,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e60ce88f8",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        194,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "e1cd9ec22",
+      "role": "section",
+      "text": "Biology"
+    },
+    {
+      "bounds": [
+        8,
+        217,
+        184,
+        28
+      ],
+      "name": "Computer Science",
+      "ref": "ed4716ca2",
+      "role": "tree item",
+      "states": [
+        "expanded"
+      ],
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        217,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e1a9174ab",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        222,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "e9a440bd6",
+      "role": "section",
+      "text": "Computer Science"
+    },
+    {
+      "bounds": [
+        8,
+        245,
+        184,
+        28
+      ],
+      "name": "Algorithms",
+      "ref": "eb4e71ff0",
+      "role": "tree item",
+      "states": [
+        "expanded"
+      ],
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        245,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "ed3a9131c",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        76,
+        250,
+        112,
+        18
+      ],
+      "name": "",
+      "ref": "e6881de92",
+      "role": "section",
+      "text": "Algorithms"
+    },
+    {
+      "bounds": [
+        8,
+        273,
+        184,
+        28
+      ],
+      "name": "Graph Algorithms",
+      "ref": "e068bd2dc",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        273,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "eedbb7f7a",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        92,
+        278,
+        96,
+        18
+      ],
+      "name": "",
+      "ref": "ea2ad079a",
+      "role": "section",
+      "text": "Graph Algorithms"
+    },
+    {
+      "bounds": [
+        8,
+        301,
+        184,
+        28
+      ],
+      "name": "Theory of Computation",
+      "ref": "ed98278f4",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        301,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e87127b28",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        76,
+        306,
+        112,
+        18
+      ],
+      "name": "",
+      "ref": "ee08d777a",
+      "role": "section",
+      "text": "Theory of Computation"
+    },
+    {
+      "bounds": [
+        8,
+        329,
+        184,
+        28
+      ],
+      "name": "Empty Collection",
+      "ref": "e7e7a9122",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        329,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "effa6c9fa",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        334,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "eb03e3682",
+      "role": "section",
+      "text": "Empty Collection"
+    },
+    {
+      "bounds": [
+        8,
+        357,
+        184,
+        28
+      ],
+      "name": "Reading List",
+      "ref": "ee8dc2ac7",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        357,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e939650ab",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        362,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "eeaeecbb9",
+      "role": "section",
+      "text": "Reading List"
+    },
+    {
+      "bounds": [
+        8,
+        385,
+        184,
+        28
+      ],
+      "name": "My Publications",
+      "ref": "e64a7bce3",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        385,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e278051a2",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        390,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "e94923e95",
+      "role": "section",
+      "text": "My Publications"
+    },
+    {
+      "bounds": [
+        8,
+        413,
+        184,
+        28
+      ],
+      "name": "Duplicate Items",
+      "ref": "eebefc881",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        413,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e012e198e",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        418,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "eb4d94192",
+      "role": "section",
+      "text": "Duplicate Items"
+    },
+    {
+      "bounds": [
+        8,
+        441,
+        184,
+        28
+      ],
+      "name": "Unfiled Items",
+      "ref": "e11e235e7",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        441,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e0a0046b0",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        446,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "e99b25a40",
+      "role": "section",
+      "text": "Unfiled Items"
+    },
+    {
+      "bounds": [
+        8,
+        469,
+        184,
+        28
+      ],
+      "name": "Trash",
+      "ref": "e59ca2905",
+      "role": "tree item",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        8,
+        469,
+        184,
+        28
+      ],
+      "name": "",
+      "ref": "e07fded15",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        60,
+        474,
+        128,
+        18
+      ],
+      "name": "",
+      "ref": "e2f63b2f1",
+      "role": "section",
+      "text": "Trash"
+    },
+    {
+      "bounds": [
+        0,
+        700,
+        200,
+        200
+      ],
+      "name": "",
+      "ref": "e57aa693b",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        0,
+        700,
+        200,
+        200
+      ],
+      "name": "",
+      "ref": "e8e529781",
+      "role": "section",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        0,
+        700,
+        200,
+        163
+      ],
+      "name": "",
+      "ref": "e7ef021d1",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        0,
+        700,
+        200,
+        163
+      ],
+      "name": "Tag Selector",
+      "ref": "e3d2a1972",
+      "role": "panel",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        0,
+        700,
+        149,
+        57
+      ],
+      "name": "",
+      "ref": "e33a92712",
+      "role": "section",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        8,
+        709,
+        49,
+        19
+      ],
+      "name": "graphs",
+      "ref": "e372c4966",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        59,
+        709,
+        90,
+        19
+      ],
+      "name": "programming",
+      "ref": "e75fbef0f",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        8,
+        730,
+        95,
+        19
+      ],
+      "name": "shortest paths",
+      "ref": "eb1ace965",
+      "role": "check box"
+    },
+    {
+      "bounds": [
+        8,
+        870,
+        144,
+        24
+      ],
+      "name": "Filter Tags",
+      "ref": "e59a38a2f",
+      "role": "entry",
+      "states": [
+        "editable"
+      ]
+    },
+    {
+      "bounds": [
+        156,
+        870,
+        36,
+        24
+      ],
+      "name": "Actions",
+      "ref": "ec1ed66a8",
+      "role": "push button",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        200,
+        92,
+        723,
+        41
+      ],
+      "name": "",
+      "ref": "e32ed8ff3",
+      "role": "tool bar"
+    },
+    {
+      "bounds": [
+        208,
+        98,
+        40,
+        28
+      ],
+      "name": "New Item",
+      "ref": "ed2f311e2",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        256,
+        98,
+        28,
+        28
+      ],
+      "name": "Add Item(s) by Identifier",
+      "ref": "ea6d01f8f",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        292,
+        98,
+        40,
+        28
+      ],
+      "name": "Add Attachment",
+      "ref": "ef952ec7e",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        340,
+        98,
+        40,
+        28
+      ],
+      "name": "New Note",
+      "ref": "e553c0457",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        701,
+        103,
+        135,
+        18
+      ],
+      "name": "Advanced Search",
+      "ref": "e70298d2e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        849,
+        99,
+        28,
+        28
+      ],
+      "name": "Collapse Advanced Search",
+      "ref": "ef0d0b805",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        885,
+        99,
+        28,
+        28
+      ],
+      "name": "Close Advanced Search",
+      "ref": "e96bf14de",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        210,
+        141,
+        703,
+        118
+      ],
+      "name": "Find",
+      "ref": "e9e4e8266",
+      "role": "panel"
+    },
+    {
+      "bounds": [
+        210,
+        147,
+        27,
+        17
+      ],
+      "name": "Find",
+      "ref": "e91a57a9e",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        241,
+        143,
+        139,
+        27
+      ],
+      "name": "Result type",
+      "ref": "e9406970a",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        384,
+        147,
+        61,
+        17
+      ],
+      "name": "matching",
+      "ref": "e01423687",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        449,
+        143,
+        60,
+        27
+      ],
+      "name": "Match",
+      "ref": "e398f343a",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        513,
+        147,
+        105,
+        17
+      ],
+      "name": "of the following:",
+      "ref": "e79780ffd",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        219,
+        185,
+        200,
+        27
+      ],
+      "name": "Search condition",
+      "ref": "e52cbae96",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        425,
+        185,
+        160,
+        27
+      ],
+      "name": "Operator",
+      "ref": "e0d4f4bb9",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        591,
+        188,
+        235,
+        22
+      ],
+      "name": "Value",
+      "ref": "ea5050315",
+      "role": "entry",
+      "states": [
+        "editable"
+      ],
+      "text": "Dijkstra"
+    },
+    {
+      "bounds": [
+        832,
+        189,
+        20,
+        20
+      ],
+      "name": "Remove Condition",
+      "ref": "ee50d9e1c",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        858,
+        189,
+        20,
+        20
+      ],
+      "name": "Add Condition",
+      "ref": "e6d3373c7",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        884,
+        189,
+        20,
+        20
+      ],
+      "name": "Add Condition Group",
+      "ref": "eb8efcae4",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        219,
+        225,
+        200,
+        27
+      ],
+      "name": "Search condition",
+      "ref": "e16173912",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        425,
+        225,
+        160,
+        27
+      ],
+      "name": "Operator",
+      "ref": "efbab0a6a",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        591,
+        225,
+        235,
+        27
+      ],
+      "name": "Value",
+      "ref": "e9d89245c",
+      "role": "combo box"
+    },
+    {
+      "bounds": [
+        832,
+        229,
+        20,
+        20
+      ],
+      "name": "Remove Condition",
+      "ref": "ef8cbf6b1",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        858,
+        229,
+        20,
+        20
+      ],
+      "name": "Add Condition",
+      "ref": "e4b9d14c1",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        884,
+        229,
+        20,
+        20
+      ],
+      "name": "Add Condition Group",
+      "ref": "e30693bb1",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        210,
+        267,
+        100,
+        27
+      ],
+      "name": "Search",
+      "ref": "e03981bcc",
+      "role": "push button",
+      "states": [
+        "focused"
+      ]
+    },
+    {
+      "bounds": [
+        318,
+        267,
+        100,
+        27
+      ],
+      "name": "Clear",
+      "ref": "e89cae30a",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        426,
+        267,
+        135,
+        27
+      ],
+      "name": "Save Search…",
+      "ref": "ea872ca25",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        200,
+        303,
+        723,
+        597
+      ],
+      "name": "",
+      "ref": "ed1eb1f4d",
+      "role": "section",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        200,
+        303,
+        723,
+        597
+      ],
+      "name": "Items",
+      "ref": "eb0c09c0e",
+      "role": "tree",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        200,
+        303,
+        723,
+        30
+      ],
+      "name": "",
+      "ref": "eb60f0b62",
+      "role": "section",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        309,
+        525,
+        17
+      ],
+      "name": "",
+      "ref": "e1770ee16",
+      "role": "section",
+      "text": "Title"
+    },
+    {
+      "bounds": [
+        749,
+        309,
+        126,
+        17
+      ],
+      "name": "",
+      "ref": "e4494c2eb",
+      "role": "section",
+      "text": "Creator"
+    },
+    {
+      "bounds": [
+        883,
+        310,
+        32,
+        16
+      ],
+      "name": "Attachments",
+      "ref": "e2b19b7f0",
+      "role": "section",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        200,
+        337,
+        723,
+        563
+      ],
+      "name": "",
+      "ref": "ee7213d23",
+      "role": "section",
+      "text": "￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        337,
+        707,
+        28
+      ],
+      "name": "A Note on Two Problems in Connexion with Graphs. Journal Article. Dijkstra",
+      "ref": "e60c1da78",
+      "role": "tree item",
+      "states": [
+        "active"
+      ],
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        343,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "e611d2c1a",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        343,
+        489,
+        17
+      ],
+      "name": "A Note on Two Problems in Connexion with Graphs. Journal Article.",
+      "ref": "e4eae780b",
+      "role": "section",
+      "text": "A Note on Two Problems in Connexion with Graphs"
+    },
+    {
+      "bounds": [
+        741,
+        343,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "e6bbf8dd8",
+      "role": "section",
+      "text": "Dijkstra"
+    },
+    {
+      "bounds": [
+        208,
+        365,
+        707,
+        28
+      ],
+      "name": "Notes on Structured Programming. Book Section. Dijkstra",
+      "ref": "ecdefbc12",
+      "role": "tree item",
+      "text": "￼￼￼"
+    },
+    {
+      "bounds": [
+        208,
+        371,
+        533,
+        17
+      ],
+      "name": "",
+      "ref": "e1b6e18d8",
+      "role": "section",
+      "text": "￼￼￼￼"
+    },
+    {
+      "bounds": [
+        244,
+        371,
+        489,
+        17
+      ],
+      "name": "Notes on Structured Programming. Book Section.",
+      "ref": "e7a38042b",
+      "role": "section",
+      "text": "Notes on Structured Programming"
+    },
+    {
+      "bounds": [
+        741,
+        371,
+        142,
+        17
+      ],
+      "name": "",
+      "ref": "e751924e8",
+      "role": "section",
+      "text": "Dijkstra"
+    },
+    {
+      "bounds": [
+        1020,
+        486,
+        127,
+        17
+      ],
+      "name": "2 items in this view",
+      "ref": "ee59d5b41",
+      "role": "label"
+    },
+    {
+      "bounds": [
+        1243,
+        92,
+        37,
+        808
+      ],
+      "name": "",
+      "ref": "e65149dd7",
+      "role": "page tab list"
+    },
+    {
+      "bounds": [
+        1248,
+        98,
+        28,
+        28
+      ],
+      "name": "Toggle Item Pane",
+      "ref": "e3f82f843",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        1248,
+        139,
+        28,
+        232
+      ],
+      "name": "Item Details",
+      "ref": "e1dbd2644",
+      "role": "page tab",
+      "states": [
+        "selected"
+      ]
+    },
+    {
+      "bounds": [
+        1248,
+        384,
+        28,
+        28
+      ],
+      "name": "Locate",
+      "ref": "ee619d128",
+      "role": "push button"
+    },
+    {
+      "bounds": [
+        593,
+        216,
+        231,
+        23
+      ],
+      "name": "",
+      "ref": "eb506eb7f",
+      "role": "menu"
+    },
+    {
+      "bounds": [
+        593,
+        216,
+        231,
+        20
+      ],
+      "name": "Edsger Dijkstra",
+      "ref": "e533ee4c8",
+      "role": "menu item"
+    },
+    {
+      "bounds": [
+        594,
+        218,
+        101,
+        17
+      ],
+      "name": "Edsger Dijkstra",
+      "ref": "e76bb7381",
+      "role": "label",
+      "text": "￼"
+    },
+    {
+      "bounds": [
+        594,
+        218,
+        101,
+        17
+      ],
+      "name": "Edsger Dijkstra",
+      "ref": "ee5ece46c",
+      "role": "label"
+    }
+  ],
+  "screen": [
+    1280,
+    900
+  ],
+  "truncated": false,
+  "windows": [
+    {
+      "active": true,
+      "bounds": [
+        0,
+        38,
+        1280,
+        881
+      ],
+      "ref": "wdde7c1e4",
+      "title": "My Library - Zotero"
+    }
+  ]
+}

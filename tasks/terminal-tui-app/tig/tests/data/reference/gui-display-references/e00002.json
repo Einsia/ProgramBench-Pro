@@ -1,0 +1,389 @@
+{
+  "base_style": [
+    "bold",
+    "fg=white",
+    "bg=blue"
+  ],
+  "cursor": {
+    "column": 119,
+    "hidden": true,
+    "row": 34
+  },
+  "process": "running",
+  "screen": [
+    "00|2024-01-06 12:00 +0000 Bea Meadow   o (main) Update trail heading",
+    "01|2024-01-05 12:00 +0000 Alex Example M─┐ [origin/main] Merge eastern route",
+    "02|2024-01-04 12:00 +0000 Chen Grove   │ o (feature/east) Mark eastern viewpoint",
+    "03|2024-01-03 12:00 +0000 Ada Rivers   o │ Add safety checklist",
+    "04|2024-01-02 12:00 +0000 Bea Meadow   o─┘ (archive) Document river access",
+    "05|2024-01-01 12:00 +0000 Ada Rivers   I {v1.0} Start field notebook",
+    "06|",
+    "07|",
+    "08|",
+    "09|",
+    "10|",
+    "11|",
+    "12|",
+    "13|",
+    "14|",
+    "15|",
+    "16|",
+    "17|",
+    "18|",
+    "19|",
+    "20|",
+    "21|",
+    "22|",
+    "23|",
+    "24|",
+    "25|",
+    "26|",
+    "27|",
+    "28|",
+    "29|",
+    "30|",
+    "31|",
+    "32|",
+    "33|",
+    "34|[main] cd925f48f7d4e81b937c4796963726ec199bd01f - commit 1 of 6                                                     100%",
+    "35|:set reference-format = (branch) {tag} [remote]"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        0,
+        65
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "fg=white",
+        "bg=green"
+      ],
+      "text": "2024-01-06 12:00 +0000 Bea Meadow   o (main) Update trail heading"
+    },
+    {
+      "columns": [
+        0,
+        23
+      ],
+      "row": 1,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "2024-01-05 12:00 +0000 "
+    },
+    {
+      "columns": [
+        23,
+        36
+      ],
+      "row": 1,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Alex Example "
+    },
+    {
+      "columns": [
+        36,
+        37
+      ],
+      "row": 1,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "M"
+    },
+    {
+      "columns": [
+        37,
+        39
+      ],
+      "row": 1,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "─┐"
+    },
+    {
+      "columns": [
+        40,
+        53
+      ],
+      "row": 1,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "[origin/main]"
+    },
+    {
+      "columns": [
+        53,
+        120
+      ],
+      "row": 1,
+      "style": [
+        "default"
+      ],
+      "text": " Merge eastern route                                               "
+    },
+    {
+      "columns": [
+        0,
+        23
+      ],
+      "row": 2,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "2024-01-04 12:00 +0000 "
+    },
+    {
+      "columns": [
+        23,
+        36
+      ],
+      "row": 2,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Chen Grove   "
+    },
+    {
+      "columns": [
+        36,
+        37
+      ],
+      "row": 2,
+      "style": [
+        "fg=magenta"
+      ],
+      "text": "│"
+    },
+    {
+      "columns": [
+        37,
+        39
+      ],
+      "row": 2,
+      "style": [
+        "fg=blue"
+      ],
+      "text": " o"
+    },
+    {
+      "columns": [
+        40,
+        54
+      ],
+      "row": 2,
+      "style": [
+        "fg=cyan"
+      ],
+      "text": "(feature/east)"
+    },
+    {
+      "columns": [
+        54,
+        120
+      ],
+      "row": 2,
+      "style": [
+        "default"
+      ],
+      "text": " Mark eastern viewpoint                                           "
+    },
+    {
+      "columns": [
+        0,
+        23
+      ],
+      "row": 3,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "2024-01-03 12:00 +0000 "
+    },
+    {
+      "columns": [
+        23,
+        36
+      ],
+      "row": 3,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Ada Rivers   "
+    },
+    {
+      "columns": [
+        36,
+        37
+      ],
+      "row": 3,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "o"
+    },
+    {
+      "columns": [
+        37,
+        39
+      ],
+      "row": 3,
+      "style": [
+        "fg=brown"
+      ],
+      "text": " │"
+    },
+    {
+      "columns": [
+        39,
+        120
+      ],
+      "row": 3,
+      "style": [
+        "default"
+      ],
+      "text": " Add safety checklist                                                            "
+    },
+    {
+      "columns": [
+        0,
+        23
+      ],
+      "row": 4,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "2024-01-02 12:00 +0000 "
+    },
+    {
+      "columns": [
+        23,
+        36
+      ],
+      "row": 4,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Bea Meadow   "
+    },
+    {
+      "columns": [
+        36,
+        37
+      ],
+      "row": 4,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "o"
+    },
+    {
+      "columns": [
+        37,
+        39
+      ],
+      "row": 4,
+      "style": [
+        "fg=brown"
+      ],
+      "text": "─┘"
+    },
+    {
+      "columns": [
+        40,
+        49
+      ],
+      "row": 4,
+      "style": [
+        "fg=cyan"
+      ],
+      "text": "(archive)"
+    },
+    {
+      "columns": [
+        49,
+        120
+      ],
+      "row": 4,
+      "style": [
+        "default"
+      ],
+      "text": " Document river access                                                 "
+    },
+    {
+      "columns": [
+        0,
+        23
+      ],
+      "row": 5,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "2024-01-01 12:00 +0000 "
+    },
+    {
+      "columns": [
+        23,
+        36
+      ],
+      "row": 5,
+      "style": [
+        "fg=green"
+      ],
+      "text": "Ada Rivers   "
+    },
+    {
+      "columns": [
+        36,
+        37
+      ],
+      "row": 5,
+      "style": [
+        "fg=blue"
+      ],
+      "text": "I"
+    },
+    {
+      "columns": [
+        38,
+        44
+      ],
+      "row": 5,
+      "style": [
+        "fg=magenta"
+      ],
+      "text": "{v1.0}"
+    },
+    {
+      "columns": [
+        44,
+        120
+      ],
+      "row": 5,
+      "style": [
+        "default"
+      ],
+      "text": " Start field notebook                                                       "
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 35,
+      "style": [
+        "fg=green"
+      ],
+      "text": ":set reference-format = (branch) {tag} [remote]                                                                         "
+    }
+  ]
+}

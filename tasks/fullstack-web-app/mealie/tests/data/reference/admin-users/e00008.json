@@ -1,0 +1,492 @@
+{
+  "controls": [
+    {
+      "bounds": [
+        4,
+        0,
+        48,
+        48
+      ],
+      "ref": "e11102633781375530811",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        52,
+        0,
+        48,
+        48
+      ],
+      "href": "/g/home",
+      "ref": "e6999663049315888676",
+      "role": null,
+      "tag": "a",
+      "text": ""
+    },
+    {
+      "bounds": [
+        52,
+        0,
+        48,
+        48
+      ],
+      "ref": "e11102632681863902600",
+      "role": null,
+      "tag": "button",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        964,
+        4,
+        214,
+        40
+      ],
+      "placeholder": "Press '/'",
+      "ref": "e8266481313866675366",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "bounds": [
+        1178,
+        6,
+        98,
+        36
+      ],
+      "ref": "e18428108610740647529",
+      "role": null,
+      "tag": "button",
+      "text": "Logout",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        0,
+        48,
+        255,
+        76
+      ],
+      "href": "/user/profile",
+      "ref": "e9026058544016782197",
+      "role": null,
+      "tag": "a",
+      "text": "Change Me\nFavorite Recipes"
+    },
+    {
+      "bounds": [
+        64,
+        84,
+        123,
+        28
+      ],
+      "href": "/user/030410b3-d5cf-40db-abf2-c5bb217db35a/favorites",
+      "ref": "e14013455441632128615",
+      "role": null,
+      "tag": "a",
+      "text": "Favorite Recipes"
+    },
+    {
+      "bounds": [
+        8,
+        133,
+        239,
+        44
+      ],
+      "href": "/admin/site-settings",
+      "ref": "e10374096799150032485",
+      "role": "link",
+      "tag": "a",
+      "text": "Site Settings"
+    },
+    {
+      "bounds": [
+        8,
+        177,
+        239,
+        44
+      ],
+      "href": "/admin/manage/users",
+      "ref": "e4533179736425579737",
+      "role": "link",
+      "tag": "a",
+      "text": "Users"
+    },
+    {
+      "bounds": [
+        8,
+        221,
+        239,
+        44
+      ],
+      "href": "/admin/manage/households",
+      "ref": "e6382640523991824119",
+      "role": "link",
+      "tag": "a",
+      "text": "Households"
+    },
+    {
+      "bounds": [
+        8,
+        265,
+        239,
+        44
+      ],
+      "href": "/admin/manage/groups",
+      "ref": "e12253458221714826105",
+      "role": "link",
+      "tag": "a",
+      "text": "Groups"
+    },
+    {
+      "bounds": [
+        8,
+        309,
+        239,
+        44
+      ],
+      "href": "/admin/backups",
+      "ref": "e11353078765110736382",
+      "role": "link",
+      "tag": "a",
+      "text": "Backups"
+    },
+    {
+      "bounds": [
+        8,
+        378,
+        239,
+        40
+      ],
+      "href": "/admin/maintenance",
+      "ref": "e17876517785289262798",
+      "role": "link",
+      "tag": "a",
+      "text": "Maintenance"
+    },
+    {
+      "bounds": [
+        8,
+        418,
+        239,
+        40
+      ],
+      "ref": "e14080812221142843421",
+      "role": "listitem",
+      "tag": "div",
+      "text": "Debug"
+    },
+    {
+      "bounds": [
+        8,
+        800,
+        239,
+        44
+      ],
+      "ref": "e7515112489125091175",
+      "role": "listitem",
+      "tag": "div",
+      "text": "1\nAnnouncements"
+    },
+    {
+      "bounds": [
+        8,
+        848,
+        239,
+        44
+      ],
+      "expanded": false,
+      "ref": "e9453406036293201081",
+      "role": "listitem",
+      "tag": "div",
+      "text": "Settings"
+    },
+    {
+      "bounds": [
+        388,
+        296,
+        88,
+        36
+      ],
+      "ref": "e5818572154604344896",
+      "role": null,
+      "tag": "button",
+      "text": "Back",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        401,
+        399,
+        355,
+        56
+      ],
+      "expanded": false,
+      "ref": "e15187716297760575289",
+      "role": "combobox",
+      "tag": "div",
+      "text": "User Group\nHome"
+    },
+    {
+      "bounds": [
+        780,
+        399,
+        355,
+        56
+      ],
+      "expanded": false,
+      "ref": "e2628543913837438260",
+      "role": "combobox",
+      "tag": "div",
+      "text": "User Household\nFamily"
+    },
+    {
+      "bounds": [
+        401,
+        485,
+        251,
+        36
+      ],
+      "ref": "e1281173328426571822",
+      "role": null,
+      "tag": "button",
+      "text": "Generate Password Reset Link",
+      "type": "button"
+    },
+    {
+      "bounds": [
+        409,
+        598,
+        718,
+        48
+      ],
+      "label": "User Name",
+      "name": "username",
+      "ref": "e1449974764397445864",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "robin"
+    },
+    {
+      "bounds": [
+        409,
+        668,
+        718,
+        48
+      ],
+      "label": "Full Name",
+      "name": "fullName",
+      "ref": "e12655657248333416816",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "Robin Cook"
+    },
+    {
+      "bounds": [
+        409,
+        738,
+        718,
+        48
+      ],
+      "label": "Email",
+      "name": "email",
+      "ref": "e6211594094711510368",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "text",
+      "value": "robin@example.com"
+    },
+    {
+      "bounds": [
+        409,
+        808,
+        351,
+        48
+      ],
+      "disabled": true,
+      "label": "Password",
+      "name": "password",
+      "ref": "e2101313251791071638",
+      "role": null,
+      "tag": "input",
+      "text": "",
+      "type": "password",
+      "value": ""
+    },
+    {
+      "bounds": [
+        776,
+        808,
+        351,
+        48
+      ],
+      "expanded": false,
+      "ref": "e2165681795933428816",
+      "role": "combobox",
+      "tag": "div",
+      "text": "Authentication Method\nMealie"
+    },
+    {
+      "bounds": [
+        445,
+        947,
+        140,
+        48
+      ],
+      "checked": true,
+      "label": "Administrator",
+      "name": "admin",
+      "offscreen": true,
+      "proxy": true,
+      "ref": "e15909163940532163917",
+      "role": null,
+      "tag": "input",
+      "text": "Administrator",
+      "type": "checkbox",
+      "value": "true"
+    },
+    {
+      "bounds": [
+        812,
+        947,
+        267,
+        48
+      ],
+      "checked": true,
+      "disabled": true,
+      "label": "User can invite others to group",
+      "name": "canInvite",
+      "offscreen": true,
+      "proxy": true,
+      "ref": "e4927735876941658193",
+      "role": null,
+      "tag": "input",
+      "text": "User can invite others to group",
+      "type": "checkbox",
+      "value": "true"
+    },
+    {
+      "bounds": [
+        445,
+        995,
+        280,
+        48
+      ],
+      "checked": true,
+      "disabled": true,
+      "label": "User can manage group settings",
+      "name": "canManage",
+      "offscreen": true,
+      "proxy": true,
+      "ref": "e6697333110183870715",
+      "role": null,
+      "tag": "input",
+      "text": "User can manage group settings",
+      "type": "checkbox",
+      "value": "true"
+    },
+    {
+      "bounds": [
+        812,
+        995,
+        315,
+        48
+      ],
+      "checked": true,
+      "disabled": true,
+      "label": "User can manage foods, tags, and categories",
+      "name": "canOrganize",
+      "offscreen": true,
+      "proxy": true,
+      "ref": "e5027864984580632653",
+      "role": null,
+      "tag": "input",
+      "text": "User can manage foods, tags, and categories",
+      "type": "checkbox",
+      "value": "true"
+    },
+    {
+      "bounds": [
+        445,
+        1043,
+        252,
+        48
+      ],
+      "checked": true,
+      "disabled": true,
+      "label": "User can manage household",
+      "name": "canManageHousehold",
+      "offscreen": true,
+      "proxy": true,
+      "ref": "e4917261974521677614",
+      "role": null,
+      "tag": "input",
+      "text": "User can manage household",
+      "type": "checkbox",
+      "value": "true"
+    },
+    {
+      "bounds": [
+        812,
+        1043,
+        234,
+        48
+      ],
+      "checked": true,
+      "disabled": true,
+      "label": "Enable advanced features",
+      "name": "advanced",
+      "offscreen": true,
+      "proxy": true,
+      "ref": "e16153659421006586282",
+      "role": null,
+      "tag": "input",
+      "text": "Enable advanced features",
+      "type": "checkbox",
+      "value": "true"
+    },
+    {
+      "bounds": [
+        1044,
+        1124,
+        100,
+        36
+      ],
+      "offscreen": true,
+      "ref": "e9707048278508923054",
+      "role": null,
+      "tag": "button",
+      "text": "Update"
+    }
+  ],
+  "controls_truncated": false,
+  "downloads": [],
+  "page_size": [
+    1280,
+    1184
+  ],
+  "scroll": [
+    0,
+    0
+  ],
+  "text": "Mealie\nLogout\nChange Me\nFavorite Recipes\nSite Settings\nUsers\nHouseholds\nGroups\nBackups\nMaintenance\nDebug\n1\nAnnouncements\nSettings\nAdmin User Management\nChanges to this user will be reflected immediately.\nBack\n\nUser ID: 53cebf99-5ed4-4f71-a4e2-8114a38eb085\n\nUser Group\nHome\nUser Household\nFamily\nGenerate Password Reset Link\nUser Details\nUser Name\nFull Name\nEmail\nPassword\nAuthentication Method\nMealie\nThis specifies how a user will authenticate with Mealie. If you're not sure, choose 'Mealie'\nPermissions\nAdministrator\nUser can invite others to group\nUser can manage group settings\nUser can manage foods, tags, and categories\nUser can manage household\nEnable advanced features\nUpdate",
+  "text_truncated": false,
+  "title": "Mealie",
+  "url": "/admin/manage/users/53cebf99-5ed4-4f71-a4e2-8114a38eb085",
+  "viewport": [
+    1280,
+    900
+  ]
+}

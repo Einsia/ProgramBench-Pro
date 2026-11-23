@@ -1,0 +1,28 @@
+MarkText 0.23.0: license, source and configuration
+
+The unmodified Linux x86_64 release archive is downloaded from:
+https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-0.23.0.tar.gz
+SOURCE.json records its SHA-256 digest. solve.sh extracts the release unchanged,
+removes the temporary archive from the installation and drops the unused
+Chromium sandbox helper's set-user-ID bit. Product file contents are unmodified.
+Source for the release is available at https://github.com/marktext/marktext/tree/v0.23.0.
+
+MarkText is licensed under MIT; LICENSE contains the complete upstream text.
+LICENSES/electron.txt and LICENSES/chromium.txt preserve the bundled Electron
+and Chromium/component notices. chromium.txt contains the full textual content
+of LICENSES.chromium.html with HTML presentation removed; the original remains
+in the release archive and extracted product. LICENSES also preserves the
+notices for bundled ced, font-list, keytar and ripgrep. Other Node module
+notices remain embedded in app.asar and the extracted native module resources.
+
+The local start.sh and jail.py configure an English X11/D-Bus/AT-SPI session,
+private HOME/XDG/Electron data under DATA_DIR, renderer accessibility and
+in-process GPU execution. Document arguments are forwarded to the existing
+application instance. jail.py establishes Landlock before starting the product
+and refuses to start if confinement cannot be established. These launchers are
+separate from upstream code. No writable installation directory is required.
+
+This task is not affiliated with or endorsed by the MarkText authors.
+
+The GUI starts in the document outbox so file dialogs open a readable exchange
+directory while the installation root remains non-enumerable.

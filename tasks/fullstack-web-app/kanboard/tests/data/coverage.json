@@ -1,0 +1,219 @@
+{
+  "counts": {
+    "assertions": 1685,
+    "backend": 1561,
+    "checkpoints": 1591,
+    "features": 25,
+    "frontend": 124,
+    "gui_episodes": 61,
+    "program_episodes": 16,
+    "episodes": 77
+  },
+  "features": {
+    "actions": {
+      "assertions": 120,
+      "episodes": [
+        "protocol-actions",
+        "automatic-action"
+      ]
+    },
+    "activity": {
+      "assertions": 46,
+      "episodes": [
+        "protocol-activity",
+        "activity"
+      ]
+    },
+    "analytics": {
+      "assertions": 2,
+      "episodes": [
+        "analytics"
+      ]
+    },
+    "authentication": {
+      "assertions": 7,
+      "episodes": [
+        "login-valid",
+        "login-invalid",
+        "logout"
+      ]
+    },
+    "board": {
+      "assertions": 117,
+      "episodes": [
+        "protocol-board",
+        "columns",
+        "swimlanes",
+        "categories",
+        "board-display"
+      ]
+    },
+    "comments": {
+      "assertions": 49,
+      "episodes": [
+        "protocol-comments",
+        "comments"
+      ]
+    },
+    "dashboard": {
+      "assertions": 2,
+      "episodes": [
+        "dashboard"
+      ]
+    },
+    "export": {
+      "assertions": 8,
+      "episodes": [
+        "export-tasks"
+      ]
+    },
+    "feeds": {
+      "assertions": 16,
+      "episodes": [
+        "protocol-feeds"
+      ]
+    },
+    "files": {
+      "assertions": 46,
+      "episodes": [
+        "protocol-files",
+        "attachments"
+      ]
+    },
+    "groups": {
+      "assertions": 4,
+      "episodes": [
+        "groups"
+      ]
+    },
+    "import": {
+      "assertions": 2,
+      "episodes": [
+        "import-tasks"
+      ]
+    },
+    "jsonrpc": {
+      "assertions": 71,
+      "episodes": [
+        "protocol-jsonrpc"
+      ]
+    },
+    "links": {
+      "assertions": 89,
+      "episodes": [
+        "protocol-links",
+        "task-links"
+      ]
+    },
+    "notifications": {
+      "assertions": 4,
+      "episodes": [
+        "notifications"
+      ]
+    },
+    "permissions": {
+      "assertions": 357,
+      "episodes": [
+        "protocol-permissions",
+        "project-permissions",
+        "viewer-readonly",
+        "custom-roles"
+      ]
+    },
+    "persistence": {
+      "assertions": 48,
+      "episodes": [
+        "protocol-persistence"
+      ]
+    },
+    "profile": {
+      "assertions": 12,
+      "episodes": [
+        "my-profile",
+        "user-language",
+        "user-public-access",
+        "avatar"
+      ]
+    },
+    "projects": {
+      "assertions": 172,
+      "episodes": [
+        "protocol-projects",
+        "project-create",
+        "project-personal",
+        "project-close-reopen",
+        "project-public",
+        "project-remove",
+        "project-duplicate",
+        "overview",
+        "project-import"
+      ]
+    },
+    "search": {
+      "assertions": 89,
+      "episodes": [
+        "protocol-search",
+        "board-filter",
+        "global-search",
+        "custom-filter"
+      ]
+    },
+    "settings": {
+      "assertions": 16,
+      "episodes": [
+        "link-labels",
+        "default-columns",
+        "date-format",
+        "api-token"
+      ]
+    },
+    "subtasks": {
+      "assertions": 59,
+      "episodes": [
+        "protocol-subtasks",
+        "subtasks",
+        "subtask-convert"
+      ]
+    },
+    "tags": {
+      "assertions": 42,
+      "episodes": [
+        "protocol-tags",
+        "project-tags",
+        "global-tags"
+      ]
+    },
+    "tasks": {
+      "assertions": 176,
+      "episodes": [
+        "protocol-tasks",
+        "task-create",
+        "task-edit",
+        "task-move",
+        "bulk-move",
+        "task-position",
+        "task-close-reopen",
+        "task-remove",
+        "task-duplicate-move",
+        "recurrence",
+        "bulk-create",
+        "close-column",
+        "assign-start",
+        "predefined-content"
+      ]
+    },
+    "users": {
+      "assertions": 131,
+      "episodes": [
+        "protocol-users",
+        "user-create",
+        "user-edit-disable",
+        "user-remove",
+        "user-import"
+      ]
+    }
+  },
+  "kit": "1.0.0",
+  "protocol": "episode-evaluation-v2",
+  "version": "1.0.0"
+}

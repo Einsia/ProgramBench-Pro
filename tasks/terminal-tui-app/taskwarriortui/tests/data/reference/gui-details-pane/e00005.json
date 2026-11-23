@@ -1,0 +1,334 @@
+{
+  "cursor": {
+    "column": 104,
+    "hidden": true,
+    "row": 33
+  },
+  "process": "running",
+  "screen": [
+    "00| Tasks   Projects   Timesheet   Calendar                                                                     next [none]",
+    "01|  ID Activ Age Deps P Proje Tag   S  Due Until Descr Urg    ────────────────────────────────────────────────────────────",
+    "02|",
+    "03|•  5       2d       L       erran    14h       Buy g 19.24  Name                  Value",
+    "04|   4 1h    1d       M Work. code     8h        Revie 18.35  --------------------- --------------------------------------",
+    "05|   1       12d      H Home  bills    1d        Pay r 15.94  ID                    5",
+    "06|   3       8d         Home. phone    -2d       Call  11.98  Description           Buy groceries",
+    "07|  12       5d         Work  socia    2h        Team  10.59  Status                Pending",
+    "08|  10       2w       L       garde    6d        Water 8.49   This task is blocking 9 Fix bike",
+    "09|  11       3mo        Music hobby        7mo   Learn 2.30   Entered               2026-05-11 08:00:00 (2d)",
+    "10|   8       10w                                 Read  1.20   Due                   2026-05-14 00:00:00",
+    "11|   2       3w         Work                     Write 1.13   Last modified         2026-05-13 10:00:00 ()",
+    "12|   6       11d        Trave       6d           Plan  1.06   Tags                  errand shop",
+    "13|   9       7d  5                               Fix b -4.96  Virtual tags          BLOCKING DUE MONTH PENDING PRIORITY QU",
+    "14|                                                            UUID                  00000005-0000-4000-8000-000000000005",
+    "15|                                                            Urgency               19.24",
+    "16|                                                            Priority              L",
+    "17|",
+    "18|                                                            ------------------ ------ - ---- - ------",
+    "19|                                                                blocking            1 *    8 =      8",
+    "20|                                                                tags              0.9 *    1 =    0.9",
+    "21|                                                                due             0.711 *   12 =   8.53",
+    "22|                                                                age             0.005 *    2 =  0.011",
+    "23|                                                                UDA priority.L      1 *  1.8 =    1.8",
+    "24|                                                                                               ------",
+    "25|                                                                                                19.24",
+    "26|",
+    "27|                                                            Date                Modification",
+    "28|                                                            ------------------- -----------------------------------",
+    "29|                                                            2026-05-13 10:00:00 Description set to 'Buy groceries'.",
+    "30|                                                                                Due set to '2026-05-14 00:00:00'.",
+    "31|                                                                                Entry set to '2026-05-11 08:00:00'.",
+    "32|                                                                                Priority set to 'L'.",
+    "33|                                                                                Status set to 'pending'.",
+    "34|Filter Tasks",
+    "35|status:pending -WAITING limit:page"
+  ],
+  "size": [
+    120,
+    36
+  ],
+  "styles": [
+    {
+      "columns": [
+        1,
+        6
+      ],
+      "row": 0,
+      "style": [
+        "bold",
+        "reverse"
+      ],
+      "text": "Tasks"
+    },
+    {
+      "columns": [
+        6,
+        120
+      ],
+      "row": 0,
+      "style": [
+        "reverse"
+      ],
+      "text": "   Projects   Timesheet   Calendar                                                                     next [none]"
+    },
+    {
+      "columns": [
+        0,
+        4
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "  ID"
+    },
+    {
+      "columns": [
+        5,
+        10
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Activ"
+    },
+    {
+      "columns": [
+        11,
+        14
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Age"
+    },
+    {
+      "columns": [
+        15,
+        19
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Deps"
+    },
+    {
+      "columns": [
+        20,
+        21
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "P"
+    },
+    {
+      "columns": [
+        22,
+        27
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Proje"
+    },
+    {
+      "columns": [
+        28,
+        33
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Tag  "
+    },
+    {
+      "columns": [
+        34,
+        36
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "S "
+    },
+    {
+      "columns": [
+        37,
+        40
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Due"
+    },
+    {
+      "columns": [
+        41,
+        46
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Until"
+    },
+    {
+      "columns": [
+        47,
+        52
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Descr"
+    },
+    {
+      "columns": [
+        53,
+        58
+      ],
+      "row": 1,
+      "style": [
+        "underline"
+      ],
+      "text": "Urg  "
+    },
+    {
+      "columns": [
+        0,
+        58
+      ],
+      "row": 3,
+      "style": [
+        "bold",
+        "fg=cd0000",
+        "bg=ffffff"
+      ],
+      "text": "•  5       2d       L       erran    14h       Buy g 19.24"
+    },
+    {
+      "columns": [
+        0,
+        58
+      ],
+      "row": 4,
+      "style": [
+        "fg=ffffff",
+        "bg=d75f00"
+      ],
+      "text": "   4 1h    1d       M Work. code     8h        Revie 18.35"
+    },
+    {
+      "columns": [
+        0,
+        58
+      ],
+      "row": 5,
+      "style": [
+        "fg=cd0000"
+      ],
+      "text": "   1       12d      H Home  bills    1d        Pay r 15.94"
+    },
+    {
+      "columns": [
+        0,
+        58
+      ],
+      "row": 6,
+      "style": [
+        "fg=ff0000",
+        "bg=1c1c1c"
+      ],
+      "text": "   3       8d         Home. phone    -2d       Call  11.98"
+    },
+    {
+      "columns": [
+        0,
+        58
+      ],
+      "row": 7,
+      "style": [
+        "fg=d70000"
+      ],
+      "text": "  12       5d         Work  socia    2h        Team  10.59"
+    },
+    {
+      "columns": [
+        0,
+        58
+      ],
+      "row": 8,
+      "style": [
+        "fg=cd0000",
+        "bg=1c1c1c"
+      ],
+      "text": "  10       2w       L       garde    6d        Water 8.49 "
+    },
+    {
+      "columns": [
+        0,
+        58
+      ],
+      "row": 9,
+      "style": [
+        "fg=00af5f"
+      ],
+      "text": "  11       3mo        Music hobby        7mo   Learn 2.30 "
+    },
+    {
+      "columns": [
+        0,
+        58
+      ],
+      "row": 10,
+      "style": [
+        "bg=1c1c1c"
+      ],
+      "text": "   8       10w                                 Read  1.20 "
+    },
+    {
+      "columns": [
+        0,
+        58
+      ],
+      "row": 12,
+      "style": [
+        "bg=00005f"
+      ],
+      "text": "   6       11d        Trave       6d           Plan  1.06 "
+    },
+    {
+      "columns": [
+        0,
+        58
+      ],
+      "row": 13,
+      "style": [
+        "fg=e5e5e5",
+        "bg=7f7f7f"
+      ],
+      "text": "   9       7d  5                               Fix b -4.96"
+    },
+    {
+      "columns": [
+        0,
+        120
+      ],
+      "row": 34,
+      "style": [
+        "reverse"
+      ],
+      "text": "Filter Tasks                                                                                                            "
+    }
+  ]
+}
